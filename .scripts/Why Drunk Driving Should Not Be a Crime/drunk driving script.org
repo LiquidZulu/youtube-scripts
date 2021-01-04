@@ -62,7 +62,7 @@ and further that;
 
 ** Drunk Driving /is/ Reckless Driving
 
-This argument can be more effectively stated as the following;
+This argument can be more effectively stated as the following[1];
 
 #+begin_quote
 Drunk driving is similar in premise to: It should be legal to fire a gun in public.
@@ -100,4 +100,5 @@ Thank you for watching to this point, this video was based on an article by Llew
 
 * Bibliography
 
-[0] /The Ethics of Liberty/ by Murray Rothbard
+[0] /The Ethics of Liberty/ by Murray Rothbard $\newline$
+[1] Pallad#4587, playing devils advocate
