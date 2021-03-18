@@ -1,0 +1,151 @@
+#+TITLE: Yes, Socialism IS When the Government "Does Stuff"
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+
+* Introduction
+This is a meme you will often be sent when debating with international-socialists, so much that it is taken as true even by supporters of liberty. But is this the case? Let us look at what Wolff is saying in this clip and see if it lines up with the etymylogical reality of socialism.
+
+* What Wolff is saying socialism is and is not
+** [0 39:41]
+*** Quote
+#+begin_quote
+We have a mass of people, most Americans, who think that socialism has something to do with the government being in charge. No... thats not the idea. The idea was to get the government because with that power you could then make the transition. It wouldn't /be/ the transition --- it would be the step that would /allow/ you to make the transition. What would the transition be? Let's go back; to reorganise enterprises, factories, offices, stores, so that they would work in the interests of the whole community because the whole community would be making the decisions.
+#+end_quote
+*** Analysis
+Ok let's look at what he is saying here;
+#+begin_quote
+We have a mass of people, most Americans, who think that socialism has something to do with the government being in charge. No... thats not the idea.
+#+end_quote
+So in this first section he is saying that (1) socialism has /nothing/ to do with the government being in charge.
+
+#+begin_quote
+The idea was to get the government because with that power you could then make the transition.
+#+end_quote
+Ok but here he is saying that (2) you need to take control of the government to make the transition, so socialism clearly /does/ have something to do with the government being in charge or else it wouldnt have "that power" that Wolff's socialism requires.
+
+#+begin_quote
+It wouldn't /be/ the transition --- it would be the step that would /allow/ you to make the transition. What would the transition be? Let's go back; to reorganise enterprises, factories, offices, stores, so that they would work in the interests of the whole community because the whole community would be making the decisions.
+#+end_quote
+Yes and how would you go about all this reorganising? With "that power" that the government weilds, this /is/ something to do with the government being in charge, this is /not/ a system where the government leaves people alone --- leave alone, also known as laissez faire is what /capitalism/ provides, socialism is inherently opposed to laissez faire and is therefore inherently in favour of government intervention.
+
+** [0 40:36]
+*** Quote
+#+begin_quote
+The question was; "did the state transform the economy", and the answer is no. They didn't. Not becuse they're bad and not because theyre stupid or nothing like that. This is the way the history worked out --- it's an understandible thing.
+#+end_quote
+*** Analysis
+Wolff's point here appears to be that /because/ the state failed to transform the economy in the way he wants that socialism isn't statist, not even the argument that the specific state he is talking about, the USSR, wasn't socialist which would also be an easy claim to argue against. You can say any number of things about any individual state one could imagine and you can say that they aren't socialist for reasons x, y and z but that does asolutely nothing to further the idea that socialism has /nothing/ to do with statism.
+
+** [0 40:52]
+*** Quote
+#+begin_quote
+Poor Stalin. Well he had to go to the Russian people who had sacraficed unspeakable in their lives. And what was he going to say to them? "Thank you very much, youve sacraficed unbelievably now for the last 15 years," it's 1930, "since the revolution, I'm glad to announce to you all that what we have acheived is... state-capitalism. We've got a-whole-nother sacrafice for god knows how many years to get to...". They would have ridden him out of town on a rail. He couldn't... so he did what politicians do --- he substituted the wish for the reality. "We've made it; we're here --- socialism is when the government does stuff, and its more socialism the more stuff it does, and when it does a real lotta stuff; its communism."
+#+end_quote
+*** Analysis
+We have made it indeed, so the meme quote is a parody of stalin redefining socialism to what the USSR was doing. The argument Wolff is making here will fall apart if only I could show "state-capitalism" to be an oxymoron, which I will do later in this video, for now I will give my definition's of socialism, capitalism and much more and I will give a breif explanation of where they come from and I will cite my sources for that definition --- predominently the Oxford English dictionary.
+
+* Episteme
+** Private
+*** [[Ref]]
+[1 ./words/private][2 pp. 1413][3 ./browse/private]
+*** Definition
+Belonging to or for the use of one particular person
+*** Origin
+Latin /privus/, 'single, individual'
+** Public
+*** [[Ref]]
+[1 ./words/public][2 pp. 1435][3 ./browse/public][4][5]
+*** Definition
+of or concerning the people as a whole
+*** Origin
+Latin /publicus/, 'of the state'
+** Common
+*** [[Ref]]
+[1 ./words/common][2 pp. 350-351][3 ./browse/common]
+*** Definition
+belonging to or invoving the whole of a community or the public at large
+** Group
+*** [[Ref]]
+[2 pp. 775]
+*** Definition
+a number of people or things that are located, gathered or classed together
+** Nation
+*** [[Ref]]
+[1 ./words/nation][2 pp. 775][3 ./browse/nation]
+*** Definition
+a large body of people united by common descent, history, culture, or language, inhabiting a particular state or territory
+** Private/Free Market
+*** [[Ref]]
+[1 ./words/free%20market][3 ./browse/free-market]
+*** Definition
+A society without conflict
+*** Explanation
+[[Private]] individuals engaging in voulntary interaction
+** Private Sector
+*** [[Ref]]
+[1 ./words/private%20sector][2 pp. 1413][3 ./browse/private-sector][6]
+*** Definition
+1. the part of the national economy that is not under the direct control of the state
+2. businesses and industries that are not owned or controlled by the government
+*** Notes
+In a [[Private/Free Market]] this would be all there is and as such such a market would consist of small firms with massive competition as massive corporations only survive thanks to parasitic government aid. The reason this is is due to the increased difficulty of internal calculations due to the lack of an internal market in the company.
+** Public Sector
+*** [[Ref]]
+[1 ./words/public%20sector][3 ./browse/public-sector]
+*** definition
+The subset of the economy that is under government control.
+** Capitalism
+*** [[Ref]]
+[1 ./words/capitalism][2 pp. 258][3 ./browse/capitalism][6 pp. 15]
+*** Definition
+1. [[Private]] control of the means of production
+2. an economic and political system in which trade and industry are controlled by [[Private]] owners, rather than by the state
+*** notes
+Laissez-Faire means "leave alone"
+** Private Enterprise
+*** [[Ref]]
+[1 ./words/private%20enterprise][2 pp. 1413]
+*** Definition
+A business or industry that is managed by independent companies or private individuals rather than being controlled by the state.
+** Collectivism
+*** [[Ref]]
+[1 ./words/collectivism][2 pp. 341][3 ./browse/collectivism]
+*** Definition
+the practice or principle of giving a group priority over each [[Private]] individual in it.
+** Socialism
+*** [[Ref]]
+[1 ./words/socialism][2 pp. 1693][3 ./browse/socialism]
+*** Definition
+1. A political and economic theory of social organisation which advocates that the means of production, distribution, and exchange should be owned or regulated by the community as a whole.
+2. (in marxist theory) a transitional social state between the overthrow of capitalism and the realisation of communism.
+*** notes
+Prior to Lenin & Stalin Communism was synonymous with socialism
+Ein Volk, ein Reich, ein Fuhrer = One Class, One State, One Comrade
+
+
+* Arguments and counterarguments
+** Marxism is a subset of socialism, not the other way around
+Often people will conflate socialism and Marxism, Wolff does this constantly in the previous clips. This is a subversive view that has taken root thanks to the overtly Frankfurt and Keynesian influenced lens taught to most people. But it is not the case --- Marx and Engles built their communism on a long history of prior thinkers, Marx himself believed that primitive man practiced Marxism. The earliest recorded instance of thinkers contemplating a classless and stateless society appears to be in the works of Pythagoras and Plato. But this is all only talking about Marxism, there were socialist thinkers in the mid 1800s, namely Charles Fourier. Over the coming centuries the ideas of social control over the means of production would spawn many ideologoies, Maxism, National-Socialism, Syndicalism -- which became fascism -- and many more, the common feature of them all is that they are all statist in nature, which I will show now.
+
+** Socialism is Statism
+Per our definition -- corroborated by 3 separate mainstream dictionaries -- socialism is, outside of marxism, defined as; group control of the economy. Now this group can be any number of things, it can be the workers, or the Volk, or soviets, but the defining feature is it has control over the economy. So this group must control the public sector, which is controlled by the government. So the group that controls the economy, the subset that it has control over being the public sector, is the government, or the state. So by our mainstream definitions a society is socialist to the extent that there is a public sector and capitalist to the extent that there is a private sector. Statism /is/ socialism, socialism /is/ statism.
+
+** State Capitalim
+To carry on from this we can now see that "state capitalism" is oxymoronic --- capitalism being private control of the means of production so the private sector is the subset of the economy that is capitalist in nature. And further that; a free market would be one where the entire economy is the private sector, it would be Laissez-Faire or "leave alone", in this free market any existence of coercion or aggression, that is any actions that cuase a conflict will be perversions of the market, giving the definition above. This all means that capitalism is explicitly non-state in the same way that socialism is explicitly state. So "state capitalism" essentially means "state-non state".
+
+** You wont expect large companies in ancap
+A sceptic may pose here that; pure capitalism, i.e. anarcho-capitalism, is not truly anarchist as monopolies will inevitably arise and take over the market essentially acting as states. This assertion relies on the existence of so-called "natural monopolies" and has long been used as an argument for coercive monopolisation of several industries. In simple terms, a natural monopoly is said to arise when there is a relatively high fixed cost in production, causing long-run average total costs to decline as the company scales up. In such industries, the theory goes, a single producer will eventually be able to produce at a lower cost than any two other producers, thereby creating a "natural" monopoly. Higher prices will result if more than one producer supplies the market[7].
+
+Firstly this "natural monopoly" theory was not invented by economists then trialled, first the state implemented their various monopolies and many years after interventionist economists attempted to justify this /ex-post/. Secondly the theory is ahistoric --- no example of a natural monopoly can be found, no example where one producer acheives a lower long-run average total cost than everyone else in an industry and thereby establishing a permentant monopoly. You may be pulling up many examples of monopolised industries that were saved by government right now, but save your effort until after I discuss a number of common examples below.
+
+* Ref
+[0] [[https://www.youtube.com/watch?v=ysZC0JOYYWw][Wolff, R. D. Socialism For Dummies.]]
+[1] https://www.wordnik.com/
+[2] Oxford Dictionary of English, Oxford University Press, Third Edition 2010.
+[3] https://www.dictionary.com/
+[4] https://latin-dictionary.net/definition/32212/publicus-publica-publicum
+[5] https://www.etymonline.com/word/public
+[6] Mises, L. Socialism
+[7] [[https://mises.org/library/myth-natural-monopoly][DiLorenzo, T. J. The Myth of Natural Monopoly]]
