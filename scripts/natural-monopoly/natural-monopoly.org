@@ -1,19 +1,19 @@
 #+TITLE:Why Monopolies Wont Form in a Free-Market
 #+AUTHOR:LiquidZulu
 #+BIBLIOGRAPHY:e:/Zotero/library.bib
-#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medi
-cine.csl
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
 #+DATE:Wed Mar 17 11:22:07 2021
 /This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
 
 * Introduction
-It is often said that Anarcho-Capitalism is not truly anarchist because in a free market the lack of anti-trust laws will lead to the innevitable formation of "natural" monopolies. This assertion relies on the existence of so-called "natural monopolies" and has long been used as an argument for coercive monopolisation of several industries.
+It is often said that Anarcho-Capitalism is not truly anarchist because in a free market the lack of anti-trust laws will lead to the innevitable formation of "natural" monopolies. This assertion relies on the existence of these natural monopolies and has -- ironically enough -- long been used as an argument for /coercive/ monopolisation of several industries. In addition to these naturally forming monopolies, socialists will often point to ways that evil capitalists can manipulate the market to kill off their competition. In this document I will go over why claims of free market monopolisation are greatly exagerated and why the counter is true --- that in a free market businesses will not grow very large at all.
+/See: [[The Economic Calculation Problem]]/
 
 * What are natural monopolies
 In simple terms, a natural monopoly is said to arise when there is a relatively high fixed cost in production, causing long-run average total costs to decline as the company scales up. In such industries, the theory goes, a single producer will eventually be able to produce at a lower cost than any two other producers, thereby creating a "natural" monopoly. Higher prices will result if more than one producer supplies the market[0].
 
 * Why you wont expect monopolies in a free-market
-To demonstrate why you shouldnt expect a natural monopoly to arise I borrow an argument from JungianTrip[fn:1].
+For a quick demonstration as to why you shouldn't expect a natural monopoly to arise I borrow an argument from JungianTrip[fn:1].
 
 Let's say somehow I acquire 100% of the market share. What now?
 1. I price gouge because I control 100% of market X ⇒ competition arises because people can do it for cheaper.
@@ -21,36 +21,22 @@ Let's say somehow I acquire 100% of the market share. What now?
 I expand on point 2 below when discussing DiLorenzos argument in reference to Standard Oil.
 /See: [[Predatory Pricing]]/
 
-* No examples of natural monopoles exist
-Firstly this "natural monopoly" theory was not invented by economists then trialled, first the state implemented their various monopolies and many years after interventionist economists attempted to justify this /ex-post/. Secondly the theory is ahistoric --- no example of a natural monopoly can be found, no example where one producer acheives a lower long-run average total cost than everyone else in an industry and thereby establishing a permentant monopoly. You may be pulling up many examples of monopolised industries that were saved by government right now, but save your efforts until after I discuss a number of common examples below. In fact, as DiLorenzo has pointed out[0], many of the supposed "trusts" of the late 19th century were, in fact, dropping their prices and expanding their output faster than the rest of the economy --- they were the most dynamic and competitive of all industries, making them scarcely monopolistic. Perhaps this is why they were targeted by protectionist legislators and subjected to "antitrust" laws.
+** The Economic Calculation Problem
+/See: Man, Economy, and State, with Power and Market[fn:2] for more information/
+The Economic Calculation Problem, or ECP, is the central flaw of all central planning --- the idea being that without prices you cannot know what is desired and what is not desired. And because you do not know that you have no way of knowing whether you are efficiently allocating resources.
 
-To demonstrate this point I borrow an excerpt from "Competition in Public Utility Industries" by Harold Demsetz[1 pp. 78] where he goes over the non-existence of monopoly in the utilities:
-#+begin_quote
-Six electric light companies were organized in the one year of 1887 in New York City. Forty-five electric light enterprises had the legal right to operate in Chicago in 1907. Prior to 1895, Duluth, Minnesota, was served by five electric lighting companies, and Scranton, Pennsylvania, had four in 1906. … During the latter part of the 19th century, competition was the usual situation in the gas industry in this country. Before 1884, six competing companies were operating in New York City … competition was common and especially persistent in the telephone industry … Baltimore, Chicago, Cleveland, Columbus, Detroit, Kansas City, Minneapolis, Philadelphia, Pittsburgh, and St. Louis, among the larger cities, had at least two telephone services in 1905.
-#+end_quote
-In an extreme understatement, Demsetz concludes that "one begins to doubt that scale economies characterized the utility industry at the time when regulation replaced market competition."
+*** An Example
+To demonstrate this idea I borrow an example from /Learn Liberty/[fn:3] --- /see also [[James J. Hill]] for a real world example of this/. Imagine you are the commissar of railroads in the USSR and you want to build a railroad from city A to city B but between the cities is a mountain range. You can either build around the mountains or tunnel through them. Building through the mountains will use up far less steel as the route would be shorter, and the steel you save here can be used for many other tasks. Building around the mountains, however, will use up far less engineering as you dont need to work out how to build the tunnel.
 
-But what if some of these companies attempted to merge, would that not lead to a monopoly? We have a historical example of such an attempt. In 1880 there were three competing gas companies in Baltimore who fiercely competed with one another. They tried to merge and operate as a monopolist in 1888, but a new competitor, Thomas Edison, who foiled their plans. The introduction of his lightbulb to the market threatened all gas companies as there was now a cheaper and safer source of indoor light. From that point on there was competition between both gas and electric companies, all of which incurred heavy fixed costs which led to economies of scale. Nevertheless, no free-market or "natural" monopoly ever materialized.
+Which route should you choose, for the good of the nation? To answer, you need to know whether the engineering or the steel is most needed elsewhere, but how can you find this out? First you would need to tally up all the uses for both engineering and for steel in that instant, next you would have to know a sufficient amount about each of those uses to know how valuable they are to the nation as a whole. And to know how valuable they would be to the nation as a whole you would need to know how much each individual would value each of those uses. Each of these steps becomes more insurmountable than the last, not to mention that this information would have to be timely, as peoples subjective valuations change constantly.
 
-** Standard Oil
-Standard Oil is often cited as the poster child of monopoly, it will be thrown in the fact as "proof" that the free market leads to monopolisation and thus requires an even bigger monopoly for regulation. Standard is an espicially odd case to point out the success of anti-trust laws given how it's peak market share of 90% in the late 1800s fell to 65% by the time of the supreme courts ruling. The market had regulated itself as they say.
+Now imagine, instead, that you are the CEO of a railroad company in a free market. You similarly want to build a railroad from city C to city D but there is a mountain range in the way. So how might you choose which route to build? Easy, you pick the cheapest route, in doing so you will make a greater profit. But heres the kicker; in choosing the selfish route the CEO has picked the route that most benefits the people as a whole, because those prices that he was using were a reflection of the desires of all other market participants. Say that the tunnel was cheaper, this is because, for some reason, there is a higher demand for the steel than there would be otherwise, so to use less of it you allow other people to make use of it, and for this you are rewarded with greater profits. It is for this reason that capitalism is so successful, to be selfish in a market is to provide the greatest benefit to others.
 
-Criticism of Standard Oil's predatory and monopolistic practices normally points to the following areas;
-+ Destruction of competition through
-  1. Aggressively buying up competitors
-  2. Predatory Pricing
-  3. Preferential rail rates
-+ Monopoly Pricing
+*** The ECP Applied to Firms
+The ECP isn't just a problem for central planners in governmens, it applies to /all/ central planning, including that done by firms. This means that as a firm grows in size it is less able to tell whether it is being efficient, so you wouldn't expect big businesses in a free market to last very long at all if they even formed in the first place. This is, I think, the single greatest missconception people have when it comes to free markets, people assume that there will be gigafirms who may do as they wish unchallenged, but the reality is that there would be /immense/ competition. If people understand this point I think anarchy would seem far less strange and scary.
 
-*** Destruction of competition
-**** Aggressive buyouts
-It is said that Std. Oil would aggressively buy out smaller competitiors in a bid for market control. It is not the case that Std. Oil's buyouts were aggressive, as Ralph Hidy[10 pp. 33] notes:
-#+begin_quote
-Rockefeller and his associates ... won the confidence of competitors through comprehensive voluntary association.
-#+end_quote
-Many of the former executives were offered high-ranking positions and a gurantee of equality in management in Std. Oil after their company was purchased[10 pp. 34], not something you would expect from an aggressive buyout. It appears in all respects that the trust was more of an association of companies, even maintaining competition between the various member companies[10 pp. 71]. Furthermore, these non-aggressive buyouts were in no way universal, several companies resisted being bought out and remained competitive[10 pp. 34].
-
-**** Predatory Pricing
+** Predatory Pricing
+/See: [fn:4] for more information on this topic./
 
 The idea of predatory pricing begs the question "what qualifies as predatory pricing?" Price cutting by itself is not a negative thing in the market and is indeed how competition works. When companies employ more efficient methods of production, they may lower their prices, thus gaining an advantage on the market. Furthermore, price cutting is an effective and recognized tactic to enter a new market which may already have an existing market power.
 
@@ -67,8 +53,84 @@ Fourth, there is the danger that the price war will spread to surrounding market
 Fifth, the theory of predatory pricing assumes the prior existence of a "war chest of monopoly profits" that the predator can use to subsidize its practice of pricing below average cost. But how does that war chest come into being if the firm has not yet become a monopoly? That part of the theory is simply a non sequitur.
 #+end_quote
 
-Furthermore, the idea of predatory pricing only considers the supply side of the equation without taking into account the demand side. Assuming that a company manages by some magical means to use predatory pricing to destroy a few competitors and then institute "monopoly prices" (see below), consumers in other parts of the nation who hear of such behavior must really be of a low mental caliber to buy up the cheaper products of Standard Oil when it comes in the future to their market knowing that this would help Standard Oil destroy competition and institute new high prices.
+Furthermore, the idea of predatory pricing only considers the supply side of the equation without taking into account the demand side. Assuming that a company manages by some magical means to use predatory pricing to destroy a few competitors and then institute "monopoly prices" (see [[Monopoly Pricing]]), consumers in other parts of the nation who hear of such behavior must really be of a low mental caliber to buy up the cheaper products of a monopolist when it comes in the future to their market knowing that this would help the monopolist destroy competition and institute new high prices.
 
+To abstract this further, imagine you have just driven out your competitors and have suffered immense losses in doing so -- as you had the largest market share you would lose the most when pricing unprofitibly -- your, now bankrupt, competitors will sell their equipment for pennies on the dollar allowing new competitors to easily enter the industry. Each subsequent wave of competition will have lower initial costs making each one harder to price out than the last --- in addition the longer the would be monopolist continues this the more losses they rack up.
+
+*** Predatory Counter-Strategies
+
+**** Min/Max Price Resale Agreements
+There are a few naturally incentivised paths towards attacking any company that may attempt to engage in predatory pricing that may be employed by the smaller firms. These counter-strategies come in many forms and the first that I will discuss is that of minimum and maximum price resale agreements. Imagine Walmart wishes to be the sole drug dispenser in the US so they engage in predatory pricing, what would happen if they are successful and they jack their prices up? Fewer drugs would be sold. Now imagine what pharma-x, a manufacturer of drugs, would be thinking --- they would not want fewer drugs to be sold. Therefore pharma-x has an incentive to prevent Walmarts plan, to do this they may implement a minimum resale price into their agreement with walmart to stop any sort of predatory pricing. Now suppose pharma-x were asleep and forgot to implement this minimum resale price so now Walmart is the only dispenser --- this is no worry, they can simply implement a maximum resale price so that walmart cant jack prices up. It is very important to note here that anti-trust laws often forbid the use of these agreements.
+**** Consumer Behaviour
+Another counter-stragegy can be employed not by competitors but by consumers --- whilst the monopolist is hemorraging funds by selling goods far cheaper than they ought to be sold for, consumers can simply stock up on the product making the monopolist need to wait even longer before they may start selling once more. This stocking up needn't require any forethought or altruism on the consumers part either, they can simply see a product on sale and decide they want to buy as much as they can in case the sale ends.
+
+In addition to this, any firm that is the target of predatory pricing may offer their customers long-term contracts above the predatory price, these contracts would be accepted by customers who recognise that the predatory price will be followed by a monopolistic price.
+**** Incentive to Loan to Prey
+In the event of a price war any lenders of capital have a strong incentive to loan to the supposed prey, namely because the prey will incur far smaller losses than the predator. Any risk that lenders run by loaning to the prey may be offset by a sufficient interest rate, the argument is put best by George Stigler, he notes that any prey, say of Standard Oil, may go to a lender with the following proposal;
+#+begin_quote
+There is a threat of a three-month price war, during which I will lose $10,000, which unfortunately I do not possess. If you lend me $10,000, I can survive the price war --- and once I show your certified check to Rockefeller the price war will probably never be embarked upon. Even if the price war should occur, we will earn more by cooperation afterward than the $10,000 loss, or Rockefeller would never embark upon the strategy.
+#+end_quote
+
+
+*** Predation as a Natural and Beneficial Component of Competition
+The theory of Predatory Pricing makes one fatal error in it's assumptions --- it fails to see competition as the /dynamic/ rivalry that it is and therefore assumes that pricing below average cost is a necessary evil. In fact, the theory relies on the perfect competition model of economics which sees any price other than the equilibrium price -- equalling average total costs -- as failures of the market.
+
+In this spirit you will often hear socialists binding business in a Kafka trap of sorts --- megamart raising their prices is a sign of price gouging that must be stopped, megamart lowering their prices is evidence of a grand conspiracy to kill all competition, and for a cherry on top, if megamart keeps their prices the same you can accuse them of price fixing. There will always be a study or an article from some Keynesian economist who has warped the numbers to your desired conclusion that capitalism is evil, no matter what it does.
+
+To view competition as a dynamic rivalry you are able to see price cutting, product differentiation, and advertising as important elements of a competitive market -- which seems so obvious it is odd to say -- but in the perfect competition model all of these factors are excluded, by definition. Perfect competition, paradoxically, means the absence of all competitive activities. When looking at the topic of predatory pricing through the lens of dynamic competition the concept becomes an odd one to worry about. Cutting prices below cost is an important way for newer businesses to break into a market or for older, more established businesses to grab a larger market share. The former case is exemplified by the local pizza parlor that tries to lure customers away from older, more established businesses with a "two-for-one" special. It may lose money in the short run, but such temporary losses should be viewed as an investment in future business. The pizza parlor is using lower prices today to increase its clientele tomorrow. The latter case -- that of an established business that becomes more entrepreneurial and makes a grab for larger a market share -- is exemplified by Henry Ford.
+
+In 1908 when Ford first started producing the Model T, the first car intended for the masses, he lost money and market share to Buick, Oldsmobile, and his other competitors. Two years later saw a great year for the automobile industry which allowed most to raise their prices substantially, and this was the course of action that Ford's advisors recommended. But Ford had a different plan --- instead of raising his prices to ride the boom he lowered the price by 20% to $780, which was below his average total cost per unit. His gamble was that the lower price would see enough of an increase in sales to allow him to reduce his per unit cost enough to make a profit. And as George Gilder has explained, Ford's gamble paid off:
+#+begin_quote
+Ford set his price not on the basis of his existing costs or sales but on the basis of the much lower costs and much expanded sales that might become possible at the lower price. The effect in the case of Henry Ford in 1910 was a 60 percent surge in sales that swept the Model T far ahead of Buick... In the recession year of 1914, he cut prices twice, and sales surged up while other companies failed. By 1916, he had reduced the price of a Model T to $360 and increased his market share from 10 percent to 40 percent... After cutting prices 30 percent during the 1920 economic crisis, Ford commanded a 60 percent share of [the] market.
+#+end_quote
+This "predation" did indeed harm his less efficient and less savvy competition but to the benefit of the consumer --- surely a good thing. If muckraking journalists lake Ida Tarbell had cranked out similar propaganda against Ford as they did against [[Standard Oil]], perhaps the Model T would never have been produced and only the wealthy would be able to drive still.
+
+As Freidrich Hayek has noted; competition is a "discovery procedure," and one in which below-cost pricing is an element of vital importance in finding the apt price, never coming at a detriment to the consumer. There are numerous reasons for price cutting one can imagine without needing to conjur up images of evil capitalists plotting monopolistic domination. It could be that a business is keeping up with their competitors price cuts, perhaps they are looking to introduce unfamiliar products to consumers, the goods may be perishible or undesired and thus must be sold at any price to minimise losses. The seller may have built a large capacity plant that is more efficient at larger sales volumes so demand must be stimulated -- as Henry Ford did -- or there may be an excess of supply in the market so the seller is forced to charge a lower price until demand increases again.
+
+Businesses that accuse their rivals of predation are simply unwilling or unable to produce efficiently enough to meet their rivals' lower prices --- it is a cowardly tactic to utilise the might of the state to destroy efficient processes and cheap products.
+
+*** Herbert Dow --- Cartel Killer
+Herbert Dow was a Chemical Industrialist and founder of Dow Chemical. The focus here will be his work in chlorine and bromine --- two cases of the failure of predation.
+
+**** Chlorine
+Dow got into the Clorine business in the mid 1890s whilst it was selling at $3.50 per hundredweight and shortly after the British manufacturers lower their price to $1.87. Dow matches this. Britain goes down to $1.65, Dow matches again. Britain drops to $1.25 making a loss, this causes other american firms to drop out but Dow stays in. Then Britain says they will sell at $0.885 so in 1904 Dow enters into contracts promising to sell at $0.86 and as soon as these contracts are finalised the British crank the price back up to $1.25. This would seem to be the death of Dow but he honours his contracts and remains in business.
+**** Bromine
+The bromine case is an even more stark failure of predatory pricing --- one where the predation helps the little guy rather than harms them. When Dow decided to expand his bromine selling to Europe a German cartel was the prominent seller and their price was $0.49, but Dow was able to charge only $0.36, much to the chagrin of the Germans.
+
+Dow received a visit from a representitive of the cartel informing him that they had evidence that he was selling in europe. Dow confirmed that this was the case and the cartel told him that he wasn't allowed to sell on their turf and tell him that if he continues they will drive him out of the industry for good. As Dow continued selling the cartel began to sell at $0.15 in the US, a massive loss.
+
+Dow decides to take advantage of this and buys up the cheap bromine through an agent in the US which he then resells at $0.27 in Europe. Seeing that Dow has not been bankrupt yet the cartel lower their US price to $0.105, this pleases Dow. Before they work out what is going on they meet with Dow and warn him that they will continue to flood the US with cheap Bromine. Eventually they do figure out his plan but they don't know how exactly to stop him.
+
+Dow says; "When this 15 cent price was made over here intead of meeting it we pulled out of the american market and used all of our production to supply the foreign demand. This, as we afterword learned, was not what they anticipated we would do. We are absolute dictators of the situation, one result of this fight was to give us a standing all over the world, we are in a much stronger position than we ever were." His lawyer remaks that his "...mind does not work according to any normal law." The supposedly surefire method of eliminating competition through cartels and predatory pricing was overcome with a little creative thinking and was perhaps the single greatest thing that could have happened to Dow.
+
+* No examples of natural monopoles exist
+Firstly this "natural monopoly" theory was not invented by economists then trialled, first the state implemented their various monopolies and many years after interventionist economists attempted to justify this /ex-post/. Secondly the theory is ahistoric --- no example of a natural monopoly can be found, no example where one producer acheives a lower long-run average total cost than everyone else in an industry and thereby establishes a permentant monopoly. You may be pulling up many examples of monopolised industries that were saved by government right now, but save your efforts until after I discuss a number of common examples below. In fact, as DiLorenzo has pointed out[0], many of the supposed "trusts" of the late 19th century were, in fact, dropping their prices and expanding their output faster than the rest of the economy --- they were the most dynamic and competitive of all industries, making them scarcely monopolistic. Perhaps this is why they were targeted by protectionist legislators and subjected to "antitrust" laws.
+
+To demonstrate this point I borrow an excerpt from "Competition in Public Utility Industries" by Harold Demsetz[1 pp. 78] where he goes over the non-existence of monopoly in the utilities:
+#+begin_quote
+Six electric light companies were organized in the one year of 1887 in New York City. Forty-five electric light enterprises had the legal right to operate in Chicago in 1907. Prior to 1895, Duluth, Minnesota, was served by five electric lighting companies, and Scranton, Pennsylvania, had four in 1906. … During the latter part of the 19th century, competition was the usual situation in the gas industry in this country. Before 1884, six competing companies were operating in New York City … competition was common and especially persistent in the telephone industry … Baltimore, Chicago, Cleveland, Columbus, Detroit, Kansas City, Minneapolis, Philadelphia, Pittsburgh, and St. Louis, among the larger cities, had at least two telephone services in 1905.
+#+end_quote
+In an extreme understatement, Demsetz concludes that "one begins to doubt that scale economies characterized the utility industry at the time when regulation replaced market competition."
+
+But what if some of these companies attempted to merge, would that not lead to a monopoly? We have a historical example of such an attempt. In 1880 there were three competing gas companies in Baltimore who fiercely competed with one another. They tried to merge and operate as a monopolist in 1888, but a new competitor, Thomas Edison, came along and foiled their plans. The introduction of his light bulb to the market threatened all gas companies as there was now a cheaper and safer source of indoor light. From that point on there was competition between both gas and electric companies, all of which incurred heavy fixed costs which led to economies of scale. Nevertheless, no free-market or "natural" monopoly ever materialized.
+
+** Standard Oil
+Standard Oil is often cited as the poster child of monopoly, it is frequently thrown in the face of libertarians as "proof" that the free market leads to monopolisation and thus requires an even bigger monopoly for regulation. Standard is an especially odd case to point out the success of anti-trust laws given how it's peak market share of 90% in the late 1800s fell to 65% by the time of the supreme courts ruling. The market had regulated itself as they say.
+
+Criticism of Standard Oil's predatory and monopolistic practices normally points to the following areas;
++ Destruction of competition through
+  1. Aggressively buying up competitors
+  2. [[Predatory Pricing]]
+  3. Preferential rail rates
++ Monopoly Pricing
+
+*** Destruction of competition
+**** Aggressive buyouts
+It is said that Std. Oil would aggressively buy out smaller competitiors in a bid for market control. It is not the case that Std. Oil's buyouts were aggressive, as Ralph Hidy[10 pp. 33] notes:
+#+begin_quote
+Rockefeller and his associates ... won the confidence of competitors through comprehensive voluntary association.
+#+end_quote
+Many of the former executives were offered high-ranking positions and a gurantee of equality in management in Std. Oil after their company was purchased[10 pp. 34], not something you would expect from an aggressive buyout. It appears in all respects that the trust was more of an association of companies, even maintaining competition between the various member companies[10 pp. 71]. Furthermore, these non-aggressive buyouts were in no way universal, several companies resisted being bought out and remained competitive[10 pp. 34].
 **** Preferential Rail Rates
 Standard Oil did indeed make deals with railroads for cheaper product transport, as did many of its competitors, hardly making it an unfair market practice. In fact, almost all of the refiners in the country enjoyed some of the advantages of favorable railroad rates at one time or another [10 pp. 202]. Irwin, one of Standard's competitors, notes that everyone got rebates[11 pp. 147] and at the time railroads were -- in fact -- quietly seeking the business of Standard Oil's competitors[11 pp. 198].
 
@@ -84,17 +146,17 @@ The charge of monopolistic pricing from standard appears entirely unfounded. In 
 Now, I'm not much of an empiricist but it seems that if standards growth had any effect on the price of oil it was that it decreased the price. It becomes easy to see how this could be the case when we consider how exactly Standard saw such immense growth. The reason people bought Standard over her competitors is that Rockefeller made massive improvements in efficiency and thus could charge a lower price than anyone else. If he were to try and engage in monopoly pricing as people worry he would lose his competitive edge.
 
 ** Vanderbilt
-For my research on Vanderbilt's supposed steamboat monopoly I am indebted to the work of Tom Woods[fn:2].
+For my research on Vanderbilt's supposed steamboat monopoly I am indebted to the work of Tom Woods[fn:5].
 
-In 1807, 10 years prior to Vanderbilt getting into the industry, the state of New York issued Robert Fulton the exclusive right to operate steamboats in New York state. Ostensibly to protect investors. A New Jersey based man by the name of Thomas Gibbons was unhappy with this unjust arrangement and so he hired Cornelious Vanderbilt to defy this monopoly, to the point where there was a time that Vanderbilt spend 60 days evading the police who were attempting to arrest him for illegal competition. Despite needing to operate entirely outside of the law and being constantly persecuted by the state Vanderbilt was able to charge a quarter of the price that Fulton did.
+In 1807, 10 years prior to Vanderbilt getting into the industry, the state of New York issued Robert Fulton the exclusive right to operate steamboats in New York state. Ostensibly to protect investors. A New Jersey based man by the name of Thomas Gibbons was unhappy with this unjust arrangement and so he hired Cornelious Vanderbilt to defy this monopoly, to the point where there was a time that Vanderbilt spent 60 days evading the police who were attempting to arrest him for illegal competition. Despite needing to operate entirely outside of the law and being constantly persecuted by the state Vanderbilt was able to charge a quarter of the price that Fulton did.
 
-Gibbons took this case to the supreme court who ruled that New Yorks laws violated the commerce clause of the constitution and people were once again free to compete with Fultons steamboats. Seeing an immense opportunity here, Vanderbilt decides to split from Gibbons establishing many routes of him own. Due to competition the NY to Philidelphia route goes from $3 to $1, New Brunswick to New York becomes $0.06 plus free meals. Eventually NY to albany becomes free, making money through selling people things on board. NY to providence goes from $8 to $1, around this time the NY evening post calls vanderbilt the "greatest practical anti-monopolist in the country". Harpers Weekly says "What vanderbilt has done must be judged by the results and the results in every case of the establishment of opposition lines by vanderbilt has been the permenant reduction of fares."
+Gibbons took this case to the supreme court who ruled that New Yorks laws violated the commerce clause of the constitution and people were once again free to compete with Fultons steamboats. Seeing an immense opportunity here, Vanderbilt decides to split from Gibbons establishing many routes of him own. Due to competition the NY to Philidelphia route goes from $3 to $1, New Brunswick to New York becomes $0.06 plus free meals. Eventually NY to albany becomes free, making money through selling people things on board. NY to providence goes from $8 to $1, around this time the NY evening post calls vanderbilt the "greatest practical anti-monopolist in the country". Harpers Weekly says "What vanderbilt has done must be judged by the results and the results in every case of the establishment of opposition lines by Vanderbilt has been the permenant reduction of fares."
 
-In the late 1830s and into the 1840s Britain started to subsidise steam ships and so it became fashionable to advocate the same thing in the US. To this end, the United States Postmaster General arked shipowners to tender for the right to operate a subsidised passenger ans mail service between the US and Europe, to compete with britains subsidised Cunard Line. A businessman by the name of Edward Collins was given the contract, he was to build 5 ships for $3 million up front and an additional $800k per year. In addition to this he was also given an extra $500k per year for 2 lines that would go between California and Panama. Collins only ended up building 4 of the 5 promised ships and these were notorious for their excessive oppulence making them very cost ineffective. Because of their unprofitability Collins went back to congress for an increased subsidy of $858 per year, and at thi point a Kentuky congressman says that this increased subsidy had been brought about by "the most powerful and determined outside pressure I have ever seen brought to bare upon any legislative body." Meanwhile, in 1855, Vanderbilt is still on the scene and he pledges that he can deliver the mail for less than half of what is being paid to Collins, Congress sticks with Collins anyway.
+In the late 1830s and into the 1840s Britain started to subsidise steam ships and so it became fashionable to advocate the same thing in the US. To this end, the United States Postmaster General arked shipowners to tender for the right to operate a subsidised passenger and mail service between the US and Europe, to compete with Britian's subsidised Cunard Line. A businessman by the name of Edward Collins was given the contract, he was to build 5 ships for $3 million up front and an additional $800k per year. In addition to this he was also given an extra $500k per year for 2 lines that would go between California and Panama. Collins only ended up building 4 of the 5 promised ships and these were notorious for their excessive oppulence making them very cost ineffective. Because of their unprofitability Collins went back to congress for an increased subsidy of $858 per year, and at this point a Kentuky congressman says that this increased subsidy had been brought about by "the most powerful and determined outside pressure I have ever seen brought to bare upon any legislative body." Meanwhile, in 1855, Vanderbilt is still on the scene and he pledges that he can deliver the mail for less than half of what is being paid to Collins, Congress sticks with Collins anyway.
 
 At this point president Franklin Pierce vetos the Collins subsidy bill for that year, shocking everyone. Pierce says to grant the subsidy would be "to deprive commercial enterprise of the benefits of free competition and to establish a monopoly in violation of the soundest principles of public policy and of doubtful compatibility with the constitution." Despite the presidents best efforts Congress get Collins' subsidy through by sneaking it into a Naval appropriations bill.
 
-These subsidised lines did not stop vanderbilt, he came up with all sorts of ways to save money in mail delivery including carrying 2nd and 3rd class passengers on his boats. The collins lines only had a 1st class. At this point the subsidiesd California lines had a $600 fare and Vanderbilt charged only $150 for the exact same journey. By 1856, 2 out of 4 Collins ships had sunk leading to the deaths of ~500 people, as a result Collins spent $1 million of tax money to build a huge replacement that made only 2 trips and sold at $900k loss because it was too cumbersome to maneuver properly. Some members of congress were beginning to see the stupidity of continuing subsidies, a Virginia senator says "...the whole system was wrong, it ought to have been left like any other trade to competition." And his colleague from kentuky remarked, "give neither this line nor any other line a subsidy, let the collins line die."
+These subsidised lines did not stop vanderbilt, he came up with all sorts of ways to save money in mail delivery including carrying 2nd and 3rd class passengers on his boats. The collins lines only had a 1st class. At this point the subsidiesd California lines had a $600 fare and Vanderbilt charged only $150 for the exact same journey. By 1856, 2 out of 4 Collins ships had sunk leading to the deaths of ~500 people, as a result Collins spent $1 million of tax money to build a huge replacement that made only 2 trips and sold at $900k loss because it was too cumbersome to maneuver properly. Some members of congress were beginning to see the stupidity of continuing subsidies, a Virginia senator says "...the whole system was wrong, it ought to have been left like any other trade to competition." And his colleague from Kentuky remarked, "give neither this line nor any other line a subsidy, let the collins line die."
 
 And so, in 1858 the Collins line did die after it's subsidies were revoked. As a result Collins went bankrupt allowing Vanderbilt to become the leading operator of steam ships in the US.
 ** James J. Hill
@@ -108,13 +170,16 @@ The land grants were areas of land that were provided to the railroad in proport
 
 Much of these grants were centered around the building of the trans-continental railway, a project that sought to connect the rail networks in the east and west coasts. This railway was to be built in 2 halves by Union Pacific and Central Pacific, the halves were supposed to meet in Utah but as they neared each other they realised that when they connected they would no longer receive their subsidies. So each company veered off and they built parallel railroads to keep the grants coming, and they even began to blow up each others tracks to make sure they would not connect.
 
-TODO finish this, line 80
+Then along comes Hill, a true rags to riches story --- he started out working in a grocery store and was blind in his right eye. To better his lot in life he and some Canadian investors decided to buy up an incomplete and bankrupt line which they turned into the Great Northern. This line was not subsidised and yet fares consistently went down --- he succeeded where many of his subsidised contemporaries went bankrupt. He, like all railway entrepaneurs, wanted settlers to set up along his line -- but without the precious land grants -- so he had to do it on his own. Hill imported thousands of cattle from England that he gave, for free, to anyone willing to settle on along this line. In addition to the imported cattle he established various experimental farms to develop new farming methods and implements along with different livestock and crops. Where Hill made great strives in efficiency the subsidised lines did quite the opposite, the Cheif Engineer of Union Pacific even remarked that he "...never saw so much needless waste in building railroads."
 
-* Government monopolies do exist
+But fear not socialists! The state also had a "solution" to the problems the free-market had already solved, in the form of the Hepburn act 1906. This legislation is oft praised by US history textbooks, it enforced that railroads must charge the same rates to all shippers... for /some/ reason. This put a spanner in Hills works --- he charged lower rates to those who shipped to the west coast with the purpose of trading with Asia as he wanted to play some role in opening up eastern markets to US products, so he discounted people who wanted to do this. Now thanks to the ever-benevolant state everyone has to pay the non-discounted price. Around this time US exports to Asia drop, I wonder why that could be.
+
+* Government monopolies do Exist
+
 So no examples of monopolisation as a result of the free-market are availible but what about as a result of government intervention? Ignoring that the government itself is a monopoly, we can find many examples; the Dutch East India Company, TiVo's Macrovision, and the many Intellectual Property based monopolies.
 
 ** The Dutch East India Company
-The Dutch East India Company (VOC) was formed through a government directed merger of several rival companies -- known as pre-companies -- that traded with the east[2][3]. In the seven years prior to the forming of VOC 12 such pre-companies were founded and competed feircely. At the time the standard practice was that a company would be funded only for the extent of a single voyage and liquidated upon the fleets return due to the massive risk that a voyage would go wrong, the high risk meant that investing in one fleet to take multiple trips will only increase your chances of losing everything. To manage this risk the English came up with the idea of a cartel to control supply reducing the volatility of prices on traded goods, forming the English East India Company. Worried that they would be outdone by their English rivals the Dutch government soon followed suit. As an interesting aside; the Dutch East India Company is often touted as the original modern corporation with newer corporations inheriting their structure from VOC[5][6][7][8][9], which brings into question how free-market most companies are today.
+The Dutch East India Company (VOC) was formed through a government directed merger of several rival companies -- known as pre-companies -- that traded with the east[2][3]. In the seven years prior to the forming of VOC, 12 such pre-companies were founded and competed feircely. At the time the standard practice was that a company would be funded only for the extent of a single voyage and liquidated upon the fleets return due to the massive risk that a voyage would go wrong, the high risk meant that investing in one fleet to take multiple trips will only increase your chances of losing everything. To manage this risk the English came up with the idea of a cartel to control supply reducing the volatility of prices on traded goods, forming the English East India Company. Worried that they would be outdone by their English rivals the Dutch government soon followed suit. As an interesting aside; the Dutch East India Company is often touted as the original modern corporation with newer corporations inheriting their structure from VOC[5][6][7][8][9], which brings into question how free-market most companies are today.
 
 ** TiVo's Macrovision
 The Digital Millennium Copyright Act (DMCA) is the premier intellectual property legislation in US law, formed to implement two treaties of the World Intellectual Property Organization. A lesser known section of this bill required all video recorders to be fitted with TiVo's propeietary macrovision copy prevention technology, essentially giving TiVo a monopoly directly mandated by the state.
@@ -122,24 +187,7 @@ The Digital Millennium Copyright Act (DMCA) is the premier intellectual property
 ** IP based monopolies
 Monopolies on the implementation of ideas protected by the numerous intellectual property laws on the books are so numerous as to be impossible to list. Disney has a monopoly on the production of anything to do with star wars or marvel; nobody is allowed to produce anything about the Simpsons apart from Fox, nobody is allowed to implement technologies nvidia have created into their own graphics cards. Intellectual property is by far the largest source of monopolisation ever conceived and is ironically touted as an excellent policy by the same people who seem to decry monopolisation the most when faced with the free-market.
 
-I wont go too in-depth on how IP is an illegitimate form of property here as that topic has been done to death[fn:3] but I will leave you with the point that those who believe in the legitimacy of IP often dont take the idea seriously at all. If intellectual property was truly property it would have no expiration, afterall my house doesnt cede to the public domain 90 years after my death, if I leave it to my son and he to his son then my grandson would own the house still. So if we are to apply this standard to intellectual property, Disney should own the sole right to produce star wars eternally, a concept few agree with.
-
-
-* Footnotes
-
-[fn:1]
-JungianTrip#2439, used with permission.
-
-[fn:2]
-https://www.youtube.com/watch?v=-VA9VZeox3g
-
-[fn:3]
-https://www.youtube.com/watch?v=QVkeJI2feyQ
-https://www.youtube.com/watch?v=BXcTK6nLC8Y
-https://mises.org/library/fight-against-intellectual-property
-https://mises.org/library/against-intellectual-property-0
-https://mises.org/library/ideas-are-free-case-against-intellectual-property
-
+I wont go too in-depth on how IP is an illegitimate form of property here as that topic has been done to death[fn:6] but I will leave you with the point that those who believe in the legitimacy of IP often dont take the idea seriously at all. If intellectual property was truly property it would have no expiration, afterall my house doesnt cede to the public domain 90 years after my death, if I leave it to my son and he to his son then my grandson would own the house still. So if we are to apply this standard to intellectual property, Disney should own the sole right to produce star wars eternally, a concept few agree with.
 
 
 * References
@@ -158,3 +206,27 @@ https://mises.org/library/ideas-are-free-case-against-intellectual-property
 [12] DiLorenzo, Thomas (1992). "The Myth of Predatory Pricing". Cato Institute Policy Analysis (Cato Institute) (169). Retrieved 2011-11-09.
 [13] [[https://fee.org/articles/the-myth-that-standard-oil-was-a-predatory-monopoly/][Weinberger, D. The Myth That Standard Oil Was a “Predatory Monopoly”]]
 [14] https://upload.wikimedia.org/wikipedia/commons/2/2f/Oil_Prices_Since_1861.svg
+
+* Footnotes
+
+[fn:1]
+JungianTrip#2439, used with permission.
+
+[fn:2]
+https://mises.org/library/man-economy-and-state-power-and-market/html
+
+[fn:3]
+https://www.youtube.com/watch?v=zkPGfTEZ_r4
+
+[fn:4]
+https://www.cato.org/sites/cato.org/files/pubs/pdf/pa169.pdf
+
+[fn:5]
+https://www.youtube.com/watch?v=-VA9VZeox3g
+
+[fn:6]
+https://www.youtube.com/watch?v=QVkeJI2feyQ
+https://www.youtube.com/watch?v=BXcTK6nLC8Y
+https://mises.org/library/fight-against-intellectual-property
+https://mises.org/library/against-intellectual-property-0
+https://mises.org/library/ideas-are-free-case-against-intellectual-property
