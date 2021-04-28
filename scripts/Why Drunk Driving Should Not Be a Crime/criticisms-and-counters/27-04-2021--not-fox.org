@@ -1,0 +1,361 @@
+#+TITLE:Not Fox's criticism's of LiquidZulu/youtube-scripts as of the date indicated and my response
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+DATE:2021-04-27 GMT Summer Time
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+
+* drunk-driving
+[[https://github.com/LiquidZulu/youtube-scripts/blob/main/scripts/Why%20Drunk%20Driving%20Should%20Not%20Be%20a%20Crime/drunk%20driving%20script.org][Full .org]]
+
+** Criticism 1
+#+begin_quote
+> If you were to ask your average member of modern society whether it was unjust to enforce what a person may do with their own property
+
+1) It is not *on* their property however. If I owned the roads and enforced a drunk driving rule that would be fine. How is this any different.
+
+2) There are many reasons that we would want to enforce what a person may do with their own property. I would be completely fine with a law against shooting someone or recklessly endangering someone.
+#+end_quote
+I say in the very script fox references that
+#+begin_quote
+It is the job of voluntary insurance and licensing firms to deal in what a person is probable to do.
+#+end_quote
+and further that
+#+begin_quote
+The law should focus on violations of person and property
+#+end_quote
+So, absolutely, one may impose any restrictions they wish on roads they own, I see now way in which that isn't implied by my adversion to enforcing what one may do with their property.
+
+As for point (2), when I shoot a person it is not the use of /my/ property that is a problem, it's my trespassing of a bullet onto the property of another, this is entirely consistent within libertarianism.
+** Criticism 2
+#+begin_quote
+> on the basis of an arbitrary chemical signal, such as blood alcohol content
+
+not arbitrary
+#+end_quote
+How isn't it arbitrary?
+** Criticism 3
+#+begin_quote
+> the answer would be obvious to him – that such regulation is necessary to ensure order.
+
+no, such a regulation is necessary to ensure *safety* and people's freedom to drive without as significant a risk of danger.
+#+end_quote
+Safety and order are synonymous in the same way that chaos and threat are.
+** Criticism 4
+#+begin_quote
+> Its not bad driving, it isn’t destruction of property, nor the taking of or reckless endangerment of life.
+
+It is the reckless endangerment of life. At even a 0.05 BAC your odds of having an accident are at least six times greater.
+#+end_quote
+I refer fox to [[https://github.com/LiquidZulu/youtube-scripts/blob/main/scripts/Why%20Drunk%20Driving%20Should%20Not%20Be%20a%20Crime/drunk%20driving%20script.org#the-probability-of-an-accident-increases][here]] and [[https://github.com/LiquidZulu/youtube-scripts/blob/main/scripts/Why%20Drunk%20Driving%20Should%20Not%20Be%20a%20Crime/drunk%20driving%20script.org#drunk-driving-is-reckless-driving][here]].
+** Criticism 5
+#+begin_quote
+> All these acts could easily be directly targeted.
+
+They are.
+#+end_quote
+So criminalising drunk driving does nothing then, as you can already target those acts that you are against directly, I agree entirely.
+** Criticism 6
+#+begin_quote
+> No, none of these are what you are charged for, you are a lifelong criminal for the single fact of having the wrong substance in your blood
+
+Interesting phrasing. That's incorrect it's not the single fact of having the wrong substance in your blood it's being intoxicated while recklessly endangering your fellow passengers, drivers, and pedestrians while on public property and actively engaging in actions that you know are illegal.
+#+end_quote
+Lets break that down;
+#+begin_quote
+it's not the single fact of having the wrong substance in your blood it's being intoxicated while recklessly endangering your fellow passengers, drivers, and pedestrians
+#+end_quote
+Ok, so criminalise the recklessness, why must the composition of ones blood play into the calculus?
+#+begin_quote
+while on public property
+#+end_quote
+The idea of "public" property is tyrannical and nonsensical, to own something is to have total, dictatorial control over how that thing is used, it isn't possible to share this control between multiple people.
+#+begin_quote
+and actively engaging in actions that you know are illegal.
+#+end_quote
+German jews actively engaged in being jewish despite knowing that it was a crime, I dont see how the knowledge that one is engaging in illegal action changes whether that action ought to be illegal.
+** Criticism 7
+#+begin_quote
+> yet it is perfectly possible for this to be the case without committing any of the aforementioned crimes.
+
+But you have. By consuming alcohol and driving you are recklessly endangering someone's life. And regardless given that state and federal governments own the vast majority of roads, would that not just be someone enforcing rules on their property?
+#+end_quote
+Lets split this up again;
+#+begin_quote
+By consuming alcohol and driving you are recklessly endangering someone's life.
+#+end_quote
+Again I refer fox to [[https://github.com/LiquidZulu/youtube-scripts/blob/main/scripts/Why%20Drunk%20Driving%20Should%20Not%20Be%20a%20Crime/drunk%20driving%20script.org#drunk-driving-is-reckless-driving][this argument]] later in the very document he is criticising where I address this.
+#+begin_quote
+And regardless given that state and federal governments own the vast majority of roads, would that not just be someone enforcing rules on their property?
+#+end_quote
+The state doesnt legitimately own the roads, I do wish I had been more explicit in this point in the original document.
+** Criticism 8
+#+begin_quote
+> And what is the effect of allowing government to criminalise the content of ones blood alone, where no untoward action may be ocurring? We have given them the power to make the application of the law arbitrary, capricious, and contingent on the judgement of whatever police officer happens to be having a bad mood that day.
+
++ Criminalize
++ Occurring
+
+No. That's the effect of not holding police officers accountable. Drunk Driving laws are not the cause of misuse of the justice system
+#+end_quote
+No, /criminalise/ is correct, don't see why is particularly matters, but if you are to pedantically search for typos at least be correct about it.
+#+begin_quote
+No. That's the effect of not holding police officers accountable. Drunk Driving laws are not the cause of misuse of the justice system
+#+end_quote
+Hold them accountable to what exactly? They are allowed to arrest you for arbitrary infringements as arbitrary laws have been enacted.
+** Criticism 9
+#+begin_quote
+> Indeed, without the governments breathalyser there is no way to tell that a person is committing this crime.
+
++ government's
++ breathalyzer
+
+If you feel intoxicated or you exhibit impaired motor and cognitive function then you are most likely committing a crime. If you drink before driving you are most likely committing a crime.
+#+end_quote
+Again, breathalyser is correct, like you are allowed to google your grammar nazisms to make sure you are correct.
+#+begin_quote
+If you feel intoxicated or you exhibit impaired motor and cognitive function then you are most likely committing a crime. If you drink before driving you are most likely committing a crime.
+#+end_quote
+And what if you dont feel intoxicated? In Scotland at least, you are likely to be over the limit the morning after drinks, you may say this limit is too low but how can you tell what "too low" is?
+** Criticism 10
+#+begin_quote
+How can it be that you could say someone is acting criminally when it is impossible to determine this without medical test, clearly nobody is being injured or in any way maligned.
+
++ test, clearly -> test; clearly
+
+People are:
+1) Being recklessly endangered
+2) People lose the freedom of being able to rely on roads as an environment that they can be relatively confident in the fact that they won't be driven into.
+#+end_quote
+Ok so for (1) I must, yet again, point fox to [[https://github.com/LiquidZulu/youtube-scripts/blob/main/scripts/Why%20Drunk%20Driving%20Should%20Not%20Be%20a%20Crime/drunk%20driving%20script.org#drunk-driving-is-reckless-driving][this argument]].
+#+begin_quote
+2) People lose the freedom of being able to rely on roads as an environment that they can be relatively confident in the fact that they won't be driven into.
+#+end_quote
+Which can be solved through voluntary licensing and insurance.
+** Criticism 11
+#+begin_quote
+> To take this further, how is the supposed criminal to know whether they are committing this crime?
+
+Having consumed alcohol is a really good heuristic. In fact I can confidently assert that 99.9% of people who have not consumed alcohol recently will not have an illegal BAC
+#+end_quote
+Having consumed how recently? A day? A week? A month?
+** Criticism 12
+#+begin_quote
+> They can perform informal calculations in their head based on their mass and how many units of alcohol they have consumed, but until a police officer suspects that they are guilty and administers their fallable test you are in the state of performing a Schrödinger’s crime — that is that you do not know if you are doing what is deemed illegal.
+
++ Fallible
+
+I addressed this further up but on top of that. Not having exact knowledge of what constitutes a crime doesn't matter as long as it has sufficient negative consequences and there is a suitable heuristic.
+#+end_quote
+This would all be very damming if my argument relied on this rather than it being an aside that I mention at the end of the section.
+** Criticism 13
+#+begin_quote
+> Indeed, though this seems like a solid defense on the face a simple reducto ad absurdum reveals that criminalising probabilities rather than action is an obviously tyrannical method of law enforcement
+
++ reductio
++ criminalizing
+
+And you mischaracterize it. It is criminalizing an action that leads to a probability. It is a form of reckless endangerment laws which criminalize the action of creating a scenario in which the probability of killing someone is greater.
+#+end_quote
+Nope, criminalising is also correct.
+#+begin_quote
+And you mischaracterize it. It is criminalizing an action that leads to a probability. It is a form of reckless endangerment laws which criminalize the action of creating a scenario in which the probability of killing someone is greater.
+#+end_quote
+So should we ban being sore and driving? What about driving tired? Should we set up checkpoints to test random peoples reaction times to see if they are fit to drive? All these would be equally permissible by this line of reasoning, how about instead we look for people who are literally, visibly, driving dangerously? Or, better yet, let the market decide rather than asking the opinion of unqualified bureaucrats?
+** Criticism 14
+#+begin_quote
+>  we need look no further than the famous 13/50 and 6/50 meme stats to demonstrate this. If black people are more likely to commit a crime the same logic applied to criminalise drunk driving would imply we may place arbitrary restrictions on people due to skin colour.
+
++ Criminalize
+
+Ignoring the fact that the 13/50 and 6/50 statistic has problems and is most likely a lower percentage I will engage in the main point and assume 6/50. There are a few reasons why this is bad logic:
+
+1) On a strictly probabilistic level, the probability of any black person committing a crime is less than 1% which is essentially negligible. The change in probability from 0.a% to 0.b% is nowhere near enough to think that having a black person around is reckless endangerment.
+2) Criminalizing based on race is significantly more tyrannical than criminalizing based on whether you drink before you drive. Black people can't change their skin and have the laws be applied no matter where they are or what they did whereas drivers can chose not to drink before they drive or they could be driven by someone or take a taxi/uber. Drinkers can plan for driving whereas black people can't plan to turn off their blackness.
+3) The utility of black people also needs to be taken into account. By having things criminalized based on their skin color, they are hurt significantly more than not allowing someone to drive while intoxicated.
+4) We can fix this by helping disadvantaged people. We can't solve drunk driving until we create sufficiently good ai or medical interventions that retain your cognitive function.
+#+end_quote
+Criminalise is correct
+#+begin_quote
+1) On a strictly probabilistic level, the probability of any black person committing a crime is less than 1% which is essentially negligible. The change in probability from 0.a% to 0.b% is nowhere near enough to think that having a black person around is reckless endangerment.
+#+end_quote
+Why not, they are of /higher/ risk than their white countreparts, the argument that I was responding to was that the probability is /higher/, it made no mention of degree. Therefore this does nothing to show my reductio ad absurdum to be invalid.
+#+begin_quote
+2) Criminalizing based on race is significantly more tyrannical than criminalizing based on whether you drink before you drive. Black people can't change their skin and have the laws be applied no matter where they are or what they did whereas drivers can chose not to drink before they drive or they could be driven by someone or take a taxi/uber. Drinkers can plan for driving whereas black people can't plan to turn off their blackness.
+#+end_quote
+Ok, lets make an adjustment to the reductio ad absurdum; there is a negative correlation between religiosity and crime,[fn:1] so should we therefore punish atheists? To take this further, a 2012 study has suggested that a belief in hell reduces crime,[fn:2] and I needent go into the obvious risks associated with Wahabbism. All of these religious sects are chosen by people, making this of the same form as those who choose to drink and drive.
+#+begin_quote
+3) The utility of black people also needs to be taken into account. By having things criminalized based on their skin color, they are hurt significantly more than not allowing someone to drive while intoxicated.
+#+end_quote
+Why on earth must utility be taken into account?
+#+begin_quote
+4) We can fix this by helping disadvantaged people. We can't solve drunk driving until we create sufficiently good ai or medical interventions that retain your cognitive function.
+#+end_quote
+Or, we can let the market solve it for us, how does this show my logic to be faulty? I thought thats what these 4 points were doing.
+** Criticism 15
+#+begin_quote
+> Ok, let’s accept that it is poverty that causes one to commit a crime, would that not lead to an equally tyrannical system, where the poor in society face increased restrictions in a minority report style prediction that they will commit a crime?
+
+Again this is really easily solved by looking at the effect of such a policy. That policy would have a net negative impact on people/society therefore we shouldn't implement it.
+#+end_quote
+How do you measure the "impact on people/society?"
+** Criticism 16
+#+begin_quote
+> In a truly free society – which I would hope all would desire –
+
+I consider freedom to be where we maximize what people can do. Allowing people to be recklessly endangered and lowering confidence in the safety of transportation *reduces* people's freedom
+#+end_quote
+Well then you have a very strange definition of free-society.
+** Criticism 17
+#+begin_quote
+> it is not the job of law enforcement to criminalise possible future action,
+
++ criminalize
+
+also it's not as I said above. It's criminalizing present reckless endangerment of people on the roads.
+#+end_quote
+Again, criminalise is correct, and as I said above, read just a little bit further down and you will see that I have [[https://github.com/LiquidZulu/youtube-scripts/blob/main/scripts/Why%20Drunk%20Driving%20Should%20Not%20Be%20a%20Crime/drunk%20driving%20script.org#drunk-driving-is-reckless-driving][already addressed this]].
+** Criticism 18
+#+begin_quote
+> they should focus only on what a person is doing or has done, not what someone thinks they may do.
+
+like having drunk and then driving.
+#+end_quote
+Did you forget the title of the section you are responding to? It's "The Probability of an Accident Increases," I am responding to /that/ argument, which is a probabilistic argument. I dont know how I can make that clearer, it's on fox to bother reading the rest of the counterarguments if he wants to criticise them.
+** Criticism 19
+#+begin_quote
+> It is the job of voluntary insurance and licensing firms to deal in what a person is probable to do.
+
+Unsubstantiated claim.
+#+end_quote
+So fox wants the minority report? What a shitty counter lmao. This is /literally/ in the context of what ought to happen in a /free/-society, I know fox has a weird definition of free but I didnt think he would come out and say that you can be free in the minority report universe.
+** Criticism 20
+#+begin_quote
+> “If there were no punishment for crime at all, a great number of people would commit petty theft, such as stealing fruit from a fruit-stand. On the other hand, most people have a far greater built-in inner objection to themselves committing murder than they have to petty shoplifting, and would be far less apt to commit the grosser crime. Therefore, if the object of punishment is to deter from crime, then a far greater punishment would be required for preventing shoplifting than for preventing murder, a system that goes against most people’s ethical standards. As a result, with deterrence as the criterion there would have to be stringent capital punishment for petty thievery–for the theft of bubble gum–while murderers might only incur the penalty of a few months in jail.”[0, p.93]
+
+Punishments are not solely based on their deterrence effects. Consider a society in which we criminalized shoplifting more than murder; That would be a significantly worse society than one in which murder has a greater punishment.
+#+end_quote
+Im sorry, but was the title of that section not "Drunk Driving Laws Discourage Drunk Driving?" I must have imagined that I was responding to a deterrence-based legal system there, my mistake, I really should split the argument up into sections with headers to make it clear what I am responding to.
+** Criticism 21
+#+begin_quote
+> “A classic critique of the deterrence principle is that, if deterrence were our sole criterion,
+
+Good thing deterrence is not our sole criterion.
+#+end_quote
+I KNOW, I AGREE, FUCKING HELL, THE DETERRENCE ARGUMENT WAS ONE I WAS PRESENTED WITH YOU TOOL.
+** Criticism 22
+#+begin_quote
+> it would be perfectly proper for the police or courts to execute publicly for a crime someone whom they know to be innocent, but whom they had convinced the public was guilty. The knowing execution of an innocent man–provided, of course, that the knowledge can be kept secret–would exert a deterrence effect just as fully as the execution of the guilty.”[0, p.93]
+
+This is essentially a formulation of McCloskey's sheriff counterargument to utilitarianism. If you:
+
+1) ignore the erosion of norms necessary for a functioning society
+2) ignore all other criteria but deterrence
+3) assume that there are only innocents that you can punish
+4) ignore the entire moral and political philosophy of rule utilitarianism
+5) assume that the alternate outcome would result in many deaths and
+6) ignore the real world risk of discovery and
+
+Then this hypothetical ends up being a sneaky framing of the trolley problem. Would you rather sacrifice one innocent or 1000 innocents. I would hope that 1000 people's lives are more important than a single person's.
+#+end_quote
+Gee wiz, if only I was responding to the idea of a deterrence-based justice system then I wouldn't fall foul of 2. Thank god not fox read between the lines and saw that section as my total rebuttal of utilitarianism.
+** Criticism 23
+#+begin_quote
+> If it was the case that drunk driving is necessarily paramount to reckless behaviour then you would not need to criminalise being drunk separately from driving dangerously — the very fact that drunk driving is a crime is an admission by the state that there are drunk people who do not drive dangerously.
+
++ behavior
++ criminalize
+
+You aren't critiquing the abstract criminalization of drunk driving you're critiquing imagined inconsistency in specific laws.
+
+Classifying a dui or reckless driving as different doesn't mean that a dui is not ontologically a type of reckless driving. It just means that there was legal utility in multiple categories.
+#+end_quote
+Im just gonna leave mr fox with this, I do hope he gets around to reading it at some point, https://en.wikipedia.org/wiki/British_English
+#+begin_quote
+You aren't critiquing the abstract criminalization of drunk driving you're critiquing imagined inconsistency in specific laws.
+
+Classifying a dui or reckless driving as different doesn't mean that a dui is not ontologically a type of reckless driving. It just means that there was legal utility in multiple categories.
+#+end_quote
+What legal utility? Seems the only extra people who would be arrested are those who drive perfectly safely but had their breath tested at a checkpoint, why must they be punished? And it's not an "imagined" inconsistency, it is very much real, unless fox is able to point out exactly what part of my criticism doesn't correspond to real legal codes.
+** Criticism 24
+#+begin_quote
+> If it wasn’t clear enough at this point that it is blood alcohol that is being criminalised in and of itself rather than any perverse outcome we need look no further than sobriety checkpoints. These blockades stop and test drivers for being in the wrong place at the wrong time with no evidence or suspicion of driving dangerously at all — this clearly demonstrates that it cannot possibly be bad driving that is illegal here but the chemical composition of a persons blood, a person who has by definition done nothing dangerous.
+
++ Criminalized
+
+This ignores the fact that effects may be delayed, someone may be drinking while driving, people may exhibit effects sometimes and not others, etc. This is analogous to saying "we shouldn't have metal detectors in buildings because no one is actually shooting up the building." Additionally action now prevents bad consequences in the future. Even if you were right, it would still be justifiable if it resulted in fewer deaths. This
+#+end_quote
+Hey bud, what is that floating "this" doing at the end there? That doesn't look particularly gramatically correct.
+#+begin_quote
+This ignores the fact that effects may be delayed, someone may be drinking while driving, people may exhibit effects sometimes and not others, etc. This is analogous to saying "we shouldn't have metal detectors in buildings because no one is actually shooting up the building."
+#+end_quote
+Ah yes I forgot that the government mandates that all buildings must have metal detectors, and that this isn't a result of /voluntary/ risk assessment as I have so blatantly called for.
+#+begin_quote
+Additionally action now prevents bad consequences in the future. Even if you were right, it would still be justifiable if it resulted in fewer deaths.
+#+end_quote
+And how can we know if it results in fewer deaths?
+** Criticism 25
+#+begin_quote
+> It is also pertinent to note that it is not only alcohol that increases ones risk of being involved in an accident, indeed there are a multitude of different factors that may negatively impact ones driving ability. Perhaps you have sore muscles after going to the gym, you could be tired, or in a bad mood.Should the government now be allowed to test for soreness, or fatigue, or mood?
+
+1) Critiquing imagined inconsistent application of principles does not critique the principle itself.
+2) Can you demonstrate that they would be sufficiently beneficial? If so yes but I highly doubt that the state being able to test your mood and make decisions on that would be a net positive. You're free to enlighten me otherwise.
+3) Why not? (ik why i don't think so but why don't you think we should do it)
+#+end_quote
+1. it's not imagined, and do you think the government should criminalise driving with a bad mood?
+2. Can you demonstrate that drunk driving laws are sufficiently beneficial?
+3. I will break this down
+   #+begin_quote
+   Why not?
+   #+end_quote
+   Because probabilities should be left up to voluntary insurance and licensing
+
+   #+begin_quote
+   ik why i don't think so
+   #+end_quote
+   That should be an "I," not an "i," and why would that be? Under your commiequentialism why shouldnt we criminalise driving whilst grumpy?
+** Criticism 26
+#+begin_quote
+> Bank robbers may tend to wear masks, but the crime they commit has nothing to do with the mask.
+
+Are masks criminalized? Even then one could argue that allowing people to obscure your identity in a bank is harmful but I don't know enough to say.
+#+end_quote
+NO, THATS THE FUCKING POINT. MASKS ARENT CRIMINALISED, JESUS FUCKING CHRIST.
+** Criticism 27
+#+begin_quote
+> In the same way, drunk drivers cause accidents but so do sober drivers
+
+Are you denying the causal link between intoxication and accidents?
+#+end_quote
+That same causal link exists with people who drink being more likely to commit crimes, ought we ban alcohol? What about caffeine?
+** Criticism 28
+#+begin_quote
+> and many drunk drivers cause no accidents at all.
+
+And some people who's life has been put in risk don't die. Doesn't mean we shouldn't criminalize that recklessness.
+#+end_quote
+I dont know how many times I will have to link to [[https://github.com/LiquidZulu/youtube-scripts/blob/main/scripts/Why%20Drunk%20Driving%20Should%20Not%20Be%20a%20Crime/drunk%20driving%20script.org#drunk-driving-is-reckless-driving][this section]] where I address this constant motif in fox's criticisms.
+** Criticism 29
+#+begin_quote
+> The law should focus on violations of person and property, not scientific oddities like blood content.
+
+Interesting phrasing. "scientific oddities." How is protecting the populace from accidents not focusing on violations of person and property? Science is a method of analyzing the world and is used in the pursuit of normative aims. It is not being used as an aim in and of itself.
+#+end_quote
+It would only be in service of protecting people from violations of person and property in a voluntary libertarian basis, I would be interested to know if fox is fine with theft in the protection of property.
+** Criticism 30
+#+begin_quote
+One thing that I have noticed is that a sure sign of someone with a poor argument is someone who frames their points intentionally to obscure the real issue and this script does a significant amount of that.
+#+end_quote
+That's funny, because I have noticed a similar sign but it's when someone decides to nitpick typos as intellectual chaff in their arguments.
+
+* Conclusion
+This pretty much sums it up
+[[./27-04-2021--not-fox--image0.jpg]]
+
+* Footnotes
+
+[fn:2]
+Shariff, Azim F.; Rhemtulla, Mijke (18 June 2012). "Divergent Effects of Beliefs in Heaven and Hell on National Crime Rates". PLOS ONE. 7 (6): e39048. Bibcode:2012PLoSO...739048S. doi: 10.1371/journal.pone.0039048. PMC 3377603. PMID 22723927
+
+[fn:1]
+Baier, Colin J.; Wright, Bradley R. E. (February 2001). "'If You Love Me, Keep My Commandments': A Meta-Analysis of the Effect of Religion on Crime". /Journal of Research in Crime and Delinquency/. 38 (1): 3–21. doi: 10.1177/0022427801038001001. S2CID 145779667
