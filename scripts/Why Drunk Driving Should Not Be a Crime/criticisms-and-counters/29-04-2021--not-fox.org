@@ -1,0 +1,662 @@
+#+TITLE:Not Fox's criticism's of LiquidZulu/youtube-scripts as of the date indicated and my response
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+DATE:2021-04-27 GMT Summer Time
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+
+* Introduction
+To start I would like to challenge Not Fox to a recorded debate on the policing of probabilities in a free-society, or any other topic he wishes to debate on. I will not send any further counter-rebuttals as these are quickly spiralling out of control.
+
+I include this challenge here in the case that fox decides to not bother rebuting this document, instead opting for debate.
+
+* Criticisms
+** C1
+#+begin_quote
+> So, absolutely, one may impose any restrictions they wish on roads they own, I see now way in which that isn’t implied by my adversion to enforcing what one may do with their property.
+
+So given that federal and state governments own 98% of roads and highways, it is completely consistent with libertarianism that they enforce rules for using them.
+#+end_quote
+The state has legitimate ownership over nothing, if I steal your watch I can't then tell you what you are allowed to do with it, as you still own it.
+** C2
+#+begin_quote
+> As for point (2), when I shoot a person it is not the use of my property that is a problem, it’s my trespassing of a bullet onto the property of another, this is entirely consistent within libertarianism.
+
+But it is both the trespassing of a bullet and the use of property that is the problem because the use of property has a direct causal effect on the violation of someone's property.
+
+If I were to stab someone, it would be ridiculous to state that it's not me stabbing them that is the problem it's the knife slicing their organs open. In both the shooting scenario and the stabbing scenario it both the use of the property and the trespassing of someone's property.
+
+Additionally, the point of the shooting example was to state that there are significantly more considerations than "whether it was unjust to enforce what a person may do with their own property on the basis of an arbitrary chemical signal"
+
+Also you didn't address the reckless endangerment example. Are you for or against criminalizing reckless endangerment?
+#+end_quote
+
+#+begin_quote
+But it is both the trespassing of a bullet and the use of property that is the problem because the use of property has a direct causal effect on the violation of someone's property.
+#+end_quote
+No, it isn't the pulling of the trigger that is in any way a violation, it is the fact that the gunman has sent his bullet to damage the property of another.
+
+#+begin_quote
+If I were to stab someone, it would be ridiculous to state that it's not me stabbing them that is the problem it's the knife slicing their organs open. In both the shooting scenario and the stabbing scenario it both the use of the property and the trespassing of someone's property.
+#+end_quote
+It depends what you define as "stabbing," I would say that the act of stabbing a man /is/ a problem and the readon it's a problem isn't the fact that you have moved you knife, it's the fact that you have damaged the other man.
+
+#+begin_quote
+Additionally, the point of the shooting example was to state that there are significantly more considerations than "whether it was unjust to enforce what a person may do with their own property on the basis of an arbitrary chemical signal"
+#+end_quote
+And what might they be? Thusfar I remain consistent in that assertion.
+
+#+begin_quote
+Also you didn't address the reckless endangerment example. Are you for or against criminalizing reckless endangerment?
+#+end_quote
+It's a continuum problem, so arbitration. If you don't understand my point that /voluntary/ insurance and licensing is best suited to solve it I don't think you have actually read the original document or my prior response.
+** C3
+#+begin_quote
+> How isn’t it arbitrary?
+
+Arbitrary is primarily defined as "based on random choice or personal whim, rather than any reason or system." (https://www.lexico.com/en/definition/arbitrary).
+
+There is significant reason to consider BAC. It is a very good heuristic for impairment of function which, if your goal is to reduce the deaths and provide maximal utility to society, one ought regulate when someone has control of dangerous machinery like cars. It is neither based on random choice nor personal whim; It has very good reasons to support it.
+
+Also to preempt a possible "I was referring to the characterization of rulers instead of motivation" argument, this is the only definition that makes sense in this context; The other definition solely typifies reigns not chemical signals. And, even if it were intended to delineate the government, it would be incorrect because the government is not enacting unrestrained power in this case.
+#+end_quote
+And BAC remains arbitrary in cases where reaction time, tiredness, and soreness are not also criminalised.
+** C4
+#+begin_quote
+> Safety and order are synonymous in the same way that chaos and threat are.
+
+What a nazi would consider orderly is extremely different from what anyone in a liberal democracy would consider safe or free. Additionally safety and freedom are different things although safety contributes to freedom.
+
+Also, one criticism I forgot to say because it was somewhat minor: The juxtaposition and parallelization of statements from a nazi and someone from modern society demonstrates nothing. It only serves to frame the other side negatively. Criminalizing drunk driving and racial purges are incomparable and being an example of Godwin's law won't change that.
+#+end_quote
+
+#+begin_quote
+What a nazi would consider orderly is extremely different from what anyone in a liberal democracy would consider safe or free. Additionally safety and freedom are different things although safety contributes to freedom.
+#+end_quote
+That isn't in any way relevant to my point and does nothing to disprove the synonymity of order and safety or that of chaos and threat.
+
+#+begin_quote
+Also, one criticism I forgot to say because it was somewhat minor: The juxtaposition and parallelization of statements from a nazi and someone from modern society demonstrates nothing. It only serves to frame the other side negatively. Criminalizing drunk driving and racial purges are incomparable and being an example of Godwin's law won't change that.
+#+end_quote
+Cry about it more, I wasnt using that as an argument I was using it as an introduction, a hook, thats why I stuck it in the intro.
+** C5
+#+begin_quote
+> So criminalising drunk driving does nothing then, as you can already target those acts that you are against directly, I agree entirely.
+
+They are targeted through the criminalization of drunk driving. 
+
+If you had included what I had stated before "It is the reckless endangerment of life. At even a 0.05 BAC your odds of having an accident are at least six times greater." then it would have been clear what I was referring to. 
+
+This also would have answered your previous question of "How isn’t it arbitrary?"
+#+end_quote
+
+
+#+begin_quote
+They are targeted through the criminalization of drunk driving. 
+#+end_quote
+No, BAC is simply a precursor and not the activity which you wish to ban, and I would have no issue if a private road came to the conclusion that they want to ban DUI, the entire point of the video, which I have repetedly stated, is that laws shouldnt reflect probabilities. Probabilities should be dealt with through voluntary means.
+
+#+begin_quote
+If you had included what I had stated before "It is the reckless endangerment of life. At even a 0.05 BAC your odds of having an accident are at least six times greater." then it would have been clear what I was referring to. 
+#+end_quote
+I would like to point out here that it is fox who split the criticism up in the manner that he is now complaining about.
+** C6
+#+begin_quote
+> Ok, so criminalise the recklessness, why must the composition of ones blood play into the calculus?
+
+Because driving while intoxicated is reckless. By drinking and then driving you are directly and significantly increasing the probability that you endanger someone else's life.
+#+end_quote
+I'm considering binding a key to link fox to [[https://github.com/LiquidZulu/youtube-scripts/blob/main/scripts/Why%20Drunk%20Driving%20Should%20Not%20Be%20a%20Crime/drunk%20driving%20script.org#drunk-driving-is-reckless-driving][this section]].
+** C7
+#+begin_quote
+> The idea of “public” property is tyrannical and nonsensical, to own something is to have total, dictatorial control over how that thing is used
+
+How is it less tyrannical to administrate property through democracy instead of dictatorial control? Would you say that the government has total dictatorial control over property?
+#+end_quote
+
+#+begin_quote
+How is it less tyrannical to administrate property through democracy instead of dictatorial control?
+#+end_quote
+Because that is theft, ownership /means/ the just dictatorial control of something. If you own a house or something and you decide to take votes on how to run it that is fine, but only because you own it.
+
+#+begin_quote
+Would you say that the government has total dictatorial control over property?
+#+end_quote
+Control, yes, I should have clarified that it must be just control to be ownership. OS while a theif may have total control over your property they don't own it as it isnt just control.
+** C8
+#+begin_quote
+> it isn’t possible to share this control between multiple people.
+
+Why not? If it isn't then who owns what we would call public property? What are shareholders? What are worker coops?
+#+end_quote
+
+#+begin_quote
+If it isn't then who owns what we would call public property?
+#+end_quote
+Those who were robbed of their resources to make it, namely the taxpayers.
+
+#+begin_quote
+What are shareholders? What are worker coops?
+#+end_quote
+Those are contractual arrangements, nowhere in those arrangements is there group ownership. Now this isn't a hill I particularly care to die on, I would be willing to accept a definition of ownership that would define property managed by such groups as being group property, but certainly not when those groups aggressively obtained control as is the case with the state.
+** C9
+#+begin_quote
+> German jews actively engaged in being jewish despite knowing that it was a crime, I dont see how the knowledge that one is engaging in illegal action changes whether that action ought to be illegal.
+
+If that is true then what was the point of this paragraph?
+#+end_quote
+What?
+** C10
+#+begin_quote
+> To take this further, how is the supposed criminal to know whether they are committing this crime? They can perform informal calculations in their head based on their mass and how many units of alcohol they have consumed, but until a police officer suspects that they are guilty and administers their fallable test you are in the state of performing a Schrödinger’s crime — that is that you do not know if you are doing what is deemed illegal.
+
+But ignoring that the example of german jews is not analogous because I never stated that legality ought solely be contingent knowledge of an action and decision of the rulers. If the law fundamentally ought not exist then knowledge of whether one is breaking said law has no effect on whether it should have been enacted.
+
+Because we ought not criminalize practicing judaism in the first place, it doesn't matter whether people know it's illegal or not.
+
+Furthermore, given that the point of the criminal justice system is to disincentivize criminal action and rehabilitate those who actively engaged in illegal activity, there would be no point in criminalizing things that people are unaware of. This is why we have the idea of mens rea or guilty mind in the US criminal justice system which is necessary for criminal conviction.
+#+end_quote
+This begs the question; what laws ought exist?
+** C11
+#+begin_quote
+> Again I refer fox to this argument later in the very document he is criticising where I address this.
+
+Again I refer you to my response to that argument in the very criticism that you are responding to
+#+end_quote
+Then how about you only respond to it in that section rather than constantly making these micro responses hinting at a point that I dedicate its own section to?
+** C12
+#+begin_quote
+> The state doesnt legitimately own the roads, I do wish I had been more explicit in this point in the original document.
+
+Who does? What makes ownership legitimate? Could there be a hypothetical world in which an actor who is indistinguishable from the state passes a drunk driving law?
+#+end_quote
+
+#+begin_quote
+Who does?
+#+end_quote
+The people who were robbed of their resources
+
+#+begin_quote
+What makes ownership legitimate?
+#+end_quote
+Self-ownership, affirmed by argumentation, that then implies homesteading.
+
+#+begin_quote
+Could there be a hypothetical world in which an actor who is indistinguishable from the state passes a drunk driving law?
+#+end_quote
+Not a just law, as if this actor is indistinguishable from the state they must surely do all the aggressive acts that disqualify the state from doing such things. If you have a covenant managed by a firm that enfoce DUI laws, that would be fine.
+** C13
+#+begin_quote
+> And what if you dont feel intoxicated? In Scotland at least, you are likely to be over the limit the morning after drinks, you may say this limit is too low but how can you tell what “too low” is?
+
+I don't know what the level for scotland is so I can't comment on whether they should raise it or not, but I am not defending all drunk driving laws. I would like the criteria to be rationally set based on empirical measurement. A too low limit is one where raising it has a negligible effect on lives lost (which would be determined through both study of real world test trials and measurement of impairment while driving). If you can raise the criteria without killing people you ought do that imo.
+#+end_quote
+How do you know its the changing of the limit that is changing the deaths as you cannot change that cetirus paribus in the real world, and what counts as negligible effect on lives lost? 1? 2? 3? How do you know that those lives wouldn't have been lost/saved had the limit not been changed?
+** C14
+#+begin_quote
+> Ok so for (1) I must, yet again, point fox to this argument.
+
+And I must, yet again, note that I did respond to that argument. I
+#+end_quote
+Another floating word on the tail tsk tsk
+** C15
+#+begin_quote
+> Which can be solved through voluntary licensing and insurance.
+
+How specifically would you address this. A problem off the top of my head is that relying on insurance can't be enough given that insurance coverage is that in many states a significant portion of people do not have insurance despite the fact that one can be fined for not having car insurance. However I do want to hear your system first before commenting on it.
+#+end_quote
+
+#+begin_quote
+A problem off the top of my head is that relying on insurance can't be enough given that insurance coverage is that in many states a significant portion of people do not have insurance despite the fact that one can be fined for not having car insurance.
+#+end_quote
+That is with state-mandated insurance on state-run socialist roads, this is nowhere approaching free-market insurance.
+
+#+begin_quote
+However I do want to hear your system first before commenting on it.
+#+end_quote
+Road insurance in a free-market would be acquired on an entirely voluntary basis without subsidy. This would mean people would make their own risk assessments and shop around for the plan that best suits their needs, perhaps I dont care much about safety so I go for insurance that reflects my higher time-preference, and as a result I would only be allowed on roads that also dont care much about safety. Alternatively there would be those who are really safety-conscious and would, as a result, get insurance that reflects their preference, and they would go for roads that are safer.
+** C16
+#+begin_quote
+> This would all be very damming if my argument relied on this rather than it being an aside that I mention at the end of the section.
+
+Well I'm glad that we agree. I know you don't consider it an important point given that you questioned "how the knowledge that one is engaging in illegal action changes whether that action ought to be illegal."
+#+end_quote
+I'm just going to juxtapose 2 opinions that fox has expressed;
+#+begin_quote
+I addressed this further up but on top of that. Not having exact knowledge of what constitutes a crime doesn’t matter as long as it has sufficient negative consequences and there is a suitable heuristic.
+#+end_quote
+#+begin_quote
+Furthermore, given that the point of the criminal justice system is to disincentivize criminal action and rehabilitate those who actively engaged in illegal activity, there would be no point in criminalizing things that people are unaware of. This is why we have the idea of mens rea or guilty mind in the US criminal justice system which is necessary for criminal conviction.
+#+end_quote
+** C17
+#+begin_quote
+> So should we ban being sore and driving? What about driving tired? Should we set up checkpoints to test random peoples reaction times to see if they are fit to drive? All these would be equally permissible by this line of reasoning
+
+No given that you've failed to justify how criminalizing any of these would induce a comparable benefit to drunk driving. You have left out a significant portion of my arguments including the place where I answer this exact question
+#+end_quote
+You are yet to measure the benefit of DUI laws, until you do so the point is mine.
+** C18
+#+begin_quote
+> [fox quoting himself] 2) Can you demonstrate that they would be sufficiently beneficial? If so yes but I highly doubt that the state being able to test your mood and make decisions on that would be a net positive. You're free to enlighten me otherwise.
+
+Furthermore you ignored the fact that even if it were justifiable, all that would imply is that we ought criminalize driving tired not that we oughtn't criminalize driving drunk. Critiquing inconsistent application of a principle does not critique that principle.
+
+Also having skimmed google, there could be good reason to prevent fatigued drivers from driving. In NJ there's maggie's law which addresses driving without sleep.
+
+and as I asked before: Why not? (Ik why I don't think so but why don't you think we should do it)
+#+end_quote
+
+#+begin_quote
+Furthermore you ignored the fact that even if it were justifiable, all that would imply is that we ought criminalize driving tired not that we oughtn't criminalize driving drunk. Critiquing inconsistent application of a principle does not critique that principle.
+#+end_quote
+It shows inconsistency, thereby showing DUI to be arbitrary, and as stated above, you will be arbitrarily selecting how risky the roads should be from a central planning position, unjust in every sense of the word.
+
+#+begin_quote
+Also having skimmed google, there could be good reason to prevent fatigued drivers from driving. In NJ there's maggie's law which addresses driving without sleep.
+
+and as I asked before: Why not? (Ik why I don't think so but why don't you think we should do it)
+#+end_quote
+I have answered this already, I do not believe in the policing of probabilities outside of voluntary means, it's the entire premise of the video and the fact that this has now been asked twice shows me that fox did not take the time to digest the point I was making. In fact, this isn't even something that was answered by me in some far away section of the document, it was literally in the very section fox is responding to here.[fn:1]
+** C19
+#+begin_quote
+> how about instead we look for people who are literally, visibly, driving dangerously?
+
+We do. The reason that that is not sufficient is that intoxication is an indication of future reckless driving even if current the driving isn't reckless and we can't always perfectly observe every car all the time. Some heuristics are necessary. Additionally drunk driving laws will disincentivize people from driving drunk in the first place. Many intoxicated people don't feel their own lack of coordination and/or have lowered inhibitions and a hard line would leave less room for someone to mis-judge their actions.
+
+It all comes down to what empirically has the greatest effect is empirically. We can't a priori the effect phenomena without the help of empirical data.
+#+end_quote
+
+#+begin_quote
+We do. The reason that that is not sufficient is that intoxication is an indication of future reckless driving even if current the driving isn't reckless and we can't always perfectly observe every car all the time. Some heuristics are necessary.
+#+end_quote
+So you are literally ciminalising future action. Can I dress up my minority report broken window policing in fancy language to make it sound alright too?
+
+#+begin_quote
+It all comes down to what empirically has the greatest effect is empirically.
+#+end_quote
+[[./29-04-2021--not-fox--image0.jpg]]
+** C20
+#+begin_quote
+> Or, better yet, let the market decide rather than asking the opinion of unqualified bureaucrats?
+
+Again I need to hear your specific proposal but:
+
+1) Do you have evidence that we can't have qualified people make regulations? I have many problems with the government today but that doesn't mean that there can't be benefits of it or that we can't make it better.
+
+2) Personal gain is maximized in real world markets instead of social good, markets are imperfect and inconsistent, and individual agents can't be directed towards a specific goal without some form of command. As I said before though I can't critique a system that I don't know.
+#+end_quote
+
+#+begin_quote
+Do you have evidence that we can't have qualified people make regulations? I have many problems with the government today but that doesn't mean that there can't be benefits of it or that we can't make it better.
+#+end_quote
+Nobody can be qualified to centrally plan, it doesn't matter how clever you are the ECP will serve as an impassable gulf.
+
+#+begin_quote
+Personal gain is maximized in real world markets instead of social good, markets are imperfect and inconsistent, and individual agents can't be directed towards a specific goal without some form of command. As I said before though I can't critique a system that I don't know.
+#+end_quote
+Personal gain being maximised also maximises capital for all participants. It is a priori true that all market participants profit, necessarily. I'd like to know what exactly social good is if not literally everyone profiting.
+** C21
+#+begin_quote
+> Why not, they are of higher risk than their white countreparts, the argument that I was responding to was that the probability is higher, it made no mention of degree.
+
+So you are yet again ignoring my argument and explicit statements here then.
+
+Either:
+
+a. The hypothetical argument that you responded to includes a mention of degree and your reductio on that argument is incorrect.
+
+or
+
+b. The hypothetical argument that you responded to does not include a mention of degree and I would then criticize the misrepresentation of the opposing side and conflation of my argument and the hypothetical argument.
+
+You already stated that it's not a, so the only possibility is that you ignored how I specifically mentioned degree and responded to a misrepresentation of my argument as if it debunked my true argument.
+#+end_quote
+
+#+begin_quote
+You already stated that it's not a, so the only possibility is that you ignored how I specifically mentioned degree and responded to a misrepresentation of my argument as if it debunked my true argument.
+#+end_quote
+But fox, the video wasn't made as a response to you, you were responding to my argument as to why saying "the probability increases" is a bad argument. You can make an additional argument if you like, but to paint your additional argument as if it somehow debunks my argument is foolish and wrong.
+** C22
+#+begin_quote
+> Therefore this does nothing to show my reductio ad absurdum to be invalid.
+
+Regardless of wether the reductio is valid on a specific hypothetical, it not analogous to an argument that considers magnitude.
+#+end_quote
+Ok, but the original argument /didn't/ consider magnitude, you can try to either go back in time to make that argument to me when I was workshopping this idea, or you can make the argument now as an entirely separate argument, /not/ as a response to my response to an argument that makes no mention of magnitude.
+** C23
+#+begin_quote
+> Ok, lets make an adjustment to the reductio ad absurdum; there is a negative correlation between religiosity and crime,
+
+This falls victim to the same problems that I stated:
+
+For your first citation, "If You Love Me, Keep My Commandments’: A Meta-Analysis of the Effect of Religion on Crime," in the results section they "found that religion has a ... effect on crime of about r = -0.12."
+
+The variance in crime explained by religiosity is about 1%. This is extremely small and, similarly to the example of black people, does not come close in magnitude to intoxicated driving.
+#+end_quote
+> /sees reductio ad absurdum/
+> Hey! When you changed the magnitude there you reduced the situation to absurdity!
+mfw
+[[./29-04-2021--not-fox--image1.gif]]
+** C24
+#+begin_quote
+> so should we therefore punish atheists?
+
+Ignoring the tiny magnitude of the effect of religion on crime, the main point of the criticism to which you are responding still stands and applies to this as well.
+
+The effects of criminalizing religious or nonreligious belief is so harmful to society to the point that it is codified into the constitution via the first amendment. One of the main reasons that america was created was on the basis of religious freedom.
+
+A law that criminalizes atheism or certain religions is significantly more tyrannical than criminalizing based on whether you drink before you drive.
+#+end_quote
+
+#+begin_quote
+Ignoring the tiny magnitude of the effect of religion on crime
+#+end_quote
+Considering it was a reductio /ad absurdum/ that seems to be a wise course of action.
+
+#+begin_quote
+The effects of criminalizing religious or nonreligious belief is so harmful to society to the point that it is codified into the constitution via the first amendment. One of the main reasons that america was created was on the basis of religious freedom.
+#+end_quote
+How do you measure societal harm? Is it impossible for a constitution to be wrong? If the constitution said that DUI laws shall not be enacted would DUI laws be wrong?
+
+#+begin_quote
+A law that criminalizes atheism or certain religions is significantly more tyrannical than criminalizing based on whether you drink before you drive.
+#+end_quote
+Why?
+** C25
+#+begin_quote
+> To take this further, a 2012 study has suggested that a belief in hell reduces crime, and I needent go into the obvious risks associated with Wahabbism.
+
+I'm glad that you agree with that the net effects of forcing a religious belief on people is not worth the potential miniscule decrease in crime. Thank you, I couldn't have said it better myself.
+
+Although our consensus and by extension my point persists regardless of the validity of the study, the results of the study are suspect given all of the problems with cross sectional country level data, the problems with ecological inference, no discussion of disparate reporting, no discussion of age, no discussion, significant differences in the time of data collection, etc. I can go more into depth if you want but I don't think that it's relevant to the issue at hand.
+#+end_quote
+
+#+begin_quote
+I'm glad that you agree with that the net effects of forcing a religious belief on people is not worth the potential miniscule decrease in crime. Thank you, I couldn't have said it better myself.
+#+end_quote
+Those risks being suicide bombers, your approach to criminalising risk would justify the criminalisation of wahabbism and atheism.
+
+#+begin_quote
+Although our consensus and by extension my point persists regardless of the validity of the study, the results of the study are suspect given all of the problems with cross sectional country level data, the problems with ecological inference, no discussion of disparate reporting, no discussion of age, no discussion, significant differences in the time of data collection, etc. I can go more into depth if you want but I don't think that it's relevant to the issue at hand.
+#+end_quote
+Wait a minute, are you saying that empiricism isn't equipped to deal with social science? Sacrilege!
+** C26
+#+begin_quote
+> All of these religious sects are chosen by people, making this of the same form as those who choose to drink and drive.
+
+1) Religious belief and intoxicated driving are very different. Religious belief is not something that someone can directly chose. Most can not flip a switch and convince themselves of a specific god or hell as easily as they can drink.
+
+2) My criteria are not solely whether someone chooses even though that does affect things. As I said above criminalizing religion is much more tyrannical and negative than drunk driving
+#+end_quote
+
+#+begin_quote
+Religious belief and intoxicated driving are very different. Religious belief is not something that someone can directly chose.
+#+end_quote
+Yes it is.
+
+#+begin_quote
+Most can not flip a switch and convince themselves of a specific god or hell as easily as they can drink.
+#+end_quote
+1 word; alcoholism. And whether most are alcoholic isn't relevant as most religious people aren't particularly fervent. All that matters is that minority where this applies; the alcoholics, they cannot flip a switch and stop drinking so why persecute them in the way you dont want the religious persecuted? Shall the alcoholics be treated to be made into non-alcoholics? If so why dont we "treat" the atheists to make them into theists?
+
+#+begin_quote
+My criteria are not solely whether someone chooses even though that does affect things. As I said above criminalizing religion is much more tyrannical and negative than drunk driving
+#+end_quote
+Why is it more tyrannical and negative?
+** C26
+#+begin_quote
+> Why on earth must utility be taken into account?
+
+Because I care about doing what's best for society and people's health and safety are more important than property.
+
+I am aware that you would rather people have cancer than property rights being violated but I do not share that same indifference toward human wellbeing.
+
+Why do you value property rights over people? Why would you be willing to let people die so others can drive drunk?
+#+end_quote
+
+#+begin_quote
+Because I care about doing what's best for society and people's health and safety are more important than property.
+#+end_quote
+I disagree, what now? Why should I care about what you care about?
+
+#+begin_quote
+I am aware that you would rather people have cancer than property rights being violated but I do not share that same indifference toward human wellbeing.
+#+end_quote
+What a bad faith lens lmao
+
+#+begin_quote
+Why do you value property rights over people? Why would you be willing to let people die so others can drive drunk?
+#+end_quote
+Why do you assume property rights are at odds with people? This is a laughably poor comprehension of libertarianism, bad gotcha.
+** C27
+#+begin_quote
+> Or, we can let the market solve it for us, how does this show my logic to be faulty? I thought thats what these 4 points were doing.
+
+I was demonstrating a distinction between drunk driving and poverty. We already have the tools to directly eliminate poverty. I need to hear the specifics of your proposed system but I most likely disagree that your solution would address the problem.
+#+end_quote
+
+#+begin_quote
+We already have the tools to directly eliminate poverty.
+#+end_quote
+Indeed we do, and if only socialists wouldn't stop entrepreneurs from using them.
+** C28
+#+begin_quote
+> How do you measure the “impact on people/society?”
+
+Empirical observation most likely through studies on implementing the polices.
+#+end_quote
+What are you empirically observing to measure this vague impact?
+** C29
+#+begin_quote
+> Well then you have a very strange definition of free-society.
+
+Maximizing what people realistically can do is a strange definition of freedom? Depriving people of the resources and safe environment to do what they desire reduces what they can do and I would consider that an odd definition of freedom.
+#+end_quote
+Who is being deprived in a free-market?
+** C30
+#+begin_quote
+> Again, criminalise is correct, and as I said above, read just a little bit further down and you will see that I have already addressed this.
+
+Read just a little bit further down and you will see that I have already addressed your point.
+#+end_quote
+My point that criminalise is correct or my point that you need to read further down? If I read further down will you tell me that you in fact didnt need to read further down all along?
+** C31
+#+begin_quote
+> Did you forget the title of the section you are responding to? It’s “The Probability of an Accident Increases,” I am responding to that argument, which is a probabilistic argument.
+
+No I did not forget. The problem is, as I stated above, your hypothetical is not representative of real arguments that involve the probability.
+#+end_quote
+It is literally an argument that I was presented with multiple times in my workshopping of the video.
+** C32
+#+begin_quote
+> I dont know how I can make that clearer, it’s on fox to bother reading the rest of the counterarguments if he wants to criticise them.
+
+I did. You are the one who repeatedly ignores my points, and didn't bother reading the rest of my counterargument before commenting.
+#+end_quote
+[[./29-04-2021--not-fox--image2.gif]]
+** C33
+#+begin_quote
+> So fox wants the minority report?
+
+When did I say that?
+#+end_quote
+
+#+begin_quote
+> It is the job of voluntary insurance and licensing firms to deal in what a person is probable to do.
+
+Unsubstantiated claim.
+#+end_quote
+This implies that you want me to show you that the state ought not be policing probabilities and that these are better left to voluntary insurance and licensing, the state policing what a person is probable to do is the minority report.
+** C34
+#+begin_quote
+> What a shitty counter lmao.
+
+You made a claim without substantiating it. Why ought governments not consider what one is probable to do. The entire idea of the criminal justice system is to deter crime (i.e. making non-offenders less probable to offend), and reform people who will probably re-offend. We don't just punish people because we feel like it.
+#+end_quote
+Again, just a little juxtaposition for you
+#+begin_quote
+When did I say that [I want the minority report]?
+#+end_quote
+#+begin_quote
+Why ought governments not consider what one is probable to do[?]
+#+end_quote
+** C35
+#+begin_quote
+> This is literally in the context of what ought to happen in a free-society, I know fox has a weird definition of free but I didnt think he would come out and say that you can be free in the minority report universe.
+
+Again I never said that.
+#+end_quote
+And he's back to not wanting the minority report.
+** C36
+#+begin_quote
+> Im sorry, but was the title of that section not “Drunk Driving Laws Discourage Drunk Driving?” I must have imagined that I was responding to a deterrence-based legal system there, my mistake, I really should split the argument up into sections with headers to make it clear what I am responding to.
+
+The problem with your sections is that you assume each argument is orthogonal to each other and any one of them can stand alone. That is patently false. The hypothetical would be valid if the argument was solely about deterrence instead of an argument that considered deterrence in the context of societal wellbeing.
+#+end_quote
+Ok, shake up your little boggle box argument matrix and give me some tuple of the arguments that you think are greater than the sum of their parts.
+** C37
+#+begin_quote
+> Gee wiz, if only I was responding to the idea of a deterrence-based justice system then I wouldn’t fall foul of 2. Thank god not fox read between the lines and saw that section as my total rebuttal of utilitarianism.
+
+see above. I also never said that you were refuting utilitarianism; I said that your argument had the same structure of an argument posing as a refutation to utilitarianism.
+#+end_quote
+Ok, but I wasnt talking about utilitarianism, "fish will die if they leave the water" is of the same structure as "humans will die if they leave the water" yet they aren't analogous, I am responding to deterrence-based legal systems that EVEN YOU dont want, why are you arguing aginst me if we are in agreement that “Drunk Driving Laws Discourage Drunk Driving,” is a bad argument?
+** C38
+#+begin_quote
+> What legal utility?
+
+Multiple severities of offense. Wet and reckless is often for borderline illegal levels of alcohol whereas a dui is generally further above
+#+end_quote
+Why cant you just have degrees of severity inherent to the reckless driving itself, and plese don't make me enact that new keybind.
+** C39
+#+begin_quote
+> Seems the only extra people who would be arrested are those who drive perfectly safely but had their breath tested at a checkpoint, why must they be punished?
+
+1) That's not the distinction
+
+2) We can't be sure that they were or will be driving perfectly safely. We only have so much observation at one time. Intoxication is a really good heuristic
+#+end_quote
+1. elaborate
+2. And being male is a good heuristic for violence in life, let's ban men! SCUM gang roll out!
+** C40
+#+begin_quote
+> Ah yes I forgot that the government mandates that all buildings must have metal detectors, and that this isn’t a result of voluntary risk assessment as I have so blatantly called for.
+
+Doesn't respond to the central argument. Metal detectors exist because of the same reason traffic stops exist: just because someone is not currently acting harmful doesn't mean they won't in the future.
+#+end_quote
+Fucking hell, but one is voluntary and one is forced, I am fine with voluntary measures against risk, I am not fine with bureucrats deciding how much risk I ought to take.
+** C41
+#+begin_quote
+> it’s not imagined, and do you think the government should criminalise driving with a bad mood?
+
+Why would I think that? Also even assuming it's inconsistent the rest of my first point still stands.
+#+end_quote
+Yes why the fuck would you think that, good question. Could it perhaps be that it would make you consistent in your desire to have bureaucrats decide how risky people are allowed to be? Nah, it was a silly question on my part.
+** C42
+#+begin_quote
+> Can you demonstrate that drunk driving laws are sufficiently beneficial?
+
+Yes. This is a literature review on the effectiveness of a 0.05 BAC limit:
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4448946/
+
+This is a U.S. Department of Transportation report on driving with alcohol laws:
+
+https://one.nhtsa.gov/people/injury/research/pub/alcohol-laws/08history/1_introduction.htm
+
+This is a study that tests the specific effects of lowering from 0.10 to 0.8 BAC
+
+https://pubmed.ncbi.nlm.nih.gov/30888888/
+
+Now I will repeat my question:
+
+Can you demonstrate that they would be sufficiently beneficial? If so yes but I highly doubt that the state being able to test your mood and make decisions on that would be a net positive. You’re free to enlighten me otherwise.
+#+end_quote
+
+#+begin_quote
+Yes. This is a literature review on the effectiveness of a 0.05 BAC limit:
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4448946/
+
+This is a U.S. Department of Transportation report on driving with alcohol laws:
+
+https://one.nhtsa.gov/people/injury/research/pub/alcohol-laws/08history/1_introduction.htm
+
+This is a study that tests the specific effects of lowering from 0.10 to 0.8 BAC
+
+https://pubmed.ncbi.nlm.nih.gov/30888888/
+#+end_quote
+What if they were 1% less effective than these studies suggest, would that be effective enough? What about 2%? 3%? I think you see where I'm going, it's the ECP applied to BAC, the BACCP if you will.
+
+#+begin_quote
+Can you demonstrate that they would be sufficiently beneficial? If so yes but I highly doubt that the state being able to test your mood and make decisions on that would be a net positive. You’re free to enlighten me otherwise.
+#+end_quote
+I need to know how beneficial they need to be to counlt as "sufficient" in your books. How risky is objectively too risky?
+** C43
+#+begin_quote
+> Because probabilities should be left up to voluntary insurance and licensing
+
+Again it's not solely probabilities that are being criminalized. It's the act of driving while in a specific state.
+#+end_quote
+And why is that state criminal? I think it has something to do with probabilities but I may be missremembering. Let's assume it isnt the probabilities, why ban it then? Surely that would only serve my argument that it is the criminalisation of the chemical composition of ones blood and not of any actual harm being done.
+** C44
+#+begin_quote
+> NO, THATS THE FUCKING POINT. MASKS ARENT CRIMINALISED, JESUS FUCKING CHRIST.
+
+Lol sorry I was a bit sleep deprived.
+
+The difference is that masks don't make you commit crimes but alcohol makes you a more dangerous driver.
+#+end_quote
+What about people who drive more safely because they are attentive to the fact that they are physically impared?
+** C45
+#+begin_quote
+> That same causal link exists with people who drink being more likely to commit crimes, ought we ban alcohol? What about caffeine?
+
+Again, the magnitude, severity of infringement, and effectiveness are all important.
+
+If you could justify that it would work (the prohibition was a disaster), that it wouldn't give the state way too much power, and that it would have a significant positive impact then I would probably change my mind (unless there's some other good reason not to do it).
+#+end_quote
+
+#+begin_quote
+Again, the magnitude, severity of infringement, and effectiveness are all important.
+#+end_quote
+Scroll up to my reductio ad absurdum greentext
+
+#+begin_quote
+If you could justify that it would work (the prohibition was a disaster),
+#+end_quote
+Define "work," are DUI laws working?
+
+#+begin_quote
+that it wouldn't give the state way too much power
+#+end_quote
+Every law gives the state way too much power
+
+#+begin_quote
+and that it would have a significant positive impact then I would probably change my mind
+#+end_quote
+And what is positive impact measured in? Is that what positrons are?
+** C46
+#+begin_quote
+> I would be interested to know if fox is fine with theft in the protection of property.
+
+can you clarify?
+
+do you mean to ask if I would be fine if someone stole something to stop someone from violating their property (e.g. stealing a fence to protect your property)? If so then it depends. I don't fundamentally care about property except to the extent that it promotes human wellbeing. If someone was going to have their life ruined if they didn't steal from a megacorp who would barely notice the missing fence then sure it's justifiable.
+#+end_quote
+What if it's the megacorp that are stealing? Surely a bad thing. But a ha! The megacorp started calling it taxation and they built a few pieces of shoddy infrastructure so you would be a hypocrite to be against their theft!
+** C47
+#+begin_quote
+> That’s funny, because I have noticed a similar sign but it’s when someone decides to nitpick typos as intellectual chaff in their arguments.
+
+When did I do that? Because all I remember is pointing out a few spelling mistakes here and there. Meanwhile you repeatedly mischaracterize my arguments, ignore them, and dishonestly frame things to obscure from the true situation.
+#+end_quote
+Now that I think about it I plum cant remember any time when fox filled his arguments out with correcting typos of mine.
+
+* Conclusion
+https://youtu.be/QBQbADvZxU4
+
+* Footnotes
+
+[fn:1]
+https://github.com/LiquidZulu/youtube-scripts/blob/main/scripts/Why%20Drunk%20Driving%20Should%20Not%20Be%20a%20Crime/criticisms-and-counters/27-04-2021--not-fox.org#criticism-25
