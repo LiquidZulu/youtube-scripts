@@ -1,0 +1,695 @@
+#+TITLE:Why Healthcare Should Be Privatised
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+DATE:2021-04-14 GMT Summer Time
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+begin_center
+Note: After 100 footnotes =org-footnote-action= broke so they will be in a strange order. I will try to get BibTeX working in future.
+#+end_center
+
+* Introduction
+Healthcare is perhaps the industry most plagued by the state of them all, there is immense regulation,[fn:1] funding,[fn:2][fn:3] and in some cases outright state monopolisation of the sector.[fn:4] In this document I will show how every major healthcare crisis the world faces today has come about as a direct result of state interference, and I will describe the free-market counterfactual for healthcare and how it could solve those problems.
+
+* Crises
+** Healthcare Costs Are Too High
+*** US
+The US is the country that international-socialists most often tout as a failure of free-market healthcare, despite the fact that more public funds are spent per-capita there than in the UK.[fn:5] But the immense public funding is not the only problem plaguing the US market, the federal government also places immense regulation, mandatory licensing, and legion other restrictions on the ability of people to freely buy and sell healthcare resources, directly causing the ballooning prices we can see today.
+
+It is important here to note that this crisis in healthcare costs didnt start until the mid 1960s[fn:6] (see also Figure 1 below), when the government increased demand with the passage of medicare[fn:7] and medicaid,[fn:8] whilst continuing their restriction of the supply of doctors and medicine through medical licensing laws[fn:9] and the regulation of the sale of drugs through the Food and Drug Administration.
+
+#+CAPTION:An Indexed Comparison of Health Care Inflation and Consumer Price Index in US from 1935 to 2009 (Source: US Census 2013).
+#+NAME:Figure 1
+[[./images/fig1.png]]
+
+It has been noted by Milton Freidman[fn:10] that this restriction of supply coupled with the rising demand is a direct cause of the price increase above inflation. Robert Alford explained the minority view:[fn:11]
+#+begin_quote
+The market reformers wish to preserve the control of the individual physician over his practice, over the hospital, and over his fees, and they simply wish to open up the medical schools in order to meet the demand for doctors, to give patients more choice among doctors, clinics, and hospitals, and to make that choice a real one by public subsidies for medical bills
+#+end_quote
+
+For more than a century, medical special interests have invested billions into lobbying government to reduce competition[fn:12][fn:13] --- in fact, in 1945 the AMA spent $1.5 million on lobbying which was, at the time, the most expensive lobbying effort in US history.[fn:14] Their efforts have paid off, below I borrow a list of a number of major government policy changes that have interfered with the healthcare industry, compiled by Mike Holly:[fn:15][fn:16]<<holly_regs>>
+#+begin_quote
++ In 1910, the physician oligopoly was started during the Republican administration of William Taft after the American Medical Association lobbied the states to strengthen the regulation of medical licensure and allow their state AMA offices to oversee the closure or merger of nearly half of medical schools and also the reduction of class sizes. The states have been subsidizing the education of the number of doctors recommended by the AMA.
+
++ In 1925, prescription drug monopolies begun after the federal government led by Republican President Calvin Coolidge started allowing the patenting of drugs. (Drug monopolies have also been promoted by government research and development subsidies targeted to favored pharmaceutical companies.)
+
++ In 1945, buyer monopolization begun after the McCarran-Ferguson Act led by the Roosevelt Administration exempted the business of medical insurance from most federal regulation, including antitrust laws. (States have also more recently contributed to the monopolization by requiring health care plans to meet standards for coverage.)
+
++ In 1946, institutional provider monopolization begun after favored hospitals received federal subsidies (matching grants and loans) provided under the Hospital Survey and Construction Act passed during the Truman Administration. (States have also been exempting non-profit hospitals from antitrust laws.)
+
++ In 1951, employers started to become the dominant third-party insurance buyer during the Truman Administration after the Internal Revenue Service declared group premiums tax-deductible.
+
++ In 1965, nationalization was started with a government buyer monopoly after the Johnson Administration led passage of Medicare and Medicaid which provided health insurance for the elderly and poor, respectively.
+
++ In 1972, institutional provider monopolization was strengthened after the Nixon Administration started restricting the supply of hospitals by requiring federal certificate-of-need for the construction of medical facilities.
+
++ In 1974, buyer monopolization was strengthened during the Nixon Administration after the Employee Retirement Income Security Act exempted employee health benefit plans offered by large employers (e.g., HMOs) from state regulations and lawsuits (e.g., brought by people denied coverage).
+
++ In 1984, prescription drug monopolies were strengthened during the Reagan Administration after the Drug Price Competition and Patent Term Restoration Act permitted the extension of patents beyond 20 years. (The government has also allowed pharmaceuticals companies to bribe physicians to prescribe more expensive drugs.)
+
++ In 2003, prescription drug monopolies were strengthened during the Bush Administration after the Medicare Prescription Drug, Improvement, and Modernization Act provided subsidies to the elderly for drugs.
+
++ In 2014, nationalization [was] strengthened after the Patient Protection and Affordable Care Act of 2010 (“Obamacare”) provided mandates, subsidies and insurance exchanges, and the expansion of Medicaid.
+#+end_quote
+
+Figure 2 below shows the cumulative effects of all these interferences on the healthcare spending by sector and quite clearly paints the picture that government has ballooned the price far beyond what the market did, and would, produce.
+
+#+CAPTION:Health Care Spending in U.S. by Sector from 1960 to 2005 (Source: US Census 2013)
+#+NAME:Figure 2
+[[./images/fig2.png]]
+
+Spending on prescription drugs didn't accelerate until after pharmaceutical monopolies were strengthened in 1984. Spending has increased even less for administrative, net cost of private health insurance and nursing home care, and not much at all for dental, structures, equipment, public health, other personal and professional care, home health care, research, non-prescription drugs and durable medical equipment.
+
+Since the 1980s, the government has used its buyer monopoly power, through its Medicare and Medicaid programs, to effectively set price and quality controls (e.g., underpayments) on physicians and hospitals.[fn:17] For the same purpose, the Federal and state governments promoted the concentration of private insurance into buyer monopolies (e.g., HMOs). The government has also encouraged clinics and hospitals to respond by merging into concentrated provider monopolies (while continuing to limit the supply of doctors and hospitals).
+
+These government-private partnerships called "managed competition" resemble socialist central-planning.[fn:18] Government sets prices,[fn:19] which has predictably led to reduced quality, rationing and other perverse gaming. Moreover, the bureaucracy has brought standardized care,[fn:20] higher administrative costs[fn:21] and high executive salaries.[fn:22] Although costs have continued to rise at the same double the rate of inflation (fig. 3), it is questionable at best the extent to which prices are now set by the laws of supply and demand.
+
+#+CAPTION:Healthcare costs rising faster than the CPI after 1981 (Source: https://www.thestreet.com/mishtalk/economics/employer-healthcare-costs-jump-to-20-000-not-inflation)
+#+NAME:Figure 3
+[[./images/fig3.png]]
+
+*** UK
+The UK's National Health Service, or NHS, has wormed its way so deep into the culture that it achieves an almost cult-like status, where one will be harrassed for neglecting to cheer for it,[fn:23] and good luck trying to find a single public figure or politician with the balls to say anything even a little bit negative about the monopoly. There is much fury over how the Conservative party have treated /our NHS/ from leftists,[fn:24] and speaking to one of these international-socialists you would think that they have implemented Thatcher-style obliterations to the funding, but not only has this not occurred, they havent even frozen the rise in funding. All of that anger is over the Conservatives simply reducing the rate at which funding increases (see Figure 4).
+
+#+CAPTION:How NHS spending has changed between 1949 and 2017 (Source: /Institute for Fiscal Studies/ via https://www.buzzfeed.com/emilyashton/the-nhs-at-70-inside-the-fight-for-the-future-of-a-national)
+#+NAME:Figure 4
+[[./images/fig4.png]]
+
+As Antony Sammeroff explains,[fn:25] this increase in state funding of healthcare services has cost Britain its status as a world leader in medicine:
+#+begin_quote
+Before the National Health Service was created in Great Britain our nation was a world-leader with an unrivalled record in making major medical breakthroughs. People came from all over the globe to study medicine, and to be treated in the UK. Dr. John Snow proved that the source of cholera epidemics was the water supply in London. Edward Jenner pioneered a vaccine for smallpox in rural England, and Sir Almroth Wright one for typhoid. Sir Humphrey Davy, also a Briton, first suggested the use of nitrous oxide as an anaesthetic in 1800. Sir Joseph Lister pioneered the use of antiseptics in operations in 1865 using impure carbolic acid, saving countless people dying from infections after surgery. Alexander Flemming, the Scottish physician discovered Penicillin in one of the charitable hospitals in London in 1928. Howard Florey and Ernst Chain, brought it to fruition working in a laboratory in Oxford in 1941. Britain had established the best record in the world for achieving major medical advances and had just developed the landmark drug of the 20th century, as well as playing a leading role in 5 out of the 7 leading medical breakthroughs between 1750 and 1948 when the NHS was established.[fn:26] Britain is no longer a leader in medical advances.
+
+Britain has less of the latest equipment and the old equipment is often being kept beyond the time when it is safe.[fn:27] If a private company was using out of date intensive care machines and x-ray machines, obsolete cancer care equipment, and operating tables over twenty years old -- double their safe life span -- the champions of the NHS would no doubt be clamouring for more government oversight and regulation. When government agencies are culpable, they are more or less given a pass on public outrage because they are perceived to be acting in the public interest rather than for profit.
+#+end_quote
+
+The UK is unable to compete with the cancer survival rates of the US --- a 2011 report[fn:28] has demonstrated that Englands laugable survival rate of 54.48% is eclipsed by the US' 71.18%. Healthcare that is free at the point of service sounds great, but not if it doesn't actually make you healthy. /The BBC/ have reported patients "dying in hospital corridors,"[fn:29] in one month 300,000 patients were made to wait in emergency rooms for more than four hours before being seen,[fn:30] with thousands more suffering long waits in ambulances before even being allowed into the emergency room.[fn:31]
+
+In the UK and Canada, people die waiting in line for what would be quick and routine medical treatments in the US. 4 million are on hospital waiting lists,[fn:32] up from a 7 year high of 3.4 million,[fn:33] and this in a population of less than 67 million.[fn:34] In the UK you could turn up to an emergency room with an appendix about to burst and still be asked to wait overnight before they find you a bed. One patient reported that a lack of treatment rooms led hospital staff to examine her for gynaecological problem which had left her in severe pain and bleeding in a busy corridor, in full view of other patients.[fn:35] Such humiliating anecdotes could be dismissed as embarrassing one-offs were it not for the shocking fact that as many as 120 patients per day[fn:36] are being attended to in corridors and waiting rooms, in the public areas of hospitals, and some even dying prematurely as a result. In the first week of 2018, over 97% of NHS trusts in England were reporting levels of overcrowding so severe as to be "unsafe."[fn:37]
+
+25% of British cardiac patients die waiting for treatment, and an investigation by a British newspaper found that delays in treatment for colon and lung cancer patients have been so long that 20% of cases were incurable by the time they finally received care.[fn:38] 193000 NHS patients a month wait beyond the target time of 18 weeks for surgery.[fn:39] According to the OECD Britain has the lowest number of doctors per thousand population in the advanced world.[fn:40] Figure 5 below shows that the US has consistently fewer patients wating 4 weeks or more for either specialist appointments or elective surgery than; the UK, New Zealand, Australia, France, Norway, Sweden, and Canada, 7 countries with healthcare systems that receive far less criticism and far more praise from international socialists.
+
+#+CAPTION:Percentage of patients who wait more than 4 weeks for specialist appointments and for elective surgery (Via: https://expathealth.org/healthcare/global-patient-wait-time-statistics/).
+#+NAME:Figure 5
+[[./images/fig5.png]]
+
+Where free-at-the-point-of-entry resources are limited, older patients are often viewed as a drag on the system[fn:41] -- especially since they require the most frequent care which costs much more. The average 65-year-old costs the NHS 2.5 times more than the average 30-year-old. An 85-year-old costs more than five times as much.[fn:42] Although a third of all diagnosed cancers in the UK are found in patients seventy-five and over, only one in fifty lung cancer patients over seventy-five receives surgery, and the NHS does not even provide cancer screening to patients over the age of sixty-five.[fn:43]
+
+Sammeroff points out the results of the incentive to manipulate statistics to the detriment of those who most need healthcare (punctuation added for clarity):[fn:44]
+#+begin_quote
+The government can make waiting lists look shorter by denying patients services outright, because those who have been refused services will no longer appear in statistics. If someone's disease proves fatal because they failed to receive treatment in time, the government figures appear more cost effective because instead of having to budget for a series of expensive surgeries, they have a deceased person on their hands who will not rack up a whole lot of medical accounts. It's not to say that anyone is perniciously trying to kill off patients, but with pressure constantly mounting for officials to show meaningful improvements, the incentive to coldly take advantage of manipulated statistics "for the greater cause of saving the NHS" will always loom. It is, after all, our religion. In one interview, prominent columnist Dr. Dalrymple reported "Managers going around the wards telling the doctors who they thought ought to be discharged. They had no medical training or knowledge. But they would try and influence the doctors to discharge patients quickly… This is a problem, of course, wherever the person paying for the care is not the patient himself… But where you have one giant organization that decides everything the hazard is even greater."
+#+end_quote
+
+So the NHS may not charge one at the point of service, but it is immensely costly in terms of both the taxation required and the lives lost, no matter how much money is thrown into the great money pit that is the National Health Service it will /never/ deliver a product anywhere close to being as good as the free-market.
+
+
+
+
+** CCPVirus
+/See: [[https://www.youtube.com/watch?v=eD3ztjqYGbg][Peak Prosperity, "Covid-19 A Result of Lab Manipulation? Suspicions Grow..."]] for more details/
+Currently the most apparent crisis in healthcare is that of the coronavirus pandemic, in this section I will present extensive evidence that this pathogen was created through gain of function research preformed by CCP scientists, I will then describe how even if it was a naturally occuring disease it was allowed to spread by state malice and incompetence.
+
+*** Lab-made?
+**** Wuhan lab shutdown in October 2019
+Cellphone geolocation data[fn:108] acquired by NBC[fn:107] shows no activity from the 7th Oct through to the 24th Oct 2019 in a high-security portion of the Wuhan Institute of Virology, and even extending to the surrounding roads, suggesting a potential hazardous event in that area. Three sources briefed on the matter told NBC that US spy agencies were reviewing the event at least by mid-2020.
+
+#+CAPTION:Cellphone geolocation data of WIV and the surrounding area.
+#+NAME:Figure 6
+[[./images/fig6.png]]
+
+It should be noted here that the first confirmed case dates back to the 17th of November, not long after this incident especially considering the incubation period of this disease, especially considering that this 17th Nov case probably isn't the first which I will discuss below (see: [[Where is patient 0?]]).
+**** PLA coronavirus research
+A major study[fn:109] into the origins of the coronavirus, funded by the Australian and Chinese government[fn:110] relied on a laboratory in an institute in the People’s Liberation Army’s Academy of Military Medical Sciences for genetic sequencing and virus isolation.[fn:111]
+
+The director of the microbiology institute, Professor Wu-Chun Cao, who is thanked in the paper’s acknowledgments for his “substantial contribution,” has the rank of colonel and is a Wuhan Institute of Virology board member in a clear conflict of interest. Furthermore, one of the studies co-authors, Yi-Gang Tong began working in the same PLA-run institute in 2005.
+
+It is easy to see how such evidence provided by the PLA could be used to explain away the anomalous genetics, which I explore below (see: [[What is with the sequence?]]).
+**** Where is patient 0?
+The first official case of the CCPVirus was recorded on the 17th of November 2019 in Wuhan, China, but by only the 2nd of December there was a man in France with the condition. Now this is a virulent disease but it is very curious that it got all the way to france in such a short time. To compound this the man wasn't a world-traveller of any sorts but a fish-monger who had never set foot in China implying an even earlier French case.
+
+On top of this, three of the first four cases -- including the case on the 17th November -- had no documented link to the Wuhan wet market.[fn:112]
+**** Where is the natural reservoir?
+The bats that are said to be the natural reservoir of this virus are found about 1000 miles away from Wuhan in Yunnan province,[fn:115] but are studied in 2 labs in the city,[fn:113] and photos have emerged of researchers at both labs collecting samples from bats without wearing protective gear.[fn:114]
+
+To compound this theme of incompetence, Washington Post columnist, Josh Rogin, wrote that:
+#+begin_quote
+During interactions with scientists at the WIV laboratory, [US diplomats] noted the new lab has a serious shortage of appropriately trained technicians and investigators needed to safely operate this high-containment laboratory
+#+end_quote
+**** What is with the sequence?
+In 2015, the Wuhan Institute of Virology, along with researchers in the US and Switzerland, published a paper[fn:116] detailing how they made a chimeric SARS-like virus based on a coronavirus found in horseshoe bats, the proposed natural reservoir for SARS-CoV-2. This is what is known as gain-of-function research in virology, a task whereby virologists attempt to make the most infections virus they can to study how infection works.
+
+Below I discuss the findings of [[https://www.nature.com/articles/s41586-020-2169-0.pdf][Tommy Tsan-Yuk Lam et al, "Identifying SARS-CoV-2-related coronaviruses in Malayan pangolins"]] and how it shows abnormalities in the sequence of SARS-CoV-2.
+
+#+CAPTION:Analysis of the RBD sequence of similar coronaviruses
+#+NAME:Figure 7
+
+[[./images/fig7.png]]
+
+Allow me to walk you through the image above, what is shown is the amino acids that make up the spike protein of SARS-CoV-2 and similar viruses, where the red boxes indicate those acids that code for the ACE-2 binding that allows the CCPVirus to be so infectious. Should even a single one of these acids be different the binding would not work as it currently does.
+
+#+CAPTION:Figure 7 with homology redacted.
+#+NAME:Figure 8
+[[./images/fig8.png]]
+
+For clarity, in figure 8, I have removed unimportant sections of the chart where each virus is identical.
+
+#+CAPTION:Figure 8 with only SARS-CoV-2 and GD pangolin-CoV
+#+NAME:Figure 9
+[[./images/fig9.png]]
+
+And here in figure 9, I take this further by focusing in on only SARS-CoV-2 and GD pangolin-CoV. Now we can clearly see just how similar these 2 viruses are in their spike protein, being the only 2 that match where the ACE-2 binding is coded for, and being entirely identical across the receptor binding domain (RBD) shown in row 3 and the start of row 4 above. And prior to the RBD they differ in only 4 places.
+
+So what's the big deal? It looks like it came from a pangolin, so what? Well, as the paper referenced above notes;
+#+begin_quote
+all of the pangolin coronaviruses identified to date lack the insertion of a polybasic (furin-like) S1/S2 cleavage site in the spike protein that distinguishes human SARS-CoV-2 from related betacoronaviruses (including RaTG13)10 and that may have helped to facilitate the emergence and rapid spread of SARS-CoV-2 through human populations.
+
+To our knowledge, pangolins are the only mammals in addition to bats that have been documented to be infected by a SARS-CoV-2-related coronavirus. It is notable that two related lineages of coronaviruses are found in pangolins that were independently sampled in different Chinese provinces and that both are also related to SARS-CoV-2. This suggests that these animals may be important hosts for these viruses, which is surprising as pangolins are solitary animals that have relatively small population sizes, reflecting their endangered status. Indeed, on the basis of the current data it cannot be excluded that pangolins acquired their SARS-CoV-2-related viruses independently from bats or another animal host. Therefore, their role in the emergence of human SARS-CoV-2 remains to be confirmed.
+#+end_quote
+
+So what is this saying? It is saying that in order for the pangolin similarities above to be explained by the disease spreading through a pangolin, first a bat carrying a mutated RaTG13 would have to come across an endangered pangolin, then this mutated RaTG13 would have to make the very unlikely inter-species jump to the pangolin where it must then somehow gain a polybasic furin-like cleavage site and then this pangolin has to find a human where there is a second, unlikely, inter-species jump.
+
+Or... maybe it was made in a lab, as has been done many times before.
+
+But Dr. Elodie Ghedin has the counterpoint laid out in her interview with 60 minutes.[fn:121] In it she makes 3 claims which I will address 1 by 1.
+
+***** Claim 1
+#+begin_quote
+Human engineered viruses have common and obvious genetic components
+#+end_quote
+This is to say that fiddling with a viruses genome leaves some identifiable fingerprint on the nucleotide chain.
+
+But this simply isn't the case as demonstrated by a 2002 study[fn:122] where researchers were able to assemble a full-length, infectious clone of a mouse coronavirus that was 31.5 kb, so larger than the current coronavirus. What is important is that this cloning resulted in no nucleotide changes --- that is, that since 2002 we have had a method for constructing a virus with no fingerprint.
+
+The authors proudly note that:
+#+begin_quote
+No evidence of theEsp3I site that has been engineered into the component clones should remain in the assembled product (No See’m technology).
+#+end_quote
+
+***** Claim 2
+#+begin_quote
+If the virus had been engineered, it would have used the backbones that we know --- and there's none of that
+#+end_quote
+I am not sure what exactly Ghedin is saying here, because as I showed above with the pangolin virus this thing looks very much like a chimera, there is much confusion over how this thing naturally evolved from those who are incabable of pointing the finger at China.
+
+It seems entirely plausible to me, backed up by the sequence, that this was some sort of a RaTG13 backbone with a pangolin RBD with a polybasic furin-like cleavage site inserted from somewhere else. Following this you can evolve t he virus with serial passages in vitro, and then in vivo which would make the most infectious viruses come out on top. This is gain-of-funciton 101. What makes Ghedin's assertion here extra amusing is her assertion in [[Claim 3]] that we see each part of this virus in nature. So it does have backbones that we know of!
+
+***** Claim 3
+#+begin_quote
+We can find every piece of that virus. We can find these pieces in other very similar viruses that circulate in the wild... it's very clearly not an engineered virus
+#+end_quote
+
+**** So assuming it's natural...
+Ok, so let's see which story is more likely based on the evidence we have.
+***** It's natural
+This means that a horseshoe bat, with a population of about 13000, passes some RaTG13-like virus to one of a few thousand pangolins in the world, and this pangolin happens to already be infected with Pangolin/1. Then a critical translation error swaps the RBD of the bat virus with that of Pangolin/1, this new virus then picks up a PRRA (furin-like) cleavage site from some 3rd virus in a similar manner, and then this pangolin takes a road trip to Wuhan where it infects a human. So we have 2 cross-species transfers of a virus made from 3 parents.
+***** It's lab-made
+Or... someone was monkeying about with technologies we already have, in a military lab, trying to make an infectious disease, as is routinely done and then some accident happened around the 6th - 11th of October. I know, it sounds silly just suggesting that such a thing could have occurred in a lab with a track record of incompetence.
+
+*** CCP coverup
+Now lets ignore the overwhelming evidence that the virus was lab-made and instead just consider the CCP's response to the outbreak.
+
+The Chinese government willfully covered up the severity of the outbreak, threatening doctors who warned their colleagues about the contagion,[fn:117] lying about human-human transmission through their WHO mouthpieces,[fn:118] and refusing to provide virus samples to researchers.[fn:119][fn:120]
+
+* Free-Market Healthcare
+So socialist healthcare has caused every crisis we see today, what might the free-maket counterfactual look like? We have, a historical precedent that we may draw on, that of lodge practice preformed by fraternal societies from the late 1800s up until the death of the lodge in the 60s.
+
+** What are fraternal societies?
+Fraternal societies, which arose from earlier "friendly" societies in the UK c. 1630 -- c. 1640,[fn:45] were mutual aid organisations that provided a number of services, mainly focused on covering for what the later welfare state would provide, but at a much higher quality and entirely voluntarily. As a spokesman the /Modern Woodmen of America/ once wrote in 1934, they provided;[fn:46][fn:100]
+#+begin_quote
+[a] few dollars given here, a small sum there to help a stricken member back on his feet or keep his protection in force during a crisis in his financial affairs; a sick Neighbor’s wheat harvested, his grain hauled to market, his winter’s fuel cut or a home built to replace one destroyed by a midnight fire --- thus has fraternity been at work among a million members in 14,000 camps.
+#+end_quote
+
+** What is Lodge Practice?
+Lodge practice was a system where a fraternal society would hire a doctor on retainer to provide care to its members as and when they needed it. Doctors would bid fiercely for these contracts,[fn:47] possibly for the assurance of a regular wage, and this bidding caused for an extremely low price by modern standards, as historian David T. Beito explains;[fn:48]
+#+begin_quote
+The leading beneficiary of lodge practice was, of course, the patient of modest means. He or she was able to obtain a physician’s care for about $2.00 a year, roughly equivalent to a day’s wage for a laborer. For comparable amounts, some lodges extended coverage to family members. The remuneration the lodge doctor received was a far cry from the higher fee schedules favored by the profession. The local medical society in Meadville, Pennsylvania, was typical in setting the following minimum fees for its members: $1.00 per physical examination, surgical dressing, and daytime house call and $2.00 per nighttime house call. Such charges, at least for ongoing service, were beyond the reach of many lower income Americans. Hence it was not coincidental, an editorial in the /Medical Council/ pointed out, that lodge practice thrived in communities populated by the working poor.[fn:49][fn:50][fn:51][fn:52][fn:53][fn:54]
+
+Moreover, had it not been for the competition offered by fraternal societies, official fees probably would have been still higher. In this vein Dr. Charles S. Sheldon complained that lodge practice “demoralizes the scale of prices in a profession already too poorly paid. It causes dissatisfaction among those outside the lodges and makes them unwilling to pay regular prices.”[fn:55][fn:56]
+#+end_quote
+
+I dont know why any of us should want to pay a "regular" price that is higher than what the market produced, and if those outside of lodges are unhappy with their "regular" care and unwilling to pay those high prices, perhaps they ought to join a lodge. Furthermore, this phenomenally low price did not come at the cost of quality either, as Beito later elaborates;[fn:57]
+#+begin_quote
+Inspection of the medical journals gives some cause for skepticism of blanket assertions that lodges heedlessly sacrificed quality to elect candidates with the lowest fee. The contrary, in fact, occurred in a campaign described by lodge practice adversary Dr. George S. Mathews of Providence, Rhode Island: “In one lodge [meeting] two members in good standing in the State Medical Society openly underbid [one another]. One volunteered his services at $2 a head. The other dropped his price to $1.75. The first bidder then acceded to this price with medicines furnished. This occasioned a drop in bidder No. 2 in his price to include medicine and minor surgery. To the vast credit of the lodge neither bid was accepted but a non-bidder was given the job at $2.” In another case a Moose lodge asked the national organization to increase the salary of a doctor deemed particularly deserving.[fn:58][fn:59]
+#+end_quote
+
+** The Response of the Medical Establishment
+Doctors who were too arrogant and ineffective to serve the poor for such a cheap price were, of course, outraged by this. We already have a taste of this seeping through in the above quote where a doctor declares that his price is the "regular" price and that his more efficient collegues were pricing at a rate that sullies the dignity of the profession. This is very much in the same veign as those who complain about "predatory pricing" (see: https://www.youtube.com/watch?v=-NCtUJM-uM8 and https://github.com/LiquidZulu/youtube-scripts/blob/main/scripts/socialism-definition/socialism.org for my response to such claims), but it goes further, there is seemingly a disgust from some physicians towards the idea of serving those "beneath" them.
+#+begin_quote
+Shortly after the turn of the century, articles about the “lodge practice evil” began to fill the pages of American medical journals.
+#+end_quote
+---/Quoted here[fn:60]/
+
+#+begin_quote
+The most serious [opposition to fraternal societies], without a doubt, was the organized opposition of physicians. The spread of the lodge practice evil elicited nearly universal condemnation from [state-run] medical societies. Reflecting the intensity of feeling, the /Pennsylvania Medical Journal/ bluntly demanded in 1904 “that the ‘club doctor’ must be shut out of the profession.”[fn:61]
+
+At its core this antipathy represented fear for the survival of fee-for-service remuneration. Dr. W. F. Zierath of Sheboygan, Wisconsin, succinctly summed up the matter when he chided his colleagues for bowing to “the keen business instinct of the laity” who had “discovered in contract practice a scheme to obtain medical services for practically nothing.” Once doctors allowed nonprofessionals to place them on fixed salaries, Zierath and others cautioned, loss of both income and independence would follow. The profession would then become tainted and demoralized by every physician’s “undignified” scramble to “sell himself to the lowest bidder.” Another opponent predicted that lodge practice, if not stopped, would depress fees to levels “comparable to those of the bootblack and peanut vendor.”[fn:62]
+
+No opprobrium was off limits in depictions of the lodge doctor. He was a “scab” who broke ranks with professional solidarity, an incompetent “quack” spewed out by a low-grade diploma mill, and most unforgivably, a “huckster” bent on commercializing the noble art of medicine. Critics were quick to add, however, that lodge practice also harmed the patient who, in return for these low fees, received shabby service. It was a vain attempt, charged one opponent, to get “something for nothing.” Another cited “the consensus of opinion that physicians generally give fraternal organizations their money’s worth, no more.”[fn:63][fn:64][fn:65][fn:66][fn:67]
+#+end_quote
+---/Quoted here[fn:68]/
+
+But as I have shown above, the low prices of the lodge did not, in fact, come at the cost of quality, with lodges not just opting for the lowest bidder but the bidder who would provide their members with the best service. In any case, Beito continues;
+#+begin_quote
+Dr. John B. Donaldson of Canonsburg, Pennsylvania, spoke for many: “As to lodge practice, to my mind it is simply contemptible and I see no excuse for its existence.” The double standard did not escape the attention of lodges. An editorial in the Eagle Magazine claimed, with some exaggeration, that there were “few professional protests” against company doctors. “Does it make a difference,” it asked, “whether the employer [of contract doctors] is a wealthy corporation, or a fraternity of humble citizens, most of them wage earners?”[fn:69][fn:70]
+#+end_quote
+---/Quoted here[fn:71]/
+
+#+begin_quote
+By the 1920s, lodge practice had entered a steep decline from which it never recovered. Large segments of the medical profession had launched an all-out war. Throughout the country, state societies imposed manifold sanctions against physicians who accepted lodge contracts. The medical societies of several states, including Pennsylvania, Michigan, California, Maine, and Vermont, recommended that offenders be barred from membership. “The evil is such a far-reaching one,” warned the Journal of the Michigan State Medical Society, “that any measures to suppress it are justifiable.” Other state professional organizations, such as those of West Virginia and Illinois, favored less draconian pressure on practitioners to sign pledges spurning lodge contracts.[fn:72][fn:73][fn:74][fn:75][fn:76][fn:77]
+#+end_quote
+---/Quoted here[fn:78]/
+
+#+begin_quote
+[It was, however,] [c]ounty, rather than state, societies [that] formed the vanguard of the movement to suppress lodge practice [note: the author means state in the sense of the United /States/ of America; these societies were, and still are, granted special coercive powers by the government. See [[Regulations on Healthcare]] and [[holly_regs]] for more details]. The prototypical campaign began with the request that a doctor sign an agreement shunning lodge contracts or, at least, not provide services for fees under the “customary” rate. Sometimes this method worked, at least for a while. If the pariah failed to relent, he faced more serious retribution, such as forfeiture of membership or a boycott. In 1913, for example, members of the medical society in Port Jervis, New York, vowed that if any physician took a lodge contract, they would “refuse to consult with him or assist him in any way or in any emergency whatever.” Sometimes the boycotts extended to patients. One method of enforcement was to pressure hospitals to close their doors to members of the guilty lodge. By 1914, in the Journal of the American Medical Association Dr. Robert Allen could write, with but slight exaggeration, “There is scarcely a city in the country in which medical societies have not issued edicts against members who accept contracts for lodge practice.”[fn:79][fn:80][fn:81][fn:82][fn:83][fn:84][fn:85][fn:86][fn:87][fn:88][fn:89][fn:90][fn:91][fn:92]
+
+Reports in the medical journals suggest that these restrictions were effective. One example occurred in Bristol, Pennsylvania, where local physicians boycotted the lone lodge doctor in the area. As word of the campaign spread, “patrons gradually withdrew from him, his calls for attendance were few, and this last summer he quietly left the town and vicinity.” In a similar case a member of the Loyal Order of Moose in Fort Dodge, Iowa, charged that doctors in his community had run the local lodge “into the ground” by going on strike.[fn:93][fn:94]
+#+end_quote
+---/Quoted here[fn:95]/
+
+* Regulations on Healthcare
+I borrow the following list of regulations on US healthcare from /Jargon/ and his contemporaries on the LibertyHQ forums, he explains that the two main ways that the healthcare market is distorted today is through the use of restrictions and subsidies;[fn:96]
+** Restrictions
+*** Illegality of Cross-State Insurance Purchases
+Consumers are prohibited from reaching across state lines to purchase their health insurance.[fn:101] This narrows the selection available to consumers, reducing competition and thereby allowing for a worse service in each state.
+*** Insurance Alternatives Regulated
+In addition to the regulation of insurance the main competitor to insurance, lodge practice, was destroyed by those who would form the AMA, as I described above.
+*** Licensure of Medicine
+Doctors, clinics, hospitals and insurance providers must become licensed by local, state or federal government, depending on the scenario, in order to provide care.[fn:102] Doctors are licensed by the American Medical Association and granted “scope-of-practice” privileges by states; hospitals and clinics are licensed by municipalities, and insurance providers are licensed by state governments. The essential function of licensure in this case is to exclude would-be providers. Licensure has capital and credential requirements, which exclude providers which are lower-quality and lower-cost. For example, a would-be doctor who may not have attended a prestigious medical academy but could diagnosis common diseases nevertheless is excluded.
+
+In addition to this, hospitals require “certificates-of-need” in order to start construction, which are handed out by municipal or state planning boards, headed up by local medical experts who run their own hospitals,[fn:103] creating an obvious conflict of interest.
+*** Unionism in Medicine
+Medicine is a unionized industry.[fn:104] Nurses and other random hospital personnel, through their unions, demand that certain processes be made impossible unless under the supervision of a unionized worker. This means that jobs which require only the labor of one person become jobs that require the labor of six people. The hospital, and ultimately the taxpayer, then has to pay for said extra labor. This also raises the barrier to entry for possible competing clinics, if they can't provide certain services without hiring unnecessary workers.
+*** Patents
+Patenting is when a government gives an inventor a monopoly over an idea. Said inventor may then punish others should they try to use the same idea, using only their own private property. This limits the amount of providers-per-innovative-idea to one. Some might say that patents are a necessary carrot to the proverbial horse for spurring innovation. Intellectual property lawyer Stephan Kinsella disagrees,[fn:105] saying that empirical evidence suggests that patenting actually has a depressing effect on innovation. Patenting in the medical industry leads to needlessly expensive medical goods, namely machinery and pharmaceuticals.
+*** The Food and Drug Administration
+The FDA is an organization which screens products for safety and quality before giving them the 'green light' for sale and consumption. It has also been captured by agribusiness corporations since its very inception. It slows the release of new medicines, prohibits people from trying alternatives, and occasionally seizes property and privilege only to confer it to a state-blessed enterprise. This discretionary authority, especially when seized by monopolistic interest, leads to slowed innovation, fewer products available, and product markups as large as 37 times.
+*** Medicare/Medicaid Price Fixing
+The Medicaid and Medicare programs set the minimum reimbursement rates,[fn:106] which companies then use as a baseline. This system encourages you to go onto an insurance plan. Physicians offer lower prices to clients with insurance to try to attract business and then charge higher prices to make up for said insurance discount. This means then, that those without insurance and can probably least afford care, end up paying the most for it. Without price-fixing for procedures and treatments, there would be no general minimum charge and physicians wouldn't have to discount insurance companies to attract clients.
+*** Paperwork
+Extrenuous paperwork in general is a restriction on business, it imposes controls on entrepreneurs that bureaucrats deem necessary. It raises the costs of a business; as entrepreneurs are forced to comply with regulations, they must also employ lawyers and pencil pushers to sort through red tape. This disadvantages small businesses as they aren't politically connected enough to avoid regulation and also are more sensitive to high costs of businesses than are large businesses. Paperwork slants markets in favor of well-established businesses.
+
+** Subsidies
+*** Institutional Tilt Towards Insurance
+When everyone is encouraged to go on a health insurance plan, everything is encouraged, and even employers are encouraged to provide health insurance, the consumer's function as a discriminator and cost-cutter is qualitatively altered. Instead of economizing and considering every purchase of medicine, the care-seeker will simply ask for help and sign the bill. Care-givers, acknowledging this, will sell high-cost options primarily and not suffer for it, seeing as the care-seeker's treatment is being covered by his insurance company. What happens over time when consumers do not seek the best bang for their buck is that both treatments and insurance rates will go up.
+*** Mandatory Coverage of Specific Conditions
+Insurance companies are compelled by law to offer coverage to certain treatments in all of their policies. This benefits the person with said medical condition to the disadvantage of all without said medical condition. All are forced to pay for the now higher rate, due to the increment of risk added by mandatory extra coverage, whether they want to be covered for said condition or not. If a person, A, has a certain condition, it is not the responsibility of the next person to subsidize the treatment of person A. Insurance plans become homogenized and unnecessarily expensive. This encourages people not to avoid certain conditions, such as obesity or heart disease.
+*** Aid to Hospitals (Equipment)
+Hospitals receive aid for having the latest and greatest hi-tech equipment. This encourages hospitals to spend too much money on expensive equipment, party paid for by taxpayers. And since the hospitals aren't buying the equipment because of a legitimate need but because of a political incentive, they are not discriminating buyers. Thus, we can expect that suppliers of expensive medical equipment will raise prices comfortably without fearing that hospitals will stop buying.
+*** Aid to Hospitals (Patients)
+The government will pay for a share of a patient's hospital bill if it is sufficiently huge. Since hospitals are non-competitive they will respond by ratcheting up the hospital bill to get federal money. Citizens, in the aggregate of their tax forms and ER bills, end up paying twice as much.
+*** Aid to Employers
+The federal tax code encourages employers to provide their employees with health insurance. Some might say this is great, but it is not. Employers offer that health insurance out of your wages. Though the wage compensation you would get if employers were not encouraged to offer you health insurance would probably not, at this moment, be as big as the total value of the health insurance he does provide you, as the insurance he pays for is massively inflated in price and allows for no customisation, it causes some big problems. Firstly, it programs you to clutch your job like a life-line, whereas if you acquired insurance independently, you could go where you liked. If you value independence and self-respect, that's problematic. This also disables the consumer choice mechanism; no one will leave their job just to get a different healthcare plan. Secondly, it puts everyone on bloated insurance plans, which leads to the problems described above (insurance for things you don't need to be insured for, can pay for yourself, don't need to pay for, etc.)
+*** Inflation
+Since much of the deficit is financed out of open market operations issued by the FED; Medicaid and Medicare are about half of the deficit, a sizable chunk of all printed money goes into government spending in healthcare. This means that the government's buying activity in healthcare drives the prices up and those not on the government healthcare teat will have to pay higher prices; not having had the privilege of paying yesterday's low prices with tomorrow's new money, they will have the pain of paying tomorrow's high prices with yesterday's old money. As the deficit gets worse, more debt will have to be monetized, and there will be more inflation in healthcare. Meaning, healthcare isn't getting any cheaper.
+
+* Hoppe's 4-Step Solution to Healthcare
+Hans-Hermann Hoppe is an Austro-Libertarian economist known predominantly for his work on covenant communities[fn:97] and argumentation ethics,[fn:98] though my focus here will be on his lesser-known stance on how to solve healthcare in the US.[fn:99]
+
+** Step 1: revoke all state-mandated licensing requirements for medical schools, hospitals, pharmacies, doctors, and other medical personnel.
+In doing this, Hoppe argues, the supply of these services would almost instantly increase. This increase in supply would lead to; lower prices, a greater variety of healthcare, and increased competition leading to increased innovation.
+
+Competing voluntary accreditation agencies can more than fill the role that is taken up by mandatory state licenses --- if a healthcare provider believes such accreditation will increase their reputation and allow greater trust leading to more customers then they will seek this out and be willing to pay for the priviledge willingly rather than it being forced.
+
+In addition to these benefits, Hoppe points out that the consumers, now without the belief in a single "national standard" for healthcare would increase their search costs and be more discriminating in their choices, thereby sidestepping the proposed lighthouse problem.
+
+** Step 2: revoke all government restrictions on the production and sale of pharmaceutical products and medical devices.
+This would mean an immediate dismantling of the FDA, eliminating its hinderance to innovation and the increased costs it causes. In step with the falling costs would be a reduction of prices and consumers acting in accordance with their own personal risk assessments rather than that forced upon them by the state. Competing drug and device manufacturers would, in order to protect against liability suits and to attract customers, provide increasingly better product descriptions and guarantees.
+
+** Step 3: de-regulate the health-insurance industry.
+Hoppe's gripe with current, statist, insurance is that it is forced to insure that which, in a free market, is uninsurable. As an example you couldn't profitably insure people against painting their own wall blue, as that would be entirely within their own power --- the standard for whether something is insurable is whether it is outside of the insured party's control. Applying this to healthcare, many health maladies that are currently insured arise as a result of actions of the insured, those risks that an individual is able to systematically influence the likelihood of fall within that persons responsibility and not cannot be shared with others.
+
+All insurance, moreover, involves the pooling of individual risks. It implies that insurers will pay more to some than others, but that nobody knows in advance who will get more and who will get less, the "winners" and "losers" are distributed randomly, and the resulting income redistribution is unsystematic. If "winners" or "losers" could be systematically predicted, "losers" would not want to pool their risk with "winners," but with other "losers," because this would lower their insurance costs. I would not want to pool my personal accident risks with those of professional football players, for instance, but exclusively with those of people in circumstances similar to my own, at lower costs.
+
+Because of legal restrictions on the health insurers' right of refusal -- to exclude any individual risk as uninsurable --  the present health-insurance system is only partly concerned with insurance. The industry cannot discriminate freely among different groups' risks. As a result, health insurers cover a multitude of uninsurable risks, alongside, and pooled with, genuine insurance risks. They do /not/ discriminate among various groups of people which pose significantly /different/ insurance risks. The industry thus runs a system of income redistribution --- benefiting irresponsible actors and high-risk groups at the expense of responsible individuals and low-risk groups. Accordingly, the industry's prices are high and ballooning.
+
+To deregulate the industry means to restore it to unrestricted freedom of contract: to allow a health insurer to offer any contract whatsoever, to include or exclude any risk, and to discriminate among any groups of individuals. Uninsurable risks would lose coverage, the variety of insurance policies for the remaining coverage would increase, and price differentials would reflect genuine insurance risks. On average, prices would drastically fall. And the reform would restore individual responsibility in health care.
+
+** Step 4: Eliminate all subsidies to the sick or unhealthy.
+Subsidies create more of whatever is being subsidized --- this is why there are so many single black mothers, because single-parenthood was, and still is, subsidised. Similarly, subsidies for the ill and diseased promote carelessness, indigence, and dependency. If we eliminate such subsidies, we would strengthen the will to live healthy lives and to work for a living. In the first instance, that means abolishing Medicare and Medicaid.
+
+* Footnotes
+
+[fn:122]
+Yount, Boyd & Denison, Mark & Weiss, Susan & Baric, Ralph. (2002). Systematic Assembly of a Full-Length Infectious cDNA of Mouse Hepatitis Virus Strain A59. Journal of virology. 76. 11065-78. 10.1128/JVI.76.21.11065-11078.2002.
+
+[fn:121]
+https://twitter.com/60Minutes/status/1259622553682878464
+
+[fn:120]
+https://nypost.com/2020/05/15/china-admits-to-destroying-coronavirus-samples-for-safety/
+
+[fn:119]
+https://www.newsweek.com/china-refuses-send-covid-vaccine-samples-canada-during-diplomatic-row-1528215
+
+[fn:118]
+https://www.foxnews.com/world/world-health-organization-january-tweet-china-human-transmission-coronavirus
+
+[fn:117]
+https://spectator.org/ccp-who-covid-19-republican-report/
+
+[fn:116]
+Ibid[fn:115]
+
+[fn:115]
+https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html
+
+[fn:114]
+Ibid[fn:110]
+
+[fn:113]
+Ibid[fn:110]
+
+[fn:112]
+[[https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(20)30183-5.pdf][Chaolin Huang et al, "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China"]]
+
+[fn:111]
+Ibid[fn:110]
+
+[fn:110]
+Sharri Markson, Ashleigh Gleeson, "The Covid Files: How the Red Army oversaw coronavirus research"
+
+[fn:109]
+[[https://www.nature.com/articles/s41586-020-2169-0.pdf][Tommy Tsan-Yuk Lam et al, "Identifying SARS-CoV-2-related coronaviruses in Malayan pangolins"]]
+
+[fn:108]
+https://www.documentcloud.org/documents/6884792-MACE-E-PAI-COVID-19-ANALYSIS-Redacted.html
+
+[fn:107]
+https://www.nbcnews.com/politics/national-security/report-says-cellphone-data-suggests-october-shutdown-wuhan-lab-experts-n1202716
+
+[fn:106]
+https://www.medicare.org/articles/how-does-medicare-determine-reimbursement-rates/
+
+[fn:105]
+[[https://mises.org/library/against-intellectual-property-0][Stephan Kinsella, "Against Intellectual Property"]]
+
+[fn:104]
+https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/labor-unions-healthcare
+
+[fn:103]
+https://www.nj.gov/health/bc/state-health-planning-board/
+
+[fn:102]
+https://www.criminaldefenselawyer.com/resources/practicing-medicine-without-a-license.htm
+
+[fn:101]
+https://axenehp.com/look-selling-health-insurance-across-state-lines/
+
+[fn:1]
+https://www.hcpc-uk.org/about-us/who-we-work-with/other-regulators/health-regulation-worldwide/
+
+[fn:2]
+https://data.oecd.org/healthres/health-spending.htm
+
+[fn:3]
+[[https://commons.wikimedia.org/wiki/File:OECD_health_expenditure_per_capita_by_country.svg][OECD health expenditure per capita by country]]
+
+[fn:4]
+[[https://www.cityam.com/nhs-s-monopoly-weakening-uk-healthcare-has-bright-future/][Graeme Leach, "The NHS’s monopoly is weakening – UK healthcare has a bright future"]]
+
+[fn:5]
+Ibid[fn:2][fn:3]
+
+[fn:6]
+[[https://mises.org/wire/how-government-regulations-made-healthcare-so-expensive][Mike Holly, "How Government Regulations Made Healthcare So Expensive"]], fig. 1
+
+[fn:7]
+Folliard, Edward T. (July 31, 1965). [[http://search.proquest.com/docview/142611149/]["Medicare Bill Signed By Johnson: 33 Congressmen Attend Ceremony In Truman Library"]]. The Washington Post. p. A1.
+
+[fn:8]
+Social Security Amendments of 1965, enacting Title XIX of the Social Security Act of 1935
+
+[fn:9]
+[[https://cdn.mises.org/3_1_5_0.pdf][Ronald Hamowy, "The Early Development of Medical Licensing  Laws in the United States, 1875-1900*", /Department of History, University of Alberta/]]
+
+[fn:10]
+Friedman, Milton. 1992. "Input and Output in Medical Care." Hoover Press.
+
+[fn:11]
+Alford, Robert. 1975. "Health Care Politics: Ideological and Interest Group Barriers to Reform." University of Chicago Press. xiv+294.
+
+[fn:12]
+[[https://pubmed.ncbi.nlm.nih.gov/32125357/][Oliver J. Wouters, "Lobbying Expenditures and Campaign Contributions by the Pharmaceutical and Health Product Industry in the United States, 1999-2018" JAMA Intern Med. 2020 May 1;180(5):688-697. doi: 10.1001/jamainternmed.2020.0146. PMID: 32125357; PMCID: PMC7054854.]]
+
+[fn:13]
+[[https://pnhp.org/a-brief-history-universal-health-care-efforts-in-the-us/][Karen S. Palmer, "A Brief History: Universal Health Care Efforts in the US"]]
+
+[fn:14]
+Ibid[fn:13]
+
+[fn:15]
+"How the Price System Works." Section 2 HHS.gov. U.S. Department of Health & Human Services. 2013.
+
+[fn:16]
+Ibid[fn:6]
+
+[fn:17]
+Stagg-Elliot, Victoria.  April 30, 2012.  Prices for doctor services lag behind inflation. Economists cite downward pressure on pay rates from Medicare and commercial payers. /American Medical News/.
+
+[fn:18]
+Richman, Sheldon. 2013. "The Concise Encyclopedia of Economics." Robert Wood Johnson Foundation. December 27, 1979. /The Wall Street Journal/.
+
+[fn:19]
+[[http://www.channelingreality.com/Competitiveness/Ira_Magaziner/History_and_Principles_Enthoven_157_VC2.pdf][A. Enthoven, "The history and principles of managed competition." (1993) p. 6]]
+
+[fn:20]
+[[https://www.verywellhealth.com/what-are-standardized-health-insurance-plans-4083066][Louise Norris, "An Overview of Standardized Health Insurance Plans"]]
+
+[fn:21]
+[[https://cdn.americanprogress.org/content/uploads/2019/04/03105330/Admin-Costs-brief.pdf][Emily Gee; Topher Spiro, "Excess Administrative Costs Burden the U.S. Health Care System"]]
+
+[fn:22]
+[[https://www.healthcarefinancenews.com/news/study-sheds-light-executive-pay-healthcare-industry][Max Sullivan, "Compensation for CEOs ranged from $274,300 to $1.4 million, depending on the size of the hospital."]]
+
+[fn:23]
+[[https://www.breitbart.com/europe/2020/04/25/facebook-mob-names-and-shames-mother-for-not-clapping-for-nhs/][Kurt Zindulka, "Online Mob ‘Names and Shames’ British Mother for Not Clapping for NHS"]]
+
+[fn:24]
+https://www.theguardian.com/commentisfree/2019/oct/25/boris-johnson-conservatives-nhs-funding
+
+[fn:25]
+[[https://mises.org/wire/its-time-give-britains-national-health-service][Antony Sammeroff, "It's Time to Give Up on Britain's National Health Service"]]
+
+[fn:26]
+Bartholomew, J.  (2004, 2013) “The Welfare State We’re In”
+
+[fn:27]
+Ibid[fn:26]
+
+[fn:28]
+[[https://www.pop.org/cancer-survival-rates-far-worse-in-great-britain-than-u-s/][Population Research Institute, "Cancer Survival Rates Far Worse in Great Britain than U.S."]]
+
+[fn:29]
+[[https://www.bbc.co.uk/news/health-42572116][Nick Triggle, "Patients 'dying in hospital corridors'"]]
+
+[fn:30]
+Ibid[fn:28]
+
+[fn:31]
+Ibid[fn:29]
+
+[fn:32]
+https://fullfact.org/health/four-million-hospital-waiting-lists/
+
+[fn:33]
+[[https://www.dailymail.co.uk/news/article-3158591/Hospital-waiting-lists-seven-year-high-3-4m-need-treatment-6-000-forced-wait-year-operations.html][Sophie Borland, "Hospital waiting lists at seven-year high as 3.4m need treatment: More than 6,000 forced to wait at least a year for operations"]]
+
+[fn:34]
+[[https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/latest][Office for National Statistics, "Population Estimates for UK, England and Wales, Scotland and Northern Ireland: mid-2019"]]
+
+[fn:35]
+[[https://mises.org/wire/patients-are-dying-corridors-britains-socialised-health-system][George Pickering, "Patients Are “Dying in Corridors” of Britain’s Socialised Health System"]]
+
+[fn:36]
+Ibid[fn:34]
+
+[fn:37]
+Ibid[fn:35]
+
+[fn:38]
+DiLorenzo, T. J. (2016) "The Problem With Socialism" Chapter 9. pp. 96-97
+
+[fn:39]
+[[https://www.theguardian.com/society/2017/jan/13/193000-nhs-patients-a-month-waiting-beyond-target-for-surgery][Denis Campbell, "193,000 NHS patients a month waiting beyond target time for surgery"]]
+
+[fn:40]
+[[https://www.dailymail.co.uk/news/article-2533698/Britain-just-2-71-doctors-1000-people-fewer-Latvia-Estonia-Lithuania.html][Lizzie Parry, "Britain has just 2.71 doctors per 1,000 people... which is fewer than Latvia, Estonia and Lithuania"]]
+
+[fn:41]
+[[https://www.hsj.co.uk/comment/dont-see-older-people-as-a-burden-on-the-nhs/5068503.article][David Oliver, "Don't see older people as a 'burden' on the NHS"]]
+
+[fn:42]
+[[https://www.bbc.co.uk/news/health-38887694][Nick Triggle, "10 charts that show why the NHS is in trouble"]]
+
+[fn:43]
+Ibid[fn:38] p. 101
+
+[fn:44]
+Ibid[fn:25]
+
+[fn:45]
+David T. Beito, /From Mutual Aid to the Welfare State: Fraternal Societies and Social Services, 1890-1967/ (Chapel Hill: University of North Carolina Press, 2000): 7.
+
+[fn:46]
+Este Erwood Buffum, /Modern Woodmen of America: A History/ (Rock Island, Ill.: Modern Woodmen of America, 1935), 2:5.
+
+[fn:47]
+George S. Mathews, “Contract Practice in Rhode Island,” /Bulletin of the American Academy of Medicine/ 10 (December 1909): 601.
+
+[fn:48]
+Ibid[fn:48] p. 117
+
+[fn:49]
+“Contract Practice,” West Virginia Medical Journal, 425
+
+[fn:50]
+Straub Sherrer, “The Contract Physician: His Use and Abuse,” /Pennsylvania Medical Journal/ 8 (November 1904):106
+
+[fn:51]
+“No Contract Practice for Meadville,” /Pennsylvania Medical Journal/ 13 (November1909): 148
+
+[fn:52]
+George Rosen, /The Structure of American Medical Practice/, 1875 – 1941 (Philadelphia: University of Pennsylvania Press, 1983), 99
+
+[fn:53]
+Goldwater, “Dispensaries,” 614 – 15.
+
+[fn:54]
+“We cannot escape from the fact that these poor people are not able to pay the most modest fee where continuous treatment is  necessary” (“The Vexed Question --- Lodge Practice,” /New York State Journal of Medicine/ 13 (November 1913): 562)
+
+[fn:55]
+ Charles S. Sheldon, “Contract Practice,” /Bulletin of the American Academy of Medicine/ 10 (December 1909): 590.
+
+[fn:56]
+Referring to competition from the lodge doctor, an editorial in the /Illinois Medical Journal/ warned that “where rate cuts begin there is no limit to the depth of the cut and finally all practitioners and the community suffer” (“Contract Practice,” /Illinois Medical Journal/ 22 [November 1907]: 505).
+
+[fn:57]
+Ibid[fn:48] p. 118
+
+[fn:58]
+Ibid[fn:47] p. 604
+
+[fn:59]
+Loyal Order of Moose, /Minutes/ (1921), 205.
+
+[fn:60]
+Ibid[fn:48] p. 109
+
+[fn:61]
+“An Example That Should Be Followed,” /Pennsylvania Medical Journal/ 8 (November 1904): 107.
+
+[fn:62]
+Zierath, “Contract Practice,” 150; “Contract Practice,” /West Virginia Medical Journal/, 426; Burrow, Organized Medicine, 126.
+
+[fn:63]
+John McMahon, “The Ethical versus the Commercial Side of Medical Practice --- Which Will We Serve?,” California State Journal of Medicine 8 (July 1910): 243
+
+[fn:64]
+John B. Donaldson, “Contract Practice,” Pennsylvania Medical Journal 12 (December 1908): 212–214
+
+[fn:65]
+“A New Shame,” California State Journal of Medicine 7 (June 1909): 194
+
+[fn:66]
+“Discussion, Dr. F. F. Lawrence, of Columbus,” Bulletin of the American Academy of Medicine 10 (December 1909): 637
+
+[fn:67]
+Holtzapple, “Lodge Practice,” 536.
+
+[fn:68]
+Ibid[fn:48] pp. 115-116
+
+[fn:69]
+“Shall We Have the Community Doctor?,” 4.
+
+[fn:70]
+Ibid[fn:64] 212.
+
+[fn:71]
+Ibid[fn:48] p. 125
+
+[fn:72]
+Burrow, /Organized Medicine/, 131.
+
+[fn:73]
+“Contract Practice,” /Journal of the Medical Society of New Jersey/, 336.
+
+[fn:74]
+/Pennsylvania Medical Journal/ 14 (November 1910): 152.
+
+[fn:75]
+Editorial, /Journal of the Michigan State Medical Society/ 8 (December 1909): 596.
+
+[fn:76]
+“Contract Practice,” /West Virginia Medical Journal/, 426.
+
+[fn:77]
+“Contract Practice,” /Illinois Medical Journal/, 504.
+
+[fn:78]
+Ibid[fn:48] p. 124
+
+[fn:79]
+“Vexed Question,” 561 – 63.
+
+[fn:80]
+Albert T. Lytle, “Contract Medical Practice: An Economic Study,” /New York State Journal of Medicine/ 15 (March 1915): 106.
+
+[fn:81]
+On the pressures exerted by various local societies against lodge doctors, see Burrow, /Organized Medicine/, 126 – 32
+
+[fn:82]
+“Medical Ethics and County By-Laws,” /Texas State Journal of Medicine/ 8 (February 1913): 257 – 58.
+
+[fn:83]
+“Contract Practice,” /Journal of the Medical Society of New Jersey/, 336.
+
+[fn:84]
+“Contract Practice,” /West Virginia Medical Journal/, 426.
+
+[fn:85]
+“Discussion, Dr. J. K. Weaver, Norristown,” /Bulletin of the American Academy of Medicine/ 10 (December 1909): 631 – 32.
+
+[fn:86]
+“Contract Practice,” /California State Journal of Medicine/ 4 (February 1906): 44 – 45.
+
+[fn:87]
+Rene Bine, “Contract Practice,” /California State Journal of Medicine/ 10 (February 1912): 52.
+
+[fn:88]
+“Contract Practice,” /Medical Council/ 19 (October 1914): 398.
+
+[fn:89]
+“An Example That Should Be Followed,” 107.
+
+[fn:90]
+“No Contract Practice for Meadville,” 148.
+
+[fn:91]
+“Report of the Committee on Lodge Practice,” /Pennsylvania Medical Journal/ 15 (October 1911): 57.
+
+[fn:92]
+Fraternal Order of Eagles, /Journal of Proceedings/ (1912), 204 – 5.
+
+[fn:93]
+Howard Pursell, letter, “Lodge Practice,” /Pennsylvania Medical Journal/ 14 (December 1910): 237.
+
+[fn:94]
+Loyal Order of Moose, /Minutes/ (1913), 164.
+
+[fn:95]
+Ibid[fn:48] p. 125
+
+[fn:96]
+https://www.tapatalk.com/groups/libertyhq/healthcare-problem-survey-t785.html
+
+[fn:97]
+[[https://www.stephankinsella.com/2010/05/hoppe-on-covenant-communities/][Stephan Kinsella, "Hoppe on Covenant Communities and Advocates of Alternative Lifestyles"]]
+
+[fn:98]
+Hans-Hermann Hoppe; Murray N. Rothbard; David Friedman; Leland Yeager; David Gordon; Douglas Rasmussen (November 1988). [[http://www.hanshoppe.com/wp-content/uploads/publications/liberty_symposium.pdf]["Liberty Symposium"]] (PDF). Liberty. 2.
+
+[fn:99]
+[[https://mises.org/library/four-step-healthcare-solution][Hans-Hermann Hoppe, "A Four-Step Healthcare Solution"]]
+
+[fn:100]
+Ibid[fn:45], p. 2
