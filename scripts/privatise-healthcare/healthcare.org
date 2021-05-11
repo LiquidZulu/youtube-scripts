@@ -116,7 +116,7 @@ Cellphone geolocation data[fn:108] acquired by NBC[fn:107] shows no activity fro
 #+NAME:Figure 6
 [[./images/fig6.png]]
 
-It should be noted here that the first confirmed case dates back to the 17th of November, not long after this incident especially considering the incubation period of this disease, especially considering that this 17th Nov case probably isn't the first which I will discuss below (see: [[Where is patient 0?]]).
+It should be noted here that the first confirmed case dates back to the 17th of November, not long after this incident especially considering the incubation period of this disease, and that this 17th Nov case probably isn't the first which I will discuss below (see: [[Where is patient 0?]]).
 **** PLA coronavirus research
 A major study[fn:109] into the origins of the coronavirus, funded by the Australian and Chinese government[fn:110] relied on a laboratory in an institute in the People’s Liberation Army’s Academy of Military Medical Sciences for genetic sequencing and virus isolation.[fn:111]
 
