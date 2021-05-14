@@ -17,13 +17,13 @@ The US is the country that international-socialists most often tout as a failure
 
 It is important here to note that this crisis in healthcare costs didnt start until the mid 1960s[fn:6] (see also Figure 1 below), when the government increased demand with the passage of medicare[fn:7] and medicaid,[fn:8] whilst continuing their restriction of the supply of doctors and medicine through medical licensing laws[fn:9] and the regulation of the sale of drugs through the Food and Drug Administration.
 
-#+CAPTION:An Indexed Comparison of Health Care Inflation and Consumer Price Index in US from 1935 to 2009 (Source: US Census 2013).
+#+CAPTION:An Indexed Comparison of Health Care Inflation and Consumer Price Index in the US from 1935 to 2009 (Source: US Census 2013).
 #+NAME:Figure 1
 [[./images/fig1.png]]
 
 It has been noted by Milton Freidman[fn:10] that this restriction of supply coupled with the rising demand is a direct cause of the price increase above inflation. Robert Alford explained the minority view:[fn:11]
 #+begin_quote
-The market reformers wish to preserve the control of the individual physician over his practice, over the hospital, and over his fees, and they simply wish to open up the medical schools in order to meet the demand for doctors, to give patients more choice among doctors, clinics, and hospitals, and to make that choice a real one by public subsidies for medical bills
+The market reformers wish to preserve the control of the individual physician over his practice, over the hospital, and over his fees, and they simply wish to open up the medical schools in order to meet the demand for doctors, to give patients more choice among doctors, clinics, and hospitals
 #+end_quote
 
 For more than a century, medical special interests have invested billions into lobbying government to reduce competition[fn:12][fn:13] --- in fact, in 1945 the AMA spent $1.5 million on lobbying which was, at the time, the most expensive lobbying effort in US history.[fn:14] Their efforts have paid off, below I borrow a list of a number of major government policy changes that have interfered with the healthcare industry, compiled by Mike Holly:[fn:15][fn:16]<<holly_regs>>
