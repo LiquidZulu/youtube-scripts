@@ -112,7 +112,7 @@ Cellphone geolocation data[fn:108] acquired by NBC[fn:107] shows no activity fro
 #+NAME:Figure 6
 [[./images/fig6.png]]
 
-It should be noted here that the first confirmed case dates back to the 17th of November, not long after this incident especially considering the incubation period of this disease, and that this 17th Nov case probably isn't the first which I will discuss below (see: [[Where is patient 0?]]).
+It should be noted here that the first conficrmed case dates back to the 17th of November, not long after this incident especially considering the incubation period of this disease, and that this 17th Nov case probably isn't the first which I will discuss below (see: [[Where is patient 0?]]).
 **** PLA coronavirus research
 A major study[fn:109] into the origins of the coronavirus, funded by the Australian and Chinese government[fn:110] relied on a laboratory in an institute in the People’s Liberation Army’s Academy of Military Medical Sciences for genetic sequencing and virus isolation.[fn:111]
 
@@ -222,9 +222,9 @@ To investigate whether proteolytic cleavage at the basic amino acid residues, we
 #+NAME:Figure 15
 [[./images/fig15.png]]
 
-So thats all well and good, it has a furin cleavage site, maybe it picked it up from somewhere, I did say that random insertion can occur in nature after all. This is true, but I draw your attention to figure 15 above, showing the actual insertion and it is only PRRA. That RRA then continues on to form an RRAR that is needed for the furin cleavage site (RRxR=RRAR), so the only way this could have been more perfect is if the P wasn't there.
+So thats all well and good, it has a furin cleavage site, maybe it picked it up from somewhere, I did say that random insertion can occur in nature after all. This is true, but I draw your attention to figure 15 above, showing the actual insertion and it is only PRRA. That RRA then continues on to form an RRAR that is needed for the furin cleavage site (RRxR=RRAR). But then what purpose does the P serve, if this was man-made it should server a purpose, right? This is true, and the P quite possibly does serve a purpose, it is believed that this leading proline results in the addition of O-linked glycans that create a muncin-like domain that helps to sheild key residues of the spike protein,[fn:134] as has been observed in other viruses.
 
-If this was a freak natural occurence you would expect a whole mess of crap to come over not just the exact snippet that is required for increased infectivity.
+So this insertion seems to be just the perfect thing to add, with no draw-backs. If this was a freak natural occurence you would expect a whole mess of crap to come over not just the exact snippet that is required for increased infectivity.
 
 ***** Is RaTG13 even real???
 So above I have been displaying evidence that the virus is synthetic assuming that RaTG13 is some natural base that was used to create it because they are so similar. But let's look closer at RaTG13 and see if that is even real, because if it's not then the case that this thing is natural is completely destroyed as that is basically the sole piece of evidence the natural crowd have.
@@ -331,6 +331,49 @@ It seems entirely plausible to me, backed up by the sequence, that this was some
 We can find every piece of that virus. We can find these pieces in other very similar viruses that circulate in the wild... it's very clearly not an engineered virus
 #+end_quote
 As opposed to all those chimeras that were made using no natural parts.
+**** Andersen's counter
+Kristian G. Andersen's Nature article, [[https://www.nature.com/articles/s41591-020-0820-9]["The proximal origin of SAARS-CoV-2"]] is the very root of most "proofs" of the viruses natural origin. The hope being that upon baring witness to a fancy paper in a fancy journal that the sceptic will be freightened into submission. Here I will demonstrate the critical failure's in the reasoning used to conclude a natural origin.
+
+The paper correctly points out 2 noteworthy features of sars 2:
+1. The opmimised binding to ACE2
+2. The functional polybasic (furin) cleavage site on the spike protein at the S1/S2 boundry.
+
+***** Optimised binding to ACE2
+In this section Andersen and crew say that:
+#+begin_quote
+Six RBD amino acids have been shown to be critical for binding to ACE2 receptors and for determining the host range of SARS-CoV-like viruses.
+#+end_quote
+Then they go on to say that
+#+begin_quote
+While the analyses above suggest that SARS-CoV-2 may bind human ACE2 with high affinity, computational analyses predict that the interaction is not ideal and that the RBD sequence is different from those shown in SARS-CoV to be optimal for receptor binding. Thus, the high-affinity binding of the SARS-CoV-2 spike protein to human ACE2 is most likely the result of natural selection on a human or human-like ACE2 that permits another optimal binding solution to arise. This is strong evidence that SARS-CoV-2 is not the product of purposeful manipulation.
+#+end_quote
+Ok so, these virologists love to hide their bullshit in fancy language so let me break down what is being said here.
+
+He is saying that there was a previous paper[fn:133] that predicted an optimum binding for a coronavirus to have with ACE2, and the CCPVirus uses, in his words, "another optimal binding solution," so it's still optimal, but not what he already knew about. So the argument is essentially that because the prior paper didnt predict this, equally good, binding that it must have arisen naturally. Because those scientists are known for giving up after finding a single solution.
+
+Don't believe me? It is spelled out in plainer terms whilst theorising as to it's natural origin:
+#+begin_quote
+As noted above, the RBD of SARS-CoV-2 is optimized for binding to human ACE2 with an efficient solution different from those previously predicted
+#+end_quote
+
+It is genuinely baffling to me that such a widely cited paper gets away with such terrible deductive reasoning because they use fancy words.
+
+***** /ourguy/ the cleavage site
+#+CAPTION:Pictured: Cleavage
+#+NAME:Figure 16
+[[./images/fig16.png]]
+
+So, recall everything I said previously about how important the furin-like cleavage site is, and then contrast it with this introductory statement to Andersen's discussion of its implications:
+#+begin_quote
+The functional consequence of the polybasic cleavage site in SARS-CoV-2 is unknown, and it will be important to determine its impact on transmissibility and pathogenesis in animal models.
+#+end_quote
+I'm sorry, fucking what!? This group of virologists know nothing about what the consequence of a polybasic cleavage site is? What I think they are saying here is that they haven't tested the effects of this site on the CCPVirus specifically, so they are technically correct. But if they were honest they would point out how it would be expected to massively increase the infectivity.
+
+It is noted by these authors that similar sites in chickens have an increase in the ability to infect:
+#+begin_quote
+Acquisition of polybasic cleavage sites in HA [the chicken version of the spike protein], by insertion or recombination, converts low-pathogenicity avian influenza viruses into highly pathogenic forms
+#+end_quote
+So to translate: polybasic cleavage sites inserted into chicken coronaviruses converts them from being not very infective to being highly infective.
 
 **** So assuming it's natural...
 Ok, so let's see which story is more likely based on the evidence we have.
@@ -496,6 +539,12 @@ To deregulate the industry means to restore it to unrestricted freedom of contra
 Subsidies create more of whatever is being subsidized --- this is why there are so many single black mothers, because single-parenthood was, and still is, subsidised. Similarly, subsidies for the ill and diseased promote carelessness, indigence, and dependency. If we eliminate such subsidies, we would strengthen the will to live healthy lives and to work for a living. In the first instance, that means abolishing Medicare and Medicaid.
 
 * Footnotes
+
+[fn:134]
+[[https://www.nature.com/articles/s41591-020-0820-9.pdf][Kristian G. Andersen, et al. "The proximal origin of SARS-CoV-2"]]
+
+[fn:133]
+[[https://doi.org/10.1128/JVI.00127-20][Wan Y, Shang J, Graham R, Baric RS, LiF. 2020. Receptor recognition by the novelcoronavirus from Wuhan: an analysis based ondecade-long structural studies of SARScoronavirus. J Virol 94:e00127-20.]]
 
 [fn:132]
 Banavali, Nilesh K. (2013). "Partial Base Flipping is Sufficient for Strand Slippage near DNA Duplex Termini". Journal of the American Chemical Society. 135
