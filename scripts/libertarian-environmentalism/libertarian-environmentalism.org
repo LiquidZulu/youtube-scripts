@@ -1,0 +1,403 @@
+#+TITLE: Why is Libertarianism The /BEST/ Path to Environmentalism?
+#+AUTHOR: LiquidZulu, Murray N. Rothbard, Dr Walter E. Block, Michael Malin, Benjamin M. Wiegold, Ryan McMaken, Ninos P. Malek, John Stossel
+#+EMAIL: liquidzulu@pm.me
+#+STARTUP: latexpreview
+#+LATEX_CLASS: apa6
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \affiliation{Apoptosis}
+#+LATEX_HEADER: \shorttitle{Libertarian Environmentalism}
+#+LATEX_HEADER: \usepackage{breakcites}
+#+LATEX_HEADER: \usepackage{apacite}
+#+LATEX_HEADER: \usepackage{paralist}
+#+LATEX_HEADER: \let\itemize\compactitem
+#+LATEX_HEADER: \let\description\compactdesc
+#+LATEX_HEADER: \let\enumerate\compactenum
+
+#+BEGIN_ABSTRACT
+It is common beief that the Free Market and Environmentalism are separate topics that may never meet --- that to suport the free market necessitates a disregard of the environment, or that to support the environment necessitates a disregard of the free market.
+
+This is not only untrue -- as will be shown in this video -- but, in fact, it is the direct opposite of the truth --- that if you wish to support the environment you ought to support property rights.
+#+END_ABSTRACT
+
+
+#+LATEX: \tableofcontents
+#+LATEX:\newpage
+
+* Pollution
+
+It used to be the case that you would have a little old lady who would hang up her washing which would be wet and clean and she would return later to find it dry and dirty. This is the problem of pollution. This lady would then go to the courts and complain that a factory nearby has trespassed pollutants onto her laundry and she wants 2 things --- she wants an injunction which -- which is a ruiling that the pollutor must cease and desist -- and that she wants damages paid for the harm done. Let us look at how the free market would tackle this in contrast to the government.
+
+** The Free Market solution
+
+Mainstream neoclassical economists often cite pollution as an example of market failure[0] --- that the real cost of making a desk isn't just the cost of the supplies and the labour but also that when it is made you pollute the property of other people. This is known as an external diseconomy, as this isnt a video about economics per se I wont go into much detail here.
+
+One of the effects of courts upholding private property in the past was that enterpaneurs decided to use /more expensive/ anthracite coal, rather than the cheaper but dirtier sulfur coal, as it produced less pollution and thus cost them less overall. In these days there was even a burgeoning industry of environmental forensics where labs could analyse particles of pollution and determine the factory they originated at. This further incentivised factories to install filters on their chimneys that would capture pollutants stopping any lawsuits.
+
+During the progressive period (1870--1910) a new philosophy arose in the US legal system --- that the US ought to be #1 at any cost. How do you become #1? By beating the current #1. Who was #1 at that time? Great britain was. How are you to beat progressive period Great Britain? You need battleships, cruisers, guns, tanks, etc. So the next time our old lady came in complaining of trespassing pollutants the court acknowledged that she had been trespassed against, but proceeded to ignore her /selfish/ property rights in the name of the /greater good/ --- to allow manufacturers to pollute in the name of progress.
+
+If this is how you set up the law you actively disincetivise environmentally conscious business --- if I am a green capitalist who invests in more expensive coal and installs filters on my factory chimneys I am put at a competitive disadvantage and will thus lose the economic game, ceteris paribus, which we will see detailed further later.
+
+Let us look at the two areas where pollution is most prevelant and most of an issue; the air and the waterways, particularly rivers. It is -- not so coincidentally -- these areas that private property has been restricted for the /greater good/ causing immense damage to nature. Pollution -- being an invasion of private property -- may only be properly addressed when private property is respected.
+
+*** Rivers
+
+Both rivers and oceans are generally owned -- at least in part -- by the state; private property is not fully respected on almost any waterway --- meaning the government effectively owns them. This problem is evern worse on the ocean --- international treaties declare that a state owns 200 nautical miles from the coast.[1] But government ownership is /economically impure/ --- as state officials cannot reap any capitol value -- they cannot sell rivers or stocks in rivers -- they have no incentive to preserve their purity and therefore the value of the rivers. Rivers are therefore, in the economic sense, unowned --- politicians in turn have allowed their corruption and pollution ad infinitum.
+
+But consider what would happen if private firms and individuals could own rivers and lakes. If a private firm owned Lake Erie, for example, then anyone dumping garbage in the lake would be promptly sued in the courts for their aggression against private property and would be forced by the courts to pay damages and to cease and desist from any further aggression.
+
+Only because the rivers are unowned is there no owner to rise up and defend his precious resource from attack. If, in contrast, anyone should dump garbage or pollutants into a lake which is privately owned (as are many smaller lakes), he would not be permitted to do so for very long --- the owner would come roaring to its defense.
+
+On the topic, professor Dolan writes[2];
+
+#+begin_quote
+With a General Motors owning the Mississippi River, you can be sure that stiff effluent charges would be assessed on industries and municipalities along its banks, and that the water would be kept clean enough to maximize revenues from leases granted to firms seeking rights to drinking water, recreation, and commercial fishing.
+#+end_quote
+
+If government as owner has allowed the pollution of the rivers, government has also been the single major active polluter, especially in its role as municipal sewage disposer. There already exist low-cost chemical toilets which can burn off sewage without polluting air, ground, or water; but who will invest in chemical toilets when local governments will dispose of sewage free to their customers?
+
+This example points up a problem similar to the case of the stunting of aquaculture technology by the absence of private property: if governments as owners of the rivers permit pollution of water, then industrial technology will -- and has -- become a water-polluting technology. If production processes are allowed to pollute the rivers unchecked by their owners, then that is the sort of production technology we will have.
+
+
+*** The Air
+
+We have now seen how applying private property to the water has solved the problem of pollution there, might the same occur when we apply our theory to the air? Surely there cannot be private property rights for something as ephemeral as air, can there? Yes, there can --- and just as with water the restriction of ones ability to homestead air comes with dire consequences.
+
+In the case of air pollution, however, we dont even need to perform the task of determining how homesteading would work in the sky. We need only consider the natural ownership one has over their lungs and any other material property that may be damaged by a pollutant. The vital fact about air pollution is that the polluter sends unwanted and unbidden pollutants -- from smoke to nuclear radiation to sulfur oxides -- /through/ the air and into the lungs of innocent victims, as well as onto their material property. All such emanations which injure person or property constitute aggression against the private property of the victims. Air pollution, after all, is just as much aggression as committing arson against another's property or injuring him physically. Air pollution that injures others is aggression pure and simple. The major function of government -- of courts and police -- is to stop aggression; instead, the government has failed in this task and has failed grievously to exercise its defense function against air pollution.
+
+It is important to realize that this failure has not been a question purely of ignorance, a simple time lag between recognizing a new technological problem and facing up to it. For if some of the modern pollutants have only recently become known, factory smoke and many of its bad effects have been known ever since the Industrial Revolution, known to the extent that the American courts, during the late -- and as far back as the early 19th century -- made the deliberate decision to allow property rights to be violated by industrial smoke.
+
+Before the mid and late 19th century, any injurious air pollution was considered a tort, a nuisance against which the victim could sue for damages and against which he could take out an injunction to cease and desist from any further invasion of his property rights. But during the 19th century, the courts systematically altered the law of negligence and the law of nuisance to permit any air pollution which was not unusually greater than any similar manufacturing firm, one that was not more extensive than the customary practice of fellow polluters.
+
+As factories began to arise and emit smoke, blighting the orchards of neighboring farmers, the farmers would take the manufacturers to court, asking for damages and injunctions against further invasion of their property. But the judges said, in effect, "Sorry. We know that industrial smoke (i.e., air pollution) invades and interferes with your property rights. But there is something more important than mere property rights: and that is public policy, the /common good/. And the common good decrees that industry is a good thing, industrial progress is a good thing, and therefore your mere private property rights must be overridden on behalf of the general welfare." And now all of us are paying the bitter price for this overriding of private property, in the form of lung disease and countless other ailments. And all for the /common good/.[3][4]
+
+This trend of siding against private property can be illustrated by the case of /Antonik v. Chamberlain/ where residents of a suburb near Akron sued against the operation of an airport on grounds of excessive noise. The court declared[5]:
+
+#+begin_quote
+In our business of judging in this case, while sitting as a court of equity, we must not only weigh the conflict of interests between the airport owner and the nearby landowners, but we must further recognize the public policy of the generation in which we live. We must recognize that the establishment of an airport ... is of great concern to the public, and if such an airport is abated, or its establishment prevented, the consequences will be not only a serious injury to the owner of the port property but may be a serious loss of a valuable asset to the entire community.
+#+end_quote
+
+To cap the crimes of the judges, legislatures, federal and state, moved in to cement the aggression by prohibiting victims of air pollution from engaging in "class action" suits against polluters. Obviously, if a factory pollutes the atmosphere of a city where there are tens of thousands of victims, it is impractical for each victim to sue to collect his particular damages from the polluter (although an injunction could be used effectively by one small victim). The common law, therefore, recognizes the validity of "class action" suits, in which one or a few victims can sue the aggressor not only on their own behalf, but on behalf of the entire class of similar victims. But the legislatures systematically outlawed such class action suits in pollution cases. For this reason, a victim may successfully sue a polluter who injures him individually, in a one-to-one "private nuisance" suit. But he is prohibited by law from acting against a mass polluter who is injuring a large number of people in a given area! As Frank Bubb writes, "It is as if the government were to tell you that it will (attempt to) protect you from a thief who steals only from you, but it will not protect you if the thief also steals from everyone else in the neighborhood."[6][7]
+
+Noise, too, is a form of air pollution. Noise is the creation of sound waves which go through the air and then bombard and invade the property and persons of others. Only recently have physicians begun to investigate the damaging effects of noise on the human physiology. Again, a libertarian legal system would permit damage and class action suits and injunctions against excessive and damaging noise: against "noise pollution."
+
+The remedy against air pollution is therefore crystal clear, and it has nothing to do with multibillion-dollar palliative government programs at the expense of the taxpayers which do not even meet the real issue. The remedy is simply for the courts to return to their function of defending person and property rights against invasion, and therefore to enjoin anyone from injecting pollutants into the air.
+
+**** But what about the costs?
+
+What of the propollution defenders of industrial progress, one may ask? And what of the increased costs that would have to be borne by the consumer? And what of our present polluting technology?
+
+The argument that such an injunctive prohibition against pollution would add to the costs of industrial production is as reprehensible as the pre-Civil War argument that the abolition of slavery would add to the costs of growing cotton, and that therefore abolition, however morally correct, was "impractical." For this means that the polluters are able to impose all of the high costs of pollution upon those whose lungs and property rights they have been allowed to invade with impunity.
+
+Furthermore, the cost and technology argument overlooks the vital fact that if air pollution is allowed to proceed with impunity, there continues to be no economic incentive to develop a technology that will not pollute. On the contrary, the incentive would continue to cut, as it has for a century, precisely the other way. Suppose, for example, that in the days when automobiles and trucks were first being used, the courts had ruled as follows:
+
+#+begin_quote
+Ordinarily, we would be opposed to trucks invading people's lawns as an invasion of private property, and we would insist that trucks confine themselves to the roads, regardless of traffic congestion. But trucks are vitally important to the public welfare, and therefore we decree that trucks should be allowed to cross any lawns they wish provided they believe that this would ease their traffic problems.
+#+end_quote
+
+If the courts had ruled in this way, then we would now have a transportation system in which lawns would be systematically desecrated by trucks. And any attempt to stop this would be decried in the name of modern transportation needs! The point is that this is precisely the way that the courts ruled on air pollution --- pollution which is far more damaging to all of us than trampling on lawns. In this way, the government gave the green light, from the very start, to a polluting technology. It is no wonder then that this is precisely the kind of technology we have. The only remedy is to force the polluting invaders to stop their invasion, and thereby to redirect technology into nonpolluting or even antipolluting channels.
+
+Already, even at our necessarily primitive stage in antipollution technology, techniques have been developed to combat air and noise pollution. Mufflers can be installed on noisy machines that emit sound waves precisely contra-cyclical to the waves of the machines, and thereby can cancel out these racking sounds. Air wastes can even now be recaptured as they leave the chimney and be recycled to yield products useful to industry. Thus, sulfur dioxide, a major noxious air pollutant, can be captured and recycled to produce economically valuable sulfuric acid[8]. The highly polluting spark ignition engine will either have to be "cured" by new devices or replaced altogether by such nonpolluting engines as diesel, gas turbine, or steam, or by an electric car. And, as libertarian systems engineer Robert Poole, Jr., points out, the costs of installing the non- or antipolluting technology would then "ultimately be borne by the consumers of the firms' products, i.e., by those who choose to associate with the firm, rather than being passed on to innocent third parties in the form of pollution (or as taxes)."[9]
+
+Robert Poole cogently defines pollution "as the transfer of harmful matter or energy to the person or property of another, without the latter's consent."[10] The libertarian -- and the only complete -- solution to the problem of air pollution is to use the courts and the legal structure to combat and prevent such invasion. There are recent signs that the legal system is beginning to change in this direction: new judicial decisions and repeal of laws disallowing class action suits. But this is only a beginning.
+
+Among conservatives -- in contrast to libertarians -- there are two ultimately similar responses to the problem of air pollution. One response, by Ayn Rand and Robert Moses among others, is to deny that the problem exists, and to attribute the entire agitation to leftists who want to destroy capitalism and technology on behalf of a tribal form of socialism. While part of this charge may be correct, denial of the very existence of the problem is to deny science itself and to give a vital hostage to the leftist charge that defenders of capitalism "place property rights above human rights." Moreover, a defense of air pollution does not even defend property rights; on the contrary, it puts these conservatives' stamp of approval on those industrialists who are trampling upon the property rights of the mass of the citizenry.
+
+A second, and more sophisticated, conservative response is by such supposed "free-market" economists as Milton Friedman. The Friedmanites concede the existence of air pollution but propose to meet it, not by a defense of property rights, but rather by a supposedly utilitarian "cost-benefit" calculation by government, which will then make and enforce a "social decision" on how much pollution to allow. This decision would then be enforced either by licensing a given amount of pollution (the granting of "pollution rights"), by a graded scale of taxes against it, or by the taxpayers paying firms not to pollute. Not only would these proposals grant an enormous amount of bureaucratic power to government in the name of safeguarding the "free market"; they would continue to override property rights in the name of a collective decision enforced by the State. This is far from any genuine "free market," and reveals that, as in many other economic areas, it is impossible to really defend freedom and the free market without insisting on defending the rights of private property. Friedman's grotesque dictum that those urban inhabitants who don't wish to contract emphysema should move to the country is starkly reminiscent of Marie Antoinette's famous "Let them eat cake" --- and reveals a lack of sensitivity to human or property rights. Friedman's statement, in fact, is of a piece with the typically conservative, "If you don't like it here, leave," a statement that implies that the government rightly owns the entire land area of "here," and that anyone who objects to its rule must therefore leave the area. Robert Poole's libertarian critique of the Friedmanite proposals offers a refreshing contrast[9]:
+
+#+begin_quote
+Unfortunately, it is an example of the most serious failing of the conservative economists: nowhere in the proposal is there any mention of rights. This is the same failing that has undercut advocates of capitalism for 200 years. Even today, the term "laissez-faire" is apt to bring forth images of eighteenth century English factory towns engulfed in smoke and grimy with soot. The early capitalists agreed with the courts that smoke and soot were the "price" that must be paid for the benefits of industry... Yet laissez-faire without rights is a contradiction in terms; the laissez-faire position is based on and derived from man's rights, and can endure only when rights are held inviolable. Now, in an age of increasing awareness of the environment, this old contradiction is coming back to haunt capitalism.
+
+It is /true/ that air is a scarce resource [as the Friedmanites say], but one must then ask why it is scarce. If it is scarce because of a systematic violation of rights, then the solution is not to raise the price of the status quo, thereby sanctioning the rights-violations, but to assert the rights and demand that they be protected... When a factory discharges a great quantity of sulfur dioxide molecules that enter someone's lungs and cause pulmonary edema, the factory owners have aggressed against him as much as if they had broken his leg. The point must be emphasized because it is vital to the libertarian laissez-faire position. A laissez-faire polluter is a contradiction in terms and must be identified as such. A libertarian society would be a full-liability society, where everyone is fully responsible for his actions and any harmful consequences they might cause.
+#+end_quote
+
+In addition to betraying its presumed function of defending private property, government has contributed to air pollution in a more positive sense. It was not so long ago that the Department of Agriculture conducted mass sprayings of DDT by helicopter over large areas, overriding the wishes of individual objecting farmers. It still continues to pour tons of poisonous and carcinogenic insecticides all over the South in an expensive and vain attempt to eradicate the fire ant[10]. And the Atomic Energy Commission has poured radioactive wastes into the air and into the ground by means of its nuclear power plants, and through atomic testing. Municipal power and water plants, and the plants of licensed monopoly utility companies, mightily pollute the atmosphere. One of the major tasks of the State in this area is therefore to stop its own poisoning of the atmosphere.
+
+Thus, when we peel away the confusions and the unsound philosophy of the modern ecologists, we find an important bedrock case against the existing system; but the case turns out to be not against capitalism, private property, growth, or technology per se. It is a case against the failure of government to allow and to defend the rights of private property against invasion. If property rights were to be defended fully, against private and governmental invasion alike, we would find here, as in other areas of our economy and society, that private enterprise and modern technology would come to mankind not as a curse but as its salvation.
+
+
+** The Watermelon Solution
+
+We are faced with a stark empirical fact in the face of the problem of pollution --- that government ownership -- including socialism -- has proved to be no solution to the problem of pollution. Even the most starry-eyed proponents of government planning concede that the poisoning of Lake Baikal in the Soviet Union is a monument to heedless industrial pollution of a valuable natural resource.
+
+*** EPA: License to Pollute
+
+
+#+LATEX:\newpage
+* Extinction
+
+** Animals as Property
+
+*** The African Elephant
+
+In 1989, the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) banned the international trade in ivory in an effort to protect elephants from excessive hunting activities. This ban actually created a very lucrative black market in ivory which led to even larger amounts of elephant poaching. According to Professors Stuart Chapin III, Gary Kofinas, and Carl Folke in /Principles of Ecosystem Stewardship: Resilience-Based Natural Resource Management in a Changing World/, "attempting to [[https://books.google.com/books?id=98_0Tgfd25kC&printsec=frontcover&dq=Principles+of+Ecosystem+Stewardship&hl=en&sa=X&ved=0ahUKEwjVmv2M4t3OAhUU3GMKHfURARwQ6AEIHDAA#v=onepage&q=protected%20area%20that%20restricted%20all%20local%20uses%20of%20elephants&f=false][address the problem of elephant conservation during the 1970s]] and 1980s many African countries established national parks and other forms of protected area that restricted all local uses of elephants"[11, pp. 139]. These well-intentioned changes also created severe consequences including destroyed crops, fear among residents, and in some cases deaths by trampling. Further, [[https://books.google.com/books?id=98_0Tgfd25kC&printsec=frontcover&dq=Principles+of+Ecosystem+Stewardship&hl=en&sa=X&ved=0ahUKEwjVmv2M4t3OAhUU3GMKHfURARwQ6AEIHDAA#v=onepage&q=In%20spite%20of%20the%20CITES%20designation%20and%20protected%20areas%20with%20enforcement%20officer%2C%20an%20organized%20illegal%20trade%20of%20elephant%20products%20grew%2C%20driven%20by%20black%20market%20buyers&f=false][no exceptions or provisions were in place for use of resources by indigenous peoples or subsistence dwellers]]. "In spite of the CITES designation and protected areas with enforcement officer, an organized illegal trade of elephant products grew, driven by black market buyers"[11, pp. 139].
+
+Government regulations were not enough to stop this problem. For some, it became clear that strong community involvement would be necessary. "Zimbabwe was the first country in Africa to [[https://books.google.com/books?id=98_0Tgfd25kC&pg=PA139&lpg=PA139&dq=Zimbabwe+was+the+first+country+in+Africa+to+recognize+conservation+by+utilization,+which+acknowledged+that+landowners+should+benefit+from+wildlife&source=bl&ots=rAsHp1H7zv&sig=obuiAqbrz5OaAA3z5pSOdFV98Ks&hl=en&sa=X&ved=0ahUKEwjm9tuBp9_OAhVNVWMKHfeHBFwQ6AEIHDAA#v=onepage&q=Zimbabwe%20was%20the%20first%20country%20in%20Africa%20to%20recognize%20conservation%20by%20utilization%2C%20which%20acknowledged%20that%20landowners%20should%20benefit%20from%20wildlife&f=false][recognize conservation by utilization]][11, pp. 139], which acknowledged that landowners should benefit from wildlife". A program called the Communal Areas Management Program for Indigenous Resources (CAMPFIRE) [[https://books.google.com/books?id=98_0Tgfd25kC&printsec=frontcover&dq=Principles+of+Ecosystem+Stewardship&hl=en&sa=X&ved=0ahUKEwjVmv2M4t3OAhUU3GMKHfURARwQ6AEIHDAA#v=onepage&q=At%20the%20time%20it%20started%2C%20CAMPFIRE%20was%20unique%20in%20Africa%20in%20empowering%20local%20communities%20by%20distributing%20the%20benefits%20of%20trophy%20hunts%20to%20villages%20near%20game%20reserves%2C%20thus%20encouraging%20conservation&f=false][was created for this very purpose]][11, pp. 139]. "At the time it started, CAMPFIRE was unique in Africa in empowering local communities by distributing the benefits of trophy hunts to villages near game reserves, thus encouraging conservation. Profits from these hunts went directly to people or were used for local infrastructure. These changes led to a dramatic increase in community involvement and allowed for indigenous tribes to fully utilize their centuries of traditional conservation knowledge. The final results of this two year experiment were promising. According to reports, there was a "dramatic increase in cited violations for breaking hunting regulations because community residents were beginning to help enforce regulation to safeguard */their resource/*" (emphasis added).
+
+While CAMPFIRE was the most successful system tried up to that point, it still wasn't perfect. It ultimately failed due to problems from top-down administration, unequal distribution, and political corruption. It eventually dissolved due to political upheaval in African countries. While this community involvement program was a step in the right direction, it evidently didn't go far enough.
+
+*** The South African Rhino
+
+In a very similar situation as the elephant, the South African government is having difficulties protecting the Rhino from being poached as well. Their response to combat this problem: have governments back off altogether. [[http://www.bloomberg.com/news/articles/2013-07-03/south-africa-backs-proposal-to-legalize-rhino-horn-trade][According to Mike Cohen and Paul Burkhardt]][12], the "South African government is asking the international community to legalize the rhino horn trade as a means to save the animal and to fight poaching". Their argument is that the illegal ivory trade has created a very lucrative black market which heavily incentivizes poaching. Meanwhile, the illegalization of ivory also removes any profit incentive for landowners to protect these species. South Africa hopes that by legalizing the sale of ivory, the black market will be greatly reduced and private landowners (who can manage the resource much more effectively and efficiently) will have an incentive to protect and even grow their numbers.
+
+*** The American Bison
+
+One of the few endangered species tragedy-turned-success stories involved the American Bison (buffalo). The tragedy occurred when the buffalo populations went from estimates in the tens of millions before 1800 to just a few hundred a short 80 years later. This rapid decline and near extinction is generally attributed to a "tragedy of the commons" (i.e., lack of private property rights). As demand for buffalo products were increasing, they began being overhunted since they were located in non-white owned lands and therefore considered fair game for anyone to hunt. Railroads would often pay for buffalo to be killed indiscriminately to avoid delays and since the delays would cost train companies money there was no financial incentive for protecting the bison. According to [[https://mises.org/profile/benjamin-m-wiegold][Benjamin Wiegold]] in his article, [[https://mises.org/library/endangered-species-private-property-and-american-bison][Endangered Species, Private Property, and the American Bison]][13], the US military under General William Sherman even "adopted a scorched-earth policy which included attempts to eradicate the bison herds from the plains".
+
+Government efforts to protect these buffalo were unsuccessful. In "1872 Yellowstone National Park was opened as a safe haven, but poaching still remained a substantial problem. Henry Yount, remembered for his time at Yellowstone as the first national park ranger, [[https://mises.org/library/endangered-species-private-property-and-american-bison][resigned after only 14 months on the job because he knew his efforts alone were hopeless]]".
+
+Fortunately, a free-market solution provided a much brighter future for the bison. Seeing the decline as an opportunity, several ranchers started herding wild buffalo onto their ranches and were far more successful in protecting them. While the populations in Yellowstone went from 25 to 23 from 1884 to 1902, privately owned buffalo populations were able to grow to an estimated 700. "This trend has continued for more than a century, as by the 1990s the ratio was 25,000 publicly-owned to 250,000 privately-owned bison".
+
+In each of these cases, not only were top-down approaches inadequate, but many of them caused the animals to become endangered in the first place. In cases were property rights are intact, clearly defined, and protected --- profit incentives are more likely to ensure that these animals continue to thrive.
+
+** To Protect and Conserve
+
+** Shoot, Shovel, and Shut Up
+
+The Watermelons, of course, have their own /solution/ to the problem of endangered animals --- the Endangered Speicies Act of 1973 (916 U.S.C. § 1531 et seq). What sort of evil capitalist pig could possibly be opposed to something as noble as this? Well, as with all Government regulation there are unintended -- or perhaps intended -- consequences that yet again give the state extra control over property, how convenient that their mistakes always lean in that direction.
+
+In their pursuit of saving the Mississipi Gopher Frog, the US Fish and Wildlife Service have decided to effectively seize Edward Poitevent's land in Loisiana[14][15] --- 1500 acres to be precise[14]. Well good -- one may think -- that greedy man shouldnt have tried to build there anyway, we must protect those poor frogs. The catch? The Mississipi Gopher Frog does not, and cannot, live anywhere near Ed's land by the government's own surveys[15][16]. Because of this habitat issue the frog has not been seen in Louisiana since 1967. In fact Ed has been ordered to change his land in order to make it hospitable to the gopher frog --- he needs to remove all trees, replant new trees, dig and maintain new ponds, and burn the forest every year. Seems to me that this area just isn't very well suited to the gopher frog if it needs all this work. So how do they justify this abhorrent treatment? Are we to accept that the government can just come along to anyones property and decide that they can use it better than the owner? Would we accept such obvious injustice committed by any other group? I think not.
+
+Poitevent's great-grandfather, John, acquired the flat, pine savanna acreage after the Civil War and the land was kept in silviculture and used in conjunction with a family lumber mill until the Great Depression. After an idle 20-year stretch, the Poitevent family signed a 90-year lease, and Weyerhaeuser acquired the lease in the 1990s. The land currently remains an active tree farm. (Of the total 1,544 acres in the habitat designation, the Poitevent family owns almost 95%. Weyerhaeuser owns the remainder).
+
+The initial critical habitat was promulgated in 2010 and proposed land located exclusively in Mississippi. However, Joseph Pechmann, a biology professor at New Orleans University (now at Western Carolina University), informed FWS of his past dusky gopher frog research on Weyerhaeuser-related land. "I was a reviewer for the FWS critical habitat draft findings," Pechmann explains. "In one of my comments I said species restoration could look to a larger part of the former dusky gopher frog range. The records showed the Weyerhaeuser land was suitable. When I suggested this property, I thought it was owned by Weyerhauser. I didn't realize they were leasing". Quite interesting that the man who recommended the land didnt even know enough about it to know who owned it.
+
+With Pechmann's tip, FWS eyes turned to Poitevent's 1,544 acres. "I literally had a biologist trespass on my land along with numerous government agents assisting him just because he thought he might have heard the croak of a dusky gopher frog somewhere in the vicinity of my property in the dead of night many years ago," Poitevent says. "A croak in the dark on a vast tree farm? Pechmann whispered about my land and the FWS came running to get it. The fact that Professor Pechmann now says he 'thought' Weyerhaeuser was the owner of my land at the time shows how utterly reckless he and the FWS were with the facts".
+
+Thanks to the states brash action in their obviously noble pursut, with no hidden agenda, land owners have adopted a new policy --- Shoot, Shovel, and Shut Up[15][17]. They know that if a state official finds an endangered animal on their land it will be stolen from them, so when they stumble across a rare species they simply shoot it, shovel dirt over it, and shut up about it. Poitevent is out $34 million[14][15], the taxpayer has had to foot the states bill, endangered species are now getting shot --- it would seem Uncle Sam is the only winner here.
+
+But how can we know that this new trend of shooting, shovelling, and shutting up has outdone the good of government saving animals? Well, according to the US government there are more endangered speceis now than when the endangered species act was put in place. In 1967, then-Secretary of the Interior Steward Udall listed 78 species[17] as threatened with extinction under the pre-ESA Endangered Species Preservation Act of 1966. Today, the U.S. Department of the Interior's Fish and Wildlife Service (FWS) lists 517 animal species and 746 plant species in the United States as endangered or threatened[17], for a total of 1,263 species. No one really knows the total number of species in the United States, but one estimate by the conservation group NatureServe puts it at 36,500 species and 10,775 subspecies[17]. So if FWS is right, that means that about 3.5 percent of all species or 2.7 percent of all species and subspecies in the U.S. are either endangered or threatened.
+
+Or consider the case of the endangered red-cockaded woodpecker. These woodpeckers prefer to nest in pines that are at least 70 years old, and fledglings usually set up new nests within a 15-mile radius of where they were hatched. In the 1980s, timber owners were not allowed to harvest timber within a 60- to 300-acre area around a woodpecker nest because of ESA restrictions. This limitation could cost them as much as $200,000 in lost profits.
+
+Economists writing in the /Journal of Law and Economics/ found that timber owners in North Carolina changed their practices to avoid the problems that would result from finding those woodpeckers on their property. Owners within 15 miles of a protected red-cockaded woodpecker nest tended to harvest more trees and others tended to cut trees when they hit 40 years old rather than wait for the trees to mature into something that might attract a nesting woodpecker.
+
+If Poitevent's land can be taken on the sayso of a bureaucrat, claiming his $34 million loss to be inconsequential, to save an animal that does not live there and was never numerous (only ever in the 1000s)[15] throughout recorded history, then anyones land may be taken.
+
+
+#+LATEX:\newpage
+** Greed Saved the Whales, Not Greenpeace
+** Overfishing
+* Climate Change
+
+In addition to [[Pollution]] -- carbon emmissions potentially being pollutants, thereby having all those points equally apply -- I think it is pertinent to specifically address [[Climate Change]] as it is currently the hot new disaster for communist central planners to weaponise against the market.
+
+For decades, the general strategy of anti-global warming activists has been to maximize predictions of apocalypse, death, and destruction. This over-the-top approach has been used to promote the idea that virtually no cost is too high when it comes to implementing global governmental control of all human activities in the service of avoiding climate change.
+
+After all, what use is cost-benefit analysis when you're faced with the apocalypse? Ultimately, the message is no more complicated than this: either hand over control of the economy to a small elite of climate planners, or we're all going to die. 
+
+This sort of thing is a propagandist's dream of course, but in real life, where more rational heads -- on occasion -- prevail, the costs of any proposed government action must be considered against the costs of the alternatives. 
+
+For the sake of argument, let's just assume that many predictions of global warming are true. Nevertheless, if we are to be convinced that climate activists and their friends must be allowed to seize control of the global economy -- and impose wealth-decimating regulations on us -- we must first ask and answer the following questions: 
+
+1. What is the cost of your plan to various populations in terms of the standard of living and human lives?
+
+2. Is the cost of your plan greater than or less than the cost of other solutions, such as the gradual relocation populations from coastal areas?
+
+3. Can you show that your plan has a very high probability of working, and if not, why should we implement it when we could spend those same resources on other more practical solutions and more immediate needs[fn:: See: https://en.wikipedia.org/wiki/Copenhagen_Consensus] such as clean water, food, and basic necessities?
+
+The response to these questions has often been "just trust us, you anti-science troglodyte! You're wasting valuable time. In fact, if you don't do as we say right now, you're all the more sure to die horribly". In situations like these, questioning the proposed solutions and strategies isn't even acceptable. There's a pre-packaged policy agenda that will "solve" the global warming problem, and you can either take it or leave. If you "leave it" of course, you're "anti-science" regardless of your actual opinion about the science. 
+
+Not surprisingly, though, even people who are sympathetic to warnings about global warming -- and who are hardly libertarians opposed to all forms of government intervention -- have found this approach to be less than constructive. 
+
+** Humanity Is Already Pursuing Solutions to Environmental Problems --- Without a Global Climate Bureaucracy
+
+In addition to the points laid out in [[Pollution]] -- that abbandoment of tort law creates polluting technology -- let us note the following: that human ingenuity has been faced with a great many very difficult challenges. And, while human history is hardly a non-stop parade of grand successes, there are enough successes in there to suggest that maybe, just maybe, the climate-change narrative of impending-apocalypse is misplaced. 
+
+And it appears that the Apocalypse Party may be losing the rhetorical war. /Scientific American/ -- hardly some far right "conspiracy" site --  published a piece by Jokn Horgan entitled, "[[https://blogs.scientificamerican.com/cross-check/should-we-chill-out-about-global-warming/][Should We Chill Out About Global Warming?]]"[18] which explores the idea "that continued progress in science and other realms will help us overcome environmental problems". Specifically, Horgan looks at two recent writers on the topic, Steven Pinker and Will Boisvert.
+
+Neither Pinker nor Boisvert could be said to have libertarian credentials, and neither take the position that there is no climate change. Both assume that climate change will lead to difficulties. 
+
+Both, however, also conclude that the challenges posed by climate change do not require the presence of a global climate dictatorship. Moreover, human societies are already motivated to do the sorts of things that will be essential in overcoming any climate-change challenges that may arise. 
+
+That is, pursuing higher standards of living through technological innovation is the key to dealing with climate change.
+
+Boisvert, in an essay titled "[[http://progressandperil.com/2018/02/23/the-conquest-of-climate/][The Conquest of Climate]]" in Progress and Peril, begins
+
+#+begin_quote
+How bad will climate change be? Not very.
+
+No, this isn't a denialist screed. Human greenhouse emissions will warm the planet, raise the seas and derange the weather, and the resulting heat, flood and drought will be cataclysmic.
+
+Cataclysmic --- but not apocalyptic. While the climate upheaval will be large, the consequences for human well-being will be small. Looked at in the broader context of economic development, climate change will barely slow our progress in the effort to raise living standards.
+#+end_quote
+
+Boisvert goes on to note that issues such as high temperatures, droughts, and the displacement of populations from flooded areas are all issues that are best addressed by technological innovation --- of the sort that people are already pursuing.
+
+** We Need Capital and Innovation More than Ever
+
+In the case of droughts, for example, experience has shown that the best tools in addressing them lie in fostering wealth. Specifically, Boisvert uses the example of recent droughts in the Middle East and how they have "affected Israel much differently from the rest of the middle east --- because Israel has more capital and more human ingenuity".
+
+Wealthier, more market-based societies are better able to deal with these problems and more. After all, it's not a coincidence that 20th-century Communist regimes were among the most environmentally disastrous regimes the world has known[19]. Wealth brings both the desire for -- and the means to achieve -- a more pristine environment.
+
+In his essay titled "[[https://thebreakthrough.org/index.php/journal/no.-8-winter-2018/enlightenment-environmentalism][Enlightenment Environmentalism]]," Pinker takes exception to the "radicalism and fatalism" of the climate change movement which has fostered some especially dangerous ideologies. Specifically, he notes the brand of environmentalism favored by activists like arch-anti-capitalist Naomi Klein who, "in her 2014 bestseller /This Changes Everything: Capitalism vs. the Climate/, [contends] we should not treat the threat of climate change as a challenge to prevent climate change. Rather, we should treat it as an opportunity to abolish free markets, restructure the global economy, and remake our political system."
+
+The problem with Klein's position, Pinker suggests, is that wealthier societies are the sorts of societies that are more likely to deal prudently with environmental problems. He concludes: 
+
+#+begin_quote
+Humanity is not on an irrevocable path to ecological suicide. As the world gets richer and more tech-savvy, it dematerializes, decarbonizes, and densifies, sparing land and species. As people get richer and better educated, they care more about the environment, figure out ways to protect it, and are better able to pay the costs.
+#+end_quote
+
+Pinker spends much of his article illustrating with empirical[fn:: The praxeologic case is so straight forward as to not warrant mentioning] data the fact that, yes, richer societies are cleaner, more ecologically-minded societies. The parts of the word most characterized by market-based systems are the parts of the world most mindful of environmental maintenance and cleanup. We can already see in the world poverty data that poor sanitation[20], hunger[21], and extreme poverty[22] have all been lessened in recent decades, at the same time that global markets have expanded[23].
+
+While neither Pinker nor Boisvert are advocates of unhampered markets, both also recognize that the innovation and wealth-producing power of markets are what produce the technologies that that are so essential to overcoming environmental dangers and problems. Boisvert concludes that if humanity continues to develop the technologies it is already pursuing: 
+
+#+begin_quote
+We will grow more food, harness more water, cool ourselves more vigorously, move to new lands and build -- and rebuild -- new cities. We will exploit technological breakthroughs, but mostly we will improve familiar technologies and deploy them more widely. /We will do all this not because of global warming but because of more pressing challenges like population growth and the demand for higher living standards. The means by which we will overcome specific problems posed by climate change look less like the pristine "sustainable development" envisioned by greens and more like the ordinary development that has always sustained us/. [emphasis added.]
+#+end_quote
+
+These last two sentences are especially important. It is not new, special, world-remaking regulations or global regimes that will keep humanity thriving in a world of affected by global warming. It is "ordinary development" -- driven by an everyday desire for higher quality of life -- that will create the technologies essential to dealing with environmental problems.
+
+This means, contrary to the global-warming radicals, it is not necessary to smash capitalism, adopt primitivist lifestyles, or revolutionize human society in the image of the central planner. In truth, people already want all the things that would make life both tolerable and enjoyable in a post-warming world. The necessary incentives are already in place. People /already/ want technologies that will increase energy efficiency, cleaner air, and beaches without oil slicks. What many environmentalists refuse to admit, however, is that markets are the driving force behind the technologies that will deliver these solutions.
+
+So let us return to our earlier question --- what is the cost of implementing a global climate plan that would stifle markets and impose a more "sustainable" (i.e., lower) standard of living on global populations? If Pinker and Boisvert are right, we're forced to conclude that the cost would be extremely high. If radical new environmental regulations are adopted, it is likely that market-based innovation and capital formation will be affected in a highly negative way. While anti-capitalists would cheer this, the likely result is a destruction to the very things we'll need to address the environmental challenges that will face us. 
+
+** The Paris Climate Accord
+
+In response to the Trump administration's announcement that the US was pulling out of the Paris Climate Accord, some of his critics declared that anyone who likes "science" would have supported the accord.
+
+Not surprisingly, Neil deGrasse Tyson rushed to declare that Trump supported the withdrawal because his administration "never learned what Science is or how and why it works" --- but what does "Science" have to do with it? 
+
+We know that Tyson is of the opinion that there is global warming. We also know that many other physical scientists agree with him. Fair enough, lets accept that they are correct and their predictions immaculate --- what does this change? It does not follow logically that agreeing with Tyson on the matter of climate change must necessarily mean supporting the Paris Climate Agreement. After all, the Paris Climate Agreement isn't a scientific study. It's a political document that lays out a specific public-policy agenda. 
+
+Agreement or disagreement with the accord might hint at one's opinions about climate science. Or it might not. One can agree that climate change exists and that human beings have a large role in the phenomenon. Agreement on this matter, however, does not dictate that one must /also/ agree with the political policies outlined in the Paris document.
+
+The two are totally independent phenomena.
+
+*** Science and Politics Are Not the Same Thing
+
+An analogy might help illustrate further:
+
+Scientific inquiry tells us that obesity is bad for one's health. Let's imagine then, that in response to rising obesity rates, a large number of politicians gather and sign an agreement --- let's call it the London Obesity Avoidance Deal (LOAD). The supporting politicians claim that the deal will reduce obesity and that failure to abide by the agreement will spell a health crisis for humanity.
+
+Does this mean, then, that any politician who doesn't sign onto the agreement is an "obesity denier"? Does a failure to approve of the agreement prove that the dissenters believe that obesity is not a real thing? 
+
+Obviously not.
+
+Those who refuse to sign the agreement may be of the opinion that the LOAD does little to actually reduce obesity. Or, the dissenters may feel that the deal fails to properly compare costs and benefits when imposing its directives. Opponents may feel that "the cure is worse than the disease." 
+
+In any case, dissent from the deal has nothing to do with denying the existence of obesity or the science behind the studies on the matter.
+
+*** The Problem with Paris
+
+The same is true of the Paris deal. Those who disagree with it may very well be -- and probably are -- taking issue with the specific provisions of the deal which may actually prove to be more costly to people than the presumed global warming itself.
+
+But, for physicists like Tyson -- i.e., people who know nothing about economics or political institutions -- public policy is like a magic trick. A group of politicians get together, declare that they're going to solve problem X, and then problem X is magically solved, so long as everyone supports the "solution".
+
+But what if the policy prescriptions of the Paris politicians are wrong? Or, what if the cure is worse than the disease? 
+
+Presumably, the agreement is supposed to improve the lives of real-world human beings by improving their standards of living. 
+
+If this is true, then, the Paris agreement must accomplish several things: 
+
+1. It must rely on good science about the climate. 
+
+2. It must accurately predict the effects of climate change on standards of living.
+
+3. It must endorse public policies that will do something to mitigate the negative effects of climate change on standards of living. 
+
+4. It must demonstrate that these public policies will in fact mitigate the effects of climate change. 
+
+5. The agreement must demonstrate that the costs of the proposed public policies themselves are lower than the costs of the climate change. 
+
+If the Paris agreement fails to do any of these things, it should be rejected. If the net effect of the agreement is to make people poorer, then the agreement is of no value. Now, without making any judgment about climate science itself, we can see just from looking at the Paris agreement that it could easily be rejected on the basis of numbers two, three, four, and five in our list.
+
+After all, the agreement is based on policy predictions that are wildly speculative.They attempt to make predictions about the global economy /decades/ in the future (a notoriously unreliable endeavor) and they fail to honestly take into account the true costs of imposing far-higher energy costs on most of the world's poor and working classes --- which is what the agreement would do. 
+
+In fact, the agreement doesn't even /mention/ the cost to households that would face higher energy costs under the agreement. The only costs mentioned are the costs of adapting to climate change. In other words, the agreement assumes that there is no downside for households in the agreement's provisions. That's a huge red flag right there. 
+
+Also ignored is the opportunity cost of adopting the agreement's provisions. In real life, adoption of the agreement's policy prescriptions will lessen growth by reducing access to basic energy resources. In addition to reducing household wealth, this will also reduce tax revenues. Money spent on higher energy costs is money that can't be spent elsewhere --- on things like health care, and research into better agricultural practices. Yet, at the same time, the agreement calls for massive redistribution of wealth and large amounts of government spending on various programs such as "emergency preparedness" and more government "insurance" to pay for the effects of natural disasters.
+
+Thus, the agreement calls for more spending, while reducing the ability of both the public and private sectors to engage in that spending. It's a self-defeating endeavor. 
+
+Other opportunity costs include the impact on the production of fresh water. As Ryan McMaken noted in a 2015 article[24]:
+#+begin_quote
+A second major factor here in the necessity of energy is fresh water. The California drought has reminded us that fresh water is a scarce resource, even if the government likes to treat it as if it were not. But even as larger populations demand more water, fresh water can be produced through the use of energy via desalinization and pump-based aqueducts.
+
+Today, most such schemes are still uneconomical because the problem of water scarcity can usually be solved through cheaper means such as importing food from wetter climates and through cheaper aqueduct systems that are primarily gravity-based.
+
+In the future, however, as water does become more and more scarce as populations grow, the most practical answer will indeed become more energy-intensive solutions.
+
+By centrally planning and artificially limiting energy usage, however, what the global warming lobby wants to do is raise the price of water processing, and by limiting the use of such methods, also inhibit technological progress by preventing practical experience in the use of water processing and fresh water production.
+#+end_quote
+
+** The Green New Deal
+
+
+#+LATEX:\newpage
+* Sweatshops Save the Planet
+* Forest Fires
+** The Amazon
+** Australia
+** California
+
+* Paper vs Plastic
+* Nuclear
+* Acknowledgements
+The text contained in this paper is based on the following;
+- [[https://www.youtube.com/watch?v=3Gmds8R7lyw][Free-Market Environmentalism]]
+- [[https://mises.org/library/libertarian-manifesto-pollution][The Libertarian Manifesto on Pollution]]
+- [[https://mises.org/wire/privatize-governments-have-failed-preserve-endangered-species][Privatize: Governments Have Failed to Preserve Endangered Species]]
+- [[https://mises.org/wire/economics-hunting-and-species-conservation][The Economics of Hunting and Species Conservation]]
+- [[https://mises.org/library/protect-and-conserve][To Protect and Conserve]]
+- [[https://reason.com/2003/12/31/shoot-shovel-and-shut-up/]["Shoot, Shovel, and Shut Up"]]
+- [[https://mises.org/wire/fear-global-warming-markets-offer-our-best-chance-survival][Fear Global Warming? Markets Offer Our Best Chance for Survival]]
+- [[https://mises.org/wire/studying-climate-doesnt-make-you-expert-economics-and-politics][Studying the Climate Doesn't Make You an Expert on Economics and Politics]]
+- Shellenberger, M. /Apocalypse Never/
+
+* Bibliography
+
+[0] [[https://www.youtube.com/watch?v=3Gmds8R7lyw&list=PLglLxeDNMzDUquDkMlVuHq7zjOPR3sGHP&index=3&disable_polymer=true][Block, W. E. /Free Market Environmentalism/]]
+#+LATEX: \newline\newline
+[1] [[https://www.un.org/Depts/los/convention_agreements/texts/unclos/part5.htm05l]["PREAMBLE TO THE UNITED NATIONS CONVENTION ON THE LAW OF THE SEA" (Retrieved 27 April 2016).]]
+#+LATEX: \newline\newline
+[2] Dolan, E. G. "Capitalism and the Environment," /Individualist/ (March 1971): 3.
+#+LATEX: \newline\newline
+[3] Roberts, E. F. "Plead the Ninth Amendment!" Natural History (August--September 1970): 18ff.
+#+LATEX: \newline\newline
+[4] Horwitz, M. J. The Transformation of American Law, 1780--1860 (Cambridge, Mass.: Harvard University Press, 1977).
+#+LATEX: \newline\newline
+[5] Katz, M. The Function of Tort Liability in Technology Assessment (Cambridge, Mass.: Harvard University Program on Technology and Society, 1969), p. 610.
+#+LATEX: \newline\newline
+[6] Bubb, F. "The Cure for Air Pollution," The Libertarian Forum (April 15, 1970): 1.
+#+LATEX: \newline\newline
+[7] Dolan, E. G. TANSTAAFL, pp. 37--39.
+#+LATEX: \newline\newline
+[8] Jacobs, J. /The Economy of Cities/ (New York: Random House, 1969), pp. 109ff.
+#+LATEX: \newline\newline
+[9] Poole, R. Jr. "Reason and Ecology," pp. 251--52.
+#+LATEX: \newline\newline
+[10] Garvin, G. "Killing Fire Ants With Carcinogens," Inquiry (February 6, 1978): 7--8.
+#+LATEX: \newline\newline
+[11] Chapin, F. S. III; Kofinas, G. P.; Folke, C. /Principles of Ecosystem Stewardship: Resilience-Based Natural Resource Management in a Changing World/
+#+LATEX: \newline\newline
+[12] Cohen, M.; Burkhardt, P. [[https://www.bloomberg.com/news/articles/2013-07-03/south-africa-backs-proposal-to-legalize-rhino-horn-trade][South Africa Backs Proposal to Legalize Rhino Horn Trade]]
+#+LATEX: \newline\newline
+[13] Wiegold, B. M. [[https://mises.org/library/endangered-species-private-property-and-american-bison][Endangered Species, Private Property, and the American Bison]]
+#+LATEX: \newline\newline
+[14] Bennett, C. [[https://d3lmx47ynt7pur.cloudfront.net/news/policy/private-property-rights-collide-invisible-frog][Private Property Rights Collide With Invisible Frog]]
+#+LATEX: \newline\newline
+[15] Stossel, J. [[https://www.youtube.com/watch?v=6gfPaTLjCNs][War on the Little Guy: Endangered Species]]
+#+LATEX: \newline\newline
+[16] U.S. Fish & Wildlife Service [[https://www.fws.gov/mississippiES/pdf/gopherfrog%20factsheet.pdf][Mississippi Gopher Frog Fact Sheet]]
+#+LATEX: \newline\newline
+[17] Bailey, R. [[https://reason.com/2003/12/31/shoot-shovel-and-shut-up/]["Shoot, Shovel, and Shut Up"]]
+#+LATEX: \newline\newline
+[18] McMaken, R. [[https://mises.org/wire/fear-global-warming-markets-offer-our-best-chance-survival][Fear Global Warming? Markets Offer Our Best Chance for Survival]]
+#+LATEX: \newline\newline
+[19] Panda, A. [[https://thediplomat.com/2014/10/how-the-soviet-union-created-central-asias-worst-environmental-disaster/][How the Soviet Union Created Central Asia's Worst Environmental Disaster]]
+#+LATEX: \newline\newline
+[20] UNICEF [[https://data.unicef.org/topic/water-and-sanitation/sanitation/][Sanitation Statistics]]
+#+LATEX: \newline\newline
+[21] The World Counts [[https://www.theworldcounts.com/challenges/people-and-poverty/hunger-and-obesity/how-many-people-die-from-hunger-each-year/story][People who died from hunger]]
+#+LATEX: \newline\newline
+[22] The Economist [[https://www.economist.com/briefing/2013/06/01/not-always-with-us][/Not always with us/]]
+#+LATEX: \newline\newline
+[23] Roodman, D. [[https://www.openphilanthropy.org/sites/default/files/Modeling-the-human-trajectory.pdf][On the probability distribution of long-term changes in the growth rate of the global economy: An outside view]]
+#+LATEX: \newline\newline
+[24] McMaken, R. [[https://mises.org/library/high-cost-centrally-planning-global-climate][The High Cost of Centrally Planning the Global Climate]]
+#+LATEX: \newline\newline
+#+LATEX: \newline\newline
+#+LATEX: \newline\newline
+#+LATEX: \newline\newline
+#+LATEX: \newline\newline
+

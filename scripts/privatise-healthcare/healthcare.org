@@ -101,291 +101,13 @@ The government can make waiting lists look shorter by denying patients services 
 So the NHS may not charge one at the point of service, but it is immensely costly in terms of both the taxation required and the lives lost, no matter how much money is thrown into the great money pit that is the National Health Service it will /never/ deliver a product anywhere close to being as good as the free-market.
 
 ** CCPVirus
-/See: [[https://www.youtube.com/watch?v=eD3ztjqYGbg][Peak Prosperity, "Covid-19 A Result of Lab Manipulation? Suspicions Grow..."]] for more details/
-Currently the most apparent crisis in healthcare is that of the coronavirus pandemic, in this section I will present extensive evidence that this pathogen was created through gain of function research preformed by CCP scientists, I will then describe how even if it was a naturally occuring disease it was allowed to spread by state malice and incompetence.
+Currently the most apparent crisis in healthcare is that of the coronavirus pandemic, a virus that was, in all likelihood, created in the Wuhan Institute of Virology (see: https://github.com/LiquidZulu/youtube-scripts/blob/main/scripts/lab-leak/lab-leak.org for my evidence).
 
-*** Lab-made?
-**** Wuhan lab shutdown in October 2019
-Cellphone geolocation data[fn:108] acquired by NBC[fn:107] shows no activity from the 7th Oct through to the 24th Oct 2019 in a high-security portion of the Wuhan Institute of Virology, and even extending to the surrounding roads, suggesting a potential hazardous event in that area. Three sources briefed on the matter told NBC that US spy agencies were reviewing the event at least by mid-2020.
-
-#+CAPTION:Cellphone geolocation data of WIV and the surrounding area.
-#+NAME:Figure 6
-[[./images/fig6.png]]
-
-It should be noted here that the first conficrmed case dates back to the 17th of November, not long after this incident especially considering the incubation period of this disease, and that this 17th Nov case probably isn't the first which I will discuss below (see: [[Where is patient 0?]]).
-**** PLA coronavirus research
-A major study[fn:109] into the origins of the coronavirus, funded by the Australian and Chinese government[fn:110] relied on a laboratory in an institute in the People’s Liberation Army’s Academy of Military Medical Sciences for genetic sequencing and virus isolation.[fn:111]
-
-The director of the microbiology institute, Professor Wu-Chun Cao, who is thanked in the paper’s acknowledgments for his “substantial contribution,” has the rank of colonel and is a Wuhan Institute of Virology board member in a clear conflict of interest. Furthermore, one of the studies co-authors, Yi-Gang Tong began working in the same PLA-run institute in 2005.
-
-It is easy to see how such evidence provided by the PLA could be used to explain away the anomalous genetics, which I explore below (see: [[What is with the sequence?]]).
-**** Where is patient 0?
-The first official case of the CCPVirus was recorded on the 17th of November 2019 in Wuhan, China, but by only the 2nd of December there was a man in France with the condition. Now this is a virulent disease but it is very curious that it got all the way to france in such a short time. To compound this the man wasn't a world-traveller of any sorts but a fish-monger who had never set foot in China implying an even earlier French case.
-
-On top of this, three of the first four cases -- including the case on the 17th November -- had no documented link to the Wuhan wet market.[fn:112]
-**** Where is the natural reservoir?
-The bats that are said to be the natural reservoir of this virus are found about 1000 miles away from Wuhan in Yunnan province,[fn:115] but are studied in 2 labs in the city,[fn:113] and photos have emerged of researchers at both labs collecting samples from bats without wearing protective gear.[fn:114]
-
-To compound this theme of incompetence, Washington Post columnist, Josh Rogin, wrote that:
-#+begin_quote
-During interactions with scientists at the WIV laboratory, [US diplomats] noted the new lab has a serious shortage of appropriately trained technicians and investigators needed to safely operate this high-containment laboratory
-#+end_quote
-**** What is with the sequence?
-In 2015, the Wuhan Institute of Virology, along with researchers in the US and Switzerland, published a paper[fn:116] detailing how they made a chimeric SARS-like virus based on a coronavirus found in horseshoe bats, the proposed natural reservoir for SARS-CoV-2. This is what is known as gain-of-function research in virology, a task whereby virologists attempt to make the most infections virus they can to study how infection works.
-
-***** It looks like GD Pangolin-CoV
-Above I discussed the WIV's PLA connections focusing in on a paper ([[https://www.nature.com/articles/s41586-020-2169-0.pdf][Tommy Tsan-Yuk Lam et al, "Identifying SARS-CoV-2-related coronaviruses in Malayan pangolins"]]) that is oft-praised by chinese shills for its proof that this came from nature, but let's look at what that paper actually finds.
-
-#+CAPTION:Analysis of the RBD sequence of similar coronaviruses
-#+NAME:Figure 7
-[[./images/fig7.png]]
-
-Allow me to walk you through the image above, what is shown is the amino acids that make up the spike protein of SARS-CoV-2 and similar viruses, where the red boxes indicate those acids that code for the ACE2 binding that allows the CCPVirus to be so infectious. Should even a single one of these acids be different the binding would not work as it currently does.
-
-#+CAPTION:Figure 7 with homology redacted.
-#+NAME:Figure 8
-[[./images/fig8.png]]
-
-For clarity, in figure 8, I have removed unimportant sections of the chart where each virus is identical.
-
-#+CAPTION:Figure 8 with only SARS-CoV-2 and GD pangolin-CoV
-#+NAME:Figure 9
-[[./images/fig9.png]]
-
-And here in figure 9, I take this further by focusing in on only SARS-CoV-2 and GD pangolin-CoV. Now we can clearly see just how similar these 2 viruses are in their spike protein, being the only 2 that match where the ACE2 binding is coded for, and being entirely identical across the receptor binding domain (RBD) shown in row 3 and the start of row 4 above. And prior to the RBD they differ in only 4 places.
-
-So what's the big deal? It looks like it came from a pangolin, so what? Well, as the paper referenced above notes;
-#+begin_quote
-all of the pangolin coronaviruses identified to date lack the insertion of a polybasic (furin-like) S1/S2 cleavage site in the spike protein that distinguishes human SARS-CoV-2 from related betacoronaviruses (including RaTG13)10 and that may have helped to facilitate the emergence and rapid spread of SARS-CoV-2 through human populations.
-
-To our knowledge, pangolins are the only mammals in addition to bats that have been documented to be infected by a SARS-CoV-2-related coronavirus. It is notable that two related lineages of coronaviruses are found in pangolins that were independently sampled in different Chinese provinces and that both are also related to SARS-CoV-2. This suggests that these animals may be important hosts for these viruses, which is surprising as pangolins are solitary animals that have relatively small population sizes, reflecting their endangered status. Indeed, on the basis of the current data it cannot be excluded that pangolins acquired their SARS-CoV-2-related viruses independently from bats or another animal host. Therefore, their role in the emergence of human SARS-CoV-2 remains to be confirmed.
-#+end_quote
-
-So what is this saying? It is saying that in order for the pangolin similarities above to be explained by the disease spreading through a pangolin, first a bat carrying a mutated RaTG13 would have to come across an endangered pangolin, then this mutated RaTG13 would have to make the very unlikely inter-species jump to the pangolin where it must then somehow gain a polybasic furin-like cleavage site and then this pangolin has to find a human where there is a second, unlikely, inter-species jump.
-
-Or... maybe it was made in a lab, as has been done many times before.
-
-***** Insertion vs Mutation
-Now, in a moment we will take a closer look at that polybasic cleavage site, because it is very important, the reason why is that coronaviruses have a 2-step process to gain entry into a cell. First they must bind to a receptor, either ACE2 or CD147, then the S2 spike protein subunit must be "cleaved," if either does not take place the virus is severely limited in its ability to infect cells. But first allow me to discuss the difference between mutation and inseration.
-****** Mutation
-| CAA | ACU | AAU | UCA | CGU | AGU | GUU |
-|-----+-----+-----+-----+-----+-----+-----|
-| CAA | ACU | AAU | UCA | CGU | AGU | GUG |
-The table above shows a chain of nucleobases typical of a strand of RNA, those bases being adenine (A), guamine (G), cytosine (C), and uracil (U). In row 2 of this table  you may note that the U right at the end has swapped to a G. This happens in nature all the time, and is the result of an error in the copying of the chain, but these errors are often fixed. When they arent fixed we have successful mutation, this is the process that underlies evolution.
-
-The reason I display them as groups of 3 isn't just for clarity, each grouping of 3 nucleobases makes a codon, which is then read by a rhibosome so that it knows what to do, it either says to start, to stop, or to assemble some amino acid. This is conceptually similar to CPU instructions if you are at all familiar with that.
-
-It is important to understand that not every mutation will change what happens, there are multiple codons that code for the same thing in many cases, which is displayed in the table below.
-
-#+CAPTION:Table displaying codons and their meaning
-#+NAME:Figure 10
-[[./images/fig10.png]]
-
-To break this down, you have a matrix of each of the possible bases in the first position over lapping with the second position, and in each of those you go over each of the 4 possibilities for the third position. Now in this table youcan see that UUA, UUG, CUU, CUC, CUA, and CUG all coge for the same amino acid, leucine. So if you had CUU as your codon and it mutated into a CUA, it would make no difference, even if that CUA mutated further into a UUA, it would still have no effect. These are what are called silent, or synonymous, mutations.
-****** Insertion
-| CAA | ACU | AAU | UCA |     |     |     |     | CGU | AGU | GUG |
-|-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----|
-| CAA | ACU | AAU | UCA | CCU | CGG | CGG | GCA | CGU | AGU | GUG |
-Now in this table a different process has occurred, you can see that the above chain was seemingly cut and a smaller chain was spliced into the gap. This is what is known as insertion.
-
-Insertions are rare, but can occur in nature[fn:131] when gene replication slips up. And as Banavali writes:[fn:132]
-#+begin_quote
-Insertions can be anywhere in size from one base pair incorrectly inserted into a DNA sequence to a section of one chromosome inserted into another.
-#+end_quote
-
-But crucially they are randomly sized, and often cause huge problems.
-****** The weird cleavage site of SARS-CoV-2
-First off it is important to know about furin, this is one of a few different enzymes that can perform this cleavage, but what is special about furin is it cuts proteins in strictly defined plades, making it very easy for viroligists to study.
-
-These places it cuts are defined by an RxxR sequence (meaning an ...-Argenine-x-x-Argenine-..., where x is any amino acid). Moreover, if you have an RRxR or an RxRR, then the cleavage efficientcy is significantly increased.
-
-It is because of this that virologists took immediate note:
-#+begin_quote
-It was found that all Spike [proteins] with a SARS-CoV-2 Spike sequence homology greater than 40% did not have a furin cleavage site (Figure 1, Table 1), including Bat-CoV RaTG13 and SARS-CoV (with sequence identity as 97.4% and 78.6%, respectively). The furin cleavage site “RRAR” in SARS-CoV-2 is unique in its family, rendering by its unique insert of “PRRA”. The furin cleavage site of SARS-CoV-2 is unlikely to have evolved from MERS, HCoV-HKU1, and so on. From the currently available sequences in databases, it is difficult for us to find the source. Perhaps there are still many evolutionary intermediate sequences waiting to be discovered.
-#+end_quote
-
-So to translate, no virus that is closely related to the CCPVirus has the furin cleavage site that allows for such a high transmissibility.
-
-#+CAPTION:CoV family tree where viruses that contain a furin cleavage site are highlighted in pink
-#+NAME:Figure 14
-[[./images/fig14.png]]
-
-This point is made clearer in this diagram showing 3 different strains of the CCPVirus that have the cleavage site in a sea of their closest neighbors all without it. The closest relative /with/ a furin site is the HKU5 strain, isolated by the Shi Zhengli team in 2014 in Guangzhou from bats of the genus Pipistrellus (added to GenBank in 2018). But it is a very distant relative --- their spike proteins share only 36%.
-
-So the virologists are puzzled. Where did this 12 nucleotide insert come from? Could it be lab-made? Well, virologists have studied furin sites in coronaviruses for decades, and have introduced many artificial ones in a lab. For example, an American team had inserted RRSRR into the spike protein of the first SARS-CoV back in 2006:
-#+begin_quote
-To investigate whether proteolytic cleavage at the basic amino acid residues, were it to occur, might facilitate cell–cell fusion activity, we mutated the wild-type SARS-CoV glycoprotein to construct a prototypic furin recognition site (RRSRR) at either position.
-#+end_quote
-/more examples [[https://yurideigin.medium.com/lab-made-cov2-genealogy-through-the-lens-of-gain-of-function-research-f96dd7413748][here]]/
-
-#+CAPTION:The insertion is only PRRA
-#+NAME:Figure 15
-[[./images/fig15.png]]
-
-So thats all well and good, it has a furin cleavage site, maybe it picked it up from somewhere, I did say that random insertion can occur in nature after all. This is true, but I draw your attention to figure 15 above, showing the actual insertion and it is only PRRA. That RRA then continues on to form an RRAR that is needed for the furin cleavage site (RRxR=RRAR). But then what purpose does the P serve, if this was man-made it should server a purpose, right? This is true, and the P quite possibly does serve a purpose, it is believed that this leading proline results in the addition of O-linked glycans that create a muncin-like domain that helps to sheild key residues of the spike protein,[fn:134] as has been observed in other viruses.
-
-So this insertion seems to be just the perfect thing to add, with no draw-backs. If this was a freak natural occurence you would expect a whole mess of crap to come over not just the exact snippet that is required for increased infectivity.
-
-***** Is RaTG13 even real???
-So above I have been displaying evidence that the virus is synthetic assuming that RaTG13 is some natural base that was used to create it because they are so similar. But let's look closer at RaTG13 and see if that is even real, because if it's not then the case that this thing is natural is completely destroyed as that is basically the sole piece of evidence the natural crowd have.
-
-For my research on this topic I am indebted to [[https://nerdhaspower.weebly.com/ratg13-is-fake.html][an article]] by Nerd Has Power on weebly.
-
-****** Who dares to carry out such a deceitful action?
-The sequence of RaTG13 was reported by Zhengli Shi, a researcher from our old friends the Wuhan Institute of Virology. Dr. Shi is the top coronavirus expert in China. She has gained the nickname of “batwoman” because she and her team have a long history of capturing wild bats in caves all over for the purpose of detecting and sometimes isolating coronaviruses within them. But of course it isn't worth thinking of the possibility that they would bring some of these bats back to Wuhan with them, to do so would be to engage in a conspiracy theory. We must perish the thought that governments who engage in routine ethnic cleansing would do something so dangerous and lie about it.
-
-As publicly stated, the goal of her research is to identify animal coronaviruses that have the potential of crossing-over to infect humans and thereby help the public avoid SARS-like disasters in the future.
-
-Ironically, contrary to this self-portrait, since the very beginning of the current pandemic, Zhengli Shi has been singled out as THE suspect, who may have created the Wuhan coronavirus and, in doing so, caused a world-wide disaster. Interestingly, on Jan 23rd, 2020, just before this “rumor” started to soar though the roof, Shi published a paper in Nature,[fn:126] where she compared the freshly obtained sequence of the Wuhan coronavirus with those of other coronaviruses and thus delineated an evolutionary path of this new virus. In this publication, all of a sudden and out of nowhere, Shi reported this bat coronavirus, RaTG13, which pampered the public and seemingly helped shape a consensus in the field that the Wuhan coronavirus is of a natural origin. But why on earth was Shi sitting on this virus for 7 years before releasing?
-
-As stated in the paper, RaTG13 was discovered from Yunnan province, China, in 2013. It is said that her lab collected some bat feces in 2013 and analyzed these samples for possible presence of coronaviruses based on genetic evidence. To put it into plainer words, she has no physical proof for the existence of this RaTG13 virus. She only has its sequence information, which is nothing but a string of letters similar to my tables above. Had I posted them with the correct credentials I could claim that I, too, have proof of a new virus.
-
-****** Can the sequence of such a virus be fabricated?
-It cannot be any easier. It takes a person less than a day to TYPE such a sequence (less than 30,000 letters) in a txt file. And it would be a thousand times easier if you already have a template that is about 96% identical to the one you are trying to create. Once the typing is finished, one can upload the sequence onto public databases. Contrary to general conception, such databases do not really have a way to validate the authenticity or correctness of the uploaded sequence. It relies completely upon the scientists themselves --- upon their honesty and consciences. Once uploaded and released, such sequence data becomes public and can be used legitimately in scientific analysis and publications.
-
-Now, does this RaTG13 sequence qualify as credible evidence in judging the matter? Well, remember, a central part of the matter is whether or not this Wuhan coronavirus was engineered or created by ZHENGLI SHI. It is Shi, not anybody else, who is the biggest suspect of this possible crime. Given the circumstances, wouldn’t she have a strong enough motive to be deceitful? If the evidence she raised to prove herself innocent was nothing but a bunch of letters recently typed in a word file, should anyone treat it as valid evidence?
-
-****** RaTG13, if truly exists, should never be neglected by Shi for a period of seven years
-Let’s now think about this from another direction. The sequence of RaTG13 is highly alarming – it clearly shows a potential of the virus to infect humans.
-
-Within the spike protein of a β coronavirus, there is a critical piece named receptor-binding domain (RBD), which dictates whether or not this virus can use the ACE2 receptor on the surface of our cells and thereby infect humans. I discussed this prevously when discussing similarities between the CCPVirus and GD Pangolin-CoV.
-
-As a routine, when Shi’s team finishes collecting samples and confirms the presence of a coronavirus, the first thing they would do is to look at the sequence of the virus’ RBD. If there is resemblance between this sequence and that of the SARS virus (rarely so), their blood would boil because they have found something that may jump over to humans. It also means that top-journal publications are coming their way, so big bucks for Shi.
-
-In 2013, Shi made her fame in the coronavirus field by publishing in Nature two bat coronaviruses (Rs3367 and RsSHC014), which share considerable sequence similarity with SARS in the RBD region.[fn:127] This work, for the first time, proved a bat origin of SARS. In the following years, her team continued to publish articles, featuring additional bat coronaviruses that share these important sequence motifs.[fn:128][fn:129]
-
-So let's look at Rs3367 and RsSHC014 and compare them to RaTG13. It would stand to reason that RaTG13 would be less like SARS-1 in the RBD, or else she would have published that as the smoking gun.
-
-#+CAPTION:Sequence alignment comparing the RBDs of SARS (top) and RaTG13 (red arrow) to RBDs of bat coronaviruses that Zhengli Shi published in high-profile journals from 2013-2017. Amino acid residues highlighted by Shi as critical for binding human ACE2 receptor are labeled in red text on top. Alignment was done using the MultAlin webserver (http://multalin.toulouse.inra.fr/multalin/).
-#+NAME:Figure 11
-[[./images/fig11.png]]
-
-Figure 11 above is similar to the table I used to show the similarities with GD Pangolin-CoV earlier, where the acids that are important for binding to ACE2 are pointed out in red along the top.
-
-By appearance, RaTG13 clearly belongs to the “good-looking” group. It rivals with the best ones in its completeness of the RBD sequence as well as in the conservation of critical amino acids. While a single amino acid insertion is observed (the G shortly before 472), it occurs in a variable region and can be easily tolerated without affecting the protein function.
-
-Importantly, RaTG13 preserves the binding motifs as much as, if not better than, any other bat coronavirus in Shi’s list. At position 442, RaTG13 has a “L”, which beats most, if not all, bat viruses in resembling the “Y” in SARS RBD as “L” and “Y” both mediate hydrophobic interactions.
-
-At position 472, RaTG13 is the only bat coronavirus that has the residue “L”, which is identical to SARS. Although the amino acids at the other three positions are not identical to their counterparts in SARS, they are all conservative mutations, which may not negatively impact the protein’s function.
-
-In fact, a very recent publication confirmed that the RBD from RaTG13, like SARS RBD, can indeed bind the human ACE2 receptor.[fn:130] Note: the RaTG13 RBD gene used in this work was synthesized. If only Shi was willing to provide the virus samples that she definitely has, it would save them the trouble of making it from scratch.
-
-As expert as Shi is, she only needed to take one peek at the sequence of RaTG13’s RBD and immediately realize: this virus closely resembles SARS in its RBD and has a clear potential of infecting humans. If Shi’s public statement is true and she indeed intends to discover bat coronaviruses with a potential to cross-over to humans, how could she possibly overlook this extremely interesting finding of RaTG13? If this RaTG13 was discovered SEVEN years prior in 2013, why did Shi not publish this astonishing finding earlier? Why did she let the “less-attractive” viruses take the stage? Why did she decide to publish such a sequence only when the current outbreak took place and people started questioning the origin of the Wuhan coronavirus?
-
-None of this makes sense. These facts only add to the suspicion – Zhengli Shi either was directly involved in the creation of this virus, or helped cover it up, or both.
-
-****** A closer look at the gene sequence of RaTG13’s spike reveals clear evidence of human manipulation
-So remember above the discussion on synonymous or silent mutation, because it is relevant in analysing RaTG13's sequence.
-
-#+CAPTION:Comparing the nucleotide sequences of different spike proteins on the synonymous mutations (green curve) and non-synonymous mutations (red curve) reveals evidence of human manipulation. A. comparison between two related bat coronaviruses ZC45 (MG772933) and ZXC21 (MG772934), which are nature-borne. B. comparison between the Wuhan coronavirus (NC_045512) and RaTG13 (MN996532) shows a pattern inconsistent with natural evolution. Sequence alignment was done using EMBOSS Needle. Synonymous Non-synonymous Analysis was performed using SNAP at www.hiv.lanl.gov (Korber B. HIV Signature and Sequence Variation Analysis. Computational Analysis of HIV Molecular Sequences. 2000;Chapter 4:55-72.).
-#+NAME:Figure 12
-[[./images/fig12.png]]
-
-In Figure 12A above, the synonymous vs non-synonymous mutations are tallied up as one travels along the codons of the spike protein of ZC45 and ZXC21, 2 closely related bat coronaviruses.
-
-As expected, there are more synonymous mutations than non-synonymous mutations. Importantly, a correlation between the two curves is clearly present: they climb up and go through plateaus in a roughly synchronized manner. Throughout the whole length of the gene, at any point, the ratio between the accumulated synonymous and non-synonymous mutations is maintained at around 5:1, which is exactly what one would expect with there being 5 times more possible synonymous mutations than there are non-synonymous.
-
-In 12B on the other hand, the non-synonymous line does some crazy things. One thing that is immediately apparant is that, in the second half of the sequence, while the green curve continues to grow steadily, the red curve stays flat. For a region as wide as over 700 amino acids (corresponding to 2100 nucleotides), which is statistically substantial, the synchronization between the two curves is non-existent. Surprisingly, or maybe not so surprisingly, at the end, the final counts of synonymous and non-synonymous mutations yield a ratio of just over five, consistent with what’s expected out of natural evolution.
-
-Let’s bring out some numbers to help us better comprehend the difference here. Let’s focus on the S2 protein, the second half of the spike ranging from 684 to 1273 (numbering according to the Wuhan coronavirus). Detailed analysis of this region reveals that, between ZC45 and ZXC21, a total of 32 nucleotides have changed and 5 of them lead to amino acid mutations (27 synonymous mutations vs. 5 non-synonymous mutations). It is, again, consistent with the scenario of natural evolution: every six nucleotide changes result in the change of one amino acid; as the synonymous/non-synonymous ratio is about 5:1. In contrast, for the same S2 region, between the Wuhan coronavirus and RaTG13, there are a total of 90 nucleotide changes and only two amino acid mutations. Here, every 45 nucleotide changes correspond to one amino acid change. The synonymous/non-synonymous ratio is 44:1.
-
-It is noteworthy that ZC45 and ZXC21 share ~97% sequence identity, just like that between the Wuhan coronavirus and RaTG13. So, the above comparison is very proper and reliable.
-
-How could Zhengli Shi fail so badly in fabricating the RaTG13 sequence? While, when I said it was easy to type out a fake sequence that is 96% identical to a template, I did not say that it is easy to maintain a reasonable synonymous/non-synonymous ratio throughout the whole genome. Unfortunately for Shi, when she had to come up a good sequence for S1 and the RBD within it (she knows that this part will be scrutinized the most), she had somehow exhausted the number of non-synonymous mutations she could use here. To maintain a reasonable synonymous/non-synonymous ratio for the whole Spike-encoding gene (we can actually give her some credit here as she did remember to get it close to 5:1), she had to strictly limit the number of non-synonymous mutations in the S2 half of spike, which ended up flattening the red curve (kek). It is hard to be a cheater after all.
-
-***** The E protein
-So we have had a deep-dive into the spike protein of various viruses because it is super important in that it is what allows it to infect humans. But there is another protein called the E protein, found in β-coronaviruses, that is just a structural protein, this means that many mutations can accumulate in the E protein without really causing any issues in terms of reproduction of the virus. This means that you can look at the E protein to determine how distant 2 viruses are, as you can measure this accumulation of mutations in these structural proteins.
-
-#+CAPTION:Alignment of E proteins of bat and human coronaviruses shatters the notion that the Wuhan coronavirus came from nature. While the early copies of Wuhan coronavirus share 100% identity of the E protein with ZC45, ZXC21, and RaTG13, sequence data of most recent Wuhan coronaviruses indicates that mutation has been observed in four different locations. Accession numbers of viruses (not including the ones listed in Figure 3): Feb_11: MN997409, April_9: MT300186, Apr_13: MT326139, Apr_15_A: MT263389, Apr_15_B: MT293206, Apr_17: MT350246.
-#+NAME:Figure 13
-[[./images/fig13.png]]
-
-So in the above table you can see that the E proteins of ZC45, and ZXC21 are identical, which supports the idea that they are closely related. But what is striking is that RaTG13 and the CCPVirus are also identical to these 2, despite them having very low homology elsewhere which would imply them to be distaltly related. Whats more is that after only a few months in the wild the CCPVirus is already starting to accumulate non-synonymous mutations in this protein, so it's very odd that RaTG13, a supposedly 7 year old virus, looks anything like those 2 if it evolved everywhere else enough to become the CCPVirus.
-
-**** Ghedin's counter
-Dr. Elodie Ghedin has the counterpoint laid out in her interview with 60 minutes.[fn:121] In it she makes 3 claims which I will address 1 by 1.
-
-***** Claim 1
-#+begin_quote
-Human engineered viruses have common and obvious genetic components
-#+end_quote
-This is to say that fiddling with a viruses genome leaves some identifiable fingerprint on the nucleotide chain.
-
-But this simply isn't the case as demonstrated by a 2002 study[fn:122] where researchers were able to assemble a full-length, infectious clone of a mouse coronavirus that was 31.5 kb, so larger than the current coronavirus. What is important is that this cloning resulted in no nucleotide changes --- that is, that since 2002 we have had a method for constructing a virus with no fingerprint.
-
-The authors proudly note that:
-#+begin_quote
-No evidence of theEsp3I site that has been engineered into the component clones should remain in the assembled product (No See’m technology).
-#+end_quote
-
-***** Claim 2
-#+begin_quote
-If the virus had been engineered, it would have used the backbones that we know --- and there's none of that
-#+end_quote
-I am not sure what exactly Ghedin is saying here, because as I showed above with the pangolin virus this thing looks very much like a chimera, there is much confusion over how this thing naturally evolved from those who are incabable of pointing the finger at China.
-
-It seems entirely plausible to me, backed up by the sequence, that this was some sort of a RaTG13 backbone with a pangolin RBD with a polybasic furin-like cleavage site inserted from somewhere else. Following this you can evolve t he virus with serial passages in vitro, and then in vivo which would make the most infectious viruses come out on top. This is gain-of-funciton 101. What makes Ghedin's assertion here extra amusing is her assertion in [[Claim 3]] that we see each part of this virus in nature. So it does have backbones that we know of!
-
-***** Claim 3
-#+begin_quote
-We can find every piece of that virus. We can find these pieces in other very similar viruses that circulate in the wild... it's very clearly not an engineered virus
-#+end_quote
-As opposed to all those chimeras that were made using no natural parts.
-**** Andersen's counter
-Kristian G. Andersen's Nature article, [[https://www.nature.com/articles/s41591-020-0820-9]["The proximal origin of SAARS-CoV-2"]] is the very root of most "proofs" of the viruses natural origin. The hope being that upon baring witness to a fancy paper in a fancy journal that the sceptic will be freightened into submission. Here I will demonstrate the critical failure's in the reasoning used to conclude a natural origin.
-
-The paper correctly points out 2 noteworthy features of sars 2:
-1. The opmimised binding to ACE2
-2. The functional polybasic (furin) cleavage site on the spike protein at the S1/S2 boundry.
-
-***** Optimised binding to ACE2
-In this section Andersen and crew say that:
-#+begin_quote
-Six RBD amino acids have been shown to be critical for binding to ACE2 receptors and for determining the host range of SARS-CoV-like viruses.
-#+end_quote
-Then they go on to say that
-#+begin_quote
-While the analyses above suggest that SARS-CoV-2 may bind human ACE2 with high affinity, computational analyses predict that the interaction is not ideal and that the RBD sequence is different from those shown in SARS-CoV to be optimal for receptor binding. Thus, the high-affinity binding of the SARS-CoV-2 spike protein to human ACE2 is most likely the result of natural selection on a human or human-like ACE2 that permits another optimal binding solution to arise. This is strong evidence that SARS-CoV-2 is not the product of purposeful manipulation.
-#+end_quote
-Ok so, these virologists love to hide their bullshit in fancy language so let me break down what is being said here.
-
-He is saying that there was a previous paper[fn:133] that predicted an optimum binding for a coronavirus to have with ACE2, and the CCPVirus uses, in his words, "another optimal binding solution," so it's still optimal, but not what he already knew about. So the argument is essentially that because the prior paper didnt predict this, equally good, binding that it must have arisen naturally. Because those scientists are known for giving up after finding a single solution.
-
-Don't believe me? It is spelled out in plainer terms whilst theorising as to it's natural origin:
-#+begin_quote
-As noted above, the RBD of SARS-CoV-2 is optimized for binding to human ACE2 with an efficient solution different from those previously predicted
-#+end_quote
-
-It is genuinely baffling to me that such a widely cited paper gets away with such terrible deductive reasoning because they use fancy words.
-
-***** /ourguy/ the cleavage site
-#+CAPTION:Pictured: Cleavage
-#+NAME:Figure 16
-[[./images/fig16.png]]
-
-So, recall everything I said previously about how important the furin-like cleavage site is, and then contrast it with this introductory statement to Andersen's discussion of its implications:
-#+begin_quote
-The functional consequence of the polybasic cleavage site in SARS-CoV-2 is unknown, and it will be important to determine its impact on transmissibility and pathogenesis in animal models.
-#+end_quote
-I'm sorry, fucking what!? This group of virologists know nothing about what the consequence of a polybasic cleavage site is? What I think they are saying here is that they haven't tested the effects of this site on the CCPVirus specifically, so they are technically correct. But if they were honest they would point out how it would be expected to massively increase the infectivity.
-
-It is noted by these authors that similar sites in chickens have an increase in the ability to infect:
-#+begin_quote
-Acquisition of polybasic cleavage sites in HA [the chicken version of the spike protein], by insertion or recombination, converts low-pathogenicity avian influenza viruses into highly pathogenic forms
-#+end_quote
-So to translate: polybasic cleavage sites inserted into chicken coronaviruses converts them from being not very infective to being highly infective.
-
-**** So assuming it's natural...
-Ok, so let's see which story is more likely based on the evidence we have.
-***** It's natural
-This means that a horseshoe bat, with a population of about 13000, passes some RaTG13-like virus to one of a few thousand pangolins in the world, and this pangolin happens to already be infected with Pangolin/1. Then a critical translation error swaps the RBD of the bat virus with that of Pangolin/1, this new virus then picks up a PRRA (furin-like) cleavage site from some 3rd virus in a similar manner, and then this pangolin takes a road trip to Wuhan where it infects a human. So we have 2 cross-species transfers of a virus made from 3 parents.
-***** It's lab-made
-Or... someone was monkeying about with technologies we already have, in a military lab, trying to make an infectious disease, as is routinely done and then some accident happened around the 6th - 11th of October. I know, it sounds silly just suggesting that such a thing could have occurred in a lab with a track record of incompetence.
-
+In this section I will describe how even if we ignore this evidence this pandemic was allowed to progress because of state interference.
 *** CCP coverup
-Now lets ignore the overwhelming evidence that the virus was lab-made and instead just consider the CCP's response to the outbreak.
-
 The Chinese government willfully covered up the severity of the outbreak, threatening doctors who warned their colleagues about the contagion,[fn:117] lying about human-human transmission through their WHO mouthpieces,[fn:118] and refusing to provide virus samples to researchers.[fn:119][fn:120]
+
+This was all during the largest migration of the year, that being the Chinese New Year, making these measures appear to be deliberate attempts to infect other countries.
 ** TB
 According to the CDC,[fn:123] Tuberculosis infection is treatable, and if caught early, doctors can prevent progress to tuberculosis disease, but even if the illness has progressed to this point it can still be treated with greater effort.
 *** How to cure TB
@@ -540,404 +262,228 @@ Subsidies create more of whatever is being subsidized --- this is why there are 
 
 * Footnotes
 
-[fn:134]
-[[https://www.nature.com/articles/s41591-020-0820-9.pdf][Kristian G. Andersen, et al. "The proximal origin of SARS-CoV-2"]]
+[fn:125]https://www.cdc.gov/tb/topic/treatment/tbdisease.htm
 
-[fn:133]
-[[https://doi.org/10.1128/JVI.00127-20][Wan Y, Shang J, Graham R, Baric RS, LiF. 2020. Receptor recognition by the novelcoronavirus from Wuhan: an analysis based ondecade-long structural studies of SARScoronavirus. J Virol 94:e00127-20.]]
+[fn:124]https://www.cdc.gov/tb/topic/treatment/ltbi.htm
 
-[fn:132]
-Banavali, Nilesh K. (2013). "Partial Base Flipping is Sufficient for Strand Slippage near DNA Duplex Termini". Journal of the American Chemical Society. 135
+[fn:123]https://www.cdc.gov/tb/topic/treatment/default.htm
 
-[fn:131]
-Matthieu Boulesteix, et al. "Differences in Genome Size Between Closely Related Species: The /Drosophila melanogaster/ Species Subgroup"
+[fn:120]https://nypost.com/2020/05/15/china-admits-to-destroying-coronavirus-samples-for-safety/
 
-[fn:130]
-Shang J, Ye G, Shi K, Wan Y, Luo C, Aihara H, et al. Structural basis of receptor recognition by SARS-CoV-2. Nature. 2020.
+[fn:119]https://www.newsweek.com/china-refuses-send-covid-vaccine-samples-canada-during-diplomatic-row-1528215
 
-[fn:129]
-Hu B, Zeng LP, Yang XL, Ge XY, Zhang W, Li B, et al. Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus. PLoS Pathog. 2017;13(11):e1006698.
+[fn:118]https://www.foxnews.com/world/world-health-organization-january-tweet-china-human-transmission-coronavirus
 
-[fn:128]
-Zeng LP, Gao YT, Ge XY, Zhang Q, Peng C, Yang XL, et al. Bat Severe Acute Respiratory Syndrome-Like Coronavirus WIV1 Encodes an Extra Accessory Protein, ORFX, Involved in Modulation of the Host Immune Response. J Virol. 2016;90(14):6573-82.
+[fn:117]https://spectator.org/ccp-who-covid-19-republican-report/
 
-[fn:127]
-Ge XY, Li JL, Yang XL, Chmura AA, Zhu G, Epstein JH, et al. Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor. Nature. 2013;503(7477):535-8.
+[fn:106]https://www.medicare.org/articles/how-does-medicare-determine-reimbursement-rates/
 
-[fn:126]
-Zhou P, Yang XL, Wang XG, Hu B, Zhang L, Zhang W, et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. 2020.
+[fn:105][[https://mises.org/library/against-intellectual-property-0][Stephan Kinsella, "Against Intellectual Property"]]
 
-[fn:125]
-https://www.cdc.gov/tb/topic/treatment/tbdisease.htm
+[fn:104]https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/labor-unions-healthcare
 
-[fn:124]
-https://www.cdc.gov/tb/topic/treatment/ltbi.htm
+[fn:103]https://www.nj.gov/health/bc/state-health-planning-board/
 
-[fn:123]
-https://www.cdc.gov/tb/topic/treatment/default.htm
+[fn:102]https://www.criminaldefenselawyer.com/resources/practicing-medicine-without-a-license.htm
 
-[fn:122]
-Yount, Boyd & Denison, Mark & Weiss, Susan & Baric, Ralph. (2002). Systematic Assembly of a Full-Length Infectious cDNA of Mouse Hepatitis Virus Strain A59. Journal of virology. 76. 11065-78. 10.1128/JVI.76.21.11065-11078.2002.
+[fn:101]https://axenehp.com/look-selling-health-insurance-across-state-lines/
 
-[fn:121]
-https://twitter.com/60Minutes/status/1259622553682878464
+[fn:1]https://www.hcpc-uk.org/about-us/who-we-work-with/other-regulators/health-regulation-worldwide/
 
-[fn:120]
-https://nypost.com/2020/05/15/china-admits-to-destroying-coronavirus-samples-for-safety/
+[fn:2]https://data.oecd.org/healthres/health-spending.htm
 
-[fn:119]
-https://www.newsweek.com/china-refuses-send-covid-vaccine-samples-canada-during-diplomatic-row-1528215
+[fn:3][[https://commons.wikimedia.org/wiki/File:OECD_health_expenditure_per_capita_by_country.svg][OECD health expenditure per capita by country]]
 
-[fn:118]
-https://www.foxnews.com/world/world-health-organization-january-tweet-china-human-transmission-coronavirus
+[fn:4][[https://www.cityam.com/nhs-s-monopoly-weakening-uk-healthcare-has-bright-future/][Graeme Leach, "The NHS’s monopoly is weakening – UK healthcare has a bright future"]]
 
-[fn:117]
-https://spectator.org/ccp-who-covid-19-republican-report/
+[fn:5]Ibid[fn:2][fn:3]
 
-[fn:116]
-Ibid[fn:115]
+[fn:6][[https://mises.org/wire/how-government-regulations-made-healthcare-so-expensive][Mike Holly, "How Government Regulations Made Healthcare So Expensive"]], fig. 1
 
-[fn:115]
-https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html
+[fn:7]Folliard, Edward T. (July 31, 1965). [[http://search.proquest.com/docview/142611149/]["Medicare Bill Signed By Johnson: 33 Congressmen Attend Ceremony In Truman Library"]]. The Washington Post. p. A1.
 
-[fn:114]
-Ibid[fn:110]
+[fn:8]Social Security Amendments of 1965, enacting Title XIX of the Social Security Act of 1935
 
-[fn:113]
-Ibid[fn:110]
+[fn:9][[https://cdn.mises.org/3_1_5_0.pdf][Ronald Hamowy, "The Early Development of Medical Licensing  Laws in the United States, 1875-1900*", /Department of History, University of Alberta/]]
 
-[fn:112]
-[[https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(20)30183-5.pdf][Chaolin Huang et al, "Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China"]]
+[fn:10]Friedman, Milton. 1992. "Input and Output in Medical Care." Hoover Press.
 
-[fn:111]
-Ibid[fn:110]
+[fn:11]Alford, Robert. 1975. "Health Care Politics: Ideological and Interest Group Barriers to Reform." University of Chicago Press. xiv+294.
 
-[fn:110]
-Sharri Markson, Ashleigh Gleeson, "The Covid Files: How the Red Army oversaw coronavirus research"
+[fn:12][[https://pubmed.ncbi.nlm.nih.gov/32125357/][Oliver J. Wouters, "Lobbying Expenditures and Campaign Contributions by the Pharmaceutical and Health Product Industry in the United States, 1999-2018" JAMA Intern Med. 2020 May 1;180(5):688-697. doi: 10.1001/jamainternmed.2020.0146. PMID: 32125357; PMCID: PMC7054854.]]
 
-[fn:109]
-[[https://www.nature.com/articles/s41586-020-2169-0.pdf][Tommy Tsan-Yuk Lam et al, "Identifying SARS-CoV-2-related coronaviruses in Malayan pangolins"]]
+[fn:13][[https://pnhp.org/a-brief-history-universal-health-care-efforts-in-the-us/][Karen S. Palmer, "A Brief History: Universal Health Care Efforts in the US"]]
 
-[fn:108]
-https://www.documentcloud.org/documents/6884792-MACE-E-PAI-COVID-19-ANALYSIS-Redacted.html
+[fn:14]Ibid[fn:13]
 
-[fn:107]
-https://www.nbcnews.com/politics/national-security/report-says-cellphone-data-suggests-october-shutdown-wuhan-lab-experts-n1202716
+[fn:15]"How the Price System Works." Section 2 HHS.gov. U.S. Department of Health & Human Services. 2013.
 
-[fn:106]
-https://www.medicare.org/articles/how-does-medicare-determine-reimbursement-rates/
+[fn:16]Ibid[fn:6]
 
-[fn:105]
-[[https://mises.org/library/against-intellectual-property-0][Stephan Kinsella, "Against Intellectual Property"]]
+[fn:17]Stagg-Elliot, Victoria.  April 30, 2012.  Prices for doctor services lag behind inflation. Economists cite downward pressure on pay rates from Medicare and commercial payers. /American Medical News/.
 
-[fn:104]
-https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/labor-unions-healthcare
+[fn:18]Richman, Sheldon. 2013. "The Concise Encyclopedia of Economics." Robert Wood Johnson Foundation. December 27, 1979. /The Wall Street Journal/.
 
-[fn:103]
-https://www.nj.gov/health/bc/state-health-planning-board/
+[fn:19][[http://www.channelingreality.com/Competitiveness/Ira_Magaziner/History_and_Principles_Enthoven_157_VC2.pdf][A. Enthoven, "The history and principles of managed competition." (1993) p. 6]]
 
-[fn:102]
-https://www.criminaldefenselawyer.com/resources/practicing-medicine-without-a-license.htm
+[fn:20][[https://www.verywellhealth.com/what-are-standardized-health-insurance-plans-4083066][Louise Norris, "An Overview of Standardized Health Insurance Plans"]]
 
-[fn:101]
-https://axenehp.com/look-selling-health-insurance-across-state-lines/
+[fn:21][[https://cdn.americanprogress.org/content/uploads/2019/04/03105330/Admin-Costs-brief.pdf][Emily Gee; Topher Spiro, "Excess Administrative Costs Burden the U.S. Health Care System"]]
 
-[fn:1]
-https://www.hcpc-uk.org/about-us/who-we-work-with/other-regulators/health-regulation-worldwide/
+[fn:22][[https://www.healthcarefinancenews.com/news/study-sheds-light-executive-pay-healthcare-industry][Max Sullivan, "Compensation for CEOs ranged from $274,300 to $1.4 million, depending on the size of the hospital."]]
 
-[fn:2]
-https://data.oecd.org/healthres/health-spending.htm
+[fn:23][[https://www.breitbart.com/europe/2020/04/25/facebook-mob-names-and-shames-mother-for-not-clapping-for-nhs/][Kurt Zindulka, "Online Mob ‘Names and Shames’ British Mother for Not Clapping for NHS"]]
 
-[fn:3]
-[[https://commons.wikimedia.org/wiki/File:OECD_health_expenditure_per_capita_by_country.svg][OECD health expenditure per capita by country]]
+[fn:24]https://www.theguardian.com/commentisfree/2019/oct/25/boris-johnson-conservatives-nhs-funding
 
-[fn:4]
-[[https://www.cityam.com/nhs-s-monopoly-weakening-uk-healthcare-has-bright-future/][Graeme Leach, "The NHS’s monopoly is weakening – UK healthcare has a bright future"]]
+[fn:25][[https://mises.org/wire/its-time-give-britains-national-health-service][Antony Sammeroff, "It's Time to Give Up on Britain's National Health Service"]]
 
-[fn:5]
-Ibid[fn:2][fn:3]
+[fn:26]Bartholomew, J.  (2004, 2013) “The Welfare State We’re In”
 
-[fn:6]
-[[https://mises.org/wire/how-government-regulations-made-healthcare-so-expensive][Mike Holly, "How Government Regulations Made Healthcare So Expensive"]], fig. 1
+[fn:27]Ibid[fn:26]
 
-[fn:7]
-Folliard, Edward T. (July 31, 1965). [[http://search.proquest.com/docview/142611149/]["Medicare Bill Signed By Johnson: 33 Congressmen Attend Ceremony In Truman Library"]]. The Washington Post. p. A1.
+[fn:28][[https://www.pop.org/cancer-survival-rates-far-worse-in-great-britain-than-u-s/][Population Research Institute, "Cancer Survival Rates Far Worse in Great Britain than U.S."]]
 
-[fn:8]
-Social Security Amendments of 1965, enacting Title XIX of the Social Security Act of 1935
+[fn:29][[https://www.bbc.co.uk/news/health-42572116][Nick Triggle, "Patients 'dying in hospital corridors'"]]
 
-[fn:9]
-[[https://cdn.mises.org/3_1_5_0.pdf][Ronald Hamowy, "The Early Development of Medical Licensing  Laws in the United States, 1875-1900*", /Department of History, University of Alberta/]]
+[fn:30]Ibid[fn:28]
 
-[fn:10]
-Friedman, Milton. 1992. "Input and Output in Medical Care." Hoover Press.
+[fn:31]Ibid[fn:29]
 
-[fn:11]
-Alford, Robert. 1975. "Health Care Politics: Ideological and Interest Group Barriers to Reform." University of Chicago Press. xiv+294.
+[fn:32]https://fullfact.org/health/four-million-hospital-waiting-lists/
 
-[fn:12]
-[[https://pubmed.ncbi.nlm.nih.gov/32125357/][Oliver J. Wouters, "Lobbying Expenditures and Campaign Contributions by the Pharmaceutical and Health Product Industry in the United States, 1999-2018" JAMA Intern Med. 2020 May 1;180(5):688-697. doi: 10.1001/jamainternmed.2020.0146. PMID: 32125357; PMCID: PMC7054854.]]
+[fn:33][[https://www.dailymail.co.uk/news/article-3158591/Hospital-waiting-lists-seven-year-high-3-4m-need-treatment-6-000-forced-wait-year-operations.html][Sophie Borland, "Hospital waiting lists at seven-year high as 3.4m need treatment: More than 6,000 forced to wait at least a year for operations"]]
 
-[fn:13]
-[[https://pnhp.org/a-brief-history-universal-health-care-efforts-in-the-us/][Karen S. Palmer, "A Brief History: Universal Health Care Efforts in the US"]]
+[fn:34][[https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/latest][Office for National Statistics, "Population Estimates for UK, England and Wales, Scotland and Northern Ireland: mid-2019"]]
 
-[fn:14]
-Ibid[fn:13]
+[fn:35][[https://mises.org/wire/patients-are-dying-corridors-britains-socialised-health-system][George Pickering, "Patients Are “Dying in Corridors” of Britain’s Socialised Health System"]]
 
-[fn:15]
-"How the Price System Works." Section 2 HHS.gov. U.S. Department of Health & Human Services. 2013.
+[fn:36]Ibid[fn:34]
 
-[fn:16]
-Ibid[fn:6]
+[fn:37]Ibid[fn:35]
 
-[fn:17]
-Stagg-Elliot, Victoria.  April 30, 2012.  Prices for doctor services lag behind inflation. Economists cite downward pressure on pay rates from Medicare and commercial payers. /American Medical News/.
+[fn:38]DiLorenzo, T. J. (2016) "The Problem With Socialism" Chapter 9. pp. 96-97
 
-[fn:18]
-Richman, Sheldon. 2013. "The Concise Encyclopedia of Economics." Robert Wood Johnson Foundation. December 27, 1979. /The Wall Street Journal/.
+[fn:39][[https://www.theguardian.com/society/2017/jan/13/193000-nhs-patients-a-month-waiting-beyond-target-for-surgery][Denis Campbell, "193,000 NHS patients a month waiting beyond target time for surgery"]]
 
-[fn:19]
-[[http://www.channelingreality.com/Competitiveness/Ira_Magaziner/History_and_Principles_Enthoven_157_VC2.pdf][A. Enthoven, "The history and principles of managed competition." (1993) p. 6]]
+[fn:40][[https://www.dailymail.co.uk/news/article-2533698/Britain-just-2-71-doctors-1000-people-fewer-Latvia-Estonia-Lithuania.html][Lizzie Parry, "Britain has just 2.71 doctors per 1,000 people... which is fewer than Latvia, Estonia and Lithuania"]]
 
-[fn:20]
-[[https://www.verywellhealth.com/what-are-standardized-health-insurance-plans-4083066][Louise Norris, "An Overview of Standardized Health Insurance Plans"]]
+[fn:41][[https://www.hsj.co.uk/comment/dont-see-older-people-as-a-burden-on-the-nhs/5068503.article][David Oliver, "Don't see older people as a 'burden' on the NHS"]]
 
-[fn:21]
-[[https://cdn.americanprogress.org/content/uploads/2019/04/03105330/Admin-Costs-brief.pdf][Emily Gee; Topher Spiro, "Excess Administrative Costs Burden the U.S. Health Care System"]]
+[fn:42][[https://www.bbc.co.uk/news/health-38887694][Nick Triggle, "10 charts that show why the NHS is in trouble"]]
 
-[fn:22]
-[[https://www.healthcarefinancenews.com/news/study-sheds-light-executive-pay-healthcare-industry][Max Sullivan, "Compensation for CEOs ranged from $274,300 to $1.4 million, depending on the size of the hospital."]]
+[fn:43]Ibid[fn:38] p. 101
 
-[fn:23]
-[[https://www.breitbart.com/europe/2020/04/25/facebook-mob-names-and-shames-mother-for-not-clapping-for-nhs/][Kurt Zindulka, "Online Mob ‘Names and Shames’ British Mother for Not Clapping for NHS"]]
+[fn:44]Ibid[fn:25]
 
-[fn:24]
-https://www.theguardian.com/commentisfree/2019/oct/25/boris-johnson-conservatives-nhs-funding
+[fn:45]David T. Beito, /From Mutual Aid to the Welfare State: Fraternal Societies and Social Services, 1890-1967/ (Chapel Hill: University of North Carolina Press, 2000): 7.
 
-[fn:25]
-[[https://mises.org/wire/its-time-give-britains-national-health-service][Antony Sammeroff, "It's Time to Give Up on Britain's National Health Service"]]
+[fn:46]Este Erwood Buffum, /Modern Woodmen of America: A History/ (Rock Island, Ill.: Modern Woodmen of America, 1935), 2:5.
 
-[fn:26]
-Bartholomew, J.  (2004, 2013) “The Welfare State We’re In”
+[fn:47]George S. Mathews, “Contract Practice in Rhode Island,” /Bulletin of the American Academy of Medicine/ 10 (December 1909): 601.
 
-[fn:27]
-Ibid[fn:26]
+[fn:48]Ibid[fn:48] p. 117
 
-[fn:28]
-[[https://www.pop.org/cancer-survival-rates-far-worse-in-great-britain-than-u-s/][Population Research Institute, "Cancer Survival Rates Far Worse in Great Britain than U.S."]]
+[fn:49]“Contract Practice,” West Virginia Medical Journal, 425
 
-[fn:29]
-[[https://www.bbc.co.uk/news/health-42572116][Nick Triggle, "Patients 'dying in hospital corridors'"]]
+[fn:50]Straub Sherrer, “The Contract Physician: His Use and Abuse,” /Pennsylvania Medical Journal/ 8 (November 1904):106
 
-[fn:30]
-Ibid[fn:28]
+[fn:51]“No Contract Practice for Meadville,” /Pennsylvania Medical Journal/ 13 (November1909): 148
 
-[fn:31]
-Ibid[fn:29]
+[fn:52]George Rosen, /The Structure of American Medical Practice/, 1875 – 1941 (Philadelphia: University of Pennsylvania Press, 1983), 99
 
-[fn:32]
-https://fullfact.org/health/four-million-hospital-waiting-lists/
+[fn:53]Goldwater, “Dispensaries,” 614 – 15.
 
-[fn:33]
-[[https://www.dailymail.co.uk/news/article-3158591/Hospital-waiting-lists-seven-year-high-3-4m-need-treatment-6-000-forced-wait-year-operations.html][Sophie Borland, "Hospital waiting lists at seven-year high as 3.4m need treatment: More than 6,000 forced to wait at least a year for operations"]]
+[fn:54]“We cannot escape from the fact that these poor people are not able to pay the most modest fee where continuous treatment is  necessary” (“The Vexed Question --- Lodge Practice,” /New York State Journal of Medicine/ 13 (November 1913): 562)
 
-[fn:34]
-[[https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/latest][Office for National Statistics, "Population Estimates for UK, England and Wales, Scotland and Northern Ireland: mid-2019"]]
+[fn:55]Charles S. Sheldon, “Contract Practice,” /Bulletin of the American Academy of Medicine/ 10 (December 1909): 590.
 
-[fn:35]
-[[https://mises.org/wire/patients-are-dying-corridors-britains-socialised-health-system][George Pickering, "Patients Are “Dying in Corridors” of Britain’s Socialised Health System"]]
+[fn:56]Referring to competition from the lodge doctor, an editorial in the /Illinois Medical Journal/ warned that “where rate cuts begin there is no limit to the depth of the cut and finally all practitioners and the community suffer” (“Contract Practice,” /Illinois Medical Journal/ 22 [November 1907]: 505).
 
-[fn:36]
-Ibid[fn:34]
+[fn:57]Ibid[fn:48] p. 118
 
-[fn:37]
-Ibid[fn:35]
+[fn:58]Ibid[fn:47] p. 604
 
-[fn:38]
-DiLorenzo, T. J. (2016) "The Problem With Socialism" Chapter 9. pp. 96-97
+[fn:59]Loyal Order of Moose, /Minutes/ (1921), 205.
 
-[fn:39]
-[[https://www.theguardian.com/society/2017/jan/13/193000-nhs-patients-a-month-waiting-beyond-target-for-surgery][Denis Campbell, "193,000 NHS patients a month waiting beyond target time for surgery"]]
+[fn:60]Ibid[fn:48] p. 109
 
-[fn:40]
-[[https://www.dailymail.co.uk/news/article-2533698/Britain-just-2-71-doctors-1000-people-fewer-Latvia-Estonia-Lithuania.html][Lizzie Parry, "Britain has just 2.71 doctors per 1,000 people... which is fewer than Latvia, Estonia and Lithuania"]]
+[fn:61]“An Example That Should Be Followed,” /Pennsylvania Medical Journal/ 8 (November 1904): 107.
 
-[fn:41]
-[[https://www.hsj.co.uk/comment/dont-see-older-people-as-a-burden-on-the-nhs/5068503.article][David Oliver, "Don't see older people as a 'burden' on the NHS"]]
+[fn:62]Zierath, “Contract Practice,” 150; “Contract Practice,” /West Virginia Medical Journal/, 426; Burrow, Organized Medicine, 126.
 
-[fn:42]
-[[https://www.bbc.co.uk/news/health-38887694][Nick Triggle, "10 charts that show why the NHS is in trouble"]]
+[fn:63]John McMahon, “The Ethical versus the Commercial Side of Medical Practice --- Which Will We Serve?,” California State Journal of Medicine 8 (July 1910): 243
 
-[fn:43]
-Ibid[fn:38] p. 101
+[fn:64]John B. Donaldson, “Contract Practice,” Pennsylvania Medical Journal 12 (December 1908): 212–214
 
-[fn:44]
-Ibid[fn:25]
+[fn:65]“A New Shame,” California State Journal of Medicine 7 (June 1909): 194
 
-[fn:45]
-David T. Beito, /From Mutual Aid to the Welfare State: Fraternal Societies and Social Services, 1890-1967/ (Chapel Hill: University of North Carolina Press, 2000): 7.
+[fn:66]“Discussion, Dr. F. F. Lawrence, of Columbus,” Bulletin of the American Academy of Medicine 10 (December 1909): 637
 
-[fn:46]
-Este Erwood Buffum, /Modern Woodmen of America: A History/ (Rock Island, Ill.: Modern Woodmen of America, 1935), 2:5.
+[fn:67]Holtzapple, “Lodge Practice,” 536.
 
-[fn:47]
-George S. Mathews, “Contract Practice in Rhode Island,” /Bulletin of the American Academy of Medicine/ 10 (December 1909): 601.
+[fn:68]Ibid[fn:48] pp. 115-116
 
-[fn:48]
-Ibid[fn:48] p. 117
+[fn:69]“Shall We Have the Community Doctor?,” 4.
 
-[fn:49]
-“Contract Practice,” West Virginia Medical Journal, 425
+[fn:70]Ibid[fn:64] 212.
 
-[fn:50]
-Straub Sherrer, “The Contract Physician: His Use and Abuse,” /Pennsylvania Medical Journal/ 8 (November 1904):106
+[fn:71]Ibid[fn:48] p. 125
 
-[fn:51]
-“No Contract Practice for Meadville,” /Pennsylvania Medical Journal/ 13 (November1909): 148
+[fn:72]Burrow, /Organized Medicine/, 131.
 
-[fn:52]
-George Rosen, /The Structure of American Medical Practice/, 1875 – 1941 (Philadelphia: University of Pennsylvania Press, 1983), 99
+[fn:73]“Contract Practice,” /Journal of the Medical Society of New Jersey/, 336.
 
-[fn:53]
-Goldwater, “Dispensaries,” 614 – 15.
+[fn:74]/Pennsylvania Medical Journal/ 14 (November 1910): 152.
 
-[fn:54]
-“We cannot escape from the fact that these poor people are not able to pay the most modest fee where continuous treatment is  necessary” (“The Vexed Question --- Lodge Practice,” /New York State Journal of Medicine/ 13 (November 1913): 562)
+[fn:75]Editorial, /Journal of the Michigan State Medical Society/ 8 (December 1909): 596.
 
-[fn:55]
- Charles S. Sheldon, “Contract Practice,” /Bulletin of the American Academy of Medicine/ 10 (December 1909): 590.
+[fn:76]“Contract Practice,” /West Virginia Medical Journal/, 426.
 
-[fn:56]
-Referring to competition from the lodge doctor, an editorial in the /Illinois Medical Journal/ warned that “where rate cuts begin there is no limit to the depth of the cut and finally all practitioners and the community suffer” (“Contract Practice,” /Illinois Medical Journal/ 22 [November 1907]: 505).
+[fn:77]“Contract Practice,” /Illinois Medical Journal/, 504.
 
-[fn:57]
-Ibid[fn:48] p. 118
+[fn:78]Ibid[fn:48] p. 124
 
-[fn:58]
-Ibid[fn:47] p. 604
+[fn:79]“Vexed Question,” 561 – 63.
 
-[fn:59]
-Loyal Order of Moose, /Minutes/ (1921), 205.
+[fn:80]Albert T. Lytle, “Contract Medical Practice: An Economic Study,” /New York State Journal of Medicine/ 15 (March 1915): 106.
 
-[fn:60]
-Ibid[fn:48] p. 109
+[fn:81]On the pressures exerted by various local societies against lodge doctors, see Burrow, /Organized Medicine/, 126 – 32
 
-[fn:61]
-“An Example That Should Be Followed,” /Pennsylvania Medical Journal/ 8 (November 1904): 107.
+[fn:82]“Medical Ethics and County By-Laws,” /Texas State Journal of Medicine/ 8 (February 1913): 257 – 58.
 
-[fn:62]
-Zierath, “Contract Practice,” 150; “Contract Practice,” /West Virginia Medical Journal/, 426; Burrow, Organized Medicine, 126.
+[fn:83]“Contract Practice,” /Journal of the Medical Society of New Jersey/, 336.
 
-[fn:63]
-John McMahon, “The Ethical versus the Commercial Side of Medical Practice --- Which Will We Serve?,” California State Journal of Medicine 8 (July 1910): 243
+[fn:84]“Contract Practice,” /West Virginia Medical Journal/, 426.
 
-[fn:64]
-John B. Donaldson, “Contract Practice,” Pennsylvania Medical Journal 12 (December 1908): 212–214
+[fn:85]“Discussion, Dr. J. K. Weaver, Norristown,” /Bulletin of the American Academy of Medicine/ 10 (December 1909): 631 – 32.
 
-[fn:65]
-“A New Shame,” California State Journal of Medicine 7 (June 1909): 194
+[fn:86]“Contract Practice,” /California State Journal of Medicine/ 4 (February 1906): 44 – 45.
 
-[fn:66]
-“Discussion, Dr. F. F. Lawrence, of Columbus,” Bulletin of the American Academy of Medicine 10 (December 1909): 637
+[fn:87]Rene Bine, “Contract Practice,” /California State Journal of Medicine/ 10 (February 1912): 52.
 
-[fn:67]
-Holtzapple, “Lodge Practice,” 536.
+[fn:88]“Contract Practice,” /Medical Council/ 19 (October 1914): 398.
 
-[fn:68]
-Ibid[fn:48] pp. 115-116
+[fn:89]“An Example That Should Be Followed,” 107.
 
-[fn:69]
-“Shall We Have the Community Doctor?,” 4.
+[fn:90]“No Contract Practice for Meadville,” 148.
 
-[fn:70]
-Ibid[fn:64] 212.
+[fn:91]“Report of the Committee on Lodge Practice,” /Pennsylvania Medical Journal/ 15 (October 1911): 57.
 
-[fn:71]
-Ibid[fn:48] p. 125
+[fn:92]Fraternal Order of Eagles, /Journal of Proceedings/ (1912), 204 – 5.
 
-[fn:72]
-Burrow, /Organized Medicine/, 131.
+[fn:93]Howard Pursell, letter, “Lodge Practice,” /Pennsylvania Medical Journal/ 14 (December 1910): 237.
 
-[fn:73]
-“Contract Practice,” /Journal of the Medical Society of New Jersey/, 336.
+[fn:94]Loyal Order of Moose, /Minutes/ (1913), 164.
 
-[fn:74]
-/Pennsylvania Medical Journal/ 14 (November 1910): 152.
+[fn:95]Ibid[fn:48] p. 125
 
-[fn:75]
-Editorial, /Journal of the Michigan State Medical Society/ 8 (December 1909): 596.
+[fn:96]https://www.tapatalk.com/groups/libertyhq/healthcare-problem-survey-t785.html
 
-[fn:76]
-“Contract Practice,” /West Virginia Medical Journal/, 426.
+[fn:97][[https://www.stephankinsella.com/2010/05/hoppe-on-covenant-communities/][Stephan Kinsella, "Hoppe on Covenant Communities and Advocates of Alternative Lifestyles"]]
 
-[fn:77]
-“Contract Practice,” /Illinois Medical Journal/, 504.
+[fn:98]Hans-Hermann Hoppe; Murray N. Rothbard; David Friedman; Leland Yeager; David Gordon; Douglas Rasmussen (November 1988). [[http://www.hanshoppe.com/wp-content/uploads/publications/liberty_symposium.pdf]["Liberty Symposium"]] (PDF). Liberty. 2.
 
-[fn:78]
-Ibid[fn:48] p. 124
+[fn:99][[https://mises.org/library/four-step-healthcare-solution][Hans-Hermann Hoppe, "A Four-Step Healthcare Solution"]]
 
-[fn:79]
-“Vexed Question,” 561 – 63.
-
-[fn:80]
-Albert T. Lytle, “Contract Medical Practice: An Economic Study,” /New York State Journal of Medicine/ 15 (March 1915): 106.
-
-[fn:81]
-On the pressures exerted by various local societies against lodge doctors, see Burrow, /Organized Medicine/, 126 – 32
-
-[fn:82]
-“Medical Ethics and County By-Laws,” /Texas State Journal of Medicine/ 8 (February 1913): 257 – 58.
-
-[fn:83]
-“Contract Practice,” /Journal of the Medical Society of New Jersey/, 336.
-
-[fn:84]
-“Contract Practice,” /West Virginia Medical Journal/, 426.
-
-[fn:85]
-“Discussion, Dr. J. K. Weaver, Norristown,” /Bulletin of the American Academy of Medicine/ 10 (December 1909): 631 – 32.
-
-[fn:86]
-“Contract Practice,” /California State Journal of Medicine/ 4 (February 1906): 44 – 45.
-
-[fn:87]
-Rene Bine, “Contract Practice,” /California State Journal of Medicine/ 10 (February 1912): 52.
-
-[fn:88]
-“Contract Practice,” /Medical Council/ 19 (October 1914): 398.
-
-[fn:89]
-“An Example That Should Be Followed,” 107.
-
-[fn:90]
-“No Contract Practice for Meadville,” 148.
-
-[fn:91]
-“Report of the Committee on Lodge Practice,” /Pennsylvania Medical Journal/ 15 (October 1911): 57.
-
-[fn:92]
-Fraternal Order of Eagles, /Journal of Proceedings/ (1912), 204 – 5.
-
-[fn:93]
-Howard Pursell, letter, “Lodge Practice,” /Pennsylvania Medical Journal/ 14 (December 1910): 237.
-
-[fn:94]
-Loyal Order of Moose, /Minutes/ (1913), 164.
-
-[fn:95]
-Ibid[fn:48] p. 125
-
-[fn:96]
-https://www.tapatalk.com/groups/libertyhq/healthcare-problem-survey-t785.html
-
-[fn:97]
-[[https://www.stephankinsella.com/2010/05/hoppe-on-covenant-communities/][Stephan Kinsella, "Hoppe on Covenant Communities and Advocates of Alternative Lifestyles"]]
-
-[fn:98]
-Hans-Hermann Hoppe; Murray N. Rothbard; David Friedman; Leland Yeager; David Gordon; Douglas Rasmussen (November 1988). [[http://www.hanshoppe.com/wp-content/uploads/publications/liberty_symposium.pdf]["Liberty Symposium"]] (PDF). Liberty. 2.
-
-[fn:99]
-[[https://mises.org/library/four-step-healthcare-solution][Hans-Hermann Hoppe, "A Four-Step Healthcare Solution"]]
-
-[fn:100]
-Ibid[fn:45], p. 2
+[fn:100]Ibid[fn:45], p. 2
