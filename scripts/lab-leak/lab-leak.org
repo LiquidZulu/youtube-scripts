@@ -1,18 +1,20 @@
 #+TITLE:The Chernobyl of Virology
 #+SUBTITLE:Why the Coronavirus Was Definitely Released from a Lab
-#+AUTHOR:LiquidZulu, Nerd Has Power, Nicholas Wade, Project E, and Yuri Deigin
+#+AUTHOR:LiquidZulu, Li-Meng Yan, Nerd Has Power, Nicholas Wade, Project E, Rossana Segreto, and Yuri Deigin
 #+OPTIONS: ^:{}
 #+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
-#+begin_org-disclaimer
+#+begin_comment
 /This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
-#+end_org-disclaimer
+#+end_comment
 
 * TODO
-+ fauci emails https://patriots.win/p/12ih58cg0U/dr-mengele-fauci-foia-dump-origi/
-+ [[https://www.nature.com/articles/d41586-021-01383-3][Divisive COVID ‘lab leak’ debate prompts dire warnings from researchers]]
-+ https://www.youtube.com/watch?v=IxwrDSYrhjU
-+ https://www.sciencedirect.com/science/article/pii/S1873506120304165
-+ https://onlinelibrary.wiley.com/doi/full/10.1002/bies.202100015
++ https://onlinelibrary.wiley.com/doi/pdf/10.1002/bies.202000240
++ Is RaTG13 actually RaBtCoV/4991? How similar is it, just the RdRp? What does that imply?
++ [[https://mygenomix.medium.com/the-origin-of-sars-cov-2-is-a-riddle-meet-the-twitter-detectives-who-aim-to-solve-it-5050216fd279][Moreno Colaiacovo, "The origin of SARS-CoV-2 is a riddle: meet the Twitter detectives who aim to solve it"]]
++ https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins
++ [[https://www.researchgate.net/publication/344240007_Unusual_Features_of_the_SARS-CoV-2_Genome_Suggesting_Sophisticated_Laboratory_Modification_Rather_Than_Natural_Evolution_and_Delineation_of_Its_Probable_Synthetic_Route][Li-Meng Yan, "Unusual Features of the SARS-CoV-2 Genome Suggesting Sophisticated Laboratory Modification Rather Than Natural Evolution and Delineation of Its Probable Synthetic Route"]]
++ Li meng RaTG13 https://zenodo.org/record/4073131 https://wearechange.org/chinese-whistleblower-releases-second-paper-alleging-large-scale-organized-scientific-fraud/
++ [[https://www.researchgate.net/publication/350523980_The_Wuhan_Laboratory_Origin_of_SARS-CoV-2_and_the_Validity_of_the_Yan_Reports_Are_Further_Proved_by_the_Failure_of_Two_Uninvited_Peer_Reviews_Opening_Statement][Li-Meng Yan, et al. "The Wuhan Laboratory Origin of SARS-CoV-2 and the Validity of the Yan Reports Are Further Proved by the Failure of Two Uninvited "Peer Reviews" Opening Statement"]]
 + https://twitter.com/ydeigin/status/1367758790532169730
 + https://twitter.com/Rossana38510044/status/1392004085713448962
 + https://drive.google.com/file/d/1geAahfQ_LKcHMO3wsh5d5RvyJtuPmH2q/view
@@ -180,13 +182,13 @@ It would only be impossible if she was dead.
 ** What is with the sequence?
 In 2015, the Wuhan Institute of Virology, along with researchers in the US and Switzerland, published a paper[fn:43] detailing how they made a chimeric SARS-like virus based on a coronavirus found in horseshoe bats, the proposed natural reservoir for SARS-CoV-2. This is what is known as gain-of-function research in virology, a task whereby virologists attempt to make the most infections virus they can to study how infection works.
 
-*** It looks like GD Pangolin-CoV
+*** It looks like GD Pangolin-CoV (MP789)
 Above I discussed the WIV's PLA connections focusing in on a paper ([[https://www.nature.com/articles/s41586-020-2169-0.pdf][Tommy Tsan-Yuk Lam et al, "Identifying SARS-CoV-2-related coronaviruses in Malayan pangolins"]]) that is oft-praised by chinese shills for its proof that this came from nature, but let's look at what that paper actually finds.
 
 #+CAPTION:Analysis of the RBD sequence of similar coronaviruses
 [[./images/rbd-comp-0.png]]
 
-Allow me to walk you through the image above, what is shown is the amino acids that make up the spike protein of SARS-CoV-2 and similar viruses, where the red boxes indicate those acids that code for the ACE2 binding that allows the CCPVirus to be so infectious. Should even a single one of these acids be different the binding would not work as it currently does.
+Allow me to walk you through the image above, what is shown is the amino acids that make up the receptor binding domain (RBD) of SARS-CoV-2 and similar viruses, where the red boxes indicate those acids that code for the ACE2 binding that allows the CCPVirus to be so infectious. Should even a single one of these acids be different the binding would not work as it currently does.
 
 #+CAPTION:Analysis of the RBD sequence of similar coronaviruses with homology redacted.
 [[./images/rbd-comp-1.png]]
@@ -196,7 +198,7 @@ For clarity, in the above I have removed unimportant sections of the chart where
 #+CAPTION:Analysis of the RBD sequence of similar coronaviruses with homology redacted showing only SARS-CoV-2 and GD pangolin-CoV
 [[./images/rbd-comp-2.png]]
 
-And here, I take this further by focusing in on only SARS-CoV-2 and GD pangolin-CoV. Now we can clearly see just how similar these 2 viruses are in their spike protein, being the only 2 that match where the ACE2 binding is coded for, and being entirely identical across the receptor binding domain (RBD) shown in row 3 and the start of row 4 above. And prior to the RBD they differ in only 4 places.
+And here, I take this further by focusing in on only SARS-CoV-2 and GD pangolin-CoV, I have also highlighted a section[fn:44] of the RBD known as the receptor binding motif (RBM), as the motif is the specific section that interacts with the host cell, making it the most important section. Now we can clearly see just how similar these two viruses are accross the RBD, being the only 2 that match where the ACE2 binding is coded for, and being entirely identical across the RBM, differing in only a single amino acid afterwords and in only 4 places prior (red arrows).
 
 So what's the big deal? It looks like it came from a pangolin, so what? Well, as the paper referenced above notes;
 #+begin_quote
@@ -231,7 +233,7 @@ To break this down, you have a matrix of each of the possible bases in the first
 | CAA | ACU | AAU | UCA | CCU | CGG | CGG | GCA | CGU | AGU | GUG |
 Now in this table a different process has occurred, you can see that the above chain was seemingly cut and a smaller chain was spliced into the gap. This is what is known as insertion.
 
-Insertions are rare, but can occur in nature[fn:44] when gene replication slips up. And as Banavali writes:[fn:45]
+Insertions are rare, but can occur in nature[fn:45] when gene replication slips up. And as Banavali writes:[fn:46]
 #+begin_quote
 Insertions can be anywhere in size from one base pair incorrectly inserted into a DNA sequence to a section of one chromosome inserted into another.
 #+end_quote
@@ -240,9 +242,9 @@ But crucially they are randomly sized, and often cause huge problems.
 ***** Reassortment
 Natural insertion can come in 2 forms, either a part of the viral genome is incorrectly placed, or two viruses infect the same cell allowing for a process known as reassortment or recombination.
 
-Recombinant viruses are what we use to create flu vaccines, the process goes as follows, first two separate but related viruses must infect the same cell (\beta-coronaviruses can only recombine with other \beta-coronaviruses).[fn:46] Then either site-specific, or site-nonspecific recombination must occur.
+Recombinant viruses are what we use to create flu vaccines, the process goes as follows, first two separate but related viruses must infect the same cell (\beta-coronaviruses can only recombine with other \beta-coronaviruses).[fn:47] Then either site-specific, or site-nonspecific recombination must occur.
 
-If site-specific recombination occurrs -- which is the more likely option, due to the specificity of the location, natural origin believers agree with me on this[fn:47] -- then as Howard Nash explains:[fn:48]
+If site-specific recombination occurrs -- which is the more likely option, due to the specificity of the location, natural origin believers agree with me on this[fn:48] -- then as Howard Nash explains:[fn:49]
 #+begin_quote
 both partners carry a well-defined specific site that is necessary for the recombination event and that contains the point of genetic exchange
 #+end_quote
@@ -250,16 +252,16 @@ So for our case that well-defined specific site would be the S1/S2 junction mean
 
 If site-nonspecific recombination is the culprit that would mean that in the course of reproduction the infected cell accidently takes a random part of the virus from somewhere else and puts it right at the S1/S2 junction, so this deletion elsewhere of PRRA would have to magically be the only thing that is taken and it would have to just so happen to be basically the perfect insertion possible.
 **** The weird cleavage site of SARS-CoV-2
-First off it is important to know about furin, this is one of a few different enzymes that can perform this cleavage, but what is special about furin is it cuts proteins in strictly defined places,[fn:49] making it very easy for viroligists to study.
+First off it is important to know about furin, this is one of a few different enzymes that can perform this cleavage, but what is special about furin is it cuts proteins in strictly defined places,[fn:50] making it very easy for viroligists to study.
 
-These places it cuts are defined by an RxxR sequence[fn:50] (meaning an ...-Argenine-x-x-Argenine-..., where x is any amino acid). Moreover, if you have an RRxR or an RxRR, then the cleavage efficiency is significantly increased.[fn:51]
+These places it cuts are defined by an RxxR sequence[fn:51] (meaning an ...-Argenine-x-x-Argenine-..., where x is any amino acid). Moreover, if you have an RRxR or an RxRR, then the cleavage efficiency is significantly increased.[fn:52]
 
-It is because of this that virologists took immediate note:[fn:52][fn:53]
+It is because of this that virologists took immediate note:[fn:53][fn:54]
 #+begin_quote
 It was found that all Spike [proteins] with a SARS-CoV-2 Spike sequence homology greater than 40% did not have a furin cleavage site (Figure 1, Table 1), including Bat-CoV RaTG13 and SARS-CoV (with sequence identity as 97.4% and 78.6%, respectively). The furin cleavage site “RRAR” in SARS-CoV-2 is unique in its family, rendering by its unique insert of “PRRA”. The furin cleavage site of SARS-CoV-2 is unlikely to have evolved from MERS, HCoV-HKU1, and so on. From the currently available sequences in databases, it is difficult for us to find the source. Perhaps there are still many evolutionary intermediate sequences waiting to be discovered.
 #+end_quote
 
-So to translate, no virus that is closely related to the CCPVirus has the furin cleavage site that allows for such a high transmissibility. That transmissibility bump is because the cleavage site allows the virus to activate its spike protein in a wider variety of cells and tissues.[fn:54]
+So to translate, no virus that is closely related to the CCPVirus has the furin cleavage site that allows for such a high transmissibility. That transmissibility bump is because the cleavage site allows the virus to activate its spike protein in a wider variety of cells and tissues.[fn:55]
 
 #+CAPTION:Evolutionary Relationships of \beta-CoV Taxa. The evolutionary history was inferred using the neighbor-joining method. The bootstrap consensus tree inferred from 500 replicates is taken to represent the evolutionary history of the taxa analysed. Branches corresponding to partitions reproduced in less than 50% bootstrap replicates are collapsed. The evolutionary distances were computed using the Poisson correction method and in the units of the number of amino acid substitutions per site. The analysis involved 155 amino acid sequences. All positions containing gaps and missing data were eliminated. There are a total of 711 positions in the final dataset. Evolutionary analyses were conducted in MEGA7. Red shading means containing cleavage site in sequences and yellow shading means no cleavage site in sequences. All sequences are from \beta-coronavirus, and the four subtypes are marked in different outline colors.
 [[./images/virus-tree.png]]
@@ -267,7 +269,7 @@ So to translate, no virus that is closely related to the CCPVirus has the furin 
 #+CAPTION:Furin Cleavage Probability of Spike Sequence Homology. a:Scores are predicted by ProP 1.0 Server. Scores above 0.5 mean furin cleavable. b:Identities compared with SARS-CoV-2 Spike protein.
 [[./images/furin-scores.png]]
 
-This point is made clearer in the above diagram and its accompanying table[fn:55] showing 3 different strains of the CCPVirus that have the cleavage site in a sea of their closest neighbors all without it. The closest relative /with/ a furin site is the HKU5 strain, isolated by the Shi Zhengli team in 2014 in Guangzhou from bats of the genus Pipistrellus (added to GenBank in 2018). But it is a very distant relative --- their spike proteins share only 37.1% sequence identity in the spike protein. Moreover the fact that only the ccpvirus has this site makes subtype B (denoted in green) utterly unique --- basically everything in A and C have this site and nothing in D has it, leaving type B to be the only subtype that has only a single virus with the furin site.
+This point is made clearer in the above diagram and its accompanying table[fn:56] showing 3 different strains of the CCPVirus that have the cleavage site in a sea of their closest neighbors all without it. The closest relative /with/ a furin site is the HKU5 strain, isolated by the Shi Zhengli team in 2014 in Guangzhou from bats of the genus Pipistrellus (added to GenBank in 2018). But it is a very distant relative --- their spike proteins share only 37.1% sequence identity in the spike protein. Moreover the fact that only the ccpvirus has this site makes subtype B (denoted in green) utterly unique --- basically everything in A and C have this site and nothing in D has it, leaving type B to be the only subtype that has only a single virus with the furin site.
 
 So the virologists are puzzled. Where did this 12 nucleotide insert come from? Could it be lab-made? Well, virologists have studied furin sites in coronaviruses for decades, and have introduced many artificial ones in a lab. For example, an American team had inserted RRSRR into the spike protein of the first SARS-CoV back in 2006:
 #+begin_quote
@@ -278,21 +280,38 @@ To investigate whether proteolytic cleavage at the basic amino acid residues, we
 #+CAPTION:The insertion is only PRRA
 [[./images/prra-insertion.png]]
 
-So thats all well and good, it has a furin cleavage site, maybe it picked it up from somewhere, I did say that random insertion can occur in nature after all. This is true, but I draw your attention to figure 15 above, showing the actual insertion and it is only PRRA. That RRA then continues on to form an RRAR that is needed for the furin cleavage site (RRxR=RRAR). But then what purpose does the P serve, if this was man-made it should server a purpose, right? This is true, and the P quite possibly does serve a purpose, it is believed that this leading proline results in the addition of O-linked glycans that create a muncin-like domain that helps to sheild key residues of the spike protein,[fn:56] as has been observed in other viruses. This sheild allows the virus to hide from anti-bodies.
+So thats all well and good, it has a furin cleavage site, maybe it picked it up from somewhere, I did say that random insertion can occur in nature after all. This is true, but I draw your attention to figure 15 above, showing the actual insertion and it is only PRRA. That RRA then continues on to form an RRAR that is needed for the furin cleavage site (RRxR=RRAR). But then what purpose does the P serve, if this was man-made it should server a purpose, right? This is true, and the P quite possibly does serve a purpose, it is believed that this leading proline results in the addition of O-linked glycans that create a muncin-like domain that helps to sheild key residues of the spike protein,[fn:57] as has been observed in other viruses. This sheild allows the virus to hide from anti-bodies.
 
 So this insertion seems to be just the perfect thing to add, with no draw-backs: it gains a P to sheild from immune response and an RRAR to allow a greater range of cells that it may infect. If this was a freak natural occurence you would expect a whole mess of crap to come over not just the exact snippet that is required for increased infectivity.
 
-*** Is RaTG13 even real???
-So above I have been displaying evidence that the virus is synthetic assuming that RaTG13 is some natural base that was used to create it because they are so similar. But let's look closer at RaTG13 and see if that is even real, because if it's not then the case that this thing is natural is completely destroyed as that is basically the sole piece of evidence the natural crowd have.
+*** RaTG13 (aka RaBtCoV/4991?)
+/For my research on this topic I am indebted to [[https://nerdhaspower.weebly.com/ratg13-is-fake.html][an article]] by Nerd Has Power, and [[https://onlinelibrary.wiley.com/doi/full/10.1002/bies.202100015][a paper]] by Deigin and Segreto./
 
-For my research on this topic I am indebted to [[https://nerdhaspower.weebly.com/ratg13-is-fake.html][an article]] by Nerd Has Power on weebly.
+So above I have been displaying evidence that the virus is synthetic assuming that RaTG13 is some natural base that was used to create it because they are so similar. But let's look closer at RaTG13 and see if we can find any anomalies with it too, because if we can then the case that SARS2 is natural is even more farfetched as it is the main piece of evidence the natural crowd use to prove a natural origin, along with 2 more recent viruses, [[MP789]], and [[RmYN02]]. I address those 2 later in this document.
+
+**** Vague Sampling Details
+Very little information on the sampling site and sequencing methods used to isolate RaTG13 was released by the authors, Zhou et al., at the time of its discovery. In their paper they simply state:[fn:58]
+#+begin_quote
+We then found that a short region of RNA-dependent RNA polymerase (RdRp) from a bat coronavirus (BatCoV RaTG13) -- which was previously detected in /Rhinolophus affinis/ from Yunnan province -- showed high sequence identity to 2019-nCoV. We carried out full-length sequencing on this RNA sample.
+#+end_quote
+Intriguingly, in the preprint for the above article, the quoted sentence originally said; "which /we/ previously detected," rather than "which was previously detected." It is unclear why the authors chose to further distance themselves from the collection of RaTG13 in the final version of their paper.
+
+After repeated requests for clarifications from several scientists and journalists, and more than 9 months later Zhou et al. did provide an addendum,[fn:59] which provides some missing information on RaTG13, most of it previously discovered and made public by an independent research group named "DRASTIC,"[fn:60] and published by both Rahalkar and Bahulikar,[fn:61] and Segreto and Deigin.[fn:62]
+
+While the addendum does clarify some crucial points, such as the exact sampling location of RaTG13, and it mentions the original paper describing it,[fn:63] the information released is still incomplete, and it conflicts with previously provided data. The addendum clarifies that RaTG13, then called RaBtCoV/4991, was fully sequenced in 2018,[fn:64] and not after the beginning of the pandemic as implied by Zhou et al.
+
+Moreover the peer-review process for the Zhou paper failed to ensure that the authors numerically define their stated "high sequence identity" of RaTG13's partial RdRp to SARS-CoV-2, instead needing to be done by Chen et al.[fn:65] reporting a 98.74% identity of RaBtCoV/4991 to 2 strains of SARS-CoV-2 (MN988668 and MN988669).
+
+In addition to the above, the Addendum claims that eight other SARS-like-CoV's that are distantly related to SARS1 were discovered in the same Mojiang mine, and sequenced together with RaTG13, but neither their genomes, nor information about their sample names, nor their accession numbers is provided. It is also not known how these sequences relate to RaTG13. The Addendum also fails to release details about the number and kind of samples collected from the mine workers, their storage conditions, methods used for each teast, and specification of the results obtained. So this seems like yet more hot air with no substence, nothing but intellectual chaff to distract from the failings of the WIV.
+
+It should be mentioned, also, that the addendum reportedly[fn:66] either fails to address, and/or contradicts,[fn:67] the statements in 2 separate theses, a MSc[fn:68] and a PhD,[fn:69][fn:70] which described, in detail, the miners' pneumonia symptoms and stated that SARS antibodies (Immunoglobulin G) were detected by the WIV in all four of the miners' samples tested.
 
 **** Who dares to carry out such a deceitful action?
 The sequence of RaTG13 was reported by Shi Zhengli, a researcher from our old friends the Wuhan Institute of Virology. Dr. Shi is the top coronavirus expert in China. She has gained the nickname of “batwoman” because she and her team have a long history of capturing wild bats in caves all over for the purpose of detecting and sometimes isolating coronaviruses within them. But of course it isn't worth thinking of the possibility that they would bring some of these bats back to Wuhan with them, to do so would be to engage in a conspiracy theory. We must perish the thought that governments who engage in routine ethnic cleansing would do something so dangerous and lie about it.
 
 As publicly stated, the goal of her research is to identify animal coronaviruses that have the potential of crossing-over to infect humans and thereby help the public avoid SARS-like disasters in the future.
 
-Ironically, contrary to this self-portrait, since the very beginning of the current pandemic, Shi Zhengli has been singled out as THE suspect, who may have created the Wuhan coronavirus and, in doing so, caused a world-wide disaster. Interestingly, on Jan 23rd, 2020, just before this “rumor” started to soar though the roof, Shi published a paper in Nature,[fn:57] who have censored over 1000 articles at the request of the CCP,[fn:58] where she compared the freshly obtained sequence of the Wuhan coronavirus with those of other coronaviruses and thus delineated an evolutionary path of this new virus. In this publication, all of a sudden and out of nowhere, Shi reported this bat coronavirus, RaTG13, which pampered the public and seemingly helped shape a consensus in the field that the Wuhan coronavirus is of a natural origin. But why on earth was Shi sitting on this virus for 7 years before releasing?
+Ironically, contrary to this self-portrait, since the very beginning of the current pandemic, Shi Zhengli has been singled out as THE suspect, who may have created the Wuhan coronavirus and, in doing so, caused a world-wide disaster. Interestingly, on Jan 23rd, 2020, just before this “rumor” started to soar though the roof, Shi published a paper in Nature,[fn:71] who have censored over 1000 articles at the request of the CCP,[fn:72] where she compared the freshly obtained sequence of the Wuhan coronavirus with those of other coronaviruses and thus delineated an evolutionary path of this new virus. In this publication, all of a sudden and out of nowhere, Shi reported this bat coronavirus, RaTG13, which pampered the public and seemingly helped shape a consensus in the field that the Wuhan coronavirus is of a natural origin. But why on earth was Shi sitting on this virus for 7 years before releasing?
 
 As stated in the paper, RaTG13 was discovered from Yunnan province, China, in 2013. It is said that her lab collected some bat feces in 2013 and analyzed these samples for possible presence of coronaviruses based on genetic evidence. To put it into plainer words, she has no physical proof for the existence of this RaTG13 virus. She only has its sequence information, which is nothing but a string of letters similar to my tables above. Had I posted them with the correct credentials I could claim that I, too, have proof of a new virus.
 
@@ -301,6 +320,56 @@ It cannot be any easier. It takes a person less than a day to TYPE such a sequen
 
 Now, does this RaTG13 sequence qualify as credible evidence in judging the matter? Well, remember, a central part of the matter is whether or not this Wuhan coronavirus was engineered or created by Shi Zhengli. It is Shi, not anybody else, who is the biggest suspect of this possible crime. Given the circumstances, wouldn’t she have a strong enough motive to be deceitful? If the evidence she raised to prove herself innocent was nothing but a bunch of letters recently typed in a word file, should anyone treat it as valid evidence?
 
+**** TODO Dr. Li-Meng Yan
+Dr. Li-Meng Yan is a Chinese virologist at the University of Hong Kong School of Public Health, and between September 2020 and March 2021 Yan authored a series of papers that call into question the validity of much of the evidence of the preported natural origin of the CCPVirus. Yan cites 7 separate papers[fn:73][fn:74][fn:75][fn:76][fn:77][fn:78][fn:79] that call into question the reality of RaTG13. Yan has been widely smeared[fn:80][fn:81] for this in addition to her whistleblowing that the WIV, in partnership with the University of Hong Kong, deliberately covered up evidence for the CCP.
+
+She writes:[fn:82]
+#+begin_quote
+...we used biological evidence and in-depth analyses to show that SARS-CoV-2 must be a laboratory product, which  was created by using a template virus (ZC45/ZXC21) owned by military research laboratories under the control of the Chinese Communist Party (CCP) government.
+#+end_quote
+
+Yan then alleges a more sinister motive than I have been partial to in this document:
+#+begin_quote
+SARS-CoV-2 is a product of laboratory modification, which can be created in approximately six months using a template virus owned by a laboratory of the People’s Liberation Army (PLA). The fact that data fabrications were used to cover up the true origin of SARS-CoV 2 further implicates that the laboratory modification here is beyond simple gain-of-function research.
+
+The scale and the coordinated nature of this scientific fraud signifies the degree of corruption in the fields of academic research and public health. As a result of such corruption, damages have been made both tot he reputation of the scientific community and to the well-being of the global community.
+#+end_quote
+
+Yan concurs with my suspicions of RaTG13:
+#+begin_quote
+Since its publication, the RaTG13 virus has served as the founding evidence for the theory that SARS-CoV-2 must have a natural origin. However, no live virus or an intact genome of RaTG13 have ever been isolated or recovered. Therefore, the only proof for the “existence” of RaTG13 in nature is its genomic sequence published on GenBank.
+#+end_quote
+
+She then explains, in-depth, how one may fake a virus:
+#+begin_quote
+If one intends to fabricate an RNA viral genome on GenBank, he or she could do so by following these steps: create its genomic sequence on a computer, have segments of the genome synthesized based on the sequence, amplify each DNA segment through PCR, and then send the PCR products ([which] may also be mixed with genetic material derived from the alleged host of the virus to mimic an authentic sequencing sample) for sequencing. The resulted raw sequencing reads would be used, together with the created genomic sequence, for establishing an entry on GenBank. Once accomplished, this entry would be accepted as the evidence for the natural existence of the corresponding virus. Clearly, a viral genomic sequence and its GenBank entry can be fabricated if well-planned.
+#+end_quote
+#+CAPTION:Illustration of steps involved in the sequencing and assembly of coronavirus genomes. (A) The normal process. (B) A possible route of fabricating a viral genome by creating a genomic sequence first and obtaining raw sequencing reads guided by it. NGS: Next Generation Sequencing.
+[[./images/how-to-fake-a-virus.png]]
+
+***** Meta-Anomalies
+Yan points out meta-anomalies related to the sequencing. For starters, RaTG13 was preported to have been collected as a fecal sample --- yet just 1.7% of the raw sequencing reads are bacterial, while the bacterial abundance is typically 70-90% among other fecal swabs.[fn:83][fn:84] In order to verify this result, Deigin and Segreto preformed their own analysis[fn:85] where they found the figure to be only 0.65%, contrasting this to another bat fecal sample uploaded by the WIV on the same day with 91% bacterial reads.
+
+Second, the genomic sequence for RaTG13 contains segments of non-bat origin, including fox, flying fox, squirrels and other animals. These abnormal features are significant and indicate that the raw  sequencing reads should have been obtained via a route that is different from the normal one (perhabs route B above), yet Zhou et al. make no mention of this.
+
+Zhang[fn:86] and Singla[fn:87] further identified in RaTG13’s raw reads the presence of uncommonly abundant telomere-like sequences. Telomeres are DNA-protein structures composed of tandem repeats which are located at the end of chromosomes and usually represent only a minor fraction of total cellular RNA extracted from a biological sample. Deigin and Segreto calculated[fn:88] that the RaTG13 raw reads (Genbank accession SRX7724752) are composed of 14% fully telomeric sequences. The exsistence of these repeats are entirely unexplained by the naturalist theory, and must be elaborated upon if Shi wishes to regain credibility.
+
+Deigin and Segreto also preformed an analysis on a random sampling of the RaTG13 raw reads finding that 10% of the sequences identified matched that of /Homo sapiens/, implying significant contamination of the dataset.
+
+Yan notes further that:
+#+begin_quote
+No independent verification of the RaTG13 sequence seems possible because, according to Dr. Zhengli Shi, the raw sample has been exhausted and no live virus was ever isolated or recovered. Notably, this information was known to a core circle of virologists early on and apparently accepted by them. It was then made public, months later, by Dr. Yanyi Wang, director general of the WIV, in an TV interview on May 23^{rd}, 2020.[fn:89] Dr. Shi also confirmed this publicly in her email interview with Science in July 2020.[fn:90]
+
+However, judging from Shi’s published protocol,[fn:91] *exhaustion of the fecal swap sample is highly unlikely*. According to this protocol, the fecal swab sample would be mixed with 1 ml of viral transport medium and the supernatant collected. Every 140 \mu​l of the supernatant would then yield 60 \mu​l of extracted RNA. For the subsequent step, RT-PCR, 5 \mu​l of this RNA-containing solution is required per reaction. Therefore, from one fecal swab sample, at least 80 RT-PCR reactions could be carried out ($$\frac{1000}{140} \cdot \frac{60}{5} \approx 86$$). Such an amount is sufficient to support both the initial round of sequencing and the subsequent gap filling PCR. It would be sufficient to also allow reasonable attempts to isolate live viruses, although Dr. Shi claimed that no virus isolation was attempted.[fn:92]
+#+end_quote
+
+Whats more is that a section of RaTG13 known as 5' (5-prime), was added to the database on the 13th of October 2020,[fn:93] supposedly 2 years after they had ran out of RaTG13 to sample. In this same update a few other nucleotides were edited, all with no explanation. Perhaps Shi was trying to cover her ass yet again.
+
+If Shi had a sample in 2020 what is with all the caginess, why not send it out for intenational study? Moreover, why claim that there were no more samples?
+
+***** RaBtCoV/4991
+As described above,
+
 **** RaTG13, if it truly exists, should never be neglected by Shi for a period of seven years
 Let’s now think about this from another direction. The sequence of RaTG13 is highly alarming – it clearly shows a potential of the virus to infect humans.
 
@@ -308,7 +377,7 @@ Within the spike protein of a β-coronavirus, there is a critical piece named th
 
 As a routine, when Shi’s team finishes collecting samples and confirms the presence of a coronavirus, the first thing they would do is to look at the sequence of the virus’ RBD. If there is resemblance between this sequence and that of the SARS virus (rarely so), their blood would boil because they have found something that may jump over to humans. It also means that top-journal publications are coming their way, so big bucks for Shi.
 
-In 2013, Shi made her fame in the coronavirus field by publishing in Nature two bat coronaviruses (Rs3367 and RsSHC014), which share considerable sequence similarity with SARS in the RBD region.[fn:59] This work, for the first time, proved a bat origin of SARS. In the following years, her team continued to publish articles, featuring additional bat coronaviruses that share these important sequence motifs.[fn:60][fn:61]
+In 2013, Shi made her fame in the coronavirus field by publishing in Nature two bat coronaviruses (Rs3367 and RsSHC014), which share considerable sequence similarity with SARS in the RBD region.[fn:94] This work, for the first time, proved a bat origin of SARS. In the following years, her team continued to publish articles, featuring additional bat coronaviruses that share these important sequence motifs.[fn:95][fn:96]
 
 So let's look at Rs3367 and RsSHC014 and compare them to RaTG13. It would stand to reason that RaTG13 would be less like SARS-1 in the RBD, or else she would have published that as the smoking gun.
 
@@ -323,7 +392,7 @@ Importantly, RaTG13 preserves the binding motifs as much as, if not better than,
 
 At position 472, RaTG13 is the only bat coronavirus that has the residue “L”, which is identical to SARS. Although the amino acids at the other three positions are not identical to their counterparts in SARS, they are all conservative mutations, which may not negatively impact the protein’s function.
 
-In fact, a very recent publication confirmed that the RBD from RaTG13, like SARS RBD, can indeed bind the human ACE2 receptor (Note: the RaTG13 RBD gene used in this work was synthesized. If only Shi was willing to provide the virus samples that she /definitely/ has, it sure would save them the trouble of making it from scratch).
+In fact, a very recent publication confirmed that the RBD from RaTG13, like SARS RBD, can indeed bind the human ACE2 receptor[fn:97] (Note: the RaTG13 RBD gene used in this work was synthesized. If only Shi was willing to provide the virus samples that she /definitely/ has, it sure would save them the trouble of making it from scratch).
 
 As expert as Shi is, she only needed to take one peek at the sequence of RaTG13’s RBD and immediately realize: this virus closely resembles SARS in its RBD and has a clear potential of infecting humans. If Shi’s public statement is true and she indeed intends to discover bat coronaviruses with a potential to cross-over to humans, how could she possibly overlook this extremely interesting finding of RaTG13? If this RaTG13 was discovered SEVEN years prior in 2013, why did Shi not publish this astonishing finding earlier? Why did she let the “less-attractive” viruses take the stage? Why did she decide to publish such a sequence only when the current outbreak took place and people started questioning the origin of the Wuhan coronavirus?
 
@@ -346,7 +415,6 @@ Let’s bring out some numbers to help us better comprehend the difference here.
 It is noteworthy that ZC45 and ZXC21 share ~97% sequence identity, just like that between the Wuhan coronavirus and RaTG13. So, the above comparison is very proper and reliable.
 
 How could Shi Zhengli fail so badly in fabricating the RaTG13 sequence? While, when I said it was easy to type out a fake sequence that is 96% identical to a template, I did not say that it is easy to maintain a reasonable synonymous/non-synonymous ratio throughout the whole genome. Unfortunately for Shi, when she had to come up a good sequence for S1 and the RBD within it (she knows that this part will be scrutinized the most), she had somehow exhausted the number of non-synonymous mutations she could use here. To maintain a reasonable synonymous/non-synonymous ratio for the whole spike-encoding gene (we can actually give her some credit here as she did remember to get it close to 5:1), she had to strictly limit the number of non-synonymous mutations in the S2 half of spike, which ended up flattening the red curve (kek). It is hard to be a cheater after all.
-
 *** The E protein
 So we have had a deep-dive into the spike protein of various viruses because it is super important in that it is what allows it to infect humans. But there is another protein called the E protein, found in β-coronaviruses, that is just a structural protein, this means that many mutations can accumulate in the E protein without really causing any issues in terms of the reproduction of the virus. This means that you can look at the E protein to determine how distant two viruses are, as you can measure this accumulation of mutations in these structural proteins.
 
@@ -355,7 +423,7 @@ So we have had a deep-dive into the spike protein of various viruses because it 
 
 So in the above table you can see that the E proteins of ZC45, and ZXC21 are identical, which supports the idea that they are closely related. But what is striking is that RaTG13 and the CCPVirus are also identical to these 2, despite them having very low homology elsewhere which would imply them to be distaltly related. Whats more is that after only a few months in the wild the CCPVirus is already starting to accumulate non-synonymous mutations in this protein, so it's very odd that RaTG13, a supposedly 7 year old virus, looks anything like those 2 if it evolved everywhere else enough to become the CCPVirus.
 ** WIV Researcher Accuses Director of Selling Infected Lab Animals
-An article[fn:62] published in UPI discusses accusations levied against WIV director, Wang Yanyi, that he was selling infected lab animals to the Huanan Seafood Market:
+An article[fn:98] published in UPI discusses accusations levied against WIV director, Wang Yanyi, that he was selling infected lab animals to the Huanan Seafood Market:
 #+begin_quote
 Wuhan, the central Chinese city in Hubei where the outbreak began, is home to the Wuhan Institute of Virology. On Monday, Wang Yanyi, director of the research center, denied allegations that animals used in lab experiments were resold at Huanan Seafood Market, which Chinese authorities have said is ground zero for COVID-19.
 
@@ -368,7 +436,7 @@ Chen is a researcher at the lab. On Tuesday she made a public statement claiming
 Social media posts about the institute were scrubbed by Tuesday. Wang Gaofei, chief executive of social media platform Weibo, condemned the posts as "fake news" and said the messages originated from an overseas IP address, according to multiple press reports.
 #+end_quote
 
-Chen later responded:[fn:63]
+Chen later responded:[fn:99]
 #+begin_quote
 Chen Quanjiao, a researcher with the Wuhan Institute of Virology, has refuted an online rumor that claimed the novel coronavirus was leaked from the institute, according to a statement published on its official website on Monday evening. Someone faked her identity, she said.
 
@@ -381,9 +449,9 @@ The statement came after a rumor went viral on Chinese social media platform Wei
 Chen has been working on influenza viruses at the institute since 2001, according to the official website.
 #+end_quote
 
-I'll let the reader decide what is more likely, whether someone was able to fake what should be a pretty high security ID card, hack into a Weibo account, and then get Chen's picture with the ID.[fn:64] Or, whether Chen blew the whistle and was punished by the CCP.
+I'll let the reader decide what is more likely, whether someone was able to fake what should be a pretty high security ID card, hack into a Weibo account, and then get Chen's picture with the ID.[fn:100] Or, whether Chen blew the whistle and was punished by the CCP.
 
-Now, let it be noted that this sale of animals would not be unheard of, as chinese news outlet, ECNS, reports:[fn:65]
+Now, let it be noted that this sale of animals would not be unheard of, as chinese news outlet, ECNS, reports:[fn:101]
 #+begin_quote
 Medical staff and experts have long been asking for better regulation and supervision of biological research institutes in China, but with mixed results.
 
@@ -394,7 +462,7 @@ A top academician at the Chinese Academy of Engineering earned 10.17 million yua
 Many virologists have been engaging in gain-of-function research as a matter of routine for years, an MIT Technology Review editor, Antonio Regalado, said that should it be shown that the CCPVirus was lab made "it would shatter the scientific edifice top to bottom." By this, it seems that the virology establishment has a great incentive to protect their -- oh so important -- research. So what if this virus escaped, it's probably a freak accident, they would think. They can't let such a thing get in the way of their work, that would be the true tragedy. So they publish a paper here and there and come together in force to ensure the press wont go telling any inconvenient truths.
 
 *** Daszak
-One of the first major blows to the then hypothesis that the virus came from a lab was in the form of a prominent open letter[fn:66] published in /the Lancet/ on the 19th of Februrary 2020. This was organised by EcoHealth Alliance president, Peter Daszak.
+One of the first major blows to the then hypothesis that the virus came from a lab was in the form of a prominent open letter[fn:102] published in /the Lancet/ on the 19th of Februrary 2020. This was organised by EcoHealth Alliance president, Peter Daszak.
 
 #+CAPTION:Peter Daszak, president of EcoHealth Alliance New York
 [[./images/daszak.png]]
@@ -410,7 +478,7 @@ We will use S protein sequence data, infectious clone technology, in vitro and i
 
 What this means, in non-technical language, is that Dr. Shi set out to create novel coronaviruses with the highest possible infectivity for human cells. Her plan was to take genes that coded for spike proteins possessing a variety of measured affinities for human cells, ranging from high to low. She would insert these spike genes one by one into the backbone of a number of viral genomes (“reverse genetics” and “infectious clone technology”), creating a series of chimeric viruses. These chimeric viruses would then be tested for their ability to attack human cell cultures (“in vitro”) and humanized mice (“in vivo”). And this information would help predict the likelihood of “spillover,” the jump of a coronavirus from bats to people.
 
-What's more is on the 9th of December, before the outbreak was widely known, Daszak gave an interview[fn:67] on /This Week in Virology/ in which he talked in glowing terms of how researchers at the Wuhan Institute of Virology had been reprogramming the spike protein and generating chimeric coronaviruses capable of infecting humanized mice.
+What's more is on the 9th of December, before the outbreak was widely known, Daszak gave an interview[fn:103] on /This Week in Virology/ in which he talked in glowing terms of how researchers at the Wuhan Institute of Virology had been reprogramming the spike protein and generating chimeric coronaviruses capable of infecting humanized mice.
 
 #+begin_quote
 “And we have now found, you know, after 6 or 7 years of doing this, over 100 new sars-related coronaviruses, very close to SARS, some of them get into human cells in the lab, some of them can cause SARS disease in humanized mice models and are untreatable with therapeutic monoclonals and you can’t vaccinate against them with a vaccine. So, these are a clear and present danger…
@@ -441,11 +509,11 @@ When making the lab-leak argument you will no doubt be bombarded with articles t
 You will recall all of Daszak's shady dealings from above, but I have found more minor conflicts of interest for 3 other members, indicating that at least 40% of the team had a conflict of interest, and this is from only minor googling. In addition to these public conflicts of interest I note that the remaining 6 investigators have done absolutely no investigating into the lab-leak theory, brushing the entire thing off with a single citation to a paper by Kristian G. Andersen et al. that I utterly tear apart below (see: [[Andersen's counter]]).
 
 **** Hung
-Dr. Hung Nguyen-Viet works at the International Livestock Research Institute, a group that receives funding from the Chinese government and its allies.[fn:68]
+Dr. Hung Nguyen-Viet works at the International Livestock Research Institute, a group that receives funding from the Chinese government and its allies.[fn:104]
 **** Farang
 Dr. Farang El Moubasher works for the Quatar govenrment, a strategic ally of China.
 **** Dwyer
-Dr. Dominic Dwyer works for Westmead Hospital, who have reported ties to the CCP's Uighur organ theft.[fn:69]
+Dr. Dominic Dwyer works for Westmead Hospital, who have reported ties to the CCP's Uighur organ theft.[fn:105]
 ** Wuhan CDC: An Alternative Source
 Thusfar the WIV has been taken to be the prime suspect for the release, but there is a second possibility, the BSL-2 lab run by the CCDC, the Wuhan Centre for Disease Control (WhCDC). This lab, being less than 3 miles from the Huanan Seafood Market may not be discounted. Esteemed Chinese researchers released a mysterious paper, [[https://web.archive.org/web/20200214144447/https://www.researchgate.net/publication/339070128_The_possible_origins_of_2019-nCoV_coronavirus][The possible origins of 2019-nCoV coronavirus]], on ResearchGate in early February. The paper, authored by Botao Xiao and Lei Xiao, from the South China University of Technology, has since been redacted.
 
@@ -459,7 +527,7 @@ According to Google Scholar, Botao Xiao has published peer reviewed papers in th
 #+CAPTION:Google Scholar results for Botao Xiao https://scholar.google.com/citations?user=ap6QWmcAAAAJ&hl=en
 [[./images/botao-xiao.png]]
 
-He received his PhD from Northwestern University and spent two years at Harvard Medical School.[fn:70]
+He received his PhD from Northwestern University and spent two years at Harvard Medical School.[fn:106]
 
 This is to say that Botao is no fool, he is more educated than the average person in this area.
 
@@ -478,7 +546,7 @@ Earlier, Dr. Xiao asserted that SARS-CoV-2 is "86 to 96 percent" similar to the 
 
 His next claim is that it is very unlikely that there would be bats naturally living in the metropolitan distict of Wuhan, and in fact no bats were traded at the market at all. But let us go one step further: there were no bats in Wuhan in December, because bats hibernate in the winter!
 
-An article[fn:71] in /the Lancet/ confirms this and Xiao's assertion that bats were not sold at the market.
+An article[fn:107] in /the Lancet/ confirms this and Xiao's assertion that bats were not sold at the market.
 
 *** Horseshoe Bats Were Present in WhCDC Labs
 #+begin_quote
@@ -564,7 +632,7 @@ If Xiao had simply been convinced that he was wrong I could see him retracting h
 
 ** Counterarguments
 *** Ghedin's counter
-Dr. Elodie Ghedin has the counterpoint laid out in her interview with 60 minutes.[fn:72] In it she makes 3 claims which I will address 1 by 1.
+Dr. Elodie Ghedin has the counterpoint laid out in her interview with 60 minutes.[fn:108] In it she makes 3 claims which I will address 1 by 1.
 
 **** Claim 1
 #+begin_quote
@@ -572,7 +640,7 @@ Human engineered viruses have common and obvious genetic components
 #+end_quote
 This is to say that fiddling with a viruses genome leaves some identifiable fingerprint on the nucleotide chain.
 
-But this simply isn't the case as demonstrated by a 2002 paper[fn:73] where researchers were able to assemble a full-length, infectious clone of a mouse coronavirus that was 31.5 kb, so larger than the current coronavirus. What is important is that this cloning resulted in no nucleotide changes --- that is, that since 2002 we have had a method for constructing a virus with no fingerprint.
+But this simply isn't the case as demonstrated by a 2002 paper[fn:109] where researchers were able to assemble a full-length, infectious clone of a mouse coronavirus that was 31.5 kb, so larger than the current coronavirus. What is important is that this cloning resulted in no nucleotide changes --- that is, that since 2002 we have had a method for constructing a virus with no fingerprint.
 
 The authors proudly note that:
 #+begin_quote
@@ -593,9 +661,9 @@ We can find every piece of that virus. We can find these pieces in other very si
 #+end_quote
 As opposed to all those chimeras that were made using no natural parts.
 *** Andersen's counter
-Kristian G. Andersen's Nature article, [[https://www.nature.com/articles/s41591-020-0820-9]["The proximal origin of SARS-CoV-2"]] is the very root of most "proofs" of the viruses natural origin, being the sole reference the official WHO report cites to ignore a synthetic origin,[fn:74] and the most downloaded article of 2020, according to it's authors.[fn:75] The hope, among those who cite it, being that upon baring witness to a fancy paper in a fancy journal with such prestige that the sceptic will be freightened into submission.
+Kristian G. Andersen's Nature article, [[https://www.nature.com/articles/s41591-020-0820-9]["The proximal origin of SARS-CoV-2"]] is the very root of most "proofs" of the viruses natural origin, being the sole reference the official WHO report cites to ignore a synthetic origin,[fn:110] and the most downloaded article of 2020, according to it's authors.[fn:111] The hope, among those who cite it, being that upon baring witness to a fancy paper in a fancy journal with such prestige that the sceptic will be freightened into submission.
 
-Vindent Racaniello of /This Week in Virology/ says about this article:[fn:76]
+Vindent Racaniello of /This Week in Virology/ says about this article:[fn:112]
 #+begin_quote
 I wish [lab-leak supporters] would actually read it, because if they did they would not be saying some of the things they do.
 #+end_quote
@@ -616,7 +684,7 @@ While the analyses above suggest that SARS-CoV-2 may bind human ACE2 with high a
 #+end_quote
 Ok so, these virologists love to hide their bullshit in fancy language so let me break down what is being said here.
 
-He is saying that there was a previous paper[fn:77] that predicted an optimum binding for a coronavirus to have with ACE2, and the CCPVirus uses, in his words, "another optimal binding solution," so it's still optimal, but not what he already knew about. So the argument is essentially that because the prior paper didn't predict this, equally good, binding that it must have arisen naturally. Because those scientists are known for giving up after finding a single solution.
+He is saying that there was a previous paper[fn:113] that predicted an optimum binding for a coronavirus to have with ACE2, and the CCPVirus uses, in his words, "another optimal binding solution," so it's still optimal, but not what he already knew about. So the argument is essentially that because the prior paper didn't predict this, equally good, binding that it must have arisen naturally. Because those scientists are known for giving up after finding a single solution.
 
 Don't believe me? It is spelled out in plainer terms whilst theorising as to it's natural origin:
 #+begin_quote
@@ -678,23 +746,23 @@ pangolin‐derived CoV has identical residues in five critical amino acids of th
 I would like to know what exactly about those notable features show that it's impossible to have taken the RBD from some pangolin virus for use in your chimera, seems to me that those notable features in fact reinforce the lab-leak theory, as I demonstrated above.
 
 ***** RmYN02
-Hakim does give us an interesting argument though, and one which I have not seen elsewhere, he notes the existence of RmYN02; a bat-derived CoV said to be collected in 2019 as reported in June 2020 by CCP scientists -- including from the WIV,[fn:78] so take this with a grain of salt -- lead by Hong Zhou.
+Hakim does give us an interesting argument though, and one which I have not seen elsewhere, he notes the existence of RmYN02; a bat-derived CoV said to be collected in 2019 as reported in June 2020 by CCP scientists -- including from the WIV,[fn:114] so take this with a grain of salt -- lead by Hong Zhou.
 
-Hakim correctly reports that RmYN02 shares a great sequence identity with SARS-2 across its entire genome, but crucially it is very dissimilar in the all-important RBD, with the authors that published its existence doubting that it could bind to ACE2 at all.[fn:79] The notable feature of this virus is the preported insertion of a P-AA at the S1/S2 subunit exactly where our friend PRRA was found, concluding that insertions can happen at this site in nature therefore the PRRA insertion must have been natural.
+Hakim correctly reports that RmYN02 shares a great sequence identity with SARS-2 across its entire genome, but crucially it is very dissimilar in the all-important RBD, with the authors that published its existence doubting that it could bind to ACE2 at all.[fn:115] The notable feature of this virus is the preported insertion of a P-AA at the S1/S2 subunit exactly where our friend PRRA was found, concluding that insertions can happen at this site in nature therefore the PRRA insertion must have been natural.
 
 But this entirely misses the point; I know of nobody that claims that natural insertions /cannot/ happen, only that the insertion must come from somewhere and that it is mighty convenient that the insertion of PRRA included /only/ what would be beneficial to the virus, being seemingly the perfect insertion that could have occurred.
 
 ****** Does it actually have a PAA insertion?
-I was ready to publish this document with just the response above to Hakim's RmYN02 argument but it just didn't sit right with me that the WIV should get such a pass, so I decided I would try to analyse it in a similar manner as was done to RaTG13. In my research on how to do this I stumbled on an amazing paper[fn:80] by Yuri Deigin and Rossana Segreto that completely smashes the relevance of RmYN02 by showing that the preported PAA insert was just a big fat lie, and that the virus instead has a /deletion/ where the insertion is reported.
+I was ready to publish this document with just the response above to Hakim's RmYN02 argument but it just didn't sit right with me that the WIV should get such a pass, so I decided I would try to analyse it in a similar manner as was done to RaTG13. In my research on how to do this I stumbled on an amazing paper[fn:116] by Yuri Deigin and Rossana Segreto that completely smashes the relevance of RmYN02 by showing that the preported PAA insert was just a big fat lie, and that the virus instead has a /deletion/ where the insertion is reported.
 
-I would like here for it to be absolutely clear that Hakim revised his paper a month after Yuri's came out, and it has now been five months since then. Will Hakim retract or update his argument, or will he conspicuously ignore Yuri and Rossana like Andersen?[fn:81][fn:82]
+I would like here for it to be absolutely clear that Hakim revised his paper a month after Yuri's came out, and it has now been five months since then. Will Hakim retract or update his argument, or will he conspicuously ignore Yuri and Rossana like Andersen?[fn:117][fn:118]
 
 Zhou's argument in favour of there being a PAA insertion relies on the sequence alignment diagram shown below.
 
 #+CAPTION:Supposed insertion of PAA as reported by Zhou et al.
 [[./images/paa-insertion.png]]
 
-Quite conspicuously, around the PAA there are a number of apparent deletions, and as Deigin and Segreto point out:
+No information on the alignment algorithm used to obtain the above diagram is provided by the authors, nor is it stated if any alternative alignments were generated in their analysis. Quite conspicuously, around the PAA there are a number of apparent deletions, and as Deigin and Segreto point out:
 #+begin_quote
 ...no nucleotide alignment of the same region is provided by Zhou et al. that would allow the reader to identify the underlying nucleotides (CCT GCA GCG) coding the claimed PAA insertion in RmYN02 in relation to the other strains analyzed.
 #+end_quote
@@ -852,7 +920,7 @@ Oh, he is relying entirely on RaTG13 being real. The fact that it isn't real mea
 [[./images/syn-vs-nonsyn.png]]
 
 *** Scimex counter
-/Scimex/ published an article[fn:83] in which they include the reaction of four virologists to the lab-leak theory, which I shall address as they are listed.
+/Scimex/ published an article[fn:119] in which they include the reaction of four virologists to the lab-leak theory, which I shall address as they are listed.
 
 **** Edward Holmes
 Professor Edward Holmes is an evolutionary virologist and a member of the Charles Perkins Centre and the Marie Bashir Institute for Infectious Diseases and Biosecurity at the University of Sydney, he is also one of Andersen's co-authors from my criticism above (see: [[Andersen's counter]]).
@@ -898,17 +966,17 @@ Whilst there is absolutely no evidence to support the conspiracy theories being 
 #+end_quote
 Yes, it wouldn't be surprising to see a natural pandemic CoV, but it also isn't surprising to see a virus created through gain-of-function research causing a pandemic. It seems that what he is saying in the tail there is that it looks like bat CoV's, therefore it isn't lab-made. This is among the worst of the virologist reasoning I have addressed in this document.
 *** Robert Garry's counter
-Robert Garry Jr. is a professor at the Tulane University's School of Medicine.[fn:84] In addition to his co-authorship on the Andersen paper, he provides a further counter in an interview[fn:85] with /This Week in Virology/.
+Robert Garry Jr. is a professor at the Tulane University's School of Medicine.[fn:120] In addition to his co-authorship on the Andersen paper, he provides a further counter in an interview[fn:121] with /This Week in Virology/.
 
 **** He Stands By The Andersen Paper
-Garry claims in this interview that:[fn:86]
+Garry claims in this interview that:[fn:122]
 #+begin_quote
 our conclusion in the analysis was that it was very unlikely that [it] was a constructed virus... and thats held up... our conclusion that it didn't leak from a lab is even stronger today...
 #+end_quote
 So Garry cannot claim the ignorance of February as a shield against criticism here, he thinks that Andersen's analysis holds up in late May 2021 when this interview was released. Even after all of the evidence in this document is out on the internet, for free, Garry still endorses the absolute shitstain of a paper that is /The Proximal Origin of SARS-CoV-2/.
 
 **** Sitting in a Shi
-Further along in the most softball interview ever, Vincent who is the main interviewer asks Garry the following question:[fn:87]
+Further along in the most softball interview ever, Vincent who is the main interviewer asks Garry the following question:[fn:123]
 #+begin_quote
 Interviewer: so some people are thinking, "ok, RaTG13 is not close enough but they probably had something close and they just didn't tell us," and you're saying that's ridiculous.
 
@@ -916,7 +984,7 @@ Robert Garry: I am basically saying there's no evidence for that --- I mean I've
 #+end_quote
 So Garry's evidence that there is no evidence, is that he has heard Dr. Shi talk and she just sounds so darn trust-worthy. I should bring up here that I have heard the safety director of Chernobyl talk and boy he sounds just swell --- I trust that he isn't involved in a deep conspiracy to blanket Europe in radiation, because as we know a conspiracy is the only way such a thing could happen, and not dangerous experimentation.
 
-Freelance science journalist and another co-host, Alan Dove, expands on that with the following:[fn:88]
+Freelance science journalist and another co-host, Alan Dove, expands on that with the following:[fn:124]
 #+begin_quote
 Alan Dove: It also seems as if, for something like that to have happened, the more you think about it the larger the group of people you would need to be involved at various steps of not only the initial experiment, but also the subsequent coverup. And the probability of keeping something like that secret, particularly when you're dealing with a group of scientists --- I mean for petes sake, these are the worst secret keepers in the world, and they can't agree on anything, and this large amorphous group of scientists is somehow perfectly keeping all these secrets...
 #+end_quote
@@ -929,7 +997,7 @@ Robert Garry: It's totally out of character too, alan, because what Dr. Shi and 
 Forgetting of course RaTG13 which Shi forgot to publish for 7 years, moreover this presupposes that the WIV do publish all of their research, which is exactly what Garry is attempting to show, so he is begging the question. It would be like to show that I wasn't a liar, I said, "hey look at these times that I told the truth."
 
 **** WIV Researchers Sick
-In a change of subject, Dickson Despommier, brings up the WIV researchers who were sick with Flu symptoms prior to the outbreak, which I discuss above, Garry's response to that is as follows:[fn:89]
+In a change of subject, Dickson Despommier, brings up the WIV researchers who were sick with Flu symptoms prior to the outbreak, which I discuss above, Garry's response to that is as follows:[fn:125]
 #+begin_quote
 Robert Garry: I think that's an intelligence report, and it came at the end of the Trump administration, so you can factor that in however you wish to do that.
 
@@ -939,16 +1007,16 @@ Robert Garry: But think about that for a little bit, ok, if there were 2/3 peopl
 #+end_quote
 I'm not entirely sure why Garry splits it up by saying /the other point/, because to take this as 2 separate points is to make his primary argument against people being sick at the lab the fact that people would have to be sick at the lab, but considering some of the reasoning in the Andersen paper I wouldn't put it past him. Now to address /the other point/, he relies entirely on WIV data, to prove the WIV's innocence. In other words it's the old, "we have investigaged ourselves and found no wrongdoing."
 
-Now I need to mention here, because they really start to hone in on the fact that this was released by the Trump administration, that the Biden Administration is continuing the lab-leak investigation and a senior State Department official under Biden told Josh Rogin of /The Washington Post/ that:[fn:90]
+Now I need to mention here, because they really start to hone in on the fact that this was released by the Trump administration, that the Biden Administration is continuing the lab-leak investigation and a senior State Department official under Biden told Josh Rogin of /The Washington Post/ that:[fn:126]
 #+begin_quote
 No one is disputing the information, the fact that these data points exist, the fact that they are accurate.
 #+end_quote
 So this is absolutely not something that the Trump administration just made up, as Dove would love to point out, it would take a great number of people, who disagree on a lot, to cover this up. And this was all over 2 months before the interview was published to youtube, giving the commentators ample opportunity to hear of it.
 
-In between the choruses of orange man bad Robert Garry was able to get out that his colleague, Andrew Rambaut, who is yet another co-author on the Andersen paper, estimates that the virus may have originated in october.[fn:91] Now doesn't October sound familiar? Where have I heard that? Oh yeah! The WIV shut down in mid October and that's around about when those researchers were sick with flu symptoms. Funny that Garry skimmed over that little detail.
+In between the choruses of orange man bad Robert Garry was able to get out that his colleague, Andrew Rambaut, who is yet another co-author on the Andersen paper, estimates that the virus may have originated in october.[fn:127] Now doesn't October sound familiar? Where have I heard that? Oh yeah! The WIV shut down in mid October and that's around about when those researchers were sick with flu symptoms. Funny that Garry skimmed over that little detail.
 
 **** To B or no to B
-Later, Garry finally brings an interesting argument to the table:[fn:92]
+Later, Garry finally brings an interesting argument to the table:[fn:128]
 #+begin_quote
 Robert Garry: Everybody's heard about the B lineages... there's also an A lineage... the A to B lineage split happened very early in the city of Wuhan, and the WHO report is very granular, very clear about this...
 
@@ -961,7 +1029,7 @@ Robert Garry: You had an animal or 2 that was infected with lineage A, they went
 And my retort is quite simple, let us replace those animals that are infected with the different lineages and went to different markets with lab workers who were infected with different lineages and went to different markets. In a way it's more believable to me that different lab workers would have different markets that they pick their dinner up from than it would be that a dealer would split up a group of infected animals and sell them off to all of these different markets, especially considering no bat or pangolin was sold at the Huanan market.
 
 **** "If there's evidence, bring it forth!" --- Daszak
-In the podcast there is a segment where each host talk about an article they find interesting in what they call their "pick of the week." Both the main host, Vincent, and Robert Garry pick an article in /Nature/ by Amy Maxmen entitled, [[https://www.nature.com/articles/d41586-021-01383-3][Divisive COVID ‘lab leak’ debate prompts dire warnings from researchers]]. About this, they say the following:[fn:93]
+In the podcast there is a segment where each host talk about an article they find interesting in what they call their "pick of the week." Both the main host, Vincent, and Robert Garry pick an article in /Nature/ by Amy Maxmen entitled, [[https://www.nature.com/articles/d41586-021-01383-3][Divisive COVID ‘lab leak’ debate prompts dire warnings from researchers]]. About this, they say the following:[fn:129]
 #+begin_quote
 Vincent Racaniello: It's OK, we can do a double pick, it's a great article, and this is why --- you know the /Science/ letter from the scientists, Tony Fauci and other scientists suddenly saying, "yeah, this is possible, we should look into it," ... it's just crazy, because theres no evidence, as you have said, there's no evidence for a lab-leak, there's plenty of evidence for a natural origin.
 
@@ -974,14 +1042,14 @@ Vincent Racaniello: As Peter Daszak said, "hey, if anybody has evidence about th
 Hopefully Alan got many headpats for his little defence of lord Fauci there, I would like to put forth now, on the record, that I challenge every single virologist I criticise in this document to a recorded debate. If they think that there is /no/ evidence they should wipe the floor with me. It can be on their channel in front of a friendly audience if they wish, so long as my channel is linked in the description. Moreover I want to highlight again that the WHO report that Daszak mentions there cites only the Andersen paper as proof that there wasn't a lab leak, this is one big circlejerk.
 
 **** Dove's Appeal to Morality
-After some hilarious back and forth where they started claiming that they were in the minority after previously claiming to have the biggest article of the year, Dove swoops in with the world's smallest violin:[fn:94]
+After some hilarious back and forth where they started claiming that they were in the minority after previously claiming to have the biggest article of the year, Dove swoops in with the world's smallest violin:[fn:130]
 #+begin_quote
 Alan Dove: One thing I try to point out whenever this comes up is, the people who are arguing, "oh, it could have come from a lab..." You know, when you say stuff like that... you're lodging charges against identifiable people. This is not a trivial matter, this is something where there are individuals, the lab has a director who is responsible for it, and you're saying, "they screwed up, and they're covering up." I mean, thats the charge that is being lodged, when you make this argument. I'm not saying that we... can say that it's impossible, but just, we need to approach this with scepticism and we need to insist on actual evidence and not just speculate.
 #+end_quote
 I would like to be absolutely clear that I am indeed accusing the Wuhan Institute of Virology of the creation of the virus that has now killed over 3 million people, I do not shy away from this. They /did/ screw up, and the CCP /is/ covering it up.
 
 **** The Furin Cleavage Site
-About half way in they wiggle their way around and onto the topic of the furin cleavage site, which I have described above and shown it to be a strong piece of evidence in favour of lab-leak, let's see what the TWiV team say:[fn:95]
+About half way in they wiggle their way around and onto the topic of the furin cleavage site, which I have described above and shown it to be a strong piece of evidence in favour of lab-leak, let's see what the TWiV team say:[fn:131]
 #+begin_quote
 Vincent Racaniello: Robert, can we talk about the furin site because, in fact, I think this has fuelled a lot of the recent discussion --- a very prominent virologist [note: they are talking about David Baltimore] said the furin site is a "smoking gun" for the lab origin of SARS-CoV-2, so let's debunk that please.
 
@@ -1042,7 +1110,7 @@ Alan Dove: So it actually takes a lot of work to see that, when you look at the 
 Again, I must stress that absolutely nobody that I have come across in my research asserts that you cannot see any sort of insertion naturally, that is a strawman. What the lab-leakers propose is that you're unlikely to see such a perfect insertion by chance, and that that insertion has to come from somewhere. There has to be some parent virus prior to the recombination that the CCP have made seemingly no effort to find.
 
 **** The Mask Slips
-As I mentioned above, the reason why these virologists are engaging in such sophistry is because their entire profession is pegged on gain-of-function research. The real shame would be if there was this lab-leak and it made people want to stop creating monster viruses, we need this research now more than ever they must think. And the TWiV team touch on that very topic in this interview:[fn:96]
+As I mentioned above, the reason why these virologists are engaging in such sophistry is because their entire profession is pegged on gain-of-function research. The real shame would be if there was this lab-leak and it made people want to stop creating monster viruses, we need this research now more than ever they must think. And the TWiV team touch on that very topic in this interview:[fn:132]
 #+begin_quote
 Vincent Racaniello: Well Robert, there are some people who argue that we shouldn't even be studying these SARS-like coronaviruses from bats in the lab, which to me is preposterous, right?
 
@@ -1051,7 +1119,7 @@ Robert Garry: I mean, ignorance is hardly ever the best choice [to make]. I thin
 To be clear, I do not propose that we stop studying viruses at all, I propose that we stop making new superviruses, to lump both into the same category in this plea of; "it's all or nothing," is a weak little tactic. Moreover he presupposes that this did emerge from nature but thats exactly what he is arguing. In the far more likely event that it's lab made he is saying; "we need to conduct gain-of-function research to protect ourselves against gain-of-function research."
 
 **** RaTG13
-Above you will remember I laid out /extensive/ evidence indicating that RaTG13 is not a real virus, and was instead a desperate effort by Shi Zhengli to remove suspicion. Let's see how much of that evidence the TWiV boys address:[fn:97]
+Above you will remember I laid out /extensive/ evidence indicating that RaTG13 is not a real virus, and was instead a desperate effort by Shi Zhengli to remove suspicion. Let's see how much of that evidence the TWiV boys address:[fn:133]
 #+begin_quote
 Vincent Racaniello: One thing I forgot to bring up, Robert, there's another paper on virological from February, with the same team [note: he is referring to the /Proximal Origins/ team], [[https://virological.org/t/spike-protein-sequences-of-cambodian-thai-and-japanese-bat-sarbecoviruses-provide-insights-into-the-natural-evolution-of-the-receptor-binding-domain-and-s1-s2-cleavage-site/622][Spike protein sequences of Cambodian, Thai and Japanese bat sarbecoviruses provide insights into the natural evolution of the Receptor Binding Domain and S1/S2 cleavage site]]. What's that about?
 
@@ -1060,12 +1128,90 @@ Robert Garry: OK, so some of the lab-leak proponents have also been pointing to 
 Robert Garry: Thats what this paper is actually about, because there have been viruses that have been isolated and sequenced since the pandemic started, a cambodian virus from bats there, a Thai virus, a Japanese virus, and the purpose of that virological post was to show that they have what we call motifs --- things that are, you know, short sequences of amino acids. There's one sequence QTN that is right before the furin cleavage site... and that motif is actually found in some of these other viruses, it's in the [GD Pangolin-CoV], its in the Cambodian bat coronavirus, it's a sequence that we didn't know about before SARS-CoV-2 but here it is in a virus [that was] isolated and sequenced after the pandemic started so how could a virologist know to actually put that exact sequence in the SARS-CoV-2?
 #+end_quote
 Oh so he decided to address fucking none of the evidence that RaTG13 is fake, and instead goes with; "we have found something new about coronavirus RBD's since the pandemic, so ha!" Who is saying that Shi had to have known about the QTN motif to put it in? Could she not have just taken the wholeass RBD from GD Pangolin-CoV and spliced it in as it very much appears she did? Do I need to know why gunpowder explodes to make a bullet? Or can I just observe that it does explode and not care about the details?
-** Fauci's Emails: The Nail in the Coffin
+*** Amy Maxmen's counter
+You heard the hyping up of Amy Maxmen's article, [[https://www.nature.com/articles/d41586-021-01383-3][Divisive COVID ‘lab leak’ debate prompts dire warnings from researchers]], above in Robert Garry's appearence on TWiV, let's take a closer look at it.
+
+Right off the bat Amy politicises the issue by pretending that it's somehow a Republican thing to call out the WIV, saying:
+#+begin_quote
+Calls to investigate Chinese laboratories have reached a fever pitch in the United States, as Republican leaders allege that the coronavirus causing the pandemic was leaked from one
+#+end_quote
+So I shall state right here that I am not a Republican, or a Trump supporter, I am an anarchist, I hold no party allegiane. This not an issue of left vs right, this is an issue of cold hard scientific fact vs wishful thinking by CCP simps.
+
+And this article reads like quite the CCP simpfest, as Amy continues:
+#+begin_quote
+Global-health researchers also warn that the growing demands are exacerbating tensions between the United States and China ahead of crucial meetings at which world leaders will make high-level decisions about how to curb the pandemic and prepare for future health emergencies.
+#+end_quote
+You know what has exacerbated tensions, it's the fact that the CCP created a supervirus that has now killed over 3 million people, that exacerbated tensions, Amy, not the calling out of the creation of that supervirus.
+
+#+begin_quote
+Others worry that the rhetoric around an alleged lab leak has grown so toxic that it’s fuelling online bullying of scientists and anti-Asian harassment in the United States, as well as offending researchers and authorities in China whose cooperation is needed.
+#+end_quote
+Those scientists deserve bullying, I don't care that murderous CCP authorites are offended by lab-leak, they are also offended by mentions of the Tiananmen Square massacre. Shall we avoid calling out that mass killing out of worry that it will sour relations?
+
+**** Fever Pitch
+#+begin_quote
+The debate over the lab-leak hypothesis has been rumbling since last year. But it has grown louder in the past month — even without strong supporting evidence.
+#+end_quote
+I wonder how much willpower it took for Amy to not cite the Andersen article there. Again, I challenge Amy to a debate under the conditions I proposed above, if there is no strong supporting evidence she should win.
+
+#+begin_quote
+On 14 May, 18 researchers published a letter in Science1 arguing that the idea of the coronavirus SARS-CoV-2 leaking from a lab in China must be explored more deeply. It points out that the first phase of a COVID-19 origins investigation sponsored by the WHO, which released a report in March, focused more on the virus coming from an animal than on its potential escape from a lab... Many virologists say that this focus is warranted, because most emerging infectious diseases begin with a spillover from nature, as seen with HIV, Zika and Ebola. Genomic evidence also suggests that a virus similar to SARS-CoV-2 originated in horseshoe bats (Rhinolophus spp.), before spreading to an unknown animal that then passed the pathogen to people.
+#+end_quote
+Interesting that Amy leaves out the fact that the WHO's /final/[fn:134] report on the matter completly brushes over the lab-leak theory by citing the debunked Andersen article:
+#+begin_quote
+We did not consider the hypothesis of deliberate release or deliberate bioengineering of SARS-CoV-2 for release, the latter has been ruled out by other scientists following analyses of the genome (3).
+#+end_quote
+Where (3) is /The proximal origin of SARS-CoV-2/. So don't pretend that it's just a /focus/ on a natural origin, they put absolutely no thought into the possibility of a lab origin.
+
+Amy continues:
+#+begin_quote
+The investigation concluded that an animal origin was much more likely than a lab leak.
+#+end_quote
+Except, that "investigation" involved investigating, at least when it came to lab-leak, it just cited Andersen and decided that that would be the end of it. The WHO team was rotten to it's core, and they did a terrible job.
+
+#+begin_quote
+But since then, politicians, journalists, talk-show hosts and some scientists have put forward unsubstantiated claims linking the coronavirus to the Wuhan Institute of Virology (WIV), in the Chinese city where COVID-19 was first detected. Some members of US Congress and the media have gone further, alleging that the Chinese government is covering up a SARS-CoV-2 leak from the WIV, and even that Anthony Fauci, director of the US National Institute of Allergy and Infectious Diseases (NIAID), is involved, because NIAID funded some studies at the WIV. The WIV and Fauci have denied this, saying that they did not encounter SARS-CoV-2 until after the virus was isolated from patients in late December 2019.
+#+end_quote
+They aren't unsubstantiated though, stop fucking lying Amy, address Yuri Deigin's arguments, address Rossana Segreto. As I mention in this document, the CCP did /extensive/ covering up, this is regardless of whether it's a lab-leak, and I will show Fauci's connections below.
+
+**** Scientists at odds
+#+begin_quote
+Kristian Andersen, a virologist at Scripps Research in La Jolla, California, maintains that no strong evidence supports a lab leak, and he worries that hostile demands for an investigation into the WIV will backfire, because they often sound like allegations. He says this could make Chinese scientists and officials less likely to share information.
+#+end_quote
+Imagine this:
+#+begin_quote
+Kristian Andersen, a nuclear physicist at Scripps Research in La Jolla, California, maintains that no strong evidence supports a meltdown, and he worries that hostile demands for an investigation into the Chernobyl nuclear plant will backfire, because they often sound like allegations. He says this could make Soviet scientists and officials less likely to share information.
+#+end_quote
+I hope that this doesn't just sound vaguely like an allegation, because I intend it to be a very strong allegation of the cause of over 3 million deaths by the WIV.
+
+**** Diplomacy distraction
+#+begin_quote
+[David Fidler, a global-health researcher at the Council on Foreign Relations,] says that the escalating demands and allegations are contributing to a geopolitical rift at a moment when solidarity is needed. “The United States continues to poke China in the eye on this issue of an investigation,” he says. Even if COVID-19 origin investigations move forward, Fidler doesn’t expect them to reveal the definitive data that scientists seek any time soon.
+#+end_quote
+China not revealing definitive data? What's another phrase for that? I think it rhymes with "lover cup," but I just cant remember. I'm sure it'll come to me at some point.
+
+** Fauci's Emails
 I will be eternally grateful that I took so long to finish this document, because as a result I have been gifted with the perfect ammunition against the virological establishment in the form of Anthony Fauci's emails.
 
 And before you assume that the information I present here is fake I point out that it was all the result of a FOIA request by Buzzfeed News, hardly a right wing conspiracy site.
 
 /The page numbers I refer to in this document will be based on [[https://patriots.win/p/12ih58cg0U/dr-mengele-fauci-foia-dump-origi/][this pdf]] ([[https://www.documentcloud.org/documents/20793561-leopold-nih-foia-anthony-fauci-emails][alt]])/
+
+*** Censored emails
+Unfortunately, many of the emails are heavily censored, and often Fauci would simply move conversations over sensative topics to conference calls, like the conversation below discussing an article by ZeroHedge about the CCPVirus that got them banned from twitter. This conversation included many heavyweights, including much of the /Proximal Origins/ co-authors, and some of the WHO team, who participated in two conference calls with subsequent email discussion, all of which is heavily redacted.
+
+#+CAPTION:Emails are found on pages 3125--3135
+[[./images/email-zh-0.png]]
+[[./images/email-zh-1.png]]
+[[./images/email-zh-2.png]]
+[[./images/email-zh-3.png]]
+[[./images/email-zh-4.png]]
+[[./images/email-zh-5.png]]
+[[./images/email-zh-6.png]]
+/...entirely redacted page.../
+[[./images/email-zh-7.png]]
+[[./images/email-zh-8.png]]
+[[./images/email-zh-9.png]]
 
 *** Andersen flip-flopping on lab-leak
 #+CAPTION:Email found on page 3187
@@ -1078,7 +1224,27 @@ admitting that the features look to be engineered, elaborating by saying:
 #+begin_quote
 I should mention that after discussions earlier today, Eddie, Bob, Mike, and myself all find the genome inconsistent with expectations from evolutionary theory .
 #+end_quote
-Interesting that they never seem to admit publicly that they used to all suspect a lab origin, in fact they say quite the opposite, that there is absolutely no evidence for lab origin, as I'm sure I displayed above. I am interested to know what information they gathered over that weekend that so thoroughly debunked lab-leak that they didn't even mention their suspicions in the proximal origins paper. I am also interested to know why they never use this bombshell information in debates with lab leakers.
+Interesting that they never seem to admit publicly that they used to all suspect a lab origin, in fact they say quite the opposite, that there is absolutely no evidence for lab origin, as I'm sure I displayed above.
+
+I am interested to know what information they gathered over that weekend that so thoroughly debunked lab-leak that they didn't even mention their suspicions in the proximal origins paper. I am also interested to know why they never use this bombshell information in debates with lab leakers.
+
+Worth noting is that on the Saturday of the super-weekend was the first conference call mentioned above, and the Sunday saw the second one. Strange that such a heavily-redacted conversation contained so much bombshell information.
+
+*** Tasks that must be done
+#+CAPTION:Email found on page 3187
+[[./images/email-tasks-that-must-be-done.png]]
+On the 1st of February Fauci sends an email to his colleague, Hugh Auchincloss, with the subject line, "IMPORTANT." He attaches to this email a paper co-authored by Ralph Baric and Shi Zhengli in /Nature/ medicine titled "SARS Gain of Function.pdf," likely [[https://www.nature.com/articles/nm.3985/][Shi, Baric, et al. "A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence."]] This paper is one of Shi's paper centered around doing gain-of-funciton research on bat coronaviruses. About this, Fauci writes:
+#+begin_quote
+Hugh:
+
+It is essential that we speak this AM. Keep your cell phone on... Read this paper as well as the e-mail that I will forward to you now. You will have tasks today that must be done.
+#+end_quote
+That email that Fauci forwards is an article by Jon Cohen entitled; "Mining coronavirus genomes for clues to the outbreak's origins." I certainly want to know what those tasks that must be done are, and what they have to do with gain-of-funciton research at the WIV.
+
+Auchincloss later responds, saying that someone at the NIH called Emily will try to determine if the NIH has any ties to gain-of-function research abroad.
+
+#+CAPTION:Email found on page 3206
+[[./images/email-auchincloss-responds.png]]
 
 *** "please handle"
 #+CAPTION:Email found on page 3187
@@ -1103,15 +1269,17 @@ I know, it sounds silly just suggesting that such a thing could have occurred in
 * This research would not be without precedent
 Scientists have been monkeying around with viruses for years, and these viruses often escape.
 
-The smallpox virus escaped three times from labs in England in the 1960’s and 1970’s,[fn:98] causing 80 cases and 3 deaths, the 2007 foot and mouth outbreak emerged in a similar manner. The 1977 H1N1 pandemic was caused by a leak from a Chinese facillity.[fn:99] The 1995 Venezuelan equine encephalitis (VEE) outbreak was also caused by a lab-leak.[fn:100] The USSR caused the 1971 Aral smallpox incident,[fn:101] in 1971 they caused both a self-inflicted marburg virus infection,[fn:102] and the Sverdlovsk Anthrax Leak.[fn:103] There was also a self-inflicted ebola infection at a former Soviet bio-weapons lab in 2004.[fn:104] A bubonic plague outbreak in Chicago was caused by a 2009 lab-leak.[fn:105] Notably, the SARS1 virus has proved a true escape artist, leaking from laboratories in Singapore,[fn:106] Taiwan,[fn:107] and no less than four times from the Chinese National Institute of Virology in Beijing.[fn:108] The reason SARS1 was so hard to contain was the lack of a vaccine, giving researchers no protection after exposure.
+The smallpox virus escaped three times from labs in England in the 1960’s and 1970’s,[fn:135] causing 80 cases and 3 deaths, the 2007 foot and mouth outbreak emerged in a similar manner. The 1977 H1N1 pandemic was caused by a leak from a Chinese facillity.[fn:136] The 1995 Venezuelan equine encephalitis (VEE) outbreak was also caused by a lab-leak.[fn:137] The USSR caused the 1971 Aral smallpox incident,[fn:138] in 1971 they caused both a self-inflicted marburg virus infection,[fn:139] and the Sverdlovsk Anthrax Leak.[fn:140] There was also a self-inflicted ebola infection at a former Soviet bio-weapons lab in 2004.[fn:141] A bubonic plague outbreak in Chicago was caused by a 2009 lab-leak.[fn:142] Notably, the SARS1 virus has proved a true escape artist, leaking from laboratories in Singapore,[fn:143] Taiwan,[fn:144] and no less than four times from the Chinese National Institute of Virology in Beijing.[fn:145] The reason SARS1 was so hard to contain was the lack of a vaccine, giving researchers no protection after exposure.
 
-Researchers at the CDC have recreated the 1918 flu virus,[fn:109] the almost-extinct polio virus has been synthesized from its published genetic sequence.[fn:110] The WHO have backed research that introduces smallpox genes into releted poxviruses.[fn:111] In 2007 the WIV were conducting research into the creation of novel coronaviruses via the insertion of HIV genes to allow for greater infectivity.[fn:112] Again in November 2015 they created a novel virus by taking the backbone of the SARS1 virus and replacing its spike protein with one from another bat virus (known as SHC014-CoV).[fn:113] The WIV have injected their viruses into live animals to study symptoms,[fn:114] and they have used bat coronaviruses to test their disinfecting methods.[fn:115]
+Researchers at the CDC have recreated the 1918 flu virus,[fn:146] the almost-extinct polio virus has been synthesized from its published genetic sequence.[fn:147] The WHO have backed research that introduces smallpox genes into releted poxviruses.[fn:148] In 2007 the WIV were conducting research into the creation of novel coronaviruses via the insertion of HIV genes to allow for greater infectivity.[fn:149] Again in November 2015 they created a novel virus by taking the backbone of the SARS1 virus and replacing its spike protein with one from another bat virus (known as SHC014-CoV).[fn:150] The WIV have injected their viruses into live animals to study symptoms,[fn:151] and they have used bat coronaviruses to test their disinfecting methods.[fn:152]
 
 This research is neither unheard of nor is the escape of viruses from labs. It would stand to reason that it was merely a matter of time until the two events would intersect, that is, it was merely a matter of time until a lab-made virus would escape.
 * Notable Lab-Leak Supporters
 ** Luc Montagnier
 Luc Antoine Montagnier is a French virologist and joint recipient, with Françoise Barré-Sinoussi and Harald zur Hausen, of the 2008 Nobel Prize in Physiology or Medicine for his discovery of the human immunodeficiency virus.
 + says it was an attempt to make an HIV vaccine, possibly carrying on from their research in 2001 that I note above (see: [[This research would not be without precedent]])
+** Robert Redfield
+Dr. Robert Redfield is the former CDC director and he has received death threats[fn:153] for suggesting a lab-leak.
 ** Anthony Fauci
 After shilling for china for over a year, recently Fauci has relented to pressure from Rand Paul and his contemporariaes and has admitted that lab-leak is "higly likely."
 ** /Investigate the origins of COVID-19/
@@ -1162,10 +1330,13 @@ Donald Jr. is another esteemed journalist, wormking as a science and health repo
 =3 000 000= is a hard number to get your head around, it is incredibly huge. I do not think that I am better at virology than the virologists that I have criticised in this document. I think at least a few of them are well aware that they have shovelled intellectual shit onto this situation. I doubt their intentions are so one dimensional as wanting to please daddy Xi, at least for most. They probably take the same view as Antonio Regalado, that it would "shatter the scientific edifice." But I want them to think hard about those =3 000 000= people, I want them to think about their families. I imagine most of these virologists would hate holocaust deniers, I want them to know that they are at least half as bad, and counting...
 * References
 In making this I referenced works by the other listed authors, in alphabetical order, as follows (note: none of them are aware of this work and they have not endorsed it):
++ [[https://www.researchgate.net/publication/344240007_Unusual_Features_of_the_SARS-CoV-2_Genome_Suggesting_Sophisticated_Laboratory_Modification_Rather_Than_Natural_Evolution_and_Delineation_of_Its_Probable_Synthetic_Route][Li-Meng Yan, "Unusual Features of the SARS-CoV-2 Genome Suggesting Sophisticated Laboratory Modification Rather Than Natural Evolution and Delineation of Its Probable Synthetic Route"]]
++ [[https://www.researchgate.net/publication/350523980_The_Wuhan_Laboratory_Origin_of_SARS-CoV-2_and_the_Validity_of_the_Yan_Reports_Are_Further_Proved_by_the_Failure_of_Two_Uninvited_Peer_Reviews_Opening_Statement][Li-Meng Yan, et al. "The Wuhan Laboratory Origin of SARS-CoV-2 and the Validity of the Yan Reports Are Further Proved by the Failure of Two Uninvited "Peer Reviews" Opening Statement"]]
 + [[https://nerdhaspower.weebly.com/ratg13-is-fake.html][Nerd Has Power, "RaTG13 – the undeniable evidence that the Wuhan coronavirus is man-made"]]
 + [[https://nicholaswade.medium.com/origin-of-covid-following-the-clues-6f03564c038][Nicholas Wade, "Origin of Covid — Following the Clues"]]
 + [[https://project-evidence.github.io/][Project E, "Evidence SARS-CoV-2 Emerged From a Biological Laboratory in Wuhan, China"]]
 + [[https://yurideigin.medium.com/lab-made-cov2-genealogy-through-the-lens-of-gain-of-function-research-f96dd7413748][Yuri Deigin, "Lab-Made? SARS-CoV-2 Genealogy Through the Lens of Gain-of-Function Research"]]
++ [[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bies.202100015][Yuri Deigin, Rossana Segreto, "SARS-CoV-2′s claimed natural origin is undermined by issues with genome sequences of its relative strains"]]
 
 * Footnotes
 
@@ -1255,146 +1426,225 @@ In making this I referenced works by the other listed authors, in alphabetical o
 
 [fn:43]https://www.livescience.com/coronavirus-wuhan-lab-complicated-origins.html
 
-[fn:44]Matthieu Boulesteix, et al. "Differences in Genome Size Between Closely Related Species: The /Drosophila melanogaster/ Species Subgroup"
+[fn:44]Highlight based on [[https://www.nature.com/articles/s41586-020-2179-y.pdf][Jian Shang, et al. "Structural basis of receptor recognition by SARS-CoV-2"]]:
+[[./images/sars2-rbm.png]]
 
-[fn:45]Banavali, Nilesh K. (2013). "Partial Base Flipping is Sufficient for Strand Slippage near DNA Duplex Termini". Journal of the American Chemical Society. 135
+[fn:45]Matthieu Boulesteix, et al. "Differences in Genome Size Between Closely Related Species: The /Drosophila melanogaster/ Species Subgroup"
 
-[fn:46]Citation needed for this, I cannot find where I read that so take with a grain of salt.
+[fn:46]Banavali, Nilesh K. (2013). "Partial Base Flipping is Sufficient for Strand Slippage near DNA Duplex Termini". Journal of the American Chemical Society. 135
 
-[fn:47]https://pubmed.ncbi.nlm.nih.gov/33332358/
+[fn:47]Citation needed for this, I cannot find where I read that so take with a grain of salt.
 
-[fn:48][[https://www.asmscience.org/files/Chapter_125_Site-Specific_Recombination.pdf][Howard A. Nash, "Site-Specific Recombination: Integration, Excision, Resolution, and Inversion of Defined DNA Segments"]]
+[fn:48]https://pubmed.ncbi.nlm.nih.gov/33332358/
 
-[fn:49][[https://yurideigin.medium.com/lab-made-cov2-genealogy-through-the-lens-of-gain-of-function-research-f96dd7413748][Yuri Deigin, "Lab-Made? SARS-CoV-2 Genealogy Through the Lens of Gain-of-Function Research"]]
+[fn:49][[https://www.asmscience.org/files/Chapter_125_Site-Specific_Recombination.pdf][Howard A. Nash, "Site-Specific Recombination: Integration, Excision, Resolution, and Inversion of Defined DNA Segments"]]
 
 [fn:50][[https://yurideigin.medium.com/lab-made-cov2-genealogy-through-the-lens-of-gain-of-function-research-f96dd7413748][Yuri Deigin, "Lab-Made? SARS-CoV-2 Genealogy Through the Lens of Gain-of-Function Research"]]
 
 [fn:51][[https://yurideigin.medium.com/lab-made-cov2-genealogy-through-the-lens-of-gain-of-function-research-f96dd7413748][Yuri Deigin, "Lab-Made? SARS-CoV-2 Genealogy Through the Lens of Gain-of-Function Research"]]
 
-[fn:52][[https://pdf.sciencedirectassets.com/271065/1-s2.0-S0166354220X00039/1-s2.0-S0166354220300528/am.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDAaCXVzLWVhc3QtMSJHMEUCIAQkyyI6wfNpDw2Zf6EAsg44f8cFpnrjQ1xIlq3NgIw%2FAiEAgIyZ4JQ4nKVfqZMPkILOS4UWeDVux1AO%2FfwP7rk399kqgwQI2f%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwwNTkwMDM1NDY4NjUiDFXKSJsLiFniG4v3%2ByrXA7oQrNW1jrXijgZLcqqnlOuNDrSkievUEr3DFdLsDKEJK6nOaMPs5VVHFsq%2Fvbg6eb74nJCAE6zEGB8tdsQreV0DJAHwBDRj8%2FXWjUZKWTHstLQ%2FzCTeDzwk4wVm428PnbM6jw0m6uRKlupMQX%2FFZ16h9z1hpLhdZnIJ9gCq7%2FpOp3zNGdjDD3LNo%2B7K3O4QBJJ6dpdoCRgqzotczYBuCkUTpdoY5ZN2Iy0h8Y%2BDzmvNtXinkBVISMVo4cd6tbmxEEybUAXx22B6F14uQ%2F0vPFEp8POdlVfis5Lh1MaDQGFDc0Y4c6YPSmWMXdE2JxGcU8jPz9nM4I%2B%2Bur0uHuzKBngfkC2pZWR0r9p%2BpwugBkWAzkyQ3nRPyv9yTxkUzTj%2FEnSpk3GoQ9%2FB%2FF53tcJBRm2vhKBqaKwHRljh%2FgvaJ4S7ySGjN4YFtO2NABynguncCwsGLZYS0YezsYOiQey%2FWuzCpl%2FYAIZbvEWLlE6qpEZFLFCkAouRJANOk9LnBf08I7dLl%2BVRu2QWlJkD5tX3XRL2kPrTblEtqOXrHajXLQRUKmYkBFTDxloJg%2FG2Mze7sQ6aw97K2%2FhZDP1oAO3nFyk7fzl8B1ylGXqi9%2B%2Bq3LnrQZz%2B3TOZajC3zd6FBjqlAaumxrvv1pNI7tT8DMZmRfj8e0g24og9DGma80F6z%2Bk9umcIM7IDhfEo6ptMSHZKZj5BI7u%2FH656RNO4nsm762JSb9q8%2F%2FKPR7bgxM7Z6bkwO5fkLGItGlrEkYpMFG2Cg11sNNcPm2FRj01%2B1HgWrpLGpTjT6UT6Ie4B8YqRXbPtSzV9iWEOC8Fu98yU13bKLkR1POW2snXAb220Rtd%2B1i%2BLhi%2FWTQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210602T165846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTUY6RA4J%2F20210602%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e89ed46dad3504c629c82869624e86a7e8656dddf58c9d08cb6cbfdafe87d4d0&hash=8b20ccf0510f2c3276012a7c5ae881c27dd741bcf6a2833b19f75c31a0426fb6&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0166354220300528&tid=pdf-d2475a2f-f3a6-4598-943c-f69c88dc4327&sid=7e3dc2035d990240797b2b4-18c1714c1858gxrqb&type=client][B. Coutard, C. Valle, X. de Lamballerie, B. Canard, N. G. Seidah, E. Decroly; "The spike glycoprotein of the new coronavirus 2019-nCoV contains a furin-like cleavage site absent in CoV of the same clade"]]
+[fn:52][[https://yurideigin.medium.com/lab-made-cov2-genealogy-through-the-lens-of-gain-of-function-research-f96dd7413748][Yuri Deigin, "Lab-Made? SARS-CoV-2 Genealogy Through the Lens of Gain-of-Function Research"]]
 
-[fn:53][[https://www.cell.com/action/showPdf?pii=S2589-0042%2820%2930834-8][Canrong Wu et al. "Furin: A Potential Therapeutic Target for COVID-19"]]
+[fn:53][[https://pdf.sciencedirectassets.com/271065/1-s2.0-S0166354220X00039/1-s2.0-S0166354220300528/am.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDAaCXVzLWVhc3QtMSJHMEUCIAQkyyI6wfNpDw2Zf6EAsg44f8cFpnrjQ1xIlq3NgIw%2FAiEAgIyZ4JQ4nKVfqZMPkILOS4UWeDVux1AO%2FfwP7rk399kqgwQI2f%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwwNTkwMDM1NDY4NjUiDFXKSJsLiFniG4v3%2ByrXA7oQrNW1jrXijgZLcqqnlOuNDrSkievUEr3DFdLsDKEJK6nOaMPs5VVHFsq%2Fvbg6eb74nJCAE6zEGB8tdsQreV0DJAHwBDRj8%2FXWjUZKWTHstLQ%2FzCTeDzwk4wVm428PnbM6jw0m6uRKlupMQX%2FFZ16h9z1hpLhdZnIJ9gCq7%2FpOp3zNGdjDD3LNo%2B7K3O4QBJJ6dpdoCRgqzotczYBuCkUTpdoY5ZN2Iy0h8Y%2BDzmvNtXinkBVISMVo4cd6tbmxEEybUAXx22B6F14uQ%2F0vPFEp8POdlVfis5Lh1MaDQGFDc0Y4c6YPSmWMXdE2JxGcU8jPz9nM4I%2B%2Bur0uHuzKBngfkC2pZWR0r9p%2BpwugBkWAzkyQ3nRPyv9yTxkUzTj%2FEnSpk3GoQ9%2FB%2FF53tcJBRm2vhKBqaKwHRljh%2FgvaJ4S7ySGjN4YFtO2NABynguncCwsGLZYS0YezsYOiQey%2FWuzCpl%2FYAIZbvEWLlE6qpEZFLFCkAouRJANOk9LnBf08I7dLl%2BVRu2QWlJkD5tX3XRL2kPrTblEtqOXrHajXLQRUKmYkBFTDxloJg%2FG2Mze7sQ6aw97K2%2FhZDP1oAO3nFyk7fzl8B1ylGXqi9%2B%2Bq3LnrQZz%2B3TOZajC3zd6FBjqlAaumxrvv1pNI7tT8DMZmRfj8e0g24og9DGma80F6z%2Bk9umcIM7IDhfEo6ptMSHZKZj5BI7u%2FH656RNO4nsm762JSb9q8%2F%2FKPR7bgxM7Z6bkwO5fkLGItGlrEkYpMFG2Cg11sNNcPm2FRj01%2B1HgWrpLGpTjT6UT6Ie4B8YqRXbPtSzV9iWEOC8Fu98yU13bKLkR1POW2snXAb220Rtd%2B1i%2BLhi%2FWTQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210602T165846Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTUY6RA4J%2F20210602%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e89ed46dad3504c629c82869624e86a7e8656dddf58c9d08cb6cbfdafe87d4d0&hash=8b20ccf0510f2c3276012a7c5ae881c27dd741bcf6a2833b19f75c31a0426fb6&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0166354220300528&tid=pdf-d2475a2f-f3a6-4598-943c-f69c88dc4327&sid=7e3dc2035d990240797b2b4-18c1714c1858gxrqb&type=client][B. Coutard, C. Valle, X. de Lamballerie, B. Canard, N. G. Seidah, E. Decroly; "The spike glycoprotein of the new coronavirus 2019-nCoV contains a furin-like cleavage site absent in CoV of the same clade"]]
 
-[fn:54][[https://archive.is/XkCN0][The Origins of SARS-CoV-2: Part 2]]
+[fn:54][[https://www.cell.com/action/showPdf?pii=S2589-0042%2820%2930834-8][Canrong Wu et al. "Furin: A Potential Therapeutic Target for COVID-19"]]
 
-[fn:55]Acquired from [[https://www.cell.com/action/showPdf?pii=S2589-0042%2820%2930834-8][Canrong Wu et al. "Furin: A Potential Therapeutic Target for COVID-19"]]
+[fn:55][[https://archive.is/XkCN0][The Origins of SARS-CoV-2: Part 2]]
 
-[fn:56][[https://www.nature.com/articles/s41591-020-0820-9.pdf][Kristian G. Andersen, et al. "The proximal origin of SARS-CoV-2"]]
+[fn:56]Acquired from [[https://www.cell.com/action/showPdf?pii=S2589-0042%2820%2930834-8][Canrong Wu et al. "Furin: A Potential Therapeutic Target for COVID-19"]]
 
-[fn:57]Zhou P, Yang XL, Wang XG, Hu B, Zhang L, Zhang W, et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. 2020.
+[fn:57][[https://www.nature.com/articles/s41591-020-0820-9.pdf][Kristian G. Andersen, et al. "The proximal origin of SARS-CoV-2"]]
 
-[fn:58]https://www.insidehighered.com/news/2018/10/03/book-publishers-part-ways-springer-nature-over-concerns-about-censorship-china
+[fn:58]Zhou, P., Yang, X.-L., Wang, X.-G., Hu, B., Zhang, L., Zhang, W., Si, H.-R., Zhu, Y., Li, B., Huang, C.-L., Chen, H.-D., Chen, J., Luo, Y., Guo, H., Jiang, R.-D., Liu, M.-Q., Chen, Y., Shen, X.-R., Wang, X., Zheng, X.-S., Zhao, K., Chen, Q.-J., Deng, F., Liu, L.L., Yan, B., Zhan, F.-X., Wang, Y.-Y., Xiao, G.-F., Shi, Z.-L. (2020). A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature, 579, 270–273. https://doi.org/10.1038/s41586-020-2012-7
 
-[fn:59]Ge XY, Li JL, Yang XL, Chmura AA, Zhu G, Epstein JH, et al. Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor. Nature. 2013;503(7477):535-8.
+[fn:59][[https://www.nature.com/articles/s41586-020-2951-z][Zhou et al. "Addendum: A pneumonia outbreak associated with a new coronavirus of probable bat origin"]] ([[https://archive.ph/jGIfV][archived]]).
 
-[fn:60]Zeng LP, Gao YT, Ge XY, Zhang Q, Peng C, Yang XL, et al. Bat Severe Acute Respiratory Syndrome-Like Coronavirus WIV1 Encodes an Extra Accessory Protein, ORFX, Involved in Modulation of the Host Immune Response. J Virol. 2016;90(14):6573-82.
+[fn:60][[https://mygenomix.medium.com/the-origin-of-sars-cov-2-is-a-riddle-meet-the-twitter-detectives-who-aim-to-solve-it-5050216fd279][Moreno Colaiacovo, "The origin of SARS-CoV-2 is a riddle: meet the Twitter detectives who aim to solve it"]]
 
-[fn:61]Hu B, Zeng LP, Yang XL, Ge XY, Zhang W, Li B, et al. Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus. PLoS Pathog. 2017;13(11):e1006698.
+[fn:61][[https://www.frontiersin.org/articles/10.3389/fpubh.2020.581569/full][Monali C. Rahalkar and Rahul A. Bahulikar, "Lethal Pneumonia Cases in Mojiang Miners (2012) and the Mineshaft Could Provide Important Clues to the Origin of SARS-CoV-2"]]
 
-[fn:62][[https://www.upi.com/Top_News/World-News/2020/02/18/WHO-confirms-experts-presence-at-coronavirus-epicenter-in-China/8271582041808/][WHO confirms experts' presence at coronavirus epicenter in China]] ([[https://archive.is/sGTiA][archived]])
+[fn:62][[https://onlinelibrary.wiley.com/doi/10.1002/bies.202000240][Segreto, R.; Deigin, Y. "The genetic structure of SARS-CoV-2 does not rule out a laboratory origin"]]
 
-[fn:63]https://news.cgtn.com/news/2020-02-17/Wuhan-based-researcher-refutes-rumor-about-COVID-19-source-OaemKa4hUI/index.html ([[https://archive.is/1prJP][archived]])
+[fn:63][[https://link.springer.com/article/10.1007%2Fs12250-016-3713-9][Xing-Yi Ge, et al. "Coexistence of multiple coronaviruses in several bat colonies in an abandoned mineshaft"]]
 
-[fn:64]https://project-evidence.github.io/#%28part._weibo-message%29
+[fn:64][[https://mygenomix.medium.com/the-origin-of-sars-cov-2-is-a-riddle-meet-the-twitter-detectives-who-aim-to-solve-it-5050216fd279][Moreno Colaiacovo, "The origin of SARS-CoV-2 is a riddle: meet the Twitter detectives who aim to solve it"]]
 
-[fn:65]http://www.ecns.cn/news/sci-tech/2020-02-17/detail-ifztrmvi9821649.shtml ([[https://archive.is/w2d3o][archive]])
+[fn:65]Chen, L., Liu, W., Zhang, Q., Xu, K., Ye, G., Wu, W., Sun, Z., Liu, F., Wu, K., Zhong, B., Mei, Y., Zhang, W., Chen, Y., Li, Y., Shi, M., Lan, K., & Liu, Y. (2020). RNA based mNGS approach identifies a novel human coronavirus from two individual pneumonia cases in 2019 Wuhan outbreak. Emerging Microbes & Infections, 9, 313–319. https://doi.org/10.1080/22221751.2020.1725399
 
-[fn:66][[https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(20)30418-9.pdf][Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19]]
+[fn:66]I don't speak Mandarin so I cannot fully confirm Deigin and Segreto's assertion, they don't elaborate.
 
-[fn:67]https://www.youtube.com/watch?v=IdYDL_RK--w
+[fn:67][[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bies.202100015][Yuri Deigin, Rossana Segreto, "SARS-CoV-2′s claimed natural origin is undermined by issues with genome sequences of its relative strains"]]
 
-[fn:68]https://cgspace.cgiar.org/rest/rest/bitstreams/134550/retrieve
+[fn:68]Xu, L. (2013). The analysis of 6 patients with severe pneumonia caused by unknown viruses (Master’s Thesis). Kunming Medical University, Emergency Medicine (professional degree). http://eng.oversea.cnki.net/Kcms/detail/detail.aspx?filename=1013327523.nh&dbcode=CMFD&dbname=CMFD2014
 
-[fn:69]https://www.sbs.com.au/news/australian-organ-transplant-doctors-defend-china-ties
+[fn:69]Huang, C. (2016). Novel virus discovery in bat and the exploration of receptor of bat coronavirus HKU9. (PhDThesis). Chinese Center for Disease Control and Prevention. http://eng.oversea.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2018&filename=1017118517.nh
 
-[fn:70]https://project-evidence.github.io/#%28part._whcdc%29
+[fn:70]Latham, J., & Wilson, A., A Chinese PhD Thesis sheds important new light on the origin of the COVID-19 coronavirus. https://www.independentsciencenews.org/commentaries/a-chinese-phd-thesis-sheds-important-new-light-on-the-origin-of-the-covid-19-coronavirus/
 
-[fn:71][[https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30251-8/fulltext]]
+[fn:71]Zhou P, Yang XL, Wang XG, Hu B, Zhang L, Zhang W, et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. 2020.
 
-[fn:72]https://twitter.com/60Minutes/status/1259622553682878464
+[fn:72]https://www.insidehighered.com/news/2018/10/03/book-publishers-part-ways-springer-nature-over-concerns-about-censorship-china
 
-[fn:73]Yount, Boyd & Denison, Mark & Weiss, Susan & Baric, Ralph. (2002). Systematic Assembly of a Full-Length Infectious cDNA of Mouse Hepatitis Virus Strain A59. Journal of virology. 76. 11065-78. 10.1128/JVI.76.21.11065-11078.2002.
+[fn:73]Lin, X. & Chen, S. Major Concerns on the Identification of Bat Coronavirus Strain RaTG13 and Quality of Related Nature Paper. Preprints, 2020060044 (2020).
 
-[fn:74][[https://www.who.int/publications/i/item/who-convened-global-study-of-origins-of-sars-cov-2-china-part][WHO-convened Global Study of Origins of SARS-CoV-2: China Part]] p. 118 (3)
+[fn:74]Bengston, D. All journal articles evaluating the origin or epidemiology of SARS-CoV-2 that utilize the RaTG13 bat strain genomics are potentially flawed and should be retracted. OSFPreprints, DOI: 10.31219/osf.io/wy89d (2020).
 
-[fn:75][[https://youtu.be/IxwrDSYrhjU?t=718][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 11:58
+[fn:75]Segreto, R. & Deigin, Y. Is considering a genetic-manipulation origin for SARS-CoV-2 a conspiracy theory that must be censored? Preprint (Researchgate) DOI: 10.13140/RG.2.2.31358.13129/1 (2020).
 
-[fn:76][[https://youtu.be/IxwrDSYrhjU?t=709][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 11:49
+[fn:76]Rahalkar, M.C. & Bahulikar, R.A. Understanding the Origin of ‘BatCoVRaTG13’, a VirusClosest to SARS-CoV-2. Preprints, 2020050322 (2020).
 
-[fn:77][[https://doi.org/10.1128/JVI.00127-20][Wan Y, Shang J, Graham R, Baric RS, LiF. 2020. Receptor recognition by the novelcoronavirus from Wuhan: an analysis based ondecade-long structural studies of SARScoronavirus. J Virol 94:e00127-20.]]
+[fn:77]Rahalkar, M. & Bahulikar, R. The Abnormal Nature of the Fecal Swab Sample used for NGS Analysis of RaTG13 Genome Sequence Imposes a Question on the Correctness of the RaTG13 Sequence. Preprints.org, 2020080205 (2020).
 
-[fn:78]https://pubmed.ncbi.nlm.nih.gov/32416074/
+[fn:78]Singla, M., Ahmad, S., Gupta, C. &Sethi, T. De-novo Assembly of RaTG13 Genome Reveals Inconsistencies Further Obscuring SARS-CoV-2 Origins. Preprints, 2020080595 (doi: 10.20944/preprints202008.0595.v1) (2020).
 
-[fn:79]https://pubmed.ncbi.nlm.nih.gov/32416074/
+[fn:79]Zhang, D. Anomalies in BatCoV/RaTG13 sequencing and provenance. Preprint (zenodo.org), https://zenodo.org/record/3987503#.Xz9GzC-z3GI(2020).
 
-[fn:80][[https://www.researchgate.net/publication/346555084_The_bat_coronavirus_RmYN02_is_characterized_by_a_6-nucleotide_deletion_at_the_S1S2_junction_and_its_claimed_PAA_insertion_is_highly_doubtful][Yuri Deigin; Rossana Segreto, "The bat coronavirus RmYN02 is characterized by a 6-nucleotide deletion at the S1/S2 junction, and its claimed PAA insertion is highly doubtful"]]
+[fn:80][[https://www.researchgate.net/publication/350523980_The_Wuhan_Laboratory_Origin_of_SARS-CoV-2_and_the_Validity_of_the_Yan_Reports_Are_Further_Proved_by_the_Failure_of_Two_Uninvited_Peer_Reviews_Opening_Statement][Li-Meng Yan, et al. "The Wuhan Laboratory Origin of SARS-CoV-2 and the Validity of the Yan Reports Are Further Proved by the Failure of Two Uninvited "Peer Reviews" Opening Statement"]]
 
-[fn:81]Note [[https://twitter.com/ydeigin/status/1399393464543059973 ][this tweet]] ([[https://archive.is/0MOcE][archived]]) by Deigin that shows the [[https://twitter.com/K_G_Andersen/status/1399128264447172611][quoted tweet]] ([[https://archive.is/htonK][archived]]) to be unavailable, yet the tweet has not been deleted, indicating that Andersen has blocked Deigin.
+[fn:81]Reading the wikipedia article ([[https://archive.ph/qYEkN#selection-695.1-699.0][archived]]) on Li-Meng Yan reeks of the same scientism you will see accross the platform when discussing the CCPVirus. The highlighted section shows a deliberate poisoning of the well, in addition to labelling her as a conspiracy theorist right at the head.
 
-[fn:82][[https://twitter.com/Rossana38510044/status/1391546329348837379][Rossana's tweet]] ([[https://archive.is/qd7Sb][archived]]), where she references [[https://twitter.com/K_G_Andersen/status/1380521387362713601][this tweet]] ([[https://archive.is/HLmj9][archived]]) by Andersen, or [[https://twitter.com/Rossana38510044/status/1379631758296150019][another one]] ([[https://archive.is/0DYRa][archived]]) showing her to also be blocked by Nature, Rasmussen, Daszak, and Holmes.
+[fn:82][[https://zenodo.org/record/4073131][Yan, Li-Meng; Kang, Shu; Guan, Jie; Hu, Shanchang; "SARS-CoV-2 Is an Unrestricted Bioweapon: A Truth Revealed through Uncovering a Large-Scale, Organized Scientific Fraud"]]
 
-[fn:83][[https://www.scimex.org/newsfeed/expert-reaction-did-covid-19-come-from-a-lab-in-wuhan][EXPERT REACTION: Did COVID-19 come from a lab in Wuhan?]] ([[https://archive.is/CM9g3][archived]])
+[fn:83]Rahalkar, M. & Bahulikar, R. "The Abnormal Nature of the Fecal Swab Sample used for NGS Analysis of RaTG13 Genome Sequence Imposes a Question on the Correctness of the RaTG13 Sequence." /Preprints.org/, 2020080205 (2020).
 
-[fn:84][[https://medicine.tulane.edu/departments/microbiology-immunology-tulane-cancer-center-tips-advisory-committee-tips-mentor/faculty][Tulane University faculty page]] ([[https://archive.is/AfFRU][archived]])
+[fn:84]Zhang, D. Anomalies in BatCoV/RaTG13 sequencing and provenance. /Preprint (zenodo.org)/, https://zenodo.org/record/3987503#.Xz9GzC-z3GI (2020).
 
-[fn:85]https://www.youtube.com/watch?v=IxwrDSYrhjU
+[fn:85][[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bies.202100015][Yuri Deigin, Rossana Segreto, "SARS-CoV-2′s claimed natural origin is undermined by issues with genome sequences of its relative strains."]] "To verify the criticisms expressed about RaTG13’s low number of bacterial reads being unexpected for a fecal swab, we performed a taxonomic analysis of the raw reads using the NCBI SRA Taxonomy Analysis Tool. Only 0.65% of the raw reads were composed of bacteria and a significant quantity of sequences unexpectedly belonged to species with habitats well outside of Yunnan Province, China (4.6% Rousettus aegyptiacus; 4.6% Marmota marmota marmota; 3.6% Marmota flaviventris). The anomalously low bacterial quantity is striking when compared with the raw reads from Rhinolophus affinis’s fecal swab (SRR11085736) uploaded to Genbank by the WIV on the same day as RaTG13’s dataset (13 February 2020) and which contains 91% bacteria."
 
-[fn:86][[https://youtu.be/IxwrDSYrhjU?t=861][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 14:21
+[fn:86]Zhang, D. (2020). Anomalies in BatCoV/RaTG13 sequencing and provenance. /Zenodo/. http://doi.org/10.5281/zenodo.4064067
 
-[fn:87][[https://youtu.be/IxwrDSYrhjU?t=1343][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 22:23
+[fn:87]Singla, M., Ahmad, S., Gupta, C., & Sethi, T. (2020). De-novo assembly of RaTG13 genome reveals inconsistencies further obscuring SARS-CoV-2 origins. /Preprints/. https://www.preprints.org/manuscript/202008.0595/v1
 
-[fn:88][[https://www.youtube.com/watch?v=IxwrDSYrhjU&t=1382s][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 23:02
+[fn:88][[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bies.202100015][Yuri Deigin, Rossana Segreto, "SARS-CoV-2′s claimed natural origin is undermined by issues with genome sequences of its relative strains"]]
 
-[fn:89][[https://youtu.be/IxwrDSYrhjU?t=1488][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 24:48
+[fn:89]CGTN Exclusive: Director of Wuhan Institute of Virology says 'let science speak'. /CGTN/, https://news.cgtn.com/news/2020-05-23/Exclusive-with-head-of-Wuhan-Institute-of-Virology-Let-science-speak-QJeOjOZt4Y/index.html (2020).
 
-[fn:90][[https://www.washingtonpost.com/opinions/2021/03/09/biden-administration-confirms-some-trump-wuhan-lab-claims/][Opinion: The Biden administration confirms some but not all of Trump’s Wuhan lab claims]] ([[https://archive.ph/yw80n][archived]])
+[fn:90]Cohen, J. Wuhan coronavirus hunter Shi Zhengli speaks out. /Science/, https://science.sciencemag.org/content/369/6503/487 (2020).
 
-[fn:91][[https://youtu.be/IxwrDSYrhjU?t=1930][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 32:10
+[fn:91]Hu, B. et al. Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus. /PLoS Pathog/ *13*, e1006698 (2017).
 
-[fn:92][[https://youtu.be/IxwrDSYrhjU?t=2125][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 35:25
+[fn:92]Cohen, J. Wuhan coronavirus hunter Shi Zhengli speaks out. /Science/, https://science.sciencemag.org/content/369/6503/487 (2020).
 
-[fn:93][[https://youtu.be/IxwrDSYrhjU?t=2985][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 49:45
+[fn:93]Bat coronavirus RaTG13, complete genome, NCBI. https://www.ncbi.nlm.nih.gov/nuccore/MN996532.1 replaced by https://www.ncbi.nlm.nih.gov/nuccore/MN996532
 
-[fn:94][[https://youtu.be/IxwrDSYrhjU?t=3224][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 53:44
+[fn:94]Ge XY, Li JL, Yang XL, Chmura AA, Zhu G, Epstein JH, et al. Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor. Nature. 2013;503(7477):535-8.
 
-[fn:95][[https://youtu.be/IxwrDSYrhjU?t=3328][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 55:28
+[fn:95]Zeng LP, Gao YT, Ge XY, Zhang Q, Peng C, Yang XL, et al. Bat Severe Acute Respiratory Syndrome-Like Coronavirus WIV1 Encodes an Extra Accessory Protein, ORFX, Involved in Modulation of the Host Immune Response. J Virol. 2016;90(14):6573-82.
 
-[fn:96][[https://youtu.be/IxwrDSYrhjU?t=3918][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 1:05:18
+[fn:96]Hu B, Zeng LP, Yang XL, Ge XY, Zhang W, Li B, et al. Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus. PLoS Pathog. 2017;13(11):e1006698.
 
-[fn:97][[https://youtu.be/IxwrDSYrhjU?t=3972][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 1:06:12
+[fn:97][[https://www.cell.com/cell/pdf/S0092-8674(21)00661-9.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421006619%3Fshowall%3Dtrue][Kefang Liu, et al. "Binding and molecular basis of the bat coronavirus RaTG13 virus to ACE-2 inhumans and other species"]]
 
-[fn:98]https://www.businessinsider.com/5-terrifying-times-pandemics-escaped-from-laboratories-2014-7?op=1
+[fn:98][[https://www.upi.com/Top_News/World-News/2020/02/18/WHO-confirms-experts-presence-at-coronavirus-epicenter-in-China/8271582041808/][WHO confirms experts' presence at coronavirus epicenter in China]] ([[https://archive.is/sGTiA][archived]])
 
-[fn:99]https://www.businessinsider.com/5-terrifying-times-pandemics-escaped-from-laboratories-2014-7?op=1
+[fn:99]https://news.cgtn.com/news/2020-02-17/Wuhan-based-researcher-refutes-rumor-about-COVID-19-source-OaemKa4hUI/index.html ([[https://archive.is/1prJP][archived]])
 
-[fn:100]https://www.businessinsider.com/5-terrifying-times-pandemics-escaped-from-laboratories-2014-7?op=1
+[fn:100]https://project-evidence.github.io/#%28part._weibo-message%29
 
-[fn:101]https://www.nytimes.com/2002/06/15/us/traces-terror-bioterror-threat-report-provides-new-details-soviet-smallpox.html
+[fn:101]http://www.ecns.cn/news/sci-tech/2020-02-17/detail-ifztrmvi9821649.shtml ([[https://archive.is/w2d3o][archive]])
 
-[fn:102][[https://www.nlm.nih.gov/nichsr/esmallpox/biohazard_alibek.pdf][Ken Alibek, "Biohazard"]] p. 128
+[fn:102][[https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(20)30418-9.pdf][Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19]]
 
-[fn:103]Meselson, M.; Guillemin, J.; Hugh-Jones, M.; Langmuir, A.; Popova, I.; Shelokov, A.; Yampolskaya, O. (18 November 1994). "The Sverdlovsk anthrax outbreak of 1979". Science. 266 (5188): 1202–1208. doi:10.1126/science.7973702. ISSN 0036-8075. PMID 7973702.
+[fn:103]https://www.youtube.com/watch?v=IdYDL_RK--w
 
-[fn:104]https://www.nytimes.com/2004/05/25/world/russian-scientist-dies-in-ebola-accident-at-former-weapons-lab.html
+[fn:104]https://cgspace.cgiar.org/rest/rest/bitstreams/134550/retrieve
 
-[fn:105]https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6007a1.htm
+[fn:105]https://www.sbs.com.au/news/australian-organ-transplant-doctors-defend-china-ties
 
-[fn:106]https://www.nytimes.com/2003/09/24/world/lab-infection-blamed-for-singapore-sars-case.html
+[fn:106]https://project-evidence.github.io/#%28part._whcdc%29
 
-[fn:107]https://www.who.int/csr/don/2003_12_17/en/
+[fn:107][[https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30251-8/fulltext]]
 
-[fn:108][[https://nicholaswade.medium.com/origin-of-covid-following-the-clues-6f03564c038][Nicholas Wade, "Origin of Covid --- Following the Clues"]]
+[fn:108]https://twitter.com/60Minutes/status/1259622553682878464
 
-[fn:109]https://www.cidrap.umn.edu/news-perspective/2005/10/scientists-recreate-1918-flu-virus-see-parallels-h5n1
+[fn:109]Yount, Boyd & Denison, Mark & Weiss, Susan & Baric, Ralph. (2002). Systematic Assembly of a Full-Length Infectious cDNA of Mouse Hepatitis Virus Strain A59. Journal of virology. 76. 11065-78. 10.1128/JVI.76.21.11065-11078.2002.
 
-[fn:110]https://www.webmd.com/women/news/20020712/polio-virus-created-from-scratch-in-lab
+[fn:110][[https://www.who.int/publications/i/item/who-convened-global-study-of-origins-of-sars-cov-2-china-part][WHO-convened Global Study of Origins of SARS-CoV-2: China Part]] p. 118 (3)
 
-[fn:111]https://www.newscientist.com/article/dn6666-who-backs-genetic-experiments-with-smallpox/
+[fn:111][[https://youtu.be/IxwrDSYrhjU?t=718][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 11:58
 
-[fn:112]https://project-evidence.github.io/#%28part._p1%29
+[fn:112][[https://youtu.be/IxwrDSYrhjU?t=709][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 11:49
 
-[fn:113]https://www.nature.com/news/engineered-bat-virus-stirs-debate-over-risky-research-1.18787#b1
+[fn:113][[https://doi.org/10.1128/JVI.00127-20][Wan Y, Shang J, Graham R, Baric RS, LiF. 2020. Receptor recognition by the novelcoronavirus from Wuhan: an analysis based ondecade-long structural studies of SARScoronavirus. J Virol 94:e00127-20.]]
 
-[fn:114]https://project-evidence.github.io/#%28part._p5%29
+[fn:114]https://pubmed.ncbi.nlm.nih.gov/32416074/
 
-[fn:115]https://project-evidence.github.io/#%28part._p6%29
+[fn:115]https://pubmed.ncbi.nlm.nih.gov/32416074/
+
+[fn:116][[https://www.researchgate.net/publication/346555084_The_bat_coronavirus_RmYN02_is_characterized_by_a_6-nucleotide_deletion_at_the_S1S2_junction_and_its_claimed_PAA_insertion_is_highly_doubtful][Yuri Deigin; Rossana Segreto, "The bat coronavirus RmYN02 is characterized by a 6-nucleotide deletion at the S1/S2 junction, and its claimed PAA insertion is highly doubtful"]]
+
+[fn:117]Note [[https://twitter.com/ydeigin/status/1399393464543059973 ][this tweet]] ([[https://archive.is/0MOcE][archived]]) by Deigin that shows the [[https://twitter.com/K_G_Andersen/status/1399128264447172611][quoted tweet]] ([[https://archive.is/htonK][archived]]) to be unavailable, yet the tweet has not been deleted, indicating that Andersen has blocked Deigin.
+
+[fn:118][[https://twitter.com/Rossana38510044/status/1391546329348837379][Rossana's tweet]] ([[https://archive.is/qd7Sb][archived]]), where she references [[https://twitter.com/K_G_Andersen/status/1380521387362713601][this tweet]] ([[https://archive.is/HLmj9][archived]]) by Andersen, or [[https://twitter.com/Rossana38510044/status/1379631758296150019][another one]] ([[https://archive.is/0DYRa][archived]]) showing her to also be blocked by Nature, Rasmussen, Daszak, and Holmes.
+
+[fn:119][[https://www.scimex.org/newsfeed/expert-reaction-did-covid-19-come-from-a-lab-in-wuhan][EXPERT REACTION: Did COVID-19 come from a lab in Wuhan?]] ([[https://archive.is/CM9g3][archived]])
+
+[fn:120][[https://medicine.tulane.edu/departments/microbiology-immunology-tulane-cancer-center-tips-advisory-committee-tips-mentor/faculty][Tulane University faculty page]] ([[https://archive.is/AfFRU][archived]])
+
+[fn:121]https://www.youtube.com/watch?v=IxwrDSYrhjU
+
+[fn:122][[https://youtu.be/IxwrDSYrhjU?t=861][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 14:21
+
+[fn:123][[https://youtu.be/IxwrDSYrhjU?t=1343][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 22:23
+
+[fn:124][[https://www.youtube.com/watch?v=IxwrDSYrhjU&t=1382s][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 23:02
+
+[fn:125][[https://youtu.be/IxwrDSYrhjU?t=1488][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 24:48
+
+[fn:126][[https://www.washingtonpost.com/opinions/2021/03/09/biden-administration-confirms-some-trump-wuhan-lab-claims/][Opinion: The Biden administration confirms some but not all of Trump’s Wuhan lab claims]] ([[https://archive.ph/yw80n][archived]])
+
+[fn:127][[https://youtu.be/IxwrDSYrhjU?t=1930][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 32:10
+
+[fn:128][[https://youtu.be/IxwrDSYrhjU?t=2125][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 35:25
+
+[fn:129][[https://youtu.be/IxwrDSYrhjU?t=2985][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 49:45
+
+[fn:130][[https://youtu.be/IxwrDSYrhjU?t=3224][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 53:44
+
+[fn:131][[https://youtu.be/IxwrDSYrhjU?t=3328][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 55:28
+
+[fn:132][[https://youtu.be/IxwrDSYrhjU?t=3918][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 1:05:18
+
+[fn:133][[https://youtu.be/IxwrDSYrhjU?t=3972][TWiV 762: SARS-CoV-2 origins with Robert Garry]] @ 1:06:12
+
+[fn:134][[https://www.who.int/publications/i/item/who-convened-global-study-of-origins-of-sars-cov-2-china-part][WHO-convened global study of origins of SARS-CoV-2: China Part]]
+
+[fn:135]https://www.businessinsider.com/5-terrifying-times-pandemics-escaped-from-laboratories-2014-7?op=1
+
+[fn:136]https://www.businessinsider.com/5-terrifying-times-pandemics-escaped-from-laboratories-2014-7?op=1
+
+[fn:137]https://www.businessinsider.com/5-terrifying-times-pandemics-escaped-from-laboratories-2014-7?op=1
+
+[fn:138]https://www.nytimes.com/2002/06/15/us/traces-terror-bioterror-threat-report-provides-new-details-soviet-smallpox.html
+
+[fn:139][[https://www.nlm.nih.gov/nichsr/esmallpox/biohazard_alibek.pdf][Ken Alibek, "Biohazard"]] p. 128
+
+[fn:140]Meselson, M.; Guillemin, J.; Hugh-Jones, M.; Langmuir, A.; Popova, I.; Shelokov, A.; Yampolskaya, O. (18 November 1994). "The Sverdlovsk anthrax outbreak of 1979". Science. 266 (5188): 1202–1208. doi:10.1126/science.7973702. ISSN 0036-8075. PMID 7973702.
+
+[fn:141]https://www.nytimes.com/2004/05/25/world/russian-scientist-dies-in-ebola-accident-at-former-weapons-lab.html
+
+[fn:142]https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6007a1.htm
+
+[fn:143]https://www.nytimes.com/2003/09/24/world/lab-infection-blamed-for-singapore-sars-case.html
+
+[fn:144]https://www.who.int/csr/don/2003_12_17/en/
+
+[fn:145][[https://nicholaswade.medium.com/origin-of-covid-following-the-clues-6f03564c038][Nicholas Wade, "Origin of Covid --- Following the Clues"]]
+
+[fn:146]https://www.cidrap.umn.edu/news-perspective/2005/10/scientists-recreate-1918-flu-virus-see-parallels-h5n1
+
+[fn:147]https://www.webmd.com/women/news/20020712/polio-virus-created-from-scratch-in-lab
+
+[fn:148]https://www.newscientist.com/article/dn6666-who-backs-genetic-experiments-with-smallpox/
+
+[fn:149]https://project-evidence.github.io/#%28part._p1%29
+
+[fn:150]https://www.nature.com/news/engineered-bat-virus-stirs-debate-over-risky-research-1.18787#b1
+
+[fn:151]https://project-evidence.github.io/#%28part._p5%29
+
+[fn:152]https://project-evidence.github.io/#%28part._p6%29
+
+[fn:153][[https://www.msn.com/en-us/health/medical/ex-cdc-director-robert-redfield-says-he-got-death-threats-for-saying-he-thought-covid-leaked-from-china-lab/ar-AAKGvCI][Alexandra Hutzler, "Ex-CDC Director Robert Redfield Says He Got Death Threats for Saying He Thought COVID Leaked From China Lab"]]
+
+[fn:154]Cohen, J. (2020). Wuhan coronavirus hunter Shi Zhengli speaks out. /Science/, 369, 487–488. https://doi.org/10.1126/science.369.6503.487
