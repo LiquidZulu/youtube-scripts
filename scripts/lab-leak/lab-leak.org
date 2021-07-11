@@ -9,6 +9,7 @@
 
 * TODO
 + https://onlinelibrary.wiley.com/doi/pdf/10.1002/bies.202000240
++ https://www.youtube.com/watch?v=IWQTmjzMaPE
 + Is RaTG13 actually RaBtCoV/4991? How similar is it, just the RdRp? What does that imply?
 + [[https://mygenomix.medium.com/the-origin-of-sars-cov-2-is-a-riddle-meet-the-twitter-detectives-who-aim-to-solve-it-5050216fd279][Moreno Colaiacovo, "The origin of SARS-CoV-2 is a riddle: meet the Twitter detectives who aim to solve it"]]
 + https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins
