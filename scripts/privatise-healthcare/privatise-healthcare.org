@@ -114,10 +114,6 @@ None of this makes it into his paper though, and shortly after this two-faced op
 ** TB
 According to the CDC,[fn:60] Tuberculosis infection is treatable, and if caught early, doctors can prevent progression to tuberculosis disease, but even if the illness has progressed to this point it can still be treated with greater effort.
 *** How to cure TB
-#+BEGIN_EXPORT html
-<video controls src="./videos/TB or not TB.mp4" alt="A clip from the episode of House MD entitled 'TB or not TB'"/>
-#+END_EXPORT
-
 **** LTBI
 The CDC reccommends[fn:61] 3 drugs for the treatment of Latent TB Infection:
 1. Isoniazid (INH)

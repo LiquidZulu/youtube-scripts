@@ -1,72 +1,72 @@
 
 # Table of Contents
 
-1.  [Introduction](#orge3cfbe3)
-2.  [Crises](#org67781fa)
-    1.  [Healthcare Costs Are Too High](#org3050c07)
-        1.  [US](#org29994bd)
-        2.  [UK](#org1561ab6)
-    2.  [CCPVirus](#orge8716b5)
-        1.  [CCP coverup](#orgf78cb8c)
-    3.  [TB](#orgae948e1)
-        1.  [How to cure TB](#org1d2e892)
-            1.  [LTBI](#org60cef86)
-            2.  [TB Disease](#org243081c)
-        2.  [How the state restricts these treatments](#orgb463aba)
-            1.  [They all have patents in some way](#org2089123)
-3.  [Free-Market Healthcare](#org7934f0c)
-    1.  [What are fraternal societies?](#org0153925)
-    2.  [What is Lodge Practice?](#org24d6bbe)
-    3.  [The Response of the Medical Establishment](#orge9c0fe3)
-4.  [State Healthcare](#org4966c12)
-    1.  [Obamacare](#org5e166ba)
-    2.  [How American Healthcare Became Dysfunctional](#org481c8e8)
-    3.  [The State Killed Pro Bono Care](#org5139cb6)
-    4.  [Costs Go Down Where Not Regulated](#org789c4c0)
-5.  [Regulations on Healthcare](#org59d539f)
-    1.  [Restrictions](#orgc7772ac)
-        1.  [Illegality of Cross-State Insurance Purchases](#org1ae8612)
-        2.  [Insurance Alternatives Regulated](#org00b4025)
-        3.  [Licensure of Medicine](#orgf315bcb)
-        4.  [Unionism in Medicine](#orgde11975)
-        5.  [Patents](#org454dcf7)
-        6.  [The Food and Drug Administration](#org4e97868)
-        7.  [Medicare/Medicaid Price Fixing](#orgc890f19)
-        8.  [Paperwork](#org35543f9)
-    2.  [Subsidies](#orga0851fa)
-        1.  [Institutional Tilt Towards Insurance](#orga16f088)
-        2.  [Mandatory Coverage of Specific Conditions](#org17c440c)
-        3.  [Aid to Hospitals (Equipment)](#orgc474daa)
-        4.  [Aid to Hospitals (Patients)](#org7110ea4)
-        5.  [Aid to Employers](#orgd9dca7f)
-        6.  [Inflation](#org755ee50)
-6.  [Hoppe&rsquo;s 4-Step Solution to Healthcare](#org5a023de)
-    1.  [Step 1: revoke all state-mandated licensing requirements for medical schools, hospitals, pharmacies, doctors, and other medical personnel.](#org848c0cb)
-    2.  [Step 2: revoke all government restrictions on the production and sale of pharmaceutical products and medical devices.](#org7de1dbe)
-    3.  [Step 3: de-regulate the health-insurance industry.](#orgafe1293)
-    4.  [Step 4: Eliminate all subsidies to the sick or unhealthy.](#orgf71d126)
-7.  [References](#orgd245140)
+1.  [Introduction](#org9dde079)
+2.  [Crises](#orga7077e9)
+    1.  [Healthcare Costs Are Too High](#orgabe6919)
+        1.  [US](#orga5ddd9f)
+        2.  [UK](#orga3fe26e)
+    2.  [CCPVirus](#orgf430546)
+        1.  [CCP coverup](#orgca82fbf)
+    3.  [TB](#org8c169f9)
+        1.  [How to cure TB](#orgf955451)
+            1.  [LTBI](#orgec42c3e)
+            2.  [TB Disease](#orged44a75)
+        2.  [How the state restricts these treatments](#orgf552ed3)
+            1.  [They all have patents in some way](#org2e83776)
+3.  [Free-Market Healthcare](#orge0a6f57)
+    1.  [What are fraternal societies?](#org9775590)
+    2.  [What is Lodge Practice?](#org440f000)
+    3.  [The Response of the Medical Establishment](#org428424d)
+4.  [State Healthcare](#org7e66fd3)
+    1.  [Obamacare](#org1fbe0e8)
+    2.  [How American Healthcare Became Dysfunctional](#org64c1bf7)
+    3.  [The State Killed Pro Bono Care](#org329fbde)
+    4.  [Costs Go Down Where Not Regulated](#org1f40f20)
+5.  [Regulations on Healthcare](#org6dad086)
+    1.  [Restrictions](#orgaf141aa)
+        1.  [Illegality of Cross-State Insurance Purchases](#orga341316)
+        2.  [Insurance Alternatives Regulated](#orgd0e6743)
+        3.  [Licensure of Medicine](#org45fc220)
+        4.  [Unionism in Medicine](#org72957ec)
+        5.  [Patents](#orgb1af484)
+        6.  [The Food and Drug Administration](#org1253f84)
+        7.  [Medicare/Medicaid Price Fixing](#orgd479ac4)
+        8.  [Paperwork](#org5d9a4ec)
+    2.  [Subsidies](#org7b090a6)
+        1.  [Institutional Tilt Towards Insurance](#orgeed4cb0)
+        2.  [Mandatory Coverage of Specific Conditions](#org48c4a60)
+        3.  [Aid to Hospitals (Equipment)](#orga278ef7)
+        4.  [Aid to Hospitals (Patients)](#orgcefe918)
+        5.  [Aid to Employers](#orge266fa8)
+        6.  [Inflation](#orgbd6d43d)
+6.  [Hoppe&rsquo;s 4-Step Solution to Healthcare](#orgdc21366)
+    1.  [Step 1: revoke all state-mandated licensing requirements for medical schools, hospitals, pharmacies, doctors, and other medical personnel.](#orge011ec0)
+    2.  [Step 2: revoke all government restrictions on the production and sale of pharmaceutical products and medical devices.](#org63fc52a)
+    3.  [Step 3: de-regulate the health-insurance industry.](#org1275d95)
+    4.  [Step 4: Eliminate all subsidies to the sick or unhealthy.](#orgfae108e)
+7.  [References](#org8148c9d)
 
 
 
-<a id="orge3cfbe3"></a>
+<a id="org9dde079"></a>
 
 # Introduction
 
 Healthcare is perhaps the industry most plagued by the state of them all, there is immense regulation,<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup><sup>, </sup><sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup><sup>, </sup><sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup> funding,<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup> and in some cases outright state monopolisation of the sector.<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup> In this document I will show how every major healthcare crisis the world faces today has come about as a direct result of state interference, and I will describe the free-market counterfactual for healthcare and how it could solve those problems.
 
 
-<a id="org67781fa"></a>
+<a id="orga7077e9"></a>
 
 # Crises
 
 
-<a id="org3050c07"></a>
+<a id="orgabe6919"></a>
 
 ## Healthcare Costs Are Too High
 
 
-<a id="org29994bd"></a>
+<a id="orga5ddd9f"></a>
 
 ### US
 
@@ -76,7 +76,7 @@ The US is the country that international-socialists most often tout as a failure
 
 But the immense public funding is not the only problem plaguing the US market, the federal government also places immense regulation, mandatory licensing, and legion other restrictions on the ability of people to freely buy and sell healthcare resources, directly causing the ballooning prices we can see today.
 
-It is important here to note that this crisis in healthcare costs didnt fully take off until the mid 1960s<sup><a id="fnr.9" class="footref" href="#fn.9">9</a></sup> (see also the figure below), when the government increased demand with the passage of medicare<sup><a id="fnr.10" class="footref" href="#fn.10">10</a></sup> and medicaid,<sup><a id="fnr.11" class="footref" href="#fn.11">11</a></sup> whilst continuing their restriction of the supply of doctors and medicine through medical licensing laws<sup><a id="fnr.12" class="footref" href="#fn.12">12</a></sup> and the regulation of the sale of drugs through the Food and Drug Administration.<sup><a id="fnr.13" class="footref" href="#fn.13">13</a></sup> Though the seeds of this crisis were planted far earlier (see: [3.3](#orge9c0fe3) and [4](#org4966c12)).
+It is important here to note that this crisis in healthcare costs didnt fully take off until the mid 1960s<sup><a id="fnr.9" class="footref" href="#fn.9">9</a></sup> (see also the figure below), when the government increased demand with the passage of medicare<sup><a id="fnr.10" class="footref" href="#fn.10">10</a></sup> and medicaid,<sup><a id="fnr.11" class="footref" href="#fn.11">11</a></sup> whilst continuing their restriction of the supply of doctors and medicine through medical licensing laws<sup><a id="fnr.12" class="footref" href="#fn.12">12</a></sup> and the regulation of the sale of drugs through the Food and Drug Administration.<sup><a id="fnr.13" class="footref" href="#fn.13">13</a></sup> Though the seeds of this crisis were planted far earlier (see: [3.3](#org428424d) and [4](#org7e66fd3)).
 
 ![img](./images/fig1.png "An Indexed Comparison of Health Care Inflation and Consumer Price Index in the US from 1935 to 2009 (Source: US Census 2013).")
 
@@ -84,7 +84,7 @@ It has been noted by Milton Freidman<sup><a id="fnr.14" class="footref" href="#f
 
 > The market reformers wish to preserve the control of the individual physician over his practice, over the hospital, and over his fees, and they simply wish to open up the medical schools in order to meet the demand for doctors, to give patients more choice among doctors, clinics, and hospitals
 
-For more than a century, medical special interests have invested billions into lobbying government to reduce competition<sup><a id="fnr.16" class="footref" href="#fn.16">16</a></sup><sup>, </sup><sup><a id="fnr.17" class="footref" href="#fn.17">17</a></sup> &#x2014; in fact, in 1945 the AMA spent $1.5 million on lobbying which was, at the time, the most expensive lobbying effort in US history.<sup><a id="fnr.18" class="footref" href="#fn.18">18</a></sup> Their efforts have paid off, below I borrow a list of a number of major government policy changes that have interfered with the healthcare industry, compiled by Mike Holly:<sup><a id="fnr.19" class="footref" href="#fn.19">19</a></sup><sup>, </sup><sup><a id="fnr.20" class="footref" href="#fn.20">20</a></sup><a id="org2f14964"></a>
+For more than a century, medical special interests have invested billions into lobbying government to reduce competition<sup><a id="fnr.16" class="footref" href="#fn.16">16</a></sup><sup>, </sup><sup><a id="fnr.17" class="footref" href="#fn.17">17</a></sup> &#x2014; in fact, in 1945 the AMA spent $1.5 million on lobbying which was, at the time, the most expensive lobbying effort in US history.<sup><a id="fnr.18" class="footref" href="#fn.18">18</a></sup> Their efforts have paid off, below I borrow a list of a number of major government policy changes that have interfered with the healthcare industry, compiled by Mike Holly:<sup><a id="fnr.19" class="footref" href="#fn.19">19</a></sup><sup>, </sup><sup><a id="fnr.20" class="footref" href="#fn.20">20</a></sup><a id="orgc7e1d3a"></a>
 
 > -   In 1910, the physician oligopoly was started during the Republican administration of William Taft after the American Medical Association lobbied the states to strengthen the regulation of medical licensure and allow their state AMA offices to oversee the closure or merger of nearly half of medical schools and also the reduction of class sizes. The states have been subsidizing the education of the number of doctors recommended by the AMA.
 > 
@@ -115,7 +115,7 @@ These government-private partnerships called &ldquo;managed competition&rdquo; r
 ![img](./images/fig3.png "Healthcare costs rising faster than the CPI after 1981 (Source: <https://www.thestreet.com/mishtalk/economics/employer-healthcare-costs-jump-to-20-000-not-inflation>)")
 
 
-<a id="org1561ab6"></a>
+<a id="orga3fe26e"></a>
 
 ### UK
 
@@ -148,7 +148,7 @@ Sammeroff points out the results of the incentive to manipulate statistics to th
 So the NHS may not charge one at the point of service, but it is immensely costly in terms of both the taxation required and the lives lost, no matter how much money is thrown into the great money pit that is the National Health Service it will *never* deliver a product anywhere close to being as good as the free-market.
 
 
-<a id="orge8716b5"></a>
+<a id="orgf430546"></a>
 
 ## CCPVirus
 
@@ -157,7 +157,7 @@ The Wuhan Flu pandemic, caused by the CCPVirus, is currently the most apparent c
 In this section I will describe how even if we ignore the overwhelming evidence that the CCP created this virus, this pandemic was allowed to progress because of state interference.
 
 
-<a id="orgf78cb8c"></a>
+<a id="orgca82fbf"></a>
 
 ### CCP coverup
 
@@ -172,21 +172,19 @@ In addition, the proposed precursor virus, RaTG13, was destroyed by China leavin
 None of this makes it into his paper though, and shortly after this two-faced opinion on the virus came out, Andersen deleted his Twitter account in shame.<sup><a id="fnr.59" class="footref" href="#fn.59">59</a></sup>
 
 
-<a id="orgae948e1"></a>
+<a id="org8c169f9"></a>
 
 ## TB
 
 According to the CDC,<sup><a id="fnr.60" class="footref" href="#fn.60">60</a></sup> Tuberculosis infection is treatable, and if caught early, doctors can prevent progression to tuberculosis disease, but even if the illness has progressed to this point it can still be treated with greater effort.
 
 
-<a id="org1d2e892"></a>
+<a id="orgf955451"></a>
 
 ### How to cure TB
 
-<video controls src="./videos/TB or not TB.mp4" alt="A clip from the episode of House MD entitled 'TB or not TB'"/>
 
-
-<a id="org60cef86"></a>
+<a id="orgec42c3e"></a>
 
 #### LTBI
 
@@ -199,7 +197,7 @@ The CDC reccommends<sup><a id="fnr.61" class="footref" href="#fn.61">61</a></sup
 These medications may be used on their own or in combination, as needs dictate.
 
 
-<a id="org243081c"></a>
+<a id="orged44a75"></a>
 
 #### TB Disease
 
@@ -211,7 +209,7 @@ When TB infection progresses to TB disease the treatment options are slightly di
 4.  pyrazinamide (PZA)
 
 
-<a id="orgb463aba"></a>
+<a id="orgf552ed3"></a>
 
 ### How the state restricts these treatments
 
@@ -226,7 +224,7 @@ So to treat TB in it&rsquo;s different stages you need one or multiple of:
 So let&rsquo;s see what restrictions the state places on each of these.
 
 
-<a id="org2089123"></a>
+<a id="org2e83776"></a>
 
 #### They all have patents in some way
 
@@ -237,14 +235,14 @@ But patents of the drug itself arent the only way that drugs are restricted, INH
 Rifapentine was patented by Renato Cricchio & Vittorio Arioli under US4002752A, the production of rifampin under US4174320A, similarly with ethambutol (US3944618A, RU2712231C1), and with pyrazinamide (US2780624A), and our old friend isoniazid under WO2011012987A1.
 
 
-<a id="org7934f0c"></a>
+<a id="orge0a6f57"></a>
 
 # Free-Market Healthcare
 
 So socialist healthcare has caused every crisis we see today, what might the free-maket counterfactual look like? We have, a historical precedent that we may draw on, that of lodge practice preformed by fraternal societies from the late 1800s up until the death of the lodge in the 60s.
 
 
-<a id="org0153925"></a>
+<a id="org9775590"></a>
 
 ## What are fraternal societies?
 
@@ -253,7 +251,7 @@ Fraternal societies, which arose from earlier &ldquo;friendly&rdquo; societies i
 > [a] few dollars given here, a small sum there to help a stricken member back on his feet or keep his protection in force during a crisis in his financial affairs; a sick Neighbor’s wheat harvested, his grain hauled to market, his winter’s fuel cut or a home built to replace one destroyed by a midnight fire &#x2014; thus has fraternity been at work among a million members in 14,000 camps.
 
 
-<a id="org24d6bbe"></a>
+<a id="org440f000"></a>
 
 ## What is Lodge Practice?
 
@@ -268,7 +266,7 @@ I dont know why any of us should want to pay a &ldquo;regular&rdquo; price that 
 > Inspection of the medical journals gives some cause for skepticism of blanket assertions that lodges heedlessly sacrificed quality to elect candidates with the lowest fee. The contrary, in fact, occurred in a campaign described by lodge practice adversary Dr. George S. Mathews of Providence, Rhode Island: “In one lodge [meeting] two members in good standing in the State Medical Society openly underbid [one another]. One volunteered his services at $2 a head. The other dropped his price to $1.75. The first bidder then acceded to this price with medicines furnished. This occasioned a drop in bidder No. 2 in his price to include medicine and minor surgery. To the vast credit of the lodge neither bid was accepted but a non-bidder was given the job at $2.” In another case a Moose lodge asked the national organization to increase the salary of a doctor deemed particularly deserving.<sup><a id="fnr.77" class="footref" href="#fn.77">77</a></sup><sup>, </sup><sup><a id="fnr.78" class="footref" href="#fn.78">78</a></sup>
 
 
-<a id="orge9c0fe3"></a>
+<a id="org428424d"></a>
 
 ## The Response of the Medical Establishment
 
@@ -276,7 +274,7 @@ Doctors who were too arrogant and ineffective to serve the poor for such a cheap
 
 > Shortly after the turn of the century, articles about the “lodge practice evil” began to fill the pages of American medical journals.
 
-<div class="quote-src" id="orgee837d1">
+<div class="quote-src" id="orgdd0fea4">
 <p>
 &#x2014; <i>Quoted here<sup><a id="fnr.79" class="footref" href="#fn.79">79</a></sup></i>
 </p>
@@ -289,7 +287,7 @@ Doctors who were too arrogant and ineffective to serve the poor for such a cheap
 > 
 > No opprobrium was off limits in depictions of the lodge doctor. He was a “scab” who broke ranks with professional solidarity, an incompetent “quack” spewed out by a low-grade diploma mill, and most unforgivably, a “huckster” bent on commercializing the noble art of medicine. Critics were quick to add, however, that lodge practice also harmed the patient who, in return for these low fees, received shabby service. It was a vain attempt, charged one opponent, to get “something for nothing.” Another cited “the consensus of opinion that physicians generally give fraternal organizations their money’s worth, no more.”<sup><a id="fnr.82" class="footref" href="#fn.82">82</a></sup><sup>, </sup><sup><a id="fnr.83" class="footref" href="#fn.83">83</a></sup><sup>, </sup><sup><a id="fnr.84" class="footref" href="#fn.84">84</a></sup><sup>, </sup><sup><a id="fnr.85" class="footref" href="#fn.85">85</a></sup><sup>, </sup><sup><a id="fnr.86" class="footref" href="#fn.86">86</a></sup>
 
-<div class="quote-src" id="org4e1d484">
+<div class="quote-src" id="org14bbb2b">
 <p>
 &#x2014; <i>Quoted here<sup><a id="fnr.87" class="footref" href="#fn.87">87</a></sup></i>
 </p>
@@ -300,7 +298,7 @@ But as I have shown above, the low prices of the lodge did not, in fact, come at
 
 > Dr. John B. Donaldson of Canonsburg, Pennsylvania, spoke for many: “As to lodge practice, to my mind it is simply contemptible and I see no excuse for its existence.” The double standard did not escape the attention of lodges. An editorial in the Eagle Magazine claimed, with some exaggeration, that there were “few professional protests” against company doctors. “Does it make a difference,” it asked, “whether the employer [of contract doctors] is a wealthy corporation, or a fraternity of humble citizens, most of them wage earners?”<sup><a id="fnr.88" class="footref" href="#fn.88">88</a></sup><sup>, </sup><sup><a id="fnr.89" class="footref" href="#fn.89">89</a></sup>
 
-<div class="quote-src" id="orgc1a36e6">
+<div class="quote-src" id="org4853954">
 <p>
 &#x2014; <i>Quoted here<sup><a id="fnr.90" class="footref" href="#fn.90">90</a></sup></i>
 </p>
@@ -309,18 +307,18 @@ But as I have shown above, the low prices of the lodge did not, in fact, come at
 
 > By the 1920s, lodge practice had entered a steep decline from which it never recovered. Large segments of the medical profession had launched an all-out war. Throughout the country, state societies imposed manifold sanctions against physicians who accepted lodge contracts. The medical societies of several states, including Pennsylvania, Michigan, California, Maine, and Vermont, recommended that offenders be barred from membership. “The evil is such a far-reaching one,” warned the Journal of the Michigan State Medical Society, “that any measures to suppress it are justifiable.” Other state professional organizations, such as those of West Virginia and Illinois, favored less draconian pressure on practitioners to sign pledges spurning lodge contracts.<sup><a id="fnr.91" class="footref" href="#fn.91">91</a></sup><sup>, </sup><sup><a id="fnr.92" class="footref" href="#fn.92">92</a></sup><sup>, </sup><sup><a id="fnr.93" class="footref" href="#fn.93">93</a></sup><sup>, </sup><sup><a id="fnr.94" class="footref" href="#fn.94">94</a></sup><sup>, </sup><sup><a id="fnr.95" class="footref" href="#fn.95">95</a></sup><sup>, </sup><sup><a id="fnr.96" class="footref" href="#fn.96">96</a></sup>
 
-<div class="quote-src" id="org6107c0f">
+<div class="quote-src" id="org2cbcc9f">
 <p>
 &#x2014; <i>Quoted here<sup><a id="fnr.97" class="footref" href="#fn.97">97</a></sup></i>
 </p>
 
 </div>
 
-> [It was, however,] [c]ounty, rather than state, societies [that] formed the vanguard of the movement to suppress lodge practice [note: the author means state in the sense of the United *States* of America; these societies were, and still are, granted special coercive powers by the government. See [5](#org59d539f) and [2.1.1](#org2f14964) for more details]. The prototypical campaign began with the request that a doctor sign an agreement shunning lodge contracts or, at least, not provide services for fees under the “customary” rate. Sometimes this method worked, at least for a while. If the pariah failed to relent, he faced more serious retribution, such as forfeiture of membership or a boycott. In 1913, for example, members of the medical society in Port Jervis, New York, vowed that if any physician took a lodge contract, they would “refuse to consult with him or assist him in any way or in any emergency whatever.” Sometimes the boycotts extended to patients. One method of enforcement was to pressure hospitals to close their doors to members of the guilty lodge. By 1914, in the Journal of the American Medical Association Dr. Robert Allen could write, with but slight exaggeration, “There is scarcely a city in the country in which medical societies have not issued edicts against members who accept contracts for lodge practice.”<sup><a id="fnr.98" class="footref" href="#fn.98">98</a></sup><sup>, </sup><sup><a id="fnr.99" class="footref" href="#fn.99">99</a></sup><sup>, </sup><sup><a id="fnr.100" class="footref" href="#fn.100">100</a></sup><sup>, </sup><sup><a id="fnr.101" class="footref" href="#fn.101">101</a></sup><sup>, </sup><sup><a id="fnr.102" class="footref" href="#fn.102">102</a></sup><sup>, </sup><sup><a id="fnr.103" class="footref" href="#fn.103">103</a></sup><sup>, </sup><sup><a id="fnr.104" class="footref" href="#fn.104">104</a></sup><sup>, </sup><sup><a id="fnr.105" class="footref" href="#fn.105">105</a></sup><sup>, </sup><sup><a id="fnr.106" class="footref" href="#fn.106">106</a></sup><sup>, </sup><sup><a id="fnr.107" class="footref" href="#fn.107">107</a></sup><sup>, </sup><sup><a id="fnr.108" class="footref" href="#fn.108">108</a></sup><sup>, </sup><sup><a id="fnr.109" class="footref" href="#fn.109">109</a></sup><sup>, </sup><sup><a id="fnr.110" class="footref" href="#fn.110">110</a></sup><sup>, </sup><sup><a id="fnr.111" class="footref" href="#fn.111">111</a></sup>
+> [It was, however,] [c]ounty, rather than state, societies [that] formed the vanguard of the movement to suppress lodge practice [note: the author means state in the sense of the United *States* of America; these societies were, and still are, granted special coercive powers by the government. See [5](#org6dad086) and [2.1.1](#orgc7e1d3a) for more details]. The prototypical campaign began with the request that a doctor sign an agreement shunning lodge contracts or, at least, not provide services for fees under the “customary” rate. Sometimes this method worked, at least for a while. If the pariah failed to relent, he faced more serious retribution, such as forfeiture of membership or a boycott. In 1913, for example, members of the medical society in Port Jervis, New York, vowed that if any physician took a lodge contract, they would “refuse to consult with him or assist him in any way or in any emergency whatever.” Sometimes the boycotts extended to patients. One method of enforcement was to pressure hospitals to close their doors to members of the guilty lodge. By 1914, in the Journal of the American Medical Association Dr. Robert Allen could write, with but slight exaggeration, “There is scarcely a city in the country in which medical societies have not issued edicts against members who accept contracts for lodge practice.”<sup><a id="fnr.98" class="footref" href="#fn.98">98</a></sup><sup>, </sup><sup><a id="fnr.99" class="footref" href="#fn.99">99</a></sup><sup>, </sup><sup><a id="fnr.100" class="footref" href="#fn.100">100</a></sup><sup>, </sup><sup><a id="fnr.101" class="footref" href="#fn.101">101</a></sup><sup>, </sup><sup><a id="fnr.102" class="footref" href="#fn.102">102</a></sup><sup>, </sup><sup><a id="fnr.103" class="footref" href="#fn.103">103</a></sup><sup>, </sup><sup><a id="fnr.104" class="footref" href="#fn.104">104</a></sup><sup>, </sup><sup><a id="fnr.105" class="footref" href="#fn.105">105</a></sup><sup>, </sup><sup><a id="fnr.106" class="footref" href="#fn.106">106</a></sup><sup>, </sup><sup><a id="fnr.107" class="footref" href="#fn.107">107</a></sup><sup>, </sup><sup><a id="fnr.108" class="footref" href="#fn.108">108</a></sup><sup>, </sup><sup><a id="fnr.109" class="footref" href="#fn.109">109</a></sup><sup>, </sup><sup><a id="fnr.110" class="footref" href="#fn.110">110</a></sup><sup>, </sup><sup><a id="fnr.111" class="footref" href="#fn.111">111</a></sup>
 > 
 > Reports in the medical journals suggest that these restrictions were effective. One example occurred in Bristol, Pennsylvania, where local physicians boycotted the lone lodge doctor in the area. As word of the campaign spread, “patrons gradually withdrew from him, his calls for attendance were few, and this last summer he quietly left the town and [its] vicinity.” In a similar case a member of the Loyal Order of Moose in Fort Dodge, Iowa, charged that doctors in his community had run the local lodge “into the ground” by going on strike.<sup><a id="fnr.112" class="footref" href="#fn.112">112</a></sup><sup>, </sup><sup><a id="fnr.113" class="footref" href="#fn.113">113</a></sup>
 
-<div class="quote-src" id="orgc5e27f9">
+<div class="quote-src" id="orgefd3c61">
 <p>
 &#x2014; <i>Quoted here<sup><a id="fnr.114" class="footref" href="#fn.114">114</a></sup></i>
 </p>
@@ -330,14 +328,14 @@ But as I have shown above, the low prices of the lodge did not, in fact, come at
 This organised assault on lodge practice coincided with the rise of the welfare state, which served to crowd out the lodge. After all, if you are being forced to pay for welfare by the state how likely are you to also pay for mutual aid?
 
 
-<a id="org4966c12"></a>
+<a id="org7e66fd3"></a>
 
 # State Healthcare
 
 So let&rsquo;s now take a closer look at exactly what state healthcare looks like, keeping the free-market counterfactual in our minds.
 
 
-<a id="org5e166ba"></a>
+<a id="org1fbe0e8"></a>
 
 ## Obamacare
 
@@ -355,11 +353,11 @@ It&rsquo;s true that some studies find that health insurance does indeed save li
 This encouragement of state insurance plans caused by Obamacare and similar acts has had deliterious effects. In a randomized trial<sup><a id="fnr.119" class="footref" href="#fn.119">119</a></sup> in Oregon that gave some individuals Medicaid while leaving others uninsured, recipients of Medicaid gained no statistically significant improvement in physical health after two years compared to the uninsured. Whats more is that researchers have found<sup><a id="fnr.120" class="footref" href="#fn.120">120</a></sup> that Medicaid patients with a variety of conditions and medical needs often experience *worse* outcomes than similar uninsured patients.
 
 
-<a id="org481c8e8"></a>
+<a id="org64c1bf7"></a>
 
 ## How American Healthcare Became Dysfunctional
 
-In the early twentieth century, health insurance was hardly used.<sup><a id="fnr.121" class="footref" href="#fn.121">121</a></sup> At the time available treatments were limited, so the market for insurance was largely underdeveloped.<sup><a id="fnr.122" class="footref" href="#fn.122">122</a></sup> Some people did acquire sickness insurance, but this was more intended to maintain income during times of illness<sup><a id="fnr.123" class="footref" href="#fn.123">123</a></sup> than it was to pay for ones medical costs, which were cheap enough to pay out of pocket<sup><a id="fnr.124" class="footref" href="#fn.124">124</a></sup> as described above (see: [3.2](#org24d6bbe)). Programs comprable to modern health insurance started to gain steam during the 1930s, but really began to pick up in the next two decades, when government policies made them artificially attractive.
+In the early twentieth century, health insurance was hardly used.<sup><a id="fnr.121" class="footref" href="#fn.121">121</a></sup> At the time available treatments were limited, so the market for insurance was largely underdeveloped.<sup><a id="fnr.122" class="footref" href="#fn.122">122</a></sup> Some people did acquire sickness insurance, but this was more intended to maintain income during times of illness<sup><a id="fnr.123" class="footref" href="#fn.123">123</a></sup> than it was to pay for ones medical costs, which were cheap enough to pay out of pocket<sup><a id="fnr.124" class="footref" href="#fn.124">124</a></sup> as described above (see: [3.2](#org440f000)). Programs comprable to modern health insurance started to gain steam during the 1930s, but really began to pick up in the next two decades, when government policies made them artificially attractive.
 
 When the United States entered World War II, businesses on the home front found it difficult to attract the labour they needed because the draft had taken 11 million Americans out of the workforce, in addition to the federal government imposing wage and price controls. This regulation, like all others, had negative effects that the short-sighted bureaucrats could not see coming. They made it illegal for businesses to attract additional labour by offering higher wages, in order to control wartime inflation.
 
@@ -392,7 +390,7 @@ Given the ongoing rise in medical costs and the countless stories of personal ha
 Now, firms with fifty or more employees will be fined if they do not offer workers a health insurance plan that meets with the federal government&rsquo;s approval &#x2014; quite some distance we have travelled from insurance being a World War II tax writeoff.
 
 
-<a id="org5139cb6"></a>
+<a id="org329fbde"></a>
 
 ## The State Killed Pro Bono Care
 
@@ -411,7 +409,7 @@ The very fact that people today, so long accustomed to government-provided medic
 > what America’s welfare state has done to people’s faith in themselves, in others, and in a free society.
 
 
-<a id="org789c4c0"></a>
+<a id="org1f40f20"></a>
 
 ## Costs Go Down Where Not Regulated
 
@@ -426,33 +424,33 @@ If his patients dont like the service provided, they will leave and go to a diff
 > &#x2026;despite a huge increase in volume and considerable technical innovation (which is blamed for increasing costs for every other type of surgery).
 
 
-<a id="org59d539f"></a>
+<a id="org6dad086"></a>
 
 # Regulations on Healthcare
 
 I borrow the following list of regulations on US healthcare from *Jargon* and his contemporaries on the LibertyHQ forums, he explains that the two main ways that the healthcare market is distorted today is through the use of restrictions and subsidies;<sup><a id="fnr.136" class="footref" href="#fn.136">136</a></sup>
 
 
-<a id="orgc7772ac"></a>
+<a id="orgaf141aa"></a>
 
 ## Restrictions
 
 
-<a id="org1ae8612"></a>
+<a id="orga341316"></a>
 
 ### Illegality of Cross-State Insurance Purchases
 
 Consumers are prohibited from reaching across state lines to purchase their health insurance.<sup><a id="fnr.137" class="footref" href="#fn.137">137</a></sup> This narrows the selection available to consumers, reducing competition and thereby allowing for a worse service in each state.
 
 
-<a id="org00b4025"></a>
+<a id="orgd0e6743"></a>
 
 ### Insurance Alternatives Regulated
 
 In addition to the regulation of insurance the main competitor to insurance, lodge practice, was destroyed by those who would form the AMA, as I described above.
 
 
-<a id="orgf315bcb"></a>
+<a id="org45fc220"></a>
 
 ### Licensure of Medicine
 
@@ -461,96 +459,96 @@ Doctors, clinics, hospitals and insurance providers must become licensed by loca
 In addition to this, hospitals require “certificates-of-need” in order to start construction, which are handed out by municipal or state planning boards, headed up by local medical experts who run their own hospitals,<sup><a id="fnr.139" class="footref" href="#fn.139">139</a></sup> creating an obvious conflict of interest.
 
 
-<a id="orgde11975"></a>
+<a id="org72957ec"></a>
 
 ### Unionism in Medicine
 
 Medicine is a unionized industry.<sup><a id="fnr.140" class="footref" href="#fn.140">140</a></sup> Nurses and other random hospital personnel, through their unions, demand that certain processes be made impossible unless under the supervision of a unionized worker. This means that jobs which require only the labor of one person become jobs that require the labor of six people. The hospital, and ultimately the taxpayer, then has to pay for said extra labor. This also raises the barrier to entry for possible competing clinics, if they can&rsquo;t provide certain services without hiring unnecessary workers.
 
 
-<a id="org454dcf7"></a>
+<a id="orgb1af484"></a>
 
 ### Patents
 
 Patenting is when a government gives an inventor a monopoly over an idea. Said inventor may then punish others should they try to use the same idea, using only their own private property. This limits the amount of providers-per-innovative-idea to one. Some might say that patents are a necessary carrot to the proverbial horse for spurring innovation. Intellectual property lawyer Stephan Kinsella disagrees,<sup><a id="fnr.141" class="footref" href="#fn.141">141</a></sup> saying that empirical evidence suggests that patenting actually has a depressing effect on innovation. Patenting in the medical industry leads to needlessly expensive medical goods, namely machinery and pharmaceuticals.
 
 
-<a id="org4e97868"></a>
+<a id="org1253f84"></a>
 
 ### The Food and Drug Administration
 
 The FDA is an organization which screens products for safety and quality before giving them the &rsquo;green light&rsquo; for sale and consumption. It has also been captured by agribusiness corporations since its very inception. It slows the release of new medicines, prohibits people from trying alternatives, and occasionally seizes property and privilege only to confer it to a state-blessed enterprise. This discretionary authority, especially when seized by monopolistic interest, leads to slowed innovation, fewer products available, and product markups as large as 37 times.
 
 
-<a id="orgc890f19"></a>
+<a id="orgd479ac4"></a>
 
 ### Medicare/Medicaid Price Fixing
 
 The Medicaid and Medicare programs set the minimum reimbursement rates,<sup><a id="fnr.142" class="footref" href="#fn.142">142</a></sup> which companies then use as a baseline. This system encourages you to go onto an insurance plan. Physicians offer lower prices to clients with insurance to try to attract business and then charge higher prices to make up for said insurance discount. This means then, that those without insurance that can probably least afford care, end up paying the most for it. Without price-fixing for procedures and treatments, there would be no general minimum charge and physicians wouldn&rsquo;t have to discount insurance companies to attract clients.
 
 
-<a id="org35543f9"></a>
+<a id="org5d9a4ec"></a>
 
 ### Paperwork
 
 Extrenuous paperwork in general is a restriction on business, it imposes controls on entrepreneurs that bureaucrats deem necessary. It raises the costs of a business; as entrepreneurs are forced to comply with regulations, they must also employ lawyers and pencil pushers to sort through red tape. This disadvantages small businesses as they aren&rsquo;t politically connected enough to avoid regulation and also are more sensitive to high costs of businesses than are large businesses. Paperwork slants markets in favor of well-established businesses.
 
 
-<a id="orga0851fa"></a>
+<a id="org7b090a6"></a>
 
 ## Subsidies
 
 
-<a id="orga16f088"></a>
+<a id="orgeed4cb0"></a>
 
 ### Institutional Tilt Towards Insurance
 
 When everyone is encouraged to go on a health insurance plan, everything is encouraged, and even employers are encouraged to provide health insurance, the consumer&rsquo;s function as a discriminator and cost-cutter is qualitatively altered. Instead of economizing and considering every purchase of medicine, the care-seeker will simply ask for help and sign the bill. Care-givers, acknowledging this, will sell high-cost options primarily and not suffer for it, seeing as the care-seeker&rsquo;s treatment is being covered by his insurance company. What happens over time when consumers do not seek the best bang for their buck is that both treatments and insurance rates will go up.
 
 
-<a id="org17c440c"></a>
+<a id="org48c4a60"></a>
 
 ### Mandatory Coverage of Specific Conditions
 
 Insurance companies are compelled by law to offer coverage to certain treatments in all of their policies. This benefits the person with said medical condition to the disadvantage of all without said medical condition. All are forced to pay for the now higher rate, due to the increment of risk added by mandatory extra coverage, whether they want to be covered for said condition or not. If a person, A, has a certain condition, it is not the responsibility of the next person to subsidize the treatment of person A. Insurance plans become homogenized and unnecessarily expensive. This encourages people not to avoid certain conditions, such as obesity or heart disease.
 
 
-<a id="orgc474daa"></a>
+<a id="orga278ef7"></a>
 
 ### Aid to Hospitals (Equipment)
 
 Hospitals receive aid for having the latest and greatest hi-tech equipment. This encourages hospitals to spend too much money on expensive equipment, party paid for by taxpayers. And since the hospitals aren&rsquo;t buying the equipment because of a legitimate need but because of a political incentive, they are not discriminating buyers. Thus, we can expect that suppliers of expensive medical equipment will raise prices comfortably without fearing that hospitals will stop buying.
 
 
-<a id="org7110ea4"></a>
+<a id="orgcefe918"></a>
 
 ### Aid to Hospitals (Patients)
 
 The government will pay for a share of a patient&rsquo;s hospital bill if it is sufficiently huge. Since hospitals are non-competitive they will respond by ratcheting up the hospital bill to get federal money. Citizens, in the aggregate of their tax forms and ER bills, end up paying twice as much.
 
 
-<a id="orgd9dca7f"></a>
+<a id="orge266fa8"></a>
 
 ### Aid to Employers
 
 The federal tax code encourages employers to provide their employees with health insurance. Some might say this is great, but it is not. Employers offer that health insurance out of your wages. Though the wage compensation you would get if employers were not encouraged to offer you health insurance would probably not, at this moment, be as big as the total value of the health insurance he does provide you, as the insurance he pays for is massively inflated in price and allows for no customisation, it causes some big problems. Firstly, it programs you to clutch your job like a life-line, whereas if you acquired insurance independently, you could go where you liked. If you value independence and self-respect, that&rsquo;s problematic. This also disables the consumer choice mechanism; no one will leave their job just to get a different healthcare plan. Secondly, it puts everyone on bloated insurance plans, which leads to the problems described above (insurance for things you don&rsquo;t need to be insured for, can pay for yourself, don&rsquo;t need to pay for, etc.)
 
 
-<a id="org755ee50"></a>
+<a id="orgbd6d43d"></a>
 
 ### Inflation
 
 Since much of the deficit is financed out of open market operations issued by the FED; Medicaid and Medicare are about half of the deficit, a sizable chunk of all printed money goes into government spending in healthcare. This means that the government&rsquo;s buying activity in healthcare drives the prices up and those not on the government healthcare teat will have to pay higher prices; not having had the privilege of paying yesterday&rsquo;s low prices with tomorrow&rsquo;s new money, they will have the pain of paying tomorrow&rsquo;s high prices with yesterday&rsquo;s old money. As the deficit gets worse, more debt will have to be monetized, and there will be more inflation in healthcare. Meaning, healthcare isn&rsquo;t getting any cheaper.
 
 
-<a id="org5a023de"></a>
+<a id="orgdc21366"></a>
 
 # Hoppe&rsquo;s 4-Step Solution to Healthcare
 
 Hans-Hermann Hoppe is an Austro-Libertarian economist known predominantly for his work on covenant communities<sup><a id="fnr.143" class="footref" href="#fn.143">143</a></sup> and argumentation ethics,<sup><a id="fnr.144" class="footref" href="#fn.144">144</a></sup> though my focus here will be on his lesser-known stance on how to solve healthcare in the US.<sup><a id="fnr.145" class="footref" href="#fn.145">145</a></sup>
 
 
-<a id="org848c0cb"></a>
+<a id="orge011ec0"></a>
 
 ## Step 1: revoke all state-mandated licensing requirements for medical schools, hospitals, pharmacies, doctors, and other medical personnel.
 
@@ -561,14 +559,14 @@ Competing voluntary accreditation agencies can more than fill the role that is t
 In addition to these benefits, Hoppe points out that the consumers, now without the belief in a single &ldquo;national standard&rdquo; for healthcare would increase their search costs and be more discriminating in their choices, thereby sidestepping the proposed &ldquo;market failure.&rdquo;
 
 
-<a id="org7de1dbe"></a>
+<a id="org63fc52a"></a>
 
 ## Step 2: revoke all government restrictions on the production and sale of pharmaceutical products and medical devices.
 
 This would mean an immediate dismantling of the FDA, eliminating its hinderance to innovation and the increased costs it causes. In step with the falling costs would be a reduction of prices and consumers acting in accordance with their own personal risk assessments rather than that forced upon them by the state. Competing drug and device manufacturers would, in order to protect against liability suits and to attract customers, provide increasingly better product descriptions and guarantees.
 
 
-<a id="orgafe1293"></a>
+<a id="org1275d95"></a>
 
 ## Step 3: de-regulate the health-insurance industry.
 
@@ -587,14 +585,14 @@ Tom Woods explains the problem with current, state mandated insurance structure:
 To deregulate the industry means to restore it to unrestricted freedom of contract: to allow a health insurer to offer any contract whatsoever, to include or exclude any risk, and to discriminate among any groups of individuals. Uninsurable risks would lose coverage, the variety of insurance policies for the remaining coverage would increase, and price differentials would reflect genuine insurance risks. On average, prices would drastically fall. And the reform would restore individual responsibility in health care.
 
 
-<a id="orgf71d126"></a>
+<a id="orgfae108e"></a>
 
 ## Step 4: Eliminate all subsidies to the sick or unhealthy.
 
 Subsidies create more of whatever is being subsidized &#x2014; this is why there are so many single black mothers, because single-parenthood was, and still is, subsidised. Similarly, subsidies for the ill and diseased promote carelessness, indigence, and dependency. If we eliminate such subsidies, we would strengthen the will to live healthy lives and to work for a living. In the first instance, that means abolishing Medicare and Medicaid.
 
 
-<a id="orgd245140"></a>
+<a id="org8148c9d"></a>
 
 # References
 
