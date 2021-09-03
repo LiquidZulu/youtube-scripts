@@ -1,0 +1,12 @@
+#+TITLE:Stop Complaining... Especially To Yourself [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+If you can do the job in front of you, then do it, and dont complain. If you cannot, then seek someone to help you and dont feel ashamed, but still dont complain, not even inwardly to yourself.

@@ -1,0 +1,12 @@
+#+TITLE:Ignorance Is NOT Bliss [Stoicism] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+When you discover that something awful has been building in the background of your life -- say a partner has been cheating on you, or a friend has been spreading rumours about you -- remind yourself that it is always better to know than to not know. You have profited in your aquisition of this information --- had you remained in ignorance the problem would only get worse.

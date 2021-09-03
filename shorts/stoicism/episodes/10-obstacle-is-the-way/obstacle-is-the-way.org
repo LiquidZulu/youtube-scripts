@@ -1,0 +1,19 @@
+#+TITLE:It Is GOOD When Something BAD Happens [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+If something bad happens, just say; "good, what new opportunities does this open up?" In the same vein as recognising how your interpretation of an event can affect whether it hurts you, you can go one step further and ask how your interpretation of it can even benefit you.
+
+#+begin_quote
+The mind adapts and converts to its own purposes the obstacle to our acting. The impediment to action advances action. What stands in the way becomes the way.
+#+end_quote
+ --- Meditations V.20
+
+Of course, this is very much a mental crutch, because had you wanted your car to break down say, you would have broken it yourself, but now that it has, ask yourself what good can you make come from it? "The obstacle becomes the way" is a recognition that every event creates new possibilities and that saying to yourself "good" when something bad happens and looking for the new opportunities is a far healthier way of dealing with it than complaining about it.

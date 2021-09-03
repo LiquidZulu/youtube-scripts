@@ -1,0 +1,16 @@
+#+TITLE:Get Your Life Back On Track [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Life is an obstacle course and no matter how wise you are, there will be things that throw you off balance. When this happens, make a point of centering yourself at once before proceeding. The more you practice doing so the better you will get at it.
+
+Whatever negative compulsions you've overcome, there will come a time when you fall off the wagon and revert to your old ways. Recognise when this happens and practice pulling yourself back. Do not listen to the voice that tells you to give up because, "today is a write off."
+
+Fully embrace this pursuit of acting virtuously, as when your goal is the pursuit alone, you need not be perfect --- no man is perfect.

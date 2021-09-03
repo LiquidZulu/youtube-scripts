@@ -1,0 +1,88 @@
+#+TITLE:Why Copyright Should Not Exist | Intellectual Property Destroys Innovation | Patents Destroy Innovation | A Libertarian Perspective on Copyright | What Rageaholic and Academic Agent Get Wrong About IP | Debunking Every Pro-Copyright Argument
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Notes
+** Academic Agent https://www.youtube.com/watch?v=uwhwnPWgtq8
+*** Positive Vision of IP
++ IP is like wonkas tickets, buying a book is not buying the paper but buying access to the dream world set forth by the book.
+  + the materials used to make the book are less important than the ideas conveyed
+  + you are buying access to those ideas
++ homesteading of ideas
+  + in the landscape of ideas there are infinite ideas
+  + it only seems fair that the person who gets to a certain configuration of ideas first is considered to have homesteaded the idea
++ copying an idea is not the same as stealing it
+  + claim to IP is violating the property rights of the person who wishes to copy your idea with their own property
+    + misunderstands whats being sold, its not paper and ink being sold but tickets to a dreamworld --- what right has a 3rd party to also sell tickets to that same dreamworld
++ people dont value wheat as wheat per se, but for the functions wheat satisfies
+  + you dont want the wheat but something to satisfy your needs
+  + we take it as granted that a man can own wheat for property
+    + wheat is only a physical token to satisfy the psychic need
++ other intangible goods accepted by liberts
+  + swaps
+  + futures
++ utilitarian grounds
+  + why are property rights good?
+    + they ensure that land is subjected to a self-interested monitor
+      + someone who owns their own home is more likely to look after it than someone who rents or is given land
+      + tragedy of the commons
+        + IP functions in the same way
+          + walt disney would never allow Mickey Mouse to appear in ways untrue to his creation
+          + if everyone was allowed to make Mickey Mouse cartoons Mickey would be abused and debased.
+      + when woodlands are held in common ownership overforestation occurs --- that is that too many trees are cut down
+        + true of IP
+          + Thomas Carlyle has bad SEO
+*** Where Kinsella goes wrong
++ kinsella misses that in the absence of property rights the goods in the world have the appearance of abundance
+  + when the hunter gatherer picks a berry or kills a deer in the woods he does not replace that good
++ supply of "Song of Ice and Fire" stories is limited to the mind of George R. R. Martin
++ conflict over ideas is possible
++ time has a value
+  + taking one course of action imposes an opportunity cost on all other courses of action
+  + austrian justification for wage labour fails if one does not own their time
++ who imagines that mickey mouse is their creation? Who imagines that they have the right to make or sell mickey mouse cartoons without walt disneys permission? Who imagines that they be allowed to write new novels in the song of ice and fire series and then sell them in competion?
++ "no private judge would deny that mickey belongs to disney or that the song of ice and fire belongs to george rr martin"
++ "does disney own mickey, does some rando own him?" --- these are absurdities he says as randos do not own mickey
++ "everyone automatically recognises the right of the creator to ownership"
++ argumentation ethics of IP https://youtu.be/uwhwnPWgtq8?t=1996
+** Rageaholic https://www.youtube.com/watch?v=jV1DxpXllC8
++ not utilitarian argument, moral
++ not good because it works, it works because its good
++ the right to the labour of your mind is not an invention of the government
+  + its a human right
++ to deny a man the right to the product of his mind is to deny the concept of property
++ all property is intellectual property
+  + if a mans mind is his primary interface with the world then its not with his brawn but with his intellect that he erects or purchases a house
++ to expend the time and effort necessary to make a book creates a moral claim to that book
++ duration
+  + authors life + 50 years seems marginally reasonable
++ if an author leaves the product of his mind to his children who are you to intercept that in controversion of his desire
++ Disney is a corporate perversion and its extension of copyright shows that the copyright regulations we argue for are bad
+  + the supreme court is extending IP and making it harder to acquire patents
+  + public domain legislation is what is keeping the mouse in the house
++ IP causes advancement because the copyright act was established right before the hockey stick went up
++ pharma is cutting back R&D because they arent getting patents
++ copyright and patents are different things
+  + patents are inventions that the protections on expire /almost/ immediately being available to the public
+  + copyright is the acknowledgement of a creators right
+    + per american copyright law in order to copyright a creation you must first present proof it physically exists
+      + if you hum a tune and an aerosmith record uses that same melody you cant sue
+        + your mind may have had the thought but it didnt actualise the product
++ patents can only be granted for something that is new which means it isnt theft
++ patents arent monopoly because they copied the name from the british?
+  + its extrapolated from British monopoly grants "letters of patent"
+  + america did away with the process whereby the crown would grant these
++ wizard of Oz was a bigger brand when it was first released because it had IP protections therefore IP protection spread ideas further.
++ licensing doesnt just line the pockets of the monopoly man, it provides an incentive to keep a property relevant
++ licensing fuels innovation because McCormick had to invent the concept of rent to own when he invented the mechanical reaper
++ patents dont prevent the replication of new technology because they are published so people can make similar or complementary tech
+  + you could also license baretta to make laser rifles
++ jefferson was bad guy and he disliked IP
+** Stephan Kinsella
+*** Summary of IP Law
+**** Types of IP
++ IP covers several types of legally recognised rights arising from some type of intellectual creativity.

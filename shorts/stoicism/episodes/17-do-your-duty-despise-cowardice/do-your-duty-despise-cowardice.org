@@ -1,0 +1,17 @@
+#+TITLE:Do Your Duty And Despise Cowardice [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Stand up straight in life, dont be propped up by others, and do your duty without fear --- focus more on whether what you're doing is right or wrong, than on the risk it brings you.
+
+#+begin_quote
+You are much mistaken, my friend, if you think that any man worth his salt cares about the risk of death and doesn’t concentrate on this alone: whether what he’s doing is right or wrong, and his behavior a good man’s or a bad one’s.
+#+end_quote
+ --- Meditations VII.44

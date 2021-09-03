@@ -1,0 +1,28 @@
+#+TITLE:What is Marginal Utility? [Economics 101] [Austrian Economics] | #shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Marginal Utility is the austrian solution to the diamond-water paradox that puzzled classical economists. The "paradox" is that diamonds are far more expensive than water yet are far less useful than water, why is this?
+
+The non-austrian schools have no solution, the solution is easy when you accept the austrian subjective theory of value. This value theory implies a falling marginal utility as more of a good is acquired, say crusoe has 5 units of wheat and the following uses for wheat ranked by his subjective valuation:
+1. bread to sustain life
+2. bread to sustain health
+3. seed for next harvest
+4. feed for goats
+5. to make whisky
+6. ~feed for pet parrot~
+7. ...
+
+What would be the value of one unit of wheat? The same as the value to make whisky, clearly, as even if he lost his third unit he wouldnt forego the seed for the next harvest, he would give up making the whisky. And further if instead of losing a unit he was looking to buy a unit, that 6th unit would be worth only as much to him as feed for his parrot, not as valuable as sustaining his life.
+
+So now we can see why water is worth less than diamonds, an additional bottle of water isnt worth as much to you as a single unit would be in the desert, as you have access to many units satisfying many uses, whereas you generally only have a single diamond.
+
+* Sign off
+Thank you for watching, dont forget to like and subscribe and see the description for more resources.

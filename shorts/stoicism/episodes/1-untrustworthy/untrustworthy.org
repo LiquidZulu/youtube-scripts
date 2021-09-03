@@ -1,0 +1,19 @@
+#+TITLE:What To Do When Someone Betrays You [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+If you've mistakenly trusted an untrustworthy person, then turn the reproach on yourself, the fault is yours. Recognise that untrustworthy, bad, and even evil people exist in the world --- to not expect to encounter them is foolish. Say to yourself; "I have encountered one of them, this is to be expected from time to time."
+
+Then remember that any evil that men do you only harms your sould if you do evil in return. It is your job to be good and to not allow their evil to change that.
+
+#+begin_quote
+The noblest kind of retribution is not to become like your enemy.
+#+end_quote
+ --- Meditations, VI.6

@@ -1,0 +1,16 @@
+#+TITLE:Be Grateful, And Show It [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Marcus Aurelius spends the entire first chapter of Meditations listing the things he is grateful for learning whilst young. This sense of gratitude is oft-absent in our society. Michael Malice notes[fn:1] that many people use social media as a method of pure sorrow, and antagonism towards others. Enough of this. Be grateful for your friends, for your family, for all you have achieved, and for all of your virtues. Be grateful that you are even alive to experience anything at all, and do not be afraid to show it. That will lead you to a more tranquil life.
+
+* Footnotes
+
+[fn:1]https://www.youtube.com/watch?v=BIk1zUy8ehU&t=670s

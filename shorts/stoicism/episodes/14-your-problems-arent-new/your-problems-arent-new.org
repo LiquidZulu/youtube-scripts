@@ -1,0 +1,16 @@
+#+TITLE:Your Problems Aren't New [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main
+The Universe is in constant flux, but theres nothing new under the sun. Whatever challenges you're facing, others have met them before. Obviously, society and technology have moved on, but the human condition remains the same, your partner cheats on you, your friends betrays you, you get passed over for promotion, all these things have been experienced by all of humanity for all of time.
+
+Instead of wailing against them, feeling outrage and shock and repeating the behaviours of those before you, let petty events wash off you and turn your attention to what really matters, keep a sense of proportion and it will help you deal with such things.
+
+Think of all the people before you who responded to the problems you face with shock, outrage, and resentment, where are they now? Nowhere. What, then, was the effect of their reaction? Only misery, tranquility is achieved by not following their path.

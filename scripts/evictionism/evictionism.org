@@ -1,0 +1,68 @@
+#+TITLE:The Abortion Position You Were Never Told About [Evictionism] [Libertarian Abortion]
+#+AUTHOR:LiquidZulu, Libirdy
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Introduction
+Abortion is one of the most devisive issues in modern politics, with even people who agree on nearly everything having staunch disagreements on this topic; Ron Paul and Murray Rothbard are some of the most libertarian guys out there, yet they occupy complete opposite positions on the abortion-opinion-continuum, with Rothbard being pro-choice and Paul being pro-life.
+
+But what if this dichotomy is misleading? What if there is another position that we are missing out, one that is both deontologically correct and has incredibly strong pragmatic and consequentialist arguments. The position I speak of is that of evictionism, developed by Walter Block, which he describes as a "principled compromise" between the two extremes of pro-life and pro-choice.
+
+It should be noted that by principled compromise Block is not saying that we just take the middle position no matter what, as if A says 1+1=2, B says 4 so C says 3 as a compromise. Blocks /principled/ compromise does not contradict sound reasoning from axioms, as I will show below. It should also be noted that this work is based heavily on a paper by Libirdy called "Evictionism: The Libertarian Answer To Abortion."
+
+* Preface
+Both pro-life and pro-choice make appeals to liberty when making their arguments, pro-choice assert the liberty of the mother to choose how her body is used, and pro-life assert the liberty of the baby to not be killed, so even to mainstream eyes this is a debate over liberty, and as such I will proceed with my analysis through a libertarian lens for the most part. To truly understand why evictionism is the correct and truly libertarian answer to the abortion debate, a few fundamental ideas must first be understood.
+
+** Legality vs Morality
+The first fundamental idea that must be understood is the difference between legality and morality. Legality, to put it simply, has to do with when the use of force is justified. Morality, on the other hand, has to do with a more general classification of intentions, decisions and actions as either “good” or “bad.” Because of this, it’s possible for there to be things that could be considered to be immoral by some but should still be legal.
+
+An example of this would be the consumption of drugs like heroin. Another example of this would be prostitution. A third example of this would be engaging in homosexual intercourse. In each of these instances, there are some who would emphatically insist that such conduct is immoral yet despite this, it would be unjust to use force against someone to stop them from engaging in any of the mentioned activities.
+
+To quote Block extensively:
+#+begin_quote
+Libertarianism is a deontological theory of law. Proper legal enactments are those that support this basic premise (e.g. prohibitions of murder, rape, theft, fraud, etc.) and improper ones are those in conflict with it (eg. Good Samaritan laws, seat belt requirements, mandates that the rich be forced to help the poor through programs such as Aid to Dependant Children, welfare, subsidies to the poverty stricken, etc).[fn:1]
+#+end_quote
+
+#+begin_quote
+The bottom line, here, is the question of legality: under what conditions is it justified to use force? In our own personal view, abortion is an evil; we oppose it. It would be nice if all women carried babies to term, and that as a result there were fewer, or better yet, no people killed in this mariner. We are pro-people. We also oppose drugs, alcohol, cigarette smoking, and chocolate eating. We try hard not to do any of these things. However, we would not impose a penalty on ourselves or anyone else for engaging in these actions. It is the same with abortion. The real question is, "What penalties should be imposed for engaging in this practice?" not whether or not it is virtuous or moral to indulge in them.[fn:2]
+#+end_quote
+
+#+begin_quote
+Just because aborting the fetus is abominable, it does not follow that it should be prohibited by law. Under a just e.g., libertarian law code, there are numerous despicable acts, which are not legally proscribed, since they do not constitute "invasions" or "border crossings." Abortion falls into this category. It is a failure to come to the aid of or an unwillingness to become a "good Samaritan." The woman who refuses to carry her fetus to term is in exactly the same position as a person who refuses to rescue a drowning swimmer. Abortion is not, in and of itself, an act invasive of other people or their property rights, even when fetuses are considered persons.[fn:3]
+#+end_quote
+
+** First Principles
+*** Self-Ownership
+A second fundamental idea that must be understood is that when it comes to “justice,” an act is just if it does not undermine the self-ownership of others. Basically, being a self-owner means that an individual being has “use rights” over themselves as well as the power to delegate those “use rights” to others. To put it yet another way, the body is essentially owned by the “self” residing inside (the body is owned by the “self” that emerges from the body’s own biological functions).
+
+Unlike any other possibility of ownership, self-ownership is the only possibility that is not only universal, comprehensive, and consistent, but also grounded in empirical reality.
+
+To clarify, self-ownership is universal because it necessarily applies to the entire “class” of beings (if self-ownership can be applied to one individual being, then the same reasoning can also be used to apply self-ownership to all individual beings). It’s comprehensive and consistent because it can also be applied in any and all possible situations without leading to logical contradictions. And it’s grounded in empirical reality because from the beginning of one’s existence, it can be observed that they are in constant and indefeasible possession of themselves even if their level of rational maturity prevents them from exercising their control to the fullest degree (the “self” has an “objective link” to the body it’s emerged from).
+
+Regarding how people come to own themselves, one of the ways an individual could come to own themselves is through “first use.” Basically, this means that the first person to acquire (or use) something becomes to owner.
+
+Some may argue, however, that a case could be made in favor of the parents being the rightful first users, not the child. But an objection to this is that it is not necessarily true that supplying the ingredients confers ownership (just because a person supplied the ingredients doesn’t mean they own the individual).
+
+Instead, the mother and father could simply be using a part of themselves to create a being that is its own self-owner and then voluntarily allowing the fetus (a self-owner who is currently a non-rational agent but will become a rational agent in the future) to develop themselves (mix their “self” with their own body -- otherwise known as homesteading oneself) first in the body of the woman and then in their home until the child becomes a rational agent (in fact, this is indeed what appears to happen).
+
+Basically, this means that the parent is really just acting as a sort of “temporary trustee” -- not an owner. In doing so, the parent/temporary trustee is allowed do certain things that improve their condition or protect them (ike use force to stop the child from running into the road), but not allowed to allowed to use force to do certain things that would worsen their condition (like spanking).
+
+It should be noted, though, that once the child becomes a rational agent (to be clear, rational agents, in the words of philosopher Hans-Hermann Hoppe, are those who are "capable of communicating, discussing, arguing, and in particular, [who are] able to engage in an argumentation of normative problems”), they would no longer be allowed to use such force against them.
+
+Although some may conclude that after ruling out the parents as the first users, the individual child is, therefore, the true first user, it’s possible to actually establish an “objective link” to justify the ownership an individual has over themselves.
+
+Of course, some may claim that there’s a subject-object issue in claiming that a person can develop/homestead themselves (mix their “self” with their own body). This is because that would mean they exist separately (like in a dualist sense) from their body that they’re developing. To put it another way, one has no body before one gains rights to it.
+
+* References
++ Libirdy, "Evictionism: The Libertarian Answer To Abortion"
+
+* Footnotes
+
+[fn:1]Block, W. (2004), "Libertarianism, positive obligations and property abandonment: children's rights", International Journal of Social Economics, Vol. 31 No. 3, pp. 275-286. https://doi.org/10.1108/03068290410518256
+
+[fn:2]Walter E. Block, Roy Whitehead; "Philosophy of Law: The Supreme Court’s Need for Libertarian Law."
+
+[fn:3]Walter E. Block, Roy Whitehead; "Philosophy of Law: The Supreme Court’s Need for Libertarian Law."

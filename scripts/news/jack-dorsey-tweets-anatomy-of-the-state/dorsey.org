@@ -1,0 +1,54 @@
+#+TITLE:Is Jack Dorsey Becoming Based? [news]
+#+AUTHOR:LiquidZulu, James Jenneman
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Intro
+Jack Dorsey has tweeted out a link to Anatomy of the State by Murray Rothbard. And the leftists are furious --- this could be absolutely massive for us.
+* Elaboration
+Jack has been secretly getting more based in the background of the onslaught that is the modern news cycle. For a few years now he has been getting big into cryptocurrency,[fn:1] namely bitcoin; he broke from the pack in banning Alex Jones, taking far longer than the rest of silicon valley.[fn:2] And I'm not sure how this flew under the radar, but the absolute madman even followed the fucking mises caucus back in April, along with Spencer Schiff and Stephan Kinsella.[fn:3]
+
+[[./images/following-lpmc.png]]
+[[./images/following-kinsella.png]]
+[[./images/following-schiff.png]]
+
+Jack follows a few other notable names, who aren't libertarians per se but are certainly anti-establishment. For instance Caitlin Johnstone, an avid opponent[fn:4][fn:5] of the Cathedral from the left, is on his following tab. Jack also follows former mainstream journalists who are now disgraced for wrongthink; Alex Berenson and Bari Weiss. Alex has spent a great deal of his time recently challenging the mainstream view of the wuhan flu pandemic.[fn:6][fn:7] Bari has spoken out against cancel culture[fn:8] and wokeism[fn:9] countless times. Jack also follows alt news organisation, ZeroHedge. This site has been censored across social media for its unapproved messaging and reporting on evil conspiracy theories (which most often turn out to be true). He also follows various members of the intellectual dark web including Jordan Peterson, Sam Harris and Eric Weinstein.
+
+Seems like Jack is getting pretty fed up[fn:10] with being hauled before congress. In those mind numbing hearings, he’s flippant and defiant, unlike his Facebook counterpart Mark Zuckerberg. Also unlike Zuck, Jack wasn’t inserted into the cathedral as a child.[fn:11] Zuck is what Monica Perez calls a “created person”. He was groomed from an early age to manufacture the culture.
+
+On the other hand, Jack had more-or-less working class parents, he went to a regular school, a state university, transferred to NYU and then dropped out. There’s no Johns Hopkins summer camps, Ivy League feeder boarding schools, or education from the masters of Harvard University in Jack’s closet.
+
+It seems to me that Tim Pool probably got to Jack during his Joe Rogan appearence, coupled with him being pushed out of positions of power, I think he has probably been re-thinking his ideological roots. It’s very possible he’s starting to realise what a Faustian bargain it was to get in bed with the state in the first place.
+
+I for one am willing to welcome Jack with open arms into the liberty movement, we could use such a wealthy ally. Let me know what you think. Is Jack a changed man?
+
+* References
+The work contained here is based on the following references (note, none of these author(s) are aware of this work):
++ https://lpmisescaucus.com/jack-dorsey/jack-dorsey-follows-the-lpmc-james-jenneman/ ([[https://archive.ph/3INwQ][archived]])
+
+* Footnotes
+
+[fn:1]https://www.youtube.com/watch?v=G6q1Wi42E9E
+
+[fn:2]https://www.youtube.com/watch?v=_lPhSreTkXc
+
+[fn:3]https://lpmisescaucus.com/jack-dorsey/jack-dorsey-follows-the-lpmc-james-jenneman/ ([[https://archive.ph/3INwQ][archived]])
+
+[fn:4]https://caitlinjohnstone.com/2021/04/28/reject-mainstream-culture-notes-from-the-edge-of-the-narrative-matrix/ ([[https://archive.ph/QpovZ][archived]])
+
+[fn:5]https://caitlinjohnstone.com/2021/04/29/biden-lied-about-yemen/ ([[https://archive.ph/sIZYz][archived]])
+
+[fn:6]https://alexberenson.substack.com/p/vaccines-reasons-for-concern-569 ([[https://archive.ph/W8JXG][archived]])
+
+[fn:7]https://www.thegatewaypundit.com/2021/08/alex-berenson-tweet-censored-twitter-shows-pfizer-vaccine-nothing-reduce-overall-risk-death-covid-19/ ([[https://archive.ph/koFQw][archived]])
+
+[fn:8]https://www.deseret.com/indepth/2021/3/2/22309605/the-silenced-majority-bari-weiss-new-york-times-cancel-culture-free-speech-democrat-republican ([[https://archive.ph/YIGdP][archived]])
+
+[fn:9]https://www.foxnews.com/opinion/woke-culture-ways-to-fight-back-bari-weiss ([[https://archive.ph/q6pCV][archived]])
+
+[fn:10]https://www.theverge.com/2021/3/25/22350879/jack-dorsey-disinformation-nation-house-of-representatives-twitter-poll-yes-or-no ([[https://archive.ph/UZtXE][archived]])
+
+[fn:11]https://professionaltales.com/mark-zuckerberg-and-how-he-became-famous/ ([[https://archive.ph/uAr8R][archived]])

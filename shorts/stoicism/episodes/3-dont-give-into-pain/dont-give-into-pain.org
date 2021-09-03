@@ -1,0 +1,19 @@
+#+TITLE:Don't Give Into Pain [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Deep down you already know the things you should be doing and yet you are not doing them. That's because you do not have control over your mind, whenever you determine to do something and don't do it, it's because you body has given you some reason not to.
+
+#+begin_quote
+Do not allow pain, drowsiness, fever, loss of appetite [to alter your behavior]... When you’re bothered by things like that, remind yourself: I’m giving in to pain.
+#+end_quote
+ --- Meditations, V.64
+
+When you give into these sensations you make your mind the slave of the body, which leads to unhappiness. Its only through gaining control of your mind that you can act virtuously, and its only by acting virtuously that true happiness, eudaimonia, will be reached.

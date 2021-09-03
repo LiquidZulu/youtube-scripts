@@ -1,0 +1,18 @@
+#+TITLE:Do What Is Right, Even When People Hate You For It [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Say nothing untrue and do nothing unjust, and do not be concerned with whether people recognise you for doing so. If you choose to do a kind act, dont do it in expectation of a future reward --- the acts themselves are their own rewards and what lead to a good life.
+
+Since your job is to act with virtue, act well regardless of how people respond to it, and do not allow the bad actions of another to throw you off course.
+
+Do not expect a perfect outcome, be happy with the smallest progress, and in attempting the good act itself. If your aim is to always attempt to act well, then even if something immovable falls in your way, you have still succeeded.
+
+You may even be hated for your good actions, especially when in a position of authority. The important thing is not to be dissuaded from the right course in search of applause.

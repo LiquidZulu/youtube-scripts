@@ -1,0 +1,20 @@
+#+TITLE:Adversity Is What Makes Us Strong [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+It is a cliche to say "whatever doesnt kill you only makes you stronger," but there is truth in it. It is through adversity that you may test the strength of your character.
+
+Think along these lines:
+#+begin_quote
+It’s unfortunate that this has happened. No. It’s fortunate that this has happened and I’ve remained unharmed by it
+#+end_quote
+ --- Meditations, IV.49
+
+Without these opportunities your soul would decay and when a tragedy does eventually befall you, you will be entirely unprepared.

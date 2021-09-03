@@ -1,0 +1,119 @@
+#+TITLE:Why Ancaps Are Anarchists [Thought Slime Response]
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Notes
+** Thought Slime Anarchism QnA https://youtu.be/b9_wxEzA41o?t=38
++ thought slime says anarchists are not opposed to order
++ says that anarchists oppose hierarchy, authority and oppression
++ "anrchy is when nobody should have power over anyone else, for any reason, unless it absolutely cannot be avoided"
++ "authority is rejected unless it can prove itself to be necessary or beneficial"
+  + Mutual profit
++ "anarchy is no rulers"
+  + says hierarchy means rulers
++ is for direct democracy
++ "whatever authority exists should be mutually consensual and revokable at any time"
++ "ancap is a contradiction because they support capitalism and capitalism requires the state to function"
+** Thought Slime Ancaps Aren't Anarchists https://www.youtube.com/watch?v=OOTlxsn8tWc
++ "anarchism is a spectrum of ideologies that are opposed to unjust hierarchy"
++ "anarchism means without rulers"
++ he points out that owning things and selling labour are hierarchies, but he doenst show them to be unjust hierarchies
++ says the NAP is fine with slavery
++ leftist anarchists say the state should be dismantled as it is a hierarchy without the burden of proof required to justify its existence
+  + and that burden is consent!
++ "ancaps think the state is illegitimate because it interferes with the market"
+  + explain that the market is us
++ says again that the state is necessary for capitalism to function
++ "ancaps /believe/ that taxation is theft"
+  + and we are correct
++ makes stupid point about selling oneself
++ makes stupid point about proudhon
++ "allowing property ownership means an accumulation of property by the few at the expense of the many"
+  + MUTUAL PROFIT!!!
++ "hierarchy means rulers"
++ "if the alternative to exploitation is starvation then the starvation is coercive"
+  + WHAT\textinterrobang
++ takes roth quote out of context
++ "ancaps stole our name :("
++ says cant have capitalism without the state as without the state there is no way to protect private property from the working class
+** springtime of nations ancaps are anarchists
++ "is x y depends on the definitions of x and y"
++ the very same people who tout that proudhon called himself a socialist are allergic to calling nazis socialists even though nazis did so far more recently.
++ first recorded use of the word "anarchism" in english comes in 1642 at the start of the english civil war
+  + here it wasnt an ideology, it was used as a pejorative
+  + ~200 years later, the french Pierre Joseph Proudhon began using the word "anarchism" to describe his ideology
++ in Proudhons, "what is property," proudhon defined anarchy as the absence of a master or sovereign.
+  #+begin_quote
+  Neither heredity, nor election, nor universal suffrage, nor the excellence of the sovereign, nor the consecration of religion and of time, can make royalty legitimate. Whatever form it takes, — monarchic, oligarchic, or democratic, — royalty, or the government of man by man, is illegitimate and absurd.
+  #+end_quote
+  + no ancap disagrees with this
++ "property is robbery"
+  + sounds anithetical to rothbard, and self-contradictory, as theft presupposes property
+  + proudhon is french, meaning he is from the tradition of continental philosophy
+    + so like niche hegel and foucault he has a tendency to write quite poetically, even at the expense of clarity
+  + In france at this time a good portion of the land was controlled by aristocrats, who aquired this land illegitimately
+    + this so-called property was indeed theft
+  + Proudhon's anarchy was an attempt to dis-entangle the concept of property from this theft, which he makes explicit:
+    #+begin_quote
+    Mr. Blanqui recognizes that there are a mass of abuses, odious abuses, in property; for myself, I call /property/ exclusively the sum of those abuses.[fn:1]
+    #+end_quote
+
+    #+begin_quote
+    Thus, according to Mr. Leroux, there is property and property: the one good, the other bad. Now, as it is proper to call different things by different names, if we keep the name “property” for the former, we must call the latter robbery, rapine, brigandage. If, on the contrary, we reserve the name “property” for the latter, we must designate the former by the term /possession/, or some other equivalent; otherwise we should be troubled with an odious synonymy.[fn:2]
+    #+end_quote
+* Main Body
+Thought Slime is wrong when he claims that anarcho-capitalism is not a form of anarchy, and I will show that this is true even within his flawed definitions, then I will show why those definitions are terrible.
+
+** Using his definitions
+Thought Slime has a few contradictory definitions of anarchism, but the general thrust of his concept is that anarchy has no rulers. This definition of anarchism includes anarcho-capitalism, ancaps do not disagree with a single modicum of this.
+
+"But what about wage labour?" Wage labour is not a scenario where one party rules another. A ruler is a person who imposes rules on someone, not one who works out a mutually beneficial and voluntary interaction with a person. And, yes, every single voluntary trade is mutually beneficial, otherwise it would not occur as the losing party wouldn't consent.
+
+Ultimately this comes down to a drastic misunderstanding of what anarcho-capitalism is, Rothbard coined the phrase to distinguish himself from the founder of anarchy, Proudhon, in that Rothbard was an austrian economist and Proudhon was not. That is literally the only difference, what economic theory we hold, we do not detract from Proudhon's anarchism in any way shape or form.
+
+** Proudhon
+"But Proudhon said property is theft!" To cite this is to either be married to the concept that ancaps aren't anarchists so much so that you discount the context, or it is to not have bothered to read the context.
+
+Proudhon was a Frenchman at a time when much of the land in Europe was under the possession of aristocracy who had not traded or homesteaded the property, but conquered it from peasants. This "property" certainly was theft. Proudhon makes this distinction explicit when replying to the French economist, Jérôme-Adolphe Blanqui's, criticism of his "property is theft" concept:
+#+begin_quote
+Mr. Blanqui recognizes that there are a mass of abuses, odious abuses, in property; for myself, I call /property/ exclusively the sum of those abuses.[fn:1]
+#+end_quote
+
+And again in 1841, distinguishing his belief's from those of Pierre Leroux:
+#+begin_quote
+Thus, according to Mr. Leroux, there is property and property: the one good, the other bad. Now, as it is proper to call different things by different names, if we keep the name “property” for the former, we must call the latter robbery, rapine, brigandage. If, on the contrary, we reserve the name “property” for the latter, we must designate the former by the term /possession/, or some other equivalent; otherwise we should be troubled with an odious synonymy.[fn:2]
+#+end_quote
+
+What makes slimes citing of Proudhon extra amusing is the fact that slime is in favour of direct democracy, and when Proudhon defined anarchy he difined it as being opposed to democracy:
+#+begin_quote
+Neither heredity, nor election, nor universal suffrage, nor the excellence of the sovereign, nor the consecration of religion and of time, can make royalty legitimate. Whatever form it takes, — monarchic, oligarchic, or democratic, — royalty, or the government of man by man, is illegitimate and absurd.[fn:3]
+#+end_quote
+
+** Slimes Horrible Definitions
+Before I get to slimes horrific self-contradictions I would ask that you hit the like button if you want to see more anarchist content from an economically literate perspective.
+
+So, in his anarchism Q & A, Slime says that anarchists oppose hierarchy, authority and oppression, and later goes on to say that authority is only rejected where it does not prove itself to be necessary or beneficial. So ignoring the obvious contradiction there, he begs the question of how to know whether its beneficial. Do we ask the authority? The people it rules? Some 3rd party? This is not made clear. He does add to this point later saying that whatever authority exists should be mutually consensual and revokable at any time, which might as well have been written in the Ethics of Liberty --- ancaps do not dispute this.
+
+At this point I run into an issue of what his actual position on hierarchy is, in his "Ancaps aren't real anarchists" video, he says he is opposed to unjust hierarchy, but then debunks ancapism by pointing out that owning things and selling labour are hierarchies, but he doens't show them to be /unjust/ hierarchies. But if I assume is against hierarchy qua hierarchy, and not only unjust hierarchy, then I am forced to ponder how exactly he thinks he can enforce that no hierarchies form without coercing anyone. After all there are hierarchies present in any valued pursuit, Slime is higher in the YouTube hierarchy than me, Usain Bolt is higher in the running hierarchy than Slime, and Shroud is higer on the CS:GO hierarchy than Bolt. Nowhere in these differences of dominance is it implied that anyone is coerced, or ruled.
+
+And in case you were not yet convinced that slime is yet to read a single piece of ancap literature, or even talk to an ancap, he erroneously states that the NAP is fine with slavery, and I have absolutely no clue where he could have conjured that from. Whats more is he sets up a dichotomy between leftist anarchists and ancaps on why they want the state gone, saying the leftists want it gone as it is a hierarchy that does not meet the burden of proof necessary to justify its existence, and assuming that burden is consent then ancaps wholehartedly agree with this. But slime instead says that ancaps want the state gone because it interferes in the market, showing an utter lack of knowledge on what the market is. The market is not some nebulous entity that one can infringe on in a vacuum, the market is just us, its people interacting. To infringe on the market is to infringe on individual market actors.
+
+To top off his economic ineptitude he makes a baseless wager that allowing property ownership means that such property will be accumulated in the hands of the few at the expense of everyone else. This relies on the false assumption that the market is a zero-sum game, but in fact every market participant profits and in allowing for a division of labour you are able to most efficiently allocate scarce resources, scarce resources that otherwise not be put to use.
+
+He also has a strange mask slip where he implies that ancaps are wrong in thinking that taxation is theft. If you think that the state has a right to tax people and that this isn't theft then I hate to break it to you but you are a statist, by definition.
+
+And, he keeps this thread of asserting that capitalism needs the state to function without ever elaborating on why this would be the case, he kind of does whilst fading out at the end where he says that the state needs to enforce private property to stop the working class from attacking it, which goes to show what socialists think working class people are like. I for one think the poors are fully capable of being peaceful individuals rather than roving gangs of yobs.
+
+Now it is time to address the fabled, "we are not anarchists" quote from Rothbard, this was written in an unpublished mid-1950s essay under the pseudonym of "Aubrey Herbert." In the full context of the quote Rothbard elaborates that he is simply saying we are not the left-anarchists of that time who would destroy property, and that similarly we are not archists. To bridge this gap he proposed we call ourselves nonarchists. But, seemingly after further reading into the origins of anarchy with Proudhon Rothbard changed his mind as you can find countless times where he calls himself an anarchist in his published writings that were not written just as he was begining to understand anarchy.
+
+* Footnotes
+
+[fn:1]Qu’est-ce que la propriété, xviii. (translated [[https://theanarchistlibrary.org/library/shawn-p-wilbur-pierre-joseph-proudhon-self-government-and-the-citizen-state][here]], [[https://archive.ph/0kUAU][archived]])
+
+[fn:2]Proudhon, Lettre à Mr Blanqui sur la propriété: deuxième mémoire, (Paris: Prevot, 1841): 130. (translated [[https://theanarchistlibrary.org/library/shawn-p-wilbur-pierre-joseph-proudhon-self-government-and-the-citizen-state][here]], [[https://archive.ph/0kUAU][archived]])
+
+[fn:3]Qu’est-ce que la propriété. (translated [[https://theanarchistlibrary.org/library/pierre-joseph-proudhon-what-is-property-an-inquiry-into-the-principle-of-right-and-of-governmen][here]], [[https://archive.ph/Qeatc][archived]])

@@ -1,0 +1,18 @@
+#+TITLE:EVERYTHING Depends On How You Interpret It [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+"Everything is interpretation" is a quote Marcus Aurelius cites from a Cynic philosopher. He notes that its not literally true, but that its a useful mental crutch. If you take it for what its worth you can apply it to everyday life with amazing results.
+
+With that in mind, remind yourself that how things affect you is determined by your mind's interpretation of them, not the external things themselves. Whatever happens, you can choose how to interpret it, so choose not to feel harmed and you haven't been.
+
+If it rains, you can choose to feel angry at the weather and pained by the sensation of the water on your clothes and body, or you can choose to feel grateful at being alive and able to feel such sensations at all.
+
+Ultimately you are what you continually think, so take care which thoughts you allow to exist in your own head.

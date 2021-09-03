@@ -1,0 +1,21 @@
+#+TITLE:Stop Caring About What Other People Think About You [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+#+begin_quote
+It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own
+#+end_quote
+ --- Meditations, XII.4
+
+This is not an exhortation to arrogance; it's reminding you to do what you know is best regardless of people's reactions. You know what you're about and you know the reason why you're doing what you're doing, you don't need to explain yourself to everyone.
+
+Even worse is when we fawn over and seek the praise of people we dont even respect. Think about that; seeking the praise of those who are worthy of contempt.
+
+Contemplate what difference praise really makes, and consider the insignificance of it in the grand scheme of things. Be honest and straight-forward, dont prance about, trying to portray yourself as something you are not. Abstain from rhetoric and pandering to curry the favour of others.

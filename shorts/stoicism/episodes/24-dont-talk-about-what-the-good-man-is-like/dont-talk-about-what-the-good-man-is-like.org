@@ -1,0 +1,12 @@
+#+TITLE:Stop Talking About The Good Man, Just Be Him [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Stop talking about what the good man is like, just be one. Often people get caught in a rut of analysing exactly what behaviours would make them good, so much so that they forget to actually implement them. The second you have identified a virtuous trait embody that trait, and do not stop in your pursuit of this goal.

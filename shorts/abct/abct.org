@@ -1,0 +1,17 @@
+#+TITLE:This is the Cause of EVERY Recession and I Can Prove It [ABCT] [Economics 101] [Austrian Economics] | #shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+The Austrian Business Cycle Theory states that the cycle of boom and bust that the market periodically goes through is a result of excessive credit due to artificially low interest rates set by the FED.
+
+To demonstrate the argument imagine Robinson Crusoe waking up on a desert island one day to find that some colourful mushrooms are growing outside of his hut that he decides to eat. These mushrooms make him hallucinate that he has a far greater stockpile of resources than he actually does, he sees nearly endless supplies of wood and food. Seeing this he would invest differently than otherwise, instead of fixing the leaky roof of his hut he builds a mansion, instead of building a small raft he builds a yacht --- this is what is called malinvestment.
+
+Upon the hallucinations wearing off, crusoe would notice that this boom he just experienced has wasted vast amounts of resources, the standard keynesian solution would say that he simply needs to eat more mushrooms to get another boom going, but we austrians can see that it isnt the bust that is the origin of the problem, but the overconsumpion present in the boom.
+
+* Sign Off
+Thank you for watching, dont forget to like and subscribe and see the description for more.

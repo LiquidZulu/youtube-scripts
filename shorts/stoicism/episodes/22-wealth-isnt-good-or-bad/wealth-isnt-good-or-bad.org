@@ -1,0 +1,20 @@
+#+TITLE:Wealth Is Neither Good Or Bad [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Wealth, in and of itself, is not a good or a bad thing, it depends on how you use it.
+
+In terms of happiness, "goods," can be a misnomer, it is possible that possessing too many things can make your life worse --- your only true goods are your virtues.
+
+Respect your own mind and prize that. Be satisfied in yourself. If you cant stop prizing other things then youll never be free, youll always be envious, jealous or afraid that someone might come and take things away from you.
+
+With that said, while those who crave wealth are misguided, so are those who despise it or feel guilt at possesing it, as it has just as strong a hold over them. Whats better is to learn to not let it have any hold over you. Learn to make use of it when you have it, but be prepared to let it go. Use it unapolagetically, but also without arrogance.
+
+Treat what you dont have as nonexistent, think only of the things you do have and how much you would crave them if you did not have them. But do not overvalue them such that you would be upset if you lose them.

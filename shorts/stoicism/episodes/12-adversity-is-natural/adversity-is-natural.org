@@ -1,0 +1,16 @@
+#+TITLE:Adversity Is Inherent To Life [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+The Universe is indefferent to your existence, it will throw things at you that will rock your world. Accept this for what it is, difficulties, setbacks, and even tragedies are part of life, they are even part of what it means to be alive, everyone will experience them.
+
+Where such events are in fates hands alone, you should not hope and pray for them not to occur, but rather hope and pray that you will have the strength of character to endure them when they do.
+
+This puts your focus on what you can control, namely, forging the strength of character to endure all onslaughts, rather than that which is out of your control, whether an event will occur.

@@ -1,0 +1,25 @@
+#+TITLE:STOP BEING A DRONE: Take Deliberate Actions [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Frequently we go through life on autopilot, most of the things we do we don't even think about. Enough of this.
+
+#+begin_quote
+[Perform] no random actions, none not based on underlying principles
+#+end_quote
+ --- Meditations, IV.2
+
+Do not wander without a purpose, act deliberately. Observe your own mind critically, as if observing someone else's. In every case ask yourself to what you are currently employing your mind. What sort of soul are you displaying; are you acting like a child, a tyrant, an animal? What's causing you to act this way?
+
+If you can control your actions and think and act systematically you will have an untroubled life.
+
+If you do not observe the movements of your mind, then you will be unhappy.
+
+Further, you can find peace from extrenal events at any time by going within your own mind. But do so briefly, dont retreat from the world.

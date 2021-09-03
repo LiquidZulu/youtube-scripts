@@ -1,0 +1,18 @@
+#+TITLE:See Things As They Really Are To Become Wise [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+A method of lessening the hold things have over you is to look at them for what they really are. Expensive wine is just fancy grape juice. Purple robes are just wool dyed with shellfish blood.
+
+This applies not only to material things, but to actions too. Examine mens ruling principles, especially those of the wise. What kind of things do they avoid or pursue?
+
+Imagine someones soul stripped bare, what evokes their love and admiration, their vanity, their hate? Now try to imagine whether their disdain can really harm anyone, or their praise help anyone.
+
+When facing their insults, hatred, or whatever, look at what sort of person they are, you'll see that you need not strain to impress them, but you should still treat them well.

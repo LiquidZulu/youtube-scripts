@@ -1,0 +1,24 @@
+#+TITLE:Stop Procrastinating To Achieve True Happiness [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Stop being aimless and stop allowing yourself to be distracted, maintain an unwavering commitment and focus once a decision has been made.
+
+#+begin_quote
+If you seek tranquility, do fewer things, better
+#+end_quote
+ --- Meditations, IV.24
+
+#+begin_quote
+Do everything as if it were the last thing you were doing in your life, and stop being aimless, stop letting your emotions override what your mind tells you
+#+end_quote
+ --- Meditations II.5
+
+For any task at hand ask yourself; "why cant I endure it?" You will be embarrassed to answer. Dont focus on any physical characteristic that you cannot change and do not allow yourself to want or pursue what is impossible. Focus instead on the virtues that are in your power to bring forth.

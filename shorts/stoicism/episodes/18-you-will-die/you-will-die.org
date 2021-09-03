@@ -1,0 +1,16 @@
+#+TITLE:You Will Die, Act Now [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Remind yourself how often you have put things off and procrastinated. How many chances youve been given and yet have wasted. Remember your time here is limited, you have a single chance at life before you will one day die forever. Stop seeking approval from others, stop putting things off, decide today to start taking action.
+
+Do not live as if you have endless years ahead of you, death overshadows you always. While youre alive and able, be good. Once you make such a choice you will cease your internal suffering. You suffer justly if you choose to be good tomorrow rather than today.
+
+Just as you accept the limits placed on your height, accept the limits placed on your life. Death will come to us all and fearing the innevitable future does nothing but stop us acting bravely today.

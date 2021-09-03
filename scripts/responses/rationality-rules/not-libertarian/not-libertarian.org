@@ -1,0 +1,103 @@
+#+TITLE:Why Rationality Rules Should Be A Libertarian 👈 | Rationality Rules Has Bad Arguments Against Liberty | Responding to Rationality Rules on Libertarianism | A Sincere Rebuttal of Rationality Rules on Libertarianism
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Notes on https://www.youtube.com/watch?v=e5GB5mZb0yM
++ steelman: libertarianism holds liberty as a core component
+  + classical libertarians wanted to abolish capitalism whereas contemporary libertarians advocate laissez-faire.
+  + all libertarians seek maximising the freedom of the individual and a minimising of the authority of the government.
++ why not a libertarian
+  + walter edward williams said:
+    #+begin_quote
+    Let me offer you my definition of social justice: I keep what I earn and you keep what you earn. Do you disagree? Well then tell me how much of what I earn belongs to you - and why?
+    #+end_quote
+    + walter fell out of the right vagina at the right time --- he inherited a biological and/or socioeconomic advantage that he did not earn and thus he does not deserve all of the fruits of his labour. He was dealt good cards.
+    + walter came from a broken family in a relatively racist country, so how does he have an advantage?
+      + nature rather than nurture:
+        + in 1971 the american political philosopher John Rawls wrote "a theory of justice" and within it he observed that when people contemplate and determine the rules of society they do so selfishly based on their personal circumstances, characteristics and preferences.
+        + thus its no surprise that those who can afford the bare basics want a society where they are not obliged to pay towards other peoples bare basics.
+        + its no surprise that people who can pay their medical bills do not want socialist medicine.
+        + ditto for school
+        + the only reason they seek such a society, rawls argued, is because of their lucky circumstances and thus they would lose out should society seek to equalise
+        + rawls argued that a just society is a society that if you knew everything about it you'd be willing to enter a random place --- veil of ignorance
+          + rawls argues this is a welfare state --- which maximises the prospects of the worst off.
+        + "I was dealt good cards so some of the fruits of my labour should go to the less fortunate and the same is true of walters fruit"
+  + dont believe in natural rights
+    + no justification for life, liberty, and property
+    + "god-given" unconvincing
+    + bible states that its fine to deprive some people of liberty (Leviticus 25:44)
+    + "what makes you think we are born with natural rights? what part of the state of nature yields the right to liberty?"
+    + in the absence of a social contract life is solitary, poor, nasty, brutish and short
+  + dont believe in free will
+    + not responsible for anything
+    + "if my being a youtuber is not /entirely/ of my own volition"
+    + libertarianism doesnt work in determinism
+  + libertarianism doesnt represent true liberty
+    + true liberty requires equal opportunity
+* Main Body
+** Hook
+Rationality Rules has requested that libertarians respond to his reasons for not being a libertarian, which I shall do here by showing that welfare creates poor people, we all accept natural rights, and that equal opportunity is equivalent to rape.
+
+** What is Libertarianism?
+He gives a steelman for libertarianism which differs slightly from what I would say. To me, libertarianism holds liberty as being absolutely central, superceding all else, so it would not be right to say any libertarian wants to abolish capitalism, they may be wrong about economics and think that a free market would lead to a bunch of coops and communes, but if they sought to bring this about by force they would not be libertarian. So I would be fine calling Proudhon a libertarian, but I would not be fine calling Richard Wolff a libertarian, even though they advocate very similar societies.
+
+** Dealt Good Cards
+In any case, Rationality Rules' first argument against libertarianism is that some people are simply dealt better cards and thus they are not entitled to all of the fruits of their labour, citing Rawls' veil of ignorance argument. Essentially, Rawls says, a just society is one in which given you know everything about it you would be fine going into a random position and thus in designing a just society you would make it with a welfare state.
+
+This has two problems; (1) it is not clear that that is how you would design society given the choice, it is essentially asking whether you want everyone to be equally poor or unequally rich. Economics shows us that capitalism is the most efficient way to allocate scarce resources, implying that any socialist equalising force will reduce that efficiency through the economic calculation problem, until total equality is achieved and everyone lives a subsistence life. I know I would certainly choose the unequal prosperity given that knowledge. Problem (2) is with the assumption that welfare states improve the conditions for the poor. It is accepted by basically every economic school that when you subsidise something you get more of that thing. If I subsidise the production of corn, you would expect more corn to be produced cetirus paribus. We can view welfare as a subsidy on being poor, or disabled, or unemployed or whatever the welfare trait is. Thus in subsidising the unemployed you would expect to see more unemployed than otherwise. Welfare, in general, is a subsidy on unproductive activity, meaning you get less production than otherwise, compounded with the reduction in production caused by taxation, this has a great de-civilising force.
+
+*** Taxation is De-Civilising
+Essentially, in a free-market there is a tendency towards a fall in time preference, where time preference refers to how much you value a present good over a future good. A high time preference individual may eat a potato in the present where someone of lower time preference would plant the potato yielding multiple in a few months time. That is, the low time preference individual has allocated his present goods for the production of future goods. The actual amount of present goods allocated to the production of future goods depends on one hand on a persons technological knowledge (without the knowledge of how to build a fishing net, Crusoe would never begin to exchange present goods for its production). And on the other hand his actual supply of present goods and his time preference.
+
+But, neither the supply of present goods nor the technology are given or fixed, rather, they are artifacts created with the intention of improving their appropriator-producer's well-being. These expectations may turn out to be right or wrong, and rather than securing a profit for the actor, his actions may result in a loss. But no one would spend any time picking berries unless he expected the berries to be edible (or satisfy some other desire). No one would appropriate a berry bush unless he thought that this would enhance his berry harvest. In short, nobody would learn about any fact or law of nature, no one would develop new technology, unless he anticipated that such knowledge would help him improve his circumstances.
+
+But why is there a tendency towards a fall in time preference in a free-market in the first place? There are two possibilities when you have two people, A and B, in a market who are not aggressing upon anyone elses property. Either they have no effect on each other, or they further exacerbate the tendency towards a fall in time preference.
+
+The former case, where A and B have no effect on each others time preference, can be demonstrated as follows: in any instance where A appropriates a previously unowned good, or where he transforms such a good into something else; his supply of present goods either goes up, in the case of appropriation, or the value increases in the case of transformation. Where A has more present goods you would expect lower time preference as he now has more to invest in the production of future goods. The case of A transforming a nature given good is such a production. And thus, cetirus paribus, A's time preference will fall so long as he is allowed to appropriate and produce unmolested by B. As this appropriation and producing has no effect on the supply of goods owned by B it affects no force on B's time preference. Thus, overall, societal time preference has fallen.
+
+The latter case, where A and B do have an effect on each others time preference, the tendency is accelerated when A and B engage in voluntary trade or other cooperation, and even without any such trade so long as they observe each others activity and copy each others technololgical knowledge you would see the fall. This occurs in the case of voluntary trade or cooperation between A and B because in this trade or cooperation the supply and/or value attached to the supply of goods of both parties increases, otherwise the trade would not take place, and hence the time preference of both would fall. Moreover, by learning facts and laws from one another, such as that there are potatoes, that potatoes can be eaten, or that one's present potato may yield ten future potatoes, the tendency toward a fall in the rate of time preference spreads from one person to another.
+
+This tendency towards a fall in time preference can be thought of as a civilising force, in that, it moves society away from bare subsistence and immediate satisfaction of ones needs, into a division of labour where all men save resources and respect each other. Simply imagine the reductios, a society with extremely high time preference would see people murdering their neighbor for a sandwich rather than spending the 10 minutes needed to walk to the sandwich shop, as the high time preference individual does not care about the effect this action would have on his future goods, so he would not be concerned with jail time. Conversely a very low time preference society would see people concerned with not only the present but with the far future, they would spend a lifetime saving and investing in order that they may provide for their children, this would be a peaceful society as any aggression carries the risk that ones future goods may be tarnished.
+
+Taxation invariably runs counter to this natural tendency of time preference to fall, as it disincentivises saving and producing. To demonstrate consider the following: taxation is a coercive, non-contractual, transfer of definite physical assets, from their rightful owners who whilst in possession could have derived income from holding them, to some other person or group of people who can now derive income from holding them. But, how did these assets come into possession of the original owner? Excluding prior taxation and noting that only those assets can be taxed that have not yet been consumed or had their value exhausted through acts of consumption (the tax man does not take away a mans garbage), there are three possibilities:
+
+1. The owner perceives some nature-given goods as scarce and actively brings them into his possession before anyone else takes this action --- homesteading
+2. The owner produced them through nature-aquired goods that he previously homesteaded --- production
+3. Through voluntary, contractual, aquisition from a previous appropriator or producer --- trade
+
+It is only through these methods; homesteading, production, and trade, that one is capable of acquiring taxable assets. From this it follows that any form of taxation implies a reduction of income a person can expect to receive from homestaeding, production, or trade. Since these activities require the employment of scarce means which could be used for consumption or leisure their opportunity cost is raised, that is to say, as the revenue one may generate is reduced they value those means relatively lower than the other means they could have undertaken. Following from this, the marginal utility of homesteading, producing, and trading is decreased and the marginal utility of consumption and leisure increased. Accordingly there will be a tendency to shift from the former means to the latter ones, and as the latter means are those of high time preference and are non-productive this is a counter-tendency affecting a /raise/ of time preference. Thus, taxation, in its reduction of both present and future income for producers, effects a tendancy towards higher time preferences cetirus paribus.
+
+Moreover, ignoring the economics for a second, the fact that some people may have been dealt a better hand does not imply that they do not deserve the fruits of their labour. Rationality Rules himself says that some of the fruits of his labour should go to the less fortunate, if he truly believes this I look forward to his next video announcing that he has sold all of his non-essential possessions to give to the poor of the world, unless it is only to some arbitrary limit that he doesn't deserve his stuff, in which case I want him to define that limit.
+
+** Natural rights
+Rationality Rules' second criticism of libertarianism is that he does not believe in natural rights, but before I defend rights I ask that you click the like button if you want to see more content that defends liberty from its critics.
+
+So, lets first discuss what natural rights even are. Natural rights theory states that due to your nature you have certain immutable rights that may not be justly denied to you, libertarians say this only extends to property rights though some are a little poetic in saying you have life, liberty and the pursuit of happiness. I don't know what a right to life or the pursit of happiness would entail so I shall stick to property rights. Your natural property rights are that you get the just say over how your property may be used, and that is it. So someone couldn't stab you if you had done nothing to them as you own your body.
+
+One of Rationality's criticism of this is in the use of the phrase "god-given" with respect to rights, as he is an atheist. In context though, it should be read more like "nature-given," and this is how most modern libertarians use it, for example Rothbard explains natural rights from a secular view in /Ethics of Liberty/.
+
+In any case, Rationality poses the following question; "what makes you think we are born with natural rights? What part of the state of nature yields the right to liberty?" To answer I provide my intersubjective demonstration of liberty, with a note that I need not prove, a priori, that you necessarily have a right to liberty, all I must do is show that Rationality necessarily agrees that people have a right to liberty, as the fact that I cannot prove to you that it is objectively bad to murder someone does not mean that we cannot intersubjectively agree that murder is bad and therefore agree to a system in which murder is banned.
+
+*** Intersubjective Self-Ownership
+Regardless, I demonstrate this by looking at what it would take to reject self-ownership. Ownership is the exclusive say over how something may be used. If I own a tree I may say whether my neighbor is allowed to pick apples from it or chop it down or whatever, if he did something to the tree I did not consent to he would have violated my ownership of that tree. In this, I pose a counter-question to Rationality, "should I have the exclusive say over how my own body is used?" He can respond in one of two ways:
+
+1. I do have the exclusive say in which case I am a self-owner and we agree on libertarianism
+2. I do not have the exclusive say in which case someone else must own me in which case Rationality must come out in favour of slavery, something I doubt he is for.
+
+This puts him in a sticky situation, he is unable to meaningfully hold two contradictory positions, so if we agree that slavery is wrong then he must necessarily accept that people should have their self-ownership recognised. If he disagrees with any of the conclusions of that axiom of self-ownership, he must re-address the slavery point.
+
+What are some of the implications of self ownership? Well if he agrees with that and homesteading then we have all of libertarianism. But aha! What if he rejects the homesteading principle, in that case I would ask what his counter-principle is.
+
+For any given piece of property in his system that property must have originally been some nature-given resource, called /land/ in economic circles. So at what point did this land turn into the property? Say it is a berry that Crusoe has after picking it from a bush, would it be when the berry was first grown? That doesn't seem right, Crusoe was nowhere to be seen, how could it be said that he has the just say over its use if he doesn't know of its existence. Would it be when Crusoe becomes aware of it? That, too, seems dubious, unless we are to suppose that someone has just ownership over the moon, the stars, the sun, everything that a human eye has come across must have been seen by someone first, so do they own those parts of the cosmos? That seems wrong too. How about when Crusoe actually picks the berry? That seems like it would solve our problems, I can't see any more reasonable option available.
+
+So now, what does Rationality suggest, because if he accepts that it is when Crusoe picks the berry that he owns it then he agrees with self-ownership and homesteading, and thus is a Rothbardian. Perhaps he accepts the arbitrary tacked on proviso of locke, stating that enough must be left into common, in which case I would ask him to define how Crusoe must know this and at what point his picking of the berry is no longer allowed. Whats more, imagine a group of people on an island called 1--1000. There are similarly 1000 berries, person 1 picks a berry, so too does 2, then 3, and so on until person 1000 is reached, if the proviso holds he is prohibited from picking this final berry as it would prevent others from getting a berry. But then we are faced with the issue that 999's picking of berry 999 stopped 1000 from picking a berry, so he also violated the proviso, similarly 998 has as well. This logic propogates back to the very first berry, we are forced to conclude that 1 is not allowed to pick berry 1 as it would not leave enough in common, meaning nobody may appropriate anything from nature, something I doubt Rationality Rules' agrees with.
+
+** Free-will
+Rationality's third argument against libertarianism is that the universe is deterministic and thus people are not responsible for anything. But if we are to be so severely reductive why care about anything at all, why say that people who are less fortunate should have stuff given to them, its all pre-determined, who cares right!? I think everyone can see how ridiculous and pointlessly reductive I am being, but that is exactly what Rationality is doing but he limits his rejection of moral responsibility only to libertarianism, why not reject it everywhere? I cannot imagine he would be satisfied if I replied to every video of his saying, "boltzmann brain, boom no point in arguing, pussy."
+
+** Libertarianism Doesn't Represent /True/ Liberty
+His final point against libertarianism is that it does not represent /true/ liberty and that /true/ liberty requires equality of opportunity. To which I ask whether every single person should be given an equal opportunity to be in a relationship with Scarlett Johansson. Isn't it just so anti-liberty that only her husband gets to sleep with her!? I never got such an opportunity and thus the government should step in and force her to get in bed with me, it's only fair. This does after all fit perfectly within the logic of equality of opprotunity when it comes to jobs, to reject nepotism or other forms of discrimination in hiring is to reject consent.

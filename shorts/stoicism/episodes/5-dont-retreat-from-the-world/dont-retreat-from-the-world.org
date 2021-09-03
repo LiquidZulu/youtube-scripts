@@ -1,0 +1,20 @@
+#+TITLE:Don't Retreat From The World [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Some Stoics (Ryan Holliday) try in vain to apply the personal philosophy of stoicism to the outside political landscape --- saying that one should not bother trying to change the outside world. This is flawed.
+
+Humanity is born for cooperation, and we are constituted for one another. Do not allow yourself to become angry with those around you, all into hatred, or give up on trying to make a positive difference in society.
+
+If you conceive of all rational beings as being constituted for one cooperation, then helping people becomes a joy and not just the "right" thing to do.
+
+Learn to feel affection for other people even when they make mistakes, you can do so by recognising that they're human too, and we all make mistakes. What's more, regardless of what they've done they haven't really hurt you so long as you dont let them.
+
+Contemplate the positive qualities of those around you. We all have different abilities and talents, and keeping theirs in mind will make you think better of them.

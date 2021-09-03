@@ -1,0 +1,14 @@
+#+TITLE:Have Some Self Respect, Dont Be Angry [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+With every act ask if you are respecting yourself with it and if you will regret it inside. Watch for and erase any impulse to express things you dont truly believe. Do not view anything as benificial which causes you to break a promise, lose your self-respect, or hate anyone.
+
+When roused to anger, remember that theres nothing manly about giving into emotion, its courtesy and kindness that define a human being --- and a man. He who possesses these qualities posseses strength, nerves, and courage, not the man who is subject to fits of passion and discontent.

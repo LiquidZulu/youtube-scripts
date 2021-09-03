@@ -1,0 +1,109 @@
+#+TITLE:Adam Something is Wrong About Capitalism || The Fatal Flaw of Democracy [Adam Something Response]
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Notes
+** [4/9] The Fatal Flaw Of Free Market Capitalism - https://www.youtube.com/watch?v=03GYzR0LyQM
++ [X] coconut analogy
++ [ ] adams political views are:
+  + for as many people as possible to live the best life they can with the most freedom possible
+  + "in practice this mean that every adult person should be free to do whatever they want as long as they dont harm others"
+    + physically
+    + mentally
+    + financially
++ [ ] pro choice because the fetus isnt a full-fledged person so the mothers interests should take priority
++ [X] defines free market capitalism as
+  + little to no state intervention in the economy
+  + state can control other aspects???
+    + "totalitarian dictatorships can be free market"
+      + later on he says that the state can provide publlic services and infrastructure
++ [X] defines ancap as:
+  + a system without a centralised government
+  + organisation through private initiative, contracts between individuals, and the free market
++ [-] flaw of "free markets"
+  + [X] is your workplace democratic, do you as an employee have a say in how the place is run?
+    + you dont as its up to the boss
+      + this is like a cheifdom
+        + EXCEPT ITS VOLUNTARY! THERE ARE NO RULERS!
+    + you have a situation where the will of the people will be sided with iff:
+      + owner is a nice guy (if the owner consents)
+      + owner doesnt want to lose money due to quitting
+      + owner thinks he will make money from the decision
+        + all come down to consent lmao
+    + "this is not the perfect recipe for freedom"
+      + democracy is rape
+  + [X] "waa waa union busting"
+    + [X] "its illegal :("
+      + irrelevant
+    + [X] if done non-aggressively this is in no way a problem
+    + [X] example
+      + [X] tesla
+        + [X] union leaflet people were "harassed" by three security guards
+          + the guards were warning them that they could be fired for distributing leaflets
+        + [X] "elon tried to convince them not to unionise and US govt says this is illegal :("
+        + [X] "elon offered them a job because if he was paying them they wouldnt be allowed to organise a union"
+        + [X] "tesla banned employees from wearing pro-union t-shirts :("
+          + masks lmao
+        + [X] "tesla fired an organisers co-worker for criticising anti-union co-workers :("
+        + [X] "not giving stock options is the same as murdering people"
+  + [X] "employees have the freedom to switch workplaces or move"
+    + bad framing, they have the utter liberty to recject any trade, nobody if forcing them to work there, Tesla wont invade or tax you if you dont want to work for them
+  + [X] "changing workplace is tricky :("
+  + [X] "what if there are no jobs"
+    + if there are no jobs you dont get a job, this does not confer some priviledge for you to rob people who do have jobs
+  + [ ] things corporations would do in a free market (that they wouldnt do in our heavily regulated one?)
+    + violate your privacy
+      + only if people are fine with a cheaper service in order that they sell their data. Without statist restrictions on crypto you could sell your own data
+  + [X] "according to proponents of free-market capitalism if you are out of options move to another city"
+    + obviously, if nobody in a city wants to hire you and you want a job you would need to go to another city, how is this hard to understand?
+  + [X] "moving is weally weally twicky :("
+    + do sex analogy on all the things you leave because the only woman who wants to sleep with you lives somewhere else
++ [X] flaw of ancaps
+  + "amazon gestapo" --- a state might form
++ [ ] his fatal flaw
+  + free markets increase power and influence of institutions that are autocratic
+  + need democratic counterbalance
+    + "you need a more powerful democratic structure to keep the corporate structures accountable"
++ [ ] "coercion exists in the current system"
+  + "if your only option is to be homeless or to work you arent free"
+* Main Body
+** Hook
+Democracy has no way to ensure liberty, in fact in a democracy the majority are incentivised to coerce minorities. Don't believe me? Stick around for a bit and I'll show why thats the case.
+
+** Coconut Analogy
+First I must address the counterpoint to free-markets as expressed by Adam Something. He borrows the famous coconut analogy, popularised by Vaush. The hypothetical goes as follows; one day you and a fellow man are marooned on a desert island. You wake up to find that the other man has woken up before you and has collected all of the coconuts on the island. Seeing no other available food you ask him if he may give you some so that you will not starve. He responds that he will give you coconuts on the condition that you suck his penis.
+
+What is shocking is that the same people who tweet how sex work is real work seven times a day will call the coconut man coercive, but to hammer that point in I present you an analogy on the flipside. Imagine I have a disease where I will die in a matter of days should I not have sex with a woman, but no woman wants to have sex with me. To be consistent, people who say that you may seize the coconuts and that the coconut man is coercing you would have to say that I may rape women and that prostitutes would be coercing me.
+
+** Adams Misunderstandings of Free-Market Capitalism
+Now, it is worth pointing out that in the video where Adam forwards his criticisms he displays a lack of steelmanning capabilities. A steelman is the opposite of a strawman, it is where you accurately depict your opponents views. He shows he does not understand the free market position by setting up a dichotomy between Anarcho-Capitalism and Free-Market Capitalism, saying ancaps want total privatisation of everything in a stateless society, where as free marketeers are fine with the state so long as it doesn't warp the economy. This shows he lacks an understanding of what the economy is, it is not some abstract entity one may infringe on in a vacuum, the economy is us, its people interacting. Before you accuse me of misinterpreting he states later on that free-markets are not oppossed to totalitarian states nor states providing public services or infrastructure. I don't know about you, but redistributing wealth from people through taxes towards infrastructure projects and welfare programs doesn't sound like the most free market policy.
+
+** Democracy
+His main criticism of free markets is that they are not democratic, as in, the boss gets to make the choices over how the business is run. But there are two problems with this. (1) democracy does not imply consent and (2) a worker/employer relationship is consensual implying no rulers or coercion.
+
+To demonstrate my first point simply consider what democracy is, in its essence it means that 50% + 1 get to dictate policy, so in essence democracy would allow lynch mobs, gang rape, and any number of other group-based violence, as in these instances the majority agree that the crime should occur. Many will protest at this point that democracy can only vote on certain issues, not on whether someone should be subjected to sex, but this simply forces me to ponder where the line is drawn. If you can't vote on whether to rape someone, why can you vote on whether to rob them in order to fund public services?
+
+As for the consensual nature of worker/employer relationships, consider a desert island where Crusoe and Friday live. If Crusoe trades some of his fish for Friday's coconuts they have made a voluntary trade, it would be ridiculous to say that either party is ruling the other as they are not imposing rules on the other. Now, either party may impose any number of terms for them to accept the trade, Friday may tell Crusoe he will only trade the coconuts if Crusoe tells him how to build nets, this does not make Friday a ruler. Now apply this to the worker/employer relationship. The worker has a skill that the employer would like for them to utilise in service of his aims, the worker agrees to do this if and only if they are compensated for their work, and the employer agrees. Notice that this does not confer any right on the part of the worker to dictate how the employer must organise his workplace, it also allows for all of the many rules an employer may wish to have for employees, he simply needs to stipulate these rules as terms in the contract, should these terms not be obeyed he will refuse to continue trading with the employee, in essence, he fires them.
+
+** Union Busting
+Now, before I go into taking apart Adam's tirade against union busting I ask that you hit the like button if you want more content that accurately depicts free-market capitalism.
+
+So, Adam cannot help but blurt out that union busting is against the law in the US every few sentences, this is entirely irrelevant. After all, under the Nazi regime it was perfectly legal to murder scores of innocent Jews. The principle at hand here is whether the action is aggressive, no free-market thinker is against unions that voluntarily form, and these unions may even engage in collective action. The right of me to quit does not change if other people are also quitting. Where unions become a problem is when they are granted special priviledges by the state, which is a near universal policy in the west.
+
+To demonstrate his anti-union busting point he uses the example of Tesla, saying that some employees handing out leaflets were "harassed" by three security guards, but he then elaborates that this "harrassment" consisted of the guards warning the employees that they could be fired for their behaviour. And to reiterate, firing them would be perfectly legitimate. Elon is in no way obliged to continue trading with them. Adam continues his anti-tesla story by saying that elon tried to convince them not to unionise and offered them promotions, a truly horrific action, to top this off he had the nerve to fire someone who was criticising -- sorry, harrassing -- their anti-union coworkers.
+
+But just you wait, because Tesla banned employees from wearing pro-union t-shirts, and I assume by Adam's outrage here that he would be against businesses requiring masks, in fact take the reducio, would Adam be outraged by a school banning naked teachers, or a restaurant banning blackface? I cannot imagine he would be so consistent in this opinion.
+
+The true cherry on top of Adams anti-tesla rant is when he tried comparing not giving people stock options to murdering them.
+
+** getting a diffewent job or mowving is weally twicky :(
+Adam goes on to point out how dreadfully challenging it is to switch workplaces or move to a different city if you dont like the terms imposed. Now, the fact that something is tricky for a person does not confer a right to them to aggress on others to make their life easier. Lets adjust my sex-disease analogy from above to demonstrate this point. I might be in a relationship with a woman who is having regular sex with me, but she says that she will only continue this relationship if I do the dishes every day. I don't like doing the dishes but it would be super tricky for me to find another woman to have sex with me, would we say that I am therefore being coerced and as such the state should come in and force her to continue having sex whether she wants to or not? Whats more, imagine its a poly relationship with a few other men like me, could we vote on whether she has sex with us tonight thereby democratising this relationship? I think we can all see how absurd and disgusting of a society that would be.
+
+So, yes, we free market capitalists do take the super mean position that if you have no job prospects you are forced to move to a place where you do, assuming you want a job that is. But thats only because we like to be consistent and say that if you want any relationship that nobody in your home town consents to you must go elsewhere. I cant imagine Adam would be fine with the state forcing a local woman to sleep with me because I dont want the inconvenience of moving.
+
+** Adams Flaw of Anarcho-Capitalism
+Adam opened his video with a thesis that both free-market capitalism and anarcho-capitalism would lead to horrifically oppressive societies. And his demonstration of that thesis for anarcho-capitalism is that amazon would become the state... Yeah, his proof that ancapism would lead to a horrible society is that it would lead to a horrible society, he provides no economic argument as to why we would expect some gigafirm to form into a state, he just says it would happen. What is extra amusing about this criticism is he is essentially saying that anarcho-capitalism is bad because it might turn into a state, which calls into question why he advocates a state in the first place if they are such awful things.

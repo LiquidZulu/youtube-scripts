@@ -1,0 +1,14 @@
+#+TITLE:Value is Subjective [Marx was WRONG] [Labour Theory of Value Debunking] | #shorts
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Value, wealth, profit, and loss are all subjective, take the example of a hotdog vendor selling me a hot dog for $5. The fact that this trade goes forth implies that I value the hotdog more than the $5 and the vendor, conversely, values the $5 more than the hotdog. If this wasnt the case at least one of the parties wouldnt agree. This means that we each value things differently and entirely subjectively. Moreover, one cannot meaningfully conceive of a price for hotdogs absent of any humans finding hotdogs subjectively desireable.
+* What about equilibrium price?
+But what about the equilibrium price? The equilibrium price is simply the most efficient price at any one time, it is a result of supply and demand, supply being a moving quantity and demand being entirely based upon peoples subjective wants and desires, which also change all the time. This is the point that any price will tend towards, not what any price /should be/, as there is not "correct" price.
+* Sign off
+Thank you for watching, remember to like and subscribe, and check out the resources in the description for more information.

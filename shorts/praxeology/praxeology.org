@@ -1,0 +1,19 @@
+#+TITLE:What is Praxeology? [Economics 101] [Austrian Economics] | #shorts
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Praxeology is the study of human action, it provides a framework for understanding the purposeful behaviour of man. Any praxeological argument with sound logic that is based on irrefutable truths is necessarily true --- we may say that a truth is irrefutable if in trying to deny it you affirm it, known as proof by contradiction.
+
+As George Selgin puts it:
+#+begin_quote
+Praxeology represents an attempt to escape the nihilistic implications of both historicism and empiricism. It affirms the operation of inviolable laws within the realm of human action.
+#+end_quote
+
+Praxeology stands opposed to mainstream economic modelling in that it relies entirely on logical derivations from axioms to construct economic /theories/, not simply economic models. Moreover, these theories may only be contested by the discovery of a fault in one's line of reasoning, not by looking to historical examples --- a praxeological argument can only be countered with another praxeological argument.
+* Sign off
+Thank you for watching, remember to like and subscribe, and check out the resources in the description for more information.

@@ -1,0 +1,23 @@
+#+TITLE:How YOU Should Respond To Unkindness [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu, Robin Homer
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+When someone is being mean or overly-critical of you, notice that there are only two possibilities:
+1. They are right in which case you have no right to complain
+2. They are wrong, in which case they are misguided, or have just made a mistake. Remind yourself of how many mistakes you've made in life and allow yourself to feel pity, not contempt, for them.
+
+By all means point out to them where they've gone wrong, but do so affectionately, not meanly, with hatred in your heart, or to impress onlookers, speak directly to them.
+
+If this dosent work think of what qualities may couter this defect of theirs. As an antidote to unkindness, nature gives us kindness. Very few people are able to continually act unkindly to you if you show continued kindness to them.
+
+#+begin_quote
+No matter what anyone says or does, my task is to be good.
+#+end_quote
+ --- Meditations, VIII.15

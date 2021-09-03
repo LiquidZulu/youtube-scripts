@@ -1,0 +1,10 @@
+#+TITLE:You Are Already A Success [Stoicism] [Jewish Story]
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Define success as the attempt at virtue, hence you are already a success in trying to succeed. To demonstrate this point I borrow a Jewish story: a Rabbi asks his disciples a question. Two men are on a ladder, one man is on the second rung, and the other is on the sixth rung. The rabbi asks, "who is higher." Of course, everyone could tell that the man on the sixth rung was higher, and thats what they answered. And the rabbi told his students; "it's all a question of where they are going."

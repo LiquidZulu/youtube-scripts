@@ -1,0 +1,12 @@
+#+TITLE:Be Open To Correction [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Being corrected is better than remaining in self-deceit. You shouldn't view changing your mind as "losing," or that youre being coerced, it is a free and noble action on your part to change your mind if the evidence turns against you. Just dont change it because of peer pressure or to ingratiate yourself with others.

@@ -1,0 +1,12 @@
+#+TITLE:Love The Liberty Of Others To Offend You [Stoicism] [Meditations] | #Shorts
+#+AUTHOR:LiquidZulu
+#+BIBLIOGRAPHY:e:/Zotero/library.bib
+#+PANDOC_OPTIONS: csl:e:/Zotero/styles/australasian-physical-and-engineering-sciences-in-medicine.csl
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Main Body
+Learn to endure the freedom of others to offend you, you cannot control them so learn to control your reaction instead --- if you do not respond with rage or malice then their insult has caused no damage to your soul. Learn to hear unwelcome truths, as it is always better to know more. Listen attentively to people and seek to place yourself in their shoes.
