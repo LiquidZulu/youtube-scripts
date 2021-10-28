@@ -13,3 +13,5 @@ Science isn't real. Woah! Slow down, don't click off just yet! I am not some cra
 First, I need to get some definitions out of the way so that the claim I am making is clear.
 
 When I am talking about science not being /real/ I am talking about whether it corresponds to objective reality. Anything that is not objectively, a priori true, is not real in my book, at least in the context of this conversation.
+* What Science Is
+Science is, and always has been, a method for generating models that predict experimental results. Science was never intended to give you objective fact, and thus, the fact that it does not is no criticism of science. Science is by far the most effective tool we have for generating predictions of what the outcome of a given experiment will be, as that is what is used to refine it. This is already a huge accomplishmet, we need not tack on the ability to give a priori truths in order to appreciate science, it is already magestic.

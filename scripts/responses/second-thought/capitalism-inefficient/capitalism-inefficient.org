@@ -1,0 +1,11 @@
+#+TITLE:Yes, Capitalism Is Actually Efficient [Second Thought Response] | Why Capitalism is the Most Efficient System
+#+AUTHOR:LiquidZulu, Freidrich A. Hayek
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Notes
+** The Use of Knowledge in Society https://mises.org/library/use-knowledge-society
++

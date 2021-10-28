@@ -3615,7 +3615,7 @@ hiring is to reject consent.&lt;/content>
   <property name="kdenlive:folder.-1.38">titles</property>
   <property name="kdenlive:folder.-1.50">quotes</property>
   <property name="kdenlive:folder.50.51">rawls</property>
-  <property name="kdenlive:docproperties.activeTrack">5</property>
+  <property name="kdenlive:docproperties.activeTrack">0</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
@@ -3630,7 +3630,7 @@ hiring is to reject consent.&lt;/content>
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">21.04.3</property>
-  <property name="kdenlive:docproperties.position">17091</property>
+  <property name="kdenlive:docproperties.position">5927</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_1080p_24</property>
@@ -3660,15 +3660,15 @@ hiring is to reject consent.&lt;/content>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">not-libertarian.mp4</property>
   <property name="kdenlive:docproperties.renderzone">1</property>
-  <property name="kdenlive:docproperties.scrollPos">0</property>
+  <property name="kdenlive:docproperties.scrollPos">2899</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.videoTarget">3</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">17071</property>
-  <property name="kdenlive:docproperties.zoom">15</property>
-  <property name="kdenlive:expandedFolders">104;38</property>
+  <property name="kdenlive:docproperties.zoom">8</property>
+  <property name="kdenlive:expandedFolders">104</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:folder.22.104">JBP</property>
   <property name="xml_retain">1</property>
@@ -4167,6 +4167,7 @@ hiring is to reject consent.&lt;/content>
     <property name="kdenlive_id">fadeout</property>
     <property name="gain">1</property>
     <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <entry producer="producer110" in="00:00:00.000" out="00:01:49.917">

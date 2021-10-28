@@ -288,7 +288,7 @@ So this insertion seems to be just the perfect thing to add, with no draw-backs:
 *** RaTG13 (aka RaBtCoV/4991?)
 /For my research on this topic I am indebted to [[https://nerdhaspower.weebly.com/ratg13-is-fake.html][an article]] by Nerd Has Power, and [[https://onlinelibrary.wiley.com/doi/full/10.1002/bies.202100015][a paper]] by Deigin and Segreto./
 
-So above I have been displaying evidence that the virus is synthetic assuming that RaTG13 is some natural base that was used to create it because they are so similar. But let's look closer at RaTG13 and see if we can find any anomalies with it too, because if we can then the case that SARS2 is natural is even more farfetched as it is the main piece of evidence the natural crowd use to prove a natural origin, along with 2 more recent viruses, [[MP789]], and [[RmYN02]]. I address those 2 later in this document.
+So above I have been displaying evidence that the virus is synthetic assuming that RaTG13 is some natural base that was used to create it because they are so similar. But let's look closer at RaTG13 and see if we can find any anomalies with it too, because if we can then the case that SARS2 is natural is even more farfetched as it is the main piece of evidence the natural crowd use to prove a natural origin, along with 2 more recent viruses, [[It looks like GD Pangolin-CoV (MP789)][MP789]], and [[RmYN02]]. I address those 2 later in this document.
 
 **** Vague Sampling Details
 Very little information on the sampling site and sequencing methods used to isolate RaTG13 was released by the authors, Zhou et al., at the time of its discovery. In their paper they simply state:[fn:58]

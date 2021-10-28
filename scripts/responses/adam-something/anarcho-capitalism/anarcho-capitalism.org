@@ -1,0 +1,20 @@
+#+TITLE:What Anarcho-Capitalism Would Actually Look Like [Adam Something] | Adam Something Doesn't Understand Anarchy | Adam Something Doesn't Understand Economics
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Notes
++ ancap is a stateless society, all firms privatised
++ iceland
+  + existed from 930--12(62/63)
+    + icelanders voted to ask king of norway to take over the country
+    + suffered from chaos and division during Age of Sturlungs
+      + see wikipedia
+    + Icecapistan could have only fallen three ways
+      1. invasion
+      2. manipulation
+      3. ignorance
+    +

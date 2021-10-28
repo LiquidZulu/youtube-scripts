@@ -1,0 +1,43 @@
+#+TITLE:Taxation Destroys Civilisation, Heres Why | Tax Slows Progress | Why Tax Leads Us To The Stone Age |
+#+AUTHOR:LiquidZulu
+#+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
+#+OPTIONS: ^:{}
+#+begin_comment
+/This file is best viewed in [[https://www.gnu.org/software/emacs/][emacs]]!/
+#+end_comment
+
+* Thesis
+Taxation is a necessary counter-tendency to the natural tendency of time preference to fall in a free-market. Any amount of taxation, big or small will neccessarily apply a force on society in the direction of barbaric subsistence. I provide you now with a spark-notes summary of my argument for this, which I hope will aid in comprehension of the full argument, as it can get complex:
+
+* Time Preference
+** Explanation
+To put it breifly, time preference refers to how much a person values a present good over a future good, a high time preference individual may eat a potato in the present, where his lower time preference counterpart would plant a potato yielding 10 potatoes in the future. That is to say, that the low time preference individual allocated his present goods for the production of future goods.
+
+** Law 1: Technological Knowledge Reduces Time Preference
+This brings forth a point of utmost import, that the low-time preference man needed to expect that his planting of the potato would lead to 10 potatoes in future, bringing us to our first law governing time preference; that time preference with respect to a certain good (potatoes in this case) is lower where knowledge about the production of said good using a present quantity of the good is greater. That is to say; your time preference is lowered when you expect that allocating present goods to the production of future goods will actually yield more goods. After all, without knowledge of how to build a fishing net, say, Robinson Crusoe would never put aside present resources for the construction of one.
+
+** Law 2: Supply of Present Goods Reduces Time Preference
+But there is a second law inherent to this scenario, namely that the time preference is lower where there is a greater supply of present goods /to/ allocate to the production of future goods. That is to say, that if Crusoe has 100 potatoes, he is likely to allocate more to future potatoes than if he had, say, 10 potatoes. This is because the marginal utility of each potato drops the more he has, meaning he values them less, meaning he is more apt to invest them for future potatoes.
+
+** Some Asides
+Marginal utility refers to how much you value a given quantity of a good, and this drops as you acquire more of a good, for an explanation of that check the card for my #short video on the topic, then come back here for more on taxation.
+
+A noteworthy aside is that this technological knowledge need not be accurate, it is possible that Crusoe is wrong that his planted potatoes will yield more in the future, and instead of reaping a profit he could incur a loss. Such is the risk involved in investing with imperfect information.
+
+** Tendency To Fall
+The tendency of time-preference to fall can now be demonstrated with the above laws as follows; there are exactly two possibilities when you have two people, A and B, who are not aggressing upon anyone elses property --- either they have no effect on each other, in which I shall demonstrate the tendency for a fall in the individual case, or they further exacerbate this tendency towards a fall through peaceful interaction.
+
+The former case, where A and B have no effect on each others time preference, can be demonstrated as follows: in any instance where A appropriates a previously unowned good, or where he transforms such a good into something else; his supply of present goods either goes up, in the case of appropriation, or the value increases in the case of transformation. TRANSFORMATION LOWERING TIME PREFERENCE???
+
+Where A has more present goods you would expect lower time preference as he now has more to invest in the production of future goods. The case of A transforming a nature given good is such a production. And thus, cetirus paribus, A's time preference will fall so long as he is allowed to appropriate and produce unmolested by B. As this appropriation and producing has no effect on the supply or value of goods owned by B it affects no force on B's time preference. Thus, overall, societal time preference has fallen.
+
+The latter case, where A and B do have an effect on each others time preference, the tendency is accelerated when A and B engage in voluntary trade or other cooperation, and even without any such trade so long as they observe each others activity and copy each others technololgical knowledge you would see the fall. This occurs in the case of voluntary trade or cooperation between A and B because in this trade or cooperation the supply and/or value attached to the supply of goods of both parties increases, otherwise the trade would not take place, and hence the time preference of both would fall. Moreover, by learning facts and laws from one another, such as that there are potatoes, that potatoes can be eaten, or that one's present potato may yield ten future potatoes, the tendency toward a fall in the rate of time preference spreads from one person to another.
+
+If we do not have this caveat that A and B do not aggress on one another the argument falls, if A may initiate some conflict with B through using B's property in a way that B does not want, it is entirely possible that A could damage B's property, lowering its supply or value. This will be important in a second, but for now I must discuss why I view time-preference as a measure of civilisation.
+
+* Time-Preference as a Measure of Civilisation
+I view this tendency towards a fall in time preference as a civilising force, in that, it moves society away from bare subsistence and immediate satisfaction of ones needs, into a division of labour where all men save resources and respect each other, or at the very least, don't actively damage each other.
+
+Simply imagine the reductios, a society with extremely high time preference would see people murdering their neighbor for a sandwich rather than spending the 10 minutes needed to walk to the sandwich shop, as the high time preference individual does not care about the effect this action would have on his future goods, so he would not be concerned with jail time, or retribution from the mans family, say. Conversely a very low time preference society would see people concerned with not only the present but with the far future, they would spend a lifetime saving and investing in order that they may provide for their children, this would be a peaceful society as any aggression carries the risk that ones future goods may be tarnished.
+
+Moreover, ones time-preference can be extended beyond ones life if that person has children that they wish to leave with resources, meaning the low time-preference society has parents that care for, and provide for their children, even in death, leading to an ever-increasing accumulation of capital goods as the generations pass.
