@@ -1,22 +1,22 @@
 
 # Table of Contents
 
-1.  [The Purpose of the Mises Caucus](#org6ac7353)
-2.  [Counter Mandates](#orgebbcde5)
-3.  [The Hubris of Pragmatism](#org338f84e)
-4.  [Walk Away From Omelas](#org125b95b)
-5.  [On the Duty of Neo-Prags to Shut Up](#orgb01d24f)
-6.  [Good People Fed Lies](#orgc376ca6)
-7.  [Pragmatism Over Truth](#orge19e541)
-8.  [We Can Have Freedom After the Revolution](#orgbce9c61)
-9.  [Living in Ancapistan in Your Head](#orgdd0c2b5)
-10. [Preferences Aren&rsquo;t Laws](#orgf514f01)
-11. [The White Pill](#org9609b19)
-12. [I&rsquo;m Just Shitposting Bro, It&rsquo;s Called Irony](#org822bc03)
+1.  [The Purpose of the Mises Caucus](#org7f1b6e6)
+2.  [Counter Mandates](#org792229b)
+3.  [The Hubris of Pragmatism](#orgc63e200)
+4.  [Walk Away From Omelas](#org05aaf75)
+5.  [On the Duty of Neo-Prags to Shut Up](#org422ca33)
+6.  [Good People Fed Lies](#orge4c01c7)
+7.  [Pragmatism Over Truth](#org4b4c2f4)
+8.  [We Can Have Freedom After the Revolution](#org89b3473)
+9.  [Living in Ancapistan in Your Head](#orge8928cc)
+10. [Preferences Aren&rsquo;t Laws](#orgcdafa33)
+11. [The White Pill](#orgb84ecef)
+12. [I&rsquo;m Just Shitposting Bro, It&rsquo;s Called Irony](#org4de6b47)
 
 
 
-<a id="org6ac7353"></a>
+<a id="org7f1b6e6"></a>
 
 # The Purpose of the Mises Caucus
 
@@ -25,7 +25,7 @@ The Libertarian Party Mises Caucus was founded for the purpose of principled mes
 It was necessary to form this principled caucus because for many years the LP had been under the control of the prag caucus, who were willing to sacrifice the message for the sake of mainstream appeal, citing this as the more &ldquo;pragmatic&rdquo; approach to achieving liberty. A similar cancer has now gripped the Mises Caucus itself, and if it is not rooted out it could set back the liberty movement by years. This cancer is that of the neo-prags who wish to sacrifice adherence to libertarian ethics out of high time preference<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup> and frustration with the Cathedral. This is the most urgent problem in intralibertarian discourse. Whether or not it is addressed will determine whether the movement will be characterised by the principles of liberty or impulsive reactions against whatever the enemy does. Where old prags bent over backwards to appease the establishment, neo-prags do the same for the anti-establishment, both at the expense of truth and ethics.
 
 
-<a id="orgebbcde5"></a>
+<a id="org792229b"></a>
 
 # Counter Mandates
 
@@ -36,7 +36,7 @@ Their general speil is that while not ethical to ban businesses from enforcing t
 We can take this further by imagining a hypothetical US, where the federal government mandated that all businesses must enforce Jim Crow. Would the proper libertarian response be to support states mandating that no business can discriminate on the basis of race? That hardly seems right, libertarianism is opposed to all forms of anti-discrimination legislation,<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup> but this is not only an issue of ethics. Expanding the states ability to regulate freedom of association is a terrible strategy for attaining anarchy. If it is possible for states to implement their own mandates why not just negate the federal mandates, rather than negating them *and* implementing their own mandates on top. This is analogous to Walter Blocks framing of abortion as being evicting *and* killing. We can be for the negating of the federal mandate and against the implementation of a state mandate on top of that.
 
 
-<a id="org338f84e"></a>
+<a id="orgc63e200"></a>
 
 # The Hubris of Pragmatism
 
@@ -45,14 +45,14 @@ The neo-prag belief that they know when we should go about expanding the state &
 So, this is a similar concept to what Jordan Peterson speaks of when he discusses the narcissism of authoritarianism. Essentially when I am saying that some previous regime was not real socialism, and that my ideas could implement proper socialism, what I am really saying is that I am smarter than those previous dictators and that if I was the dictator I could do a better job. A similar thing happens when I say that I can decide when ethics apply and when they don&rsquo;t; in saying that I imply that I am smarter than everyone else. How so? You may be asking, this is because of a second premise they take up, that they don&rsquo;t want others to decide when ethics don&rsquo;t apply to them. This is the essence of libertarianism, and these people still consider themselves libertarian, the belief that a person or a group of people are capable and that they should centrally plan ethics in this manner is statism. And as these people are at least ostensibly anarchist, what they are saying is that statism is fine so long as they are in charge.
 
 
-<a id="org125b95b"></a>
+<a id="org05aaf75"></a>
 
 # Walk Away From Omelas
 
 If you are not like that and wish to actually remain consistent in your principles a good test of that is found in the short story &ldquo;The Ones Who Walk Away from Omelas.&rdquo; The story is about a perfect utopia, Omelas, a shimmering city of unbelievable happiness and delight, but the maintenance of this utopia requires that a single child be kept in perpetual filth, darkness, and misery. When citizens are old enough to be told the truth most, though initially shocked, ultimately accept this as a necessary injustice. Some however, silently walk away from the city, and no one knows where they go. The man of principle is a man who walks away from omelas, the high time preference neo-prags would sign up to aid in the torture of that child.
 
 
-<a id="orgb01d24f"></a>
+<a id="org422ca33"></a>
 
 # On the Duty of Neo-Prags to Shut Up
 
@@ -71,7 +71,7 @@ Rothbard notes further that throughout all of recorded history, pragmatism has n
 > Anarcho-Pragmatism, then, simply doesn&rsquo;t work. It cannot push radicalism among the public, and it cannot build a radical movement. All it can do is subvert, weaken, and, if unchecked, even destroy the libertarian movement which the anarcho-pragmatists claim they are striving to strengthen and promote. Objectively, anarcho-pragmatists can only function as wreckers of libertarianism, And since moral passion and ideology *work* and pragmatism doesn&rsquo;t, the anarcho-pragmatists have a pragmatic *obligation* either to convert to natural rights, or, at the very least, to *pretend* to convert and then use natural rights and ideology as a weapon with which to build an anarchist movement. Objectively, then, and *on their own terms*, the anarcho-pragmatists have a solemn duty to surrender, to shut up about their doctrines and abandon the field.
 
 
-<a id="orgc376ca6"></a>
+<a id="orge4c01c7"></a>
 
 # Good People Fed Lies
 
@@ -92,7 +92,7 @@ But this conditioning has given the neo-prags an in, people like Pete<sup><a id=
 It is my hope that with this video, people will be made aware of the danger neo-pragmatism holds and will thus know it when they see it, and avoid succumbing. But if we remain silent on this issue it will never die out, subversion lives in the dark, do not allow people to get away with it, call them out on their incorrect and anti-liberty beliefs.
 
 
-<a id="orge19e541"></a>
+<a id="org4b4c2f4"></a>
 
 # Pragmatism Over Truth
 
@@ -105,14 +105,14 @@ And I mean incorrect in the literal sense, they are objectively incorrect when t
 ![img](./images/quinones-against-logic.jpg)
 
 
-<a id="orgbce9c61"></a>
+<a id="org89b3473"></a>
 
 # We Can Have Freedom After the Revolution
 
 We are fast approaching a time when it will be impossible to catch out neo-prags with reductios ad absurdum. Normally what you would do to show these people that they hold bad beliefs is ask them something along the line of; &ldquo;would you kill innocent people to achieve your desired political ends,&rdquo; which is met with a resounding &ldquo;no&rdquo; in any reasonable group of libertarians. But some neo-prags can be seen on twitter advocating that children be slaughtered and that the families of politicians be coerced. I cannot help but recall a story that Michael Malice tells<sup><a id="fnr.8" class="footref" href="#fn.8">8</a></sup> of Emma Goldman, a leftist anarchist who was deported from the US to the Soviet Union. Upon arrival she was horrified at the many things Lenin was doing and she confronted him in his office, saying; &ldquo;this is not what we are about, the revolution is about freedom&rdquo;<sup><a id="fnr.9" class="footref" href="#fn.9">9</a></sup> to which Lenin responded that freedom was a bougoise contrivance, and you cannot have it in the midst of a revolution.
 
 
-<a id="orgdd0c2b5"></a>
+<a id="orge8928cc"></a>
 
 # Living in Ancapistan in Your Head
 
@@ -125,7 +125,7 @@ There is also the snuck premise that living by your principles will just lead to
 Duchamp gives an analogy from Physics, that of the Second Law of Thermodynamics. The law states that in any isolated system, entropy cannot decrease, that is to say, that any isolated system will tend to thermodynamic equilibrium. But, in reality we don&rsquo;t see any isolated system, every system we come accross has energy coming in from outside, and/or energy leaving from it. So are physicists &ldquo;living in the Second Law of Thermodynamics in their heads?&rdquo; Is it pointless to consider the ideal case? Of course not, looking at the ideal case gives you a baseline with which you can analyse the real world with all of its messiness. Relating this back to anarcho-capitalism, we could ask whether ancap would devolve into statism, or rather, would we expect it to. This is asking whether private security firms have a tendency towards monopolisation, which any austrian will tell you isn&rsquo;t the case. But that requires us to look at the praxeologic ideal, rather than looking to the real world. Basing economic theory like that on empirical observation is epistemelogically flawed, and I think the neo-prags know this, yet they are basing their ethics on empiricism, surely just as flawed. That is to say, neo-prags can be reasonably framed as ethical-keynesians, not just for their empiricism but for their high-time preference.
 
 
-<a id="orgf514f01"></a>
+<a id="orgcdafa33"></a>
 
 # Preferences Aren&rsquo;t Laws
 
@@ -135,14 +135,14 @@ Neo-prags will often share memes of this sort:
 This is an equivocation tactic, they want people to believe, and perhaps they themselves believe, that they are taking up the position this meme takes. Namely, that it is silly to tell people that they are not allowed to complain about the actions of a private company, as this is a rejection of preference. But that is not at all what neo-prags advocate, they wish to violently coerce rather than criticise and peacefully disassociate from companies who do things they don&rsquo;t like. Their frequent uttering of the &ldquo;it&rsquo;s a private company bro&rdquo; meme is an attempt to conflate principled libertarians with the leftist scourge, which sets a false dichotomy between a principled left and an unprincipleld right. It is very much not a good idea to cede the concept of principle to the left, as that is, as I explained above, ceding the concept of being correct to the left.
 
 
-<a id="org9609b19"></a>
+<a id="orgb84ecef"></a>
 
 # The White Pill
 
 But there is reason to be optimistic in the face of this issue; as described above, there was a neo-prag wave in Rothbard&rsquo;s time that was evidently quelled, and did not destroy the movement. And further, there does seem to be some pushback arising in the Mises caucus, Pete Quinones recently tweeted out that he is withdrawing his support due to a dispute with a founding member. I have also been assured by people in the caucus that the leadership is resolute on principle, meaning the problem is more focused on orbiters on twitter and various podcasts and the like. This fact allows for a disproportionate utility in publicly denouncing this behaviour, as it has no intellectual backing.
 
 
-<a id="org822bc03"></a>
+<a id="org4de6b47"></a>
 
 # I&rsquo;m Just Shitposting Bro, It&rsquo;s Called Irony
 
