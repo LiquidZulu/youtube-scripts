@@ -2969,34 +2969,7 @@ in Your Head&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
- <producer id="producer85" in="00:00:00.000" out="00:01:32.083">
-  <property name="length">2211</property>
-  <property name="eof">pause</property>
-  <property name="resource">D:/_Music/youtube-music/Your Best Friend Jippy/Don't Blame Me.mp3</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">fltp</property>
-  <property name="meta.media.0.codec.sample_rate">48000</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">mp3float</property>
-  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
-  <property name="meta.media.0.codec.bit_rate">135854</property>
-  <property name="meta.attr.0.stream.encoder.markup">Lavc57.89</property>
-  <property name="meta.attr.encoder.markup">Lavf57.71.100</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:folderid">18</property>
-  <property name="kdenlive:id">96</property>
-  <property name="kdenlive:file_size">1564269</property>
-  <property name="kdenlive:file_hash">b74bbbe326593e3fbc8af2de5094568b</property>
-  <property name="global_feed">1</property>
-  <property name="kdenlive:audio_max">1</property>
- </producer>
- <producer id="producer86" in="00:00:00.000" out="00:00:04.958">
+ <producer id="producer85" in="00:00:00.000" out="00:00:04.958">
   <property name="length">00:00:05.000</property>
   <property name="eof">pause</property>
   <property name="resource">images/frank-says-cauc-good.png</property>
@@ -3014,7 +2987,7 @@ in Your Head&lt;/content>
   <property name="kdenlive:file_size">34713</property>
   <property name="kdenlive:file_hash">0106b9f425c11ab5c391227d15b36d12</property>
  </producer>
- <producer id="producer87" in="00:00:00.000" out="00:00:04.958">
+ <producer id="producer86" in="00:00:00.000" out="00:00:04.958">
   <property name="length">00:00:05.000</property>
   <property name="eof">pause</property>
   <property name="resource">images/I-was-only-pretending.png</property>
@@ -3032,7 +3005,7 @@ in Your Head&lt;/content>
   <property name="kdenlive:file_size">93532</property>
   <property name="kdenlive:file_hash">a6517b521b8bc474fb52d6e60b0a4421</property>
  </producer>
- <producer id="producer88" in="00:00:00.000" out="00:00:04.958">
+ <producer id="producer87" in="00:00:00.000" out="00:00:04.958">
   <property name="length">120</property>
   <property name="eof">pause</property>
   <property name="resource"/>
@@ -3063,7 +3036,7 @@ it's called irony..."&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
- <producer id="producer89" in="00:00:00.000" out="00:01:32.667">
+ <producer id="producer88" in="00:00:00.000" out="00:01:32.667">
   <property name="length">2225</property>
   <property name="eof">pause</property>
   <property name="resource">D:/_Music/youtube-music/Your Best Friend Jippy/Bahia Tyrannulet (Outro).mp3</property>
@@ -3090,7 +3063,7 @@ it's called irony..."&lt;/content>
   <property name="kdenlive:audio_max">1</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="producer90" in="00:00:00.000" out="00:00:04.958">
+ <producer id="producer89" in="00:00:00.000" out="00:00:04.958">
   <property name="length">00:00:05.000</property>
   <property name="eof">pause</property>
   <property name="resource">images/bob-murphy-being-based.png</property>
@@ -3108,7 +3081,7 @@ it's called irony..."&lt;/content>
   <property name="kdenlive:file_size">86059</property>
   <property name="kdenlive:file_hash">be0fc43d35bf490f1ef7f7400cdb19d1</property>
  </producer>
- <producer id="producer91" in="00:00:00.000" out="00:00:03.375">
+ <producer id="producer90" in="00:00:00.000" out="00:00:03.375">
   <property name="length">82</property>
   <property name="eof">pause</property>
   <property name="resource">images/ronpaul-happening.gif</property>
@@ -3150,7 +3123,7 @@ it's called irony..."&lt;/content>
   <property name="meta.media.progressive">1</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="producer92" in="00:00:00.000" out="00:00:04.958">
+ <producer id="producer91" in="00:00:00.000" out="00:00:04.958">
   <property name="length">120</property>
   <property name="eof">pause</property>
   <property name="resource"/>
@@ -3180,13 +3153,40 @@ it's called irony..."&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
+ <producer id="producer92" in="00:00:00.000" out="00:01:32.083">
+  <property name="length">2211</property>
+  <property name="eof">pause</property>
+  <property name="resource">D:/_Music/youtube-music/Your Best Friend Jippy/Don't Blame Me.mp3</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3float</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">135854</property>
+  <property name="meta.attr.0.stream.encoder.markup">Lavc57.89</property>
+  <property name="meta.attr.encoder.markup">Lavf57.71.100</property>
+  <property name="seekable">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">55</property>
+  <property name="kdenlive:id">96</property>
+  <property name="kdenlive:file_size">1564269</property>
+  <property name="kdenlive:file_hash">b74bbbe326593e3fbc8af2de5094568b</property>
+  <property name="global_feed">1</property>
+  <property name="kdenlive:audio_max">1</property>
+ </producer>
  <playlist id="main_bin">
   <property name="kdenlive:folder.-1.15">A roll</property>
   <property name="kdenlive:folder.-1.16">Citations</property>
   <property name="kdenlive:folder.-1.18">images</property>
-  <property name="kdenlive:docproperties.activeTrack">7</property>
+  <property name="kdenlive:docproperties.activeTrack">3</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
-  <property name="kdenlive:docproperties.audioTarget">-1</property>
+  <property name="kdenlive:docproperties.audioTarget">5</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
   <property name="kdenlive:docproperties.documentid">1635082327763</property>
   <property name="kdenlive:docproperties.enableTimelineZone">0</property>
@@ -4727,7 +4727,7 @@ it's called irony..."&lt;/content>
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">21.04.3</property>
-  <property name="kdenlive:docproperties.position">1083</property>
+  <property name="kdenlive:docproperties.position">16730</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_1080p_24</property>
@@ -4757,15 +4757,15 @@ it's called irony..."&lt;/content>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">neoprags.mp4</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
-  <property name="kdenlive:docproperties.scrollPos">5933</property>
+  <property name="kdenlive:docproperties.scrollPos">5040</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">6</property>
+  <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">13637</property>
-  <property name="kdenlive:docproperties.zoneout">13799</property>
-  <property name="kdenlive:docproperties.zoom">3</property>
-  <property name="kdenlive:expandedFolders">18</property>
+  <property name="kdenlive:docproperties.zoneout">14188</property>
+  <property name="kdenlive:docproperties.zoom">9</property>
+  <property name="kdenlive:expandedFolders">55</property>
   <property name="kdenlive:documentnotes">&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 &lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
@@ -4859,14 +4859,14 @@ p, li { white-space: pre-wrap; }
   <entry producer="producer82" in="00:00:00.000" out="00:08:33.083"/>
   <entry producer="producer83" in="00:00:00.000" out="00:00:04.958"/>
   <entry producer="producer84" in="00:00:00.000" out="00:00:04.958"/>
-  <entry producer="producer85" in="00:00:00.000" out="00:01:32.083"/>
+  <entry producer="producer85" in="00:00:00.000" out="00:00:04.958"/>
   <entry producer="producer86" in="00:00:00.000" out="00:00:04.958"/>
   <entry producer="producer87" in="00:00:00.000" out="00:00:04.958"/>
-  <entry producer="producer88" in="00:00:00.000" out="00:00:04.958"/>
-  <entry producer="producer89" in="00:00:00.000" out="00:01:32.667"/>
-  <entry producer="producer90" in="00:00:00.000" out="00:00:04.958"/>
-  <entry producer="producer91" in="00:00:00.000" out="00:00:03.375"/>
-  <entry producer="producer92" in="00:00:00.000" out="00:00:04.958"/>
+  <entry producer="producer88" in="00:00:00.000" out="00:01:32.667"/>
+  <entry producer="producer89" in="00:00:00.000" out="00:00:04.958"/>
+  <entry producer="producer90" in="00:00:00.000" out="00:00:03.375"/>
+  <entry producer="producer91" in="00:00:00.000" out="00:00:04.958"/>
+  <entry producer="producer92" in="00:00:00.000" out="00:01:32.083"/>
  </playlist>
  <producer id="black_track" in="00:00:00.000" out="00:34:01.833">
   <property name="length">2147483647</property>
@@ -8787,7 +8787,7 @@ p, li { white-space: pre-wrap; }
   <entry producer="producer124" in="00:01:53.792" out="00:01:59.167">
    <property name="kdenlive:id">12</property>
   </entry>
-  <entry producer="producer87" in="00:00:00.000" out="00:00:01.708">
+  <entry producer="producer86" in="00:00:00.000" out="00:00:01.708">
    <property name="kdenlive:id">98</property>
    <filter id="filter56">
     <property name="version">0.1</property>
@@ -9253,7 +9253,7 @@ p, li { white-space: pre-wrap; }
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer92" in="00:00:00.000" out="00:00:02.583">
+  <entry producer="producer91" in="00:00:00.000" out="00:00:02.583">
    <property name="kdenlive:id">103</property>
    <property name="kdenlive:activeeffect">0</property>
    <filter id="filter62">
@@ -10263,15 +10263,15 @@ p, li { white-space: pre-wrap; }
   <entry producer="producer42" in="00:00:00.000" out="00:00:01.542">
    <property name="kdenlive:id">46</property>
   </entry>
-  <entry producer="producer86" in="00:00:00.000" out="00:00:04.125">
+  <entry producer="producer85" in="00:00:00.000" out="00:00:04.125">
    <property name="kdenlive:id">97</property>
   </entry>
   <blank length="00:00:09.542"/>
-  <entry producer="producer88" in="00:00:00.000" out="00:00:01.708">
+  <entry producer="producer87" in="00:00:00.000" out="00:00:01.708">
    <property name="kdenlive:id">99</property>
   </entry>
   <blank length="00:00:12.583"/>
-  <entry producer="producer90" in="00:00:00.000" out="00:00:02.000">
+  <entry producer="producer89" in="00:00:00.000" out="00:00:02.000">
    <property name="kdenlive:id">101</property>
   </entry>
  </playlist>
