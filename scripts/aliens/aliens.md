@@ -1,30 +1,31 @@
 
 # Table of Contents
 
-1.  [The Consensus](#org4042de3)
-2.  [My Argument](#org05e2362)
-3.  [An Austrian Solution to the Fermi Paradox](#orgc2fd902)
-4.  [Historic Data](#org9ff9893)
-5.  [Call to Action](#org8fbb092)
+1.  [The Consensus](#org60d5984)
+2.  [My Argument](#orgc0419eb)
+3.  [An Austrian Solution to the Fermi Paradox](#org9e89a78)
+4.  [Historic Data](#org7abcb95)
+5.  [Some Problems With This Analysis](#org801a86d)
+6.  [Call to Action](#orga475018)
 
 
 
-<a id="org4042de3"></a>
+<a id="org60d5984"></a>
 
 # The Consensus
 
 The general consensus among online commentators on the topic of searching for alien life seems to be that this would be a disasterous idea, that these advanced aliens would surely wipe us out for some reason or another. Here, I provide a praxeologic counter-argument to this thread, namely that we shouldn&rsquo;t expect hyper-violent hyper-advanced civilisations to form very often at all, and that non-aggressive civilisations should outcompete these superbarbarians.
 
 
-<a id="org05e2362"></a>
+<a id="orgc0419eb"></a>
 
 # My Argument
 
 It is a fact of nature that a man is faced with a world of scarcity, namely he has ends that he wishes met and he has only scarce means for the attainment of these ends. If Robinson Crusoe has only a single stick he must choose whether to use that stick for spearfishing or to stoke his fire, of these options he will choose the action that he expects will better satisfy him, i.e. he will take the route that he values more highly.
 
-In a world where different men interact and have various different levels of ability, we have the law of comparative advantage, which creates a tendency towards a division of labour. To demonstrate comparative advantage, consider two men on an island, Crusoe and Friday. Both men want both barley and fish. Imagine that Crusoe can produce 10 units of barley in a day, where Friday could produce 8, and that Crusoe can fish 30 fish in a day where Friday can fish 40. It would make sense for both parties to specialise in the activity they are best at, if Friday fishes and Crusoe farms, the men can then trade fish for barley and each ends up with a greater supply than if they had tried to produce it all on their own. Notice that this would still apply if Friday was better at farming and at fishing &#x2014; a surgeon, say, may well be a better typist than his receptionist but it still benefits him to hire her because that way he frees up his time engaging in the pursuits that he is most efficient at.
+In a world where different men interact and have various different levels of ability, we have the law of comparative advantage, which creates a tendency towards a division of labour. To demonstrate comparative advantage, consider two men on an island, Crusoe and Friday. Both men want both barley and fish. Imagine that Crusoe can produce 10 units of barley in a day, where Friday could produce 8, and that Crusoe can fish 30 fish in a day where Friday can fish 40. It would make sense for both parties to specialise in the activity they are best at, if Friday fishes and Crusoe farms, the men can then trade fish for barley and each ends up with a greater supply than if they had tried to produce it all on their own. Notice that this would still apply if Friday was better at farming and at fishing &#x2014; a surgeon, say, may well be a better typist than his receptionist but it still benefits him to hire her because that way he frees up his time for engaging in the pursuits that he is most efficient at.
 
-Above we considered one type of interaction, trade, namely the voluntary transfer of the title to definite physical assets from one party to another. There is another type of interaction that we must now consider, namely conflict. The fact of the potential for conflict arises from scarcity, because there are only limited means, take a stick for example, Crusoe and Friday may both want to implement the same means towards different and incompatible ends &#x2014; that is to say, their actions are contradictory, they cannot both occur. If Friday wishes to use a stick to stoke his fire and crusoe wants to use it to spearfish, they cannot both do so at the same time. They have arrived at a conflict.
+Above we considered one type of interaction, trade, namely the voluntary transfer of the title to definite physical assets from one party to another. There is another type of interaction that we must now consider, namely conflict. The fact of the potential for conflict arises from scarcity, because there are only limited means, Crusoe and Friday may both want to implement the same means towards different and incompatible ends &#x2014; that is to say, their actions are contradictory, they cannot both occur. If Friday wishes to use a stick to stoke his fire and crusoe wants to use it to spearfish, they cannot both do so at the same time. They have arrived at a conflict.
 
 Whether they are able to resolve this conflict will have a direct effect on their ability to maintain and/or to form the division of labour described above. If I expect that a person does not respect or understand property rights why would I engage in a trade with them &#x2014; a trade that requires both parties to accept that the other party currently has just title to the property that they wish to trade, and that the trade transfers this title? Thus, conflict is a problem when it comes to maintaining a division of labour.
 
@@ -33,14 +34,14 @@ But as we have seen above, the division of labour, the specialisation of each ma
 So, given a hyper-advanced society, namely a society that has a very high level of capitol development, if we were to guess we should expect a greater understanding and respect for property rights than one that is comparatively far less developed. This is a dual pronged observation &#x2014; the understanding of the ethics of property arose from an understanding of economics, we therefore expect that more advanced civilisations will understand both economics and ethics more than less andvanced ones.
 
 
-<a id="orgc2fd902"></a>
+<a id="org9e89a78"></a>
 
 # An Austrian Solution to the Fermi Paradox
 
 This provides us a somewhat Star Trek aligned solution to the famous Fermi Paradox, namely why is it that we cannot see any life when we look up into the night sky? Under this framing of advanced civilisations tending toward a greater understanding of economics and ethics, its entirely plausible that there are many hyper-advanced civilisations out there that are merely hiding their existence from us. Waiting until we advance not to a point of warp drives, but to a point of understanding the just law and the division of labour to a sufficient degree that we wont try to attack them. After all, would you want to bring a bunch of barbaric beasts into your galactic community? I think not. Why should we expect aliens who potentially understand some ethical truth that we don&rsquo;t to treat us any different?
 
 
-<a id="org9ff9893"></a>
+<a id="org7abcb95"></a>
 
 # Historic Data
 
@@ -52,12 +53,22 @@ The doomesday scenarios painted by the mainstream commentators on this topic are
 
 The third of these points is all that requires further elaboration in my view, which I shall do right after asking you to hit the like button if you want to see more sound economic analysis of scenarios that have been painted as certain annihilation by those in the mainstream.
 
-So, those wishing to paint the division of labour with more advanced neighbors as being necessarily dangeorous will often cherry-pick a few examples from history, they will say, &ldquo;well the native americans had their civilisation obliterated, and some african tribe somewhere was probably worse off because of contact with europe,&rdquo; and that tends to be the limit of their examples. But I can do the same thing, I can point to the development of Hong Kong after even quite a bloody interaction with the more advanced Great Britain, that turned out pretty good for them, so much so that protesters there often call for Britain to re-take Hong Kong from the Chinese Communist Party.
+So, those wishing to paint the division of labour with more advanced neighbors as being necessarily dangeorous will often cherry-pick a few examples from history, they will say, &ldquo;well the native americans had their civilisation obliterated, and some african tribe somewhere was probably worse off because of contact with europe,&rdquo; and that tends to be the limit of their examples. But I can do the same thing, I can point to the development of Hong Kong after even quite a bloody interaction with the more advanced Great Britain, that turned out pretty good for them, so much so that protesters there often call for Britain to re-take Hong Kong from the Chinese Communist Party. Another example is Meiji period Japan, after their interaction with Commodore Perry, they went from an agrarian society to an industrial power on-par with the great western powers by WW2.
 
 
-<a id="org8fbb092"></a>
+<a id="org801a86d"></a>
+
+# Some Problems With This Analysis
+
+It should be noted that it&rsquo;s not all sunshine and roses with respect to the above analysis. As it stands I am aware of two flaws:
+
+1.  My argument is correct that adherence to proper ethics will tend to a faster development, but it does not take into account the possibility for ethical regression. I imagine such a regression would be unlikely to enthrall an entire galactic alien anarchy though, but localised pockets of evil aliens could definitely still come about.
+2.  Its not necessarily the case that ethically advanced civilisations would refuse to trade with ethically primitive ones, unless there is some as-of-yet unknown ethic that would prohibit this. Assuming there isn&rsquo;t, all it would take is for some joe alien to decide he is fine with trading with the local bandit tribe, which throws a spanner in the works of the Fermi Paradox solution laid out above.
+
+
+<a id="orga475018"></a>
 
 # Call to Action
 
-Now, I understand that this video isn&rsquo;t per se targeted to libertarians, so if you aren&rsquo;t a libertarian and want to be sold on it, watch this video where I answer why Rationality Rules should be one. Until next time.
+Now, I understand that this video isn&rsquo;t per se targeted to libertarians, so if you aren&rsquo;t a libertarian and want to be sold on it, watch this video where I answer why Rationality Rules should be one.
 
