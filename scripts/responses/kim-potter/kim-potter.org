@@ -35,11 +35,57 @@
 + not entertaining the idea that kimberly potter did something that was anything but accidental in this scenario
 + yada yada yada positivism
 
+* Intro
+Kim Potter fatally shot Daunte Wright during a traffic stop, here is why she is a criminal.
+
+My argument will be mostly focused on these videos by Nate the Lawyer and Actual Justice Warrior, both of whom are on the side of Kim, claiming that the Jury reached the wrong conclusion on this case.
+
+* The Facts
+Both Nate and AJW are correct when they say that the facts of what happened are not disputed, a group of officers including Potter saw a car with an air freshener on its rear view mirror, which is a violation of the state driving code, they further noticed that said car was in a left turn only lane but had a right turn signal and that it had expired tags. After stopping the officers discovered that Daunte had no license or insurance and had a restraining order against him in addition to an arrest warrant. This prompted an arrest which Daunte attempted to resist by driving off to which Potter responded to by attempting to draw her taser but reaching for her sidearm instead, firing a single, fatal shot at Daunte Wright.
+
+* My Argument
+Nothing that Daunte did constitutes a crime under natural law, that is nothing he did initiated any conflicts over scarce means, namely he did not violate the NAP. One may hang air fresheners wherever they damn well please on their own property, the state has no property right over the roads so they may not require Daunte to not hang it and they may not require him to use his turn signals in the way that they desire. Ditto for the expired tags and lack of license or insurance, none of these are things the state has any just say over. The order of protection that I noted above is also not cause for an arrest, and the warrant that was out on him was for carrying a handgun without a license,[fn:5] also not a crime under natural law.
+
+Therefore there was no just cause to arrest Daunte, making it not an arrest, but a kidnapping, one that Daunte may resist at will. Any action on the officers' part to curtail this resistence is further aggressive action, Kim would be guilty even if she had used her taser. Moreover, we can say that this is not a manslaughter, but a murder on Potters part as she had mens rea. Someone has mens rea if they were aware that they were committing the crime, i.e. if I am walking over a field and accidentally step on your glasses, I didn't deliberately do so so I had no mens rea, in this case, the just punishment is just restitution, namely I may be forced to have your sunglasses repaired. This is not the case for the officers, they were all aware that they were subduing Mr Wright, therefore they had mens rea. The fact that they thought this was a just thing to do has no bearing on this fact, just as it doesn't for the men and women who carried out the holocaust for the greater good of the German people. Both are guilty. This brings us to the second prong of proportional justice, retribution. Where someone is guilty of a crime and they knowingly did the crime they may be subject to both restitution and retribution, retribution being where the victim or their heir may have the act done unto the perpetrator. In this instance, Daunte's heir is justly allowed to decide whether Ms Potter is also fatally shot. Any prevention of this is yet further aggression on the part of the state.
+
+* AJW is Wrong About the Warrant
+Now, before I get into what I believe was a serious mistake on the part of AJW, I ask that you hit the like button if you want to see more libertarian analyses of hot button cases.
+
+So, AJW's argument as to the circumstances, if they were true, would make the arrest in question a just one, and thus Daunte would not be allowed to resist so Potter would be innocent in the shooting. AJW states multiple times through his videos on the topic that Daunte's warrant was for robbing and strangling a woman, which is something that he did but is not what the warrant was about, AJW's own source proves this.[fn:7] The article notes that the warrant was for a separate charge:
+[[./images/separate-firearms-charge.png]]
+
+Later elaborating that this was, as I stated above, due to carrying a handgun without a permit and resisting the arrest for that:
+[[./images/pistol-without-permit.png]]
+
+But it should be noted that I do not blame AJW for coming away from that article assuming that the warrant was for the robbery, it is written in a very opaque manner and in an old version[fn:6] of the page it outright states that the warrant was for the robbery:
+[[./images/old-version.png]]
+
+I myself have run into issues with how frequently the Daily Mail are patching this piece, I have an old screenshot of the page stating the specific case number, but this too is now gone and I didn't have an opportunity to archive it:
+[[./images/case-number.png]]
+
+So it is entirely possible that we do not yet know what exactly the warrant was for, the best I can tell is that it was for the possession of a handgun but if anyone can find something solid on it actually being for the robbery, please to let me know and I will issue an update in the pinned comment. This is what the entire case relies on, whether the arrest was for an actual crime or something the state says is a crime, so it is very important.
+
+(VIDONLY:These are screenshots about the warrant being the pistol possession charge):
+#+CAPTION:https://archive.ph/vCX0M#selection-1009.157-1009.223
+[[./images/warrant-was-pistol-0.png]]
+#+CAPTION:https://archive.ph/62iB7#selection-2407.108-2407.149
+[[./images/warrant-was-pistol-1.png]]
+#+CAPTION:https://archive.ph/KHyVN#selection-1227.80-1227.146
+[[./images/warrant-was-pistol-2.png]]
+
+
 * Footnotes
+
+[fn:7]https://archive.ph/oyr0I#selection-1105.105-1105.130 and for proof that this was AJW's source at the time of writing: https://archive.ph/ltEmY#selection-4465.2-4473.1 and https://archive.ph/f6zTT#selection-4571.2-4579.1
+
+[fn:6]https://archive.ph/Z6XUb
+
+[fn:5]https://www.dailymail.co.uk/news/article-9467375/Daunte-Wright-warrant-arrest-attempted-aggravated-robbery-charges.html?ito=social-twitter_dailymailus ([[https://archive.ph/oyr0I][archived]]).
+
 [fn:4]His second video responds to a point I don't make
 
 [fn:1]https://www.startribune.com/kim-potters-former-supervisor-deadly-force-justified-in-daunte-wright-shooting/600125927/ ([[https://archive.ph/62iB7][archived]]).
 
 [fn:2]https://www.usnews.com/news/us/articles/2021-12-08/explainer-what-will-jurors-hear-about-daunte-wright ([[https://archive.ph/vCX0M][archived]]).
 
-[fn:3]https://www.dailymail.co.uk/news/article-9467375/Daunte-Wright-warrant-arrest-attempted-aggravated-robbery-charges.html?ito=social-twitter_dailymailus ([[https://archive.ph/Z6XUb][archived]]).
+[fn:3]https://www.dailymail.co.uk/news/article-9467375/Daunte-Wright-warrant-arrest-attempted-aggravated-robbery-charges.html?ito=social-twitter_dailymailus ([[https://archive.ph/oyr0I][archived]]).
