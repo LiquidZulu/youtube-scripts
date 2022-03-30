@@ -1,0 +1,79 @@
+#+TITLE: We Need to be Honest About Odysee | Why YouTube Alternatives Aren't Working | YouTube Alternatives Aren't Working | Why Odysee is Broken | Odysee is Broken
+
+* Seo Checklist
+** Points to hit [0/14]
++ [ ] who's the character?
+  + [ ] their want?
+  + [ ] their need?
+  + [ ] their flaw?
+  + [ ] how do they grow?
+  + what story/journey could the above create?
++ [ ] what's the desire/motivation of the story?
++ [ ] what's the obstacle?
++ [ ] what're the stakes --- why is it important?
++ [ ] make them care
+  + [ ] show what you have so the audience feels the loss when you lose it
++ [ ] what's the resolution --- the one core idea that is the final message of the video that wraps everything up?
+  + deliver on the title and thumbnail
++ [ ] storyboard it [0/3]
+  + [ ] storylines you have
+  + [ ] hook for each
+  + [ ] different things that can happen
++ [ ] attach a story to every point I make and tell the story before I make that point
++ [ ] answer questions using spectacle
++ [ ] if things go static stories die, because life is never static.
++ [ ] drama is anticipation mingled with uncertainty
++ [ ] make comment goals (2 or 3)
++ [ ] cater to the archetypal viewer
++ [ ] reference popular media
+** Questions to ask [0/11]
++ [ ] is there incentive to watch until the end?
++ [ ] can I add something?
++ [ ] what are the different loops that I can open?
++ [ ] what are the different questions that the viewer could ask themselves?
++ [ ] what's the hook?
++ [ ] what do viewers need to see in the first few seconds based on the title and thumbnail so that they feel like their click is worth it?
++ [ ] is there a way to make the viewer laugh or feel surprised or feel something in the first 10 seconds?
++ [ ] is there a way to have two storylines?
+  + [ ] surface level story, and hidden stories (finding nemo is ostensably about finding nemo, but really about marlon addressing his insecurities as a father)
+  + [ ] is there a way to build surface level and underlying tension in each story?
+    + short term: will dory's short term memory make her forget what marlon told her, long term: will we find nemo?
++ [ ] am I giving them 4 or 2+2?
+  + https://www.youtube.com/watch?v=KxDwieKpawg
++ [ ] in doing X big thing [0/3]
+  + [ ] what do I want?
+  + [ ] what happens if I dont get what I want?
+  + [ ] what will I do to get what I want?
+** Editing [0/3]
++ [ ] Show where possible
++ [ ] if theres a bit of information where you can delete what is before and after it and it flows just as well, cut it
++ [ ] tell stories with B-roll
+** End Screen
++ Next logical step
++ What do the avatars care about?
++ Make people want to know what happens next.
++ be persuasive
+  + mention the avatars desire
+  + point out what more there is for them to do
+    + use "have to"
+  + describe the result of them doing that.
++ be confident that the linked video is good
+* Main Body
+Analytics is the single most important tool available to content creators, and it has been completely neglected by YouTube's freedom loving competition. In my view this is really holding back sites like Odysee, resistance to censorship is a massive bonus, but that is only one aspect a competent individual must consider when deciding where to produce their content.
+
+Now, I am not claiming to be an expert in website creation or promotion, and I don't know the inner workings of any of these sites, so take what I say as simply one perspective on the matter at hand. My criticism will be targeted mostly at Odysee because I think it is the most serious of the alt-tech competition to YouTube but I have similar issues with places like Rumble and Bitchute too. Furthermore I bring this up only because I think it is a perfectly solveable problem, and I want to see a proper competitor to YouTube, its just not going to happen until this is adressed.
+
+I think to demonstrate what I mean it would be best to just show you, but before I do that make sure to like the video if you want to see more like it. (screen recording comparing Odysee to YouTube Studio):
++ "I doubt that I could get to 50 followers on Odysee within the time that I have been making videos, evidenced by the fact that I have only 17 with identical content to youtube where I have [switch tab] blah blah number of subscribers"
+  + emphasise that its not a pure audience size issue either
++ per video analytics
++ retention graphs, with relative retention rate mentioned
++ traffic sources for the video
++ typical performance
++ channelwide analytics, show watch time from debates being higher
+
+[I will never provide a criticism without a resolution]
+
+From the perspective of a viewer, it may be the case that the lack of analytics is a feature rather than a bug, the modern internet is full to the brim with trackers making it a real challenge to use the web privately. But I don't think analytics has to reduce ones privacy per se, I see no reason why an open source analytics software couldn't be provably anonymous, and if there are any datapoints that would put users at risk of being de-anonymised this analytics software could simply forego the tracking of that in particular. For something like a retention graph this hardly seems to be the case, all that would need to be sent to the server would be several timestamps denoting what parts of a video a person has watched, you dont even need to know who that person is as its going to get aggregated anyway.
+
+Considering that this video is not related to anarchism like the rest of my content there are possibly a higher portion of statists watching this, if you fall into that bucket, or you want to hone your arguments against those in that bucket, watch this video where I present a series of damning challenges to minarchists.
