@@ -1,14 +1,14 @@
 
 # Table of Contents
 
-1.  [Disneyistan](#orgef3cafb)
-2.  [Fairness is not a Libertarian Value](#org3885d10)
-3.  [Disney as an Organ of the State](#orgb371ab7)
-4.  [CTA](#org4879d35)
+1.  [Disneyistan](#org97082a0)
+2.  [Fairness is not a Libertarian Value](#orgcb3458e)
+3.  [Disney as an Organ of the State](#orgc0c63f7)
+4.  [CTA](#org5b3aa32)
 
 
 
-<a id="orgef3cafb"></a>
+<a id="org97082a0"></a>
 
 # Disneyistan
 
@@ -19,7 +19,7 @@ The Disney corporation provides emergency services,<sup><a id="fnr.2" class="foo
 This pseudo-covenant decided to stand in defiance of a state law, which prompted the state to respond by robbing it en masse, no supporter of DeSantis here can be reasonably framed as a secessionist.
 
 
-<a id="org3885d10"></a>
+<a id="orgcb3458e"></a>
 
 # Fairness is not a Libertarian Value
 
@@ -30,7 +30,7 @@ After all, the libertarian solution to a serial killer who specialises in killin
 Heck, if DeSantis really wanted to stick it to the Mouse, and be entirely fair in the process, why didn&rsquo;t he revoke IP protection, or extend Disney&rsquo;s special status to its competitors such that they can maneuver without state interference? This would not only satisfy the missplaced urge some libertarians feel for fairness, but it would be entirely consistent with natural law.
 
 
-<a id="orgb371ab7"></a>
+<a id="orgc0c63f7"></a>
 
 # Disney as an Organ of the State
 
@@ -47,11 +47,11 @@ This has two issues, first Disney is hardly characterised by anti-productive inc
 Second, even if we classify Disney as a part of the state, we have the larger state, namely the US federal government, attempting a destruction of this smaller state through a policy of taxing it into submission. Having Disney as a state implies that its actions are state-secessionary, secession being something that is to be supported by libertarians as it is a truncation of a larger state into two smaller ones. This puts DeSantis in the position of Lincoln during the War of Southern Secession, a fact which I am sure makes neo-prags very queasy.
 
 
-<a id="org4879d35"></a>
+<a id="org5b3aa32"></a>
 
 # CTA
 
-If you have enjoyed this response to the anti-Disney-pro-DeSantis-neo-prag wave, you have to watch this video where I point out the core flaws of neo-pragmatism as such, this will allow you to more effectively understand the flaws in their reasoning so that you will already know what missteps they are making in the future..
+If you have enjoyed this response to the anti-Disney-pro-DeSantis-neo-prag wave, you have to watch this video where I point out the core flaws of neo-pragmatism as such, this will allow you to more effectively understand the flaws in their reasoning so that you will already know what missteps they are making in the future.
 
 
 # Footnotes
