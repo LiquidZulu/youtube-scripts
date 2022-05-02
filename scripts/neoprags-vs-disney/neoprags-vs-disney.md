@@ -1,25 +1,25 @@
 
 # Table of Contents
 
-1.  [Disneyistan](#org8083263)
-2.  [Fairness is not a Libertarian Value](#org5976017)
-3.  [Disney as an Organ of the State](#orgf6c6c07)
-4.  [CTA](#orgdeff836)
+1.  [Disneyistan](#orgef3cafb)
+2.  [Fairness is not a Libertarian Value](#org3885d10)
+3.  [Disney as an Organ of the State](#orgb371ab7)
+4.  [CTA](#org4879d35)
 
 
 
-<a id="org8083263"></a>
+<a id="orgef3cafb"></a>
 
 # Disneyistan
 
 Ron DeSantis&rsquo; recent move to revoke Disney&rsquo;s tax-exemption is criminal and evil, stick around and I will explain point-by-point why every counterargument to this fails. This attack came about as the result of a feud over the company&rsquo;s opposition to his &ldquo;Parental Rights in Education&rdquo; bill.<sup><a id="fnr.1" class="footref" href="#fn.1" role="doc-backlink">1</a></sup> The resort, housed within its own self-governing pseudo-covenant called the &ldquo;Reedy Creek Improvement District,&rdquo; or (RCID) covers over 100 km<sup>2</sup>, acting with the same authority as a county government.
 
-The Disney corporation provides emergency services,<sup><a id="fnr.2" class="footref" href="#fn.2" role="doc-backlink">2</a></sup><sup>, </sup><sup><a id="fnr.3" class="footref" href="#fn.3" role="doc-backlink">3</a></sup><sup>, </sup><sup><a id="fnr.4" class="footref" href="#fn.4" role="doc-backlink">4</a></sup> utilities,<sup><a id="fnr.5" class="footref" href="#fn.5" role="doc-backlink">5</a></sup> roads, mass-transit,<sup><a id="fnr.6" class="footref" href="#fn.6" role="doc-backlink">6</a></sup> several solar plants<sup><a id="fnr.7" class="footref" href="#fn.7" role="doc-backlink">7</a></sup> and even plans to build its own damn nuclear reactor.<sup><a id="fnr.8" class="footref" href="#fn.8" role="doc-backlink">8</a></sup> All of this done privately, which is scarcely different from our vision of future covenant communities, we should be celebrating such an achievement, not calling for its downfall out of a desire to virtue-signal over how much we hate the woke&rsquo;s.
+The Disney corporation provides emergency services,<sup><a id="fnr.2" class="footref" href="#fn.2" role="doc-backlink">2</a></sup><sup>, </sup><sup><a id="fnr.3" class="footref" href="#fn.3" role="doc-backlink">3</a></sup><sup>, </sup><sup><a id="fnr.4" class="footref" href="#fn.4" role="doc-backlink">4</a></sup> utilities,<sup><a id="fnr.5" class="footref" href="#fn.5" role="doc-backlink">5</a></sup> roads, mass-transit,<sup><a id="fnr.6" class="footref" href="#fn.6" role="doc-backlink">6</a></sup> several solar plants<sup><a id="fnr.7" class="footref" href="#fn.7" role="doc-backlink">7</a></sup> and even had plans to build its own damn nuclear reactor.<sup><a id="fnr.8" class="footref" href="#fn.8" role="doc-backlink">8</a></sup> All of this done privately, which is scarcely different from our vision of future covenant communities, we should be celebrating such an achievement, not calling for its downfall out of a desire to virtue-signal over how much we hate the woke&rsquo;s.
 
 This pseudo-covenant decided to stand in defiance of a state law, which prompted the state to respond by robbing it en masse, no supporter of DeSantis here can be reasonably framed as a secessionist.
 
 
-<a id="org5976017"></a>
+<a id="org3885d10"></a>
 
 # Fairness is not a Libertarian Value
 
@@ -30,7 +30,7 @@ After all, the libertarian solution to a serial killer who specialises in killin
 Heck, if DeSantis really wanted to stick it to the Mouse, and be entirely fair in the process, why didn&rsquo;t he revoke IP protection, or extend Disney&rsquo;s special status to its competitors such that they can maneuver without state interference? This would not only satisfy the missplaced urge some libertarians feel for fairness, but it would be entirely consistent with natural law.
 
 
-<a id="orgf6c6c07"></a>
+<a id="orgb371ab7"></a>
 
 # Disney as an Organ of the State
 
@@ -47,7 +47,7 @@ This has two issues, first Disney is hardly characterised by anti-productive inc
 Second, even if we classify Disney as a part of the state, we have the larger state, namely the US federal government, attempting a destruction of this smaller state through a policy of taxing it into submission. Having Disney as a state implies that its actions are state-secessionary, secession being something that is to be supported by libertarians as it is a truncation of a larger state into two smaller ones. This puts DeSantis in the position of Lincoln during the War of Southern Secession, a fact which I am sure makes neo-prags very queasy.
 
 
-<a id="orgdeff836"></a>
+<a id="org4879d35"></a>
 
 # CTA
 
