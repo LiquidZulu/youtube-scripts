@@ -1,0 +1,100 @@
+#+TITLE: Iceland
+
+* Notes
+** Viking Age Iceland by Jesse L. Byock (ca. 9xx--12xx)
+*** Commonly used geographical terms
+
+| Word                     | English Meaning                            |
+|--------------------------+--------------------------------------------|
+| á (pl. ár)               | river                                      |
+| dalr                     | valley or dale                             |
+| ey (possessive pl. eyja) | island                                     |
+| eyrr (pl. eyrar)         | riverbank or small peninsula               |
+| fell                     | hill                                       |
+| fjörðr (pl. firðir)      | fjord                                      |
+| hold                     | a wood or rough stony hill/ridge           |
+| hóll (pl. hólar)         | a hill or stone heap                       |
+| jökull                   | glacier                                    |
+| nes                      | headland                                   |
+| tunga                    | tongue of land at confluence of two rivers |
+| vatn                     | lake                                       |
+| völlr (pl. vellir)       | plain                                      |
+*** Introduction
++ book focuses on formative first centuries of the Old Icelandic Free State, extending from the tenth to the middle of the thirteenth century.
++ settlers came either from mainland Scandanavia or from Viking settlements in the British Isles
++ newcomers forced to adapt to harsh environment
++ Consensus played a prominent role in decision-making
+#+begin_quote
+Law in medieval Iceland touched virtually all aspects of social intercourse, yet it was not implemented by the force of an executive arm of government. The operation of law was connected to advocacy, a core dynamic in the society which, together with ‘friendships’ (called vinfengi) and kinship ties, did much to shape social behaviour. The society’s cultural focus on law, the crucial role played by advocacy and arbitrations, the course of legal and political decision­making, and the choices that individuals faced between violence and compromise in a feuding society are among the issues explored in the book.
+#+end_quote
+---page 2
+*** An Immigrant Society
+Years ago the legal historian James Bryce wrote[fn:1] that medieval Iceland
+#+begin_quote
+is an almost unique instance of a community whose culture and creative power flourished independently of any favouring material conditions, and indeed under conditions in the highest degree unfavourable. Nor ought it to be less interesting to the student of politics and laws as having produced a Constitution unlike any other whereof records remain, and a body of law so elaborate and complex that it is hard to believe that it existed among men whose chief occupation was to kill one another.
+#+end_quote
++ initial settlement was by the landnåmsmenn (land-takers) who were either from Scandanavia or the British Isles (there are Celtic names in the Sagas such as Njáll/Níall/Neil and Kormákr/Cormac).
++ Many of the more prominent settlers used their own ships, though it is also possible that other ships ferried people across to iceland.
++ The landnåmsmenn came to mostly uninhabited and uncultivated land, save for a few Irish monks, who arrived earlier in their native curachs seeking solitude.
++ These monks,named papar (sing. papi) by the later icelanders,[fn:2] either left of their own accord or were driven out by the new settlers.
++ Section on leadership (page 13 [37 in total]) is handy for quotes
+*** A Devolving and Evolving Social Order
++ Contained statist and non-statist elements
+#+begin_quote
+The immigrants who founded Iceland became participants in what in some ways was a headless or stateless society. Early Iceland can loosely be so described because its leaders, the goðar, wielded little executive power and did not rule over territorial units. The concept of statelessness, however, should not be carried too far. Iceland did have specific elements of statehood: a formal national legislature (the lögrétta) and a well-defined judicial system that embraced the entire country. Social stratification, although it existed, was restrained by the absence of kings or even regional princes or warlords. Among the landed there were differences in wealth and prominence. Distinct cleavages existed between landowners and landless people and between free men and slaves. Although early Iceland was essentially headless, it did have distinct aspects of an embryonic state. How can this mingling of attributes be explained? The answer is that early Iceland experienced a complicated evolution. This dynamic has been largely overlooked, yet it holds the key to understanding Iceland’s medieval society and culture.
+
+The mixture of state and stateless existed because Free State Iceland was the product of two different cultural forces. On the one hand, it inherited the tradition and the vocabulary of statehood from its European origins. On the other, Iceland was headless because of the class values of the immigrants. On this very large island, a late Iron Age European culture group took advantage of the safety afforded by the North Atlantic to eliminate the hierarchy of command and the taxation necessary for defence. As a result the society simplified, moving down a few rungs on the ladder of social complexity.
+
+What has not been recognized about the settlement of Iceland is that the evolutionary machinery was in many ways running in reverse. Rather than a simple society that had reached a modest level of complexity as part of an evolutionary progression, Iceland at the start went the other way. Initially it ‘devolved’, shedding most of the aristocratic strata of Viking Age society. In their own eyes the tenth-century settlers and lawgivers almost certainly had limited goals. By emphasizing the rights of free farmers, they adjusted social arrangements, making them less complex than in Norway with its king, aristocrats, regional warlords and legally defined levels of free and unfree. Reflecting the desires of landowning farmers, Icelandic institutions eliminated a significant number of the roles played by elites and overlords. By avoiding the formation of self-perpetuating executive structures, the farmers collectively retained control over coercive power. In doing so they denied would-be elites the crucial state function of monopolizing force. Leadership was limited to local chieftains who often operated like ‘big men’, individuals whose authority often was temporary.
+#+end_quote
+--- page 64, 88 in total
+
+**** Ranking, Hierarchy and Wealth
++ slavery mostly died out in the eleventh century
+#+begin_quote
+Despite the obvious connection between wealth and power, there is little indication that Iceland’s Viking Age chieftains enjoyed a significant income through either taxes or tributes from the farmers. The labour of slaves, landless workers and tenant farmers, and the rental of property and livestock, were significant sources of wealth for all prominent farmers. Many free farmers, like the goðar, were prosperous landowners who were frequently called upon to act as advocates or arbitrators. Over time, however, chieftains proved to be the best qualified people for this public endeavour. They found a significant and, to some degree, a proprietary source of revenue by actively participating in dispute management and conflict settlement.
+
+...
+
+The outward trappings of rank in Viking Age Iceland were so few that it is frequently difficult to determine whether a prominent individual was a chieftain or just a farmer. In the late twelfth and early thirteenth centuries (that is, after the Viking period) the situation began to change, and a movement toward rigid stratification and incipient statehood can be perceived.
+
+...
+
+That a chieftain might gain widespread territorial control, thus centralizing political and governmental power in a region, was always a threat. This development was avoided, however, until the late twelfth century and, in some regions, the early thirteenth century by a system of checks and balances aimed at limiting the power of individual chieftains. Farmers, as in the example of conflict between the two chieftains Arnkel goði and Snorri goði from Eyrbyggja saga (see Chapter 6), openly granted authority to their goðar, and during much of Iceland’s early history dissatisfied farmers could take authority from one leader and give it to another.
+#+end_quote
+---92
+
+**** Complex Culture and Simple Economy
+#+begin_quote
+The knowledge of Scandinavia’s expansive mother culture was embedded in early Iceland’s underlying social codes and values. Culturally, the early Icelanders inherited centuries of northern European social development. As part of this heritage their community started out with, and soon expanded upon, complicated constitutional concepts as well as sophisticated laws of contract, property and tort. They also produced a world-class literature. It is in regard to economics that early Iceland was in many ways simple. On the far margin of the extensive international commerce of Viking Age Scandinavia, Iceland, with its dependence on pastoralism and hunting and gathering, became largely self-sufficient.
+
+When comparing early Iceland with other societies, one might keep in mind additional factors. Unlike early Ireland with its history of chieftains and warlords dating from at least the Bronze Age, medieval Iceland was not a tribal society, and the authority of its leaders did not depend on ownership of or rule over defined territorial units. What, then, was Iceland? Briefly, it was a society whose development was determined by the dynamics of its Scandinavian past and immigrant experiences. Having shed a good part of the military and political structures of Viking Age culture, the settlers and their descendants built a society on a combination of choices rarely, if ever, possible over so long a period of time on the European mainland. Beginning in the tenth century, the Icelanders established a rudimentary state structure that declared to the outside world the island’s independent status. Internally, with most executive institutions in private hands, the country operated with only the bare bones of public institutions of statehood. Internal cohesion was maintained by stressing lateral social arrangements. These were invigorated by the general acceptance of the principle, pleasing to farmers, that government was to be dominated by the requirements of consensus rather than by the authority of overlords.
+
+Cultural focus, a long-established anthropological concept, is the tendency of every culture to exhibit more complexity and a wider scope in some of its aspects and institutions than in others. When a society focuses on a particular dimension of culture, that dimension is more likely to develop new ways and to generate innovation because more activity and closer scrutiny are directed to it than to other aspects. In Iceland the cultural focus was on law, and disorder was avoided through dependence on legalistic solutions arrived at through arbitration and court cases.
+
+Icelandic law was based on custom, and it proved to be highly adaptable to change over time. To an unusual degree, law became the catalyst in the conceptualizing of life outside the family. Law set the parameters of successful arbitration, and served as an element of continuity throughout Iceland’s medieval history. This reliance was more pronounced in times of crisis and dispute, when judicial process was used as a model even in private arbitrations, thus supplying the means to reconcile the most divisive forces within the society. An example (discussed in Chapter 16) is the conversion to Christianity in the year 1000. This potentially explosive situation was channelled into the normal procedures of legalistic dispute processing, where it was treated as a feud between two groups and settled at the Althing through negotiation and compromise.
+#+end_quote
+---96
+
+
+**** Privatization of Power in the Tenth Century
+** Was Viking Age Iceland Libertarian? | How Medieval Iceland Worked | 🇮🇸, https://www.youtube.com/watch?v=pfv0cd-1ERQ
++ fleeing their king, harold fairhair, first king of unified norway
++ settlers brought some of the old germanic law from norway
++ rejected authoritative monarchical aspects
++ gothi came in power in a few ways
+  + passing of the position to a family member/friends
+  + people can buy into the position of gothi
+  + multiple people can be the gothi of a group
++ thingmen generally consented to leadership of the gothi
++ thingmen could seek leadership from another gothi if they were unsatisfied
++ gothi got their wealth through farming (with either slave- or serf-relationships), renting, and resolving disputes
++ laws were deliberated upon at things, largest thing was the althing
+  + took place at thingvalar (?)
++
+
+* Footnotes
+
+[fn:1]Bryce, James. 1968. /Studies in History and Jurisprudence./ 2 vols. 1901. Freeport, New York: Books for Libraries Press, p. 263
+
+[fn:2]Íslendingabók (The Book of the Icelanders) 1968: Ch. 1.
