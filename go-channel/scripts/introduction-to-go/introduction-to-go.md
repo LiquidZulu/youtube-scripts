@@ -1,16 +1,17 @@
 
 # Table of Contents
 
-1.  [Liberties](#orgbfce1ed)
-2.  [Board Priority](#orgbcef9a7)
-3.  [Line Height](#org47a50df)
-4.  [Speed vs Strength](#orgf36337a)
-5.  [Life and Death](#org2b11fdf)
-6.  [Conclusion](#org3fc4b47)
+1.  [Liberties](#org3c4a4a8)
+2.  [Board Priority](#org83819e0)
+3.  [Line Height](#org9c6bb59)
+4.  [Speed vs Strength](#orgcca9020)
+5.  [Life and Death](#orga01b4bf)
+6.  [Conclusion](#org239d219)
+7.  [CTA](#org582c9fa)
 
 
 
-<a id="orgbfce1ed"></a>
+<a id="org3c4a4a8"></a>
 
 # Liberties
 
@@ -19,7 +20,7 @@ Go is played on a grid where each player takes turns placing on the intersection
 [black stone in atari] This stone has only one liberty remaining, we say that this stone is in atari, to get out of atari, the black player must extend the source of oxygen out to allow his stone to continue breathing. A second important arrangement is found when a stone has only two liberties, we say that this stone is in shortage, shortage is also important because it takes only a single move for white to put black into atari.
 
 
-<a id="orgbcef9a7"></a>
+<a id="org83819e0"></a>
 
 # Board Priority
 
@@ -28,7 +29,7 @@ Go is played on a grid where each player takes turns placing on the intersection
 [stones coverin a middle spot, a wall spot, and a corner spot] Here we can see three sets of stones each covering a single piece of territory,<sup><a id="fnr.1" class="footref" href="#fn.1" role="doc-backlink">1</a></sup> we notice that in the middle it takes 4 stones to get the territory, on the wall it takes 3, and in the corner it takes only 2. This is where our first principle, board priority, comes into play. Other things being equal, it is easier to get territory in the corners than it is to get it along the walls, and it is easier to get territory along the walls than it is to get it in the middle.
 
 
-<a id="org47a50df"></a>
+<a id="org9c6bb59"></a>
 
 # Line Height
 
@@ -37,7 +38,7 @@ Go is played on a grid where each player takes turns placing on the intersection
 So, we need to find a good middle-ground between playing far enough away from the walls that you are getting a good amount of territory per stone, but not so far that the enemy can trivially snatch it away from you. This middle ground is on the third line, you have a two-for-one deal with each stone and there is still basically no way that white can invade you. [diagram showing the ground and space etc] We can picture the Go board like a halo ring world, the ground is on the third line, you want to start building on the ground before you go anywhere else, if someone tries to invade your territory, you hunker down and dig out some trenches. On the other hand, when you have some nice structures on the ground you can think about expanding out into the sky, once you have done that, only then should you think about trying to master space-flight. This is our second principle, line height, start on the ground, dig down where needed, and expand out when you have the structures to support it.
 
 
-<a id="orgf36337a"></a>
+<a id="orgcca9020"></a>
 
 # Speed vs Strength
 
@@ -46,16 +47,16 @@ Imagine a situation, Buggs Bunny and Daffy Duck are neighbors and they hate each
 Both of these strategies are flawed, Buggs is not getting all that much territory for his work, he doesnt need to play this safe, he can place his fence posts further apart and fill in where he needs to; Daffy on the other hand, in his super fast play is leaving wide open gaps for Buggs to come in and invade him. We can picture an analogy of trying to build a wall in front of an approaching army, you can put down little sections of wall spaced apart and only fill in where the army actually tries approaching. The solution here is to find a middle-ground between these strategies&#x2014;you want to play fast, but not too fast, again there are tradeoffs in Go. This is our third principle, speed vs strength.
 
 
-<a id="org2b11fdf"></a>
+<a id="orga01b4bf"></a>
 
 # Life and Death
 
 [black eye in the corner] Black has here a structure we call an eye, it is some piece of territory surrounded by stones. Unfortunately for black he is completely surrounded by white stones, so all white has to do to take his group is to poke out his eye like so. Consider instead this scenario, where black has two connected eyes, what strategy could white adopt to kill this group? He has two options, he can try to poke out the top eye or he can try the bottom one. If he tries to poke the top eye the black group would still be alive as it still has that second eye, making this an impossible move for white as he is unable to place a stone into suicide like this&#x2014;the stone would be instantly suffocated. But the same issue faces white in the secon eye, he cant poke that one out either&#x2014;so we conclude that this black group is immortal, there is no way for white to poke out both eyes at once because he can only place a single stone per turn. This is the principle of life and death&#x2014;two eyes make life.
 
-[black stones in an arrangement to maybe make two eyes] Now, bearing this in mind, what strategy might white implement to try and kill these black stones? White knows that if black gives this group two eyes then it will be immortal, so what can white do? Well, let&rsquo;s just consider where black would have to place in order to make those eyes. He would clearly have to place here, anywhere else and he hasnt made two eyes, so what if white pre-empts black and places there before him? Seems black has no recourse, if he kills the white stone then he can no longer make two eyes, and a few turns later white can successfully poke out his last remaining eye, killing the group.
+[black stones in an arrangement to maybe make two eyes] Now, bearing this in mind, what strategy might white implement to try and kill these black stones? White knows that if black gives this group two eyes then it will be immortal, so what can white do? Well, let&rsquo;s just consider where black would have to place in order to make those eyes. He would clearly have to place here, anywhere else and he hasnt made two eyes, so what if white pre-empts black and places there before him? Seems black has no recourse, if he kills the white stone then he can no longer make two eyes, and a few turns later white can successfully poke out his last remaining eye, killing the group. Bear this in mind when making groups, you want to try and make sure that you can connect groups with two eyes up so that any expansion off of this meta-group will be immortal. The point that black must take in order to ensure that he can make two eyes is called a critical point, and some more complex strucutres may have multiple critical points that black can choose between, the simplest example is to simply stretch the black group out like so, here black may choose any of the spots marked with an X to make two eyes and thus make the group immortal.
 
 
-<a id="org3fc4b47"></a>
+<a id="org239d219"></a>
 
 # Conclusion
 
@@ -65,6 +66,13 @@ So, lets remember our principles;
 2.  line height&#x2014;focus your efforts on placing stones on the ground before you dig in deep or go off into space
 3.  speed vs strength&#x2014;both Daffy and Buggs have flaws in their strategy, you want to play fast, but not so fast that it becomes easy to invade you.
 4.  life and death&#x2014;two eyes makes life
+
+
+<a id="org582c9fa"></a>
+
+# CTA
+
+With that said if you enjoyed this video you have to watch this one where I apply these principles to determine what the best starting moves are.
 
 
 # Footnotes
