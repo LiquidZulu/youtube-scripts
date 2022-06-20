@@ -28,6 +28,13 @@ One could say the 4-4 point doesn't defend the corner at all, rather it defends 
 #+end_quote
 
 Therefore, similarly to the 3x4 opening, this move requires extra work to enclose the corner but because it is in the sky along both walls black needs two moves, not one, to fully enclose this corner. We can re-apply our knowledge of the knights enclosures to see that they should work just fine, in both directions in fact, but there is an alternative choice of note for our second enclosing stone, and that is on the 3x5 point. This is somewhat slower in the direction that you choose, but it is useful in preventing a knights approach from white, this move is known as a kick, and it prevents white from jumping behind blacks lines of defense. This kick move is more relevant here because black gives white extra time to mount an attack, due to the requirement to make two enclosures.
+* When to Enclose and What to do Next
+When you are playing moves that require enclosure, when exactly should you enclose? For the star-point, there isn't a massive urgency in enclosing, you can rather focus on other areas of the board first. However, when playing an asymmetric opening like the 3x4 we discussed, it is quite a good idea to immediately enclose. Let's take a look at what to do after making such an asymmetric opening.
+
+[see: https://senseis.xmp.net/?BeginnersGuideToTheOpening#toc3] Here we can see that black has opened on the 3x4 point, next he encloses with the small knights enclosure, roughly gaining him the marked points. Now that black has this enclosure he should think about getting the sides, this move here would accomplish that by aiming at this wall territory. Now we can see that black has for himself a large amount of influence over these areas of the board, we say that black has a framework, or moyo. Moyo should be seen as the potential territory we expect that black could get if we squinted our eyes.
+
+* CTA
+If you enjoyed, you have to watch this video where I explain some basic shapes you need to know to succeed at Go.
 
 * Footnotes
 

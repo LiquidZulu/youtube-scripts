@@ -8,7 +8,7 @@ Go is played on a grid where each player takes turns placing on the intersection
 * Board Priority
 [stones blocking off territory] The goal of Go is to surround more territory than your opponent, at this point here if you follow the grid lines you can only reach black stones, so this point is said to be blacks territory, its trivial to see that this is the case for all of these points. Similarly here you can only reach white stones, so this is whites territory. However, in this section you can reach both black and white stones, making it a no mans land where neither white nor black owns the territory.
 
-[stones coverin a middle spot, a wall spot, and a corner spot] Here we can see three sets of stones each covering a single piece of territory,[fn:1] we notice that in the middle it takes 4 stones to get the territory, on the wall it takes 3, and in the corner it takes only 2. This is where our first principle, board priority, comes into play. Other things being equal, it is easier to get territory in the corners than it is to get it along the walls, and it is easier to get territory along the walls than it is to get it in the middle.
+[stones covering a middle spot, a wall spot, and a corner spot] Here we can see three sets of stones each covering a single piece of territory,[fn:1] we notice that in the middle it takes 4 stones to get the territory, on the wall it takes 3, and in the corner it takes only 2. This is where our first principle, board priority, comes into play. Other things being equal, it is easier to get territory in the corners than it is to get it along the walls, and it is easier to get territory along the walls than it is to get it in the middle.
 
 * Line Height
 [Stones in lines aiming at wall territory] Here we see four separate black groups, and because we know that its easier to get territory along the walls of the board than it is to get it in the middle, we can imagine that they will be aiming to get the wall territory, but clearly to different degrees. This group gets one territory for every stone, this one gets two for every stone, three here, and four here. We notice that you get more territory per stone the further from the wall you go. But, there is a tradeoff to playing high; for the first group white has basically no shot at invasion, black can trivially block any attempt by just placing a stone, in the second group its a little easier but still very hard, black can probably stop any invasion attempt. If we go to our last group white can very easily get in under it, cutting it off from that ever-so-sweet wall territory that it was aiming at.
@@ -33,7 +33,7 @@ So, lets remember our principles;
 4. life and death---two eyes makes life
 
 * CTA
-With that said if you enjoyed this video you have to watch this one where I apply these principles to determine what the best starting moves are.
+With that said if you enjoyed this video you have to watch this one where I apply these principles to determine what the best beginner starting moves are.
 
 * Footnotes
 

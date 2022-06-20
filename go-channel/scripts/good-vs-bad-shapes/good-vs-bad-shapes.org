@@ -1,0 +1,18 @@
+#+TITLE: Good Vs Bad Shapes
+
+* Good Shapes
+** Ponnuki
+The first good shape we discuss is the ponnuki, this is a diamond shape formed by capturing a single stone. This shape is considered to be good when it is not over-concentrated, i.e. when there are not too many stones crowding around it. This shape radiates influence outwards, allowing the black player to be squeezed out in many directions and still be safe. A related shape is the tortoise shell, which is essentially just a ponnuki but for the capturing of two stones.
+
+** Tiger's Mouth
+Also similar, is the Tiger's Mouth, you can see that this could easily form a ponnuki if white attempted to play on the inside---this makes the Tiger's Mouth useful for protecting against cuts, [double tigers mouth protecting a double-hane], here we can see that black has forced white into the wall and elected to protect his weak double hane with a Tiger's Mouth. If black had not done this white has ample opportunity to cut out, but with the double Tiger's Mouth, any attempt for white to cut here would be playing directly into atari. This double-Tiger's Mouth shape is also called a trumpet connection. This may be threatened by the opponent by peeping at the gaps it leaves.
+
+[Two lines of stones with a gap to demonstrate a push through] Here we have two walls of stones with a gap. Whomever's turn it is may simply connect, but this may not accomplish all that much, instead they may push through with a tigers mouth. Notice again that the opponent cannot cut behind the push as this would play into atari---instead white has to cap it off, leaving him with a weakness in his wall that may be exploited by black further down the line.
+
+** Bamboo Joint
+Here we can see a shape known as a bamboo joint, a shape that is under normal circumstances uncuttable. If white attempts to cut black can simply connect, refuting the cut. We can see the bamboo join in action here, white peeps at these black stones and black responds by forming a bamboo joint, this may be better than directly connecting here as a direct connection would create a shape known as an empty triangle, which shall be discussed later in the video. Furthermore, if white still goes ahead and tries to cut the bamboo joint, it not only fails to actually cut, but white also takes away one of his liberties, which can be a bad situation for white. White may still choose to do this if the bamboo shoot is short on liberties, or to use as a ko threat.
+
+** Table Shape
+One problem with the bamboo joint is that it does not add much potential for making eyes this may be alleviated by the similar shape known as the table shape, this is also called the loose mouth shape due to it being a single move away from becoming a mouth, and those who are familiar with nets will know that this shape can easily make an eye and cannot be easily played inside of.
+
+** Throwing Star Shape
