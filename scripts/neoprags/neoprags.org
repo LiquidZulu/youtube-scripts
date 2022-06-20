@@ -1,5 +1,5 @@
 #+TITLE:Don't Be A Neo-Prag | These People Are Destroying Libertarianism | The Mises Caucus Lost Its Way | The Anti-Liberty Infestation In Our Movement | The Problem With Twitter Ancaps | The Mises Caucus Has An Infection
-#+AUTHOR:LiquidZulu, Frank, Nai
+#+AUTHOR:LiquidZulu, Nai
 #+HTML_HEAD:<link rel="stylesheet" type="text/css" href="file:///e:/emacs/documents/org-css/css/org.css"/>
 #+OPTIONS: ^:{}
 #+begin_comment
