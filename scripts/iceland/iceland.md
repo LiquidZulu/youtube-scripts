@@ -1,215 +1,53 @@
 
 # Table of Contents
 
-1.  [SEO Checklist](#org5abe5aa)
-    1.  [Points to hit <code>[1/16]</code>](#org3478c85)
-    2.  [Intro <code>[2/3]</code>](#org7175487)
-    3.  [Questions to ask <code>[1/10]</code>](#orge3d8699)
-    4.  [Editing <code>[0/5]</code>](#org616c326)
-    5.  [How to keep people watching <code>[0/23]</code>](#org1fad534)
-    6.  [Thumbnail](#org02ed172)
-    7.  [Title](#org820feae)
-    8.  [End Screen](#orgd43683c)
-2.  [Main Body](#orgbf808d2)
-    1.  [Introduction](#orgaf0f041)
-    2.  [Law in the Icelandic Commonwealth](#orga3d9b5b)
-    3.  [Mutual Aid in the Icelandic Commonwealth](#org0dd942a)
-    4.  [The Fall of the Icelandic Commonwealth.](#orgd7093ae)
-    5.  [CTA](#org451f032)
-3.  [Notes](#orgb36ac8e)
-    1.  [Viking Age Iceland by Jesse L. Byock (ca. 9xx&#x2013;12xx)](#orgbb7bc4e)
-        1.  [Commonly used geographical terms](#orge16b317)
-        2.  [Introduction](#org98750cb)
-        3.  [An Immigrant Society](#orgd9217eb)
-        4.  [A Devolving and Evolving Social Order](#org8a19dd8)
-            1.  [Ranking, Hierarchy and Wealth](#orga2fd01b)
-            2.  [Complex Culture and Simple Economy](#orgccaf542)
-            3.  [Privatization of Power in the Tenth Century](#org08a4287)
-            4.  [A Proto-democratic Community?](#org1f6e8ac)
-            5.  [Icelandic Feud: Conflict Management](#orgaa3a8e8)
-    2.  [Was Viking Age Iceland Libertarian? | How Medieval Iceland Worked | 🇮🇸, https://www.youtube.com/watch?v=pfv0cd-1ERQ](#org09fbffd)
-    3.  [Private Creation and Enforcement of Law: A Historical Case, http://www.daviddfriedman.com/Academic/Iceland/Iceland.html](#org50acd3f)
-    4.  [Medieval Iceland and the Absence of Government, https://mises.org/library/medieval-iceland-and-absence-government](#org41f3ace)
-    5.  [Privatization, Viking Style: Model or Misfortune?, https://www.lewrockwell.com/2002/06/roderick-t-long/the-vikings-were-libertarians/](#orgc70556c)
-    6.  [Ordered Anarchy, State and Rent-Seeking: The Icelandic Commonwealth, 930&#x2013;1264, https://notendur.hi.is/bthru/contents.html](#orge04bbf3)
-        1.  [Abstract](#org277bf94)
-        2.  [The Emergence of Social Order in the Icelandic Commonwealth](#org31cd6e0)
-            1.  [The Emergence of Institutions](#org40c9142)
-            2.  [The Commune, or Hreppar](#orge02a733)
-            3.  [Institutions of the Second Order](#org941fc2f)
-        3.  [From a Decentralised Order to Minimal States](#orgc9c9f5d)
-            1.  [A Decentralised Order](#org910bda3)
-        4.  [The Political Economy of Rent-Seeking and the End of the Commonwealth](#orgab20f97)
-    7.  [meta notes](#orgdef6082)
+1.  [Main Body](#orgae2d8ed)
+    1.  [Introduction](#org30b2d26)
+    2.  [Law in the Icelandic Commonwealth](#org24c56e3)
+    3.  [Mutual Aid in the Icelandic Commonwealth](#org64e3efb)
+    4.  [The Fall of the Icelandic Commonwealth.](#orgd096a1e)
+    5.  [CTA](#orga924ec6)
+2.  [Notes](#org244abd2)
+    1.  [Viking Age Iceland by Jesse L. Byock (ca. 9xx&#x2013;12xx)](#orgc5b236d)
+        1.  [Commonly used geographical terms](#orgb0d977a)
+        2.  [Introduction](#org7a29988)
+        3.  [An Immigrant Society](#org4197c44)
+        4.  [A Devolving and Evolving Social Order](#orgf6ae6a0)
+            1.  [Ranking, Hierarchy and Wealth](#org7dd4946)
+            2.  [Complex Culture and Simple Economy](#orged457a2)
+            3.  [Privatization of Power in the Tenth Century](#org59692a3)
+            4.  [A Proto-democratic Community?](#org9c3f60b)
+            5.  [Icelandic Feud: Conflict Management](#orgf80d039)
+    2.  [Was Viking Age Iceland Libertarian? | How Medieval Iceland Worked | 🇮🇸, https://www.youtube.com/watch?v=pfv0cd-1ERQ](#orgda5b10c)
+    3.  [Private Creation and Enforcement of Law: A Historical Case, http://www.daviddfriedman.com/Academic/Iceland/Iceland.html](#org7c0b6f0)
+    4.  [Medieval Iceland and the Absence of Government, https://mises.org/library/medieval-iceland-and-absence-government](#orgbeb2151)
+    5.  [Privatization, Viking Style: Model or Misfortune?, https://www.lewrockwell.com/2002/06/roderick-t-long/the-vikings-were-libertarians/](#orgf38f586)
+    6.  [Ordered Anarchy, State and Rent-Seeking: The Icelandic Commonwealth, 930&#x2013;1264, https://notendur.hi.is/bthru/contents.html](#org2b4791a)
+        1.  [Abstract](#org95abe48)
+        2.  [The Emergence of Social Order in the Icelandic Commonwealth](#org817b8c0)
+            1.  [The Emergence of Institutions](#orgb32d6bb)
+            2.  [The Commune, or Hreppar](#org9eff795)
+            3.  [Institutions of the Second Order](#orgfb9d1c4)
+        3.  [From a Decentralised Order to Minimal States](#org87b7dc1)
+            1.  [A Decentralised Order](#org0fd3b4d)
+        4.  [The Political Economy of Rent-Seeking and the End of the Commonwealth](#org0b3d72f)
+    7.  [meta notes](#org6d7b252)
 
 
 
-<a id="org5abe5aa"></a>
-
-# SEO Checklist
-
-
-<a id="org3478c85"></a>
-
-## Points to hit <code>[1/16]</code>
-
--   [-] who&rsquo;s the character?
-    -   [X] their want?
-    -   [X] their need?
-    -   [ ] their flaw?
-    -   [ ] how do they grow?
-    -   what story/journey could the above create?
--   [X] what&rsquo;s the desire/motivation of the story?
--   [ ] what&rsquo;s the obstacle?
--   [ ] what&rsquo;re the stakes &#x2014; why is it important?
--   [ ] make them care
-    -   [ ] show what you have so the audience feels the loss when you lose it
--   [ ] what&rsquo;s the resolution &#x2014; the one core idea that is the final message of the video that wraps everything up?
-    -   deliver on the title and thumbnail
--   [ ] storyboard it <code>[0/3]</code>
-    -   [ ] storylines you have
-    -   [ ] hook for each
-    -   [ ] different things that can happen
--   [ ] attach a story to every point I make and tell the story before I make that point
--   [ ] answer questions using spectacle
--   [ ] if things go static stories die, because life is never static.
--   [ ] drama is anticipation mingled with uncertainty
--   [ ] make comment goals (2 or 3)
--   [ ] cater to the archetypal viewer
--   [ ] reference popular media
--   [ ] Make an audience proxy (state things the viewer is thinking)
--   [ ] Problem every 2 minutes
-
-
-<a id="org7175487"></a>
-
-## Intro <code>[2/3]</code>
-
--   [ ] 8 words right at the start explaining the concept
--   [X] Personal (character) motivation
--   [X] Create an enemy
-
-
-<a id="orge3d8699"></a>
-
-## Questions to ask <code>[1/10]</code>
-
--   [X] is there incentive to watch until the end?
--   [ ] can I add something?
--   [ ] what are the different loops that I can open?
--   [ ] what are the different questions that the viewer could ask themselves?
--   [ ] what&rsquo;s the hook?
--   [ ] what do viewers need to see in the first few seconds based on the title and thumbnail so that they feel like their click is worth it?
--   [ ] is there a way to make the viewer laugh or feel surprised or feel something in the first 10 seconds?
--   [ ] is there a way to have two storylines?
-    -   [ ] surface level story, and hidden stories (finding nemo is ostensably about finding nemo, but really about marlon addressing his insecurities as a father)
-    -   [ ] is there a way to build surface level and underlying tension in each story?
-        -   short term: will dory&rsquo;s short term memory make her forget what marlon told her, long term: will we find nemo?
--   [ ] am I giving them 4 or 2+2?
-    -   <https://www.youtube.com/watch?v=KxDwieKpawg>
--   [ ] in doing X big thing <code>[0/3]</code>
-    -   [ ] what do I want?
-    -   [ ] what happens if I dont get what I want?
-    -   [ ] what will I do to get what I want?
-
-
-<a id="org616c326"></a>
-
-## Editing <code>[0/5]</code>
-
--   [ ] Show where possible
--   [ ] if theres a bit of information where you can delete what is before and after it and it flows just as well, cut it
--   [ ] tell stories with B-roll
--   [ ] Keep pace as fast as humanely possible, without impacting the pacing
--   [ ] add breather moments to allow for the pace to not feel too fast <https://www.youtube.com/watch?v=o8ZbGnwXjj4>
-
-
-<a id="org1fad534"></a>
-
-## How to keep people watching <code>[0/23]</code>
-
--   [ ] deliver on title and thumbnail (video &ldquo;I ate 100 bananas&rdquo; shouldnt start with people eating apples or you buying bananas)
--   [ ] *exceed* the expectations made by the thumbnail
--   [ ] instantly explain the payoff
--   [ ] tell them why to watch
--   [ ] get right into content after delivering
--   [ ] remove every dull moment
--   [ ] find 10 most critical people you know to roast your video
--   [ ] payoff at the end
--   [ ] you can make anything work but it has to be interesting to the audience, original, and good
--   [ ] big stunts
--   [ ] the title should be &ldquo;bananas are the best food on the planet&rdquo; rather than &ldquo;I like bananas&rdquo;
--   [ ] consider what the experience will be for people in the video, if they liked it they might want to watch more of your videos.
--   [ ] viewers can tell when you are half-assing
--   [ ] (storyline) have an objective
--   [ ] stay on topic
--   [ ] no filler, only content that is neccesary to the narrative and meets the expectations
--   [ ] for payoff have the clear goal that is teased throughout the video
--   [ ] build anticipation to the payoff
--   [ ] wait until the very end to give the payoff
--   [ ] watchtime is not created equal, engagement and viewer surveys will differentiate between a good 25min video and a great one
--   [ ] Signal to the viewer early on that you know something that they dont, e.g. &ldquo;I&rsquo;ve uncovered something about Elon Musk that nobody is talking about.&rdquo;
--   [ ] Get rid of signposting, e.g. over-explaining and ‘telling’ the viewer what&rsquo;s about to happen instead of ‘showing’ them.
--   [ ] subtly re-introduce the hook at several points in the video, most viewers forget what the incentive to watch is 5 or 6 minutes in
-
-
-<a id="org02ed172"></a>
-
-## Thumbnail
-
--   concept more important than aestethics
--   borrow from other successful videos (yoink and twist)
--   make the dominant subject someone people know (so not me when starting off)
--   provide action
--   portray the story of the video
--   other parts of the image shouldnt take focus away from the important, clickable, elements
--   confusion doesnt make people want to click, curiosity &ne; confusion
--   should be accurate in the most visually applealing way
--   should be simple and clear
--   colourful and bright
--   have 2-3 different versions of the thumbnail to A/B test
--   check how they look across youtube (thumbsup.tv)
--   recognisable figures improve CTR
--   you probably only want 1 person in your thumbnail (obviously just a rule of thumb)
--   spike their curiosity so much that they will wonder what happened if they dont click
-
-
-<a id="org820feae"></a>
-
-## Title
-
--   &ldquo;and this happened&rdquo; is better than &ldquo;what happens next will shock you&rdquo;
--   a good title says what it needs to say in as few characters as possible
-
-
-<a id="orgd43683c"></a>
-
-## End Screen
-
--   Next logical step
--   What do the avatars care about?
--   Make people want to know what happens next.
--   be persuasive
-    -   mention the avatars desire
-    -   point out what more there is for them to do
-        -   use &ldquo;have to&rdquo;
-    -   describe the result of them doing that.
--   be confident that the linked video is good
-
-
-<a id="orgbf808d2"></a>
+<a id="orgae2d8ed"></a>
 
 # Main Body
 
 
-<a id="orgaf0f041"></a>
+<a id="org30b2d26"></a>
 
 ## Introduction
 
 It&rsquo;s the late 9th century, and you are a peasant farmer living in Norway, your country is in chaos, King Harold Fairhair is seeking to overturn the long-standing tradition of local independence that your people have come to know and love.<sup><a id="fnr.1" class="footref" href="#fn.1" role="doc-backlink">1</a></sup> Through alliances with northern jarl&rsquo;s he has started subjugating other regional kings, local leaders, and countless free farmers, claiming to be the overlord of all of Norway. This is bad news for your livelihood, having such a power-hungry tyrant ruling over you will certainly bring with it yet more expropriation of your wealth, evidenced his newly implemented policy of property taxes over people who directly owned their land.<sup><a id="fnr.2" class="footref" href="#fn.2" role="doc-backlink">2</a></sup> This is something that you just can&rsquo;t afford to stick around for, but where can you turn? Much of Europe is also being ravaged by viking kings, and those places that are able to resist viking invasions have their own local tyrants to deal with. Then you get an idea&#x2014;you heard about a place called Iceland that has no king and yet has been able to resist viking invasion for quite some time, you decide to join other settlers in attempting to form a community there. Stick through to the end to learn of the trials that these settlers faced and how they dealt with them.
 
 
-<a id="orga3d9b5b"></a>
+<a id="org24c56e3"></a>
 
 ## Law in the Icelandic Commonwealth
 
@@ -232,14 +70,14 @@ Law in Iceland was seen as a private matter, dealing with disputes purely throug
 > So imbued were the Icelanders with the norms of conflict resolution through arbitration that they dealt with haunted houses in the same way – trying the ghosts for trespassing, in the confident expectation that, if found guilty, a good Icelandic ghost would respect the verdict of the court and peacefully depart!<sup><a id="fnr.8" class="footref" href="#fn.8" role="doc-backlink">8</a></sup>
 
 
-<a id="org0dd942a"></a>
+<a id="org64e3efb"></a>
 
 ## Mutual Aid in the Icelandic Commonwealth
 
 The provision of mutual aid in Iceland was in the form of the hreppar, a small communal unit that acted to mitigate against many common threats facing the free farmers. The exact inner-workings of the hreppar is unknown, but we do know that they provided support for the poor and orphaned, insured against fire damage and loss of livestock due to disease, and potentially many of the other insurable threats that would face people at this time. To gain entry to the hreppar a farmer would need the reccommendation of a member, and once in dues would have to be paid, similarly to the mutual aid that was developed in the United States far later. However, it does seem that once affiliated with a hreppar, farmers were unable to change their affiliation to another one at will, making it a less-than-ideal relationship.
 
 
-<a id="orgd7093ae"></a>
+<a id="orgd096a1e"></a>
 
 ## The Fall of the Icelandic Commonwealth.
 
@@ -260,24 +98,24 @@ As Hoppe has explained,<sup><a id="fnr.11" class="footref" href="#fn.11" role="d
 We may apply this analysis to medieval Iceland as a means to determine the root of its failure more fully. Initially as the settlers in the 9th century set up the legal apparatus, the public opinion of icelanders was very much in line with natural law&#x2014;that is, many Icelanders were directly escaping exploitation of states back home, and thus would be apt to resist any attempts at exploitation in their new home. This is why we see no taxation in early iceland. Unfortunately, however, the men of Iceland did not have a perfect grasp on private property or economics and were rather proto-democratic in the way they set up the lögrétta where the goðorð would vote to &ldquo;decide&rdquo; law and would have to vote to determine whether a new goðorð would be allowed into the party. Such a monopolistic apparatus did indeed plant the seeds for future growth in statism as Long has pointed out above. However, such a growth could only come about if public opinion was in its favour, which occurred due to the islands conversion to Christianity. The newly christian population had a level of class consciousness such that the tithe was able to be introduced without active resistence from the expropriated, these new monopolistic earnings of the goðar then allowed them to begin waging wars which further pushed public opinion in the favour of alternative expropriation at the hands of King Haakon IV. Ultimately a stronger grasp on natural law could have saved the commonwealth and even pushed it into total anarchy&#x2014;thus I re-iterate Long&rsquo;s point that it was specifically those aspects in which Iceland was statist that lead to its eventual downfall.
 
 
-<a id="org451f032"></a>
+<a id="orga924ec6"></a>
 
 ## CTA
 
 Thank you for watching, this video provides an example of failed minarchy, if you want to learn more about the failings of minarchism you have to watch this video were I present critical challenges to minarchists. This will allow you to more deeply understand the topic at hand.
 
 
-<a id="orgb36ac8e"></a>
+<a id="org244abd2"></a>
 
 # Notes
 
 
-<a id="orgbb7bc4e"></a>
+<a id="orgc5b236d"></a>
 
 ## Viking Age Iceland by Jesse L. Byock (ca. 9xx&#x2013;12xx)
 
 
-<a id="orge16b317"></a>
+<a id="orgb0d977a"></a>
 
 ### Commonly used geographical terms
 
@@ -377,7 +215,7 @@ Thank you for watching, this video provides an example of failed minarchy, if yo
 </table>
 
 
-<a id="org98750cb"></a>
+<a id="org7a29988"></a>
 
 ### Introduction
 
@@ -391,7 +229,7 @@ Thank you for watching, this video provides an example of failed minarchy, if yo
 &#x2014;page 2
 
 
-<a id="orgd9217eb"></a>
+<a id="org4197c44"></a>
 
 ### An Immigrant Society
 
@@ -406,7 +244,7 @@ Years ago the legal historian James Bryce wrote<sup><a id="fnr.12" class="footre
 -   Section on leadership (page 13 [37 in total]) is handy for quotes
 
 
-<a id="org8a19dd8"></a>
+<a id="orgf6ae6a0"></a>
 
 ### A Devolving and Evolving Social Order
 
@@ -421,7 +259,7 @@ Years ago the legal historian James Bryce wrote<sup><a id="fnr.12" class="footre
 &#x2014; page 64, 88 in total
 
 
-<a id="orga2fd01b"></a>
+<a id="org7dd4946"></a>
 
 #### Ranking, Hierarchy and Wealth
 
@@ -440,7 +278,7 @@ Years ago the legal historian James Bryce wrote<sup><a id="fnr.12" class="footre
 &#x2014;92
 
 
-<a id="orgccaf542"></a>
+<a id="orged457a2"></a>
 
 #### Complex Culture and Simple Economy
 
@@ -455,7 +293,7 @@ Years ago the legal historian James Bryce wrote<sup><a id="fnr.12" class="footre
 &#x2014;96
 
 
-<a id="org08a4287"></a>
+<a id="org59692a3"></a>
 
 #### Privatization of Power in the Tenth Century
 
@@ -466,7 +304,7 @@ Years ago the legal historian James Bryce wrote<sup><a id="fnr.12" class="footre
 > The marketable nature of the goðorð had a profound effect. The availability of this relatively low-level yet paramount position of authority contributed significantly to the stability of the Free State in the early centuries. As class distinctions did not constitute formal barriers to acquiring the office of chieftaincy, an ambitious, successful farmer could set his sights on becoming a goði. Reward could be sought within Iceland’s social and political systems rather than in changing them. Until the appearance of overlords in the thirteenth century (discussed in Chapter 19), there is no evidence that Iceland’s peasantry was disgruntled.
 
 
-<a id="org1f6e8ac"></a>
+<a id="org9c3f60b"></a>
 
 #### A Proto-democratic Community?
 
@@ -485,7 +323,7 @@ DTGTF:
 > One-man-one-vote combined with &ldquo;free entry&rdquo; into government democracy implies that every person and his personal property comes within reach of and is up for grabs by everyone else. A &ldquo;tragedy of the commons&rdquo; is created. It can be expected that majorities of &ldquo;have-nots&rdquo; will relentlessly try to enrich themselves at the expense of minorities of &ldquo;haves.&rdquo; This is not to say that there will be only one class of have-nots and one class of haves, and that the redistribution will occur uniformly from the rich onto the poor. To the contrary. While the redistribution from rich to poor will always play a prominent role, it would be a sociological blunder to assume that it will be the sole or even the predominant form of redistribution. After all, the &ldquo;permanently&rdquo; rich and the &ldquo;permanently&rdquo; poor are usually rich or poor for a reason. The rich are characteristically bright and industrious, and the poor typically dull, lazy, or both. It is not very likely that dullards, even if they make up a majority, will systematically outsmart and enrich themselves at the expense of a minority of bright and energetic individuals. Rather, most redistribution will take place within the group of the &ldquo;non-poor,&rdquo; and frequently it will actually be the better-off who succeed in having themselves subsidized by the worse-off. Consider, for example, the almost universal practice of offering a &ldquo;free&rdquo; university education, whereby the working class, whose children rarely attend universities, pay through taxation for the education of middle-class children! Moreover, it can be expected that there will be many competing groups and coalitions trying to gain at the expense of others. There will be various changing criteria defining what it is that makes one person a &ldquo;have&rdquo; (deserving to be looted) and another a &ldquo;have-not&rdquo; (deserving to receive the loot). At the same time, individuals will be members of a multitude of groups of &ldquo;haves&rdquo; and/or &ldquo;have-nots,&rdquo; losing on account of one of their characteristics and gaining on account of another, with some individuals ending up net-losers and others net-winners of redistribution.
 
 
-<a id="orgaa3a8e8"></a>
+<a id="orgf80d039"></a>
 
 #### Icelandic Feud: Conflict Management
 
@@ -510,7 +348,7 @@ DTGTF:
 > Ketil, helped by his religious nature (with Haflidi’s backing, he later became a bishop), came to realize that his demand for absolute justice was not reasonable and settled the dispute. The point of Ketil’s tale is well made, for shortly thereafter Haflidi submits his case to reasonable arbitration, and a settlement is arranged which both men then honour. This adherence to rules, which made it honourable to address order more than justice, was inherited from Scandinavian legal tradition and underlies Njal’s famous statement in his saga, when feuding parties would no longer play by the rules: ‘Our land must be built with law or laid waste with lawlessness.’
 
 
-<a id="org09fbffd"></a>
+<a id="orgda5b10c"></a>
 
 ## Was Viking Age Iceland Libertarian? | How Medieval Iceland Worked | 🇮🇸, <https://www.youtube.com/watch?v=pfv0cd-1ERQ>
 
@@ -529,7 +367,7 @@ DTGTF:
 -   
 
 
-<a id="org50acd3f"></a>
+<a id="org7c0b6f0"></a>
 
 ## Private Creation and Enforcement of Law: A Historical Case, <http://www.daviddfriedman.com/Academic/Iceland/Iceland.html>
 
@@ -558,7 +396,7 @@ DTGTF:
 > I have described the legislative and judicial branches of &ldquo;government&rdquo; but have omitted the executive. So did the Icelanders. The function of the courts was to deliver verdicts on cases brought to them. That done, the court was finished. If the verdict went against the defendant, it was up to him to pay the assigned punishment&#x2013;almost always a fine. If he did not, the plaintiff could go to court again and have the defendant declared an outlaw. The killer of an outlaw could not himself be prosecuted for the act; in addition, anyone who gave shelter to an outlaw could be prosecuted for doing so.
 
 
-<a id="org41f3ace"></a>
+<a id="orgbeb2151"></a>
 
 ## Medieval Iceland and the Absence of Government, <https://mises.org/library/medieval-iceland-and-absence-government>
 
@@ -579,7 +417,7 @@ DTGTF:
 > Roderick Long also addresses the fact that the introduction of the tithe in 1096 may have aided in the collapse of Iceland. The tithe was a tax paid for the upkeep of the Catholic Church and to pay church officials. The only stipulation was that the money appropriated to the upkeep of the church went to the private landowner (usually a chieftain). It is also no surprise that the chieftains were exempt from paying this property tax. Chieftains had expropriated earnings from free farmers and the free farmers had no way to keep the chieftains in check.
 
 
-<a id="orgc70556c"></a>
+<a id="orgf38f586"></a>
 
 ## Privatization, Viking Style: Model or Misfortune?, <https://www.lewrockwell.com/2002/06/roderick-t-long/the-vikings-were-libertarians/>
 
@@ -624,24 +462,24 @@ Citing Diamond, J. &ldquo;[Living on the Moon](http://www.nybooks.com/articles/1
 > The Icelandic system did fall through an inherent flaw, then, but not the one Diamond imagines; the Free State failed, not through having too much privatization, but through having too little. The tithe, and particularly the portion allotted to churchstead maintenance, represented a monopolistic, non-competitive element in the system. The introduction of the tithe was in turn made possible by yet another non-competitive element: the establishment of an official state church which everyone was legally bound to support. Finally, buying up chieftaincies would have availed little if there had been free entry into the chieftaincy profession; instead, the number of chieftains was set by law, and the creation of new chieftaincies could be approved only by parliament – i.e., by the existing chieftains, who were naturally less than eager to encourage competitors. It is precisely those respects in which the Free State was least privatized and decentralized that led to its downfall – while its more privatized aspects delayed that downfall for three centuries.
 
 
-<a id="orge04bbf3"></a>
+<a id="org2b4791a"></a>
 
 ## Ordered Anarchy, State and Rent-Seeking: The Icelandic Commonwealth, 930&#x2013;1264, <https://notendur.hi.is/bthru/contents.html>
 
 
-<a id="org277bf94"></a>
+<a id="org95abe48"></a>
 
 ### Abstract
 
 > By the last decade of the eleventh century the chieftains were able to use their position to introduce the tithe, obligating farmers to pay a tax to the chieftains and the Church, of one percentile of their wealth. In essence, rent-seeking (defection) became more profitable for the chieftains than long-term reciprocical behaviour. Reciprocity, fruitful in establishing Iceland&rsquo;s institutional structure, lost its importance and such behaviour diminished. The tied sales of legal and religious services established the chieftains as local monopolies, as minimal states. These minimal states now competed for more territory, and population, and, most importantly, more chieftaincies and churches. The minimal states became fewer and fewer as the surviving ones triumphed in their advancements. Through the struggle for wealth and power the chieftains mostly killed each other and by 1250 only a few chiefdoms and even fewer chieftains survived. By that time the king of Norway had established a foothold in the country and by the voluntary choice of the Icelandic farmers in 1262-64, was accepted as king of Iceland.
 
 
-<a id="org31cd6e0"></a>
+<a id="org817b8c0"></a>
 
 ### The Emergence of Social Order in the Icelandic Commonwealth
 
 
-<a id="org40c9142"></a>
+<a id="orgb32d6bb"></a>
 
 #### The Emergence of Institutions
 
@@ -650,7 +488,7 @@ Citing Diamond, J. &ldquo;[Living on the Moon](http://www.nybooks.com/articles/1
 &#x2014;He notes here that the exact origin of this structure is disputed
 
 
-<a id="orge02a733"></a>
+<a id="org9eff795"></a>
 
 #### The Commune, or Hreppar
 
@@ -665,7 +503,7 @@ Citing Diamond, J. &ldquo;[Living on the Moon](http://www.nybooks.com/articles/1
 >🤮
 
 
-<a id="org941fc2f"></a>
+<a id="orgfb9d1c4"></a>
 
 #### Institutions of the Second Order
 
@@ -680,19 +518,19 @@ Citing Diamond, J. &ldquo;[Living on the Moon](http://www.nybooks.com/articles/1
 > The logic of the institutional emergence is as follows: on the one hand I have the postulated individual chieftain group, and on the other the Hreppur. On top of these the local assemblies and then the Quarter-Þings evolved. Finally, as the overlapping layer, we have the Alþing, interconnecting all groups.19 At the same time however, the Icelanders were beginning to restructure the boundaries between these groups to correspond to geographical boundaries, and this may have given rise to new conflicts. However, this restructuring also established clear procedural rules for handling cases and institutionalized the flow of information about legal matters and defections. Through this institution, known as the Leiðir, everyone should have been able to acquire knowledge necessary to distinguish between cooperators and defectors, and learn the law.
 
 
-<a id="orgc9c9f5d"></a>
+<a id="org87b7dc1"></a>
 
 ### From a Decentralised Order to Minimal States
 
 
-<a id="org910bda3"></a>
+<a id="org0fd3b4d"></a>
 
 #### A Decentralised Order
 
 > &ldquo;The political arena of the early Commonwealth can be seen as a competitive market of thirty-nine firms of similar sizes. Each firm involved contracts between the chieftain and his liegemen for the joint production and protection of property rights. The power of a chieftain was constrained in various ways. He could not tax his followers like a feudal lord, and there was some flexibility: A farmer was free to cancel his contract with a chieftain and take up association with another.&rdquo; (Eggertsson 1990:308)
 
 
-<a id="orgab20f97"></a>
+<a id="org0b3d72f"></a>
 
 ### The Political Economy of Rent-Seeking and the End of the Commonwealth
 
@@ -701,7 +539,7 @@ Citing Diamond, J. &ldquo;[Living on the Moon](http://www.nybooks.com/articles/1
 &#x2014;The Book of the Icelanders
 
 
-<a id="orgdef6082"></a>
+<a id="org6d7b252"></a>
 
 ## meta notes
 

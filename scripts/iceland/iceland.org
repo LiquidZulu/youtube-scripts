@@ -1,6 +1,6 @@
 #+TITLE: Iceland
 
-* SEO Checklist
+* SEO Checklist :noexport:
 ** Points to hit [1/16]
 + [-] who's the character?
   + [X] their want?
