@@ -1,0 +1,749 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt LC_NUMERIC="C" producer="main_bin" version="7.6.0" root="/home/liquidzulu/Documents/youtube-scripts/memes/gigachad-ancap">
+ <profile frame_rate_num="30" sample_aspect_num="1" display_aspect_den="1" colorspace="709" progressive="1" description="Square 1080p 30 fps" display_aspect_num="1" frame_rate_den="1" width="1080" height="1080" sample_aspect_den="1"/>
+ <producer id="producer0" in="00:00:00.000" out="00:03:45.400">
+  <property name="length">6763</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/liquidzulu/.cache/kdenlive/proxy/f0e8aec5ffa661a25a1d29fa064ab684.mkv</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">601</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">mjpeg</property>
+  <property name="meta.media.0.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.HANDLER_NAME.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.VENDOR_ID.markup">[0][0][0][0]</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc59.18.100 mjpeg</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:03:45.333000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">pcm_s16le</property>
+  <property name="meta.media.1.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.1.codec.bit_rate">1411200</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.HANDLER_NAME.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.1.stream.VENDOR_ID.markup">[0][0][0][0]</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc59.18.100 pcm_s16le</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:03:45.419000000</property>
+  <property name="meta.attr.COMPATIBLE_BRANDS.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.MAJOR_BRAND.markup">isom</property>
+  <property name="meta.attr.MINOR_VERSION.markup">512</property>
+  <property name="meta.attr.ENCODER.markup">Lavf59.16.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat</property>
+  <property name="kdenlive:clipname">Giga Chad - Can You Feel My Heart [EZEfN5z8Mlg].mp4</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">2</property>
+  <property name="kdenlive:file_size">9398350</property>
+  <property name="kdenlive:file_hash">f0e8aec5ffa661a25a1d29fa064ab684</property>
+  <property name="kdenlive:proxy">/home/liquidzulu/.cache/kdenlive/proxy/f0e8aec5ffa661a25a1d29fa064ab684.mkv</property>
+  <property name="kdenlive:originalurl">Giga Chad - Can You Feel My Heart [EZEfN5z8Mlg].mp4</property>
+  <property name="kdenlive:original.mlt_type">producer</property>
+  <property name="kdenlive:original.in">0</property>
+  <property name="kdenlive:original.out">6762</property>
+  <property name="kdenlive:original.length">6763</property>
+  <property name="kdenlive:original.eof">pause</property>
+  <property name="kdenlive:original.resource">Giga Chad - Can You Feel My Heart [EZEfN5z8Mlg].mp4</property>
+  <property name="kdenlive:original.meta.media.nb_streams">2</property>
+  <property name="kdenlive:original.meta.media.0.stream.type">video</property>
+  <property name="kdenlive:original.meta.media.0.stream.frame_rate">30</property>
+  <property name="kdenlive:original.meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.width">1280</property>
+  <property name="kdenlive:original.meta.media.0.codec.height">720</property>
+  <property name="kdenlive:original.meta.media.0.codec.rotate">0</property>
+  <property name="kdenlive:original.meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="kdenlive:original.meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.colorspace">601</property>
+  <property name="kdenlive:original.meta.media.0.codec.color_trc">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.name">h264</property>
+  <property name="kdenlive:original.meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="kdenlive:original.meta.media.0.codec.bit_rate">197378</property>
+  <property name="kdenlive:original.meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="kdenlive:original.meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="kdenlive:original.meta.media.1.stream.type">audio</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_rate">44100</property>
+  <property name="kdenlive:original.meta.media.1.codec.channels">2</property>
+  <property name="kdenlive:original.meta.media.1.codec.name">aac</property>
+  <property name="kdenlive:original.meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="kdenlive:original.meta.media.1.codec.bit_rate">128001</property>
+  <property name="kdenlive:original.meta.attr.1.stream.language.markup">eng</property>
+  <property name="kdenlive:original.meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="kdenlive:original.meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="kdenlive:original.meta.attr.major_brand.markup">isom</property>
+  <property name="kdenlive:original.meta.attr.minor_version.markup">512</property>
+  <property name="kdenlive:original.meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="kdenlive:original.meta.attr.encoder.markup">Lavf59.16.100</property>
+  <property name="kdenlive:original.seekable">1</property>
+  <property name="kdenlive:original.width">1280</property>
+  <property name="kdenlive:original.height">720</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_num">1</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_den">1</property>
+  <property name="kdenlive:original.aspect_ratio">1</property>
+  <property name="kdenlive:original.audio_index">1</property>
+  <property name="kdenlive:original.video_index">0</property>
+  <property name="kdenlive:original.mute_on_pause">0</property>
+  <property name="kdenlive:original.mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:original.meta.media.frame_rate_num">30</property>
+  <property name="kdenlive:original.meta.media.frame_rate_den">1</property>
+  <property name="kdenlive:original.meta.media.colorspace">601</property>
+  <property name="kdenlive:original.meta.media.color_trc">1</property>
+  <property name="kdenlive:original.meta.media.has_b_frames">1</property>
+  <property name="kdenlive:original.meta.media.width">1280</property>
+  <property name="kdenlive:original.meta.media.height">720</property>
+  <property name="kdenlive:original.meta.media.color_range">mpeg</property>
+  <property name="kdenlive:original.meta.media.top_field_first">0</property>
+  <property name="kdenlive:original.meta.media.progressive">1</property>
+  <property name="kdenlive:original.kdenlive:clip_type">0</property>
+  <property name="kdenlive:original.kdenlive:folderid">-1</property>
+  <property name="kdenlive:original.kdenlive:id">2</property>
+  <property name="kdenlive:original.kdenlive:file_size">9398350</property>
+  <property name="kdenlive:original.kdenlive:file_hash">f0e8aec5ffa661a25a1d29fa064ab684</property>
+  <property name="kdenlive:original.backup">1</property>
+  <property name="kdenlive:audio_max1">228</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">0</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer1" in="00:00:00.000" out="00:00:09.367">
+  <property name="length">282</property>
+  <property name="eof">pause</property>
+  <property name="resource">FX1MUeGUIAIwph-.jpeg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1080</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:id">3</property>
+  <property name="kdenlive:file_size">182347</property>
+  <property name="kdenlive:file_hash">6e61192f96c48a030a8b06d5a8efb94b</property>
+ </producer>
+ <producer id="producer2" in="00:00:00.000" out="00:00:09.367">
+  <property name="length">282</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/liquidzulu/Pictures/youtube/assets/watermark-mono.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1138</property>
+  <property name="meta.media.height">213</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:id">4</property>
+  <property name="kdenlive:file_size">16622</property>
+  <property name="kdenlive:file_hash">3d7da25421bb130cba76c598125dac65</property>
+ </producer>
+ <playlist id="main_bin">
+  <property name="kdenlive:docproperties.activeTrack">4</property>
+  <property name="kdenlive:docproperties.audioChannels">2</property>
+  <property name="kdenlive:docproperties.audioTarget">-1</property>
+  <property name="kdenlive:docproperties.disablepreview">0</property>
+  <property name="kdenlive:docproperties.documentid">1658094014140</property>
+  <property name="kdenlive:docproperties.enableTimelineZone">0</property>
+  <property name="kdenlive:docproperties.enableexternalproxy">0</property>
+  <property name="kdenlive:docproperties.enableproxy">1</property>
+  <property name="kdenlive:docproperties.externalproxyparams">./;GL;.LRV;./;GX;.MP4</property>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">1</property>
+  <property name="kdenlive:docproperties.groups">[
+]
+</property>
+  <property name="kdenlive:docproperties.kdenliveversion">22.04.2</property>
+  <property name="kdenlive:docproperties.position">282</property>
+  <property name="kdenlive:docproperties.previewextension"/>
+  <property name="kdenlive:docproperties.previewparameters"/>
+  <property name="kdenlive:docproperties.profile">square_1080p_30</property>
+  <property name="kdenlive:docproperties.proxyextension"/>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyimagesize">800</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams"/>
+  <property name="kdenlive:docproperties.proxyresize">640</property>
+  <property name="kdenlive:docproperties.scrollPos">0</property>
+  <property name="kdenlive:docproperties.seekOffset">30000</property>
+  <property name="kdenlive:docproperties.version">1.04</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.videoTarget">2</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">75</property>
+  <property name="kdenlive:docproperties.zoom">4</property>
+  <property name="kdenlive:expandedFolders"/>
+  <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:docproperties.rendercategory">Lossless/HQ</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.rendermode">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderpreview">0</property>
+  <property name="kdenlive:docproperties.renderprofile">H.264 (libx264+aac)</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">540</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">540</property>
+  <property name="kdenlive:docproperties.renderspeed">6</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">-1</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">gigachad-ancap.mp4</property>
+  <property name="xml_retain">1</property>
+  <entry producer="producer0" in="00:00:00.000" out="00:03:45.400"/>
+  <entry producer="producer1" in="00:00:00.000" out="00:00:04.967"/>
+  <entry producer="producer2" in="00:00:00.000" out="00:00:04.967"/>
+ </playlist>
+ <producer id="black_track" in="00:00:00.000" out="00:16:49.400">
+  <property name="length">2147483647</property>
+  <property name="eof">continue</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">1</property>
+  <property name="mlt_service">color</property>
+  <property name="mlt_image_format">rgba</property>
+  <property name="set.test_audio">0</property>
+ </producer>
+ <playlist id="playlist0">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <tractor id="tractor0" in="00:00:00.000">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="video" producer="playlist0"/>
+  <track hide="video" producer="playlist1"/>
+  <filter id="filter0">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter1">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter2">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="peak">1</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+ <producer id="producer3" in="00:00:00.000" out="00:03:45.400">
+  <property name="length">6763</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/liquidzulu/.cache/kdenlive/proxy/f0e8aec5ffa661a25a1d29fa064ab684.mkv</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">601</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">mjpeg</property>
+  <property name="meta.media.0.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.HANDLER_NAME.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.VENDOR_ID.markup">[0][0][0][0]</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc59.18.100 mjpeg</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:03:45.333000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">pcm_s16le</property>
+  <property name="meta.media.1.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.1.codec.bit_rate">1411200</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.HANDLER_NAME.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.1.stream.VENDOR_ID.markup">[0][0][0][0]</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc59.18.100 pcm_s16le</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:03:45.419000000</property>
+  <property name="meta.attr.COMPATIBLE_BRANDS.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.MAJOR_BRAND.markup">isom</property>
+  <property name="meta.attr.MINOR_VERSION.markup">512</property>
+  <property name="meta.attr.ENCODER.markup">Lavf59.16.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:clipname">Giga Chad - Can You Feel My Heart [EZEfN5z8Mlg].mp4</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">2</property>
+  <property name="kdenlive:file_size">9398350</property>
+  <property name="kdenlive:file_hash">f0e8aec5ffa661a25a1d29fa064ab684</property>
+  <property name="kdenlive:proxy">/home/liquidzulu/.cache/kdenlive/proxy/f0e8aec5ffa661a25a1d29fa064ab684.mkv</property>
+  <property name="kdenlive:originalurl">Giga Chad - Can You Feel My Heart [EZEfN5z8Mlg].mp4</property>
+  <property name="kdenlive:original.mlt_type">producer</property>
+  <property name="kdenlive:original.in">0</property>
+  <property name="kdenlive:original.out">6762</property>
+  <property name="kdenlive:original.length">6763</property>
+  <property name="kdenlive:original.eof">pause</property>
+  <property name="kdenlive:original.resource">Giga Chad - Can You Feel My Heart [EZEfN5z8Mlg].mp4</property>
+  <property name="kdenlive:original.meta.media.nb_streams">2</property>
+  <property name="kdenlive:original.meta.media.0.stream.type">video</property>
+  <property name="kdenlive:original.meta.media.0.stream.frame_rate">30</property>
+  <property name="kdenlive:original.meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.width">1280</property>
+  <property name="kdenlive:original.meta.media.0.codec.height">720</property>
+  <property name="kdenlive:original.meta.media.0.codec.rotate">0</property>
+  <property name="kdenlive:original.meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="kdenlive:original.meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.colorspace">601</property>
+  <property name="kdenlive:original.meta.media.0.codec.color_trc">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.name">h264</property>
+  <property name="kdenlive:original.meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="kdenlive:original.meta.media.0.codec.bit_rate">197378</property>
+  <property name="kdenlive:original.meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="kdenlive:original.meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="kdenlive:original.meta.media.1.stream.type">audio</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_rate">44100</property>
+  <property name="kdenlive:original.meta.media.1.codec.channels">2</property>
+  <property name="kdenlive:original.meta.media.1.codec.name">aac</property>
+  <property name="kdenlive:original.meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="kdenlive:original.meta.media.1.codec.bit_rate">128001</property>
+  <property name="kdenlive:original.meta.attr.1.stream.language.markup">eng</property>
+  <property name="kdenlive:original.meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="kdenlive:original.meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="kdenlive:original.meta.attr.major_brand.markup">isom</property>
+  <property name="kdenlive:original.meta.attr.minor_version.markup">512</property>
+  <property name="kdenlive:original.meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="kdenlive:original.meta.attr.encoder.markup">Lavf59.16.100</property>
+  <property name="kdenlive:original.seekable">1</property>
+  <property name="kdenlive:original.width">1280</property>
+  <property name="kdenlive:original.height">720</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_num">1</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_den">1</property>
+  <property name="kdenlive:original.aspect_ratio">1</property>
+  <property name="kdenlive:original.audio_index">1</property>
+  <property name="kdenlive:original.video_index">0</property>
+  <property name="kdenlive:original.mute_on_pause">0</property>
+  <property name="kdenlive:original.mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:original.meta.media.frame_rate_num">30</property>
+  <property name="kdenlive:original.meta.media.frame_rate_den">1</property>
+  <property name="kdenlive:original.meta.media.colorspace">601</property>
+  <property name="kdenlive:original.meta.media.color_trc">1</property>
+  <property name="kdenlive:original.meta.media.has_b_frames">1</property>
+  <property name="kdenlive:original.meta.media.width">1280</property>
+  <property name="kdenlive:original.meta.media.height">720</property>
+  <property name="kdenlive:original.meta.media.color_range">mpeg</property>
+  <property name="kdenlive:original.meta.media.top_field_first">0</property>
+  <property name="kdenlive:original.meta.media.progressive">1</property>
+  <property name="kdenlive:original.kdenlive:clip_type">0</property>
+  <property name="kdenlive:original.kdenlive:folderid">-1</property>
+  <property name="kdenlive:original.kdenlive:id">2</property>
+  <property name="kdenlive:original.kdenlive:file_size">9398350</property>
+  <property name="kdenlive:original.kdenlive:file_hash">f0e8aec5ffa661a25a1d29fa064ab684</property>
+  <property name="kdenlive:original.backup">1</property>
+  <property name="kdenlive:audio_max1">228</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">0</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
+ <playlist id="playlist2">
+  <property name="kdenlive:audio_track">1</property>
+  <entry producer="producer3" in="00:00:13.133" out="00:00:22.500">
+   <property name="kdenlive:id">2</property>
+  </entry>
+ </playlist>
+ <playlist id="playlist3">
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <tractor id="tractor1" in="00:00:00.000" out="00:00:09.367">
+  <property name="kdenlive:audio_track">1</property>
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="video" producer="playlist2"/>
+  <track hide="video" producer="playlist3"/>
+  <filter id="filter3">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter4">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter5">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="peak">1</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+ <playlist id="playlist4">
+  <entry producer="producer1" in="00:00:00.000" out="00:00:09.367">
+   <property name="kdenlive:id">3</property>
+   <filter id="filter6">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=0 0 1080 1080 1.000000;00:00:01.933=0 0 1080 1080 1.000000;00:00:02.033=-1110 -1676 2361 2361 1.000000</property>
+    <property name="rotation">00:00:00.000=0;00:00:01.933=0;00:00:02.033=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist5"/>
+ <tractor id="tractor2" in="00:00:00.000" out="00:00:09.367">
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist4"/>
+  <track hide="audio" producer="playlist5"/>
+ </tractor>
+ <producer id="producer4" in="00:00:00.000" out="00:03:45.400">
+  <property name="length">6763</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/liquidzulu/.cache/kdenlive/proxy/f0e8aec5ffa661a25a1d29fa064ab684.mkv</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">601</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">mjpeg</property>
+  <property name="meta.media.0.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.HANDLER_NAME.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.0.stream.VENDOR_ID.markup">[0][0][0][0]</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc59.18.100 mjpeg</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:03:45.333000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">pcm_s16le</property>
+  <property name="meta.media.1.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.1.codec.bit_rate">1411200</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.attr.1.stream.HANDLER_NAME.markup">ISO Media file produced by Google Inc.</property>
+  <property name="meta.attr.1.stream.VENDOR_ID.markup">[0][0][0][0]</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc59.18.100 pcm_s16le</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:03:45.419000000</property>
+  <property name="meta.attr.COMPATIBLE_BRANDS.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.MAJOR_BRAND.markup">isom</property>
+  <property name="meta.attr.MINOR_VERSION.markup">512</property>
+  <property name="meta.attr.ENCODER.markup">Lavf59.16.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:clipname">Giga Chad - Can You Feel My Heart [EZEfN5z8Mlg].mp4</property>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">2</property>
+  <property name="kdenlive:file_size">9398350</property>
+  <property name="kdenlive:file_hash">f0e8aec5ffa661a25a1d29fa064ab684</property>
+  <property name="kdenlive:proxy">/home/liquidzulu/.cache/kdenlive/proxy/f0e8aec5ffa661a25a1d29fa064ab684.mkv</property>
+  <property name="kdenlive:originalurl">Giga Chad - Can You Feel My Heart [EZEfN5z8Mlg].mp4</property>
+  <property name="kdenlive:original.mlt_type">producer</property>
+  <property name="kdenlive:original.in">0</property>
+  <property name="kdenlive:original.out">6762</property>
+  <property name="kdenlive:original.length">6763</property>
+  <property name="kdenlive:original.eof">pause</property>
+  <property name="kdenlive:original.resource">Giga Chad - Can You Feel My Heart [EZEfN5z8Mlg].mp4</property>
+  <property name="kdenlive:original.meta.media.nb_streams">2</property>
+  <property name="kdenlive:original.meta.media.0.stream.type">video</property>
+  <property name="kdenlive:original.meta.media.0.stream.frame_rate">30</property>
+  <property name="kdenlive:original.meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.width">1280</property>
+  <property name="kdenlive:original.meta.media.0.codec.height">720</property>
+  <property name="kdenlive:original.meta.media.0.codec.rotate">0</property>
+  <property name="kdenlive:original.meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="kdenlive:original.meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.colorspace">601</property>
+  <property name="kdenlive:original.meta.media.0.codec.color_trc">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.name">h264</property>
+  <property name="kdenlive:original.meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="kdenlive:original.meta.media.0.codec.bit_rate">197378</property>
+  <property name="kdenlive:original.meta.attr.0.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="kdenlive:original.meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="kdenlive:original.meta.media.1.stream.type">audio</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_rate">44100</property>
+  <property name="kdenlive:original.meta.media.1.codec.channels">2</property>
+  <property name="kdenlive:original.meta.media.1.codec.name">aac</property>
+  <property name="kdenlive:original.meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="kdenlive:original.meta.media.1.codec.bit_rate">128001</property>
+  <property name="kdenlive:original.meta.attr.1.stream.language.markup">eng</property>
+  <property name="kdenlive:original.meta.attr.1.stream.handler_name.markup">ISO Media file produced by Google Inc.</property>
+  <property name="kdenlive:original.meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="kdenlive:original.meta.attr.major_brand.markup">isom</property>
+  <property name="kdenlive:original.meta.attr.minor_version.markup">512</property>
+  <property name="kdenlive:original.meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="kdenlive:original.meta.attr.encoder.markup">Lavf59.16.100</property>
+  <property name="kdenlive:original.seekable">1</property>
+  <property name="kdenlive:original.width">1280</property>
+  <property name="kdenlive:original.height">720</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_num">1</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_den">1</property>
+  <property name="kdenlive:original.aspect_ratio">1</property>
+  <property name="kdenlive:original.audio_index">1</property>
+  <property name="kdenlive:original.video_index">0</property>
+  <property name="kdenlive:original.mute_on_pause">0</property>
+  <property name="kdenlive:original.mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:original.meta.media.frame_rate_num">30</property>
+  <property name="kdenlive:original.meta.media.frame_rate_den">1</property>
+  <property name="kdenlive:original.meta.media.colorspace">601</property>
+  <property name="kdenlive:original.meta.media.color_trc">1</property>
+  <property name="kdenlive:original.meta.media.has_b_frames">1</property>
+  <property name="kdenlive:original.meta.media.width">1280</property>
+  <property name="kdenlive:original.meta.media.height">720</property>
+  <property name="kdenlive:original.meta.media.color_range">mpeg</property>
+  <property name="kdenlive:original.meta.media.top_field_first">0</property>
+  <property name="kdenlive:original.meta.media.progressive">1</property>
+  <property name="kdenlive:original.kdenlive:clip_type">0</property>
+  <property name="kdenlive:original.kdenlive:folderid">-1</property>
+  <property name="kdenlive:original.kdenlive:id">2</property>
+  <property name="kdenlive:original.kdenlive:file_size">9398350</property>
+  <property name="kdenlive:original.kdenlive:file_hash">f0e8aec5ffa661a25a1d29fa064ab684</property>
+  <property name="kdenlive:original.backup">1</property>
+  <property name="kdenlive:audio_max1">228</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">0</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <playlist id="playlist6">
+  <blank length="00:00:01.933"/>
+  <entry producer="producer4" in="00:00:13.133" out="00:00:20.567">
+   <property name="kdenlive:id">2</property>
+   <filter id="filter7">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:13.133=-256 674 1965 1965 1.000000;00:00:13.233=-256 -329 1965 1965 1.000000</property>
+    <property name="rotation">00:00:13.133=0;00:00:13.233=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist7"/>
+ <tractor id="tractor3" in="00:00:00.000" out="00:00:09.367">
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist6"/>
+  <track hide="audio" producer="playlist7"/>
+ </tractor>
+ <playlist id="playlist8">
+  <blank length="00:00:01.833"/>
+  <entry producer="producer2" in="00:00:00.000" out="00:00:07.533">
+   <property name="kdenlive:id">4</property>
+   <filter id="filter8">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=21 962 193 150 0.200000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter9" out="00:00:00.267">
+    <property name="start">1</property>
+    <property name="level">1</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="alpha">00:00:00.000=0;00:00:00.267=1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist9"/>
+ <tractor id="tractor4" in="00:00:00.000" out="00:00:09.367">
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <track producer="playlist8"/>
+  <track producer="playlist9"/>
+ </tractor>
+ <playlist id="playlist10"/>
+ <playlist id="playlist11"/>
+ <tractor id="tractor5" in="00:00:00.000">
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <track producer="playlist10"/>
+  <track producer="playlist11"/>
+ </tractor>
+ <tractor id="tractor6" in="00:00:00.000" out="00:16:49.400">
+  <track producer="black_track"/>
+  <track producer="tractor0"/>
+  <track producer="tractor1"/>
+  <track producer="tractor2"/>
+  <track producer="tractor3"/>
+  <track producer="tractor4"/>
+  <track producer="tractor5"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="accepts_blanks">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="accepts_blanks">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="version">0.1</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="kdenlive_id">frei0r.cairoblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="version">0.1</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="kdenlive_id">frei0r.cairoblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <transition id="transition4">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="version">0.1</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="kdenlive_id">frei0r.cairoblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <transition id="transition5">
+   <property name="a_track">0</property>
+   <property name="b_track">6</property>
+   <property name="version">0.1</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="kdenlive_id">frei0r.cairoblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <filter id="filter10">
+   <property name="window">75</property>
+   <property name="max_gain">20dB</property>
+   <property name="mlt_service">volume</property>
+   <property name="internal_added">237</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter11">
+   <property name="channel">-1</property>
+   <property name="mlt_service">panner</property>
+   <property name="internal_added">237</property>
+   <property name="start">0.5</property>
+   <property name="disable">1</property>
+  </filter>
+  <filter id="filter12">
+   <property name="iec_scale">0</property>
+   <property name="mlt_service">audiolevel</property>
+   <property name="peak">1</property>
+   <property name="disable">1</property>
+  </filter>
+ </tractor>
+</mlt>
