@@ -1,0 +1,228 @@
+#+TITLE: Professor Dave Doesn't Understad Economics | Professor Dave (Poorly) Explains Economics
+
+* Notes
+** Introduction to Economics https://www.youtube.com/watch?v=j9ooSSqsB9M&list=PLybg94GvOJ9HEzpCcK6AywSowO7BvvZD_&index=1
++ notes that economics is all about choice
++ thinks that "needs" are a thing as opposed to merely wants.
+** Scarcity, Trade-offs, and Cost/Benefit Analysis
++ Again says that needs are a thing---food, water, shelter
++ "trade-offs" is opportunity cost
+** The Four Factors of Production
++ land, labour, capital, entrepreneurship
+  + defines human capital, in distinction to physical capital, as recipies
+** Absolute Advantage vs. Comparative Advantage
++ "when someone has a lower opportunity cost than someone else"
+  + uses the example of countries, which indicates collectivism
+  + interpersonal comparison of utility
+** Understanding How Prices Work in a Free Market
++ "its not true that markets are always more efficient"
+  + cites imperfect competition---i.e. we arent in the never-never-land of equilibrium
+    + "if there are only a few companies, then we may not get to equilibrium!!!"
+      + irrelevant.
++ "when only 1 company dominates a market its a monopoly"
+  + "when a company charges too high of a price for goods or services its called price gouging"
++ negative externalities, puts this off until another vid
+** Inflation and Deflation
++ price indexes
++ "we want some inflation (2-3%) to encourage investment and promote economic growth and blah blah blah"
+  + crinky crongemas amirite?
+  + people are more likely to invest capital if they know that prices will go up
+    + ABCT
++ "deflation is bad because producers slow production"
+  + THEY FUCKING SHOULD YOU COCK
+** Public Goods and Externalities
++ "we need the government to provide goods and services that the free market cant"
+  + cites a bridge as a public/shared good, therefore it doesnt make sense to force consumers to individually pay to use the bridge, or prohibit not payers from using the bridge.
+    + "infinite people can use the bridge without detracting from the use by others, increasing the drivers on the bridge does not increase the costs"
++ "benefit to society is greater when public sector supplies public goods"
+  + education used as example, its important for society to have an educated populace, so govt needs to provide it, he admits that private education would be more efficient at this though
+** Structuring of Wages and Minimum Wage
++ race/sex wage gap
++ "minimum wage prevents poverty"
++ living wage
+** Understanding Wealth Inequality
++ "wealth inequality is bad for society because it leads to an imbalance of power"
++ "extreme wealth inequality means its harder for people to make money"
+** Why Do People Like Free Markets?
+*** Monopolies
++ "they have natural monopolies because of high start up costs in some industries"
+  + e.g. utilities
+*** Fewer Public Goods/Services
++ products that nobody can be prevented from consuming
+  + "if a society decides that education should be provided to everyone then a free market couldnt do this"
+*** Negative Externalities
++ pollution
+*** Cutting Corners
++ "they reduce quality :("
+
++ need a balance between free market and government
+** Why Do Countries Turn to Command Economies?
++ central planner guides the arrangement of the factors of production
+* Main Body
+** The Epistemology of the Science of Economics
+Professor Dave's series on economics suffers from a number of flaws in scientific reasoning, which tarnish their educational validity. Watch until the end if you want a proper understanding of the science of economics.
+
+First we must understand the specific epistemelogical status of economics as an /a priori/ as opposed to an /a posteriori/ science. To demonstrate, consider the statement, "children prefer McDonalds to Burger King." If we are scientists and we are trying to determine the truth value of this statement, we notice that its negation, "children prefer Burger King to McDonalds," is also perfectly reasonable to assert. Therefore if we want to know which one is true we would have to actually go out there and find out which one is true, we do not know beforehand based entirely on the structure of logic. On the other hand consider the statement, "ex ante, there is mutual profit in any voluntary trade," what is the negation of this statement? It would be "ex ante, there is not mutual profit in any voluntary trade," which means that at least one party to the trade ended up with something he values less than what he gave up. But this makes absolutely no sense, for why would anyone agree to a course of action that leaves them lower on their scale of utility? Such a thing is an absurdity. Therefore we know beforehand, i.e. /a priori/, the truth value of the above statement, that "ex ante, there /is/ mutual profit in any voluntary trade." As the negation of this statement is a falsehood, and the negation of a falsehood is a truth, we know before doing any sort of testing that the statement has to be true.
+
+Economics is built entirely on deductions from these incontravertible, apodictic truths. Dave does make a nod to this in his initial video on the topic, saying that "economics all boils down to choice." This is entirely true, economics is a sub-science of the general science of human action, known as praxeology. Choice is a core concept in praxeology, as it is how a man demonstrates his preferences, and thus his values. In short, action is defined as purposeful behaviour, it is the implementation of scarce means towards the attainment of some end. In /Epistemological Problems of Economics/, Mises demonstrates that "In distinct contrast to the natural sciences it is not based on observation or any other information gathered through the human senses. It relies on insights about certain structural features of human action, such as the fact that human beings make choices or that they use self-chosen means to attain self-chosen ends. The validity of economic theory does therefore not stand and fall with empirical investigations. Rather, economic laws are a priori laws that cannot be confirmed or refuted by the methods predominant in the natural sciences."[fn:1] This concept is explained in more depth in this video by MRH Legacy.
+
+** Misunderstanding How Prices Work in a Free Market
+For now though, I must turn my attention to Daves first serious misunderstanding, demonstrated in his video on prices in a free-market. He correctly states that free markets are more efficient at allocating scarce means, but incorrectly states that there are exceptions to this rule. First he cites imperfect competition as an instance where free markets are not the most efficient, implying that central planning would more efficiently allocate scarce means in areas where there is imperfect competition. Imperfect competition here means that there are not enough groups in competition with each other to reach the equilibrium price, which is the first problem here. Equilibrium analyses are to be used only as a mental tool in aiding comprehension of challenging theory. The equilibrium point is the point towards which the market will tend, this does not imply that there has been some ethical failing in not being at equilibrium at any one time. As economists we must simply analyse the market as it is, not as we wish it to be; after all, to imagine a market at true equilibrium is to do just that---imagine. Such a market would not reflect real world conditions at all, it would be a so-called evenly rotating economy.
+
+This imaginary construct relies on the assumption that value scales, technological ideas, given resources, time preferences, etc, all remain constant---which definitely does not reflect real world conditions, all of these things are constantly changing for every man. As Rothbard puts it, prior to the effects of any change being fully realised in the economy, other changes further intervene.[fn:2] The crucial point here being that to most efficiently react to all of these changing variables, we require a free market, any interference by state aggression will necessarily be less efficient at doing so. After all, if a handful of firms competing in a market react to these changes slower than a far greater number, surely a single monopolist, the state, would react even slower than they do. Dave fails to demonstrate that in cases of some arbitrarily limited number of producers, the free market is less efficient than the alternative. Therefore his thesis that "there are exceptions to the idea that free markets lead to an efficient distribution of resources,"[fn:3] has yet to be demonstrated. It is surely perverse to state such a thing if free markets provide for the most efficient distribution in such an event.
+
+Professor Dave further goes on to state that when companies charge "too high a price for goods and services" this is an example of price gouging, "especially when supplies are limited," but earlier in the video he states, correctly, that prices go up as a result of shortages. He attempts to have it both ways, acknowledging both that rising prices are a signal to consumers to consume less of a good in relatively limited supply, /and/ that this is some sort of nefarious thing. So which is it? Is this a natural and desireable signal to use less of something in limited supply, or is it the work of evil capitalists attempting to gouge suckers out of their hard earned cash? Furthermore, who is to say that any given price is "too high" in a free market? The only instance I can think of to say that a given price is "too high" is when comparing the price of a good in a hampered market to what it would be in an unhampered market. In other words, to say that a price is "too high" is to say that it is higher than what the free market would produce. Dave must properly explain what exactly it means for a price in a free market to be "too high," if he is speaking as an economist here.
+
+But, he may not be saying this /as an economist/ but rather /as an ethical theorist/. Perhaps he is saying that while the price did arise naturally as a signal to consume less, such a rising of prices is bad for society, or a mean thing that shouldn't be done. To say this is to state the anti-human altruist ethic that one should give away means to others in exchange for less money than they could potentially get, for no reason other than the pursuit of some unknown koombaya-like higher purpose. But why exactly should this altruism go in the direction of producer to consumer? Why not shake our heads at the consumer for not paying a far greater price than they could pay? Perhaps this is instead anger at anyone who makes trades which are not at the equilibrium price, rather than anger at anyone who does not trade for less than they expect they could? I have explained above why this understanding of equilibrium is unscientific for the economist, but it is also unscientific for the ethical theorist.
+
+This is a failure borrowed, I suspect, from the public choice school, that any time the market is not in this never-never-land of equilibrium, some ethical failing has occured, and thus the government ought step in and force the market into equilibrium via aggressive interference. This anti-private-property ethic is falsified on the grounds of its very proposal, however. When men engage in argumentation, they implicitly pre-suppose the norm of non-aggression,[fn:4][fn:5][fn:6][fn:7][fn:8] which implies that any explicit proposition of a pro-aggression norm is false via the law of non-contradiction.[fn:9] They are in effect proposing non-aggression and aggression, the prior being the negation of the latter.
+
+However, if I have misunderstood and this is not Dave seeing any state other than equilibrium as an unethical state of affairs, then he should explicitly state what ethic he /is/ using, rather than forcing the viewer to guess at it in this manner---and he certainly should not be intermingling covert ethics like this into a video on economics.
+
+** Daves Lack of Understanding of Business Cycle Theory
+Next, we turn back from ethics to economics in analysing Daves misunderstanding of the economic effects of inflation. In his video on the topic he asserts that a small amount of inflation (2-3%) is good because it encourages investment and thus promotes economic growth, saying that people are more likely to invest in capital if they know that prices will go up. What this ignores is that inflation in the form of fraudulantly created false-credit, invariably drives the business cycle.[fn:10] This is because creating new credit like this, reduces the cost of borrowing, which signals to investors that people have set aside more resources for investment, so they should therefore invest differently than they otherwise would have. Instead of relatively short-run projects, they will invest in relatively long-run projects, in attempt to match what they believe the time preferences of consumers is. These investments are not the correct investments though, as they originate from aggressive interference into the market, as opposed to reflecting the actual desires of men. Therefore, these clustered malinvestments will eventually slam up against the reality that consumers did not want these projects. The boom will turn to bust as people try re-allocating means back to where they should be, all in all there will have been a massive destruction of potential wealth compared to if the fraudulant credit had never been introduced.
+
+To make this easier to understand, I borrow an analogy from Jonathan Newman,[fn:11] imagine Robinson Crusoe is on a desert island, and he has a number of projects that he has been investing in. Maybe the roof of his shack is leaky, and he is collecting some wood to fix it, maybe he has been forming reeds into nets to increase his supply of fish, and so on. But one morning he wakes up and sees some colourful mushrooms growing outside. He decides to eat these mushrooms and they cause him to hallucinate in a very specific way. He perceives his stockpile of resources to be far greater than they actually are, he thinks, "wow, I did not know that I had saved so much." What would be the effect of this hallucination? Well, he would invest in different projects than he would otherwise. Instead of trying to repair his leaky roof, perhaps he decides he can build a brand new, far better shelter. Instead of making a simple net, he sees enough resources to make an entire fishing trawler. And he thinks he can invest in all of these far longer-run projects, only because he thinks he has far greater savings at his disposal than he actually does. When the mushrooms wear off, he will recognise that these projects were not the right course of action, they were far too long-run given the amount of resources actually at his disposal. What is the solution to this predicament? The Austrians would say that he must face this bust like a man, pull up his bootstraps and try and salvage what he can from his malinvestments. The Keynesians would rather say that he simply must eat more mushrooms, to get another boom going. I think it is clear which solution will actually further Crusoe's standard of living.
+
+Furthermore, inflation cannot raise the general standard of living, as it is not creating any new wealth, rather it is a re-distribution of wealth away from one class who do not receive the new funds, towards those who do receive the new funds. This is in effect a covert theft, sapping the wealth of savers in favour of borrowers. Theft, being something that is to be opposed on the grounds of it being a rights violation.
+
+** The Fallacies of the Public Goods Theory[fn:12]
+Now, Daves adherence to Public Goods Theory must be systematically attacked. Essentially the theory goes that while the free market is the most efficient tool at allocating most scarce goods, there exists a special class of "public goods" that are exempted from this law---these goods, proponents say, are better provided via state central planning, rather than being left to the machinations of the free market. But I here shall borrow from Hans-Hermann Hoppe in demonstrating that no such goods exist:[fn:13]
+#+begin_quote
+In spite of its many followers, the whole public goods theory is faulty, flashy reasoning, riddled with internal inconsistencies, non sequiturs, appealing to and playing on popular prejudices and assumed beliefs, but with no scientific merit whatsoever.
+#+end_quote
+
+It is argued by public goods theorists that the enjoyment of certain goods cannot be limited to only those who have financed their production, that other random people also receive benefits from them, making them public, as opposed to private, goods, whose enjoyment is strictly limited to those people who actually pay for them. It is argued that because of this unique attribute, a market cannot produce these goods efficiently. Hoppe points out that the exact classification of which goods count as public goods varies widely from author to author, making it challenging to find a good which is widely regarded as public. This should be of no surprise, because the entire starting point of the theory, the above algorithm which reportedly classifies public as opposed to private goods, is entirely flawed. Literally any good one could imagine may be perceived by others as being beneficial, or detrimental to their lives. Take the example of a man wearing yellow socks, I cannot imagine any public goods theorist has classified these yellow socks as anything but a private good. But, it is possible that another man may see these yellow socks and be thrilled by them. He may have spent years of his life searching for someone wearing yellow socks, this may well be something that he percieves to be the greatest day of his life so far. Now, it is clear that the sock-witnesser has benefited from the wearing of the socks by the sock wearer, implying that these yellow socks were a public good. So really, a consistent public goods theorist, who recognises the truth of subjective value, would class literally every good as a public good. We have gone from an attempt at having ones socialist cake and eating it also, right back hip-deep into complete socialist central planning of the economy.
+
+But what if one decides that they do in fact want to be such a consistent public goods theorist? There still exists a severe theoretic issue, I can just as easily imagine a separate man, who absolutely hates to see yellow socks, and thus sees this as a public bad. We notice, that we cannot simply classify anything as a universal public good or bad as it is entirely subjective whether a given thing improves or detracts from ones standard of living. If the state ought step in to produce public goods because the free market cannot do so, surely it should not step in for public bads, or perhaps it should step in to make sure that such public bads do not occur? It is unclear which path the public goods theorist will choose to take, say the state should not step in, leaving it to the market, we are left in contradiction that every given good ought be produced by the free market and it ought not be produced by the free market, as every good can be both a public good and a public bad. Ok, but what if the state should step in to make sure that the public bad isn't produced? Still we face the same contradiction, any given good can be both a public good /and/ a public bad, meaning the state should both ensure its production, and ensure that it is not produced.
+
+Dave does seem to detract somewhat from this standard classification system found in the public goods literature,[fn:14] instead giving the following criteria to determine whether a given good "should" be treated as a public good, yet again demonstrating his intermingling of ethics with the value free science of economics:
+1. Is the individual benefit greater if the good remains private?
+2. Is the benefit to society greater if the good becomes public?
+
+As for criterion 1, individuals will receive goods far more efficiently under private production, and furthermore such a private production can not involve any aggression, aggression being something that the aggressed upon by definition would prefer did not occur. Criterion 2 falls on the grounds of being an inter-personal comparison of utility, which is impossible to perform. This is because utility is ordinal and subjective, it is simply the ranking of various different states of the world by acting man. To demonstrate why we can't compare these, imagine two foot races are ran, but the only thing that is recorded in each race is the order in which each racer finished. It would be absurd to imagine that given this information, one would be able to determine who was fastest over all---all you can do is say the order of the racers in the individual races. The same goes for utility, it is an absurdity to suggest anything like John values 1 beer more, less, or the same as Mark does. Such an assertion would not derive from apodictic truths in the science of human action, and as such would be unscientific. Therefore, it is impossible to say that policy X would be of greater benefit to "society" than policy Y. Methadological individualism must be implemented in the analysis of policies like this, rather than Daves methadological collectivism. Without providing a scientific explanation of what he means by "benefit to society" he cannot escape this hole and we are forced to assume he is referring to some manner of societal utility.
+
+** Why a Minimum Wage Implies a Lower Standard of Living
+Dave continues his series with an episode on the minimum wage, among other things. Here, he asserts that there is some uncited evidence that raising the minimum wage can create wealth which ripples through society and that it can therefore raise the general standard of living. The use of the term "evidence" signals to the astute viewer that Dave is fumbling into considering economics as an /a posteriori/ science, which I above explained was epistemologically flawed. Further, if it was the case that minimum wage really does raise the standard of living, and create new wealth, why on earth would we limit ourselves? Why not set it at $1 million/hour? Why not $10 million? Or $100 million? Or set it to be equivalent to more gold than exists in the observable universe? We remind ourselves that notes are money insofar as they represent actual scarce commodities. If the minimum wage can create wealth it should be able to do this even under a 100% gold standard. But we witness that literally nobody could hope to pay this minimum wage, as nobody possesses this much gold. This allows us to recognise a minimum wage not as a tide which rises all ships, but as a hurdle, over which people must jump to attain employment. On a free market there is no such thing as involuntary unemployment, but in a hampered market with a minimum wage, there may exist people who can only produce less than the minimum wage, who thus cant find work. Employers would love to hire them, they would love to be hired, but they are being prevented from engaging in this mutually-beneficial arrangement.
+
+** Daves Flaws of the Free Market
+In a later video, and the video that tipped me off to this series, Dave states four disadvantages to free markets over the alternative. The first being a fear over the formation of natural monopolies in industries with high start up costs. This fear is simply absurd on its face, as if monopolisation, i.e. the prevention of competition, is something to be concerned about, how exactly is it that the solution to this problem is to bring in coercive state monopolisation? If a free market is characterised by free entry into a given industry, then the negation of a free market must be characterised by not having this free entry. We have a contradiction that monopolies are bad so we should have a monopoly which prevents monopolies. Furthermore, Rothbard demonstrates in /Man, Economy, and State/[fn:15] that a monopoly can only come about as the result of a state monopoly grant.
+
+Daves second disadvantage is that on a free market there will be fewer public goods and services, which I have already addressed above, so I shall move onto his third, that free markets have instances of negative externalities. On this point, Dave cites pollution, which is a natural law tort. If I run a factory and I pump out soot that dirties your shirts drying outside, I have trespassed that soot onto your clothes, thus damaging them. This, being a natural crime, would not exist in a free market, but rather it is a hampering force on the market. I agree that such a thing should be removed, and in fact such instances of pollution were dealt with in courts until the US federal government wanted to up production to compete with the UK.[fn:16][fn:17][fn:18][fn:19] To do this they formed the EPA, and handed out pollution licenses. The courts, monopolised by the state, then stopped helping out the people who were trespassed upon by pollutants---a distinctly non-free market characteristic.
+
+Finally, dave points to corner cutting as a disadvantage over central planning. First he does not provide any demonstration that products produced by a central planner will be in any way of greater quality, /and/ he ignores that a consumer may want to purchase a product whose production cuts corners. Imagine I want a ruler to draw straight lines, all I care about is that the ruler can indeed draw a sufficiently straight line, and I find one that does just that. But then Dave comes along with his fancier ruler that was made to be phenomenally accurate in its measuring of lengths and says, "wait, zulu! Your rulers divisions are off by a few millimeters each, you don't want that ruler, get the one which is twice the price, with all sorts of extra gizmos and features." I would clearly respond by informing him that I do not care how accurately it measures distances, I just want it to draw lines straight enough for the task at hand, and my cheaper ruler does just that. It benefits me that the people who made my ruler did cut corners in not being super precise with their divisions, and not including extra features that I do not desire, as this corner-cutting allowed them to produce the ruler for cheaper.
+
+** AARRGH HE MADE ANOTHER EPISODE
++ markets not perfect
++ certain needs cannot be met by a free market
+  + highway systems, military
++ govt intervention necessary to lift people out of poverty
+  + public schools
++ govt protect property rights
+  + private property, and IP
++ make sure trade remains fair, for example breaking up monopolies
++ govt needs to fund public projects by taxing people
++ mixed economy is best which is why it is the predominant system.
+
+In his video on mixed economies some of the above flaws become more apparent and less covert. Dave staets that certain needs cannot be met by a free-market, citing highway systems and military, however he does not provide any argument as to why these goods--insofar as they are goods--could not be provided by the free-market. Let's take highways, what is the good being provided by a road? Bearing in mind that goods vs bads are subjective and a man might want to build a road just because he thinks it looks pretty, what I think Dave is getting at here is the good of transportation. But why should we expect that transportation cannot be provided by a free-market? Take the counterexample of a man building a toll road across his farm, or a man constructing a helicopter to take people between landing pads, or a rural farmer purchasing a boat to transport his crops down the river. These counterexamples demonstrate the falsehood of the principle that a free market cannot provide transport---unless of course Dave is saying that it is physically impossible for a man to build a boat, or construct a road without engaging in crime, which he must first demonstrate.
+
+Now we move to military. A military does many things, if military is to mean simply the enforcement arm of the state over foreigners, then the military is not a good, but rather a bad---it is a group of gun-toting criminals used by the state to murder and tax people into submission. If, on the other hand, military is to be taken as rights enforcement, Dave must demonstrate why a free-market cannot enforce rights. Furthermore, we have a contradiction, that rights can only be enforced by violation of rights---therefore Dave's second example also falls flat.
+
+This point is related to a later point of his where he asserts that the government is required to protect property rights---this is a contradiction, it is not protection of property rights to engage in crime, crime is specifically the negation of the respect for property rights.
+
+He makes a further failing on this point by lumping in genuine property rights with so-called intellectual property. Property can only exist where there is scarcity, as it is only where there is scarcity that conflict is possible and thus property norms arise. Ideas are not scarce. Two men can use the exact same idea at the exact same time. It is not possible to have a conflict over an idea, therefore there is no such thing as property rights over ideas. Rather, these so-called rights are in fact crimes, in excluding others from using an idea to act with only their own property.
+
+** Debate Me
+I have one final point; debate me Dave, if you stand by the points made in your series, then answer these criticisms. I did try to raise them in the comments of one of the videos, but either youtube started hiding my comments, or you or one of your moderators did it (see [[Deleting Comments]]). Then again, it is unfair to focus all of this criticism squarely at Dave, it is his channel so he does deserve some of the blame for muddying economics education, but he didn't write the scripts to any of the episodes. Rather a Georgist by the name of Mr. Beat did.[fn:20] So I extend this challenge also to him, and anyone else who stands by any of Daves points. And on the topic of Georgism, if you want to see my destruction of that ideology you have to watch this video, where I do just that.
+
+** Deleting Comments
+I was recording a regular old sign off to the video, where I raised the suspicion that perhaps there was comment meddling afoot, but I foreword with the possibility that YouTube itself was removing the comments, which is something I have experienced myself, but something strange happened. I decided to get screenshots of my comment thread to use as b-roll for this section, and as I went to archive the thread for posterity, I noticed that the archiver didn't seem to see the thread, even though I linked directly to it. I asked some people in my discord whether they were able to access the thread and they told me that they could not. This is very strange activity, if this was youtube auto-sending my comments straight into oblivion, why did it keep the thread up long enough for many people, including dave to reply to it? Why only hide the thread after potentially 2 months of inactivity?
+
+You can see in the background footage here that I am on the page that links directly to my comment thread, I can see it on youtube, but not on an archived page. I refresh each page to demonstrate that I am doing no inspect element trickery, this is not activity that I have ever witnessed youtube take of its own volition. If a comment is deemed spam or contains a banned word it is not displayed to the public, keeping the thread up for so long only to hide it from others does not strike me as automatic action. Furthermore, I believe that my account has been entirely hidden from Daves channel, I left an entirely innocuous comment under his most recent episode and it too cannot be seen by the archiver, or the people on my discord. Also, before you accuse the archiving site of being unable to record any highlighted comment, I have here a working archive of a different users comment, I am only unable to archive my own comments, implying that it is only my comments that are being blocked from public viewing. I ask that Dave confirm whether he was hiding my comments or if this is some unknown-to-me youtube bug.
+
+In any case, back to the video.
+
+* Archives
++ Main playlist page: https://archive.ph/JwhkF
++ Playlist in order:
+  + https://archive.ph/Jdygj
+  + https://archive.ph/LiShH
+  + https://archive.ph/Azw6p
+  + https://archive.ph/oNwUq
+  + https://archive.ph/qpw2S
+  + https://archive.ph/Lzuk6
+  + https://archive.ph/sYaXc
+  + https://archive.ph/FKI8V
+  + https://archive.ph/IUPbX
+  + https://archive.ph/O8Gfa
+  + https://archive.ph/XOOp1
+  + https://archive.ph/8Xfsl
+  + https://archive.ph/YRtqI
+  + https://archive.ph/bF8Do
+  + https://archive.ph/ZT8rp
+  + https://archive.ph/dLsEM
+  + https://archive.ph/fQMGa
+  + https://archive.ph/kqwzY
+  + https://archive.ph/k35JD
+  + https://archive.ph/IIsUh
+  + https://archive.ph/1wt7I
++ Deleted comments archives:
+  + "Why Do People Like Free Markets?," https://www.youtube.com/watch?v=N5IBDHA--gk&lc=UgxGUhi6gSlrD9CoUi14AaABAg, https://archive.ph/XXDLv
+  + "The Purpose of Mixed Economies," https://www.youtube.com/watch?v=9S85CypctJI&lc=UgxgLJ1P7nVImcFV7Gx4AaABAg, https://archive.ph/1wt7I
+  + Archive of another users comment on "The Purpose of Mixed Economies," https://www.youtube.com/watch?v=9S85CypctJI&lc=UgwmSHPq-r_BHHSduV94AaABAg, https://archive.ph/LGydu
+
+* Footnotes
+
+[fn:1]Jörg Guido Hülsmann (2003), /Introduction to the Third Edition: From Value Theory to Praxeology/ in Ludwig von Mises, "Epistemological Problems of Economics," third edition, p. /x/
+
+[fn:2]Murray Rothbard (2004), /Production: The Structure, 1. The Evenly Rotating Economy/ in "Man, Economy, and State with Power and Market," Second Edition, p. 321
+
+[fn:3]Professor Dave Explains, "Understanding How Prices Work in a Free Market," t. 3:07
+
+[fn:4]LiquidZulu, "A short argumentation ethics lecture I did on discord," https://www.youtube.com/watch?v=H_obubuFEQM
+
+[fn:5]Łukasz Dominiak, "Hans-Hermann Hoppe's Argumentation Theory of Ethics," https://www.youtube.com/watch?v=WqO54eWt4Ws
+
+[fn:6]Hans-Hermann Hoppe, "Ethics of Argumentation" (PFS 2016), https://www.youtube.com/watch?v=b8UE3QAV8JM
+
+[fn:7]Frank van Dun (2009), /Argumentation Ethics and The Philosophy of Freedom/, https://mises.org/library/argumentation-ethics-and-philosophy-freedom
+
+[fn:8]Hans-Hermann Hoppe, "The Ultimate Justification of the Private Property Ethic"
+
+[fn:9]The proof is as follows:
+
+First, we define "This dispute should be resolved violently" as $\mathbb{V}$:
+
+\begin{array}{rl}
+
+  1. & q \longrightarrow \neg\mathbb{V} \\
+  2. & \neg\mathbb{V}\wedge\neg\text{NAP} \longrightarrow p\wedge\neg p \\
+  3. & \neg(p\wedge\neg p) \\
+  4. & \neg(\neg\mathbb{V}\wedge\neg\text{NAP}) \\
+  5. & \neg\text{NAP} \longrightarrow \neg\mathbb{V}\wedge \neg\text{NAP} \\
+  6. & \neg(\neg\text{NAP}) \\
+  7. & \text{NAP}\ \blacksquare \\
+
+\end{array}
+
+[fn:10]See Murray Rothbard (2005), /The Economic Effects of Inflation/ in "What Has Government Done to Our Money," fifth edition.
+
+[fn:11]Jonathan Newman, "The Austrian Theory of the Business Cycle," https://www.youtube.com/watch?v=7cs490NJr5g
+
+[fn:12]See Hans-Hermann Hoppe (2006), /Fallacies of the Public Goods Theory and the Production of Security/ in "The Economics and Ethics of Private Property," Second Edition, pp. 3-32
+
+[fn:13]Hans-Hermann Hoppe (2006), /Fallacies of the Public Goods Theory and the Production of Security/ in "The Economics and Ethics of Private Property," Second Edition, p. 4
+
+[fn:14]For various approaches of public goods theorists, see James M. Buchanan and Gordon Tullock, /The Calculus of Consent/ (Ann Arbor: University of Michigan Press, 1962); James M. Buchanan, /The Public Finances/ (Homewood, Ill.: Richard Irwin, 1970); idem, /The Limits of Liberty/ (Chicago: University of Chicago Press, 1975); Gordon Tullock, /Private Wants, Public Means/ (New York: Basic Books, 1970); Mancur Olson, /The Logic of Collective Action/ (Cambridge, Mass.: Harvard University Press, 1965); William J. Baumol, /Welfare Economics and the Theory of the State/ (Cambridge: Harvard University Press, 1952).
+
+[fn:15]See Murray Rothbard (2004), /Monopoly and Competition/ in "Man, Economy, and State with Power and Market," Second Edition, p. 629
+
+[fn:16]Arthur C. Stern, /History of Air Pollution Legislation in the United States/, [[https://doi.org/10.1080/00022470.1982.10465369][DOI:10.1080/00022470.1982.10465369]] (if unavailable contact me for a copy): p. 44, "For the first hundred years of the existence of the United States, air pollution problems were settled by litigation amongthe parties involved rather than by legislation. During thesehundred  years, problem resolution was originally by privatelitigation to abate air pollution  as a common law nuisance,either as a private nuisance, a public nuisance, or a trespass."
+
+[fn:17]/Carmichael v. City of Texarkana/, 94 F. 561 (W.D. Ark., 1899).
+
+[fn:18]Harold U. Faulkner, /The Decline of Laissez Faire, 1897–1917/ (1951)
+
+[fn:19]Steven J. Diner, /A Very Different Age: Americans of the Progressive Era/ (1998) p. 186
+
+[fn:20]See [[Archives]]
