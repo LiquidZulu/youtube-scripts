@@ -1,0 +1,55 @@
+#+TITLE: ""Georgists Don't Understand Rights": A Response": A Response
+
+* Introduction
+This is a response to the recent counter-criticism of [[https://www.youtube.com/watch?v=1iH4FqMDE0Y][my video]] by Axel Haestrod on the Geoanarchism subreddit.[fn:1]
+
+* On Vulgar Georgists
+As much as I do enjoy taking in unearned complements, my not including the so-called 'vulgar' georgist claim in the video was simply due to my not knowing of this stance. I based my video on Haestrod's post along with conversations with him, various videos I found by georgists on youtube, and Fred Foldvary's account of georgist legal theory. The main goal of the video was to attack the geo-anarchist stance, as it is the only stance that is of any merit, but I did want to include criticisms of less worthy accounts, to avoid being accused of strawmanning, so I might as well attack this stance here.
+
+As Haestrod mentions, this is a misguided position on law, simply because a "right to value" makes no sense prima facie. Rights must be understood as property rights, property rights can only exist where there is scarcity (read, where conflicts can occur). As it is not possible to have a conflict over the value of something, there does not exist a "right to value." I believe the analogy Haestrod is drawing to IP is that though men cannot conflict over ideas, a so-called property in an idea is the right to exclude others from the use of said idea. Similarly, I am forced to assume that a "right to value" is a right to exclude others from valuing, which is a right to exclude others from acting, which is not a true right.
+
+* Possession \ne Ownership, and Argumentation Ethics
+The Argumentation ethics point is important here, all parties pre-suppose a right to homestead in arguing, which is contradicted by the georgist proposal of an anti-homestead ethic. I.e. it is a contradiction to assert that homesteading is a crime.
+
+I will also further elaborate on Kinsella's proof of homesteading based upon the distinction of possession and ownership; those who quarrel over ownership claims are directly implying that possesstion \ne ownership. Consider A and B in a conflict over X, A currently possesses X. A is saying, "hey, I have the just possession here, so B should not have possession, even if he did I would be the just possessor (owner)." Similarly, B is saying "hey, A is not the just possessor, even though he posseses X currently, I /own/ X." Both parties necessarily assert that possession is not the same as ownership.
+
+* Similar Opportunities
+What counts as a homogenous good and thus a similar opportunity is in the eye of the beholder. For my purpose I may count duck eggs to be the same as chicken eggs---therefore as any man may potentially see any homesteading as taking away the sole oppurtunity for attaining their end, we return to the anti-homestead ethic proper.
+
+* Bundle of Rights
+This is in reference to section 4:37. A derivation of this "bundle of rights" theory is required from some antecedent, apodictic principle, such as non-aggression. The right to use and therefore to exclude must always lie with the holder of the title to property, I see no counterexamples to this, noting also that a right to use implies a right to exclude, as use by one necessarily excludes use by others.
+
+* Group Ownership
+It is revealing that Haestrod feels bound to say "so-called owners of a company." Indeed, they may be called owners, but they are in fact not in the strict sense. There is no property to have a conflict over. A company is merely a complex web of contracts, not some scarce object found in nature and homesteaded. The fact that different members of a company use a company car at different times does not dispute the praxeologic fact that a property right must be singly held. I can let my friend sleep on my sofa for the night without ever transferring ownership of the sofa to him. Similarly, someone in the company (presumably the CEO), owns the company car completely and totally, but allows others to make use of it for business purposes.
+
+Moreover, whatever this "broader system of rights" ends up implying about who ought win the dispute over the use of the car, the party that ought win is /by definition/ the owner of the car, or perhaps an agent of the owner (in which case the dispute is really between the aggressor and the agents boss, who is the owner).
+
+* Prior-Later Distinction
+For there to be a late-comer there must be a first-comer. It makes no sense to speak of a late-comer to land as there was no prior user. Haestrod has misinterpreted the final part of the quote, "... insofar as a person finds himself in the company of others and there is conflict over how to use a given scarce resource, he must be able to resolve the problem at a definite point in time with a definite number of people ..." does not imply that people are not allowed to appropriate land when other people are around---it implies that if there is conflict (contradictory action) then this conflict must be resolvable at a definate point with a definate number of people. I do not understand the point Haestrod is trying to make here.
+
+* zipideedooda
+#+begin_quote
+A man starts with a right to appropriate any and all land. If someone appropriates land but returns it to its original state before anyone else is willing and able to use it then they haven't violated any rights.
+#+end_quote
+I agree so far, it is not criminal to appropriate land, but I have no clue what it would mean to return it to its original state, considering subjective value, this part needs to be clarified.
+
+#+begin_quote
+If someone else comes along then that is no longer true. Had the second person never arrived the first would have a right to the land. When the second person arrives, the first no longer has that right.
+#+end_quote
+This has not been demonstrated. Why is it that another person coming along changes the fact that the man was just in his appropriation, the latecomer is necessarily the one who initiates a conflict insofar as there is a conflict as Kinsella has proven.
+
+#+begin_quote
+Only the rights-holder can change the status of their own right, anything else is a violation. This means the second person violated the rights of the first as well. Basically, had either one not acted or made a choice then the other would have been free to use the land. Both have made a rights violation and the matter must be adjudicated in a way such that both are compensated for the loss in some way.
+#+end_quote
+This misunderstands rights, who exactly does the georgist advocate ought win in a conflict? There are the following options; (1) the aggressor wins, (2) the non-aggressor wins (3) neither win, (4) both win. (1) is the aggressor ethic which is the mere-possessor ethic, demonstrated as false. (2) is the NAP, (3) this leads to a contradiction when A wants to kill B and B wants to do anything other than being killed, both cannot lose here. (4) is a contradiction, both parties cannot win a conflict by definition of a conflict.[fn:2]
+
+Furthermore, if both have made a rights violation, then both were not just in their action, so the initial assertion that "A man starts with a right to appropriate any and all land" has been contradicted. Only one of the parties could be the aggressor, you cannot have two aggressors in a conflict.
+
+
+* Blah, shit I need add
++ if excluding from land is a crime why is the punishment a payment to literally everyone else, and how is this payment calculated?
+
+* Footnotes
+[fn:2]See Kris Borer, "Cause No Conflict"
+
+[fn:1]Axel Haestrod, /"Georgists Don't Understand Rights": A Response/, https://old.reddit.com/r/Geoanarchism/comments/w6zqaf/georgists_dont_understand_rights_a_response/ ([[https://archive.ph/iH9WY][archived]])

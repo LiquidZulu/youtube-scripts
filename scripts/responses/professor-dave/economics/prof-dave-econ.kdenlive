@@ -7735,7 +7735,7 @@
   <property name="kdenlive:folder.13.111">crusoe-animation</property>
   <property name="kdenlive:docproperties.activeTrack">5</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
-  <property name="kdenlive:docproperties.audioTarget">-1</property>
+  <property name="kdenlive:docproperties.audioTarget">4</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
   <property name="kdenlive:docproperties.documentid">1659365232374</property>
   <property name="kdenlive:docproperties.enableTimelineZone">0</property>
@@ -7751,7 +7751,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">22.04.3</property>
-  <property name="kdenlive:docproperties.position">36357</property>
+  <property name="kdenlive:docproperties.position">3730</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_1080p_25</property>
@@ -7765,7 +7765,7 @@
   <property name="kdenlive:docproperties.rendercustomquality">-1</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
-  <property name="kdenlive:docproperties.rendermode">1</property>
+  <property name="kdenlive:docproperties.rendermode">0</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
   <property name="kdenlive:docproperties.renderpreview">0</property>
   <property name="kdenlive:docproperties.renderprofile">WebM-VP8/Vorbis (libre)</property>
@@ -7779,15 +7779,15 @@
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">prof-dave-econ.webm</property>
-  <property name="kdenlive:docproperties.scrollPos">354</property>
+  <property name="kdenlive:docproperties.scrollPos">20393</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.videoTarget">5</property>
   <property name="kdenlive:docproperties.zonein">32330</property>
   <property name="kdenlive:docproperties.zoneout">33062</property>
-  <property name="kdenlive:docproperties.zoom">15</property>
-  <property name="kdenlive:expandedFolders">44</property>
+  <property name="kdenlive:docproperties.zoom">4</property>
+  <property name="kdenlive:expandedFolders">145</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:folder.-1.145">music</property>
   <property name="kdenlive:folder.-1.151">greenscreen</property>
