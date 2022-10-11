@@ -1,5 +1,178 @@
-#+TITLE: The Truth About David Friedman | David Friedman is Not An Ancap
+#+TITLE: *The Truth About David Friedman | David Friedman is Not An Ancap
+#+AUTHOR: LiquidZulu, Nai
 
+[[./thumb/thumb0-0.png]]
+
+
+* SEO Checklist :noexport:
+** Story Circle
+*** Summaries
++ "Dan Harmon's Story Circle | Rick and Morty | adult swim," https://www.youtube.com/watch?v=RG4WcRAgm7Y
++ "Interstellar - Dan Harmon's Story Circle," https://www.youtube.com/watch?v=aB0mQb_JcGs
++ "Dan Harmon's Story Circle: The Heart of Community | Video Essay," https://www.youtube.com/watch?v=UdxX_Kljrq8
++ "Dan Harmon Story Circle: 8 Proven Steps to Better Stories," https://www.youtube.com/watch?v=-XGUVkOmPTA
++ "Every Story is the Same," https://www.youtube.com/watch?v=LuD2Aa0zFiA
+
+#+begin_quote
+(1) A character is comfortable (2) but they see something they want, (3) So they head out into uncharted territory to get it (4) but have to change in order to succeed. (5) When they finally grasp it, (6) they pay a hefty price (7) and return to their original situation (8) having changed inside (and sometimes outside).
+#+end_quote
+*** 1. You       - establish the protagonist(s)
++ a character you can identify with
++ Comfort zone
++ Set the status quo
++ when the story starts the audience is floating, to move them into a character you must show them one
+*** 2. Need      - something isn't right
++ who has some need/wish/incompletion
++ something isnt right
+*** 3. Go!       - crossing the threshold
++ the need causes the character to go across a threshold where the story changes direction
++ Unfamiliar situation
+*** 4. Search    - the road of trials
++ the character goes down a road of trials searching for something
++ Adaptation
++ when going doesnt work, you need to keep searching, roadblocks are placed in the way of the protagonists success
+*** 5. Find      - meeting the goddess
++ they find what they were searching for whether they like it or not
++ find what they needed even if its not what they thought they needed
+*** 6. Take      - paying the price
++ what they find kinda kicks their ass
+*** 7. Return    - bringing it home
++ they return to the world they started in
++ return to comfort
++ return to a new familiar situation
+*** 8. Change    - master of both worlds
++ they return changed because of the journey.
+** Points to hit [0/16]
++ [ ] who's the character?
+  + [ ] their want?
+  + [ ] their need?
+  + [ ] their flaw?
+  + [ ] how do they grow?
+  + what story/journey could the above create?
++ [ ] what's the desire/motivation of the story?
++ [ ] what's the obstacle?
++ [ ] what're the stakes --- why is it important?
++ [ ] make them care
+  + [ ] show what you have so the audience feels the loss when you lose it
++ [ ] what's the resolution --- the one core idea that is the final message of the video that wraps everything up?
+  + deliver on the title and thumbnail
++ [ ] storyboard it [0/3]
+  + [ ] storylines you have
+  + [ ] hook for each
+  + [ ] different things that can happen
++ [ ] attach a story to every point I make and tell the story before I make that point
++ [ ] answer questions using spectacle
++ [ ] if things go static stories die, because life is never static.
++ [ ] drama is anticipation mingled with uncertainty
++ [ ] make comment goals (2 or 3)
++ [ ] cater to the archetypal viewer
++ [ ] reference popular media
++ [ ] Make an audience proxy (state things the viewer is thinking)
++ [ ] Problem every 2 minutes
+** Intro [0/4]
++ [ ] 8 words right at the start explaining the concept
++ [ ] Personal (character) motivation
++ [ ] Create an enemy
+** Questions to ask [0/11]
++ [ ] is there incentive to watch until the end?
++ [ ] can I add something?
++ [ ] what are the different loops that I can open?
++ [ ] what are the different questions that the viewer could ask themselves?
++ [ ] what's the hook?
++ [ ] what do viewers need to see in the first few seconds based on the title and thumbnail so that they feel like their click is worth it?
++ [ ] is there a way to make the viewer laugh or feel surprised or feel something in the first 10 seconds?
++ [ ] is there a way to have two storylines?
+  + [ ] surface level story, and hidden stories (finding nemo is ostensably about finding nemo, but really about marlon addressing his insecurities as a father)
+  + [ ] is there a way to build surface level and underlying tension in each story?
+    + short term: will dory's short term memory make her forget what marlon told her, long term: will we find nemo?
++ [ ] am I giving them 4 or 2+2?
+  + https://www.youtube.com/watch?v=KxDwieKpawg
++ [ ] in doing X big thing [0/3]
+  + [ ] what do I want?
+  + [ ] what happens if I dont get what I want?
+  + [ ] what will I do to get what I want?
+** Editing [0/5]
++ [ ] Show where possible
++ [ ] if theres a bit of information where you can delete what is before and after it and it flows just as well, cut it
++ [ ] tell stories with B-roll
++ [ ] Keep pace as fast as humanely possible, without impacting the pacing
++ [ ] add breather moments to allow for the pace to not feel too fast https://www.youtube.com/watch?v=o8ZbGnwXjj4
+** How to keep people watching [0/23]
++ [ ] deliver on title and thumbnail (video "I ate 100 bananas" shouldnt start with people eating apples or you buying bananas)
++ [ ] /exceed/ the expectations made by the thumbnail
++ [ ] instantly explain the payoff
++ [ ] tell them why to watch
++ [ ] get right into content after delivering
++ [ ] remove every dull moment
++ [ ] find 10 most critical people you know to roast your video
++ [ ] payoff at the end
++ [ ] you can make anything work but it has to be interesting to the audience, original, and good
++ [ ] big stunts
++ [ ] the title should be "bananas are the best food on the planet" rather than "I like bananas"
++ [ ] consider what the experience will be for people in the video, if they liked it they might want to watch more of your videos.
++ [ ] viewers can tell when you are half-assing
++ [ ] (storyline) have an objective
++ [ ] stay on topic
++ [ ] no filler, only content that is neccesary to the narrative and meets the expectations
++ [ ] for payoff have the clear goal that is teased throughout the video
++ [ ] build anticipation to the payoff
++ [ ] wait until the very end to give the payoff
++ [ ] watchtime is not created equal, engagement and viewer surveys will differentiate between a good 25min video and a great one
++ [ ] Signal to the viewer early on that you know something that they dont, e.g. "I've uncovered something about Elon Musk that nobody is talking about."
++ [ ] Get rid of signposting, e.g. over-explaining and ‘telling’ the viewer what's about to happen instead of ‘showing’ them.
++ [ ] subtly re-introduce the hook at several points in the video, most viewers forget what the incentive to watch is 5 or 6 minutes in
+** Thumbnail
++ concept more important than aestethics
++ borrow from other successful videos (yoink and twist)
++ make the dominant subject someone people know (so not me when starting off)
++ provide action
++ portray the story of the video
++ other parts of the image shouldnt take focus away from the important, clickable, elements
++ confusion doesnt make people want to click, curiosity \ne confusion
++ should be accurate in the most visually applealing way
++ should be simple and clear
++ colourful and bright
++ have 2-3 different versions of the thumbnail to A/B test
++ check how they look across youtube (thumbsup.tv)
++ recognisable figures improve CTR
++ you probably only want 1 person in your thumbnail (obviously just a rule of thumb)
++ spike their curiosity so much that they will wonder what happened if they dont click
+** Title
++ "and this happened" is better than "what happens next will shock you"
++ a good title says what it needs to say in as few characters as possible
++ opening a loop is a method of building curiosity---aka curiosity gap
++ Jake Thomas formula https://www.youtube.com/watch?v=D7gsUUhkA6s
+  + Fear
+  + Curiosity
+  + Desire
+  + power phrases https://twitter.com/jthomas__/status/1533078603356942337
+    + 🌞 Change my Life
+      + vague
+      + opens a loop
+      + speaks to a big desire
+    + ⚖ The Truth About
+      + opens a loop
+      + starts a story
+      + negativity - "what is the truth about"
+      + revealing - getting insider info
+    + 🛑 I Stopped
+    + 🛏️   I Regret
+    + 🥷 Do This
+    + ⏱️   In [Time Frame]
+    + 🐣 Beginner
+    + 🚫 Without
+    + 🤡 You’re Doing It Wrong
+    + 🧙‍♂️   This Is What I’d Do
+** End Screen
++ Next logical step
++ What do the avatars care about?
++ Make people want to know what happens next.
++ be persuasive
+  + mention the avatars desire
+  + point out what more there is for them to do
+    + use "have to"
+  + describe the result of them doing that.
++ be confident that the linked video is good
 * Notes
 ** David Friedman on Property Rights, http://www.daviddfriedman.com/Academic/Property/Property.html
 + He lays forth two types of rights:
@@ -18,5 +191,77 @@ This essay is an attempt to answer that final sort of question. I have tried to 
 #+end_quote
 + so there is no david friedmanite legal philosophy, which he fully accepts, therefore it is odd when people take these analyses and apply them to ethical discussions.
   + on a related note, as there is no david friedmanite legal philosophy, there can be no corressponding position on anarchism vs statism, as the question of anarchism vs statism is not a positive one, but a normative one---we must analyse the anarchist as opposed to the statist ethic, rather than analysing the positive effects of these systems. This is because even if we do all the hard work at demonstrating that an unhampered market leads to a greater standard of living in the long run, we lack any corresponding reason as to why this makes it better, not only will this be entirely unconvincing to the high time preference man (https://mises.org/library/duty-natural-outlaws-shut), but even to low time preference people who would therefore have to prefer anarchism to statism we fail to demonstrate that we /should/ be anarchists as opposed to statists. Rather we have retreated into legal whim-worshipping---that our argument is of the form "you should be an anarchist because you would prefer it." But the fact that some set of people would prefer it does not imply that they should be anarchists, it may well be the case that John would prefer to rape Jane than to not rape her, but this does not imply that he /should/ rape her, it is in fact the case that he /should not/ rape her.
+** The Machinery of Freedom, https://www.youtube.com/watch?v=oUvGgs4syuE
+#+begin_quote
+/A government is an agency of legitimized coercion./ I define 'coercion', for the purposes of this definition, as the violation of what people in a particular society believe to be the rights of individuals with respect to other individuals.
+
+[...]
+
+The special characteristic that distinguishes governments from other agencies of coercion (such as ordinary criminal gangs) is that most people accept government coercion as normal and proper. The same act that is regarded as coercive when done by a private individual seems legitimate if done by an agent of the government.
+
+If I yell 'Stop, thief!' at a stickup man escaping with my wallet, the bystanders may or may not help, but they will at least recognize the reasonableness of my act. If I yell 'Stop, thief!' at an employee of the Internal Revenue Service, leaving my house after informing me that he has just frozen my bank account, my neighbors will think I'm crazy. Objectively, the IRS is engaged in the same act as the thief. It seizes my resources without my permission. True, it claims to provide me with services in exchange for my taxes, but it insists on collecting the taxes whether or not I want the services. It is, perhaps, a fine point whether that is robberyor extortion. In either case, if it were the act of a private party, everyone would agree that it was a crime.
+#+end_quote
++ this is an absurd definition of coercion and would allow for any manner of insane actions to be labelled 'non-coercive' by virtue of a positive outlook from the public. Moreover, if that is what coercion means then Friedmans further assertion that the IRS is engaged in the same act as the theif is incorrect---the action is different in that it is not coercive due to positive public opinion, people think that you do not have the right to resist taxes
 
 ** last_username vs PF Jung
++ avoiding moral philosophy because the economic arguments already show that anarchism is better at attaining most peoples ends
+  + duty of natural outlaws to shut up
+  + "what I care about is that the state doesnt work very well"
++ the very contention of anarchism as opposed to statism is a legal contention---i.e. the contention is a question of how disputes ought be resolved. Therefore positive anarchism is a contradiction in terms.
+  + snuck ethics are required to conclude anarchism on positive grounds, anarchism being normative.
+  + these practical (positive) arguments about the nature of violence end up falling into positions on law anyway---the snuck premise is that what is practical is what is legal.
++ "one of the two parties is wrong ... by the standard of reality"
+  + what is this natural standard if not natural law?
+    + rules are decided via negotiations through REAs, but what even counts as proper negotiation requires an antecedent theory of law.
+      + "some people want the right to play their music loudly, others want the right to have peace. Both parties will be potential customers of REAs and they will have to pay for the rights, whomever wins this purchasing war has the right."
++ agencies do not /decide/ what the rights are, this is a randian misunderstanding of anarchism---rather, the rights themselves are objective, but the most efficient way to enforce these rights is through a market (also the market is not per se aggressive, whereas a state is).
++ "well the agencies would have this set of pre-agreed-upon rules which they could consult in the case of any conflicts"
+  + but what about conflicts which do /not/ fall into the set of things that are covered by those rules? How do you deal with /those/ conflicts?
+** meta notes
++ if david friedman is an anarchist he is a covert-anarchist, in that he is keeping his anarchist ethic covert
+* Main Body
+** Introduction
+[maybe start with clip of david friedmanite saying something ridiculous with a background boom (max fosh boom) to cut to black?]
+
+David Friedman is not an ancap, in fact he can scarcely even be described as an anarchist. This will likely come as a shock to many; Friedman takes centre stage in introductory videos to anarcho-capitalism, appearing as one of the faces of the movement to outsiders. But this portrayal could not be further from the truth, and I will show you exactly why.
+
+** What is Anarcho-Capitalism
+First, I must explain what Anarcho-Capitalism even is. Anarchism in general refers to the set of philosophies centering around the prohibition of rulers, but what exactly it means to be a ruler differs between schools of thought. Proto-anarchists lacked a strong scientific basis for their convictions as to what counted as voluntary and involuntary, thus Proudhon and his peers would decry wage labour as a form of coercion that would be absent in a free society, and even more recent anarchist philosophers such as Lysander Spooner relied on an imprecise basis for their anarchism, which is where Murray Rothbard comes in with his new Anarcho-*Capitalism*:[fn:1]
+#+begin_quote
+I am, therefore, strongly tempted to call myself an "individualist anarchist," except for the fact that Spooner and Tucker have in a sense preempted that name for their doctrine and that from that doctrine I have certain differences. Politically, these differences are minor, and therefore the system that I advocate is very close to theirs; but economically, the differences are substantial...
+#+end_quote
+
+Those substantial differences in economics come about due to Murray Rothbards adherence to the Austrian school of economics along with its science of human action, praxeology. Praxeology provides the stable and precise grounding for anarchist philosophy that was previously missing.
+
+** Anarchism vs David Friedmanism on Law
+Of note here is that anarchism as no-rulersism is specifically a position on law; that is, it is a position on the proper way to resolve conflict. An anarchist necessarily has to give precedence to the non-ruler over the ruler in any given conflict, which is a normative position---the non-ruler /ought/ win the conflict. Here, we say that the non-ruler has the property right. David Friedman has a different approach to law,[fn:2] stating two types of rights; moral and legal. A moral right to do X, says Friedman, "... is an argument, although not a necessarily sufficient argument, that someone who prevents me from doing it is acting wrongly." This moral right does not correspond with property rights in anarchism as they do not imply anything with respect to justice, so we move to Friedman's legal rights:
+#+begin_quote
+From the legal standpoint, rights are a description either of what the law says or of how it is enforced. On the latter interpretation, "I have a right to do X" translates as something like "If I do X the police will not arrest me; if someone tries to stop me from doing X the police will arrest him."
+#+end_quote
+
+Friedman sees both his legal and moral rights as being insufficient to describe the full nature of property rights, which I wholeheartedly agree with. But he errs in then jumping to a positive account of rights, "an account which is both amoral and alegal. ... one in which rights, in particular property rights, are a consequence of strategic behavior and may exist with no moral or legal support." This account amounts to essentially a theory describing when people aggress and when they don't, which is flawed in the outset as it lacks any underlying property theory to even understand what is aggression and what is non-aggression. So even if we grant him the ground that he is correct that people aggress when he predicts they will, we still must have a natural law backing for his theory to work; this legal backing provides an objective theory of property rights that is antecedent to any discussion of when people respect those rights.
+
+Unfortunately, Friedman does not make explicit what property theory he is using in the background. He goes on:
+#+begin_quote
+In thinking about issues of rights, I find myself playing two quite different roles. As a human being and [...] an amateur philosopher, I have moral intuitions; from that standpoint, the question is "why ought one not to steal" and the answer is "because it is wicked." As an economist I ask and answer different questions. One is "what are the consequences of people being free to steal." Much of the economic analysis of law is devoted to answering questions of that sort. Another is "why do people (often) not steal?"
+
+This essay is an attempt to answer that final sort of question. I have tried to answer the economist's question about rights rather than the philosopher's not because economics is more important than moral philosophy but because I am more confident in my ability to use economics to produce answers. I have been encouraged in this policy by a curious and convenient coincidence: in most cases, the rules I conclude to be efficient are also the rules I believe to be just.
+#+end_quote
+Here, Friedman outright states that his analysis is only to be taken as an economic one, not a moral or ethical one. And, to be clear, I am not attacking Friedman for not writing about ethics, rather, I attack those who take his analysis as a starting point for questions of law as opposed to keeping it squarely where it belongs---in economics. On a related note, as there does not exist any Friedmanite legal philosophy, /there can be no corressponding Friedmanite position on anarchism vs statism/, as this would be a normative question, which is not addressed in his analysis. When pondering anarchism vs statism we must analyse the anarchist as opposed to the statist ethic, rather than thinking about what would happen in the event that either system were to be adhered to.
+
+This is because even if we go through all the work of demonstrating, say, that an unhampered market will lead to a greater standard of living in the long run, we lack any corresponding reason as to why this makes it superior to the hampered market. Not only would this argument be entirely unconvincing to the high time preference man who doesn't give a damn about long-term benefits, or those welfare leeches who would indeed be worse off without a state even in the long-run, but even to the low time preference people who would have to prefer anarchism for some reason or another we have only demonstrated that they would prefer anarchism when we were setting out trying to demonstrate that we /should/ be anarchists as opposed to statists. Rather, in following this path of economics-first we have retreated into legal whim-worshipping---our argument is in the form of "you should be an anarchist because you would prefer anarchy to the state." But the fact that some set of people would prefer anarchy does not imply that they should be anarchists, as it may well be the case that John would prefer to rape Jane than to not rape her, but this does not imply that he /should/ rape her. It is, in fact, the case that he /should not/ rape her.
+
+The moral argument stands far stonger in demonstrating the anarchist ethic to be correct, meaning that every single person /should/ be an anarchist whether they like it or not.
+
+** Friedmanite Statism
+Furthermore, to take the David Friedman position as the root of law is to remove any theoretic distinction between statism and anarchism; allow me to explain. To the legal-David-Friedmanite, who I shall call the polycentrist, law is determined through a process of negotiation between rights enforcement agencies and arbitration on undecided issues. So imagine there are two communities next to each other, one wants the right to play music super loudly and the other wants the right to have peace and quiet. The polycentrist has no objective basis of precedence that can determine whether the music players have a right to play music---instead they must leave it to arbitration to determine who has the property right. Essentially either the two communities are serviced by the same REA or they are serviced by different REAs, in the former case the polycentrist says that the law on the matter of music playing is solved by reference to the policies of the REA that runs everything. In the latter case, law can only be determined insofar as the two competing security agencies come to an agreement on what the law is. Of course, this leaves us with having no solution for what the law is when people disagree---this is a problem, becuase law is literally only ever relevant when people arent in agreement about how things should be done, when people are in perfect harmonious cooperation there are no conflicts.
+
+Furthermore, if law is determined by the sayso of judges, nothing stops these judges from claiming that competition with them is disallowed---David Friedman does not provide us with any objective class theory to allow us to define state from non-state. The Austrians on the other hand, do have such a class theory, allowing Austrians, or more specifically anarcho-capitalists, to claim the title of anarchist---to be an anarchist you must first know what anarchism means...
+
+** CTA
+...and if you want to know what anarchism means then you have to watch this video where I explain anarcho-capitalism as the solution to law.
+
+* Footnotes
+[fn:2]For Friedman's theory of law, see David D Friedman, "A Positive Account of Property Rights," http://www.daviddfriedman.com/Academic/Property/Property.html ([[https://archive.ph/lxG6o][archived]]).
+
+[fn:1]Murray N. Rothbard, "The Spooner-Tucker Doctrine: An Economist's View"

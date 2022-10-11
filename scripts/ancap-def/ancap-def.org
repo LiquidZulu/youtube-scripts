@@ -1,0 +1,339 @@
+#+title: What is Anarcho-Capitalism? (27C) | Anarcho-Capitalism: Anarchism For The Modern Man (48C) | Anarcho-Capitalism and the Philosophy of Freedom (48C) | Take The Gold-Pill (18C) | The Solution To Ethics (22C) | The Solution To Law (19C)
+
+[[./thumb/demo-thumb-goldpill-0-2.png]]
+
+* Thumbnail Concepts
+** "Take The Gold-Pill"
+
+[[./thumb/demo-thumb-goldpill-0-0.png]]
+
+[[./thumb/demo-thumb-goldpill-0-2.png]]
+
+[[./thumb/demo-thumb-goldpill-0-2-1.png]]
+
+[[./thumb/demo-thumb-goldpill-0-2-2.png]]
+
+[[./thumb/demo-thumb-goldpill-0-2-2-1.png]]
+
+* SEO Checklist :noexport:
+** Story Circle
+*** Summaries
++ "Dan Harmon's Story Circle | Rick and Morty | adult swim," https://www.youtube.com/watch?v=RG4WcRAgm7Y
++ "Interstellar - Dan Harmon's Story Circle," https://www.youtube.com/watch?v=aB0mQb_JcGs
++ "Dan Harmon's Story Circle: The Heart of Community | Video Essay," https://www.youtube.com/watch?v=UdxX_Kljrq8
++ "Dan Harmon Story Circle: 8 Proven Steps to Better Stories," https://www.youtube.com/watch?v=-XGUVkOmPTA
++ "Every Story is the Same," https://www.youtube.com/watch?v=LuD2Aa0zFiA
+
+#+begin_quote
+(1) A character is comfortable (2) but they see something they want, (3) So they head out into uncharted territory to get it (4) but have to change in order to succeed. (5) When they finally grasp it, (6) they pay a hefty price (7) and return to their original situation (8) having changed inside (and sometimes outside).
+#+end_quote
+*** 1. You       - establish the protagonist(s)
++ a character you can identify with
++ Comfort zone
++ Set the status quo
++ when the story starts the audience is floating, to move them into a character you must show them one
+*** 2. Need      - something isn't right
++ who has some need/wish/incompletion
++ something isnt right
+*** 3. Go!       - crossing the threshold
++ the need causes the character to go across a threshold where the story changes direction
++ Unfamiliar situation
+*** 4. Search    - the road of trials
++ the character goes down a road of trials searching for something
++ Adaptation
++ when going doesnt work, you need to keep searching, roadblocks are placed in the way of the protagonists success
+*** 5. Find      - meeting the goddess
++ they find what they were searching for whether they like it or not
++ find what they needed even if its not what they thought they needed
+*** 6. Take      - paying the price
++ what they find kinda kicks their ass
+*** 7. Return    - bringing it home
++ they return to the world they started in
++ return to comfort
++ return to a new familiar situation
+*** 8. Change    - master of both worlds
++ they return changed because of the journey.
+** Points to hit [8/16]
++ [X] who's the character?
+  + the viewer
+  + [X] their want?
+    + horrible things in this world that require solutions, they want the solutions
+  + [X] their flaw?
+    + they dont know the solutions yet?
+  + [X] how do they grow?
+    + by taking the gold pill and realising that it is genuinely helpful for solving the above issues
+  + what story/journey could the above create?
++ [X] what's the desire/motivation of the story?
+  + the motivation is in solving the errors of philosophy that have been embedded into society
++ [X] what's the obstacle?
+  + the obstacle is in unravelling philosophy and trying to find the truth in a field of falsehoods
++ [X] what're the stakes --- why is it important?
+  + its important because these errors have ruined everyones lives that they touch
++ [ ] make them care
+  + [ ] show what you have so the audience feels the loss when you lose it
++ [X] what's the resolution --- the one core idea that is the final message of the video that wraps everything up?
+  + we can win and we can only do it by accepting truth
+  + deliver on the title and thumbnail
++ [ ] storyboard it [0/3]
+  + [ ] storylines you have
+  + [ ] hook for each
+  + [ ] different things that can happen
++ [ ] attach a story to every point I make and tell the story before I make that point
++ [ ] answer questions using spectacle
++ [ ] if things go static stories die, because life is never static.
++ [ ] drama is anticipation mingled with uncertainty
++ [X] make comment goals (2 or 3)
+  + I'm sending this to my friends
+  + I never thought of it that way
++ [X] cater to the archetypal viewer
++ [ ] reference popular media
+  + in the b-roll?
++ [X] Make an audience proxy (state things the viewer is thinking)
+  + during take: "what is the point of all of this blah blah blah"
++ [ ] Problem every 2 minutes
+** Intro [2/3]
++ [X] 8 words right at the start explaining the concept
+  + "[cold open with a bunch of bad and mean things and intensifying strings] Our world sucks. [music cuts and camera cuts to my face/black screen with text] Let's fix it."
++ [X] Personal (character) motivation
+  + the motivation is to fix the world
++ [ ] Create an enemy
+** Questions to ask [0/11]
++ [ ] is there incentive to watch until the end?
++ [ ] can I add something?
++ [ ] what are the different loops that I can open?
++ [ ] what are the different questions that the viewer could ask themselves?
++ [ ] what's the hook?
++ [ ] what do viewers need to see in the first few seconds based on the title and thumbnail so that they feel like their click is worth it?
++ [ ] is there a way to make the viewer laugh or feel surprised or feel something in the first 10 seconds?
++ [ ] is there a way to have two storylines?
+  + [ ] surface level story, and hidden stories (finding nemo is ostensably about finding nemo, but really about marlon addressing his insecurities as a father)
+  + [ ] is there a way to build surface level and underlying tension in each story?
+    + short term: will dory's short term memory make her forget what marlon told her, long term: will we find nemo?
++ [ ] am I giving them 4 or 2+2?
+  + https://www.youtube.com/watch?v=KxDwieKpawg
++ [ ] in doing X big thing [0/3]
+  + [ ] what do I want?
+  + [ ] what happens if I dont get what I want?
+  + [ ] what will I do to get what I want?
+** Editing [0/5]
++ [ ] Show where possible
++ [ ] if theres a bit of information where you can delete what is before and after it and it flows just as well, cut it
++ [ ] tell stories with B-roll
++ [ ] Keep pace as fast as humanely possible, without impacting the pacing
++ [ ] add breather moments to allow for the pace to not feel too fast https://www.youtube.com/watch?v=o8ZbGnwXjj4
+** How to keep people watching [0/23]
++ [ ] deliver on title and thumbnail (video "I ate 100 bananas" shouldnt start with people eating apples or you buying bananas)
++ [ ] /exceed/ the expectations made by the thumbnail
++ [ ] instantly explain the payoff
++ [ ] tell them why to watch
++ [ ] get right into content after delivering
++ [ ] remove every dull moment
++ [ ] find 10 most critical people you know to roast your video
++ [ ] payoff at the end
++ [ ] you can make anything work but it has to be interesting to the audience, original, and good
++ [ ] big stunts
++ [ ] the title should be "bananas are the best food on the planet" rather than "I like bananas"
++ [ ] consider what the experience will be for people in the video, if they liked it they might want to watch more of your videos.
++ [ ] viewers can tell when you are half-assing
++ [ ] (storyline) have an objective
++ [ ] stay on topic
++ [ ] no filler, only content that is neccesary to the narrative and meets the expectations
++ [ ] for payoff have the clear goal that is teased throughout the video
++ [ ] build anticipation to the payoff
++ [ ] wait until the very end to give the payoff
++ [ ] watchtime is not created equal, engagement and viewer surveys will differentiate between a good 25min video and a great one
++ [ ] Signal to the viewer early on that you know something that they dont, e.g. "I've uncovered something about Elon Musk that nobody is talking about."
++ [ ] Get rid of signposting, e.g. over-explaining and ‘telling’ the viewer what's about to happen instead of ‘showing’ them.
++ [ ] subtly re-introduce the hook at several points in the video, most viewers forget what the incentive to watch is 5 or 6 minutes in
+** Thumbnail
++ concept more important than aestethics
++ borrow from other successful videos (yoink and twist)
++ make the dominant subject someone people know (so not me when starting off)
++ provide action
++ portray the story of the video
++ other parts of the image shouldnt take focus away from the important, clickable, elements
++ confusion doesnt make people want to click, curiosity \ne confusion
++ should be accurate in the most visually applealing way
++ should be simple and clear
++ colourful and bright
++ have 2-3 different versions of the thumbnail to A/B test
++ check how they look across youtube (thumbsup.tv)
++ recognisable figures improve CTR
++ you probably only want 1 person in your thumbnail (obviously just a rule of thumb)
++ spike their curiosity so much that they will wonder what happened if they dont click
+** Title
++ "and this happened" is better than "what happens next will shock you"
++ a good title says what it needs to say in as few characters as possible
++ opening a loop is a method of building curiosity---aka curiosity gap
++ Jake Thomas formula https://www.youtube.com/watch?v=D7gsUUhkA6s
+  + Fear
+  + Curiosity
+  + Desire
+  + power phrases https://twitter.com/jthomas__/status/1533078603356942337
+    + 🌞 Change my Life
+      + vague
+      + opens a loop
+      + speaks to a big desire
+    + ⚖ The Truth About
+      + opens a loop
+      + starts a story
+      + negativity - "what is the truth about"
+      + revealing - getting insider info
+    + 🛑 I Stopped
+    + 🛏️   I Regret
+    + 🥷 Do This
+    + ⏱️   In [Time Frame]
+    + 🐣 Beginner
+    + 🚫 Without
+    + 🤡 You’re Doing It Wrong
+    + 🧙‍♂️   This Is What I’d Do
+** End Screen
++ Next logical step
++ What do the avatars care about?
++ Make people want to know what happens next.
++ be persuasive
+  + mention the avatars desire
+  + point out what more there is for them to do
+    + use "have to"
+  + describe the result of them doing that.
++ be confident that the linked video is good
+* Story Outline :noexport:
++ The world is plagued with a bunch of bad things and blah blah blah
+  + what if I told you there was a single cause for these ills and therefore a single solution
++ we need to mend the fundamental failures of philosophy
++ what is the unfamiliar?
++ What is the thesis?
+  + that ethical adherence is required and necessary and possible
+** You
++ cold open of horrible things, point to the viewer as the protagonist
+  + "how can we solve this"
+    + "can we solve this?"
+** Need
++ further explicate the chosen issues
+  + the problem of ethics/law is the problem of scarcity
+** Go!/Search
++ build from the ground up the ethics of anarcho-capitalism
+  + what are the hurdles for building ethical theory?
+    + go over some previous mistakes and fix them
+      + go over different theories of property ending with ancap, find the flaws in others.
+** Find
++ the ethics of ancap is explicated
+** Take
++ we have our solution but it seems hopeless, the theory is niche and nobody cares. All we have now is the knowledge that things are shittier than we first thought!
+** Return/Change
++ explicate Austrian class theory --- it is not hopeless
+* Main Body
+** Intro
+[Kevin Day - The Mind Is Like Water] Our world sucks. Let's fix it. [synth music] The lives of everyone you know are currently being worsened by a hidden enemy with multifarious impacts. [music stops] This enemy is falsehood.
+
+** Falsehood as an Enemy
+[synth music restarts] When a man lives discordant with reality he will live a bad life. The area of philosophy that deals with how to live a good life is called ethics---so errors in ones ethical philosophy must be fixed before one can be happy. But how can we find these errors? And more importantly, how can we find truth?
+
+** Law
+Let's start with a subset of ethics called law, law is the area of philosophy that deals with the question of who should win a given conflict, we say that the "property right" is assigned to the party who should win. If a farmer finds that the local factory has polluted his river and ruined his crops, this is a conflict, the farmer wants the pollution to not be there and the factory wants it to be there, only one party can win and law deals with who that party should be.
+
+Modern legal philosophers have come to a precise definition of conflict through the use of the science of human action called praxeology. In short an action is defined as purposeful behaviour, it is the rational implementation of scarce means towards certain ends. Lets take cooking a steak as an example, you have the uncooked steak and a frying pan as your means towards the end of eating a cooked steak, you arrange these means such that the steak gets cooked and you can then enjoy it.
+
+With this in mind we recognise that conflict can be defined as contradictory action. Our farmer above isn't able to grow his crops at the same time that the factory pollutes his soil, one action is excluding the other action. Moreover, this issue of conflicts that law is there to solve only exists where there is scarcity. For example two men are able to think about and use the same recipe for rice pudding at the same time without interfering with the other---therefore there can be no conflicts over ideas. Scarcity, then, is an issue which must be at the forefront of any ethic that purports to speak about solutions to law.
+
+** False Law
+*** The Utilitarian Ethic
+[A list of the different ethics but they are blurred until they are talked about, after an ethic is debunked a red strikethrough is applied]
+
+We must now analyse different theories of law to see if we can find truth in any of them. First, the Utilitarian ethic, which states that the decision of who should win depends on which decision would maximise happiness and well-being, called utility by economists. So a utilitarian might say that $100 is more satisfying in the hands of a poor man than it is in the hands of a millionaire, thus we should take money from the rich and give to the poor.
+
+The utilitarians seek to demonstrate that the $100 is more satisfying to the poor than the rich by invoking a utility function. We can determine whether this is scientific by explicating the categories of data.[fn:1] The first is nominal data, these data are merely true statements. Something like this video is on YouTube, or I live in Scotland. The next type is ordinal data. Ordinal data takes the form of a ranked list, for instance I might prefer chocolate cake to apple crumble, and apple crumble to trifle. Therefore this preference scale would be ordinal, you cant say that I prefer chocolate cake 3.2 times as much as apple crumble, such a statement is meaningless.
+
+The next category of data is cardinal data that comes in two sub-categories, the first being interval data. Temperatures are often measured with an interval scale, for example it makes sense to say that 70°C is 10°C more than 60°C, but it does not make sense to say that 10°C is 'twice as hot' as 5°C. Interval data is characterised by having no objective 0 point. 0°C was arbitrarily chosen as the point at which water freezes. This brings us to the next sub-category which is called ratio data. Ratio data does have an objective 0 point, an example of ratio data is length. You notice that 0 cm = 0 inches which = 0 miles. Every scale of length has the same, clear 0 point that was not arbitrarily chosen. This is why you can meaningfully say that 10cm is twice as long as 5cm---literally taking two lots of 5cm together and putting one at the end of the other will yield 10cm.
+
+Moreover, a negative amount can have a meaning in a ratio measure, a negative amount of money denotes money that I owe as opposed to money that I own. A negative temperature on the other hand just means that it is colder than a positive temperature.
+
+Here we find the error of the utilitarians, they are treating preference scales as ratio data, they are saying that the completely internal feeling of satisfaction which has no directly observable characteristics is in some way measurable and that this unit of utility is the same for different individuals.
+
+#+begin_quote
+At the ratio level, we are saying that the concept of zero utility is meaningful. But how can this be? What is the total absence of satisfaction? Is utility always positive, like length or weight, or can it be negative? Could dissatisfaction be "negative" utility, or does that just mean that our actual "level" of satisfaction is lower than we would like?
+
+We are all dissatisfied to some degree all the time, or we would never act. So are we always climbing toward zero on our utility scale, or climbing toward infinity? A ratio-level measure requires a nonarbitrary zero point, but there is no way of finding that. Zero utility is obviously nonsense; again, this is shown to be true before we ask whether my zero point and yours are the same or different.
+#+end_quote
+
+*** The Consequentialist Ethic
+So the pure utilitarian ethic is dead in the water, but what if we broaden it beyond trying to maximise utility to trying to achieve some well-defined "good" outcome. This is the consequentialist ethic---this ethic states that the party whose victory would have the best outcome should win. If we assume that there is an objective definition for a "best outcome" the theory is still faulty as it would imply ethical stasis. This is because the future is per se unknown. We might know that the best outcome is whatever outcome would result in the most chickens being born, but we do not know whether picking A or B to win a conflict would result in the most chickens being born. Therefore we cannot decide and we are stuck at the starting line.
+
+*** Rawlsian Wraith Ethics
+So now we turn now to the Rawlsian "veil of ignorance" theory of ethics, quoting Hans-Hermann Hoppe:[fn:2]
+#+begin_quote
+In fact, Rawls, to whom the philosophy profession has in the meantime accorded the rank of the premier ethicist of our age, was the prime example of someone completely uninterested in what a human ethic must accomplish: that is, to answer the question of what I am permitted to do right now and here, given that I cannot not act as long as I am alive and awake and the means or goods which I must employ in order to do so are always scarce, such that there may be interpersonal conflicts regarding their use. Instead of answering this question, Rawls addressed an altogether different one: what rules would be agreed upon as "just" or "fair" by "parties situated behind a veil of ignorance"? ... According to Rawls, behind the veil of ignorance "no one knows his place in society, his class position or social status; nor does he know his fortune in the distribution of natural assets and abilities, his intelligence and strength, and the like. ... It is taken for granted, however, that they know the general facts about human society. They understand political affairs and the principles of economic theory; they know the basis of social organization and the laws of human psychology."
+
+While one would think that scarcity ranks among the general facts of society and economic theory, Rawls's parties, who supposedly knew about scarcity, were themselves strangely unaffected by this condition. ... Even in deliberating behind a veil of ignorance, one must still make use of scarce means---at least one's physical body and its standing room, i.e., labor and land. Even before beginning any ethical deliberation then, in order to make them possible, private or exclusive property in bodies and a principle regarding the private or exclusive appropriation of standing room must already be presupposed. In distinct contrast to this general fact of human nature, Rawls's moral "parties" were unconstrained by scarcities of any kind and hence did not qualify as actual humans but as free-floating wraiths or disembodied somnambulists. Such beings, Rawls concluded, cannot but "acknowledge as the first principle of justice one requiring an equal distribution (of all resources). Indeed, this principle is so obvious that we would expect it to occur to anyone immediately." True; for if it is assumed that "moral parties" are not human actors but disembodied entities, the notion of private property must indeed appear strange. As Rawls admitted with captivating frankness, he had simply "define[d] the original position so that we get the desired result." Rawls's imaginary parties had no resemblance whatsoever with human beings but were epistemological somnambulists; accordingly, his socialist-egalitarian theory of justice does not qualify as a human ethic, but something else entirely.
+#+end_quote
+
+*** The Stirnerite anti-Ethic
+So we'll cross that one off the list, moving instead to the law as described in the Stirnerite anti-ethic. This boils down to "might makes right," or the person who should win is whomever happens to win. As Stirner explains:[fn:3]
+#+begin_quote
+Whoever knows how to take and to defend the thing, to him belongs [property]. ... What I have in my power, that is my own. So long as I assert myself as holder, I am the proprietor of the thing. ... I do not step shyly back from your property, but look upon it always as my property, in which I respect nothing. Pray do the like with what you call my property!
+#+end_quote
+
+Rothbard explains the hypocritical nature of such a proclamation:[fn:4]
+#+begin_quote
+To the Stirnerites, only might makes right, and each individual has the right to grab whatever he wishes. It has always struck me as ludicrous for a dozen or so anarcho-Stirnerites to swagger around, proclaiming that might is the only right. In any contest of might between the anarcho-Stirnerites and the State, who do they think is going to win? For a tiny minority to preach might-makes-right makes no sense whatever. In fact, what makes sense, from either a pragmatic or a Stirnerite point of view, is to proclaim one's absolute devotion to individual rights even if one doesn't believe it. And what in the world should stop a pragmatist or a Stirnerite from lying in this way? Surely, not devotion to absolute truth, the denial of which is crucial to the nihilist creeds of pragmatism and Stirnerism!
+
+The Stirnerite obligation, on Stirnerite grounds, to pretend to be a moralist and a believer in property rights runs even deeper than that. For who in the world will deal with or trust any person who loudly proclaims his contempt for property rights and moral principles? It should be obvious to the thickest Stirnerite that if he wants to pursue a ruthless amoral policy of steal and grab, he could not do so by proclaiming Stirnerism to the high heavens. No, as Machiavelli counseled the Prince, the Prince must pretend to morality and the Christian virtues while secretly practising the opposite whenever opportunities arise. (Oddly enough, Machiavelli himself violated his own rule by proclaiming Machiavellism!) So therefore Stirnerism itself requires that Stirnerites shut up and pretend to be moralists and natural lawmen. And, once again, any balking at such pretense in the name of devotion to truth would, in itself, violate Stirnerism by surrendering Stirnerite self-interest to the constraining "spook" of objective truth.
+#+end_quote
+
+*** The Democratic Ethic
+Right, that ones a contradiction so it must go, but now we move to another popular ethic, that of democracy. Why not have it that we simply take a majority vote to decide who is acting justly? To demonstrate the uneasy position this ethic would put us in consider the following: 10 people are on an island and 9 of those people want to gang rape the remaining person, there is clearly a conflict over the use of this persons body so we shall put it to a vote to see whether they have sex or not. 1 vote in favour of allowing the victim their bodily integrity and 9 against; therefore under the democratic ethic we have found an instance of just rape.
+
+*** The Statist Ethic and Its Defeat
+I imagine such a concept would strike anyone with disgust, "what of consent?" you may be asking. What of consent indeed. How about to avoid any nasty implications like above we just build a new ethic from the ground up with consent at its core. The above ethics can all broadly be classed as sub-types of the statist ethic which claims that there exists some set of people who have the right to decide which party in the dispute ought win. The stirnirites see each man as his own state, deciding what to do himself, the democrats believe the majority make up the state, and the utilitarians believe in some manner of central planner with a utility function and a calculator that he uses to decide the law.
+
+We have seen that all of these are flawed in their rejection of individual bodily autonomy, but what does that mean precisely, what is consent? Let's start in the Garden of Eden, resources are limitless and can be attained with no more than a single thought. In such a world conflicts over scarce means like berries would not be possible. If Adam wants the satisfaction of biting down on a blueberry, he merely thinks it up, which does not prevent Eve from doing the same and experiencing the exact same thing. It would seem that there is no scarcity and therefore no conflicts are possible. This is not quite true though. Adam and Eve still cannot stand in the same place at the same time, in short their standing room is still scarce, so conflicts can still occur.
+
+Our goal here is to make a conflict resolution ethic based on consent, so let's imagine Eve is standing under a tree and Adam pushes her away so that he can stand there instead. It is clear that it is Adam who has violated Eves consent and not the other way around. In other words, Adam has initiated the conflict over standing there, so we have our rule; do not initiate conflicts. Some terminology that you will see used here is that Eve has homesteaded the standing room, this just means that she got there and made use of it before anyone else, you can shorten this to initial possession. Another term is aggression which means the initiation of conflict. So Adam aggressed against Eve when he pushed her because Eve owned her body and the standing room.
+
+Therefore lets call our ethic the non-aggression principle, because we are prohibiting any aggression. Great, we have a consent-based ethic for the Garden of Eden, but what would this mean for the real world? Does such an ethic still hold up?
+
+** Argumentation Ethics
+The answer to this is yes, in fact, this ethic is the only legal ethic that we can prove to be true:
+
+First, we notice that the method someone uses to prove something is argumentation, and that argumentation does not consist of free-floating propositions that don't come from anyone. Rather, argumentation is a human action, requiring the use of scarce means.
+
+Second, argumentation does not exist in a normative void. There are certain norms that are pre-supposed by both parties such that the activity can even be recognised as an argument in the first place. Let's imagine what it would look like if we supposed that argumentation didn't have such pre-suppositions, this would mean that it would lose any definitional significance---literally anything could be rightly called an argument.
+
+Third, the validity of any truth claim must be raised and decided upon in the course of an argumentation, so any normative pre-suppositions of argumentation have the special status of being the practical pre-condition for ascertaining the validity of a given truth claim.
+
+Fourth, to try to argumentatively dispute one of the norms of argumentation would be to contradict oneself, we call this a dialectic contradiction. For instance one could not argue that nobody should ever argue, because to argue you must first pre-suppose that you should argue. So we say that the proposition "people ought not argue" is dialectically false.
+
+Fifth, argumentation is a conflict-free interaction, interlocutors have some dispute over the truth of the matter and they are seeking to convince the other not through force of violence (i.e. by aggressing against them), but rather through the force of their argument. *Specifically, argumentation is a method of resolving disputes peacefully, not violently.* This means that one of the norms that make an interaction an argument is the NAP, so to try and dispute the NAP, whether in Eden or on Earth, one would contradict himself. Now we have proven the NAP to be a dialectically true ethic.
+
+This might seem like I have pulled some linguistic sleight of hand but I assure you this is entirely sound, and I have several papers and videos expanding on the proof for further reading.
+
+Right now though let's just apply this to see it in action; if someone were to argue that some aggression was valid they are strictly making the proposal that conflict is just in the situation at hand. This would contradict with the pre-supposition that aggression is not just, and we know that contradictions are false. To resolve this contradiction they can do one of two things; either they amend their proposition to be that conflict is unjust, or they stop arguing. Doing the first means that we return to the NAP, and doing the second leaves their proposition as being "empty" with no way of evaluating its truth. This is because as we noted above, the validity of any truth claim must be raised and decided upon in the course of an argumentation, trying to dispute this one has to argue thus contradicting themselves.
+
+As a side note, the same basic structure of the above argument is used to demonstrate the truth of the law of non-contradiction itself as it is a pre-supposition of the act of denying anything (which is what argumentation relies upon). Say that John and Sarah are arguing, John says that A is the case, Sarah responds, "no no no, A is not the case." To say that A is not the case is to say that the negation of A is the case. For Sarahs response to even be considered a rebuttal or a counterargument or even a denial of Johns argument; A and its negation cannot both be true, which is the law of non-contradiction.
+
+** What is Anarchism?
+The name for the philosophy that accepts this ethic of consent is called anarchism which means without rulers. Early anarchists, called proto-anarchists, didn't have the benefit of praxeology which was used earlier to define rule as aggression, so to distinguish these primitive thinkers from us modern anarchists we use the name anarcho-capitalism, or ancap for short. If you are wondering, the reason behind this name is that praxeology which sits as the tool for understanding law was developed by Austrian economists, who place great emphasis on capital theory and the role of the capitalist in the economy.
+
+** This Seems Hopeless!
+Ok, we have our anarchist ethic proven to be objectively true, but so what? How could we possibly go about getting to the anarchist world when we are so very far away from it? Is such a struggle not entirely hopeless? No. It is not. In simply accepting the truth of anarcho-capitalism and getting others to do the same you drive the world towards anarchy. Allow me to explain; there are two distinct classes in society, the first is made up of producers, homesteaders and traders. We call this the productive class, they make their wealth non-aggressively. The second is made up of people who expropriate the wealth of those producers, homesteaders and traders, we call this group the anti-productive class. ~This is known as Austrian class theory.~
+
+Now, this anti-productive class--also called the state--is necessarily made up of a relatively very small set of the population in comparison to the far larger productive class. This is because the state acts like a parasite, feeding on the productive efforts of hard-working men---when a parasite grows too large it invariably kills the host. Similarly for the state, it does not produce wealth on its own, so it relies on other people to do so for it, which caps the amount that can possibly be expropriated. Imagine there were 100 people and 99 were statists who wanted to tax the remaining individuals wealth; he would clearly end up with nothing left to keep himself alive when all these vultures are finished, they would have killed their golden goose so to speak.
+
+Because the state is a tiny minority of the population they cannot possibly maintain their expropriation through violence, they could be trivially overwhelmed by the mass of people they rob. Instead, the state maintains itself through positive public opinion---essentially, if the vast majority of people who are getting taxed are of the opinion that this theft is not to be actively resisted, the state can continue unmolested.
+
+The way that the state maintains this positive public opinion is through ideology propagated by intellectuals. Such a relationship between the state and intellectuals is symbiotic; most intellectuals do very little and would be out of a job without the government around, so they propagate the myth that taxation is necessary or even good for society, in exchange they get to keep pottering about studying ancient african war rituals, or niche beetle varieties whether people actually care enough to pay for this service willingly or not.
+
+Thus, a strategy emerges for the anarchist, he must become an anti-intellectual intellectual. To engage in effective anarchist praxis one must merely convince others of the plain and simple truth that consent is king and that this does not break down just because some nerd in a tweed jacket says so. Insofar as a large population is able to be convinced that taxation should be resisted the state will have no way to overpower them, quite the contrary, this large population may easily resist any attempts at state aggression. Furthermore, now that the state has been thwarted, the rest of the apathetic masses will simply go along with the flow which means that you do not need to convince everyone to see the truth, only a small critical mass is required ...
+
+** CTA
+... and in order to go about convincing this critical mass you must stick absolutely to the principle of non-aggression, but you do not yet have all of the tools to know why this is the case so this means you have to watch this video where I explain why deviations from principle are strategically impotent.
+
+* Footnotes
+
+[fn:1]See Kenneth A. Zahringer (2011), "Cardinal Utility: It's Worse Than You Thought," /Mises Daily/, https://mises.org/library/cardinal-utility-its-worse-you-thought, ([[https://archive.ph/OVQKs][archived]]).
+
+[fn:2]Hans-Hermann Hoppe (1998), Introduction to Murray Rothbard, "The Ethics of Liberty," second edition.
+
+[fn:3]Stirner, Max. The Ego and Its Own, p. 248.
+
+[fn:4]Murray Rothbard, "On The Duty Of Natural Outlaws To Shut Up"

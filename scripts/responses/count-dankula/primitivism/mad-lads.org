@@ -1,0 +1,249 @@
+#+title: What Count Dankula Gets Wrong About Ted Kaczynski (49C)
+
+[[./thumb/thumb0-0.png]]
+
+* SEO Checklist :noexport:
+** Points to hit [0/16]
++ [ ] who's the character?
+  + [ ] their want?
+  + [ ] their need?
+  + [ ] their flaw?
+  + [ ] how do they grow?
+  + what story/journey could the above create?
++ [ ] what's the desire/motivation of the story?
++ [ ] what's the obstacle?
++ [ ] what're the stakes --- why is it important?
++ [ ] make them care
+  + [ ] show what you have so the audience feels the loss when you lose it
++ [ ] what's the resolution --- the one core idea that is the final message of the video that wraps everything up?
+  + deliver on the title and thumbnail
++ [ ] storyboard it [0/3]
+  + [ ] storylines you have
+  + [ ] hook for each
+  + [ ] different things that can happen
++ [ ] attach a story to every point I make and tell the story before I make that point
++ [ ] answer questions using spectacle
++ [ ] if things go static stories die, because life is never static.
++ [ ] drama is anticipation mingled with uncertainty
++ [ ] make comment goals (2 or 3)
++ [ ] cater to the archetypal viewer
++ [ ] reference popular media
++ [ ] Make an audience proxy (state things the viewer is thinking)
++ [ ] Problem every 2 minutes
+** Intro [0/4]
++ [ ] 8 words right at the start explaining the concept
+  + almost?
++ [ ] Personal (character) motivation
++ [ ] Create an enemy
+** Questions to ask [0/11]
++ [ ] is there incentive to watch until the end?
++ [ ] can I add something?
++ [ ] what are the different loops that I can open?
++ [ ] what are the different questions that the viewer could ask themselves?
++ [ ] what's the hook?
++ [ ] what do viewers need to see in the first few seconds based on the title and thumbnail so that they feel like their click is worth it?
++ [ ] is there a way to make the viewer laugh or feel surprised or feel something in the first 10 seconds?
++ [ ] is there a way to have two storylines?
+  + [ ] surface level story, and hidden stories (finding nemo is ostensably about finding nemo, but really about marlon addressing his insecurities as a father)
+  + [ ] is there a way to build surface level and underlying tension in each story?
+    + short term: will dory's short term memory make her forget what marlon told her, long term: will we find nemo?
++ [ ] am I giving them 4 or 2+2?
+  + https://www.youtube.com/watch?v=KxDwieKpawg
++ [ ] in doing X big thing [0/3]
+  + [ ] what do I want?
+  + [ ] what happens if I dont get what I want?
+  + [ ] what will I do to get what I want?
+** Editing [0/5]
++ [ ] Show where possible
++ [ ] if theres a bit of information where you can delete what is before and after it and it flows just as well, cut it
++ [ ] tell stories with B-roll
++ [ ] Keep pace as fast as humanely possible, without impacting the pacing
++ [ ] add breather moments to allow for the pace to not feel too fast https://www.youtube.com/watch?v=o8ZbGnwXjj4
+** How to keep people watching [0/23]
++ [ ] deliver on title and thumbnail (video "I ate 100 bananas" shouldnt start with people eating apples or you buying bananas)
++ [ ] /exceed/ the expectations made by the thumbnail
++ [ ] instantly explain the payoff
++ [ ] tell them why to watch
++ [ ] get right into content after delivering
++ [ ] remove every dull moment
++ [ ] find 10 most critical people you know to roast your video
++ [ ] payoff at the end
++ [ ] you can make anything work but it has to be interesting to the audience, original, and good
++ [ ] big stunts
++ [ ] the title should be "bananas are the best food on the planet" rather than "I like bananas"
++ [ ] consider what the experience will be for people in the video, if they liked it they might want to watch more of your videos.
++ [ ] viewers can tell when you are half-assing
++ [ ] (storyline) have an objective
++ [ ] stay on topic
++ [ ] no filler, only content that is neccesary to the narrative and meets the expectations
++ [ ] for payoff have the clear goal that is teased throughout the video
++ [ ] build anticipation to the payoff
++ [ ] wait until the very end to give the payoff
++ [ ] watchtime is not created equal, engagement and viewer surveys will differentiate between a good 25min video and a great one
++ [ ] Signal to the viewer early on that you know something that they dont, e.g. "I've uncovered something about Elon Musk that nobody is talking about."
++ [ ] Get rid of signposting, e.g. over-explaining and ‘telling’ the viewer what's about to happen instead of ‘showing’ them.
++ [ ] subtly re-introduce the hook at several points in the video, most viewers forget what the incentive to watch is 5 or 6 minutes in
+** Thumbnail
++ concept more important than aestethics
++ borrow from other successful videos (yoink and twist)
++ make the dominant subject someone people know (so not me when starting off)
++ provide action
++ portray the story of the video
++ other parts of the image shouldnt take focus away from the important, clickable, elements
++ confusion doesnt make people want to click, curiosity \ne confusion
++ should be accurate in the most visually applealing way
++ should be simple and clear
++ colourful and bright
++ have 2-3 different versions of the thumbnail to A/B test
++ check how they look across youtube (thumbsup.tv)
++ recognisable figures improve CTR
++ you probably only want 1 person in your thumbnail (obviously just a rule of thumb)
++ spike their curiosity so much that they will wonder what happened if they dont click
+** Title
++ "and this happened" is better than "what happens next will shock you"
++ a good title says what it needs to say in as few characters as possible
++ opening a loop is a method of building curiosity---aka curiosity gap
++ Jake Thomas formula https://www.youtube.com/watch?v=D7gsUUhkA6s
+  + Fear
+  + Curiosity
+  + Desire
+  + power phrases https://twitter.com/jthomas__/status/1533078603356942337
+    + 🌞 Change my Life
+      + vague
+      + opens a loop
+      + speaks to a big desire
+    + ⚖ The Truth About
+      + opens a loop
+      + starts a story
+      + negativity - "what is the truth about"
+      + revealing - getting insider info
+    + 🛑 I Stopped
+    + 🛏️   I Regret
+    + 🥷 Do This
+    + ⏱️   In [Time Frame]
+    + 🐣 Beginner
+    + 🚫 Without
+    + 🤡 You’re Doing It Wrong
+    + 🧙‍♂️   This Is What I’d Do
+** End Screen
++ Next logical step
++ What do the avatars care about?
++ Make people want to know what happens next.
++ be persuasive
+  + mention the avatars desire
+  + point out what more there is for them to do
+    + use "have to"
+  + describe the result of them doing that.
++ be confident that the linked video is good
+* Notes
+** Absolute Mad Lads - Ted Kaczynski, https://www.youtube.com/watch?v=EE-dAerfrWk&t=2252
++ Ted's message is flawed, not something to be supported by libertarians
++ "Ted argues that technological process strips us of our basic liberty and has made us subservient to the technological system itself by reducing us to mere cogs in the machine that maintains it. Which has lead to the rise of both big governments and corporations, in addition to many of the social ills that plague our society today."
++ "This subservience is caused by the fact that as technology progresses, the system based around it increases in scope which has moulded society around supporting its growth"
+  + cashless society example---the fault of central banking, not development
++ "how does the system get away with the wanton erosion of our liberties like this?"
+  + "system distracts us by providing increasingly impotent populations with the feeling of security, through fulfilling their physical needs for them as it takes away their freedom."
++ power process---"the gameplay loop of human life, we make a goal and then put in effort to attain it. The most important part is having the autonomy to do so however we wish, even if the method we choose should fail. Ted argues that technological society has robbed us of this power process because the things we need to survive are all practically handed to us on a silver platter, and we dont need to put in any /real/ effort to attain them. Which means that basic human needs just arent as fulfilling as they used to be."
+  + "which is more satisfying, applying your own knowledge and ability to build a hut etc, or signing a lease and going down to tesco"
++ "efficient attainment of ends is a coping mechanism, less efficient is better"
++ "these ends are less satisfying because they do not fulfil our biological needs"
++ "technology causes a destruction of the environment which is bad "
+  + "replacement with trees and grass with steel and concrete"
+    + "Ted says shrinking of the domain of nature is bad"
++ acknowledges the contradiction at the end
+** Manifesto
++ life expectancy up but life now unfulfilling, with indignities and widespread psychological suffering, and severe damage to the natural world.
++ No way of modifying the industrial system so as to not deprive people of dignity and autonomy.
++ Power Process --- human beings require a struggle for power in order to be fulfilled.
+  + elements of the power process are goal, effort, attainment of goal and autonomy (end, labour, achieving the end, autonomy)
+  + to maintain fulfillment in an industrial society men engage in "surrogate activities," Ted cites emperor Hirohito who devoted himself to marine biology, becoming distinguished in this field.
+    + this is supposedly an artificial goal, but what is the scientific distinction between wishing to remove the uneasiness of hunger with that of wishing to remove the uneasiness of not knowing enough about whales?
+    + moreover, is this not simply lamenting the fact that men are now able to achieve ever-more niche wants, implying that their more urgent wants have been more easily met? Why is it bad to have your ends more efficiently met?
++ "For many if not most people, surrogate activities are less satisfying than the pursuit of real goals ( that is, goals that people would want to attain even if their need for the power process were already fulfilled)."
+  + lets break this down; the attainment of supposed "artificial goals" is less satisfying than the pursuit of real goals---real goals being those goals that men would want to attain without the power process, namely without that process characterised by goal, effort, attainment of goal, and autonomy.
+    + This is entirely circular, the definition of a real goal includes the word for goal---real goals are characterised by those goals that exist even without the process characterised by /goal/, effort, attainment of /goal/, and autonomy. What is a real goal!?
++ "One indication of this is the fact that, in many or most cases, people who are deeply involved in surrogate activities are never satisfied, never at rest. Thus the money-maker constantly strives for more and more wealth. The scientist no sooner solves one problem than he moves on to the next. The long-distance runner drives himself to run always farther and faster."
+  + this literally just describes action lmao, men necessarily are always seeking to attain their highest valued end---this includes primitives.
++ "Autonomy as a part of the power process may not be necessary for every individual. But most people need a greater or lesser degree of autonomy in working toward their goals. *Their efforts must be undertaken on their own initiative and must be under their own direction and control*."
+  + so just no coercion? How does this have anything to do with capital development?
++ sources of social problems --- "There is good reason to believe that primitive man suffered from less stress and frustration and was better satisfied with his way of life than modern man is."
+  + he, of course, provides literally no citation for this claim.
++ "Beyond that, a technological society HAS TO weaken family ties and local communities if it is to function efficiently."
+  + again, /why/?
+    + "In modern society an individual's loyalty must be first to the system and only secondarily to a small-scale community, because if the internal loyalties of small-scale small-scale communities were stronger than loyalty to the system, such communities would pursue their own advantage at the expense of the system."
+      + /must/? How does intra-community interests superceding inter-community interests imply that a high level of capital development is impossible?
++ "We divide human drives into three groups: (1) those drives that can be satisfied with minimal effort; (2) those that can be satisfied but only at the cost of serious effort; (3) those that cannot be adequately satisfied no matter how much effort one makes. The power process is the process of satisfying the drives of the second group. The more drives there are in the third group, the more there is frustration, anger, eventually defeatism, depression, etc."
+  + what principled difference is there between (1) and (2)? We note that opportunity cost is ordinal and subjective, so its impossible to state objectively the degree of cost, only its relative standing to other costs.
++ "It is true that primitive man is powerless against some of the things that threaten him; disease for example. But he can accept the risk of disease stoically. It is part of the nature of things, it is no one's fault, unless is the fault of some imaginary, impersonal demon. But threats to the modern individual tend to be MAN-MADE. They are not the results of chance but are IMPOSED on him by other persons whose decisions he, as an individual, is unable to influence. Consequently he feels frustrated, humiliated and angry."
+  + Whats the difference? Either way he is, by definition, powerless to control it. The only difference I can see is that the industrial man has far /fewer/ things outside of his control.
++ "Thus science marches on blindly, without regard to the real welfare of the human race"
+  + technological development in the unhampered market per se only occurrs insofar as men believe it will be of use to them in increasing their wealth.
++ "By "freedom" we mean the opportunity to go through the power process, with real goals not the artificial goals of surrogate activities, and without interference, manipulation or supervision from anyone, especially from any large organization."
+  + those "real goals" being defined as type (2) goals
+* Response Comment
+Your analysis of Ted's message being based is deeply flawed---primitivism is false and evil to its core and not something to be supported by libertarians. I will rely solely on your framing of Teds primitivism to demonstrate this, as there are minor differences between primitivists, and I want to particularly attack the kind that you see as valid.
+
+You begin by pointing out that Ted argues that technological development tends people towards becoming mere cogs in the machine, which then causes the rise of many social ills such as statism. However, this argument is odd, in that statism itself implies the destruction of civilisation, as Hoppe has shown in DTGTF section 1, "On Time Preference, Government, and the Process of Decivilization," because you yourself have recommended DTGTF, I shall forego re-stating this argument here. What this leaves us with is a contradiction, the development of civilisation is also the regression of civilisation---as we know, contradictions are falsehoods, therefore this thesis cannot possibly be correct, however tempting it may seem.
+
+You go on to state that subservience is caused by the fact that as technology progresses, the system based around it increases in scope which moulds society around supporting its growth. What is of note here is that the "it" which is growing--the system based around technological progression--is the division of labour. An increase in the scope of and a tendency for society to support the growth of the division of labour is a very good thing---this is anti-apocalypse. Your example of this growth being a bad thing--the march towards a cashless society--is flawed in that such a march is occurring due to state interference in the monetary system through the use of central banking. We see here that the true issue is statism, not technology. This is a common flaw in primitivist thinking, they attribute flaws where they do not belong.
+
+We again must return to DTGTF, in response to your citing of the system distracting us by providing impotent populations with the feeling of security, through fulfilling their basic needs as the cause of people ignoring the wanton erosion of our liberties. It is clear to me that such an ignorance is the result of democracy, not of technology.
+
+Furthermore such a disparagement of having our basic needs met is absurd. Man is faced with scarce means that must be economised towards the attainment of numerable ends, if he is more able to meet the ends of getting water and food, he can re-allocate those scarce means towards the attainment of other ends. Anything short of this is an advocacy of subsistence living, which is a performative contradiction when such an advocacy is done by anyone who chooses to not live like this---including Ted. Moving on, the further assertion that a more efficient allocation of means is less fulfilling as it is not in mere service of survival lacks any scientific rigour. If a man chooses the more efficient path--as he invariably will--he is demonstrating that he himself expects this path to satisfy him more than the alternative. In short, asserting that this man is living a less satisfying life is an inter-personal comparison of utility. To escape this, the primitivist requires some objective theory of ethical value, or we are stuck with plain old utility.
+
+Now, on the environmentalist point, that the shrinking of the domain of nature is bad. This is flawed in that it is nakedly anti-human, the very purpose of action is that it shrinks the domain of nature, warping those nature given goods into forms that are better suited for mans satisfaction.
+
+Lastly, you acknowledge that you are in contradiction, by recognising the hypocrisy in saying that Ted was right over the internet. Unfortunately, such a recognition of hypocrisy does not resolve the contradiction, and thus you remain in falsehood.
+* Main Body
+** Introduction
++ ted is evil
+  + is ted the enemy?
+    + no story though right, its not a historic account
++ dankula is wrong
++ what is the concept?
+  + that dankula is wrong about Ted
+    + what is he wrong about specifically?
+      + Dankula thinks that Ted is based but he is very much not based
+
++ Count Dankula is wrong in his video when he claims that Ted Kaczynski is based.
+  + 15 words
++ Count Dankula thinks Ted Kaczynski is based, he is wrong
+  + 10 words
+
+Count Dankula is wrong that Ted's manifesto contains anything approaching the based red pills that hes claims are there. Rather the entire primitivist ideology is riddled with fantastic errors leading to perhaps the most anti-human ethics that one could think of. Stick around and I will explain exactly why this is the case.
+** Technological Development Causing Social Ills
+Dankula begins his review by pointing to the argument that technological development leads us to the many social ills we see today by stripping us of our liberty which reduces us to mere cogs in the machine under the boot of the state. This argument is flawed in that the state istelf enacts a de-civilising tendency on society due to the taxation it engages in. In short, a man can only acquire taxable assets through production, homesteading or trade, therefore a tax discourages people from producing, homesteading and trading---choosing to instead engage in more non-productive leisure. Therefore, there will be a lower level of capital development than otherwise. This has a side-effect in that it will tend to raise peoples time preferences---in other words taxation is actively pushing people towards barbaric savages concerned only with the present and away from civilised gentlemen who plan far into the future. Therefore this argument of Ted's is a contradiction in asserting that capital development is capital regression. As we know, contradictions are falsehoods, meaning this thesis cannot possibly be correct, however tempting it may appear.
+
+** Division of Labour Implies Subservience
+Dankula goes on to state that societal subservience is caused by the fact that as technology progresses, the system based around it increases in scope which inherently moulds society around supporting its growth. The problem here is that the 'system based around' technological progress is in fact the division of labour. So to translate from Primitivist into standard parlance, societal subservience is caused by the fact that as technology progresses, the division of labour increases in scope. After unpacking that phrase it is baffling to me that anyone could see it as a bad thing---a furthering of the division of labour is fantastic for society. It is precisely this leveraging of comparative advantage that brings society out of bare subsistence and into a world where we can live lives of a higher quality than most medieval kings. This is something we should be immensely grateful for.
+
+Dankula does cite a supposed counter-example in hopes of demonstrating such development to be a bad thing in the slow march towards a cashless society. This example is flawed in that said push is a direct result of state central banking, not any inherent flaw in capital development. We see here that the real issue is statism, not technology---this is a common flaw in primitivist thinking, they attribute issues where they do not belong.
+
+The argument continues with stating that erosion of our liberties is achieved in the technological society by providing populations with the feeling of security by having their basic needs met. There are two ways to interpret this, either we say that the basic needs are met through some manner of poverty subsidy, or they are met simply by being of such low cost to seem almost free. The latter case is the result of the division of labour which I have described above, and the former strikes me as being blatantly the fault of democracy, not technology. As Hoppe describes in Democracy The God That Failed,[fn:1] the democratic state will be incentivised to not only re-distribute wealth towards itself in straight tax, but also to redistribute wealth from unfavoured groups towards favoured groups outside of its own apparatus. This is in effect a strategic buying of favour to keep the masses impotent to stop it.
+
+** Efficiency Bad >:(
+Moreover, the naked disparagement of having basic needs met is simply absurd. Man is faced with scarce means that must be economised towards the attainment of numerable ends, if he is more able to meet the ends of, say, getting water and food, he can now free up some of the labour that would be spent there towards attaining yet more ends. To wag ones finger at this is nothing more than an advocacy of subsistence living, which is contradicted when said advocacy is performed by anyone who chooses to not live like a lowly grub or a common beast---including Ted, as even he kept his shack, his typewriter and his bike among other small luxuries.
+
+Moving on, the further assertion that a more efficient allocation of means is less fulfilling as it is not in mere service of survival lacks any scientific rigour. If a man chooses the more efficient path--as he invariably will--he is demonstrating that he himself expects this path to satisfy him more than any alternative. In short, asserting that this man is living a less satisfying life is simply applying ones own preferences onto this other man, but what makes other peoples preferences more "right" than the person in question? Moreover, this would be classed as an inter-personal comparison of utility---an impossibility in economics. To escape this pit, the primitivist would require some objective theory of value outside of standard economics, until such a theory is elucidated the thesis is nothing but a fart in the wind to be confidently ignored.
+
+** Against The Power Process
+Now, I must attack Ted's theory of the 'power process' in some depth. The thesis goes as follows; human drives can be divided into three groups: (1) those drives that can be satisfied with minimal effort, (2) those that can be satisfied but only at the cost of serious effort, and (3) those that cannot be adequately satisfied no matter how much effort one makes. Further, humans require a struggle for power in order to feel fulfilled, this power process is the process of satisfying those ends of type two, this is a sort of ideal middle-ground. If you have a bunch of type (1) drives you become stagnant, if you have a bunch of type (3) drives you become riddled with mental health issues.
+
+The question must be asked though; what exactly is the principled difference between ends of type (1) and type (2)? We note that opportunity cost--the praxeologic 'effort' that is expended in attaining the goal--is subjective and ordinal. So it is impossible to state the /cardinal/ degree of a given cost, only its relative position to other costs. Let's demonstrate this with an example; John has 1 hour of leisure time before he has to go back to work, and there are two things that he could do in this hour. He could either watch a baseball game, or go for a bike ride. The opportunity cost of watching the baseball game is equal to the value attached to going on the bike ride, similarly the opportunity cost of going on the bike ride is equal to the value attached to watching the baseball game. We suppose that John chooses to watch the baseball game, therefore we can say that the opportunity cost of this course of action was lower than the other course, but we cannot say by how much.
+
+Moreover, consider Bob who also has an hour of leisure and chooses to spend it eating a hotdog in the local park. What could we possibly say about the opportunity cost of eating this hotdog in comparison to the opportunity costs of John? Clearly it makes no sense to compare these values between people. What does this leave us with respect to Kaczynski's above classification schema for ends? A man will necessarily always be seeking to attain the end with the lowest cost, so is he always pointed at type (1) ends? Without a sound definition of 'effort' the theory has no basis in truth.
+
+Ted does give an example of one of these type (1) ends which he terms 'surrogate activities,' in Emperor Hirohito, who dedicated much of his time to becoming a distinguished marine biologist. This is supposedly an 'artificial' goal, in contrast to the 'real' goal of feeding oneself. But what exactly makes removing the uneasiness of hunger any more 'real' than removing the uneasiness of not knowing enough about marine biology? Again, Ted's theory is nothing more than flashy wordplay with no sound basis in science or philosophy.
+
+** Environmentalism Good :D
+Dankula also elucidates the Kaczynski environmentalist point, that the shrinking of the domain of nature is bad. Such an ethic is flawed in its anti-human implications---the very purpose of action which is a pre-requisite for human life and prosperity, is to shrink the wilds back and transform them into forms that are better suited to satisfy man. This is a good thing, a truly wild koombaya world is necessarily a world that humans would dispise by their own demonstration.
+
+** Dankula Admits His Falsehood
+Lastly Dankula acknowledges that he is in contradiction with the hypocrisy inherent in advocating Ted's primitivism over the internet. Unfortunately such a recognition of hypocrisy does not resolve the contradiction---knowing that you are wrong does not make you right. It is the duty of rational men to purge any falsehoods from their minds and their actions.
+
+** CTA
+This video has been focusing mainly on Dankula's interpretation of primitivism, but this is not all there is to know about the subject, so you have to watch this video if you want an even greater assault on the apocalyptic ideology of primitivism.
+
+* Footnotes
+
+[fn:1]Hans-Hermann Hoppe (2001), /On Time Preference, Government, and the Process of Decivilization/, in idem. /Democracy: The God That Failed/, pp. 29--33
