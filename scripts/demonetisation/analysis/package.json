@@ -1,0 +1,25 @@
+{
+  "name": "analysis",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.14.2",
+    "@vitest/ui": "^0.29.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5",
+    "vitest": "^0.28.5"
+  },
+  "dependencies": {
+    "chart.js": "^4.2.1",
+    "chartjs-node-canvas": "^4.1.6",
+    "inversify": "^6.0.1",
+    "reflect-metadata": "^0.1.13",
+    "zod": "^3.20.6"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "ui": "vitest --ui",
+    "start": "ts-node ./src/index.ts"
+  }
+}

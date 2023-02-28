@@ -1,0 +1,82 @@
+#+title: Analysis
+
+* YouTube video info script
+Once executed this will add a right-click menu option to copy relevant information from the video in question.
+#+begin_src js
+(()=>{
+    const getButton = (label, listener) => {
+        let butt = document.createElement('button')
+        butt.innerHTML = label
+        butt.addEventListener('click', listener) // navigator.clipboard.writeText(`test`)
+        return butt
+    }
+
+    const playlist = document.getElementsByTagName('ytd-playlist-video-renderer')
+
+    for(let video of playlist){
+
+        // try-catch is required, sometimes the script will error on broken videos
+        try{
+            const duration = video.getElementsByClassName('ytd-thumbnail-overlay-time-status-renderer')[1].innerHTML.trim()
+            const id = video.getElementsByTagName('a')[0].href.split('v=')[1].substring(0,11)
+
+            video
+                .getElementsByTagName('div')[17]
+                .insertAdjacentElement(
+                    'afterbegin',
+                    getButton(
+                        'Stream',
+                        ()=>{
+                            navigator.clipboard.writeText(`
+  {
+    id: "${id}",
+    duration: "${duration}",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },`)
+                        }
+                    )
+                )
+
+            video
+                .getElementsByTagName('div')[17]
+                .insertAdjacentElement(
+                    'afterbegin',
+                    getButton(
+                        'Thesis',
+                        ()=>{
+                            navigator.clipboard.writeText(`
+  {
+    id: "${id}",
+    duration: "${duration}",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },`)
+                        }
+                    )
+                )
+
+            video
+                .getElementsByTagName('div')[17]
+                .insertAdjacentElement(
+                    'afterbegin',
+                    getButton(
+                        'Meme',
+                        ()=>{
+                            navigator.clipboard.writeText(`
+  {
+    id: "${id}",
+    duration: "${duration}",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme
+  },`)
+                        }
+                    )
+                )
+        }catch(e){console.error(e)}
+    }
+})()
+#+end_src

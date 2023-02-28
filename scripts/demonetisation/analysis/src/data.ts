@@ -1,0 +1,1439 @@
+import { IVideo, EVideoType, EReuse, EGenre } from "./types";
+
+export const Exclusions: string[] = [
+
+    'seyc0x4-HOM',
+
+    '4I6gxtaLkmo',
+
+    'kzmr8dKDwaI',
+
+    'PRNVlVNBGww',
+
+    'WiMIWlV2FXA',
+
+]
+
+export const Videos: IVideo[] = [
+  {
+    id: "Und-UYkh6vo",
+    duration: "2:04:41",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "IuBLFw2SJx0",
+    duration: "0:14",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc,
+  },
+  {
+    id: "t-4jxx6SLtU",
+    duration: "1:43:14",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "LSsU99vHrQk",
+    duration: "0:12",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.misc,
+  },
+  {
+    id: "IJEY7cJoqfQ",
+    duration: "1:21:26",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "O5alTjW-6xE",
+    duration: "3:43",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.misc,
+  },
+  {
+    id: "_sGV_AQBUNE",
+    duration: "0:12",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme,
+  },
+  {
+    id: "jvD918MEqNI",
+    duration: "0:05",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc,
+  },
+  {
+    id: "m6_YlO9VQek",
+    duration: "0:03",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc,
+  },
+  {
+    id: "NnXD7_PITdk",
+    duration: "0:20",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc,
+  },
+  {
+    id: "4xKjHHzLUQQ",
+    duration: "47:34",
+    videoType: EVideoType.video,
+    reuse: EReuse.light,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "qvs7BuAzN20",
+    duration: "47:34",
+    videoType: EVideoType.video,
+    reuse: EReuse.light,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "WMUzwMpAsIw",
+    duration: "47:34",
+    videoType: EVideoType.video,
+    reuse: EReuse.light,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "VsHmtCaikvo",
+    duration: "0:19",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.meme,
+  },
+  {
+    id: "KzHA3KLL7Ho",
+    duration: "17:43",
+    videoType: EVideoType.video,
+    reuse: EReuse.light,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "RkSNl91dTgI",
+    duration: "0:27",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc,
+  },
+  {
+    id: "39IreFlZpEs",
+    duration: "0:56",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "DRA6rLvHARE",
+    duration: "7:30",
+    videoType: EVideoType.video,
+    reuse: EReuse.light,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "hD_c1bayfOk",
+    duration: "32:51",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "hMnornQEcSs",
+    duration: "3:29",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "8HhWhqTCKUI",
+    duration: "18:58",
+    videoType: EVideoType.video,
+    reuse: EReuse.light,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "bkHYEyM618c",
+    duration: "1:17:19",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "8Zj7-jvE2Ac",
+    duration: "2:03",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme,
+  },
+  {
+    id: "MGUzeRcYUEM",
+    duration: "52:31",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "CVEm8P5oI8g",
+    duration: "0:10",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc,
+  },
+  {
+    id: "pK6ik7qBreU",
+    duration: "2:36",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "ISvXrKBKsHc",
+    duration: "7:24",
+    videoType: EVideoType.video,
+    reuse: EReuse.light,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "ON4UAFGLQY8",
+    duration: "1:01:45",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "N8bFjE-TjYo",
+    duration: "51:26",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "w0xZzomyZ_I",
+    duration: "2:07:25",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "vxIIwnVh1xQ",
+    duration: "42:05",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "8Y3oAKqmHPI",
+    duration: "1:00:36",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "PihYNEjUKgU",
+    duration: "1:03:05",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "dhWHOyjtPwM",
+    duration: "2:09:26",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "X5kjy71ENhI",
+    duration: "3:22:11",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "4Jn58TlI8sc",
+    duration: "24:15",
+    videoType: EVideoType.video,
+    reuse: EReuse.light,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "IMULc9_j5Zg",
+    duration: "0:28",
+    videoType: EVideoType.video,
+    reuse: EReuse.light,
+    genre: EGenre.misc,
+  },
+  {
+    id: "DxZKz_Lmce4",
+    duration: "1:26",
+    videoType: EVideoType.video,
+    reuse: EReuse.light,
+    genre: EGenre.misc,
+  },
+  {
+    id: "OJLbiO7_iCc",
+    duration: "0:41",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc,
+  },
+  {
+    id: "CKcmDaO517w",
+    duration: "0:06",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc,
+  },
+  {
+    id: "1iH4FqMDE0Y",
+    duration: "15:18",
+    videoType: EVideoType.video,
+    reuse: EReuse.light,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "M7h6lu7WoGk",
+    duration: "0:10",
+    videoType: EVideoType.short,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme,
+  },
+  {
+    id: "Wo98D1kOw_o",
+    duration: "4:48",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "b8Re6l1-qFw",
+    duration: "9:57",
+    videoType: EVideoType.video,
+    reuse: EReuse.light,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "7uleQ7ZWhhk",
+    duration: "1:04:11",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "wJF5CCgzFUU",
+    duration: "1:46:21",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "pFqOLhyo0fU",
+    duration: "0:08",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme,
+  },
+  {
+    id: "gHzHLEFjdlY",
+    duration: "3:20:06",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "PoNrXGH-SL4",
+    duration: "1:39:21",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "xs2bD5kECAo",
+    duration: "2:19:41",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "a3rPylKK4cc",
+    duration: "1:25:15",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "_XhAGD9yhUE",
+    duration: "1:36:01",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "pgDzsOundms",
+    duration: "3:07:25",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "AdbeJ5rcmHY",
+    duration: "1:53:41",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "wjEl-H97lBU",
+    duration: "1:26:01",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "CEGbA_DwRIM",
+    duration: "1:33:10",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "NaSTjyf4ZP8",
+    duration: "1:20:56",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "AnKgqVXYsxg",
+    duration: "28:40",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "hwR0QNZEuiM",
+    duration: "1:30:50",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "jiVml20OYwE",
+    duration: "1:17:55",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "oO90Io-cIi4",
+    duration: "2:19:50",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "7Ctge0NnVFA",
+    duration: "1:56:46",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "A8F01jxieV8",
+    duration: "11:59",
+    videoType: EVideoType.video,
+    reuse: EReuse.light,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "HM4T_WePgLQ",
+    duration: "1:35:06",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "fHX861BsxnM",
+    duration: "1:58:08",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "H_obubuFEQM",
+    duration: "15:37",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "VSe7iB2upZ0",
+    duration: "2:03:40",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "3xom_lKWJi4",
+    duration: "8:01",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "JE2V9Dtwlls",
+    duration: "57:35",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "Z5ru8mKW0HU",
+    duration: "33:10",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "M9SsNpfX_F0",
+    duration: "5:55",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "tRhHCehE6WQ",
+    duration: "0:05",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.misc,
+  },
+  {
+    id: "oNE5fpFfUgM",
+    duration: "3:02:48",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "G2A6cco5EJg",
+    duration: "1:23:45",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "ugUnS0a6PDI",
+    duration: "2:23:23",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "WXPkODWJdOk",
+    duration: "0:06",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc,
+  },
+  {
+    id: "aUaGATf5Yic",
+    duration: "21:31",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "YcBzRy3gAoQ",
+    duration: "1:38:28",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "SiLTYwtoodc",
+    duration: "3:10:02",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "CWnsIk0Jl-M",
+    duration: "1:23:35",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "3MCD12JthTQ",
+    duration: "4:12",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "60BzxKI2RHk",
+    duration: "1:40:57",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "3QGUeKxd5wQ",
+    duration: "5:52",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "VboNkxkkT9I",
+    duration: "4:50",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis,
+  },
+  {
+    id: "_AVfOOzGDQw",
+    duration: "1:37:08",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "SWLoWgbvZYk",
+    duration: "0:33",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate,
+  },
+  {
+    id: "p3RChugZNts",
+    duration: "0:02",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc,
+  },
+  {
+    id: "H4FHYWshtyQ",
+    duration: "41:44",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc,
+  },
+  {
+    id: "hpOgMMjW3A8",
+    duration: "25:03",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc,
+  },
+  {
+    id: "h07SVNnm5-g",
+    duration: "1:50",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc,
+  },
+  {
+    id: "7pxM75GKddg",
+    duration: "0:39",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc,
+  },
+  {
+    id: "JbJ39Hx7M_I",
+    duration: "1:09",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme
+  },
+  {
+    id: "064I02yeLhg",
+    duration: "13:12",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "lfIUyAY2A-o",
+    duration: "1:04:49",
+    videoType: EVideoType.stream,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "4_aghrwcW6Q",
+    duration: "31:02",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "_UYIC_GGYWw",
+    duration: "0:26",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "tOxnpNo_Wnk",
+    duration: "0:34",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "qvO_HwH12IU",
+    duration: "0:20",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "u6Y4UuUoGuo",
+    duration: "0:48",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "6RgVyhgv3oU",
+    duration: "0:12",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "hZWwfAk7epw",
+    duration: "1:51",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.misc
+  },
+  {
+    id: "EdD5Tl4wHYE",
+    duration: "0:30",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "7ISINLYkOe8",
+    duration: "11:52",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "pABGDkqz8IE",
+    duration: "0:18",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "-dW8cyH505I",
+    duration: "0:19",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme
+  },
+  {
+    id: "VmOqscEbbDI",
+    duration: "0:38",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "uWclx9tMsOs",
+    duration: "0:18",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme
+  },
+  {
+    id: "ekFik2VIgZY",
+    duration: "0:19",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme
+  },
+  {
+    id: "h9Lz3X-iZNE",
+    duration: "0:48",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "vZEExb7_2s8",
+    duration: "49:00",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "gcnX8ocYmGQ",
+    duration: "5:51",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "z-qT3P1Vlps",
+    duration: "0:41",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "2xbtJuhostQ",
+    duration: "5:02",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "zJvVG4nYCDM",
+    duration: "0:34",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "4Ch5wWZrTzQ",
+    duration: "1:59",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "NvhYZEwxEAw",
+    duration: "0:40",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "hf6GoK9Xc_w",
+    duration: "0:32",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "G6wnTHgzHZo",
+    duration: "1:03:53",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "473X5xs8ZIk",
+    duration: "4:17",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "06HvnfSNn90",
+    duration: "0:44",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "WGOWzvT7igs",
+    duration: "0:53",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "00TY-X6oBiM",
+    duration: "37:59",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "pR5UO1xJptI",
+    duration: "1:00",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "okPsovtPCRg",
+    duration: "0:52",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "am7tdvVfZSE",
+    duration: "0:49",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "UQJ6Q9vhVYg",
+    duration: "45:54",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "lnGobe-Z46s",
+    duration: "48:07",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "-uZ3vM4ijJY",
+    duration: "1:24:09",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "JYu_Z9h40N4",
+    duration: "38:36",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "Lz4-QRh14Xs",
+    duration: "1:28:08",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "-NCtUJM-uM8",
+    duration: "9:23",
+    videoType: EVideoType.video,
+    reuse: EReuse.light,
+    genre: EGenre.thesis
+  },
+  {
+    id: "-391URcYL7s",
+    duration: "30:51",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "MDiUfiTqLpQ",
+    duration: "1:50:28",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "mbIIjEn2-OI",
+    duration: "1:20:27",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "ZSaD-t09gug",
+    duration: "1:20:27",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "3Fc16iEOImg",
+    duration: "0:47",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "b8jVp9kc7Ag",
+    duration: "58:19",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "zDI1CBUwfmA",
+    duration: "0:29",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "DklRgL3EpJU",
+    duration: "0:37",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "U4RyQouvVyM",
+    duration: "1:53:31",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "6rtQILlyQc8",
+    duration: "0:59",
+    videoType: EVideoType.short,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "y5lnKiznOw8",
+    duration: "1:05:07",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "ORfrDFmS7Fc",
+    duration: "1:06:38",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "q7mMPvkdap4",
+    duration: "1:14:59",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.debate
+  },
+  {
+    id: "Ql8wWXOtMis",
+    duration: "4:19",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "glPfJKiD8sg",
+    duration: "8:18",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.thesis
+  },
+  {
+    id: "p2IBQRYxrKk",
+    duration: "0:15",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme
+  },
+  {
+    id: "1hLdfpsVwBE",
+    duration: "0:23",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme
+  },
+  {
+    id: "xysHrB8exf0",
+    duration: "0:15",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme
+  },
+  {
+    id: "P10t8iKGwVQ",
+    duration: "0:07",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme
+  },
+  {
+    id: "R0EqYWFw5UU",
+    duration: "0:21",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme
+  },
+  {
+    id: "lLisy0I5znE",
+    duration: "0:12",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme
+  },
+  {
+    id: "UGIHsesMvO8",
+    duration: "1:02",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme
+  },
+  {
+    id: "7kfdiFom9D0",
+    duration: "0:20",
+    videoType: EVideoType.video,
+    reuse: EReuse.light,
+    genre: EGenre.meme
+  },
+  {
+    id: "4wtZtWfDpj8",
+    duration: "0:14",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme
+  },
+  {
+    id: "EGlhekCDGY4",
+    duration: "3:58",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "VZLFG6Pfk8Q",
+    duration: "2:52",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "AMMFrkiUjV0",
+    duration: "13:00",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "IXEzPZanyec",
+    duration: "11:22",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "3PHPv7zCsis",
+    duration: "11:22",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "F3NN4qnbMlQ",
+    duration: "0:49",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "3qPoVA0HilE",
+    duration: "6:05",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "MsBlYpQfOKM",
+    duration: "14:35",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "69Gn8MlIbho",
+    duration: "0:16",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme
+  },
+  {
+    id: "CXrKXdHQL2g",
+    duration: "7:05",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme
+  },
+  {
+    id: "QBQbADvZxU4",
+    duration: "0:07",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.meme
+  },
+  {
+    id: "OJ60ofJYatU",
+    duration: "0:43",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "a2PYLDPGgro",
+    duration: "9:18",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "lPLorR5ltVI",
+    duration: "8:01",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "Qh_6CisOcwg",
+    duration: "14:59",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "X9U-DxwAjSI",
+    duration: "13:13",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "szHlHEUwqFc",
+    duration: "7:20",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "62jMnvxJR_M",
+    duration: "8:50",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "LJTiZOdE6ZI",
+    duration: "12:27",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "TJn8od3Zw3A",
+    duration: "4:46",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "WCGLCeWzm9Q",
+    duration: "6:02",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "mF9Y-pCz83o",
+    duration: "2:06",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "Q8r7ZmpO6gA",
+    duration: "2:21",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "pPsnvPq1hAE",
+    duration: "2:08",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "eWmuTEsWyzk",
+    duration: "0:03",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "5BWYEoRX7Vs",
+    duration: "0:54",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "O2oW0KoW-0E",
+    duration: "1:16",
+    videoType: EVideoType.video,
+    reuse: EReuse.light,
+    genre: EGenre.meme
+  },
+  {
+    id: "Uz2HHkrDnZQ",
+    duration: "1:17",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "bC3gjtNWPhQ",
+    duration: "0:06",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "w8JCPXoXWjg",
+    duration: "0:39",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "FZO-d_1ugrI",
+    duration: "0:24",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "OEk2yPFI6b0",
+    duration: "0:05",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "RNp192j2cCw",
+    duration: "0:02",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "hLUsb9nnvSk",
+    duration: "0:26",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "JFsEXSEtZNI",
+    duration: "0:24",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "ZMQ6yLLpWDc",
+    duration: "0:06",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "uIXuDzOK5bQ",
+    duration: "0:04",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  }, // seam
+  {
+    id: "JJrk_1QAxfs",
+    duration: "0:09",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "I2xOn-tue0U",
+    duration: "0:14",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "StHUrhZrL3U",
+    duration: "0:07",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "s3yAN6iliMA",
+    duration: "0:10",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "BTiQVuAMP60",
+    duration: "19:56",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.misc
+  },
+  {
+    id: "Nak9YyWA7Sc",
+    duration: "0:14",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "KYxla9_9IP4",
+    duration: "0:12",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "p2xwKSiBp4U",
+    duration: "0:18",
+    videoType: EVideoType.video,
+    reuse: EReuse.heavy,
+    genre: EGenre.meme
+  },
+  {
+    id: "J0LMINljOmg",
+    duration: "8:49",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "YpBs6zJwOOw",
+    duration: "10:01",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  },
+  {
+    id: "NN5tLzWxMXY",
+    duration: "10:01",
+    videoType: EVideoType.video,
+    reuse: EReuse.none,
+    genre: EGenre.misc
+  }
+];
