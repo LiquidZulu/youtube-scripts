@@ -1,6 +1,24 @@
 #+title: Analysis
 
-* YouTube video info script
+* Installation
+This program can be installed as follows:
+#+begin_src shell
+git init
+git remote add origin https://github.com/LiquidZulu/youtube-scripts.git
+git fetch origin
+git checkout origin/main -- scripts/demonetisation/analysis
+#+end_src
+
+Furthermore, you will need [[https://nodejs.org/en/][node.js]] and [[https://yarnpkg.com/][yarn]] to run it.
+
+* Running
+This program provides three scripts:
++ =yarn ui= is a development server to view the status of the vitest test suites.
++ =yarn test= runs the test suites in the terminal.
++ =yarn start= runs the program.
+
+* Utility
+** YouTube video info script
 Once executed this will add a right-click menu option to copy relevant information from the video in question.
 #+begin_src js
 (()=>{
