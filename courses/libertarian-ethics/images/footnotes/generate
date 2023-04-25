@@ -1,0 +1,5 @@
+#!/usr/bin/env fish
+
+for i in (seq 1 $argv)
+    magick -background transparent -fill "#0ea5e9" -font Cubano-Normal -pointsize 512 -gravity Center label:"\[$i\]" ./[$i].png
+end

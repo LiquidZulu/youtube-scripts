@@ -1,0 +1,1216 @@
+1
+0:00:00,000 --> 0:00:15,000
+[MUSIC] The Mini Vandals - In Memory of Jean Talon
+
+2
+0:00:15,000 --> 0:00:18,000
+6. Defensive force and proportionality
+
+3
+0:00:18,000 --> 0:00:19,960
+No doubt punishment serves many purposes.
+
+4
+0:00:19,960 --> 0:00:23,240
+It can deter crime and prevent the offender from committing further crimes.
+
+5
+0:00:23,240 --> 0:00:25,800
+Punishment can even rehabilitate some criminals, if it is not capital.
+
+6
+0:00:25,800 --> 0:00:30,280
+It can serve to satisfy a victim's longing for revenge or his relatives' desire to avenge.
+
+7
+0:00:30,280 --> 0:00:33,040
+Punishment can also be used as a lever to gain restitution, recompense for some of the
+
+8
+0:00:33,040 --> 0:00:34,480
+damage caused by the crime.
+
+9
+0:00:34,480 --> 0:00:37,640
+For these reasons, the issue of punishment is and always has been of vital concern to
+
+10
+0:00:37,640 --> 0:00:38,640
+civilized people.
+
+11
+0:00:38,640 --> 0:00:41,920
+They want to know the effects of punishment and the effective ways of carrying it out.
+
+12
+0:00:41,920 --> 0:00:42,920
+Stephan Kinsella
+
+13
+0:00:42,920 --> 0:00:47,040
+Thus far, this course has elucidated theories and examples denoting what is and what
+
+14
+0:00:47,040 --> 0:00:48,040
+is not aggression.
+
+15
+0:00:48,040 --> 0:00:51,080
+Now that we know what it means to be criminal, this lesson will answer the question of what
+
+16
+0:00:51,080 --> 0:00:54,120
+actions are just in defending against and punishing aggressions.
+
+17
+0:00:54,120 --> 0:00:56,080
+First, what does it mean to punish?
+
+18
+0:00:56,080 --> 0:00:58,840
+Dictionary definitions are easy to come by, but in the sense that interests those of us
+
+19
+0:00:58,840 --> 0:01:02,920
+who want to punish, punishment is the infliction of physical force upon a person, in response
+
+20
+0:01:02,920 --> 0:01:05,080
+to something that he has done or failed to do.
+
+21
+0:01:05,080 --> 0:01:08,520
+Punishment thus comprises physical violence committed against a person's body, or against
+
+22
+0:01:08,520 --> 0:01:12,920
+any other property that a person legitimately owns, against any rights that a person has.
+
+23
+0:01:12,920 --> 0:01:16,520
+Punishment is for, or in response to some action, inaction or feature or status of the
+
+24
+0:01:16,520 --> 0:01:20,320
+person punished, otherwise it is simply random violence, which is not usually considered
+
+25
+0:01:20,320 --> 0:01:21,320
+to be punishment.
+
+26
+0:01:21,320 --> 0:01:24,880
+Thus when we punish a person is because we consider him to be a wrongdoer of some sort,
+
+27
+0:01:24,880 --> 0:01:28,840
+we typically want to teach him or others a lesson, or enact vengeance or restitution
+
+28
+0:01:28,840 --> 0:01:29,840
+for what he has done.
+
+29
+0:01:29,840 --> 0:01:34,000
+Note that the question of justifying a punishment only arises in so far as the wrongdoer rejects
+
+30
+0:01:34,000 --> 0:01:35,560
+the justice of the punishment.
+
+31
+0:01:35,560 --> 0:01:38,840
+That is to say, if the criminal consents to a certain retaliation, this retaliation is
+
+32
+0:01:38,840 --> 0:01:42,720
+per se just, as there can be no conflicts where the wills of men are in harmony.
+
+33
+0:01:42,720 --> 0:01:46,720
+Justifying a punishment is far more challenging when the criminal does not consent, i.e., when
+
+34
+0:01:46,720 --> 0:01:49,800
+the criminal wishes to challenge the justice of a given punishment.
+
+35
+0:01:49,800 --> 0:01:53,240
+We know from prior analysis that this challenge seeks to test the justification against the
+
+36
+0:01:53,240 --> 0:01:55,960
+nature of argumentally justifying as such.
+
+37
+0:01:55,960 --> 0:02:00,120
+If the punishment cannot be justified without thereby falling into contradiction, it is unjust.
+
+38
+0:02:00,120 --> 0:02:03,960
+Therefore, the nature of argumentation is a suitable starting point to obtain a rational
+
+39
+0:02:03,960 --> 0:02:08,280
+theory of punishment, recall that contradictions are falsehoods, and thus not a feature of
+
+40
+0:02:08,280 --> 0:02:09,480
+a correct argument.
+
+41
+0:02:09,480 --> 0:02:13,800
+Therefore, a person can be prevented from making certain claims in a dialectic if those claims
+
+42
+0:02:13,800 --> 0:02:15,440
+are inconsistent with his actions.
+
+43
+0:02:15,440 --> 0:02:19,320
+To be abundantly clear, to avoid any confusion, the person is not being prevented from making
+
+44
+0:02:19,320 --> 0:02:23,720
+these claims by a judge or a cop or whatever, physically coercing him into not making claims.
+
+45
+0:02:23,720 --> 0:02:27,320
+He's prevented from making these claims by the very nature of dialectic as such.
+
+46
+0:02:27,320 --> 0:02:31,320
+In other words, if he did make those knowingly incorrect claims, he would not be engaged
+
+47
+0:02:31,320 --> 0:02:35,320
+in argumentation, he would rather be babbling or telling a joke or something else.
+
+48
+0:02:35,320 --> 0:02:38,880
+This forms the root of what Kinsella dubs "Dialogical Estoppel."
+
+49
+0:02:38,880 --> 0:02:43,080
+Lord Coke explains that the word estoppel is used because a man's own act or acceptance
+
+50
+0:02:43,080 --> 0:02:48,240
+stoppeth or closeth up his mouth, and dialogical refers to dialogue, aka argumentation, so
+
+51
+0:02:48,240 --> 0:02:52,040
+we can say that a man is, by the nature of argumentation as such, estopped from making
+
+52
+0:02:52,040 --> 0:02:54,680
+certain inconsistent or contradictory claims.
+
+53
+0:02:54,680 --> 0:02:57,440
+To say that a person is estopped from making certain claims means that these claims cannot
+
+54
+0:02:57,440 --> 0:03:01,440
+even possibly be right, because they are contradictory, is to recognise that his assertion is simply
+
+55
+0:03:01,440 --> 0:03:03,080
+wrong because it is contradictory.
+
+56
+0:03:03,080 --> 0:03:06,960
+Applying estoppel in such a manner perfectly complements the very purpose of dialogue.
+
+57
+0:03:06,960 --> 0:03:09,880
+Dialogue is by its nature an activity aimed at finding truth.
+
+58
+0:03:09,880 --> 0:03:13,000
+Anyone engaging in argument is necessarily endeavouring to discern the truth about some
+
+59
+0:03:13,000 --> 0:03:16,840
+particular subject, to the extent that this is not the case, there is no dialogue occurring,
+
+60
+0:03:16,840 --> 0:03:20,600
+but mere babbling or even physical fighting, nor can this be denied.
+
+61
+0:03:20,600 --> 0:03:23,920
+Anyone engaging in an argument long enough to deny that truth is the goal of the discourse
+
+62
+0:03:23,920 --> 0:03:27,840
+contradicts himself, because he is himself asserting or challenging the truth of a given
+
+63
+0:03:27,840 --> 0:03:28,840
+proposition.
+
+64
+0:03:28,840 --> 0:03:32,320
+Thus the assertion as true of anything that simply cannot be true is incompatible with
+
+65
+0:03:32,320 --> 0:03:36,200
+the very purpose of discourse, anything that cannot be true is contrary to the truth finding
+
+66
+0:03:36,200 --> 0:03:39,800
+purpose of discourse, and thus is not permissible within the bounds of a discourse.
+
+67
+0:03:39,800 --> 0:03:43,200
+Let us apply this theory of estoppel to the case of A punching B. Assume that this is
+
+68
+0:03:43,200 --> 0:03:46,320
+the extent of the assault, as the question of defending against an ongoing aggression
+
+69
+0:03:46,320 --> 0:03:48,240
+shall be discussed in the next section.
+
+70
+0:03:48,240 --> 0:03:52,440
+B decides that he wants to punish A in an eye-for-an-eye manner by punching him back,
+
+71
+0:03:52,440 --> 0:03:56,440
+or perhaps by hiring a champion C to punch A if B cannot or does not want to do this
+
+72
+0:03:56,440 --> 0:03:57,440
+himself.
+
+73
+0:03:57,440 --> 0:04:00,440
+If A were to challenge this punishment he would claim that this punching of him is an impermissible
+
+74
+0:04:00,440 --> 0:04:04,640
+action, i.e. that people should be prohibited from punching him, but A has previously demonstrated
+
+75
+0:04:04,640 --> 0:04:08,240
+that he thinks he should not be prohibited from punching B. A has presupposed that punching
+
+76
+0:04:08,240 --> 0:04:12,720
+people sans-consent is just, and is now explicitly making claim that it is unjust.
+
+77
+0:04:12,720 --> 0:04:14,640
+This is a clearly incoherent position.
+
+78
+0:04:14,640 --> 0:04:18,360
+Thus A is estopped from challenging his punishment, therefore we revert back to the simple case
+
+79
+0:04:18,360 --> 0:04:21,240
+of an unchallenged punishment, which is per se just.
+
+80
+0:04:21,240 --> 0:04:23,400
+Note that this applies only to punching as the punishment.
+
+81
+0:04:23,400 --> 0:04:27,200
+A could coherently argue that it is unjust to murder him, or to take a lock of his hair,
+
+82
+0:04:27,200 --> 0:04:30,800
+or to tear up his prized roses, as these retaliations would be of an entirely different
+
+83
+0:04:30,800 --> 0:04:31,800
+sort.
+
+84
+0:04:31,800 --> 0:04:35,760
+That is, by merely punching B, A presupposes only that punching is proper conduct, but
+
+85
+0:04:35,760 --> 0:04:39,960
+he does not per se presuppose that any other invasions of property borders are proper.
+
+86
+0:04:39,960 --> 0:04:42,240
+This is where the concept of proportionality comes in.
+
+87
+0:04:42,240 --> 0:04:45,840
+The retribution against an aggressor must come in the same form as the aggression, or
+
+88
+0:04:45,840 --> 0:04:48,920
+else the punishment is further aggression, and thus not just.
+
+89
+0:04:48,920 --> 0:04:53,200
+In short, just retribution is an eye for an eye, not an eye for a tooth.
+
+90
+0:04:53,200 --> 0:04:56,440
+There are a number of potential objections to this theory that A might forward.
+
+91
+0:04:56,440 --> 0:04:59,240
+First he might claim that his positions are not that punching is proper, and that punching
+
+92
+0:04:59,240 --> 0:05:03,560
+is improper, but rather that A punching B is proper, and anyone punching A is improper.
+
+93
+0:05:03,560 --> 0:05:07,080
+Thus there is no contradiction, and he is not estopped from challenging his punishment.
+
+94
+0:05:07,080 --> 0:05:11,040
+The issue here is that any norm must in principle be universalisable, if it is to be proposed
+
+95
+0:05:11,040 --> 0:05:13,200
+in an argument, as Hoppe points out.
+
+96
+0:05:13,200 --> 0:05:16,800
+Quite commonly, it has been observed that argumentation implies that a proposition claims universal
+
+97
+0:05:16,800 --> 0:05:20,800
+acceptability, or should it be a norm proposal that is universalizable.
+
+98
+0:05:20,800 --> 0:05:23,960
+Applied to norm proposals, this is the idea, as formulated by the Golden Rule of Ethics
+
+99
+0:05:23,960 --> 0:05:28,240
+or the Kantian Categorical Imperative, that only those norms can be justified, that
+
+100
+0:05:28,240 --> 0:05:31,840
+can be formulated as general principles, which are valid for everyone without exception.
+
+101
+0:05:31,840 --> 0:05:36,360
+This is because, if one is to claim any proposition is being argumentatively valid, said proposition
+
+102
+0:05:36,360 --> 0:05:37,720
+must be rational.
+
+103
+0:05:37,720 --> 0:05:41,520
+What this means is that it must in principle be valid, no matter who it is proposed to.
+
+104
+0:05:41,520 --> 0:05:45,080
+To reject this would be to adopt a polylogism, i.e. that a proposition might be true when
+
+105
+0:05:45,080 --> 0:05:48,960
+levied in one argument, but not when levied in another, and it was shown in the first lesson
+
+106
+0:05:48,960 --> 0:05:52,360
+that polylogism implies contradiction, making it false.
+
+107
+0:05:52,360 --> 0:05:56,560
+So universalizability is therefore a pre-supposition of the very normative discourse that A would
+
+108
+0:05:56,560 --> 0:05:59,760
+be partaking in by attempting to reject his punishment, but the norm that it is fine for
+
+109
+0:05:59,760 --> 0:06:03,560
+A to punch B, but not for others to punch A, is not universalisable.
+
+110
+0:06:03,560 --> 0:06:06,680
+We would be faced with a contradiction if we tried to swap out A for B and hold both
+
+111
+0:06:06,680 --> 0:06:10,840
+norms simultaneously, meaning this norm cannot be applied to everyone, an arguer cannot
+
+112
+0:06:10,840 --> 0:06:15,120
+escape the application of the estoppel by arbitrarily specialising his otherwise inconsistent
+
+113
+0:06:15,120 --> 0:06:18,200
+views with liberally sprinkled "for me only's."
+
+114
+0:06:18,200 --> 0:06:21,880
+Kinsella points out further that even if we were to throw away the requirement of universalisability,
+
+115
+0:06:21,880 --> 0:06:25,040
+and instead assume that norms can be particularised in this way, this would mean that B could
+
+116
+0:06:25,040 --> 0:06:29,120
+simply particularise his punishment norm, and thus claim it to be just for him to retaliate.
+
+117
+0:06:29,120 --> 0:06:33,400
+We would quickly regress into incoherent subjectivist ramblings of might making right, so this
+
+118
+0:06:33,400 --> 0:06:36,920
+objection by particularisation fails, leaving our aggressor estopped once more.
+
+119
+0:06:36,920 --> 0:06:41,000
+A second potential counter A might raise, however, is that he has changed his mind, i.e. he used
+
+120
+0:06:41,000 --> 0:06:44,200
+to think it proper to punch people, but he has had a change of heart and now realises
+
+121
+0:06:44,200 --> 0:06:48,160
+that such conduct is evil, and therefore he is not currently in contradiction, and thus
+
+122
+0:06:48,160 --> 0:06:50,280
+not estopped from objecting to his punishment.
+
+123
+0:06:50,280 --> 0:06:52,520
+There are a number of problems with A's approach here.
+
+124
+0:06:52,520 --> 0:06:56,640
+First, if changing one's mind means that one is no longer liable for prior actions,
+
+125
+0:06:56,640 --> 0:07:00,400
+then all B must do is punch A, then afterwards claim that he has changed his mind about that
+
+126
+0:07:00,400 --> 0:07:03,840
+punishment, meaning he is also not responsible. You'll notice that this would quickly devolve
+
+127
+0:07:03,840 --> 0:07:07,320
+into might-plus-regret and makes right, which would be an irrational ethic.
+
+128
+0:07:07,320 --> 0:07:11,840
+Second, by A changing his mind, he is per se denouncing his prior actions, thus asserting
+
+129
+0:07:11,840 --> 0:07:15,520
+that aggressions are indeed impermissible. This would mean that he could not coherently deny
+
+130
+0:07:15,520 --> 0:07:18,920
+the right of the victim of aggression to punish their aggression. To say that an action is
+
+131
+0:07:18,920 --> 0:07:21,520
+permissible is to say that one may not legally punish it.
+
+132
+0:07:21,520 --> 0:07:24,920
+Third, this mind-changing is still a form of particularisation, it is to claim that the
+
+133
+0:07:24,920 --> 0:07:28,400
+logical structure of what it means to presuppose an action as a legitimate can change by the
+
+134
+0:07:28,400 --> 0:07:31,880
+mere fact that the person presupposing said legitimacy also thinks that the action
+
+135
+0:07:31,880 --> 0:07:35,240
+is illegitimate. Let's unpack this. What A is asserting here is that they believe in
+
+136
+0:07:35,240 --> 0:07:38,320
+their heart that punching is illegitimate, whether they only start holding this fact
+
+137
+0:07:38,320 --> 0:07:41,600
+after doing the punching isn't particularly irrelevant. All that matters is that at the
+
+138
+0:07:41,600 --> 0:07:45,160
+moment of the assault, A must presuppose that punching is a legitimate action. This could
+
+139
+0:07:45,160 --> 0:07:48,880
+take place simultaneously with A believing it to be illegitimate or not, men are capable
+
+140
+0:07:48,880 --> 0:07:52,520
+of believing in contradictory things after all. What is important is that A cannot drop
+
+141
+0:07:52,520 --> 0:07:56,560
+the presupposition that punching is illegitimate. He has already committed the act of aggression
+
+142
+0:07:56,560 --> 0:08:00,840
+that presupposes this as a legitimate interaction. Because he cannot drop the presupposition,
+
+143
+0:08:00,840 --> 0:08:03,640
+in order to resolve the contradiction, he is left with only the option of dropping his
+
+144
+0:08:03,640 --> 0:08:06,760
+challenge to aggression. Therefore, he is estopped by definition.
+
+145
+0:08:06,760 --> 0:08:10,240
+I will reiterate this point for clarity. What makes a man estopped from challenging a given
+
+146
+0:08:10,240 --> 0:08:13,600
+punishment is that the given challenge would imply a contradiction, meaning that it cannot
+
+147
+0:08:13,600 --> 0:08:17,800
+be uttered in an argument. When I perform some action X, I thereby presuppose by this performance
+
+148
+0:08:17,800 --> 0:08:21,840
+that I think I should do X as opposed to not X. There is some confusion over this thesis.
+
+149
+0:08:21,840 --> 0:08:24,920
+Often, I have encountered the counter-argument of the man who is smoking and says that he
+
+150
+0:08:24,920 --> 0:08:28,360
+should stop. Does this man not believe that he should stop? Is he lying when he says he
+
+151
+0:08:28,360 --> 0:08:31,960
+should stop? That is not necessarily the case. We can indeed imagine a man who is currently
+
+152
+0:08:31,960 --> 0:08:35,880
+engaged in the act of smoking. A man who is chosen to smoke rather than not smoke, who
+
+153
+0:08:35,880 --> 0:08:39,880
+nonetheless believes that he should not smoke. This does not establish that he is not also
+
+154
+0:08:39,880 --> 0:08:43,800
+presupposing that he should smoke. It is possible for a person to hold two contradictory beliefs
+
+155
+0:08:43,800 --> 0:08:48,200
+at the same time. We call this cognitive dissonance. Consider the anarchist who goes through
+
+156
+0:08:48,200 --> 0:08:52,000
+the labor of demonstrating that taxation is theft and that theft is bad. Therefore,
+
+157
+0:08:52,000 --> 0:08:56,080
+taxation is bad, only to be confronted by a statist opponent who agrees that taxation
+
+158
+0:08:56,080 --> 0:08:59,800
+is theft and that is bad, but still asserts that taxation is a good thing that should
+
+159
+0:08:59,800 --> 0:09:03,360
+continue. It is clear to anyone who has encountered stupid people that a man is fully capable
+
+160
+0:09:03,360 --> 0:09:07,000
+of holding contradictory theses at the same time. The upshot of this for our smoker is
+
+161
+0:09:07,000 --> 0:09:10,080
+that by choosing to smoke rather than not smoke, it must be the case that he believes
+
+162
+0:09:10,080 --> 0:09:14,320
+that he should smoke rather than not smoke. But this does not preclude the possibility
+
+163
+0:09:14,320 --> 0:09:17,960
+that our smoker also believes that he should not smoke. It is just that his belief that
+
+164
+0:09:17,960 --> 0:09:21,960
+he should smoke is in some way overpowering his contradictory belief. There is a further
+
+165
+0:09:21,960 --> 0:09:24,840
+confusion to be addressed at this point, which stems from a conflation between two
+
+166
+0:09:24,840 --> 0:09:28,120
+different senses of the word "ought." To highlight this, consider the statement, it is raining
+
+167
+0:09:28,120 --> 0:09:31,120
+outside. Therefore, you ought bring an umbrella. Now, there are two ways which one
+
+168
+0:09:31,120 --> 0:09:34,920
+could interpret this statement. Either one, ought is being used in its precise logical
+
+169
+0:09:34,920 --> 0:09:39,280
+meaning, or two, it is being used as prudential advice. For one, it simply does not follow
+
+170
+0:09:39,280 --> 0:09:42,760
+that because it is raining, you ought bring an umbrella, at least not without additional
+
+171
+0:09:42,760 --> 0:09:47,040
+steps. For two, ought is being used colloquially. If we were to precisely formulate two, it
+
+172
+0:09:47,040 --> 0:09:50,640
+would be something like, it is raining outside, so if you do not wish to get wet when you go
+
+173
+0:09:50,640 --> 0:09:54,120
+outside, a potential means to achieve this goal would be to bring an umbrella. When formulated
+
+174
+0:09:54,120 --> 0:09:57,440
+precisely, it becomes clear that when prudential advice is given like this, the statement is
+
+175
+0:09:57,440 --> 0:10:01,120
+really an is statement, rather than an ought statement. This insight will become crucial
+
+176
+0:10:01,120 --> 0:10:04,760
+in the next lesson, so I will not stress it too heavily here. But the key takeaway for
+
+177
+0:10:04,760 --> 0:10:08,560
+now is that there is only ought. Ought is ought. There doesn't exist different flavours
+
+178
+0:10:08,560 --> 0:10:13,200
+of ought in logic. It is a failure of imprecision to mix and colloquial usages of this word.
+
+179
+0:10:13,200 --> 0:10:16,240
+Bringing this back to our criminal A, who wishes to challenge his punishment for punching
+
+180
+0:10:16,240 --> 0:10:20,600
+B, he has already demonstrated by his conduct that he thinks punching is a legitimate interaction
+
+181
+0:10:20,600 --> 0:10:24,440
+if he then states that it is not a legitimate interaction, which is required for him to
+
+182
+0:10:24,440 --> 0:10:28,360
+challenge this punishment, he is in contradiction. To resolve a contradiction between these two
+
+183
+0:10:28,360 --> 0:10:32,720
+statements, one of the statements has to be dropped. Because they simply cannot drop
+
+184
+0:10:32,720 --> 0:10:36,000
+the statement that punching is proper, he is left only with being able to drop the statement
+
+185
+0:10:36,000 --> 0:10:39,840
+that punching is improper. The statement that punching is improper is the one that is required
+
+186
+0:10:39,840 --> 0:10:43,800
+for him to challenge the punishment. Therefore, A cannot challenge his punishment. He is
+
+187
+0:10:43,800 --> 0:10:48,000
+dialogically estopped from doing so. An important note must be made with respect to the application
+
+188
+0:10:48,000 --> 0:10:51,760
+of this theory of dialogical estoppel. A keen eye will notice that men are only
+
+189
+0:10:51,760 --> 0:10:56,320
+estopped insofar as they chose to commit the aggression. That is, a man is only estopped
+
+190
+0:10:56,320 --> 0:11:00,600
+when he purposefully engaged in the trespass in question. If a man did not purposefully aggress
+
+191
+0:11:00,600 --> 0:11:05,080
+but rather accidentally aggressed, we say that he lacks mens rea. Mens rea is a legal
+
+192
+0:11:05,080 --> 0:11:09,240
+term meaning guilty mind. It is characteristic of the man who decides that he wants to aggressively
+
+193
+0:11:09,240 --> 0:11:12,760
+stab his neighbour to death, but not for the man who is hiking and accidentally wanders
+
+194
+0:11:12,760 --> 0:11:17,880
+on to a farmer's field. mens rea is contrasted with actus reus, meaning guilty act. Actus
+
+195
+0:11:17,880 --> 0:11:22,360
+reus is present in every man who trespasses, whether they did so knowingly or not. Restitution
+
+196
+0:11:22,360 --> 0:11:27,000
+can be justified on the grounds of actus reus. Retribution requires mens rea. Here, restitution
+
+197
+0:11:27,000 --> 0:11:30,720
+refers to the act of making a victim whole again. Say I steal 5 ounces of silver from
+
+198
+0:11:30,720 --> 0:11:34,720
+my neighbour. Restitution would involve me giving my neighbour 5 ounces of silver. Retribution
+
+199
+0:11:34,720 --> 0:11:39,880
+would involve a further 5 ounces of silver. In total, assuming I knowingly stole, my neighbour
+
+200
+0:11:39,880 --> 0:11:46,640
+would be due 10 ounces of silver, 5 in restitution and 5 in retribution. As a point of clarification,
+
+201
+0:11:46,640 --> 0:11:50,160
+mens rea does not require that the person in question actually understands that their
+
+202
+0:11:50,160 --> 0:11:54,440
+action was criminal. All that is required is that they knowingly perform the invasion.
+
+203
+0:11:54,440 --> 0:11:58,720
+For instance, the Nazi prison guard who shoots an escaping Jew has knowingly invaded that
+
+204
+0:11:58,720 --> 0:12:02,640
+Jew's body with his bullet. However, that guard may well believe that his action was
+
+205
+0:12:02,640 --> 0:12:07,200
+justifiable because he believed in German law, rather the natural law, but his belief
+
+206
+0:12:07,200 --> 0:12:11,120
+that the action was just does not absolve him, as he knowingly performed that which is
+
+207
+0:12:11,120 --> 0:12:15,920
+objectively an invasion. With an objective theory of the just means of punishment elucidated,
+
+208
+0:12:15,920 --> 0:12:19,800
+we shall move on to an analysis of what means of defence are just. Recall that a property
+
+209
+0:12:19,800 --> 0:12:24,200
+right in X, held by a person A, implies the right of A to exclude other people from the
+
+210
+0:12:24,200 --> 0:12:29,320
+use of X. It is from this recognition that defence is justified, namely, A is permitted
+
+211
+0:12:29,320 --> 0:12:33,600
+to use whatever means are required to go about excluding people from X. This simple principle
+
+212
+0:12:33,600 --> 0:12:38,000
+is, however, not so simple to actually apply to complex scenarios. First, consider the
+
+213
+0:12:38,000 --> 0:12:41,720
+case of a man trespassing onto your front lawn to take a look at your roses. It is clear
+
+214
+0:12:41,720 --> 0:12:44,840
+that insofar as you do not wish for him to be there, there is trespassing occurring, and
+
+215
+0:12:44,840 --> 0:12:47,920
+that is he cannot use your lawn to stand on at the same time that you wish for him to
+
+216
+0:12:47,920 --> 0:12:51,400
+not stand on your lawn. Therefore, you may exclude the man from doing so, but could you
+
+217
+0:12:51,400 --> 0:12:55,160
+do so through arbitrary means? For instance, would you be permitted to fire a rocket at
+
+218
+0:12:55,160 --> 0:12:59,160
+his feet, thereby blowing him up, or would you have to take "gentler" means first? Let's
+
+219
+0:12:59,160 --> 0:13:03,040
+consider the relevant rights. The man owns his body and therefore has a right to exclude
+
+220
+0:13:03,040 --> 0:13:07,840
+you from his body, but you own your lawn, and thus can exclude him from using your lawn.
+
+221
+0:13:07,840 --> 0:13:10,640
+Therefore you are permitted to possess him to the extent that it is required to remove
+
+222
+0:13:10,640 --> 0:13:14,360
+him from your lawn and no more. For instance, perhaps the man did not realise
+
+223
+0:13:14,360 --> 0:13:18,280
+it was your property, but rather a natural feature that is not owned by anyone. Here,
+
+224
+0:13:18,280 --> 0:13:22,160
+the man would lack mens rea, and perhaps simply informing him that he is trespassing
+
+225
+0:13:22,160 --> 0:13:26,400
+will suffice to remove him from your lawn. Here, no possession of his body would be required,
+
+226
+0:13:26,400 --> 0:13:29,920
+and thus no possession could be justified. However, the man might be stubborn and wish
+
+227
+0:13:29,920 --> 0:13:33,920
+to look at your roses still. This more stubborn man may require that you grab him by the arm
+
+228
+0:13:33,920 --> 0:13:37,440
+and walk him off your property. Here, because the grabbing of the arm was required to remove
+
+229
+0:13:37,440 --> 0:13:41,760
+him, it can be justified. You could not grab his arm and begin stabbing at him with a needle,
+
+230
+0:13:41,760 --> 0:13:44,720
+as the stabbing with a needle does not serve the purpose of excluding the land from your
+
+231
+0:13:44,720 --> 0:13:48,920
+property, and is not required for this exclusion. Therefore, this stabbing would be an additional
+
+232
+0:13:48,920 --> 0:13:53,160
+aggressive invasion of the man, rather than of your lawn. Here, it becomes clear that
+
+233
+0:13:53,160 --> 0:13:57,040
+you would not be permitted to launch a rocket at the man, unless said a launching of a rocket
+
+234
+0:13:57,040 --> 0:14:01,280
+was required to successfully exclude him. A further example to elaborate upon this principle
+
+235
+0:14:01,280 --> 0:14:04,440
+is your neighbour kicking his ball onto your lawn. Let's imagine first that your neighbour
+
+236
+0:14:04,440 --> 0:14:07,120
+doesn't want anyone else to touch his ball, and you don't know what's for the ball
+
+237
+0:14:07,120 --> 0:14:10,240
+to be on your lawn. Here, the ball is invading your property, so you could justly remove
+
+238
+0:14:10,240 --> 0:14:13,360
+the ball at will, i.e. you're allowed to exclude the ball from your property, and touching
+
+239
+0:14:13,360 --> 0:14:16,480
+the ball is required to remove it. Imagine an alternative scenario where the ball is
+
+240
+0:14:16,480 --> 0:14:19,200
+on your property, and to teach him a lesson, you tell your neighbour that you will not
+
+241
+0:14:19,200 --> 0:14:22,640
+let him retrieve the ball himself, and you will not remove the ball from your property on your
+
+242
+0:14:22,640 --> 0:14:25,960
+own. This would be a case of excluding the neighbour from his ball, which you're not
+
+243
+0:14:25,960 --> 0:14:29,000
+trying to exclude from your property. Because you aren't trying to exclude the ball from
+
+244
+0:14:29,000 --> 0:14:32,360
+your property, it could not be said that the ball has invaded your property. The neighbour
+
+245
+0:14:32,360 --> 0:14:36,040
+still owns the ball, and therefore you're engaging an act of forestalling. You're excluding
+
+246
+0:14:36,040 --> 0:14:39,280
+your neighbour from the ball that you do not own. However, if you did attempt to exclude
+
+247
+0:14:39,280 --> 0:14:42,720
+the ball from your property, perhaps by erecting a fence, and your neighbour was nonetheless
+
+248
+0:14:42,720 --> 0:14:46,400
+able to overcome your exclusion, the ball is invading your property. Perhaps this fence
+
+249
+0:14:46,400 --> 0:14:49,520
+completely encloses your property, such that for the neighbor to retrieve his ball, the
+
+250
+0:14:49,520 --> 0:14:53,440
+fence would have to be removed. Certainly, you'd be permitted here to continue to exclude
+
+251
+0:14:53,440 --> 0:14:56,800
+your neighbour from stepping on to retrieve his ball, as his stepping on to your property
+
+252
+0:14:56,800 --> 0:15:00,240
+would involve a further invasion, because you're already excluding people from your property
+
+253
+0:15:00,240 --> 0:15:04,160
+prior to the ball being kicked on. Here the principle is that antecedent rights must prevail.
+
+254
+0:15:04,160 --> 0:15:07,920
+You're excluding people and balls from your lawn, which is why you own your wall. You
+
+255
+0:15:07,920 --> 0:15:12,160
+cannot be compelled to allow further invasions to recover from the cost of prior invasions.
+
+256
+0:15:12,160 --> 0:15:15,280
+Your neighbour must suck it up and hope that you decide to return his ball to him. This
+
+257
+0:15:15,280 --> 0:15:18,240
+because your rights to the lawn are antecedent to your neighbour's rights in the ball, as
+
+258
+0:15:18,240 --> 0:15:21,360
+the ball is used to initiate the conflict. You are rightly allowed to take possession
+
+259
+0:15:21,360 --> 0:15:26,080
+of his invading ball. Dominiak's contradiction from donut homesteads is resolved here by
+
+260
+0:15:26,080 --> 0:15:30,480
+your possession of that ball being just. You gain ownership of that ball by virtue of it
+
+261
+0:15:30,480 --> 0:15:35,600
+being invasive. This is not full-monte ownership, however, like in the case of owning
+
+262
+0:15:35,600 --> 0:15:39,760
+a stick where you can trade it or use it however you wish, this ownership of the ball would be
+
+263
+0:15:39,760 --> 0:15:43,920
+specifically for the purpose of excluding invaders from retrieving the ball. If you removed the ball
+
+264
+0:15:43,920 --> 0:15:48,080
+from your property, it would revert back to the ownership of your neighbour. This analysis applies
+
+265
+0:15:48,080 --> 0:15:53,200
+also to the cases where a bird drops the ball onto your property, or where a third party kicks the ball,
+
+266
+0:15:53,200 --> 0:15:58,640
+but not where you kick your neighbour's ball onto your property, as you initiated the conflict
+
+267
+0:15:58,640 --> 0:16:02,560
+there. The insight that even where your neighbour was not responsible for the invasion of the ball,
+
+268
+0:16:02,560 --> 0:16:07,280
+you may still take possession of it is key for understanding the libertarian answer to the human
+
+269
+0:16:07,280 --> 0:16:10,960
+body shield. Consider the case where a criminal steals your neighbour's sword and attempts to
+
+270
+0:16:10,960 --> 0:16:15,200
+stab you with it, and the only way to prevent this from happening is by damaging the sword.
+
+271
+0:16:15,200 --> 0:16:19,920
+Because damaging the sword is required in excluding the invasion, it is just, even if your neighbour
+
+272
+0:16:19,920 --> 0:16:24,560
+does not want the sword to be damaged. Similarly, if the criminal instead picks your neighbour up and
+
+273
+0:16:24,560 --> 0:16:29,040
+tries to use him as a sword, you'd be justified in damaging your neighbour's body in so far as
+
+274
+0:16:29,040 --> 0:16:33,760
+this is required to exclude the criminal's invasions. The situation is superficially different if,
+
+275
+0:16:33,760 --> 0:16:38,000
+instead of attacking you with stolen property, the criminal instead shields himself with stolen
+
+276
+0:16:38,000 --> 0:16:42,160
+property. For example, say the criminal wraps himself and your neighbour's quilt, approaches
+
+277
+0:16:42,160 --> 0:16:46,800
+you and then begins shooting at you. As you take cover and draw your side arm, your neighbour yells,
+
+278
+0:16:46,800 --> 0:16:50,880
+don't shoot my quilt, as a libertarian must you respect the preference of your neighbour,
+
+279
+0:16:50,880 --> 0:16:55,600
+will stolen cars and tuxes become the bane of libertarian police forces? In such a scenario,
+
+280
+0:16:55,600 --> 0:16:59,680
+you'd be justified in taking whatever actions are required to exclude the criminal's attempted
+
+281
+0:16:59,680 --> 0:17:05,120
+invasion as always. It is required that you shoot back in order to thwart him. Thus, this is just.
+
+282
+0:17:05,120 --> 0:17:09,040
+Even though it would imply damaging your neighbour's quilt, moreover, your neighbour would not be
+
+283
+0:17:09,040 --> 0:17:13,760
+justified in attacking you to defend his quilt. You are doing no wrong by shooting through the quilt.
+
+284
+0:17:13,760 --> 0:17:18,080
+Therefore, your neighbour cannot justify attacking you, as he is not responding to an aggression on
+
+285
+0:17:18,080 --> 0:17:22,560
+your part. We can then trivially move from the criminal using a quilt shield to one using your
+
+286
+0:17:22,560 --> 0:17:26,960
+neighbour as a shield. Again, you are justified in shooting back at the criminal, even if this
+
+287
+0:17:26,960 --> 0:17:31,040
+implies shooting through your neighbour. An equivalent situation would be if the attacking criminal
+
+288
+0:17:31,040 --> 0:17:34,480
+had connected to device to your neighbour that would kill him if the criminal were to die.
+
+289
+0:17:34,480 --> 0:17:38,880
+If you defend yourself against the criminal, then your neighbour will suffer. Yet, as in the previous
+
+290
+0:17:38,880 --> 0:17:43,120
+case, your rights are antecedent to those of your neighbour. The aggressor brought his property into
+
+291
+0:17:43,120 --> 0:17:46,800
+conflict. The violation of your neighbour's property rights occurs when the criminal connects
+
+292
+0:17:46,800 --> 0:17:51,200
+the device to him, and when the criminal attacks you, not when you killed the criminal. Furthermore,
+
+293
+0:17:51,200 --> 0:17:55,200
+your neighbour would not be justified in attacking you to try and prevent you from killing the criminal.
+
+294
+0:17:55,200 --> 0:17:58,560
+This is distinct from the situation where your neighbour is a bystander to the aggression.
+
+295
+0:17:58,560 --> 0:18:02,160
+In such a situation, attacking him is not required to exclude the aggressive
+
+296
+0:18:02,160 --> 0:18:06,160
+invasions from the criminal, so randomly turning around and shooting at him during the gunfight
+
+297
+0:18:06,160 --> 0:18:10,320
+would be an additional aggression insofar as this is not required to thwart the bad guy.
+
+298
+0:18:10,320 --> 0:18:14,080
+The same is true if you are given an ultimatum by the criminal, where he will shoot you if you
+
+299
+0:18:14,080 --> 0:18:19,040
+do not kill your neighbour. You are allowed only to engage in exclusionary actions against the aggressor,
+
+300
+0:18:19,040 --> 0:18:24,480
+not against bystanders. These exclusionary actions may well damage the property of third parties,
+
+301
+0:18:24,480 --> 0:18:29,040
+this is not provide carte blanche for whatever invasions you may wish to engage in, to exclude,
+
+302
+0:18:29,040 --> 0:18:33,920
+to clarify exclusion is only justified against aggressors. However, exclusion against aggressor
+
+303
+0:18:33,920 --> 0:18:38,400
+may or may not involve damage to the property of third parties. This damage can only be
+
+304
+0:18:38,400 --> 0:18:50,640
+justified if it is required to exclude the aggressor.
+

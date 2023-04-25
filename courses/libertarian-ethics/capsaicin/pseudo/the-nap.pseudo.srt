@@ -1,0 +1,828 @@
+1
+0:00:00,000 --> 0:00:17,600
+2. The non-aggression principle
+
+2
+0:00:17,600 --> 0:00:21,600
+Corconition and truth seeking as such have a value normative foundation, and the normative
+
+3
+0:00:21,600 --> 0:00:25,560
+foundation on which cognition and truth rest is the recognition of private property rights
+
+4
+0:00:25,560 --> 0:00:30,960
+In the previous lesson we discovered some necessary facts about the nature of law,
+
+5
+0:00:30,960 --> 0:00:35,520
+We know that there must be a universal objective law, and we know that
+
+6
+0:00:35,520 --> 0:00:39,920
+the normative structure of law must be based upon the normative structure of argumentation.
+
+7
+0:00:39,920 --> 0:00:44,680
+In this lesson, the central norm, the core axiom of true law, will be made explicit.
+
+8
+0:00:44,680 --> 0:00:49,040
+We call this central axiom the non-aggression principle, or NAP, and it can be stated
+
+9
+0:00:49,040 --> 0:00:53,320
+as follows. The non-aggressor ought be the director, or that the aggressor ought not
+
+10
+0:00:53,320 --> 0:00:58,120
+be the director. These statements are contrapositive. Let's break that down. Here, aggression
+
+11
+0:00:58,120 --> 0:01:02,920
+is defined as the initiation of conflict, so in any contest over some property alpha,
+
+12
+0:01:02,920 --> 0:01:06,880
+if A is the aggressor and B is the non-aggressor, B ought to be the one to direct the use of
+
+13
+0:01:06,880 --> 0:01:12,040
+alpha and A ought not. The term axiom has a precise meaning in philosophy. Unlike in mathematics
+
+14
+0:01:12,040 --> 0:01:16,800
+where axioms are merely inter-consistent but arbitrarily chosen rules, praxeological axioms
+
+15
+0:01:16,800 --> 0:01:21,320
+are self-evident propositions. A proposition is self-evident if you must accept its validity
+
+16
+0:01:21,320 --> 0:01:24,920
+in attempting to dispute its validity. We saw above how the law of non-contradiction
+
+17
+0:01:24,920 --> 0:01:28,560
+is a self-evident proposition. In disputing anything at all, you must first accept that
+
+18
+0:01:28,560 --> 0:01:33,560
+the law of non-contradiction holds. Similarly, in disputing the NAP, you presuppose its truth,
+
+19
+0:01:33,560 --> 0:01:37,800
+as it is implied by the very nature of argumentation. First, recall that argumentation does not
+
+20
+0:01:37,800 --> 0:01:41,480
+exist in a normative void. That is to say, there are certain norms which are presupposed
+
+21
+0:01:41,480 --> 0:01:45,040
+in the very act of arguing. Consider what it would mean for this to not be the case.
+
+22
+0:01:45,040 --> 0:01:48,920
+If argumentation had no particular normative structure, it would lose any meaning. Literally
+
+23
+0:01:48,920 --> 0:01:52,560
+any action a man takes could be considered an argumentation, such as eating an apple
+
+24
+0:01:52,560 --> 0:01:55,720
+or swinging from a tree, or shooting someone through the head. It is because of
+
+25
+0:01:55,720 --> 0:02:00,160
+the fact that certain norms define a dialectic as such, there is such a thing called argumentation
+
+26
+0:02:00,160 --> 0:02:04,240
+in the first place. Second, the validity of any truth claim must be raised and decided
+
+27
+0:02:04,240 --> 0:02:07,840
+upon in the course of an argumentation, so the normative structure of argumentation in
+
+28
+0:02:07,840 --> 0:02:11,280
+particular has a special status being the practical precondition for ascertaining
+
+29
+0:02:11,280 --> 0:02:15,600
+the truth or validity of any statement. This is known as the a priori of argumentation,
+
+30
+0:02:15,600 --> 0:02:19,120
+which is another self-evident proposition. If you were to dispute it, you would first
+
+31
+0:02:19,120 --> 0:02:23,320
+have to start arguing, thus presupposing its truth. Third, to try and argumentatively
+
+32
+0:02:23,320 --> 0:02:27,200
+dispute one of the norms of argumentation would be to contradict oneself. This is called
+
+33
+0:02:27,200 --> 0:02:31,200
+a dialectic or a performative contradiction. That is, it is a contradiction not between
+
+34
+0:02:31,200 --> 0:02:35,160
+propositions but between a proposition and the very act of proposing it. For instance,
+
+35
+0:02:35,160 --> 0:02:38,400
+if one were to argue that people ought never argue, they would first presuppose that they
+
+36
+0:02:38,400 --> 0:02:42,680
+should be arguing, thus they are in contradiction. Therefore, the negation of people ought never
+
+37
+0:02:42,680 --> 0:02:47,760
+argue, which is people ought ever argue, or people ought sometimes argue, must be correct.
+
+38
+0:02:47,760 --> 0:02:51,920
+Of note here is that under argumentation ethics, the "sometimes" is not an arbitrary when I feel
+
+39
+0:02:51,920 --> 0:02:55,880
+like it. It is something more like people should argue to resolve disputes, rather than
+
+40
+0:02:55,880 --> 0:03:00,160
+people should engage in conflict to resolve disputes. This is because, fourth, argumentation
+
+41
+0:03:00,160 --> 0:03:04,520
+is a conflict-free interaction. Interlocutors have some dispute over the truth of the matter,
+
+42
+0:03:04,520 --> 0:03:07,560
+and they are seeking to convince the other, not through the force of violence, i.e., by
+
+43
+0:03:07,560 --> 0:03:11,840
+aggressing against them, but rather through the force of their argument. Specifically,
+
+44
+0:03:11,840 --> 0:03:16,400
+argumentation is a method of resolving disputes peacefully, not violently. Consider A and B have a dispute
+
+45
+0:03:16,400 --> 0:03:19,840
+over who has the property right to Alpha. A asserts that they are the owner, and vice
+
+46
+0:03:19,840 --> 0:03:24,080
+versa. Arguing over this dispute would not involve the two parties violently attacking
+
+47
+0:03:24,080 --> 0:03:27,560
+each other. It would involve the exchange of propositions with the intent of determining
+
+48
+0:03:27,560 --> 0:03:32,200
+the truth of the matter. Simply warring over Alpha would not be truth-seeking. Interpersonal
+
+49
+0:03:32,200 --> 0:03:36,440
+warfare does not involve argumentative justification, and argumentative justification does not involve
+
+50
+0:03:36,440 --> 0:03:40,440
+interpersonal warfare. This means that the normative structure of argumentation implies
+
+51
+0:03:40,440 --> 0:03:44,720
+non-aggression. Thus, the NAP is dialectically true. Consider what it would mean to say
+
+52
+0:03:44,720 --> 0:03:48,320
+that this is not the case, that violence is perfectly permissible in an argument.
+
+53
+0:03:48,320 --> 0:03:51,280
+If Crusoe has a disagreement with Friday, and Crusoe decides that he will beat Friday
+
+54
+0:03:51,280 --> 0:03:55,360
+until agreement is reached, is Crusoe really seeking the truth of the matter here? Clearly
+
+55
+0:03:55,360 --> 0:04:00,080
+he is not. Coercing others to not argue with you cannot tend to establish truth. Warfare
+
+56
+0:04:00,080 --> 0:04:04,720
+of this sort is the enemy of reason. Insofar as a man is engaged in unreason, i.e., avoiding
+
+57
+0:04:04,720 --> 0:04:09,000
+truth, he cannot coherently make any truth claim. Thus, no negation of any proposition
+
+58
+0:04:09,000 --> 0:04:13,440
+can arise from unreason. You have to accept reason, in order to argue at all, and accepting
+
+59
+0:04:13,440 --> 0:04:17,640
+reason means accepting the NAP. It certainly cannot be denied that the purpose of argumentation
+
+60
+0:04:17,640 --> 0:04:22,120
+is to seek truth on the matter. So such aggressive activities that do not tend to establish truth
+
+61
+0:04:22,120 --> 0:04:26,720
+must be excluded from arguments. In short, argumentation is a rational activity, and
+
+62
+0:04:26,720 --> 0:04:31,400
+aggression is the enemy of reason. Thus, these sets of actions must be mutually exclusive.
+
+63
+0:04:31,400 --> 0:04:36,560
+All true propositions are justifiable argumentatively. A true ethic is justifiable to an arguer.
+
+64
+0:04:36,560 --> 0:04:40,920
+Justifiability is irrelevant in a conflict. A conflict cannot be justified to an arguer.
+
+65
+0:04:40,920 --> 0:04:45,280
+If it could, there will be no conflict. Hence, causing conflicts is against the ethics of argumentation.
+
+66
+0:04:45,280 --> 0:04:49,320
+QUOTE Looked at from another angle, participants in argumentation indisputably
+
+67
+0:04:49,320 --> 0:04:53,400
+need to use and control the scarce resources in the world to survive. Otherwise, they
+
+68
+0:04:53,400 --> 0:04:57,640
+would perish. But because their scarcity makes conflict over the use of resource as possible,
+
+69
+0:04:57,640 --> 0:05:01,560
+only norms that determine the proper ownership can avoid conflict over these scarce goods.
+
+70
+0:05:01,560 --> 0:05:05,040
+That such norms are valuable cannot be denied, because anyone who is alive in the world on
+
+71
+0:05:05,040 --> 0:05:08,440
+participating in the practical activity of argumentation cannot deny the value of being
+
+72
+0:05:08,440 --> 0:05:13,000
+END QUOTE able to control scarce resources and the value of avoiding conflicts over such scarce resources.
+
+73
+0:05:13,000 --> 0:05:15,960
+A further proof of the existence of rights is found by considering what it would mean
+
+74
+0:05:15,960 --> 0:05:20,560
+to deny that rights exist. Kinsella introduces the concept as follows:
+
+75
+0:05:20,560 --> 0:05:25,280
+END QUOTE exists, it is a right of A to have or do X without B's preventing it, and therefore
+
+76
+0:05:25,280 --> 0:05:29,160
+A can legitimately use force against B to enforce the right. A is concerned with the
+
+77
+0:05:29,160 --> 0:05:33,040
+enforceability of his right to X, and this enforceability is all that A requires in order
+
+78
+0:05:33,040 --> 0:05:36,760
+to be secure in his right to X. For a right skeptic, meaningfully, to a challenge A is
+
+79
+0:05:36,760 --> 0:05:40,720
+asserted right, the skeptic must challenge the enforceability of the right, instead of
+
+80
+0:05:40,720 --> 0:05:44,480
+merely challenging the existence of the right. Nothing less will do. If the skeptic does
+
+81
+0:05:44,480 --> 0:05:48,240
+not deny that A's post-enforcement of his purported right is legitimate, then the skeptic
+
+82
+0:05:48,240 --> 0:05:51,920
+has not denied A's right to X, because what it means to have a right is to be able to
+
+83
+0:05:51,920 --> 0:05:56,840
+legitimately enforce it. If the skeptic maintains then that A has no right to X, indeed no rights
+
+84
+0:05:56,840 --> 0:06:00,520
+END QUOTE at all since there are no rights, the skeptic must also maintain that A's enforcement of
+
+85
+0:06:00,520 --> 0:06:04,520
+This presents a problem for the rights-sceptic, however,
+
+86
+0:06:04,520 --> 0:06:08,640
+because he must hold that enforcement, i.e. the use of force, requires justification,
+
+87
+0:06:08,640 --> 0:06:12,520
+but merely challenging A's use of force is not enough. The rights-sceptic can't just
+
+88
+0:06:12,520 --> 0:06:17,080
+express distaste at the enforcement, he must attack the legitimacy of said use of force.
+
+89
+0:06:17,080 --> 0:06:20,920
+But in order to challenge the legitimacy of A using force against B to enforce the right,
+
+90
+0:06:20,920 --> 0:06:24,840
+he must hold that B has a right to not have this force against him, i.e. that B or someone
+
+91
+0:06:24,840 --> 0:06:29,560
+else can legitimately use force to stop A's use of force, but then he is in contradiction,
+
+92
+0:06:29,560 --> 0:06:34,360
+as he must recognize rights held by B in his denial that rights exist.
+
+93
+0:06:34,360 --> 0:06:37,640
+QUOTE this demonstration points out the inconsistency on the part of a right skeptic who engages
+
+94
+0:06:37,640 --> 0:06:41,120
+in discourse about the propriety of rights at all. If there are no rights, then there's
+
+95
+0:06:41,120 --> 0:06:44,880
+no such thing as the justifiable or legitimate use of force, but neither is there such a
+
+96
+0:06:44,880 --> 0:06:49,400
+thing as the unjust use of force. But if there is no unjust use of force, what is it exactly
+
+97
+0:06:49,400 --> 0:06:52,960
+that a right skeptic is concerned about? If individuals delude themselves into thinking
+
+98
+0:06:52,960 --> 0:06:56,640
+that they have natural rights and acting on this assumption go by enforcing these rights
+
+99
+0:06:56,640 --> 0:07:00,160
+as if they are true, the skeptic has no grounds to complain. To the extent that the skeptic
+
+100
+0:07:00,160 --> 0:07:03,800
+complains about people enforcing these illusory rights, he begins to attribute rights to those
+
+101
+0:07:03,800 --> 0:07:08,280
+having forces against them. Any right skeptic can only shut up, because he contradicts himself
+
+102
+0:07:08,280 --> 0:07:11,680
+the moment he objects to others acting as if they have rights. Indeed, another way to
+
+103
+0:07:11,680 --> 0:07:15,480
+respond to a right skeptic would be to propose to physically harm him. If there are no rights
+
+104
+0:07:15,480 --> 0:07:19,440
+as he maintains, then he cannot object to being harmed. So presumably any right skeptic would
+
+105
+0:07:19,440 --> 0:07:23,240
+change his position and admit that there were rights, if only so as to be able to object
+
+106
+0:07:23,240 --> 0:07:27,120
+END QUOTE to being harmed, or there would soon be no more right skeptics left alive to give rights
+
+107
+0:07:27,120 --> 0:07:31,240
+A somewhat common question raised with respect to the non-aggression
+
+108
+0:07:31,240 --> 0:07:35,120
+principle is whether the mob boss who merely orders his goons to engage in some aggression
+
+109
+0:07:35,120 --> 0:07:39,360
+is himself an aggressor. The answer to this question is yes. Both he and his goons are
+
+110
+0:07:39,360 --> 0:07:42,720
+engaged in the aggression in question. To highlight why this is the case, consider that
+
+111
+0:07:42,720 --> 0:07:46,400
+a crime is an action. It is the use of efficacious means to cause the invasion of the borders
+
+112
+0:07:46,400 --> 0:07:49,760
+of other people's property. Because such an invasion initiates conflict between the
+
+113
+0:07:49,760 --> 0:07:53,160
+criminal and the victim. What is important here is that you can use other people as means
+
+114
+0:07:53,160 --> 0:07:56,960
+towards some end. In the provided example, the mob boss is using his goons as a means
+
+115
+0:07:56,960 --> 0:08:00,480
+to cause the invasion of the victim's property, and the goons are using their hands or some
+
+116
+0:08:00,480 --> 0:08:04,400
+weapons as a means to the same end. Both the boss and his goons are engaged in the same
+
+117
+0:08:04,400 --> 0:08:07,960
+aggressive invasion. Consider the example of a man shipping a bomb to a victim's house
+
+118
+0:08:07,960 --> 0:08:11,840
+using a courier. The bomb blows up upon the victim opening the package. Has the bomb maker
+
+119
+0:08:11,840 --> 0:08:15,880
+committed a crime here? Well, if using other people as means is to break the chain of causation,
+
+120
+0:08:15,880 --> 0:08:18,920
+then perhaps the courier is the criminal, as he is the one who delivered the bomb. But
+
+121
+0:08:18,920 --> 0:08:22,840
+even this cannot be so, because the bomb only went off upon the victim opening the package.
+
+122
+0:08:22,840 --> 0:08:26,800
+So really, the victim has committed suicide! Of course, this is ridiculous. The bomb maker
+
+123
+0:08:26,800 --> 0:08:30,440
+is well aware that paying a courier to deliver a package to someone is likely to result in
+
+124
+0:08:30,440 --> 0:08:34,200
+said package being opened. The courier and the victim are both being used as a means
+
+125
+0:08:34,200 --> 0:08:38,280
+towards the end of the victim exploding. This is the intent of the bomb maker.
+
+126
+0:08:38,280 --> 0:08:42,000
+QUOTE positive law recognised that an intervening force only breaks the causal connection when
+
+127
+0:08:42,000 --> 0:08:46,000
+it is unforeseeable. As the restatement of Torz provides, the intervention of a force
+
+128
+0:08:46,000 --> 0:08:50,600
+which is a normal consequence of a situation created by the actor's conduct is not a superseding
+
+129
+0:08:50,600 --> 0:08:55,360
+cause of harm, which such conduct has been a substantial factor in bringing about. Clearly,
+
+130
+0:08:55,360 --> 0:08:59,560
+when the terrorist in these cases uses a courier to deliver a later bomb, it is not unforeseeable
+
+131
+0:08:59,560 --> 0:09:02,960
+END QUOTE that the victim will receive it, and it is not unforeseeable that the victim will open
+
+132
+0:09:02,960 --> 0:09:07,000
+This is because, if the outcome of a given activity was truly unforeseeable, this implies
+
+133
+0:09:07,000 --> 0:09:11,080
+it is not an action. As for it to be an action, it has to be deliberately aimed at and sought
+
+134
+0:09:11,080 --> 0:09:14,880
+after. Consider me leaving a knife on my kitchen counter that is then whipped away by a tornado
+
+135
+0:09:14,880 --> 0:09:18,720
+and thus stabs a man through the heart. I didn't stab him, the tornado did, because
+
+136
+0:09:18,720 --> 0:09:22,720
+the tornado was unforeseeable by me. If I was a wizard, who could control tornadoes and
+
+137
+0:09:22,720 --> 0:09:26,720
+I summoned the tornado to throw my knife into the heart of the man, that would be foreseeable
+
+138
+0:09:26,720 --> 0:09:31,320
+and therefore criminal. In other words, A simply hoping that lightning will strike B is different
+
+139
+0:09:31,320 --> 0:09:35,200
+to A knowing exactly when and where lightning will strike and duping B into standing there at the appropriate time.
+
+140
+0:09:35,200 --> 0:09:39,720
+There is no intention if the outcome is only hoped for.
+
+141
+0:09:39,720 --> 0:09:43,480
+To make this even more clear, consider the example of a rifle that requires 3 men to shoot, perhaps
+
+142
+0:09:43,480 --> 0:09:47,200
+it has 3 triggers which are far apart on which all must be pulled to fire the bullet. If
+
+143
+0:09:47,200 --> 0:09:51,200
+3 men conspire to each pull a trigger, at the same time to shoot an innocent man, then
+
+144
+0:09:51,200 --> 0:09:54,600
+all 3 of them are engaged in an aggression against this person. We can trivially
+
+145
+0:09:54,600 --> 0:09:58,680
+analogise this to a bomber plane that requires 3 men to operate. One to steer the plane,
+
+146
+0:09:58,680 --> 0:10:02,440
+one to load the bombs, and a third to trigger the release of the bombs. It is not only the
+
+147
+0:10:02,440 --> 0:10:06,480
+man who triggers the release, but also his two co-conspirators, who are each engaged in the
+
+148
+0:10:06,480 --> 0:10:10,320
+action of bombing with the bomber plane. Insofar as this bombing is an aggression,
+
+149
+0:10:10,320 --> 0:10:14,160
+all 3 men are equally liable for this crime. This is why the getaway driver in a bank
+
+150
+0:10:14,160 --> 0:10:17,880
+robbery is just as liable for the theft as his partners who restrained the crowd and stole
+
+151
+0:10:17,880 --> 0:10:21,960
+the funds from the vault respectively. Furthermore, if in the process of the robbery, the crowd
+
+152
+0:10:21,960 --> 0:10:25,840
+controller shoots one of the hostages, the getaway driver and the safe cracker are responsible
+
+153
+0:10:25,840 --> 0:10:29,320
+for this murder, because the murder is understood to be a part of the entire robbery going
+
+154
+0:10:29,320 --> 0:10:32,720
+forth. If instead they were not robbing a bank, which involves threatening hostages
+
+155
+0:10:32,720 --> 0:10:36,440
+with death, but rather jointly attempting to steal a car, then one of the car thieves
+
+156
+0:10:36,440 --> 0:10:41,160
+randomly sets off a bomb killing countless individuals, then only the bomber is responsible.
+
+157
+0:10:41,160 --> 0:10:44,800
+Setting off the bomb is a separate action to the stealing of the cars, so the co-conspirators
+
+158
+0:10:44,800 --> 0:10:48,880
+to the car theft are not responsible for it. To reiterate this point, allow me to quote Kinsella.
+
+159
+0:10:48,880 --> 0:10:53,000
+QUOTE Consider the following example, and our content, A, purchases a remote controlled
+
+160
+0:10:53,000 --> 0:10:56,800
+tank, with a remote control he can steer the tank and fire its cannon. He directs the tank
+
+161
+0:10:56,800 --> 0:10:59,760
+to blow down the walls of his neighbour's house, destroying the house and killing the
+
+162
+0:10:59,760 --> 0:11:03,000
+neighbour. No one would deny that A is the cause of the killing and is guilty of murder
+
+163
+0:11:03,000 --> 0:11:07,140
+and trespass. However, after the rampage, a hatch opens up in the tank and an evil midget
+
+164
+0:11:07,140 --> 0:11:10,480
+jumps out. It turns out, you see, that the midget could see on the screen which buttons
+
+165
+0:11:10,480 --> 0:11:14,320
+were pressed on the remote control, and he would operate the tank accordingly. We submit
+
+166
+0:11:14,320 --> 0:11:18,680
+that A is equally liable in both cases. From his point of view, the tank was a black box
+
+167
+0:11:18,680 --> 0:11:22,160
+END QUOTE that he used to attain his end. Regardless of whether there is a human will, somewhere
+
+168
+0:11:22,160 --> 0:11:26,360
+This black box thinking is crucial;
+
+169
+0:11:26,360 --> 0:11:29,920
+consider what would happen if it was discovered someday that firearms
+
+170
+0:11:29,920 --> 0:11:33,760
+are actually sentient and capable of choosing not to accept a trigger press, and that this
+
+171
+0:11:33,760 --> 0:11:37,680
+is the cause of bullet jams. Would this suddenly absolve everyone who has used a firearm to
+
+172
+0:11:37,680 --> 0:11:42,080
+kill another of any criminal responsibility? Surely not. None of these people knew that
+
+173
+0:11:42,080 --> 0:11:46,200
+firearms were sentient and could refuse to shoot. To the gunman, the firearm is a means
+
+174
+0:11:46,200 --> 0:11:49,920
+towards the end of shooting a bullet at their victim. This does not change if it is later
+
+175
+0:11:49,920 --> 0:11:53,440
+discovered that firearms have a mind of their own.
+
+176
+0:11:53,440 --> 0:11:57,280
+QUOTE means it is illegal to cause another person to be hit. That is to say, it is illegal to
+
+177
+0:11:57,280 --> 0:12:01,240
+use physical objects, including one's fist, in a way that will cause the unwanted physical
+
+178
+0:12:01,240 --> 0:12:05,480
+contact with another person. In analyzing actions through the lens of praxiological means and
+
+179
+0:12:05,480 --> 0:12:09,600
+structure to determine if it amounts to aggression, we ask if the actor employed means to achieve
+
+180
+0:12:09,600 --> 0:12:13,840
+the end of invading the borders of another's property or body. In other words, we ask
+
+181
+0:12:13,840 --> 0:12:18,760
+if he caused the border invasion. The means employed can be inanimate or nonhuman means,
+
+182
+0:12:18,760 --> 0:12:22,680
+governed solely by causal laws, agan, or it can include other humans who are employed
+
+183
+0:12:22,680 --> 0:12:26,600
+as means to achieve the illicit end desire. The latter category includes both innocent
+
+184
+0:12:26,600 --> 0:12:31,640
+END QUOTE humans that one employs to cause a border invasion and culpable humans that one conspires, co-operates
+
+185
+0:12:31,640 --> 0:12:35,960
+We can use this analysis to highlight the guilt of Henry II of England,
+
+186
+0:12:35,960 --> 0:12:40,440
+who reportedly exclaimed, "will no one rid me of this turbulent priest?"
+
+187
+0:12:40,440 --> 0:12:44,000
+to a group of knights under his employ. The turbulent priest referred to the Archbishop
+
+188
+0:12:44,000 --> 0:12:48,080
+of Canterbury, who had excommunicated a number of bishops supportive of the king. Four of
+
+189
+0:12:48,080 --> 0:12:51,600
+the king's knights upon hearing the king's utterance went to the Archbishop and murdered
+
+190
+0:12:51,600 --> 0:12:54,040
+him. The argument is that the king's words, though
+
+191
+0:12:54,040 --> 0:12:57,920
+not literally worded as an order, nevertheless communicated to his knights that he wished
+
+192
+0:12:57,920 --> 0:13:01,200
+for them to carry out the ridding of the priest. What this highlights is the importance of
+
+193
+0:13:01,200 --> 0:13:05,080
+communication in libertarian theory. The king is using his knights that he means because
+
+194
+0:13:05,080 --> 0:13:09,320
+he is communicating to them his desire for them to kill or otherwise coerce the priest.
+
+195
+0:13:09,320 --> 0:13:12,640
+What this shows is that social norms and understanding of language can influence whether
+
+196
+0:13:12,640 --> 0:13:16,600
+a given set of words demonstrate an aggression or not. So it may be the case that if I'm
+
+197
+0:13:16,600 --> 0:13:20,080
+in a seedy bar and I go up to the biggest, toughest guy in there and call his mother a whore,
+
+198
+0:13:20,080 --> 0:13:23,560
+I am in fact communicating to him that I want a fight. Or another case is when I have a
+
+199
+0:13:23,560 --> 0:13:27,000
+mailbox on my front door and a path leading to it. This can be seen as communicating to
+
+200
+0:13:27,000 --> 0:13:30,880
+couriers that I want them to deliver packages by walking up to my door over my path and
+
+201
+0:13:30,880 --> 0:13:34,960
+placing packages inside the mailbox. This demonstrates the limits of what Kinsella dubs
+
+202
+0:13:34,960 --> 0:13:38,640
+armchair theorizing. One cannot say with certainty whether a given action is aggression without
+
+203
+0:13:38,640 --> 0:13:43,000
+having all the relevant information provided, which is why judges are necessary in a rational
+
+204
+0:13:43,000 --> 0:13:47,040
+legal system. The judge is able to analyze all the relevant details to determine who
+
+205
+0:13:47,040 --> 0:13:51,080
+is at fault. The job of the jurist sitting in his armchair is to explicate objective
+
+206
+0:13:51,080 --> 0:13:55,120
+principles and perhaps to apply them to very simple hypothetical scenarios where all the
+
+207
+0:13:55,120 --> 0:14:22,960
+relevant details can be provided.
+

@@ -1,0 +1,40 @@
+#+title: 0 Course Outline
+
+This document is part of a course which you can find [[https://liquidzulu.github.io/libertarian-ethics][here]]. I provide the textual version for free to the public to make people aware of the facts contained within and to (hopefully) convince people to purchase the video course. This course is intended primarily as a video experience, and that is where my focus will be in terms of quality, so I do encourage you to check it out if this content is at all interesting to you. The course is sold on a pay-what-you-want model and is copyleft, meaning other people have the right to re-publish it at will. I simply encourage anyone who appreciates the work put into this course to purchase it such that I may make more in the future, and if you do choose to republish any section, please credit me and extend to your audience my request to purchase.
+
+* Notes
+
+* Dominiak Fegley paper
++ "To see why it is not clear, consider a future-oriented contract in which person A transfers x to person B at t 1 in exchange for B agreeing at t 1 to transfer y to A at t 2 . Now if at t 2 B defaults and does not transfer y to A, the following question arises: According to the TTT, which property is stolen by B: x or y?"
+| Time | Property held by A | Property held by B |
+|------+--------------------+--------------------|
+| t_0  | x                  | y                  |
+| t_1  |                    | x + y              |
+| t_2  | y                  | x                  |
+
+So if B does not relinquish y at t_2, he has stolen it, as the title transfers to A at this time (unless y does not exist).
+
+#+begin_quote
+For example, when he talks about employment contracts in which the advance payment for the future performance has been made and the worker fails to fulfill his part of the contract, he does not think that the worker owes the employer the promised performance or damages for reneging on it; the only thing that the worker can legally be forced to do in this situation is to give back the received payment.14 As Rothbard points out, “if the actor received an advance payment from the theater owners, then his keeping the money while not fulfilling his part of the contract would be an implicit theft against the owners, and therefore the actor must be forced to return the money.”15 Again, if we analogize this employment contract and our imaginary agreement between A and B, then we will see that this time it is x, not y, that according to the TTT is A’s property stolen by B.
+#+end_quote
+Assume the wording is "[Theater] agrees to pay [Actor] a sum of /a/ at time t_1, if [Actor] does not perform his play at time t_2 he agrees to transfer to [Theater] a sum of /a/ + /d/," in the case where [Actor] performs the play:
+| Time | Property held by [Theater] | Property held by [Actor] |
+|------+----------------------------+--------------------------|
+| t_0  | /a/                        | /d/                      |
+| t_1  |                            | /a/ + /d/                |
+| t_2  |                            | /a/ + /d/                |
+
+if he does not:
+| Time | Property held by [Theater] | Property held by [Actor] |
+|------+----------------------------+--------------------------|
+| t_0  | /a/                        | /d/                      |
+| t_1  |                            | /a/ + /d/                |
+| t_1  | /a/ + /d/                  |                          |
+
+if the actor does not perform the play /and/ doesnt have the damages:
+| Time | Property held by [Theater] | Property held by [Actor] |
+|------+----------------------------+--------------------------|
+| t_0  | /a/                        |                          |
+| t_1  |                            | /a/                      |
+| t_1  | /a/                        |                          |
+Because the wording is "actor agrees to pay /a/ *plus* /d/," if he had neither then the theater is out of luck.

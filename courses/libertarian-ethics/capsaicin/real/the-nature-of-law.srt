@@ -1,0 +1,828 @@
+1
+0:00:00,000 --> 0:00:16,440
+1. The nature of law
+
+2
+0:00:16,440 --> 0:00:20,600
+If ethics is a normative discipline that identifies and classifies certain sets of actions as
+
+3
+0:00:20,600 --> 0:00:25,040
+good or evil, right or wrong, then tort or criminal law is a subset of ethics, identifying
+
+4
+0:00:25,040 --> 0:00:28,640
+certain actions as appropriate for the use of violence against them. The law says that
+
+5
+0:00:28,640 --> 0:00:32,800
+action X should be illegal and therefore should be combated by the violence of the law. The
+
+6
+0:00:32,800 --> 0:00:35,920
+law is a set of ought or normative propositions.
+
+7
+0:00:35,920 --> 0:00:37,400
+Marry Rothbard
+
+8
+0:00:37,400 --> 0:00:41,040
+To proceed with an explication of Austrian legal theory, we must first understand what
+
+9
+0:00:41,040 --> 0:00:46,640
+the nature of law is. First, law is a normative standard. That is to say, law is evaluative.
+
+10
+0:00:46,640 --> 0:00:50,120
+Legal theory identifies a group of criminals and a group of non-criminals, with reference
+
+11
+0:00:50,120 --> 0:00:54,400
+to a norm. However, there are normative standards that law does not cover, such as the question
+
+12
+0:00:54,400 --> 0:00:58,800
+of where to plant one's crops or by what standard art should be judged. That is to say, there
+
+13
+0:00:58,800 --> 0:01:03,280
+may be certain norms, certain guides to action, which are not covered by law. So law cannot
+
+14
+0:01:03,280 --> 0:01:08,280
+be exhaustive of evaluative philosophy. Second, we know that law deals with justice. That
+
+15
+0:01:08,280 --> 0:01:12,920
+is to say, law prohibits that which is unjust and permits that which is just. What is meant
+
+16
+0:01:12,920 --> 0:01:17,760
+by saying that X is just is that X can be argumentatively justified. So law is a normative
+
+17
+0:01:17,760 --> 0:01:21,160
+standard which guides men to just over unjust actions.
+
+18
+0:01:21,160 --> 0:01:26,480
+Third, argumentative justification is a human action, requiring the use of scarce means.
+
+19
+0:01:26,480 --> 0:01:29,840
+Action is defined as purposeful behaviour. It is the implementation of some scarce means
+
+20
+0:01:29,840 --> 0:01:34,040
+towards some end. Consider the example of John eating a ham sandwich to satiate his
+
+21
+0:01:34,040 --> 0:01:38,360
+hunger. His end is the removal of the hunger, and his means to achieve this end is the ham
+
+22
+0:01:38,360 --> 0:01:42,800
+sandwich. Of note here is that the means a man employs is necessarily scarce, which means
+
+23
+0:01:42,800 --> 0:01:47,040
+that his use of it prevents others from being able to use it. Therefore, in argumentatively
+
+24
+0:01:47,040 --> 0:01:52,400
+justifying anything, a man has to concern himself with scarcity. Fourth, because of scarcity,
+
+25
+0:01:52,400 --> 0:01:56,600
+there is a possibility for conflicts. Conflicts are defined as contradictory actions. So if
+
+26
+0:01:56,600 --> 0:02:00,080
+Crusoe and Friday are on an island, and Crusoe is trying to use a stick to spearfish at the
+
+27
+0:02:00,080 --> 0:02:03,800
+same time that Friday is trying to use it to stoke his fire, we have a conflict. The
+
+28
+0:02:03,800 --> 0:02:07,760
+stick is scarce, so it's use by one man, prevents the other man from using it. So only
+
+29
+0:02:07,760 --> 0:02:12,520
+one action, spearfishing or stoking of the fire, is able to take place. That is to say
+
+30
+0:02:12,520 --> 0:02:16,920
+that one action excludes the other. Fifth, because the possibility for conflicts exists
+
+31
+0:02:16,920 --> 0:02:21,840
+and cannot be ignored in argumentative justification, any legal theory must assign exclusive property
+
+32
+0:02:21,840 --> 0:02:26,320
+rights so as to determine the just winner in a given conflict. That is to say, law identifies
+
+33
+0:02:26,320 --> 0:02:30,960
+which sets of people are engaged in just direction, non-criminals, and which are engaged in unjust
+
+34
+0:02:30,960 --> 0:02:35,000
+direction, criminals. In other words, law couldn't assign that a given direction of
+
+35
+0:02:35,000 --> 0:02:40,080
+some means is both just and unjust. Here, a property right in alpha, held by A, means
+
+36
+0:02:40,080 --> 0:02:43,080
+that A is the one who has the right to direct the use of alpha.
+
+37
+0:02:43,080 --> 0:02:47,040
+Sixth, a position on the just winner in a conflict which is to say a position on law
+
+38
+0:02:47,040 --> 0:02:50,960
+is a position on ethics. Ethics is the area of philosophy which deals in general with
+
+39
+0:02:50,960 --> 0:02:56,080
+guides to man's action, i.e. what man ought do. Specifically, law is a subset of ethics which
+
+40
+0:02:56,080 --> 0:02:59,320
+deals with who should have possession of what, or more specifically, who should be the one
+
+41
+0:02:59,320 --> 0:03:03,360
+directing the possession of what. We can therefore define law as ethics applied to the issue
+
+42
+0:03:03,360 --> 0:03:08,200
+of conflicts. This is specifically a subset of interpersonal ethics, contrasted with autistic
+
+43
+0:03:08,200 --> 0:03:12,320
+ethics which deals with how the man alone should act. So ethics is made up of autistic
+
+44
+0:03:12,320 --> 0:03:16,560
+and interpersonal ethics, and law is a subset of the latter, dealing not in general with
+
+45
+0:03:16,560 --> 0:03:21,160
+how men should interact, but with that subset of interactions which are defined as conflicts.
+
+46
+0:03:21,160 --> 0:03:24,600
+Consider what it would mean to say that law is not in fact a subset of ethics. A claims
+
+47
+0:03:24,600 --> 0:03:28,040
+that he cannot justify his direction of the use of alpha, but also said that he should
+
+48
+0:03:28,040 --> 0:03:32,200
+nevertheless be its director. What is meant by A claiming that he should direct alpha?
+
+49
+0:03:32,200 --> 0:03:36,200
+This claim by A is in attempt to justify A's direction, which A claims that he cannot
+
+50
+0:03:36,200 --> 0:03:40,480
+do, therefore A is in contradiction. We shall see shortly that contradictions are
+
+51
+0:03:40,480 --> 0:03:44,440
+falsehoods, therefore meaning that it cannot be the case that A should be the director where
+
+52
+0:03:44,440 --> 0:03:49,000
+said direction is unjust. So law must be a subset of ethics. There does not exist any
+
+53
+0:03:49,000 --> 0:03:53,440
+legal claim, which is not also a moral claim. As we have seen, law is strictly derivable
+
+54
+0:03:53,440 --> 0:03:57,680
+from the nature of argumentation as a human action, employing scarce physical means, therefore
+
+55
+0:03:57,680 --> 0:04:01,120
+to assert that there are multiple different legal codes is to assert that there are multiple
+
+56
+0:04:01,120 --> 0:04:06,560
+different logics, which is called polylogism. Legal polylogism then is the claim that different
+
+57
+0:04:06,560 --> 0:04:10,640
+men may be able to adopt different logics in their argumentative justification of a system
+
+58
+0:04:10,640 --> 0:04:15,360
+of property rights. The general problem with legal polylogism is that implies contradiction.
+
+59
+0:04:15,360 --> 0:04:19,200
+Because for there to be different legal codes, A through Z, A must be incompatible with every
+
+60
+0:04:19,200 --> 0:04:23,600
+other legal code, B through Z, in at least one aspect, or else they would not be different,
+
+61
+0:04:23,600 --> 0:04:28,240
+but the same, and we would be back to singular law. Imagine that A and B are incompatible
+
+62
+0:04:28,240 --> 0:04:33,240
+on action alpha. A claims it to be just, and B claims it to be unjust. The legal polylogist
+
+63
+0:04:33,240 --> 0:04:37,800
+asserts that both A and B are correct. That alpha can both be justified, and it cannot
+
+64
+0:04:37,800 --> 0:04:42,160
+be justified. A contradiction. The problem here is that contradictions are false, which
+
+65
+0:04:42,160 --> 0:04:46,040
+we can see from the nature of argumentation. Imagine Sally and Eric are in an argument
+
+66
+0:04:46,040 --> 0:04:49,480
+over the truth of the proposition P. Eric claims that P is the case, and Sally claims
+
+67
+0:04:49,480 --> 0:04:53,200
+that P is not the case. This means that Eric asserts P, and Sally asserts the negation
+
+68
+0:04:53,200 --> 0:04:56,920
+of P. For Sally's case to be considered an attempted refutation of Eric, rather than
+
+69
+0:04:56,920 --> 0:05:00,960
+simply speaking gibberish or telling a joke, she must presuppose that P and not P cannot
+
+70
+0:05:00,960 --> 0:05:06,240
+both be correct. That is to say, in disputing anything, you presuppose the law of non-contradiction.
+
+71
+0:05:06,240 --> 0:05:10,160
+The Stanford Encyclopædia of Philosophy defines legal positivism as the thesis that the existence
+
+72
+0:05:10,160 --> 0:05:15,160
+and content of law depends on social facts and not on its merits. In other words, a legal
+
+73
+0:05:15,160 --> 0:05:19,000
+positivist claims that law is not a subset of ethics, and thus there could potentially
+
+74
+0:05:19,000 --> 0:05:24,080
+be such a thing as a virtuous crime to a legal positivist. The article elaborates. The positivist
+
+75
+0:05:24,080 --> 0:05:27,680
+thesis does not say that laws merits are unintelligible, unimportant, or peripheral to the
+
+76
+0:05:27,680 --> 0:05:32,200
+philosophy of law. It says that they do not determine whether laws or legal systems exist.
+
+77
+0:05:32,200 --> 0:05:36,320
+Whether a society has a legal system depends on the presence of certain structures of governance,
+
+78
+0:05:36,320 --> 0:05:40,320
+not on the extent to which it satisfies ideals of justice, democracy, or rule of law. What
+
+79
+0:05:40,320 --> 0:05:44,320
+laws are enforced in that system depends on what social standards as officials recognise
+
+80
+0:05:44,320 --> 0:05:48,880
+as authoritative. For example, legislative enactments, judicial decisions, or social
+
+81
+0:05:48,880 --> 0:05:52,800
+customs. The fact that a policy would be just, wise, efficient, or prudent is near a sufficient
+
+82
+0:05:52,800 --> 0:05:56,520
+reason to thinking that it is actually the law, and the fact that it is unjust, unwise,
+
+83
+0:05:56,520 --> 0:06:00,880
+inefficient, or imprudent, is never sufficient reason for doubting it. According to positivism,
+
+84
+0:06:00,880 --> 0:06:05,160
+law is a matter of what has been posited, ordered, decided, practised, tolerated, etc.
+
+85
+0:06:05,160 --> 0:06:09,160
+Law to the legal positivist then is a description of the specific arrangement of possessions
+
+86
+0:06:09,160 --> 0:06:13,200
+that actually obtain, rather than a theory describing the just arrangement of possessions.
+
+87
+0:06:13,200 --> 0:06:17,040
+Let's break that down. The legal positivist is making the claim that law has nothing
+
+88
+0:06:17,040 --> 0:06:22,080
+to do with justice. Rather, the law is determined by raw might. That is, if A is able to physically
+
+89
+0:06:22,080 --> 0:06:26,440
+defeat B in a conflict, and thus perform an action alpha, the positivist goes only as
+
+90
+0:06:26,440 --> 0:06:31,040
+far as to point and say, look, A won the conflict. Therefore, the law on this conflict
+
+91
+0:06:31,040 --> 0:06:37,040
+is that A won, but this is a complete non-theory. Okay, A won, so what? How on earth they think
+
+92
+0:06:37,040 --> 0:06:40,640
+they get to cordon off an area of philosophy and take the label law for what can be summed
+
+93
+0:06:40,640 --> 0:06:45,040
+up in the sentence, whoever wins a given conflict has won that conflict, is beyond me. The legal
+
+94
+0:06:45,040 --> 0:06:48,440
+positivist as such can't even elucidate a theory predicting when people will choose
+
+95
+0:06:48,440 --> 0:06:52,040
+to engage in a conflict and who is likely to win. Those would be the domains of economics
+
+96
+0:06:52,040 --> 0:06:56,760
+and military theory, respectively. The problems with positivist thesis do not stop here. Even
+
+97
+0:06:56,760 --> 0:07:00,880
+if a positivist were to reject the separation of law and justice, claiming that might makes
+
+98
+0:07:00,880 --> 0:07:04,760
+right, their theory is still in ruin, because the might-makes-right theory of law is a form
+
+99
+0:07:04,760 --> 0:07:08,800
+of legal polylogism. It is the claim that the logic of which actions are justifiable can
+
+100
+0:07:08,800 --> 0:07:12,840
+change depending on whether you are able to successfully carry out that action and muscle
+
+101
+0:07:12,840 --> 0:07:18,040
+away anybody who gets in the way. As we saw above, legal polylogism in general is false,
+
+102
+0:07:18,040 --> 0:07:22,240
+therefore this form of legal positivism is false also. Any notion of a source of rights is
+
+103
+0:07:22,240 --> 0:07:27,080
+indicative of positivism, and more fundamentally of the fallacy of primacy of consciousness.
+
+104
+0:07:27,080 --> 0:07:30,280
+Rights simply are, they don't come from some consciousness, whether divine or social
+
+105
+0:07:30,280 --> 0:07:34,120
+or individual. It is not arbitrary thoughts or decrees which are the source of rights,
+
+106
+0:07:34,120 --> 0:07:37,920
+but the logic of justification and conflict. So we have seen that the nature of law implies
+
+107
+0:07:37,920 --> 0:07:43,040
+that there must be a universal law. That is, any form of legal polylogism is necessarily
+
+108
+0:07:43,040 --> 0:07:47,680
+false. And further, to argue or dispute anything would be to presuppose the existence of a single
+
+109
+0:07:47,680 --> 0:07:52,840
+universal law. We can say that this universal law is therefore true law, as it is the normative
+
+110
+0:07:52,840 --> 0:07:56,880
+foundation of argumentation and argumentation is a practical precondition for ascertaining
+
+111
+0:07:56,880 --> 0:08:01,360
+the truth or validity of anything. Imagine attempting to dispute that this law is true.
+
+112
+0:08:01,360 --> 0:08:04,720
+First you would have to accept its validity, as that validity is implied by the act of
+
+113
+0:08:04,720 --> 0:08:09,000
+argumentation, so you would therefore be explicitly proclaiming it to be false, whilst implicitly
+
+114
+0:08:09,000 --> 0:08:13,480
+presupposing it to be true, which is a contradiction. A contradiction not between propositions,
+
+115
+0:08:13,480 --> 0:08:16,920
+but between a proposition and the very act of proposing it. But there is no such thing
+
+116
+0:08:16,920 --> 0:08:21,000
+as a free-floating proposition which does not come from an actor proposing it. Therefore,
+
+117
+0:08:21,000 --> 0:08:24,880
+there is an objective, natural law. It is this natural law which will be elucidated
+
+118
+0:08:24,880 --> 0:08:28,880
+in this course. We understand that its nature is that it is specifically a study of human
+
+119
+0:08:28,880 --> 0:08:33,880
+action. The general science of human action is called praxeology, so law is a sub-science
+
+120
+0:08:33,880 --> 0:08:38,480
+of praxeology. Thus, it will be of use to briefly go over some basic praxeology here
+
+121
+0:08:38,480 --> 0:08:42,440
+to make comprehension of the rest of this course easier. First, human action is purposeful
+
+122
+0:08:42,440 --> 0:08:46,560
+behaviour. It is distinct from mere behaviour in that the former involves some intentional
+
+123
+0:08:46,560 --> 0:08:50,840
+aiming at a goal, where the latter does not. So the operation of a man's digestive system
+
+124
+0:08:50,840 --> 0:08:54,480
+or the beating of his heart can be understood as mere mechanistic behaviour, as the man does
+
+125
+0:08:54,480 --> 0:08:58,720
+not intend to digest or beat his heart. And on the other hand, his choosing to eat food
+
+126
+0:08:58,720 --> 0:09:02,720
+or shock himself with a defibrillator are purposeful, so these are not mere behaviours,
+
+127
+0:09:02,720 --> 0:09:06,240
+but are rather actions. It is this notion of choice which is crucial to understanding
+
+128
+0:09:06,240 --> 0:09:09,680
+something as an action. Action involves a deliberate attempt to change the world to one
+
+129
+0:09:09,680 --> 0:09:13,520
+that man finds more preferable to the alternative where he does not engage in said action. It
+
+130
+0:09:13,520 --> 0:09:17,440
+is this choice of what man prefers over the alternative, that is the characteristic mark
+
+131
+0:09:17,440 --> 0:09:21,760
+of action. Therefore, for an action to be possible in the first place, (1) a man must
+
+132
+0:09:21,760 --> 0:09:26,080
+experience some state of uneasiness, something that he doesn't like, (2) he must imagine
+
+133
+0:09:26,080 --> 0:09:30,240
+a state of the world without this uneasiness, and (3) he must believe that a given action
+
+134
+0:09:30,240 --> 0:09:34,200
+will work to achieve this imagined state without the uneasiness. When a man acts, the result
+
+135
+0:09:34,200 --> 0:09:38,360
+he wishes to achieve can be called his end. Man always acts to remove uneasiness, and
+
+136
+0:09:38,360 --> 0:09:42,560
+his end is the imagined state without said uneasiness. For man to achieve the end desired,
+
+137
+0:09:42,560 --> 0:09:46,920
+he must employ certain means. A metaphysical entity is understood as a means when a human
+
+138
+0:09:46,920 --> 0:09:51,440
+plans to employ, or is employing it for the attainment of some end. As has been shown,
+
+139
+0:09:51,440 --> 0:09:56,120
+for a man to engage in an action X as opposed to not X, implies that the man prefers to engage
+
+140
+0:09:56,120 --> 0:10:00,200
+in action X as opposed to not X. What this preference means is that the man thinks he
+
+141
+0:10:00,200 --> 0:10:03,320
+should do X, rather the alternative for whatever reason.
+
+142
+0:10:03,320 --> 0:10:07,840
+In the context of legal analysis, one important praxeological doctrine is the distinction between
+
+143
+0:10:07,840 --> 0:10:12,720
+action and mere behaviour. The difference between action and behaviour boils down to intent.
+
+144
+0:10:12,720 --> 0:10:16,800
+Action is an individual's intentional intervention in the physical world, via certain selected
+
+145
+0:10:16,800 --> 0:10:20,400
+means, with the purpose of attaining a state of affairs that is preferable to the conditions
+
+146
+0:10:20,400 --> 0:10:23,000
+that would prevail in the absence of the action.
+
+147
+0:10:23,000 --> 0:10:26,600
+Mere behaviour, by contrast, is a person's physical movements that are not undertaken
+
+148
+0:10:26,600 --> 0:10:31,200
+intentionally and that do not manifest any purpose, plan, or design. In learning philosophy
+
+149
+0:10:31,200 --> 0:10:35,120
+it is often of great use of the student to study the history of philosophy, such that an understanding
+
+150
+0:10:35,120 --> 0:10:39,320
+of what ideas have been had and where they came from can be attained. Thus, a brief overview
+
+151
+0:10:39,320 --> 0:10:42,720
+of the history of (legal) philosophy seems appropriate to include here.
+
+152
+0:10:42,720 --> 0:10:46,600
+Kinsella provides such a brief overview. In modern times, the two dominant legal systems
+
+153
+0:10:46,600 --> 0:10:50,160
+are the common law and the civil law, based on the body of English case law that developed
+
+154
+0:10:50,160 --> 0:10:54,360
+gradually over the centuries. The common law spread to English colonies in commonwealths
+
+155
+0:10:54,360 --> 0:10:58,880
+like America, Canada, and Australia. Modern civil law systems are based on Roman law,
+
+156
+0:10:58,880 --> 0:11:02,280
+which, like the common law, developed many of its important legal principles in the
+
+157
+0:11:02,280 --> 0:11:06,760
+accumulated decisions of jurists in thousands of cases. Virtually all of Europe and many
+
+158
+0:11:06,760 --> 0:11:11,640
+other jurisdictions, including Louisiana, Puerto Rico, and Quebec, a civil law system.
+
+159
+0:11:11,640 --> 0:11:15,040
+In the common law and Roman law, they're eventually evolved very sophisticated bodies
+
+160
+0:11:15,040 --> 0:11:19,440
+of legal principles, concepts, methodology, and precedence. Because the classical common
+
+161
+0:11:19,440 --> 0:11:22,880
+law and Roman law develop the large bulk of their legal principles through the decision
+
+162
+0:11:22,880 --> 0:11:27,000
+and discussion of cases, they serve as rough examples of decentralized systems of a judge
+
+163
+0:11:27,000 --> 0:11:31,920
+found law, and as do largely private customary law systems like the law merchant. So broadly
+
+164
+0:11:31,920 --> 0:11:37,440
+speaking, there are two types of legal systems; (1) those based on "judge-found" law, and
+
+165
+0:11:37,440 --> 0:11:41,240
+(2) those where the legal principles are decreed by legislation. Roman law and English common
+
+166
+0:11:41,240 --> 0:11:45,280
+law are examples of the former, where the legal principles are obtained by judges attempting
+
+167
+0:11:45,280 --> 0:11:49,240
+to do justice in a number of individual cases, which is why such systems are described as
+
+168
+0:11:49,240 --> 0:11:53,760
+case law systems. Modern civil law, on the other hand, is the prime example of a legislated
+
+169
+0:11:53,760 --> 0:11:57,560
+system, where principles are embodied in a "Civil Code" derived from the arbitrary decree
+
+170
+0:11:57,560 --> 0:12:01,800
+of the legislative branch. Under a legislative system, the judges are not attempting to do
+
+171
+0:12:01,800 --> 0:12:05,840
+justice in some particular dispute, rather they make reference to the legislative fiat
+
+172
+0:12:05,840 --> 0:12:09,840
+on this matter. So appealing to a judge that the given law is unjust is not going to work
+
+173
+0:12:09,840 --> 0:12:14,240
+where it would in a case law system. The distinction between judge found law and law as decreed
+
+174
+0:12:14,240 --> 0:12:18,840
+by legislative fiat is an important one. In a decentralized case law system, the judges
+
+175
+0:12:18,840 --> 0:12:23,520
+are at least setting out to do justice. This is in stark distinction to a fiat law system,
+
+176
+0:12:23,520 --> 0:12:27,440
+where the so-called laws are not rational, but rather arbitrary commandments issued top
+
+177
+0:12:27,440 --> 0:12:31,200
+down by the legislature. Because these commandments are arbitrary, there is nothing objective
+
+178
+0:12:31,200 --> 0:12:35,080
+about the laws in such a system. And because the laws are non-objective, but rather based
+
+179
+0:12:35,080 --> 0:12:40,160
+an arbitrary subjective whim, such a system is per se incompatible with justice and freedom.
+
+180
+0:12:40,160 --> 0:12:44,680
+Even statutes that seem to embody libertarian principles simultaneously subvert those principles.
+
+181
+0:12:44,680 --> 0:12:48,240
+Because in such a legislative system, a victim of an objective crime cannot appeal to the
+
+182
+0:12:48,240 --> 0:12:52,560
+objective principles of justice, judges can only accidentally make the right call, and
+
+183
+0:12:52,560 --> 0:12:56,560
+they have no way of determining the correct compensation for the victim. In fact, most
+
+184
+0:12:56,560 --> 0:13:00,240
+often compensating the victim is completely ignored. Instead, the state will charge the
+
+185
+0:13:00,240 --> 0:13:04,360
+victim money in the form of taxes to punish the criminal by some one-size-fits-all punishment
+
+186
+0:13:04,360 --> 0:13:08,760
+scheme, usually imprisonment. Bruno Leoni has pointed out further that fiat law systems
+
+187
+0:13:08,760 --> 0:13:12,800
+will tend towards more legal uncertainty. This is because where law is determined by
+
+188
+0:13:12,800 --> 0:13:17,240
+arbitrary fiat, rather than objective principles of justice, it can change at any moment. This
+
+189
+0:13:17,240 --> 0:13:20,320
+has the effect of making it challenging to even begin to follow the law in the first
+
+190
+0:13:20,320 --> 0:13:23,680
+place. Consider the many thousands of pages of legislation that are committed to the
+
+191
+0:13:23,680 --> 0:13:27,600
+books. Professional lawyers whose job is to know the law could not hope to keep up with
+
+192
+0:13:27,600 --> 0:13:31,920
+this, let alone random citizens. There's also no means of preventing contradictions
+
+193
+0:13:31,920 --> 0:13:35,520
+from occurring between statutes, potentially making it literally impossible to follow the
+
+194
+0:13:35,520 --> 0:13:40,080
+law, even if you know about every word of it. This is not so with a found law system,
+
+195
+0:13:40,080 --> 0:13:44,160
+where there has to be coherence between different objective principles. And of course, if it's
+
+196
+0:13:44,160 --> 0:13:49,720
+impossible to follow the law, then law cannot guide men's actions. So impossible fiat law
+
+197
+0:13:49,720 --> 0:13:54,560
+is not law at all. To sum up, the job of the rational jurist is to explicate, discover
+
+198
+0:13:54,560 --> 0:13:58,320
+objective standards of law. The role of the judge is to attempt to apply this objective
+
+199
+0:13:58,320 --> 0:14:03,200
+body of law in a given case. The rational judge attempts to do justice, rather than apply
+
+200
+0:14:03,200 --> 0:14:08,200
+or create, i.e. posit, arbitrary rules based on whim. This is an important insight,
+
+201
+0:14:08,200 --> 0:14:12,200
+those in the David Friedman camp, called polycentrists, view an anarcho-capitalist legal
+
+202
+0:14:12,200 --> 0:14:17,200
+order as one of multi-legislation, multi-centralized law, rather than decentralized judge found
+
+203
+0:14:17,200 --> 0:14:22,400
+law. The free market judge is not a mini-legislator, coming up with arbitrary decrees. He is and
+
+204
+0:14:22,400 --> 0:14:27,120
+must be attempting to apply objective legal principles. We can, from the armchair, explicate
+
+205
+0:14:27,120 --> 0:14:31,160
+such an objective body of law. What we cannot do is actually elaborate every possible case
+
+206
+0:14:31,160 --> 0:14:35,320
+that might come up. This is the role of the judge, to attempt to apply abstract and objective
+
+207
+0:14:35,320 --> 0:14:48,320
+principles to concrete cases.
+

@@ -1,0 +1,1692 @@
+1
+0:00:00,000 --> 0:00:18,640
+7. An elaboration on the nature of law as a subset of ethics
+
+2
+0:00:18,640 --> 0:00:23,440
+Value is objective, not intrinsic or subjective. Value is based on and derives from the facts
+
+3
+0:00:23,440 --> 0:00:28,480
+of reality. It is not derived from mystic authority or from whim, personal or social.
+
+4
+0:00:28,480 --> 0:00:32,960
+Reality we hold, along with the decision to remain in it, i.e. to stay alive, dictates and demands
+
+5
+0:00:32,960 --> 0:00:37,760
+the entire code of values. Unlike the lower species, man does not pursue the proper values
+
+6
+0:00:37,760 --> 0:00:42,320
+automatically. He must discover and choose them, but this does not imply subjectivism.
+
+7
+0:00:42,320 --> 0:00:46,880
+Every proper value judgement is the identification of a fact. A given object or action advances
+
+8
+0:00:46,880 --> 0:00:51,680
+man's life. It is good, or it threatens man's life. It is bad, or an evil. The good, therefore,
+
+9
+0:00:51,680 --> 0:00:56,880
+is a species of the true. It is a form of recognising reality. The evil is a species of the false.
+
+10
+0:00:56,880 --> 0:01:01,280
+It is a form of contradicting reality. Or, values are a type of fact. They are facts
+
+11
+0:01:01,280 --> 0:01:05,680
+considered in relation to the choice to live. Existentially, an action of man is good or bad
+
+12
+0:01:05,680 --> 0:01:10,240
+according to its effect. Its effect is positive or negative on man's life. Thus, creating a
+
+13
+0:01:10,240 --> 0:01:15,040
+skyscraper is good, and murdering the architect is bad, both by the standard of life. A human
+
+14
+0:01:15,040 --> 0:01:18,880
+action is not merely physical motion. It is a product of man's ideas and value judgments,
+
+15
+0:01:18,880 --> 0:01:22,160
+true or false, which themselves drive from a certain kind of mental cause,
+
+16
+0:01:22,160 --> 0:01:26,240
+ultimately from thought or from evasion. The skyscraper's creator, function on the basis
+
+17
+0:01:26,240 --> 0:01:30,080
+of proper value judgments and true ideas, including a complex, specialised knowledge.
+
+18
+0:01:30,080 --> 0:01:33,920
+So you must have expended mental effort, focus, work. So one praises him morally
+
+19
+0:01:33,920 --> 0:01:37,760
+and admires him. But the murderer acted on ideas of value judgments that defy reality.
+
+20
+0:01:37,760 --> 0:01:41,920
+So you must have evaded and practised whim worship. So one condemns him morally and despises him.
+
+21
+0:01:42,880 --> 0:01:43,680
+Leonard Peikoff
+
+22
+0:01:44,720 --> 0:01:48,160
+In the preparation for and the writing of this course, I have encountered a strange tendency,
+
+23
+0:01:48,160 --> 0:01:51,520
+wherein the claim that people ought not violate the rights of others is apparently a controversial
+
+24
+0:01:51,520 --> 0:01:55,360
+one, even among Austrians. This is indicative of a severe problem in Austro-libertarian
+
+25
+0:01:55,360 --> 0:01:58,400
+circles that deserves a dedicated section of this course to properly address.
+
+26
+0:01:58,400 --> 0:02:02,240
+The root for this problem is that many reject the core definition of law as a subset of ethics,
+
+27
+0:02:02,240 --> 0:02:05,920
+claiming instead that there is such a thing as a virtuous crime. The paragon example would be a
+
+28
+0:02:05,920 --> 0:02:09,680
+man who is about to commit suicide by jumping off of a cliff. And the only way to save this man
+
+29
+0:02:09,680 --> 0:02:12,880
+is to violate his rights by grabbing him and dragging him away from the cliff's edge.
+
+30
+0:02:12,880 --> 0:02:16,880
+These contextualist-libertarians would have it that whether a crime is moral or not depends on
+
+31
+0:02:16,880 --> 0:02:21,120
+extra-legal context. I believe much of the confusion on this topic stems from the fact that many
+
+32
+0:02:21,120 --> 0:02:25,120
+libertarians at least appear to be somewhat inconsistent. At some points indicating that law
+
+33
+0:02:25,120 --> 0:02:29,120
+is indeed a subset of ethics and at other points rejecting this position. Rothbard explicitly
+
+34
+0:02:29,120 --> 0:02:33,280
+states his work on pollution, that law is a subset of ethics and a set of ought or normative
+
+35
+0:02:33,280 --> 0:02:37,120
+propositions. But his discussion of lifeboat scenarios in The Ethics of Liberty, is commonly
+
+36
+0:02:37,120 --> 0:02:41,200
+cited to negate this point. Rothbard presents the conundrum as follows:
+
+37
+0:02:41,200 --> 0:02:45,680
+QUOTE that the existence of extreme or lifeboat situations disproves any theory of absolute property rights,
+
+38
+0:02:45,680 --> 0:02:49,760
+or indeed of any absolute rights of self-ownership whatsoever. It is claimed that since any theory
+
+39
+0:02:49,760 --> 0:02:53,680
+of individual rights seems to break down or works unsatisfactorily in such fortunately rare
+
+40
+0:02:53,680 --> 0:02:58,000
+situations, therefore there can be no concept of inviolable rights at all. In a typical lifeboat
+
+41
+0:02:58,000 --> 0:03:01,920
+situation there are, let us say, eight places in a lifeboat putting out from a sinking ship,
+
+42
+0:03:01,920 --> 0:03:05,360
+END QUOTE and there are more than eight people wishing to be saved. Who then is to decide who should
+
+43
+0:03:05,360 --> 0:03:09,120
+On its face, this appears to not present any serious problem to
+
+44
+0:03:09,120 --> 0:03:12,640
+the theory presented in this course. The fact that the truth of the matter is unsatisfactory
+
+45
+0:03:12,640 --> 0:03:16,720
+or makes someone upset or look like a bad guy for presenting it does not constitute a refutation
+
+46
+0:03:16,720 --> 0:03:21,440
+of said truth. Indeed, to warp one's ethics to suit one's intuition such that any "unsatisfactory"
+
+47
+0:03:21,440 --> 0:03:25,200
+results are purged would be to surrender oneself to accepting the mystic power of whim to grant
+
+48
+0:03:25,200 --> 0:03:29,520
+truth, thus tainting an otherwise sound epistemology, thus I shall proceed with the analysis without
+
+49
+0:03:29,520 --> 0:03:33,600
+caring about how nasty-sounding the conclusion reached may be. In the first place we have a scarcity,
+
+50
+0:03:33,600 --> 0:03:37,600
+only eight spots in a lifeboat and more than eight people, thus property rights must be assigned.
+
+51
+0:03:37,600 --> 0:03:41,520
+Presumably this lifeboat did not materialise in nature and was instead built by or purchased
+
+52
+0:03:41,520 --> 0:03:45,680
+by whomever owns the boat, thus it is he who gets the right to say who gets a spot, perhaps he makes
+
+53
+0:03:45,680 --> 0:03:49,840
+a rule that women and children go first, perhaps he decides that crewmates get priority over customers
+
+54
+0:03:49,840 --> 0:03:54,400
+and so on. Whatever arbitrary rules he sets ought be abided. Now what of the situation where the
+
+55
+0:03:54,400 --> 0:03:58,320
+owner set no rules forth and has died abandoning lifeboat to the domain of nature? We surely
+
+56
+0:03:58,320 --> 0:04:02,720
+have our solution in the homesteading principle. First come, first served. If you get to a spot in the
+
+57
+0:04:02,720 --> 0:04:07,040
+lifeboat you're thus using said spot and thus get to dictate how it is to be used. Presumably
+
+58
+0:04:07,040 --> 0:04:10,800
+you want it to be used to save yourself. This might be horribly unfair to those who are slower or
+
+59
+0:04:10,800 --> 0:04:14,800
+started further away from the lifeboat, but tough luck! Life isn't fair and neither is law.
+
+60
+0:04:14,800 --> 0:04:19,360
+The prime goal of law is justice, not fairness. What, after all, would be the alternative? That
+
+61
+0:04:19,360 --> 0:04:22,960
+people who are slower to get to the boat, i.e. late comers are the ones who should get a spot?
+
+62
+0:04:22,960 --> 0:04:26,160
+Well, then the people they kick out could just immediately return to the boat as an even later
+
+63
+0:04:26,160 --> 0:04:29,920
+comer, thus entering us into an endless dance of groups getting in and out of the boat.
+
+64
+0:04:29,920 --> 0:04:33,680
+Everyone would be equal, but everyone would be dead. It seems that Rothbard came to the same conclusion:
+
+65
+0:04:33,680 --> 0:04:37,520
+QUOTE If the owner of the boat, or his representative, e.g. the captain of the ship,
+
+66
+0:04:37,520 --> 0:04:41,600
+has died in the wreck, and if he has not laid down no rules in advance of the wreck for allocation
+
+67
+0:04:41,600 --> 0:04:45,280
+of seats in such a crisis, then the lifeboat may be considered at least temporarily for the
+
+68
+0:04:45,280 --> 0:04:49,360
+emergency, abandoned, and therefore unowned. At this point, our rules for unowned property
+
+69
+0:04:49,360 --> 0:04:53,360
+come into play, namely that unowned resources become the property of the first people possessing
+
+70
+0:04:53,360 --> 0:04:57,280
+them. In short, the first eight people to reach the boat are, in our theory, the proper owners
+
+71
+0:04:57,280 --> 0:05:00,960
+and users of the boat. Anyone who throws them out of the boat then commits an act of aggression
+
+72
+0:05:00,960 --> 0:05:04,720
+in violating the property right of the homesteader he throws out of the boat. After he returns to
+
+73
+0:05:04,720 --> 0:05:08,640
+shore, then the aggressive becomes liable for prosecution for his act of violation of property
+
+74
+0:05:08,640 --> 0:05:11,920
+right, as well, perhaps for the murder of the person he rejected out of the boat.
+
+75
+0:05:11,920 --> 0:05:15,440
+Rothbard continues with the following. In the first place, a lifeboat situation is hardly a
+
+76
+0:05:15,440 --> 0:05:19,040
+valid test of a theory of rights, or any moral theory whatsoever. Problems of moral theory
+
+77
+0:05:19,040 --> 0:05:23,040
+in such an extreme situation do not invalidate a theory in normal situations. In any sphere of
+
+78
+0:05:23,040 --> 0:05:26,960
+moral theory, we are trying to affirm an ethic for man, based on his nature and the nature of the
+
+79
+0:05:26,960 --> 0:05:31,760
+world, and this precisely means for normal nature, for the way life usually is, and not for rare or
+
+80
+0:05:31,760 --> 0:05:36,560
+abnormal situations, is a wise maxim of law for precisely this reason that hard cases make bad
+
+81
+0:05:36,560 --> 0:05:40,320
+law. We are trying to frame an ethic for the way men generally live in the world. We are not,
+
+82
+0:05:40,320 --> 0:05:43,920
+after all, interested in framing an ethic that focuses on situations that are rare, extreme,
+
+83
+0:05:43,920 --> 0:05:47,360
+and not generally encountered. Let's take an example to illustrate their point.
+
+84
+0:05:47,360 --> 0:05:50,800
+Outside the sphere of property rights, or rights in general, and within the sphere of ordinary
+
+85
+0:05:50,800 --> 0:05:54,560
+ethical values. Most people would concede the principle that it is ethical for a parent to save
+
+86
+0:05:54,560 --> 0:05:59,040
+his child from drowning, but then our lifeboat skeptic could arise, and our all is challenged.
+
+87
+0:05:59,040 --> 0:06:02,320
+Aha, but suppose that two of your children are drowning, and you can only save one. Which
+
+88
+0:06:02,320 --> 0:06:05,600
+child would you choose? And doesn't the fact that you'd have to let one child die and they get the
+
+89
+0:06:05,600 --> 0:06:08,960
+very moral principle that you should save your drowning child? I doubt whether many ethicists
+
+90
+0:06:08,960 --> 0:06:12,560
+would throw over the moral desirability or principle of saving one's child because it
+
+91
+0:06:12,560 --> 0:06:16,480
+END QUOTEcould not be fully applied in such a lifeboat situation. Yet why should the lifeboat case be
+
+92
+0:06:16,480 --> 0:06:20,160
+The response here indicates that there are at least two different spheres of ethics.
+
+93
+0:06:20,160 --> 0:06:25,120
+One for normal situations, and one for abnormal ones. It is not clear, however,
+
+94
+0:06:25,120 --> 0:06:28,480
+how on earth it could be possible to make a non-arbitrary distinction between normal and
+
+95
+0:06:28,480 --> 0:06:32,320
+abnormal ethical conundrums. Moreover, as such a principled distinction cannot be made between
+
+96
+0:06:32,320 --> 0:06:36,240
+normal and abnormal such a theory be particularistic and thus irrational. That is to say, there are
+
+97
+0:06:36,240 --> 0:06:40,160
+certainly many differences that one could use to define normal as opposed to abnormal. Say that
+
+98
+0:06:40,160 --> 0:06:44,000
+situations where red shirts are worn are abnormal, and the ones where red shirts are not worn,
+
+99
+0:06:44,000 --> 0:06:47,840
+the situation is normal. That would be a difference, but the difference is not relevant to ethical
+
+100
+0:06:47,840 --> 0:06:52,480
+theory. Thus a rational norm must apply to both classes of situations in order to be universal,
+
+101
+0:06:52,480 --> 0:06:56,080
+as opposed to particular. Until such a principled difference can be found to define normal as
+
+102
+0:06:56,080 --> 0:07:00,240
+opposed to abnormal, we are stuck with universal norms having to apply to both classes, and thus
+
+103
+0:07:00,240 --> 0:07:03,840
+there are not two "spheres" of moral theory. That is to say, it couldn't be the case that
+
+104
+0:07:03,840 --> 0:07:08,400
+property rights hold normally, but not abnormally. Such would be a particularistic property norm,
+
+105
+0:07:08,400 --> 0:07:12,240
+and thus an irrational one. I must now consider Rothbard's drowning children hypothetical.
+
+106
+0:07:12,240 --> 0:07:15,440
+In the case of a single child, it is assumed that parent can save them, and in the case of
+
+107
+0:07:15,440 --> 0:07:19,040
+two children it is assumed that only one can be saved. There are indeed certain similarities
+
+108
+0:07:19,040 --> 0:07:22,560
+between the drowning children and Lifeboat, so the case of two children, one will die, and one will
+
+109
+0:07:22,560 --> 0:07:26,160
+live. For the Lifeboat, eight will live, and others will die. The question is how to determine
+
+110
+0:07:26,160 --> 0:07:29,120
+who should live and who should die. We have our solution in the case of the Lifeboat,
+
+111
+0:07:29,120 --> 0:07:32,080
+and it strikes me that this course provides a similar ability to answer the drowning children
+
+112
+0:07:32,080 --> 0:07:35,840
+hypothetical. The mother cannot physically save both, and thus it is surely a matter of personal
+
+113
+0:07:35,840 --> 0:07:39,440
+preference which one she saves. And why should she be expected to act any differently? It would
+
+114
+0:07:39,440 --> 0:07:43,200
+be logically impossible for her to pick the one that she would prefer not to save, and thus the
+
+115
+0:07:43,200 --> 0:07:46,880
+only alternative would be to let both drown. Surely we can easily sum this up in a universal
+
+116
+0:07:46,880 --> 0:07:50,480
+principle. Guardians ought save their children from drowning insofar as they have the ability
+
+117
+0:07:50,480 --> 0:07:53,840
+to. It is not my claim that this principle has been proven, after all this is a law course,
+
+118
+0:07:53,840 --> 0:07:57,200
+not a course on ethics in general, but I can't see how this would not be universal,
+
+119
+0:07:57,200 --> 0:08:01,120
+and it certainly seems that it easily deals with Rothbard's hypothetical opponent.
+
+120
+0:08:01,120 --> 0:08:05,760
+Rothbard seemingly goes forth with his multi-sphere model:
+
+121
+0:08:05,760 --> 0:08:09,120
+to our theory as follows. That theory of property rights, or even of self-ownership,
+
+122
+0:08:09,120 --> 0:08:12,640
+is driveable from the conditions by which man survives and flourishes in this world,
+
+123
+0:08:12,640 --> 0:08:16,400
+and that therefore, in this kind of extreme situation, or mass faced with the choice of either
+
+124
+0:08:16,400 --> 0:08:20,240
+saving himself or violating the property rights of the Lifeboat owner, or in the above example of
+
+125
+0:08:20,240 --> 0:08:23,920
+the homesteader of the boat, and it is ridiculous to expect him to surrender his life on behalf
+
+126
+0:08:23,920 --> 0:08:27,280
+of the abstract principle of property rights. Because of this kind of consideration, many
+
+127
+0:08:27,280 --> 0:08:30,720
+libertarians who otherwise believe in property rights gravely weaken them on behalf of the
+
+128
+0:08:30,720 --> 0:08:34,560
+contextualist contention that, given a choice between his life and a grazing against someone
+
+129
+0:08:34,560 --> 0:08:38,000
+else's property or even life, it is moral for him to commit the aggression, and that therefore,
+
+130
+0:08:38,000 --> 0:08:41,440
+in such a situation, these property rights cease to exist. The error here on the part of
+
+131
+0:08:41,440 --> 0:08:44,800
+the contentious libertarian is to confuse the question of the moral course of action for the
+
+132
+0:08:44,800 --> 0:08:48,560
+person in such a tragic situation, with a totally separate question of whether or not his seizing
+
+133
+0:08:48,560 --> 0:08:52,320
+of Lifeboat or Planck Space by force constitutes an invasion of someone else's property right,
+
+134
+0:08:52,320 --> 0:08:56,240
+for we are not in constructing a theory of liberty and property, i.e. a political ethic,
+
+135
+0:08:56,240 --> 0:09:00,240
+concerned with all personal moral principles. We are not here with concern whether it is moral
+
+136
+0:09:00,240 --> 0:09:04,640
+or immoral for someone to lie, to be a good person, to develop his faculties, or be kind or mean to
+
+137
+0:09:04,640 --> 0:09:08,560
+his neighbours. We are concerned in this sort of discussion solely with such political ethical
+
+138
+0:09:08,560 --> 0:09:12,640
+questions as the proper rule of violence, the sphere of rights, or the definitions of criminality
+
+139
+0:09:12,640 --> 0:09:16,160
+and aggression. Whether or not it is moral or immoral for Smith, the fellow excluded by the
+
+140
+0:09:16,160 --> 0:09:19,440
+owner from the Planck or the Lifeboat, to force someone else out of the Lifeboat or whether he
+
+141
+0:09:19,440 --> 0:09:23,520
+END QUOTE should die heroically instead, is not our concern and not the proper concern of a theory of political
+
+142
+0:09:23,520 --> 0:09:27,520
+On a first glance, it would seem that Rothbard is adopting a dichotomy between law and ethics,
+
+143
+0:09:27,520 --> 0:09:31,520
+and this passage would mean sighted to me numerous times to that effect. But to my eye, this is only
+
+144
+0:09:31,520 --> 0:09:35,040
+one of multiple valid interpretations of Rothbard's writing here. It appears to me that he is merely
+
+145
+0:09:35,040 --> 0:09:38,800
+hedging his bets and ignoring the questions of ethics as a whole and focusing in on the area
+
+146
+0:09:38,800 --> 0:09:42,800
+that he has expertise in. This highlights why Rothbard saw fit to analyse the Lifeboat scenario
+
+147
+0:09:42,800 --> 0:09:47,440
+to "ordinary ethical values;" if law was not a subset of ethics, i.e. if it did not deal with
+
+148
+0:09:47,440 --> 0:09:51,840
+ought statements, such an analogy would be incoherent. Furthermore, Rothbard is correct here that we
+
+149
+0:09:51,840 --> 0:09:56,000
+are not, in constructing a theory of liberty and property, concerned with all personal moral
+
+150
+0:09:56,000 --> 0:09:59,840
+principles. We are rather only concerned with those moral principles that pertain to conflicts
+
+151
+0:09:59,840 --> 0:10:04,560
+over scarce means. This does not, as the critics claim, demonstrate that law and ethics are disconnected
+
+152
+0:10:04,560 --> 0:10:08,320
+fields. Clearly, if we are concerned with a subset of all moral principles which deals specifically
+
+153
+0:10:08,320 --> 0:10:13,120
+with conflicts in doing law, then law itself is a subset of morality in general. This analysis is
+
+154
+0:10:13,120 --> 0:10:16,480
+also consistent with Rothbard's claim that whether or not it is moral or immoral for Smith,
+
+155
+0:10:16,480 --> 0:10:19,840
+the fellow excluded by the owner from the plank or the Lifeboat, to force someone else out of the
+
+156
+0:10:19,840 --> 0:10:23,840
+Lifeboat, or whether he should die heroically instead, is not our concern and not the proper
+
+157
+0:10:23,840 --> 0:10:27,520
+concern of a theory of political ethics. It very much appears to me that Rothbard is merely leaving
+
+158
+0:10:27,520 --> 0:10:31,360
+the floor open for his legal theory to be compatible with any outside ethical theory that one may come
+
+159
+0:10:31,360 --> 0:10:35,840
+up with, even one which would allow for contradictions between "personal" and "political" ethics. Of course,
+
+160
+0:10:35,840 --> 0:10:39,840
+such a theory would be false, but that is not the concern of Rothbard qua legal theorist.
+
+161
+0:10:39,840 --> 0:10:43,760
+This becomes clear in a footnote attached to the end of the above paragraph, commenting on an example
+
+162
+0:10:43,760 --> 0:10:47,120
+where two men are floating in the water and there's a plank that can save only one of them:
+
+163
+0:10:47,120 --> 0:10:50,480
+QUOTE Eric Mack's example fails to show a necessary conflict between property rights and moral
+
+164
+0:10:50,480 --> 0:10:54,080
+principles. The conflict in his example is between property rights and the dictates of prudence
+
+165
+0:10:54,080 --> 0:10:58,000
+or self-interest, but the latter is only dominated morality if one adopts moral equalism,
+
+166
+0:10:58,000 --> 0:11:01,760
+END QUOTE which indeed Professor Mack does, but which is only one possible moral theory.
+
+167
+0:11:01,760 --> 0:11:05,920
+This makes it abundantly clear to me that Rothbard is, as I claim, simply trying to make his ethic as narrow
+
+168
+0:11:05,920 --> 0:11:10,400
+as possible such that it may be slotted into any general ethical theory.
+
+169
+0:11:10,400 --> 0:11:14,000
+QUOTE The crucial point is that even if the contextualist libertarians may say that,
+
+170
+0:11:14,000 --> 0:11:18,480
+given the tragic context, Smith should throw someone else out of the lifeboat to save his own life,
+
+171
+0:11:18,480 --> 0:11:22,880
+he is still committing, at the very least, invasion of property rights, and probably also
+
+172
+0:11:22,880 --> 0:11:26,640
+murder of the person thrown out, so that even if one says that he should try and save his life
+
+173
+0:11:26,640 --> 0:11:31,120
+by forcibly grabbing a seat in the lifeboat, he is still, in our view, liable to prosecution as
+
+174
+0:11:31,120 --> 0:11:35,360
+a criminal invader of property right, and perhaps as a murderer as well. After he's convicted,
+
+175
+0:11:35,360 --> 0:11:39,440
+it would be the right of the lifeboat owner or the heir of the person tossed out to forgive Smith,
+
+176
+0:11:39,440 --> 0:11:43,520
+to pardon him because of the unusual circumstances, but it would also be the right not to pardon
+
+177
+0:11:43,520 --> 0:11:47,200
+and to proceed with the full force of their legal right to punish. Once again, we are concerned in
+
+178
+0:11:47,200 --> 0:11:51,120
+this theory with the rights of the case, not, with whether or not a person chooses to voluntarily
+
+179
+0:11:51,120 --> 0:11:54,720
+exercise his rights. In our view, the property owner or the heir of the killed would have the
+
+180
+0:11:54,720 --> 0:11:59,200
+right to prosecute and to exact proper punishment upon the aggressor. The fallacy of the contextualists
+
+181
+0:11:59,200 --> 0:12:02,880
+is to confuse considerations of individual personal morality, what should Smith do,
+
+182
+0:12:02,880 --> 0:12:06,800
+END QUOTE with the question of the rights of the case. The right to property continues, then, to be absolute,
+
+183
+0:12:06,800 --> 0:12:10,880
+Again, Rothbard's use of the even if disclaimer prior to the hypothetical proof
+
+184
+0:12:10,880 --> 0:12:14,640
+that Smith should throw someone out of the lifeboat is a crystal-clear
+
+185
+0:12:14,640 --> 0:12:18,720
+signal that Rothbard is merely entertaining this as a hypothetical counter to his thesis.
+
+186
+0:12:18,720 --> 0:12:22,320
+What Rothbard has done is that he is shown his theory of property rights to hold, even if
+
+187
+0:12:22,320 --> 0:12:25,600
+someone were to prove that there are separate personal and political spheres of ethics.
+
+188
+0:12:25,600 --> 0:12:29,840
+To reiterate, Rothbard has not here accepted that there is indeed such a proof, all he has done
+
+189
+0:12:29,840 --> 0:12:33,440
+is shown that the existence of such a proof is irrelevant to his legal theory. Of course,
+
+190
+0:12:33,440 --> 0:12:37,280
+such a proof does not exist, as said multi-sphere ethics would be a polylogism.
+
+191
+0:12:37,280 --> 0:12:41,680
+Ought is ought, there is not ought-but-personal, and a separate ought-but-political, there is only ought.
+
+192
+0:12:41,680 --> 0:12:45,520
+Confusion on this matter comes down to colloquial usage of the word ought. In sentences like,
+
+193
+0:12:45,520 --> 0:12:48,560
+you ought wear a coat because you don't want to get wet. There are two ways we can interpret
+
+194
+0:12:48,560 --> 0:12:51,760
+this statement. Either we assume that ought is being used in its precise logical meaning,
+
+195
+0:12:51,760 --> 0:12:55,120
+or we assume it is being used as prudential advice. In the former case, the statement is
+
+196
+0:12:55,120 --> 0:12:58,160
+simply invalid. It does not follow from the fact that a person doesn't want to get wet,
+
+197
+0:12:58,160 --> 0:13:01,280
+that they ought prevent themselves from getting wet by wearing a coat. After all,
+
+198
+0:13:01,280 --> 0:13:04,880
+I may want to rape a baby, but it does not follow from the existence of this whim that I actually
+
+199
+0:13:04,880 --> 0:13:08,720
+ought obey it. The latter interpretation of ought being a prudential advice is a colloquial
+
+200
+0:13:08,720 --> 0:13:12,560
+usage of the word. What is really being said is, if you do not want to get wet, wearing a coat
+
+201
+0:13:12,560 --> 0:13:16,480
+will achieve this goal, which is clearly an is statement. All that is being said is that the
+
+202
+0:13:16,480 --> 0:13:20,480
+given strategy will attain the goal, not whether the goal is proper. Thus, it could not be that
+
+203
+0:13:20,480 --> 0:13:25,040
+politically you ought not aggress but personally you ought aggress, as that would be a contradiction.
+
+204
+0:13:25,040 --> 0:13:28,640
+You ought aggress, and you ought not aggress. Then it appears to me that Rothbard holds law
+
+205
+0:13:28,640 --> 0:13:32,240
+as a subset of ethics, but has also successfully shielded his theory from any attack which would
+
+206
+0:13:32,240 --> 0:13:36,240
+seek to separate them. This stance becomes confusing in the light of modern Austrian theorists.
+
+207
+0:13:36,240 --> 0:13:40,480
+Hoppe has shown with his argumentation ethics that any attempt at negating the NAP leads to contradiction,
+
+208
+0:13:40,480 --> 0:13:43,920
+but elsewhere claims that he was not attempting to drive an ought from an is, but surely if an
+
+209
+0:13:43,920 --> 0:13:48,000
+ought statement which negates the NAP falls into contradiction, its negation must be true? This
+
+210
+0:13:48,000 --> 0:13:51,600
+will be analysed in greater depth below, but for now the contextualist counter-thesis to my
+
+211
+0:13:51,600 --> 0:13:55,360
+position is summed up explicitly by Konrad Graf:
+
+212
+0:13:55,360 --> 0:13:59,280
+QUOTE praxeology enables its reconstruction as a categorical and definitional assessment of what
+
+213
+0:13:59,280 --> 0:14:03,440
+types of actions are NAP infringements, separate from moral assessment of such infringements.
+
+214
+0:14:03,440 --> 0:14:07,600
+In this view, an example of an ethical statement would be one or not violate rights. Legal theory
+
+215
+0:14:07,600 --> 0:14:11,600
+END QUOTEhelps us to make this go actionable by supplying information concerning the question, what is
+
+216
+0:14:11,600 --> 0:14:15,200
+And what, then, does it mean to violate a right? As I'm sure Konrad would agree,
+
+217
+0:14:15,200 --> 0:14:18,560
+it means that you could not justify your conduct, but what does it mean that you cannot justify
+
+218
+0:14:18,560 --> 0:14:22,560
+your conduct? It means that you cannot claim that your conduct should go forth, as said claim
+
+219
+0:14:22,560 --> 0:14:27,120
+implies a contradiction. Thus, its negation that your conduct should not go forth is true.
+
+220
+0:14:27,120 --> 0:14:32,800
+This is a legal claim and an ethical one. In fact, every legal claim is also an ethical claim,
+
+221
+0:14:32,800 --> 0:14:37,120
+as every legal claim is a claim about which party should have possession in the conflict at hand.
+
+222
+0:14:37,120 --> 0:14:40,960
+QUOTE There is an intuitive relationship between law and ethics. However, I argue that it is not one
+
+223
+0:14:40,960 --> 0:14:45,040
+of a field to a subfield, but rather of an advisor relationship between two distinct fields.
+
+224
+0:14:45,040 --> 0:14:49,680
+If one takes on the moral objective of not agressing, one is more likely to be successful at this in
+
+225
+0:14:49,680 --> 0:14:53,760
+action, with a clear idea of what aggression is. Rights and statements become one category of
+
+226
+0:14:53,760 --> 0:14:57,920
+wrongs next to other non-legal categories of wrongs that a given ethical system may specify.
+
+227
+0:14:57,920 --> 0:15:01,840
+Yet the definition of what constitutes infringing rights is derived independently of ethics using
+
+228
+0:15:01,840 --> 0:15:06,400
+the categorical, counterfactual method of praxeology. Although argumentation ethics establishes that
+
+229
+0:15:06,400 --> 0:15:10,320
+END QUOTE no propositional argument against the NAP can succeed, it does not prevent human beings from
+
+230
+0:15:10,320 --> 0:15:14,080
+Indeed, Konrad is correct that argumentation ethics does not
+
+231
+0:15:14,080 --> 0:15:17,280
+prevent people from engaging in aggression, but it does demonstrate that any attempted
+
+232
+0:15:17,280 --> 0:15:20,800
+justification of that aggression would fall into contradiction. That is to say, any claim that
+
+233
+0:15:20,800 --> 0:15:25,920
+one ought agress implies a contradiction, thus its negation that one ought not agress is true,
+
+234
+0:15:25,920 --> 0:15:29,520
+just as the fact that one plus one makes two does not prevent people from acting erroneously
+
+235
+0:15:29,520 --> 0:15:33,040
+on the thought that it actually makes three, so two does the fact that aggression is evil,
+
+236
+0:15:33,040 --> 0:15:36,400
+not prevent people from erroneously acting on the thought that it is good. Furthermore,
+
+237
+0:15:36,400 --> 0:15:41,440
+Konrad himself states that the NAP forms the outer boundary of justifiability for any norm or rule.
+
+238
+0:15:41,440 --> 0:15:45,520
+This is because any norm in contradiction to the NAP is simply incoherent via the nature of
+
+239
+0:15:45,520 --> 0:15:50,720
+justification as such. Law is pointless it is not a subset of ethics. A is a crime, but so what?
+
+240
+0:15:50,720 --> 0:15:53,760
+What does it mean to have a right if it doesn't mean that it should not be violated? Could one
+
+241
+0:15:53,760 --> 0:15:58,000
+accept wholesale the NAP and the entire Rothbardian politics, whilst agreeing with every ethical
+
+242
+0:15:58,000 --> 0:16:02,160
+prescription we hear from the Marxists? If ethics and the law merely intersect, where do the intersect
+
+243
+0:16:02,160 --> 0:16:05,840
+and why not elsewhere? What are those rights that should be violated and in what sense are they even
+
+244
+0:16:05,840 --> 0:16:09,840
+rights if they shouldn't be respected? A favorite quote of the ethics and law separators comes from Hoppe himself
+
+245
+0:16:09,840 --> 0:16:13,840
+QUOTE, who states, the praxeological proof of libertarianism has the advantage of
+
+246
+0:16:13,840 --> 0:16:17,360
+offering a completely value free justification of private property, it remains entirely in the
+
+247
+0:16:17,360 --> 0:16:21,200
+realm of his statements and never tries to derive an alt from an is. The structure of this argument
+
+248
+0:16:21,200 --> 0:16:25,840
+is this. A, justification is propositional justification, a priori true is statement.
+
+249
+0:16:25,840 --> 0:16:29,680
+B, argumentation presupposes property in one's body and the homesteading principle,
+
+250
+0:16:29,680 --> 0:16:35,280
+a priori true is statement. And C, then no deviation from this ethic can be argumentatively justified,
+
+251
+0:16:35,280 --> 0:16:39,200
+a priori true is statement. The proof also offers a key to an understanding of the nature of the
+
+252
+0:16:39,200 --> 0:16:42,800
+fact of value dichotomy. Ought statements cannot be derived from his statements, they belong to
+
+253
+0:16:42,800 --> 0:16:46,560
+different logical realms. It is also clear, however, that one cannot even state that there are facts
+
+254
+0:16:46,560 --> 0:16:50,720
+and values if no propositional exchanges exist. And at this practice of propositional exchanges,
+
+255
+0:16:50,720 --> 0:16:54,880
+in turn, presupposes the acceptance of the private property ethic as valid. In other words,
+
+256
+0:16:54,880 --> 0:16:58,800
+END QUOTE cognition and truth seeking as such have a normative foundation, and the normative foundation on
+
+257
+0:16:58,800 --> 0:17:03,040
+Hoppe is indeed correct that his above syllogism as not of the form
+
+258
+0:17:03,040 --> 0:17:07,280
+is-statement, is-statement, therefore, ought-statement. But those in the Konrad camp
+
+259
+0:17:07,280 --> 0:17:11,040
+are incorrect to conclude from this that argumentation ethics fails to demonstrate
+
+260
+0:17:11,040 --> 0:17:15,120
+the truth and falsehood of different ought statements, as Hoppe himself stated in that very passage,
+
+261
+0:17:15,120 --> 0:17:20,160
+recognition of the private property ethic aka the NAP, as valid, is a precondition for arguing
+
+262
+0:17:20,160 --> 0:17:23,920
+over anything. Thus, to try and dispute the NAP, you have to first accept that it is true,
+
+263
+0:17:23,920 --> 0:17:28,480
+giving it the axiomatic status just as surely as the action axiom or the law of non-contradiction.
+
+264
+0:17:28,480 --> 0:17:32,160
+Furthermore, we can use a conclusion of Hoppe's above syllogism to construct a new syllogism.
+
+265
+0:17:32,160 --> 0:17:36,800
+1. I ought engage in aggression X implies a contradiction. A priori true is statement.
+
+266
+0:17:36,800 --> 0:17:39,840
+2. Contradictions are false. A priori true is statement.
+
+267
+0:17:39,840 --> 0:17:44,640
+In other words, the negation of the NAP implies a contradiction. Therefore, the negation of
+
+268
+0:17:44,640 --> 0:17:48,720
+the negation of the NAP, which is the NAP, is true. But how could this be if
+
+269
+0:17:48,720 --> 0:17:53,120
+fact and values "belong to different logical realms?"
+
+270
+0:17:53,120 --> 0:17:57,680
+The issue we come to with this view is a dogmatic application of Hume's guillotine,
+
+271
+0:17:57,680 --> 0:18:01,520
+also called the fact-value dichotomy. The claim is that it is impossible to
+
+272
+0:18:01,520 --> 0:18:05,760
+drive an ought from an is, but clearly I have done just that. The negation of the NAP is an
+
+273
+0:18:05,760 --> 0:18:09,920
+ought statement that implies a contradiction. Contradictions are false, therefore the NAP is true.
+
+274
+0:18:09,920 --> 0:18:13,840
+It is a true ought statement. However, you want to describe this, whether I have sidesteped or
+
+275
+0:18:13,840 --> 0:18:17,920
+transcended or ploughed straight through Hume's guillotine. The fact remains that there are true
+
+276
+0:18:17,920 --> 0:18:22,560
+values, and thus there is no dichotomy between facts and values. This statement is incredibly
+
+277
+0:18:22,560 --> 0:18:26,320
+controversial in the face of modern subjectivist philosophy. Where insofar as ethics is even
+
+278
+0:18:26,320 --> 0:18:29,680
+thought about, it is dismissed out of hand as a mere description of what people want to do.
+
+279
+0:18:29,680 --> 0:18:33,840
+But of course, saying that person A wants to do X over not X is the claim that A thinks he
+
+280
+0:18:33,840 --> 0:18:38,880
+should pick X over not X when given the chance. That is to say, a preference for X over not X
+
+281
+0:18:38,880 --> 0:18:43,920
+is itself an ethical claim, so choice itself has value implications. I imagine almost everyone
+
+282
+0:18:43,920 --> 0:18:47,920
+takes the is-ought gap for granted, thus I will take some time to further elaborate on why the fact
+
+283
+0:18:47,920 --> 0:18:52,400
+value dichotomy does not exist. First, values in the ethical sense are not arbitrary.
+
+284
+0:18:52,400 --> 0:18:56,160
+Insofar as a person is engaging in any form of evaluation or making some argument or acting
+
+285
+0:18:56,160 --> 0:19:00,320
+at all, he is necessarily making the choice of existence over non-existence. That is to say,
+
+286
+0:19:00,320 --> 0:19:04,240
+to remain in reality, to claim anything to be correct at all, he must hold life as a value.
+
+287
+0:19:04,240 --> 0:19:08,160
+To negate the value of life would be to immediately contradict oneself, as said negation would have
+
+288
+0:19:08,160 --> 0:19:12,080
+to be performed by a living man who chooses to keep living for the purpose of uttering his negation.
+
+289
+0:19:12,080 --> 0:19:16,320
+The good, therefore, corresponds to that which is pro-life, and the bad, that which is anti-life.
+
+290
+0:19:16,320 --> 0:19:20,320
+Furthermore, man is not an automaton. He evaluates because he chooses. The choice he has at any
+
+291
+0:19:20,320 --> 0:19:24,640
+crossroads is whether to be pro-life, i.e. in correspondence to reality, or anti-life, i.e.
+
+292
+0:19:24,640 --> 0:19:28,640
+not in correspondence to reality. In other words, a man always has the choice whether to accept truth,
+
+293
+0:19:28,640 --> 0:19:33,200
+to think, or to reject truth, to evade it. Because evading reality is itself a rejection of truth,
+
+294
+0:19:33,200 --> 0:19:37,280
+one cannot coherently argue for evasion, as this would involve making the truth claim that there
+
+295
+0:19:37,280 --> 0:19:42,160
+is no such thing as truth, to which all one can ask, is it true that there is no such thing as truth?
+
+296
+0:19:42,160 --> 0:19:47,120
+Because evasion or pro-falsehood is anti-life, and life is undeniably good, evasion is undeniably
+
+297
+0:19:47,120 --> 0:19:51,360
+bad. In other words, any is statement implies a set of ought statements, and vice versa.
+
+298
+0:19:51,360 --> 0:19:55,120
+Making a moral claim implies presuppositions about epistemology and metaphysics, and making
+
+299
+0:19:55,120 --> 0:19:58,800
+claims about epistemology and metaphysics necessarily implies certain things about ethics.
+
+300
+0:19:58,800 --> 0:20:02,160
+QUOTE In the objective approach, since every fact bears them the choice to live, every truth
+
+301
+0:20:02,160 --> 0:20:06,400
+necessarily entails a value judgment, and every value judgment necessarily presupposes a truth.
+
+302
+0:20:06,400 --> 0:20:10,640
+As Ayn Rand states the point in the objectivist ethics, knowledge for any conscious organism
+
+303
+0:20:10,640 --> 0:20:14,240
+is the means for survival. To live in consciousness, every is implies an ought.
+
+304
+0:20:14,240 --> 0:20:17,040
+Evaluation, accordingly, is not a compartmentalized function,
+
+305
+0:20:17,040 --> 0:20:20,160
+applicable only to some aspect of a man's life or of reality.
+
+306
+0:20:20,160 --> 0:20:23,760
+END QUOTE If one chooses to live, and to be objective, a process of evaluation is co-extensive with,
+
+307
+0:20:23,760 --> 0:20:27,920
+That is, facts about reality, such as that the sun shines or that lightning strikes,
+
+308
+0:20:27,920 --> 0:20:31,680
+have implications for man's self-preservation, and because man
+
+309
+0:20:31,680 --> 0:20:35,520
+objectively ought endeavour to preserve himself, these metaphysically given facts implies certain
+
+310
+0:20:35,520 --> 0:20:38,960
+things about what man should be doing. The fact that the sun shines and that within certain limits,
+
+311
+0:20:38,960 --> 0:20:43,120
+sunshine is good for man, implies all sorts of oughts. For instance, other things being equal,
+
+312
+0:20:43,120 --> 0:20:46,160
+we ought grow our crops in the shine rather than the shade, because doing so will yield
+
+313
+0:20:46,160 --> 0:20:49,840
+more crops, and thus further man's life more than the alternative. Also, we ought build our
+
+314
+0:20:49,840 --> 0:20:53,440
+houses such that they have windows and we can get vitamin D, but sunlight can also cause us damage
+
+315
+0:20:53,440 --> 0:20:56,640
+by burning our skin if we get too much of it, so other things being equal, we ought avoid
+
+316
+0:20:56,640 --> 0:21:00,160
+this outcome, possibly wearing sunscreen or bringing an umbrella for shade. All these
+
+317
+0:21:00,160 --> 0:21:04,080
+evaluations are demanded by the cognitions involved. Again, because these things are pro-life,
+
+318
+0:21:04,080 --> 0:21:08,320
+they are pro-truth and reality, therefore these oughts cannot be coherently negated. Moreover,
+
+319
+0:21:08,320 --> 0:21:11,920
+to attempt to negate such an ought is indicative of an error in the thinker in question. They are
+
+320
+0:21:11,920 --> 0:21:15,520
+either making an honest mistake or they are on an active rebellion against truth. Because error
+
+321
+0:21:15,520 --> 0:21:19,600
+is bad, to embrace an error as fully as does the thinker an active rebellion against truth, implies
+
+322
+0:21:19,600 --> 0:21:23,440
+that the proper moral evaluation of this thinker is that he is wicked. Now, this is not the case
+
+323
+0:21:23,440 --> 0:21:27,600
+for all such instances of perpetuating of falsehood. Men are capable of making honest
+
+324
+0:21:27,600 --> 0:21:30,960
+mistakes in their understanding of reality. This is most prevalent in the very young or
+
+325
+0:21:30,960 --> 0:21:34,880
+the intellectually impaired. This is quite distinct to the academic Marxists and other subjectivists who
+
+326
+0:21:34,880 --> 0:21:38,400
+dedicate their lives to the perpetuation of intellectually dishonest ideas.
+
+327
+0:21:38,400 --> 0:21:42,000
+QUOTE conscious attempt to perceive reality by the use of one's mind is the essence of honesty,
+
+328
+0:21:42,000 --> 0:21:45,600
+no such rebellion could qualify as honest. The originators, leaders, and intellectual
+
+329
+0:21:45,600 --> 0:21:49,280
+spokesman of all such movements are necessarily evaders on a major scale. They are not merely
+
+330
+0:21:49,280 --> 0:21:52,960
+mistaken, but are crusading irrationalists. The mass base of such movements are not
+
+331
+0:21:52,960 --> 0:21:56,720
+evaders of the same kind, but most of the followers are dishonest in their own passive way. They
+
+332
+0:21:56,720 --> 0:22:00,320
+are unthinking intellectually irresponsible, ballast, unconcerned with logic or truth.
+
+333
+0:22:00,320 --> 0:22:04,080
+They go along with corrupt trendsetters because their neighbours demand it, and or because
+
+334
+0:22:04,080 --> 0:22:08,000
+a given notion satisfies some out-of-context desire they happen to feel. People of this kind
+
+335
+0:22:08,000 --> 0:22:12,160
+are not the helplessly ignorant, but the wheelfully self-deluded. Even in regard to inherently
+
+336
+0:22:12,160 --> 0:22:16,240
+dishonest movements, let me now add, a marginal third category of adherence as possible.
+
+337
+0:22:16,240 --> 0:22:19,440
+There are a relatively small number whose struggle haunts you anxiously, but simply
+
+338
+0:22:19,440 --> 0:22:23,680
+cannot grasp the issues and monument or corruption involved. These are a handful of became communists,
+
+339
+0:22:23,680 --> 0:22:27,760
+channelers, etc., through a truly honest error of knowledge, leaving aside the retarded and
+
+340
+0:22:27,760 --> 0:22:32,080
+illiterate who are effectively helpless in such matters. This third group consists almost exclusively
+
+341
+0:22:32,080 --> 0:22:36,080
+of the very young, and precisely for this reason, these youngsters get out of such movements fast,
+
+342
+0:22:36,080 --> 0:22:39,680
+on their own, without needing lectures from others. They get out of the rich maturity.
+
+343
+0:22:39,680 --> 0:22:43,600
+Being conscientious and mentally active, they see first-hand what is going on in the movement
+
+344
+0:22:43,600 --> 0:22:47,760
+and identify what it means, so their initial enthusiasm turns to dismay and then to our,
+
+345
+0:22:47,760 --> 0:22:51,680
+andray and we the living may be taken as a fictional symbol here. The very honesty of such
+
+346
+0:22:51,680 --> 0:22:55,360
+individuals limits their stay in the movement. They can't tolerate for long the massiveness
+
+347
+0:22:55,360 --> 0:22:59,120
+of the evil with which they have become involved, nor when such youngsters drop out. They say to
+
+348
+0:22:59,120 --> 0:23:02,880
+the world, belligerently, don't dare judge me from my past, because my error was honest.
+
+349
+0:23:02,880 --> 0:23:06,240
+On the contrary, and here I speak from my own personal experience of honest errors that I
+
+350
+0:23:06,240 --> 0:23:09,760
+commit to as a teenager, the best among these young people are contrite. They recognise
+
+351
+0:23:09,760 --> 0:23:13,760
+aid and comfort, inadvertent though it be, which they've been given to error and evil, and they seek
+
+352
+0:23:13,760 --> 0:23:17,200
+to make amends for it. They expect those who know of their past creates and allegiances to
+
+353
+0:23:17,200 --> 0:23:21,440
+regard to a suspicion. They know that it is their own responsibility to demonstrate objectively and
+
+354
+0:23:21,440 --> 0:23:24,560
+END QUOTE across time that they have changed, that they will not repeat their error tomorrow in another
+
+355
+0:23:24,560 --> 0:23:28,720
+Any form of ethical subjectivism, which is required for the fact-value dichotomy to stand,
+
+356
+0:23:28,720 --> 0:23:32,240
+implies an epistemology that holds that mere whims are the proper source of evaluation.
+
+357
+0:23:32,240 --> 0:23:36,240
+This would make ethics, and therefore a law, a completely pointless field
+
+358
+0:23:36,240 --> 0:23:40,000
+with no reason for existing. That is to say, reacting to Hume's guillotine implies the complete
+
+359
+0:23:40,000 --> 0:23:43,440
+destruction of ethics to the chattering applause of the most evil philosophies known to man. But
+
+360
+0:23:43,440 --> 0:23:47,280
+as Hoppe points out, there are certain norms, namely property rights, that must be accepted as
+
+361
+0:23:47,280 --> 0:23:51,360
+valid prior to beginning any ethical deliberation whatsoever, even an ethical deliberation that seeks
+
+362
+0:23:51,360 --> 0:23:56,000
+to destroy ethics. Therefore, any ethical theorist who attempts to erect a dichotomy between fact
+
+363
+0:23:56,000 --> 0:24:00,240
+and value must accept as valid certain values whilst attempting to demonstrate the invalidity of
+
+364
+0:24:00,240 --> 0:24:04,320
+value as such. So a philosopher qua ethical theorist cannot speak of Hume's guillotine
+
+365
+0:24:04,320 --> 0:24:08,480
+without falling into utter incoherence, and thus ethical subjectivism is an incoherent
+
+366
+0:24:08,480 --> 0:24:12,400
+anti-ethics. The immorality of error in one's understanding of the metaphysically given,
+
+367
+0:24:12,400 --> 0:24:16,160
+such as that the sun shines, or that gravity causes objects fall, pales in comparison to the
+
+368
+0:24:16,160 --> 0:24:20,080
+immorality present whenever there are errors in man-made facts, consider a world of total
+
+369
+0:24:20,080 --> 0:24:24,000
+unreason in philosophy. Such a world would imply mass death and suffering of the worst kinds,
+
+370
+0:24:24,000 --> 0:24:28,240
+as all men would be acting as did Mao and Hitler and Stalin. No matter the level of technological
+
+371
+0:24:28,240 --> 0:24:31,920
+development, such as society would be incapable of supporting human life. On the contrary,
+
+372
+0:24:31,920 --> 0:24:36,080
+a far more technologically primitive society, that accepts entirely reason and objective reality,
+
+373
+0:24:36,080 --> 0:24:39,920
+would find barely any natural disaster that could not be withstood. The standard of living
+
+374
+0:24:39,920 --> 0:24:43,600
+in such society would quickly soar, where the opposite is true of the irrational society.
+
+375
+0:24:43,600 --> 0:24:46,880
+QUOTE To an individual and divisional labour society, it makes it a way for death different, whether
+
+376
+0:24:46,880 --> 0:24:50,640
+he's surrounded by producers or parasites, honest men or cheats, independent men or power
+
+377
+0:24:50,640 --> 0:24:54,160
+lustres. Just as one must distinguish being good and bad in relation to the realm of nature,
+
+378
+0:24:54,160 --> 0:24:57,200
+so one must distinguish being good and bad in relation to the realm of man.
+
+379
+0:24:57,200 --> 0:25:01,280
+In objective terms, this means a single fundamental issue. In the human realm, one must distinguish
+
+380
+0:25:01,280 --> 0:25:05,280
+the rational from the irrational. The thinker is from the aviators, such a judgment tells one
+
+381
+0:25:05,280 --> 0:25:08,960
+whether a man, in principle, is committed to reality, or to escaping from and fighting it.
+
+382
+0:25:08,960 --> 0:25:12,880
+In one case, he's an ally and potential benefactor of the living, in the other, an enemy and potential
+
+383
+0:25:12,880 --> 0:25:17,840
+destroyer, thus the mandate of justice. Identify the good, the rational, and the evil, the irrational,
+
+384
+0:25:17,840 --> 0:25:23,520
+END QUOTE in men and their works. Then first, deal with, support, and or reward the good. And second,
+
+385
+0:25:23,520 --> 0:25:27,200
+So the proper moral evaluation of an idea, or more broadly a philosophy,
+
+386
+0:25:27,200 --> 0:25:30,640
+is that it's good insofar as it promotes human flourishing.
+
+387
+0:25:30,640 --> 0:25:34,400
+And bad, insofar as it does the opposite. This evaluation is not based on an arbitrary whim
+
+388
+0:25:34,400 --> 0:25:37,680
+of the evaluator. It is not the claim that the idea or philosophy in question is merely
+
+389
+0:25:37,680 --> 0:25:41,520
+distasteful to the man making the evaluation. An objective evaluation must make reference
+
+390
+0:25:41,520 --> 0:25:45,680
+to the objective and undeniable value of life itself.
+
+391
+0:25:45,680 --> 0:25:48,560
+QUOTE is a positive moral estimate of the mental processes that led to it,
+
+392
+0:25:48,560 --> 0:25:52,080
+a credit to the individual for having worked to grasp reality, and a positive estimate of the
+
+393
+0:25:52,080 --> 0:25:56,640
+existential results to come. A true idea will have to yield poor life results when men act on it,
+
+394
+0:25:56,640 --> 0:26:01,200
+the same applies mutatus butanis to false ideas. Implicit in seeing that an idea contradicts the
+
+395
+0:26:01,200 --> 0:26:05,200
+facts of reality, is a negative estimate of the processes that led to it, and also of the effects
+
+396
+0:26:05,200 --> 0:26:09,440
+that the idea will have in practice, which have to be to harmful. If one's ideas are tied to reality
+
+397
+0:26:09,440 --> 0:26:13,840
+at all, and if one is guided by life as a standard, there is no way to identify an idea's truth or
+
+398
+0:26:13,840 --> 0:26:18,160
+falsehood without it in some form also making such evaluations. Truth is a product of effort,
+
+399
+0:26:18,160 --> 0:26:22,400
+and leads to inaction to values. Hence, when it says the idea is not only true, it is also good.
+
+400
+0:26:22,400 --> 0:26:26,000
+Faucet, assuming it reaches a certain scale, is a product of evasion, and leads to destruction.
+
+401
+0:26:26,000 --> 0:26:29,760
+Such an idea is not only false, it is also evil. An employee, to take a relatively modest
+
+402
+0:26:29,760 --> 0:26:33,520
+positive example, offers a man an idea for improving the operation of his business.
+
+403
+0:26:33,520 --> 0:26:36,960
+His idea, thus concludes after weighing the evidence, takes into account all the relevant
+
+404
+0:26:36,960 --> 0:26:41,120
+facts. He's right, so far this is a pure cognition, the outcome of which is expressed in a statement
+
+405
+0:26:41,120 --> 0:26:45,040
+like, I agree with you. When a decent person, whether he knew his philosophy or not, would stop there,
+
+406
+0:26:45,040 --> 0:26:49,440
+he would not say unemotionally like a dead fish, your idea is correct, good day. On the contrary,
+
+407
+0:26:49,440 --> 0:26:53,200
+precisely because the new idea represents a new grasp of reality, the moral kind of boss is
+
+408
+0:26:53,200 --> 0:26:57,680
+enthusiastic, he evaluates the idea, he can't avoid seeing two things, this employee of mine had
+
+409
+0:26:57,680 --> 0:27:01,760
+to innovate, struggle, think, to reach the idea when no one else did, and the idea will cut my
+
+410
+0:27:01,760 --> 0:27:05,920
+costs, increase my customers, double my profits. The boss accordingly is excited, he likes the
+
+411
+0:27:05,920 --> 0:27:10,720
+employee, he praises him, he rewards him, he not only says about the idea, true, as an inevitable
+
+412
+0:27:10,720 --> 0:27:15,920
+END QUOTE corollary, he says about it, good, that good is the evaluation or the ought, he represents the
+
+413
+0:27:15,920 --> 0:27:19,760
+Thus it is completely inescapable that true is-statements
+
+414
+0:27:19,760 --> 0:27:23,920
+imply true evaluations related to those statements, and false is-statements imply
+
+415
+0:27:23,920 --> 0:27:28,080
+false evaluations related to those statements, just as it is an error for the primitive man to
+
+416
+0:27:28,080 --> 0:27:31,920
+attempt to make it rain by dancing, it is an error to commit murder or steal a wallet,
+
+417
+0:27:31,920 --> 0:27:34,800
+these actions are bad because they are destructive of life and human flourishing,
+
+418
+0:27:34,800 --> 0:27:37,920
+it is impossible to construct a rational property norm where aggression is allowed,
+
+419
+0:27:37,920 --> 0:27:41,680
+and just as the fact that the rain dancer is acting an error is not negated by the fact that he is
+
+420
+0:27:41,680 --> 0:27:45,680
+still capable of performing the rain dance, nor is the fact that the murderer is acting in error
+
+421
+0:27:45,680 --> 0:27:49,040
+negated by the fact that he is still capable of murder, it is incoherent to claim any crime to
+
+422
+0:27:49,040 --> 0:27:53,200
+be a moral virtue, as every crime implies an evasion of objective law, and evasions are
+
+423
+0:27:53,200 --> 0:28:08,480
+per se errors and errors are per se immoral, the true is the good, and the good is the true.
+

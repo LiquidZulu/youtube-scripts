@@ -1,0 +1,1736 @@
+1
+0:00:00,000 --> 0:00:17,360
+3. Homesteading and property rights
+
+2
+0:00:17,360 --> 0:00:21,120
+The first user and possessor of a good is either its owner or his not. If he's not,
+
+3
+0:00:21,120 --> 0:00:25,040
+then who is? The person who takes it from him by force? If forcefully taking possession
+
+4
+0:00:25,040 --> 0:00:28,600
+from a prior owner entitles the new possessor to that thing, then there is no such thing
+
+5
+0:00:28,600 --> 0:00:32,200
+as ownership, but only mere possession. But such a rule that a later user may acquire
+
+6
+0:00:32,200 --> 0:00:36,480
+something by taking it from the previous owner does not avoid conflicts, it rather authorizes
+
+7
+0:00:36,480 --> 0:00:39,160
+them. Stephan Kinsella.
+
+8
+0:00:39,160 --> 0:00:42,920
+Now that the non-aggression principle has been demonstrated as an apodictically correct
+
+9
+0:00:42,920 --> 0:00:47,280
+axiom of law, some initial implications can be derived, the first of which is the homesteading
+
+10
+0:00:47,280 --> 0:00:50,760
+principle, which can be stated as ownership is assigned to the initial possessor/director
+
+11
+0:00:50,760 --> 0:00:55,000
+of any external good, where homesteading is defined as initial possession.
+
+12
+0:00:55,000 --> 0:00:58,240
+Note, it is not particularly irrelevant whether you define homesteading as initial possession or
+
+13
+0:00:58,240 --> 0:01:01,440
+initial direction. The initial possessor of the good is the one who initially directs
+
+14
+0:01:01,440 --> 0:01:05,440
+the use of it. However, I prefer the terminology of direction, in most cases, as will be made clear later.
+
+15
+0:01:05,440 --> 0:01:09,080
+You will often see this described as the prior-later distinction.
+
+16
+0:01:09,080 --> 0:01:13,280
+That is, the homesteading principle gives precedence to the first-comer over any late-comers.
+
+17
+0:01:13,280 --> 0:01:16,440
+Consider Crusoe and Friday, stranded on a desert island. Crusoe comes across a stick
+
+18
+0:01:16,440 --> 0:01:20,520
+in nature and homesteads it, i.e. takes initial possession of it. Then he fashions it into
+
+19
+0:01:20,520 --> 0:01:24,280
+a spear which he plans to use for spearfishing. On his way to the ocean, however, Friday sees
+
+20
+0:01:24,280 --> 0:01:27,360
+this stick and thinks it would be a useful tool to stoke his fire, and so he attempts
+
+21
+0:01:27,360 --> 0:01:31,640
+to repossess it, that is, take it from Crusoe. We have a conflict. Crusoe can't spearfish
+
+22
+0:01:31,640 --> 0:01:35,040
+at the same time that Friday stokes his fire, and it is intuitively clear that Friday has
+
+23
+0:01:35,040 --> 0:01:39,360
+initiated this conflict. First, it must be noted that ownership is necessarily distinct
+
+24
+0:01:39,360 --> 0:01:44,000
+from direction, and this is presupposed as true by both Crusoe and Friday. In asserting
+
+25
+0:01:44,000 --> 0:01:46,960
+different ownership claims, they are saying that they are the ones who justly direct
+
+26
+0:01:46,960 --> 0:01:50,920
+the use of the stick, i.e., if someone else tries to do so, that is unjust. We know this
+
+27
+0:01:50,920 --> 0:01:54,440
+because ownership itself is defined as just direction. Kinsella points out that
+
+28
+0:01:54,440 --> 0:01:57,960
+the fact that ownership and direction are distinct implies that only the first possession/direction
+
+29
+0:01:57,960 --> 0:02:02,040
+is justifiable. If B can become the owner of a thing merely by taking it from
+
+30
+0:02:02,040 --> 0:02:05,680
+A, this means that C could take it from B and thereby become the owner. This would mean
+
+31
+0:02:05,680 --> 0:02:09,120
+that the actual ability to direct the use of a thing and ownership of that thing are
+
+32
+0:02:09,120 --> 0:02:13,240
+not distinct. Whoever is able to control a stick would be the owner, and this contradicts
+
+33
+0:02:13,240 --> 0:02:17,400
+the presumption by all parties that ownership and direction are distinct. Therefore, as
+
+34
+0:02:17,400 --> 0:02:20,880
+it is a contradiction to propose that a latecomer has a property right, we are left with the
+
+35
+0:02:20,880 --> 0:02:25,040
+initial director having the only justifiable claims of property right. Initial direction
+
+36
+0:02:25,040 --> 0:02:29,120
+is the only just direction, and therefore it is only the homesteader who has the unique status of ownership.
+
+37
+0:02:29,120 --> 0:02:33,160
+QUOTE In other words, we can see not only that locking homesteading is inextricably
+
+38
+0:02:33,160 --> 0:02:36,960
+END QUOTE bound up with a prior later distinction, but that the very idea of ownership implies that
+
+39
+0:02:36,960 --> 0:02:41,800
+So, property rights are conflict-avoiding norms
+
+40
+0:02:41,800 --> 0:02:45,360
+and assigned to the first-comer rather than any late-comer, and from this fact we can
+
+41
+0:02:45,360 --> 0:02:50,000
+derive a corollary about the nature of a legitimate homesteading claim, namely that the borders
+
+42
+0:02:50,000 --> 0:02:54,400
+of said homesteaded property must be objective and intersubjectively ascertainable.
+
+43
+0:02:54,400 --> 0:02:58,440
+This fact becomes clear when we break it down into its constituent parts.
+
+44
+0:02:58,440 --> 0:03:02,320
+First, the borders of a homesteaded property must be objective, that is,
+
+45
+0:03:02,320 --> 0:03:06,040
+they must adhere to existence as against the arbitrary content of one's consciousness.
+
+46
+0:03:06,040 --> 0:03:10,040
+This is because subjective property borders might contradict, and thus a subjective system of property rights is irrational,
+
+47
+0:03:10,040 --> 0:03:13,880
+and could not make for universal law. You will recall that law must be universal and objective to
+
+48
+0:03:13,880 --> 0:03:17,720
+be rational. Consider a system of property rights based upon such arbitrary decrees.
+
+49
+0:03:17,720 --> 0:03:21,640
+For example, A having the right to punch B, but B not having the right to punch A. This
+
+50
+0:03:21,640 --> 0:03:26,400
+system would not be objective. Neither A nor B could rationally derive such a rule, and
+
+51
+0:03:26,400 --> 0:03:30,560
+as such, you could not be expected to follow it. What this means is that an arbitrary system
+
+52
+0:03:30,560 --> 0:03:34,720
+of property rights like this cannot avoid conflicts, it would rather authorize them.
+
+53
+0:03:34,720 --> 0:03:38,520
+Now we turn to the criterion that property borders must be intersubjectively ascertainable.
+
+54
+0:03:38,520 --> 0:03:41,960
+What this means is that they are "public," and can be seen or in some other way perceived
+
+55
+0:03:41,960 --> 0:03:45,360
+by third parties. The reason why rational property borders must be intersubjectively
+
+56
+0:03:45,360 --> 0:03:49,600
+ascertainable is that if they are not, they cannot serve to avoid conflicts, and property
+
+57
+0:03:49,600 --> 0:03:53,720
+rights are conflict avoiding norms. Consider a non-intersubjectively ascertainable property
+
+58
+0:03:53,720 --> 0:03:57,800
+border, such as a mere verbal decree. Robinson Crusoe decides that he wants to own the moon,
+
+59
+0:03:57,800 --> 0:04:01,320
+so he simply shouts to the forest that he now owns the moon. Clearly, this verbal decree
+
+60
+0:04:01,320 --> 0:04:05,320
+cannot serve to avoid conflicts. When an astronaut is approaching the moon, he has no means of
+
+61
+0:04:05,320 --> 0:04:09,000
+discovering Crusoe's supposed property right in the moon. Thus, Crusoe has not actually
+
+62
+0:04:09,000 --> 0:04:13,600
+homesteaded the moon, he has not erected an objective, intersubjectively ascertainable border.
+
+63
+0:04:13,600 --> 0:04:17,360
+QUOTE No one could ever deny that norms for determining the ownership of scarce goods are useful for
+
+64
+0:04:17,360 --> 0:04:21,680
+allowing conflict-free exploitation of such resources. But, as Hoppe points out, there
+
+65
+0:04:21,680 --> 0:04:25,280
+are only two fundamental alternatives for acquiring unowned property.
+
+66
+0:04:25,280 --> 0:04:29,120
+One, by doing something with things which no one else had ever done anything before,
+
+67
+0:04:29,120 --> 0:04:34,320
+that is the Lockean concept of mixing labour, or homesteading, or two, by verbal declaration
+
+68
+0:04:34,320 --> 0:04:38,600
+or decree. However, a rule that allows property to be owned by mere verbal declaration cannot
+
+69
+0:04:38,600 --> 0:04:42,880
+serve to avoid conflicts, since any number of people could, at any time, assert conflicting
+
+70
+0:04:42,880 --> 0:04:46,880
+claims of ownership of a particular scarce resource. Only the first alternative, that
+
+71
+0:04:46,880 --> 0:04:50,440
+of Lockean homesteading, establishes an objective link between a particular person
+
+72
+0:04:50,440 --> 0:04:54,440
+END QUOTE and a particular scarce resource. And thus, no one can deny the Lockean right to homestead
+
+73
+0:04:54,440 --> 0:04:58,400
+What these criteria for rational property borders highlight is that
+
+74
+0:04:58,400 --> 0:05:02,480
+communication lies at the very root of law. In homesteading a particular scarce resource,
+
+75
+0:05:02,480 --> 0:05:05,520
+you have to be able to somehow communicate to others that you are using it.
+
+76
+0:05:05,520 --> 0:05:09,080
+If you fail at this, you fail at your task of homesteading, and cannot be said to own the thing in the first place.
+
+77
+0:05:09,080 --> 0:05:13,000
+An important edge-case must be analysed for this theory to be complete.
+
+78
+0:05:13,000 --> 0:05:16,160
+Namely, the instance of Crusoe and Friday simultaneously attempting to take possession
+
+79
+0:05:16,160 --> 0:05:20,040
+of a stick in nature. Clearly, neither came prior to the other, so it is improper to describe
+
+80
+0:05:20,040 --> 0:05:24,360
+either as the first- or late-comer. In this situation, Crusoe and Friday are in a stalemate,
+
+81
+0:05:24,360 --> 0:05:27,880
+where the term stalemate is used to indicate that it is not a conflict. From the definition
+
+82
+0:05:27,880 --> 0:05:31,840
+of the hypothetical, we know that neither Crusoe nor Friday have actually started engaging
+
+83
+0:05:31,840 --> 0:05:35,720
+in their chosen action with the stick. As in the first instance, the stick was in nature,
+
+84
+0:05:35,720 --> 0:05:39,800
+then in the very next, both Crusoe and Friday made an attempt to begin acting with it. This
+
+85
+0:05:39,800 --> 0:05:43,360
+attempt is not yet complete, and the action has not yet started until the other backs
+
+86
+0:05:43,360 --> 0:05:47,360
+off. Such a stalemate situation may turn into a conflict if either Crusoe or Friday forcefully
+
+87
+0:05:47,360 --> 0:05:50,600
+excludes the other from completing their homesteading of the stick. This is a situation
+
+88
+0:05:50,600 --> 0:05:54,600
+of the forceful one, say Crusoe, excluding the other from that which he does not own. This
+
+89
+0:05:54,600 --> 0:05:58,360
+is an invasion from Crusoe against Friday, therefore Crusoe is the aggressor and not
+
+90
+0:05:58,360 --> 0:06:01,880
+the proper owner of the stick. Clearly, there is now a conflict over the use of the stick,
+
+91
+0:06:01,880 --> 0:06:05,400
+else Crusoe would not be excluding Friday from the stick, but from something else, and it is
+
+92
+0:06:05,400 --> 0:06:09,200
+Crusoe who has initiated this conflict. Thus, to forcefully exclude the other in a stalemate
+
+93
+0:06:09,200 --> 0:06:13,200
+situation is to disqualify yourself from ownership of the good under stalemate, thereby
+
+94
+0:06:13,200 --> 0:06:16,960
+ceding ownership to the other. The simpler case is when either Crusoe or Friday decide
+
+95
+0:06:16,960 --> 0:06:20,600
+that they will back off on their own, thus non-aggressively breaking the stalemate and
+
+96
+0:06:20,600 --> 0:06:24,080
+ceding ownership to the other more stubborn man. Now we must turn our attention to the
+
+97
+0:06:24,080 --> 0:06:28,200
+Georgist anti-homestead ethic, which would claim that the first possessor also doesn't
+
+98
+0:06:28,200 --> 0:06:31,360
+have the ownership right, and in fact the homesteading itself is a crime against everyone
+
+99
+0:06:31,360 --> 0:06:35,320
+else. This ethic fails in the grounds of its very proposal. To engage in an argumentation,
+
+100
+0:06:35,320 --> 0:06:38,840
+one must first homestead something, at the very least their standing room. Before beginning
+
+101
+0:06:38,840 --> 0:06:43,440
+any ethical deliberation, you must therefore accept it to be just, that is to say argumentatively
+
+102
+0:06:43,440 --> 0:06:47,480
+justifiable, to take initial possession and to therefore initially direct the use of some
+
+103
+0:06:47,480 --> 0:06:52,080
+scarce physical means. Hoppe explains that a late-comer ethic implies the death of humanity.
+
+104
+0:06:52,080 --> 0:06:55,920
+QUOTE What is wrong with this idea of dropping the prior later distinction as morally irrelevant?
+
+105
+0:06:55,920 --> 0:06:59,680
+First, if the late-comers, i.e. those who did not in fact do something with some scarce
+
+106
+0:06:59,680 --> 0:07:03,480
+goods, had indeed as much of a right to the most first-comers, i.e. those who did do
+
+107
+0:07:03,480 --> 0:07:07,280
+something with the scarce goods, then literally no one would be allowed to do anything with
+
+108
+0:07:07,280 --> 0:07:10,560
+anything, as one would have to have all of the late-comers consent prior to doing whatever
+
+109
+0:07:10,560 --> 0:07:14,480
+one wanted to do. Indeed, as posterity would include one's children's children, people
+
+110
+0:07:14,480 --> 0:07:18,080
+that is, who come so late that one could never possibly ask them. Advocating a legal
+
+111
+0:07:18,080 --> 0:07:21,160
+system that does not make use of the prior later distinction as part of its underlying
+
+112
+0:07:21,160 --> 0:07:24,600
+property theory is simply absurd in that it implies advocating death but must presuppose
+
+113
+0:07:24,600 --> 0:07:29,440
+life in order to advocate anything. Neither we, our forefathers, nor our progeny could,
+
+114
+0:07:29,440 --> 0:07:33,960
+do, or will survive and say or argue anything if one were to follow this rule. In order
+
+115
+0:07:33,960 --> 0:07:38,400
+for any person, past, present, or future, to argue anything, it must be possible to survive
+
+116
+0:07:38,400 --> 0:07:42,320
+now. No one can wait and suspend acting until everyone of an indeterminate class of late-comers
+
+117
+0:07:42,320 --> 0:07:46,160
+happens to appear and agree to what one wants to do. Rather, insofar as a person finds
+
+118
+0:07:46,160 --> 0:07:50,240
+himself alone, he must be able to act, to use, produce, consume goods straight away. Prior
+
+119
+0:07:50,240 --> 0:07:54,120
+to any agreement with people who are simply not around yet, and perhaps never will be.
+
+120
+0:07:54,120 --> 0:07:57,160
+And insofar as a person finds himself in the company of others, and there is conflict
+
+121
+0:07:57,160 --> 0:08:00,840
+over how to use a given scarce resource, he must be able to resolve the problem at a definite
+
+122
+0:08:00,840 --> 0:08:04,520
+point in time with a definite number of people, instead of having to wait unspecified periods
+
+123
+0:08:04,520 --> 0:08:08,160
+of time for unspecified numbers of people. Simply in order to survive then, which is
+
+124
+0:08:08,160 --> 0:08:11,800
+a prerequisite to arguing in favour of or against anything, property rights cannot be
+
+125
+0:08:11,800 --> 0:08:15,960
+conceived of as being timeless and nonspecific regarding the number of people concerned. Rather,
+
+126
+0:08:15,960 --> 0:08:19,160
+they must necessarily be thought of as originating through acting at definite points in time
+
+127
+0:08:19,160 --> 0:08:23,440
+for definite acting individuals. Furthermore, the idea of abandoning the priorly to distinction,
+
+128
+0:08:23,440 --> 0:08:27,040
+which socialism finds so attractive, would again simply be incompatible with the non-aggression
+
+129
+0:08:27,040 --> 0:08:30,760
+principle as the practical foundation of argumentation. To argue and possibly agree
+
+130
+0:08:30,760 --> 0:08:34,360
+with someone, if only on the fact that there is disagreement, means to recognise each other
+
+131
+0:08:34,360 --> 0:08:38,000
+prior right of exclusive control over his own body. Otherwise, it would be impossible
+
+132
+0:08:38,000 --> 0:08:41,440
+for anyone to first say anything at a definite point in time, and for someone else to then
+
+133
+0:08:41,440 --> 0:08:45,800
+be able to reply or vice versa, as neither the first nor the second speaker would be independent
+
+134
+0:08:45,800 --> 0:08:49,920
+physical decision-making units any more at any time. Eliminating the prior later distinction
+
+135
+0:08:49,920 --> 0:08:53,920
+then, as socialism attempts to do, is tantamount to eliminating the possibility of arguing and
+
+136
+0:08:53,920 --> 0:08:58,000
+reaching agreement. However, as one cannot argue that there is no possibility for discussion
+
+137
+0:08:58,000 --> 0:09:01,960
+without the prior control of every person over his own body being recognised and accepted
+
+138
+0:09:01,960 --> 0:09:05,520
+as fair, a late-comer ethic that does not wish to make this difference could never be agreed
+
+139
+0:09:05,520 --> 0:09:09,080
+upon by anyone, simply saying that it could imply the contradiction, as ones being able
+
+140
+0:09:09,080 --> 0:09:12,520
+END QUOTEto say so would presuppose one's existence as an independent decision-making unit at
+
+141
+0:09:12,520 --> 0:09:16,560
+Above, the homestead principle was defined as ownership as assigned to the initial possessor/director of any external good.
+
+142
+0:09:16,560 --> 0:09:20,520
+This is important because the above analysis only works for goods which are external
+
+143
+0:09:20,520 --> 0:09:24,400
+to the body of an acting man, and it assumes that there are already acting men going into nature
+
+144
+0:09:24,400 --> 0:09:27,680
+and extracting various goods from it.
+
+145
+0:09:27,680 --> 0:09:31,680
+A person's body is an entirely different type of object. There aren't bodies
+
+146
+0:09:31,680 --> 0:09:35,600
+out in nature waiting for some soul to come along and homestead them. Rather, a body is
+
+147
+0:09:35,600 --> 0:09:40,240
+necessarily linked to an actor. It is this objective link which imbues a man with ownership. Homesteading
+
+148
+0:09:40,240 --> 0:09:43,840
+is merely one form of demonstrating this link. So how do we deal with the case of establishing
+
+149
+0:09:43,840 --> 0:09:47,400
+links between acting men and the bodies used for action? Recall that property rights in
+
+150
+0:09:47,400 --> 0:09:50,840
+general are conflict avoiding norms. That is to say, the very nature of ownership is
+
+151
+0:09:50,840 --> 0:09:54,480
+to avoid conflicts. Recall also that this was derived from the nature of argumentation
+
+152
+0:09:54,480 --> 0:09:57,800
+itself, so we can go back to argumentation to derive an assignment of property rights
+
+153
+0:09:57,800 --> 0:10:01,360
+in bodies. For A and B to argue with each other, they have to first assume that the other
+
+154
+0:10:01,360 --> 0:10:05,440
+guy owns himself. Imagine if A tried to argue that B is actually owned by C. Well, this
+
+155
+0:10:05,440 --> 0:10:09,000
+would mean that B would be a mere mouthpiece for C, and thus A would actually be arguing
+
+156
+0:10:09,000 --> 0:10:12,560
+with C, which contradicts the presumption that A is arguing with B. Therefore, you could
+
+157
+0:10:12,560 --> 0:10:15,880
+never propose that someone else is a slave without contradiction. In trying to demonstrate
+
+158
+0:10:15,880 --> 0:10:19,280
+to this man that he is your or someone else's slave, you would have to first assume that
+
+159
+0:10:19,280 --> 0:10:23,080
+he owns himself, then propose that you or someone else owns him, i.e. that he does
+
+160
+0:10:23,080 --> 0:10:27,000
+not own himself. In other words, to engage in any argument whatsoever, you have to first
+
+161
+0:10:27,000 --> 0:10:30,880
+accept the validity of other men's claim to direct the use of their body. Argumentation
+
+162
+0:10:30,880 --> 0:10:34,320
+becomes impossible to the degree that you reject the validity of this. Consider also
+
+163
+0:10:34,320 --> 0:10:37,880
+the discussion above of the importance of property borders being objective and intersubjectively
+
+164
+0:10:37,880 --> 0:10:41,400
+ascertainable. An implication of this is that particularistic norms such as A being allowed
+
+165
+0:10:41,400 --> 0:10:45,400
+to a punch B, but not the other way around, are false. Similarly, an arbitrary notion
+
+166
+0:10:45,400 --> 0:10:48,800
+of one group owning another group must also be discarded. This is because you have an
+
+167
+0:10:48,800 --> 0:10:53,120
+objective, undeniable-and-thus-intersubjectively-ascertainable link to your own body. To
+
+168
+0:10:53,120 --> 0:10:57,120
+enslave someone, the only way to control their body is indirectly via coercion, either physical
+
+169
+0:10:57,120 --> 0:11:00,720
+or via threat, to get them to act how you want. In this case, the slave is still the
+
+170
+0:11:00,720 --> 0:11:04,120
+one directly controlling their body, which is a superior link to the indirect one that
+
+171
+0:11:04,120 --> 0:11:07,920
+the enslaver has. If arbitrarily coercing others to do what you wanted, constituted a
+
+172
+0:11:07,920 --> 0:11:11,360
+greater claim over the body of the coerced person, it would be impossible to avoid conflicts
+
+173
+0:11:11,360 --> 0:11:14,800
+over bodies. We would rather have a system of might-making right, which is a conflict
+
+174
+0:11:14,800 --> 0:11:19,040
+authorising system of property, and thus not a rational system of property at all. The
+
+175
+0:11:19,040 --> 0:11:23,480
+enslaver also contradicts himself by recognising the precedence of this link over his own body
+
+176
+0:11:23,480 --> 0:11:28,080
+by using his body to coerce his slave.
+
+177
+0:11:28,080 --> 0:11:32,120
+QUOTE deny this objective link and its special status, since the outsider also necessarily
+
+178
+0:11:32,120 --> 0:11:36,520
+presupposes this in his own case. This is so, because in seeking dominion over the other,
+
+179
+0:11:36,520 --> 0:11:40,760
+in asserting ownership over the other's body, he has to presuppose his own ownership of his body,
+
+180
+0:11:40,760 --> 0:11:44,200
+which demonstrates that he does place a certain significance on this link, at the same time
+
+181
+0:11:44,200 --> 0:11:47,760
+END QUOTE that he disregards the significance of the other's link to his own body.
+
+182
+0:11:47,760 --> 0:11:51,440
+Furthermore, we consider that a slavery ethic, i.e., an ethic which rejects self-ownership,
+
+183
+0:11:51,440 --> 0:11:55,840
+cannot make for a human ethic. To be an ethic for humanity, it must satisfy two properties.
+
+184
+0:11:55,840 --> 0:11:59,680
+First, it must be universal, i.e., it must apply to all humans, and second, it must actually
+
+185
+0:11:59,680 --> 0:12:03,880
+ensure the survival of mankind, or else it would be an anti-human ethic, and an anti-human ethic could
+
+186
+0:12:03,880 --> 0:12:07,360
+not be proposed without contradiction, as you must first presume that you should be alive
+
+187
+0:12:07,360 --> 0:12:11,400
+and arguing. Rothbard has pointed out that if you do not have a system of total self-ownership,
+
+188
+0:12:11,400 --> 0:12:15,040
+two possibilities remain. One, universal and equal other ownership, which he calls the
+
+189
+0:12:15,040 --> 0:12:19,360
+communist ethic, or two, partial ownership of one group by another.
+
+190
+0:12:19,360 --> 0:12:22,120
+Universal co-ownership fails on the grounds that it would imply the near immediate death
+
+191
+0:12:22,120 --> 0:12:26,080
+of humanity, because for any person to survive they must act, and if everyone is co-owned
+
+192
+0:12:26,080 --> 0:12:29,920
+by everyone, then any given person must first ask everyone else's permission before engaging
+
+193
+0:12:29,920 --> 0:12:34,080
+in some action. But asking permission is itself an action. Therefore, everyone must immediately
+
+194
+0:12:34,080 --> 0:12:38,480
+start doing nothing. Further, it is not strictly possible to purposefully not act. We note
+
+195
+0:12:38,480 --> 0:12:42,320
+that action is defined as purposeful behaviour, so even in ceasing physical motion a man is
+
+196
+0:12:42,320 --> 0:12:47,640
+acting, insofar as this ceasing is done purposefully. Therefore, this ethic simply cannot be obeyed
+
+197
+0:12:47,640 --> 0:12:52,760
+no matter what a man chooses to do, as choosing any option implies action. Partial ownership
+
+198
+0:12:52,760 --> 0:12:57,000
+of one group by another doesn't necessarily mean the death of humanity, but is not universal.
+
+199
+0:12:57,000 --> 0:12:59,880
+Instead of being an ethic for humans, it is an ethic which implies a set of subhumans
+
+200
+0:12:59,880 --> 0:13:04,200
+ruled by humans. This is thus a particularistic ethic. It is a norm of the form, one rule
+
+201
+0:13:04,200 --> 0:13:08,600
+for thee, and another for me. But if the partial ownership ethic was truly rational, it must
+
+202
+0:13:08,600 --> 0:13:12,200
+be able to be derived from the nature of the entities that it applies to. Thus, there would
+
+203
+0:13:12,200 --> 0:13:16,520
+have to be some principled difference between the group of humans and the group of subhumans.
+
+204
+0:13:16,520 --> 0:13:19,520
+We know that legal ethics are derived from argumentation, and as such they would have
+
+205
+0:13:19,520 --> 0:13:23,840
+to apply to all beings which have the potential to argue. Therefore, there could be no relevant
+
+206
+0:13:23,840 --> 0:13:27,920
+difference between different groups of humans with respect to law, as all humans, qua
+
+207
+0:13:27,920 --> 0:13:31,800
+acting being, have the potential to engage in argumentation. One could come up with any
+
+208
+0:13:31,800 --> 0:13:35,720
+number of selection criteria to split mankind up into different sets. Perhaps one wants
+
+209
+0:13:35,720 --> 0:13:40,440
+to split man into different races, or nations, or into northern southern hemispheres, etc.
+
+210
+0:13:40,440 --> 0:13:44,040
+The point of note here is that these different groups do not have different logics, so any
+
+211
+0:13:44,040 --> 0:13:48,560
+conclusions derived that apply to arguing beings as such would have to apply to all of them.
+
+212
+0:13:48,560 --> 0:13:51,800
+Now that we have a theory of property which accounts for both self ownership and external
+
+213
+0:13:51,800 --> 0:13:55,720
+ownership, we can begin to address some implications of this theory, the first of which is that
+
+214
+0:13:55,720 --> 0:14:00,200
+ownership is necessarily individual. That is, group ownership is strictly impossible.
+
+215
+0:14:00,200 --> 0:14:03,680
+Consider a set of people, A through Z, who each commonly own a stick. What has been done about
+
+216
+0:14:03,680 --> 0:14:07,600
+a conflict over the use of the stick between A and B? There are two possibilities, either
+
+217
+0:14:07,600 --> 0:14:12,160
+A is said to be the just victor, or B is. If A, then he owns a stick, and B does not.
+
+218
+0:14:12,160 --> 0:14:16,520
+If B, then he owns a stick, and A does not. But both options contradict the presumption
+
+219
+0:14:16,520 --> 0:14:20,840
+that every member in the set owns the stick. Therefore, group ownership simply cannot occur.
+
+220
+0:14:20,840 --> 0:14:24,080
+Allow me to go over some supposed solutions to this conundrum, the first of which is the
+
+221
+0:14:24,080 --> 0:14:28,160
+democratic one. Essentially, all members within the set vote to determine who the just victor
+
+222
+0:14:28,160 --> 0:14:32,680
+is. Still, any who lost the vote did not own the stick, as their desired possession was
+
+223
+0:14:32,680 --> 0:14:37,160
+considered unjust. Also consider the set which consists only of A and B. What vote could
+
+224
+0:14:37,160 --> 0:14:40,560
+possibly be conducted between these men which would not come out as A in favour of A and
+
+225
+0:14:40,560 --> 0:14:44,840
+B in favour of B. If B voted for A or vice versa, there would be no conflict, and law
+
+226
+0:14:44,840 --> 0:14:48,280
+these only those sets of situations where there is conflict rather than those where men are
+
+227
+0:14:48,280 --> 0:14:50,920
+in a harmonious agreement about how things should be done.
+
+228
+0:14:50,920 --> 0:14:54,760
+The next proposal for a solution comes from Roderick Long.
+
+229
+0:14:54,760 --> 0:14:57,760
+QUOTE view, we have the right to the fruit of our labour, and we also have a right to what
+
+230
+0:14:57,760 --> 0:15:01,760
+people freely give us. Public property can rise in both these ways. Consider a village
+
+231
+0:15:01,760 --> 0:15:05,160
+near a lake. It is common for the villagers to walk down to the lake to go fishing. In
+
+232
+0:15:05,160 --> 0:15:07,760
+the early days of the community, it is hard to get to the lake because of all the bushes
+
+233
+0:15:07,760 --> 0:15:12,120
+and fallen branches in the way. But over time, the way is cleared and a path forms, not through
+
+234
+0:15:12,120 --> 0:15:15,600
+any centrally coordinated effort, but simply as a result of all the individuals walking
+
+235
+0:15:15,600 --> 0:15:19,240
+that way day after day. The cleared path is a product of labour, not any individuals
+
+236
+0:15:19,240 --> 0:15:23,280
+labour, but all of them together. If one villager decided to take advantage of the now created
+
+237
+0:15:23,280 --> 0:15:27,120
+path by setting up a gate and charging tools, he would be violating the collective property
+
+238
+0:15:27,120 --> 0:15:30,320
+right that the villagers together have earned. Public property can also be the product of
+
+239
+0:15:30,320 --> 0:15:34,240
+gift. In the 19th century England, it was common for roads to be built privately and
+
+240
+0:15:34,240 --> 0:15:38,240
+then donated to the public for free use. This was done not out of altruism, but because
+
+241
+0:15:38,240 --> 0:15:42,040
+the road builders owned land and businesses alongside the site of the new road, and they
+
+242
+0:15:42,040 --> 0:15:45,520
+knew that having a road there would increase the value of their land and attract more customers
+
+243
+0:15:45,520 --> 0:15:49,640
+END QUOTE to their business. Thus, the unorganized public can legitimately come to own land, both through
+
+244
+0:15:49,640 --> 0:15:54,200
+So, Long provides two cases that he sees as legitimate group property;
+
+245
+0:15:54,200 --> 0:15:58,320
+(1) where a group communally mix their labour with an object in nature,
+
+246
+0:15:58,320 --> 0:16:02,480
+and (2) where a man transfers ownership of his private property to a group in common.
+
+247
+0:16:02,480 --> 0:16:06,440
+The issue with (1) is that Long relies on the faulty labour theory of property.
+
+248
+0:16:06,440 --> 0:16:10,560
+It is not mixing labour with land which imbues a man with ownership,
+
+249
+0:16:10,560 --> 0:16:14,040
+as we have seen, is the nature of scarcity giving rise to potential for conflict which
+
+250
+0:16:14,040 --> 0:16:17,280
+implies property rights. To demonstrate the failure of this theory more thoroughly, allow
+
+251
+0:16:17,280 --> 0:16:21,440
+me to quote Kinsella at length.
+
+252
+0:16:21,440 --> 0:16:24,840
+QUOTE as Rand, hold that creation is the source of property rights. This confuses the nature
+
+253
+0:16:24,840 --> 0:16:28,360
+and reasons for property rights which lie in the undeniable fact of scarcity. Given scarcity
+
+254
+0:16:28,360 --> 0:16:31,880
+and the corresponding possibility of conflict in the use of resources, conflicts are avoided
+
+255
+0:16:31,880 --> 0:16:35,560
+and piecing cooperation are achieved by allocating property rights to such resources.
+
+256
+0:16:35,560 --> 0:16:38,680
+And the purpose of property rights dictates the nature of such rules. For if the rules
+
+257
+0:16:38,680 --> 0:16:42,000
+allocating property rights are to serve as objective rules that all can agree upon so
+
+258
+0:16:42,000 --> 0:16:45,880
+as to avoid conflict, they cannot be biased or arbitrary. For this reason, unknown resources
+
+259
+0:16:45,880 --> 0:16:50,160
+come to be owned, homesteaded or appropriated, by the first possessor. The general rule then
+
+260
+0:16:50,160 --> 0:16:53,520
+is that ownership of a given scarce resource can be identified by determining who first
+
+261
+0:16:53,520 --> 0:16:57,160
+occupied it. There are various ways to possess or occupy resources, and differing ways to
+
+262
+0:16:57,160 --> 0:17:00,360
+demonstrate or prove such occupation, depending on the nature of the resource and the use to
+
+263
+0:17:00,360 --> 0:17:03,720
+which it is put. Thus I can pluck an apple from the wild and thereby homestead it, or
+
+264
+0:17:03,720 --> 0:17:07,360
+I can fence in a plot of land for a farm. It is sometimes said that one form of occupation
+
+265
+0:17:07,360 --> 0:17:11,280
+is forming or creating the thing. For example, I can sculpt the statue from block of marble,
+
+266
+0:17:11,280 --> 0:17:15,280
+or forge a sword from raw metal, or even create a farm on a plot of land. We can see from
+
+267
+0:17:15,280 --> 0:17:18,320
+these examples that creation is relevant to the question of ownership of a given created
+
+268
+0:17:18,320 --> 0:17:21,760
+scarce resource such as a statue, sword or farm, only to the extent that the act of
+
+269
+0:17:21,760 --> 0:17:26,360
+creation is an act of occupation, or is otherwise evidence of first occupation. However, creation
+
+270
+0:17:26,360 --> 0:17:30,320
+itself does not justify ownership in things, it is neither necessary nor sufficient. One
+
+271
+0:17:30,320 --> 0:17:33,800
+cannot create some possibly disputed scarce resource without first using the raw materials
+
+272
+0:17:33,800 --> 0:17:37,760
+used to create the item. But these raw materials are scarce, and either I own them or I do not.
+
+273
+0:17:37,760 --> 0:17:41,840
+If not, then I do not own the resulting product. If I own the inputs, then by virtue of such
+
+274
+0:17:41,840 --> 0:17:45,240
+ownership, I own the resulting thing into which I transform them. Consider the forging of
+
+275
+0:17:45,240 --> 0:17:49,120
+a sword. If I own some raw metal, because I mined it from ground I owned, then I own
+
+276
+0:17:49,120 --> 0:17:52,520
+the same metal after I have shaped it into a sword. I do not need to rely on the fact
+
+277
+0:17:52,520 --> 0:17:55,760
+of creation to own the sword, but only on my ownership of the factors used to make the
+
+278
+0:17:55,760 --> 0:17:59,120
+sword. And I do not need creation to come to own the factors, since I can homestead them
+
+279
+0:17:59,120 --> 0:18:02,480
+simply by mining them from the ground and thereby becoming the first possessor. On the
+
+280
+0:18:02,480 --> 0:18:06,080
+other hand, if I fashion a sword using your metal, I do not own the resulting sword. In
+
+281
+0:18:06,080 --> 0:18:09,080
+END QUOTE fact, I may owe you damages for trespass or conversion.
+
+282
+0:18:09,080 --> 0:18:12,360
+Long's second case, where a man transfers title to his property to some group, fails on the
+
+283
+0:18:12,360 --> 0:18:17,240
+grounds that it does not resolve the contradiction, therefore making that contract invalid. Contract
+
+284
+0:18:17,240 --> 0:18:20,360
+theory will be elucidated thoroughly in a future lesson, so I will not explain this
+
+285
+0:18:20,360 --> 0:18:24,360
+point too deeply here. Just note that it will be seen that contract theory arises from
+
+286
+0:18:24,360 --> 0:18:27,600
+property theory, and therefore you cannot have contracts which allow for contradictory
+
+287
+0:18:27,600 --> 0:18:31,920
+property claims. Long is essentially putting the cart before the horse. A further potential
+
+288
+0:18:31,920 --> 0:18:35,800
+solution for group property rights is the polycentrist solution. To the polycentrist, law
+
+289
+0:18:35,800 --> 0:18:39,680
+in a libertarian society is decided by reference to competing arbitrators, these judges could
+
+290
+0:18:39,680 --> 0:18:43,880
+settle disputes, and thus determine the arrangement of property. So for our example of A through
+
+291
+0:18:43,880 --> 0:18:47,280
+Z all collectively on the stick, they would simply have to go to some judge to decide
+
+292
+0:18:47,280 --> 0:18:50,640
+who has just possession. The problem with this is that it is confused about the nature
+
+293
+0:18:50,640 --> 0:18:55,040
+of law, justice cannot be decreed by man, rather it depends on the normative structure
+
+294
+0:18:55,040 --> 0:18:59,560
+of argumentation. And second, the contradiction is still not resolved. If this judge rules
+
+295
+0:18:59,560 --> 0:19:04,200
+in favour of A, B did not own the stick, and vice versa. Companies are often forwarded as a
+
+296
+0:19:04,200 --> 0:19:07,920
+counter example to this thesis. It is said that multiple people can come together to own
+
+297
+0:19:07,920 --> 0:19:12,080
+shares in a given enterprise, and thus communally own said enterprise. This counter example
+
+298
+0:19:12,080 --> 0:19:15,720
+is confused about what a company is. Men do not go out into nature and find companies
+
+299
+0:19:15,720 --> 0:19:19,720
+which they then homestead, rather companies are specific relationships between men. They
+
+300
+0:19:19,720 --> 0:19:24,400
+are constructed via a web of contracts. Just as a person cannot own friendship or marriage,
+
+301
+0:19:24,400 --> 0:19:28,520
+they cannot own a firm, not legally at least. The specific property being directed by the
+
+302
+0:19:28,520 --> 0:19:32,840
+company must be owned by a single individual, perhaps the CEO or another such person. This
+
+303
+0:19:32,840 --> 0:19:36,200
+does not mean that the CEO can do whatever he wishes with his property. It may be the
+
+304
+0:19:36,200 --> 0:19:39,440
+case that there is a contract such that if he uses a property for purposes contrary to
+
+305
+0:19:39,440 --> 0:19:43,280
+the shareholders' voted upon goal, then the title of that property is transferred to some
+
+306
+0:19:43,280 --> 0:19:47,440
+other person who then becomes the CEO. Nowhere in such a conception is any property owned
+
+307
+0:19:47,440 --> 0:19:50,840
+by multiple people. There is a potential conundrum for this theory of homesteading, which goes
+
+308
+0:19:50,840 --> 0:19:55,760
+as follows. There are three sections of land, A, B and C, as pictured. Crusoe comes along
+
+309
+0:19:55,760 --> 0:19:59,920
+in homesteads A, Friday currently resides somewhere in C. Because Crusoe does not own
+
+310
+0:19:59,920 --> 0:20:04,360
+B, Friday does not have a duty towards Crusoe to not enter it. And because Crusoe does
+
+311
+0:20:04,360 --> 0:20:08,600
+own A, Friday does have a duty to Crusoe not to enter A. So Friday is allowed to enter
+
+312
+0:20:08,600 --> 0:20:13,360
+B, but not A. However, due to the donut shape of Crusoe's homestead, to enter B implies
+
+313
+0:20:13,360 --> 0:20:17,760
+entering A. Hence a contradiction arises, Friday both has a duty not to enter B and he
+
+314
+0:20:17,760 --> 0:20:21,160
+does not have said duty. That is to say, Crusoe is acting like he is the owner of B
+
+315
+0:20:21,160 --> 0:20:24,840
+when he is in fact not. This is called forestalling. The proposed solution put forth
+
+316
+0:20:24,840 --> 0:20:29,040
+by those in the Walter Block camp is the Blockean proviso. Essentially, they claim that the contradiction
+
+317
+0:20:29,040 --> 0:20:32,920
+arises from assuming that Crusoe has indeed homesteaded all of A. Therefore, to resolve
+
+318
+0:20:32,920 --> 0:20:36,920
+the contradiction, these donut homesteads must be disallowed. This formulation provided by
+
+319
+0:20:36,920 --> 0:20:40,880
+Lukasz Dominiak resolves a counter-argument made by Kinsella, where he imagines that the
+
+320
+0:20:40,880 --> 0:20:45,160
+donut is not owned by Crusoe himself, but by 100 Crusoes, we can call Crusoe 1 through
+
+321
+0:20:45,160 --> 0:20:49,480
+to Crusoe 100, which of these individual segments does Friday have the right to cross over,
+
+322
+0:20:49,480 --> 0:20:53,320
+and why not any of the others? Surely if they each sequentially homesteaded their individual
+
+323
+0:20:53,320 --> 0:20:57,200
+segments, none of them are individually forestalling. The solution to this is that it is Crusoe
+
+324
+0:20:57,200 --> 0:21:01,080
+100 who seals up the donut who has committed the crime, as he was not able to homestead
+
+325
+0:21:01,080 --> 0:21:04,640
+that final section. However, there is a way to resolve this contradiction without any
+
+326
+0:21:04,640 --> 0:21:08,600
+need for a proviso. As Kinsella writes in defence of embordering-as-homesteading, utilising
+
+327
+0:21:08,600 --> 0:21:12,880
+de Jasay's "let exclusion stand" principle.
+
+328
+0:21:12,880 --> 0:21:17,200
+QUOTE its owners excluding others from using it, for example by fencing an immovable property,
+
+329
+0:21:17,200 --> 0:21:22,320
+e.g. land, or finding and creating and keeping movable property. Thus, the principle means
+
+330
+0:21:22,320 --> 0:21:26,680
+let ownership stand, e.g. that claims to ownership of property, appropriated from the state of
+
+331
+0:21:26,680 --> 0:21:30,720
+nature are acquired ultimately through a chain of titles tracing back to such an appropriation,
+
+332
+0:21:30,720 --> 0:21:34,880
+should be respected. daisie utilises this idea to demolish the criticism that homesteading
+
+333
+0:21:34,880 --> 0:21:39,320
+END QUOTE unowned resources unilaterally and unjustifiably imposes on others moral duties to refrain
+
+334
+0:21:39,320 --> 0:21:42,840
+I.e. it is the very nature of property that the owner excludes others
+
+335
+0:21:42,840 --> 0:21:46,160
+from using it. We can then say that Crusoe in excluding others from this previously unowned
+
+336
+0:21:46,160 --> 0:21:51,520
+territory, B, thereby becomes its owner. It is this act of exclusion which is Crusoe initially
+
+337
+0:21:51,520 --> 0:21:55,960
+directing the use of both the donut and the donut-hole. This idea of "let exclusion stand"
+
+338
+0:21:55,960 --> 0:21:59,400
+sheds light also on the falsehood of the notion that property rights must be limited because
+
+339
+0:21:59,400 --> 0:22:02,880
+if they are not, I would be permitted to use my gun to shoot an innocent man. This
+
+340
+0:22:02,880 --> 0:22:05,680
+is false because my property right in that gun does not mean that I am allowed to use
+
+341
+0:22:05,680 --> 0:22:09,040
+that gun for whatever I want. It means that I have a right to exclude people from using
+
+342
+0:22:09,040 --> 0:22:12,840
+the gun for what they want. This isn't particularly surprising either. I would also not be permitted
+
+343
+0:22:12,840 --> 0:22:16,040
+to use a stolen gun to shoot someone. Who owns the gun being used for the shooting isn't
+
+344
+0:22:16,040 --> 0:22:20,080
+relevant to the question of whether the shooting is just or not.
+
+345
+0:22:20,080 --> 0:22:24,120
+QUOTE the de Jasayan idea of let exclusion stand, or the Hoppean idea that the prior letter distinction
+
+346
+0:22:24,120 --> 0:22:28,080
+is of crucial importance, also sheds light on the nature of homesteading itself. Often
+
+347
+0:22:28,080 --> 0:22:31,800
+the question is asked, as to what types of acts constitute our sufficient for homesteading,
+
+348
+0:22:31,800 --> 0:22:35,400
+or in bordering its hopper sometimes refers to it. What type of labour must be mixed with
+
+349
+0:22:35,400 --> 0:22:40,160
+a thing, and to what property does the homesteading extend? What counts as sufficient homesteading,
+
+350
+0:22:40,160 --> 0:22:43,960
+etc. And we can see that in a way the answer to these questions is related to the issue
+
+351
+0:22:43,960 --> 0:22:47,680
+of what the thing is in dispute. In other words, if B claims ownership of a thing possessed
+
+352
+0:22:47,680 --> 0:22:51,640
+or formally possessed by A, then the very framing of this dispute helps to identify what the
+
+353
+0:22:51,640 --> 0:22:56,000
+thing is, and what counts as a possession of it. If B claims ownership of a given resource,
+
+354
+0:22:56,000 --> 0:22:59,440
+he must want the right to control it according to its nature. Then the question comes, did
+
+355
+0:22:59,440 --> 0:23:03,160
+someone else previously control it, according to its nature? I.e. did someone else already
+
+356
+0:23:03,160 --> 0:23:07,000
+homesteaded, so that B is only a latecomer. This ties in with day you say is a let exclusion
+
+357
+0:23:07,000 --> 0:23:10,960
+stand principle, which rests on the idea that if someone is actually able to control a resource,
+
+358
+0:23:10,960 --> 0:23:15,120
+such that others are excluded, then this exclusion should stand. Of course, the physical nature
+
+359
+0:23:15,120 --> 0:23:18,680
+of a given scarce resource, and the way in which humans use such resources, will determine
+
+360
+0:23:18,680 --> 0:23:21,640
+the nature of actions needed to control it and exclude others.
+
+361
+0:23:21,640 --> 0:23:25,880
+DSA, as a matter of fact, considers two basic types of appropriation, finding and keeping,
+
+362
+0:23:25,880 --> 0:23:29,640
+and enclosure. The former applies primarily to movable objects that may be found, taken
+
+363
+0:23:29,640 --> 0:23:33,680
+and hidden, or used exclusively. Since the thing has no prior owner, prima facia, no one
+
+364
+0:23:33,680 --> 0:23:37,680
+isn't entitled to object to first possess or claiming ownership. For immovable property,
+
+365
+0:23:37,680 --> 0:23:42,720
+land, possession is taken by enclosing the land, and incurring exclusion costs, e.g. erecting
+
+366
+0:23:42,720 --> 0:23:46,920
+importance. Again, similar to Hoppe's embroidering, establishing an objective, intersubjectively
+
+367
+0:23:46,920 --> 0:23:50,840
+as obtainable border. As, in the case with movables, others lost the opportunity to
+
+368
+0:23:50,840 --> 0:23:54,800
+END QUOTE appropriate the property, does not give rise to a claim sufficient to oust the first possessor.
+
+369
+0:23:54,800 --> 0:23:58,400
+So in the case where Friday is in C, Crusoe instantly becomes the owner of both A and B,
+
+370
+0:23:58,400 --> 0:24:02,080
+after he completes his embordering.
+
+371
+0:24:02,080 --> 0:24:05,680
+In the case where Friday is in B, assuming nobody else is in C, Crusoe would become the immediate
+
+372
+0:24:05,680 --> 0:24:08,960
+owner of both A and C. What about the case where there are people or homesteaded
+
+373
+0:24:08,960 --> 0:24:13,040
+property in both B and C? In that situation, it becomes clear that Crusoe would indeed
+
+374
+0:24:13,040 --> 0:24:17,440
+be forestalling in fencing off A, as he could not become the owner of owned property on either
+
+375
+0:24:17,440 --> 0:24:21,480
+side of his border. That is to say, this type of fencing off would be claiming possession,
+
+376
+0:24:21,480 --> 0:24:24,120
+not of unowned land, but of the owned property of others.
+
+377
+0:24:24,120 --> 0:24:27,680
+I have come to recognise a slight terminological problem regarding the definition of ownership.
+
+378
+0:24:27,680 --> 0:24:31,440
+Initially for this course, I defined ownership as just possession, that is to say that A owns
+
+379
+0:24:31,440 --> 0:24:35,280
+alpha if A can justify his possession of alpha. This terminology strikes him as being entirely
+
+380
+0:24:35,280 --> 0:24:38,920
+reasonable on its face, and for some purposes, such as the discussion of homesteading above,
+
+381
+0:24:38,920 --> 0:24:42,000
+it works perfectly fine. However, there are some issues with using just possession as
+
+382
+0:24:42,000 --> 0:24:45,400
+your definition of ownership. First, how does one apply this terminology to situations
+
+383
+0:24:45,400 --> 0:24:48,760
+where there is no conflict, and yet the owner of a thing is not in possession of it? Consider
+
+384
+0:24:48,760 --> 0:24:52,240
+inviting your friend over to watch some TV. Your friend sits on your sofa, and thus he is engaged
+
+385
+0:24:52,240 --> 0:24:56,160
+in some partial possession of the sofa, and of the sitting room. Given there is no conflict,
+
+386
+0:24:56,160 --> 0:24:58,880
+could you ask your friend to leave if you no longer want him to sit there? Well, he was
+
+387
+0:24:58,880 --> 0:25:02,880
+able to justify his possession of the sitting room, so did he not therefore own it? And
+
+388
+0:25:02,880 --> 0:25:05,280
+if he owns it, what right have you to tell him to leave?
+
+389
+0:25:05,280 --> 0:25:08,840
+This issue could be solved through some notion of antecedent vs descendant property rights,
+
+390
+0:25:08,840 --> 0:25:12,200
+i.e. your property rights in the sofa, and the sitting room are antecedent to your friends
+
+391
+0:25:12,200 --> 0:25:15,320
+right, and the antecedent right must prevail in a given conflict. I have no particular
+
+392
+0:25:15,320 --> 0:25:18,440
+issue with others using this terminology, but it would make the wording of the above proof
+
+393
+0:25:18,440 --> 0:25:22,360
+that ownership is exclusive a little bit tedious for my liking. As such in this course,
+
+394
+0:25:22,360 --> 0:25:25,680
+I shall use the terminology that ownership is just direction, which is analogous to
+
+395
+0:25:25,680 --> 0:25:29,080
+de Jasay's idea that ownership of a thing involves controlling it, and is also
+
+396
+0:25:29,080 --> 0:25:33,320
+reminiscent of the Misesian idea of socialism being a society wherein a single will directs
+
+397
+0:25:33,320 --> 0:25:36,720
+the factors of production. Furthermore, defining ownership in terms of who has the right to
+
+398
+0:25:36,720 --> 0:25:40,160
+control or direct a given property will be useful in later lessons when describing the
+
+399
+0:25:40,160 --> 0:25:44,040
+right to retribute and the right of guardianship as property rights. These things are scarce
+
+400
+0:25:44,040 --> 0:25:46,920
+so our property theory has to cover them, but they aren't physical, so its odd to
+
+401
+0:25:46,920 --> 0:25:49,720
+describe them in terms of possession. This course would be incomplete without at least
+
+402
+0:25:49,720 --> 0:25:53,120
+a brief treatment of so-called intellectual property rights, though this section will
+
+403
+0:25:53,120 --> 0:25:56,560
+indeed be brief as I already have an extensive video going over the topic. All that will
+
+404
+0:25:56,560 --> 0:25:59,640
+be covered here is a proof that intellectual property rights are impossible, and are rather
+
+405
+0:25:59,640 --> 0:26:03,000
+monopoly grants, and a brief demonstration that said intellectual monopoly grants are
+
+406
+0:26:03,000 --> 0:26:06,800
+per se criminal. First, to demonstrate that intellectual property rights are strictly
+
+407
+0:26:06,800 --> 0:26:11,120
+impossible, we consider the nature of property. To say that a person A has a property right
+
+408
+0:26:11,120 --> 0:26:15,800
+in X is to say that A should win any conflict over the use of X. Briefly, a conflict is
+
+409
+0:26:15,800 --> 0:26:20,400
+defined as contradictory actions, so if Crusoe is using a stick to spearfish and Friday comes
+
+410
+0:26:20,400 --> 0:26:24,120
+along and tries to use that same stick to stoke his fire, we have a conflict. The two
+
+411
+0:26:24,120 --> 0:26:29,320
+actions cannot take place simultaneously. One action excludes the other. Here we see
+
+412
+0:26:29,320 --> 0:26:33,880
+that having a property right in X is necessarily exclusionary. We say that something is scarce
+
+413
+0:26:33,880 --> 0:26:38,520
+if when you use it you exclude other people from being able to use it at the same time.
+
+414
+0:26:38,520 --> 0:26:43,520
+The issue with so-called intellectual property is that ideas are not scarce, so you can't
+
+415
+0:26:43,520 --> 0:26:47,320
+have a property right in an idea. If Crusoe finds a stick in nature and figures out how
+
+416
+0:26:47,320 --> 0:26:51,840
+to use it to fish, his use of the stick excludes Friday, but his use of the idea of spearfishing
+
+417
+0:26:51,840 --> 0:26:56,120
+does not exclude Friday. Friday is fully capable of finding a different stick and using it
+
+418
+0:26:56,120 --> 0:27:00,600
+to spearfish at the exact same time. We notice that Friday has to find a different stick,
+
+419
+0:27:00,600 --> 0:27:05,560
+but he does not have to find a different idea. One person having an idea excludes nobody
+
+420
+0:27:05,560 --> 0:27:11,600
+else from having that same idea at the same time, so conflicts over ideas are simply impossible.
+
+421
+0:27:11,600 --> 0:27:15,680
+Therefore, if Crusoe were to exclude other people from using his idea of spearfishing,
+
+422
+0:27:15,680 --> 0:27:19,720
+he is not doing so in defence of a property right. Instead, he is criminally threatening
+
+423
+0:27:19,720 --> 0:27:24,160
+and/or attacking people who want to use their own property to spearfish. If a man comes
+
+424
+0:27:24,160 --> 0:27:27,480
+up with a new mouse trap design and patents it, then claims to everyone else that they are
+
+425
+0:27:27,480 --> 0:27:31,760
+no longer allowed to use that same design, he is indirectly threatening them with violence
+
+426
+0:27:31,760 --> 0:27:36,640
+through the use of the state. Intellectual property therefore constitutes a criminal threat,
+
+427
+0:27:36,640 --> 0:27:41,400
+and crime is something to be opposed. Furthermore, to adopt a consistent intellectual property
+
+428
+0:27:41,400 --> 0:27:46,320
+ethic is to accept ethical stasis. The IP ethic could be stated that any late-comer to
+
+429
+0:27:46,320 --> 0:27:51,040
+an idea must first ask the first-comer to that idea permission before they may use it.
+
+430
+0:27:51,040 --> 0:27:54,840
+But anyone who is not the first guy who thought of the idea of asking someone else's permission
+
+431
+0:27:54,840 --> 0:27:59,800
+in order to use their idea must ask his permission in order to ask someone else's permission.
+
+432
+0:27:59,800 --> 0:28:04,120
+But they must first ask his permission to ask his permission, and so on, ad infinitum.
+
+433
+0:28:04,120 --> 0:28:09,160
+The IP ethic then implies the near-immediate cessation of all action, and therefore implies
+
+434
+0:28:09,160 --> 0:28:28,360
+the death of humanity, so it cannot possibly make for a human ethic.
+

@@ -1,0 +1,237 @@
+#+title: 0 Course Outline
+
+* Notes
+** What Are Rights and Where Do They Come From? by Harry Binswanger
++ a right is a moral principle defining and sanctioning a man's freedom of action in a social context.
+  + "a right is a moral principle"
+    + rights are not divine gifts, or arbitrary, subjective decrees
+    + morality is absolute, objective, stemming from the nature of existence, so too are rights
+  + "freedom"
+    + there are many things that it is not right to do that you have a right to do---it is not right to take drugs or go to church. Moral /right/ and political /right/ are two different things. It is a moral wrong to shoot up heroin, but you have the political right to do it.
+  + "sanctioning"
+    + its good that man has this freedom
+  + "in a social context"
+    + it does not make sense to speak of rights in the context of robinson crusoe
+    + [he is wrong here] doesnt apply to lifeboat situations (!?)
+      + "it applies in a social context where one can have civil society under a government"
+        + arbitrary distinction between lifeboat situation and ones where "one can have civil society"---there are multiple people, that is a social context dumbass
++ rights are necessary because reason is mans means of survival and reason requires freedom
++ "a right is the principle for resolving conflicts" https://youtu.be/_HbJ94IXWc4?t=1279
+** Introduction to Objectivist Epistemology
+*** The Problem of Universals
++ In the history of philosophy there are essentially four schools of thought on the problem of universals (quoted from introduction to objectivist epistemology):
+  1. The “extreme realists” or Platonists, who hold that abstractions exist as real entities or archetypes in another dimension of reality and that the concretes we perceive are merely their imperfect reflections, but the concretes evoke the abstractions in our mind. (According to Plato, they do so by evoking the memory of the archetypes which we had known, before birth, in that other dimension.)
+  2. The “moderate realists,” whose ancestor (unfortunately) is Aristotle, who hold that abstractions exist in reality, but they exist only in concretes, in the form of metaphysical essences, and that our concepts refer to these essences.
+  3. The “nominalists,” who hold that all our ideas are only images of concretes, and that abstractions are merely “names” which we give to arbitrary groupings of concretes on the basis of resemblances.
+  4. The “conceptualists,” who share the nominalists’ view that abstractions have no actual basis in reality, but who hold that concepts exist in our minds as some sort of ideas, not as images. (There is also the extreme nominalist position, the modern one, which consists of declaring that the problem is a meaningless issue, that “reality” is a meaningless term, that we can never know whether our concepts correspond to anything or not, that our knowledge consists of words—and that words are an arbitrary social convention.)
+*** Consciousness
++ Consciousness is the faculty of perceiving that which exists
+  + consciousness is not a passive state, but is rather an active process consisting of differentiation and integration
+    + To be conscious of A you have to distinguish A from ~A, and you have to have a concept of A-ness
++ Sensations as such are not retained in mans memory, awareness begins with percepts, to be aware of something is to take it in on a perceptual level.
+  + A percept is a group of sensations automatically retained and integrated by the brain of a living organism.
+** Lecture series
+*** The Meaning of Objectivity
++ Objective (in metaphysics) means independent of consciousness---a fact is objective if it is what it is independent of consciousness
++ Objectivity is the primacy of existence, subjectivity is the primacy of consciousness
++ objectivity in the epistemological sense means to adhere to the object--the object of cognition, reality--in coming to conclusions
+  + i.e. objectivity means being guided by existence in a given thought process as against arbitrary content of the consciouness, which would be subjective
+*** Metaphysics
+**** Primacy of Existence
++ Starting with consciousness is incoherent, there is no consciousness without something to be conscious of.
+  + consciousness depends on existence, not the other way around
++ Main types of the primacy of consciousness:
+  1. the supernaturalistic type---existence is dependent on and caused by a cosmic consciousness, a cosmic mind, god. This is implicit in plato, and explicit in the christian tradition. "Who created the universe," is an example of this---the theist is perfectly fine with starting with God as the eternal unmoved mover, but not with existence.
+  2. the social type---no one individual is powerful enough to warp reality, but the collective mankind can.
+  3. the personal type---this is all that is left, its not His, its not theirs, its /my/ consciousness that controls reality. "Well, its true for you but not for me."
+**** Against the supernatural
++ the supernatural means that which transcends nature
+  + nature is existence---the sum of that which is
+  + supernature is something beyond the universe, beyond nature, beyond identity
+  + the supernatural is the complete negation of a proper metaphysics
+  + "who created the universe?"
+    + nobody, existence exists, the question is indicative of the primacy of consciousness
+  + the argument from design---the universe is so orderly, someone must order it
+    + this is false, the universe is orderly because things have to behave according to their nature because they are what they are. Order is implied by the law of identity. A disorderly /existence/ is a contradiction in terms, to exist is to have identity, to have identity is to have a nature, to have a nature is to behave according to that nature, which means to behave orderly
+  + the argument from miracles
+    + a miracle means an entity behaving not according to its nature, which is a negation of the law of identity.
++ Every attribute of god rests on false metaphysical premises:
+  + "god is infinite"---nothing can be infinite, everything is what it is, for A to be A, it must be limited in its qualities, and in its quantity (A is this much and no more). Infinite as applied to quantity means larger than any specific quantity, which means no specific quantity, which means lacking identity.
+  + "god is the creator of the universe"---there can be no creator outside of the totality of every existent
+  + "god is omnipotent"---entities can only behave in accordance with their nature
+  + "god is omniscient"---for there to be an effect there has to be a cause, for you to have knowledge you must have acquired that knowledge by some means, god is said to have knowledge without the means for acquiring knowledge, this is an effect without a cause.
+**** Entities
++ an entity is defined ostensively, in the primary sense it has these characteristics:
+  1. an entity means a self-sufficient form of existence as against a quality, action, relationship, etc, which is an aspect of some entity which man separates out by specialised focus---an entity is a /thing/; /this/, /you/, /it/; as against /hot/, /cold/, /running/, /jumping/, /to the left of/, etc.
+  2. an entity is perceptual in scale---it is a solid thing that you can perceive and point to
++ fire is not an entity, it is light and heat; it is a state of being for some entity---the entity is not the fire but whatever is burning.
+**** Metaphysical Status of Sensory Qualities
++ if redness is mans form of perceiving a certain object--a function of mans senses--can you then say that redness is real---is it out there in the world in things in themselves apart from man, or is redness only in the mind?
+  + if the latter, we are told, then the senses are deceivers because these sensory qualities arent actually real things in the world.
+  + so where is red?
+    + the question is invalid
+    + a sensation is an interaction between two entities, the physical object and the sense organ
+    + both the physical object and the sense organ are necessary
+    + you cannot therefore ask where is red, or where is the form of perception?
+    + the form is the minds way of grasping the object, therefore it cannot be located in the object apart from the senses or the senses apart from the object. It pertains to an interrelation between the two
+*** Epistemology
+**** Reason as the only valid source of knowledge (against mysticism)
++ Reason is the faculty which identifies and integrates the material provided by mans senses, it is the only valid source of knowledge. Reason relies on three aspects:
+  1. reason starts with the evidence provided by mans senses, sensory perception is the foundation;
+  2. reason is the faculty which integrates percepts into concepts, and;
+  3. reason employs a distinctive method in forming using and applying concepts, namely logic---logic is method of reason.
+     + reason is the faculty of forming concepts guided by the method of logic based on the foundation of sense perception.
++ A mystic is anyone who claims that knowledge is possible for man outside of senses or reason, and reason itself must integrate previous sense data, so you could say that mystics believe that there is a source of knowledge without sense data at its root.
+  + Nai's formulation: Where do universals (concepts) come from? Either
+    1. there is a process that happens in the human mind to construct them from sensory data (reason);
+       + This is the Objectivist view
+    2. they exist in the human mind from conception;
+       + The negation of this is demonstrated by talking to someone about a concept that they have not yet learned.
+    3. there is some other (mystic) means for humans to acquire new information completely independent of the senses;
+       + this needs to be demonstrated.
+    4. concepts don't exist, or;
+       + To even utter this relies on concepts, as language itself is conceptual.
+    5. humans do not have epistemic access to concepts.
+       + ditto for 4
+  + At its root, the mystic bases his revelations on whim---how does he know that his mystic intuition is correct? Of course, he simply feels that it is so.
+    + feelings are not supernatural conduits to reality, they are rather the product of ones past thinking and ideas---to say you feel a certain way means only that in the past you had certain thoughts that imply that feeling, this does not show that the thought which the feeling comes from was indeed correct. You need a method of validating that thought namely reason.
+**** On the validity of the senses
++ there is a distinction between perception and sensation, a consciousness that could only perform sensation would experience a constant bombardment of non-integrated data.
+  + a percept is a group of sensations automatically retained and integrated by the brain of a living organism. Perception allows one to be aware not just of mere stimuli, but also of entities, of /things/.
+  + as an adult you cannot experience the sensation stage, you have developed into the perceptual level of awareness
+  + conceptual knowledge is based upon a foundation of perception
++ senses tell only a man that an entity is, not what it is---man relies on his reason to decipher the nature of an entity
+  + any error in identifying what is happening in an illusion such as a stick bending in water, is an error on the conceptual level---an error in interpreting the percepts, not an error of the senses themselves.
+    + your senses do not tell you "this stick is bending in the water," the senses do not provide conceptual conclusions
++ A form of cognition is valid if it pertains to reality
+  + if our organs of perception have no volition they have no power to invent or distort---they cannot deceive they can merely (causally) react to the external objects that they are sensing
+  + a valid sense perception means a perception of reality, an invalid sense perception would therefore be perception of that which isn't, it would therefore be a perception of non-existence
+  + But if it is perception of nothing, it is not perception, because to be conscious you have to be conscious of /something/, and that something cannot be nothing.
++ A man sees an object and says its red, the colorblind man says its grey, is this not a contradiction?
+  + no contradictions between any form of perception and any other are possible
+  + if a person says "this is red" what does this mean?
+  + he has to recognise that he is perceiving the object in a specific form, dictated by his means of perception
+  + what is meant by "it is red" is that it is a real entity with a nature such that it acts upon his sensory organs in a way such that he perceives it as having a red colour---this is clearly true.
++ A man who is thinking of or hallucinating a pink elephant is not perceiving a pink elephant outside of reality---it is possible for him under certain circumstances to detatch his consciousness from perception of reality and instead to focus on stored sensory images in his mind, content originally acquired from perception of reality.
+  + could a man who had never seen an elephant or pinkness possibly think of a pink elephant?
+**** What Epistemology Depends On
++ Primacy of Existence
+  + epistemology studies the nature and means of human knowledge---the processes by which knowledge is acquired and the rules concerning its validity.
+  + The presupposition is that man can gain knowledge only by engaging in certain specific processes
+  + if consciousness had primacy mere thought could create reality, and thus reality would necessarily have to conform to thought and there would be no such field as epistemology. It is only because existence exists and knowledge must therefore conform to reality, rather than the other way around, that there are certain specific processes that are required to gain knowledge.
+**** How does the human mind achieve knowledge?
++ Existence is identity, consciousness is identification
+  + the law of identity sets the function of consciousness
+  + identity specifies what knowledge consciousness can acquire
+  + all that consciousness can do is discover the identity of that which exists
+    + to be is to be /something/, to be aware is to be aware of /something/---to grasp what the something is. The only question consciousness can answer is what /is/ X---what is the identity of X?
+    + why = what is the identity of the cause?
+    + how = what is the identity of the process?
+    + when = what is the identity of the time?
+  + You can only be conscious of that which exists, for something to exist it must possess identity, therefore consciousness must be a faculty of identification.
+    + hallucinations do not negate this, the thing which exists might be a psychadelic in your bloodstream and you identify this by the strange hallucinations that you see---a man may err in his identification of the cause of what he perceives, but it is nevertheless the case that the cause has to exist.
++ The Kantian nothing-consciousness:
+  + human perception is limited by its nature, by its identity
+  + if you see something and perceive its redness that is only due to your human eyes with their specific nature, other eyes might perceive it differently and therefore its not /really/ red, its only red for you
+  + what is /real/ reality then? What kind of consciousness would possibly perceive /real/ reality?
+  + well, it would have to lack any identity, because if it had identity it would be /this/ consciousness as opposed to /that/ consciousness.
+  + if it lacks identity it does not exist, therefore the ideal consciousness to a Kantian is one that does not exist and has no particular means of acquiring knowledge
+    + a man is blind for having eyes, and deaf for having ears on this view.
++ Scepticism as unconscioussness:
+  + the sceptic question is "is knowledge possible?"
+  + epistemology cannot ask this question, epistemology is concerned with the means of attaining knowledge, knowledge has to be possible for there to even be epistemology in the first place
+  + if knowledge is impossible then there is no consciouness, no identification of anything.
+**** The validation of free-will
++ the meaning of an action being free is that it was selected from one or more alternatives that were possible under the circumstances, and where the difference was made by a mans decision.
+  + the choice is between whether to be conscious or not---reality does not force itself upon your mind, simply waiting for reality to grant you the truth would be fruitless. Your mind has to do something to grasp reality.
+  + The conceptual level is not automatic, man has the choice whether to think or to evade.
++ evasion means actively avoiding the integration of facts on the premise that if one simply refuses to acknowledge A it will cease to be
+  + it is not merely passively not integrating, it is deliberately blinding yourself to the truth
++ to ask for validation of any knowledge is to accept the pre-suppositions of epistemology.
+  + One such pre-supposition is that mans knowledge requires validation in the first place
+  + mans knowledge can require validation only if consciousness is not automatic---if consciousness was automatic man would simply possess the thoughts that he possesses validation be-damned
+  + an automatic consciousness has no need of nor no ability to engage in any method of validation.
++ if determinism is true then the determinist is pre-destined to accept determinism
+  + how then does the determinist hope to validate determinism?
+  + the factors that caused him to be a determinist are clearly not infallible, because those same laws caused other people to not be determinists, so he must accept that man can think in error
+  + so the determinists mind is not automatically attuned to reality and the determinist claims that he has no choice over what he believes such that he could not validate any belief that he holds---the determinist claims that he cannot deliberately choose reality over fantasy.
+**** Subjectivism and Intrinsicism
++ The subjectivist claim is that because reality doesn't automatically tell us what's right we must be guided by the content of our consciousness independent of reality.
+  + the only way that we could remain in contact with reality is if we could passively expose ourself to reality allowing it to automatically dictate to us, but this is impossible, so knowledge is impossible
+    + volition makes knowledge impossible, so we have to retreat into our minds and proclaim scepticism
++ The intrinsicist is diametrically opposed to the subjectivist, claiming instead that you must adhere to reality and the only way to do this is with direct perception
+  + you must passively expose yourself to external entities which force themselves upon your awareness.
+  + The intrincisist claims that these external entities can impress conceptual knowledge on man without any conscious effort
+    + no special method of acquiring knowledge is required
++ Both schools agree that the only possible form of cognition is one in which reality automatically gives us truth without any deliberate process, method, or effort necessary on our part.
+  + the subjectivist says that reality does not do this so knowledge is impossible
+  + the intrincisist says reality must do this so he invents external entities to do the job
++ Subjectivist examples
+  + "how do you know something?" "I believe it so its true /for me/."
+  + "what about the real truth?" "who can know?"
+  + "we feel it so its true for us!"
+    + polylogism
++ Intrinsicist examples
+  + "how do you know something?" "reality simply operated on me, no method of validation was required"---intuition, revelation from god, etc
+***** The Objective approach, logic
++ yes, we need to adhere to reality, our conclusions must correspond to facts, but for a conceptual being adherence to reality is not automatic. It is a matter of exercising volitional effort---certain rules must be followed for this process to be valid
+  + the rules must be:
+    1. based on facts of reality, otherwise following the rules will not lead man to valid conclusions
+    2. the rules must be appropriate to mans mode of cognition
+       + they must be in accordance with facts and mans mode of cognition---they must reflect reality and mans means of grasping it.
++ the method of objectivity, the method that one must follow to reach valid conclusions is logic, the art of non-contradictory identification:
+  + the method of logic is adherence to the law of identity
+  + how do you know when your thought is in accordance to the law of identity?
+  + one fundamental error by which you can violate the law of identity is contradiction.
++ Objectivism holds the ontological view of logic, namely that the laws of logic are facts of existence as against arbitrary linguistic conventions.
+  + if the method was rooted in arbitrary rules there is no point in having it in the first place as it could not validate any knowledge.
+**** The emergence of conceptual awareness
++ human knowledge is conceptual knowledge, percepts are not knowledge they are rather the material of knowledge
++ the process of the development of conceptual consciousness is entity->identity->unity
+  1. when we reach the perceptual level we directly perceive entities, at this stage we do not know /what/ the things are, and we may not even recognise when we see the same thing on different occasions that it is indeed the same thing. We have not yet recognised a particular thing as opposed to all other things, we recognise only things.
+     + at this stage there is the /implicit/ concept of entity---existence exists.
+  2. the second stage occurs when we are aware not just of entities, but of /this/ entity as opposed to /that/ one, we recognise a particular thing so that we can recognise the same thing if we see it again later.
+     + there is now the implicit concept of identity---A is A.
+     + higher animals have equivalent stages of awareness to this.
+  3. at this stage we leave the animals behind, when man grasps particulars--identities--he can grasp the relationships among these identities---recognise that certain objects are similar to others and to (mentally) group them accordingly, and call them by the same word (table, chair, etc). From this point on we no longer view objects as animals do--as unrelated to each other--we classify things in terms of similarities and differences of their identities and we thus view things as groups of similar things. At this stage when I grasp this entity I grasp not just /entity/ and not just /this/ entity as opposed to others, but I now grasp this /man/, or this /chair/, etc. I.e. /this/ as part of a set of similar things.
+     + the implicit concept of this stage is unity---a unity is "an existent regarded as a separate member of a group of two or more similar members."
+     + mans ability to regard entities as units is the essence of the conceptual method.
+*** The Nature of Man
+**** Reason as man's means of survival
++ lower animals are able to automatically pursue that which is required for their life, this is not so for man.
+  + lower animals require only knowledge of percepts, man requires reason to abstract and integrate percepts into concepts.
++ Reason is the faculty that identifies and integrates the material provided by mans senses.
++ Ants can perform only one of the many tasks that their survival depends upon---ants are metaphysically collectivist, not man.
+  + man survives by reason, reason is a process of thought, thought is per se individual.
+**** The relation of mind and body/mind-body dichotomy
++ the mind-body dichotomy holds that mind and body are two antagonistic aspects of mans nature
+  + therefore you have to either reject the body or the mind---on this view conceptual knowledge--reason--is divorced from actual action and therefore cannot be pursued as a means of survival.
+  + The source of this is that one starts with a primacy of consciousness, sees that it does not at all conform to reality, then concludes that there must be antagonism between theory and practice, between mind and body, between consciousness and existence.
+  + "there is a deep metaphysical clash between my eyesight and my toes"
+    + what could such a clash between sense perception and ones physical body even consist of? Eyesight yields awareness and the toes are guided by said awareness---I see X, then I walk towards X.
+  + A body without a mind is a corpse, a mind without a body is a ghost---both denote death
+    + as close as you could get to pure thought would be complete and total catatonia, where you are not allowed to actually think /about/ anything as you cannot relate your thoughts to reality. As close as you could get to pure action would be manic flaling, this too would be non-action as it would be completely without purpose. We see that pure thought and pure action are both meaningless for man and both lead to death.
+  + The mind/body dichotomy is derived from a metaphysics which denies this reality
++ Objectivism correctly holds that there is no supernatural-mystical soul
+  + insofar as there is such a thing as "soul" it refers to natural things such as mind or consciousness---its purpose is to perceive aspects of nature, not to communicate with a supernatural realm.
++ Man is an integrated being possessing both consciousness and matter---both mind and body.
+  + mind yields knowledge, and the body is then guided by that knowledge in action---the body translates the knowledge into action.
+**** The relation between reason and emotion
++ emotions are not logical primaries, they have causes
+  + an emotion is the result of an existant that one perceives
+  + the existant by itself has no power to invoke an emotion by the man perceiving it---emotions are not mere sensations
+  + for an existant to cause an emotion in the mind of the perceiver, the perciever must have some identification of it--either true or false--and the perceiver must evaluate it in some way.
+    + if you had no identification of the thing in question, you could not respond to it, you could not evaluate it---it would be outside of your realm of cognition. You must at least have some idea of what the thing is before you can respond
+  + You can say that an emotion is caused by the identification and evaluation of an existant by the individual feeling said emotion---there are four steps:
+    1. perception
+    2. identification
+    3. evaluation
+    4. emotional response
+    5. only 1 and 4 are normally conscious and easily graspable. Identification and evaluation are subconscious processes
+       + an emotion is experienced as an intellectual primary, but is in fact the result of some underlying worldview which shapes ones evaluations of that which they perceive---to evaluate something as good or bad relies on all kinds of more fundamental questions, culminating in some understanding of the nature of man.
++ The argument from conflict:
+  + how can you explain the many cases where his mind tells a man one thing and yet his emotions pull him in the opposite direction?
+    + this is the result of men holding contradictory ideas
++ Babies cry when dropped suddenly, do they have some fundamental philosophy driving this?
+  + not necessarily, this could be classed as perceptual awareness of danger, they are not engaging on the same conceptual level as would an adult who knows that falling is bad for man because it causes injury. This baby is merely an automaton, the above theory of emotion applies to acting beings (man), not beings as such.
+  + This baby is feeling the perceptual equivalent of an emotion, emotions are specifically on the conceptual level.

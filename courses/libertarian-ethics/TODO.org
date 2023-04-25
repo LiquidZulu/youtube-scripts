@@ -1,0 +1,16 @@
+#+title: Todo
+
+* TODO [11/11]
++ [X] Make subtitles from video clips
++ [X] add subtitles to videos
++ [X] add watermarks
++ [X] watch for corrections [2/2]
+  + [X] correct subtitles
+  + [X] add footnotes (make them sky-500)
++ [X] add a slight animation to the footnotes
++ [X] upload to yt unlisted
++ [X] re-export the marp slide-decks
++ [X] re-export .org -> .md for documents
++ [X] add html slide decks to site
++ [X] change ko-fi links to correct destinations on site (the one that pops up when you scroll should link to subscription and the one on the [course] page should link to the purchase link for that course)
++ [X] publish site

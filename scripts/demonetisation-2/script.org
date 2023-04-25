@@ -1,0 +1,49 @@
+#+title: Script
+
+* Introduction
+[welcome slide]Hello, the monetisation for my channel was recently revoked under the "Reused content" policy and this decision has been made in error. My previous appeal failed due to not containing enough visual examples of how my content is made, and as such this appeal shall focus heavily on this aspect.
+
+
+* Streams
+First I will note that the overwhelming majority of the content on my channel is livestreamed, these streams consist of me debating or talking to people on various topics in philosophy and economics, because they are streamed live I do not have the ability to edit them or reuse content at all, they are entirely original, and as such I shall focus on the videos that I actually do edit.
+
+* How I make vids
+In general I make videos by first coming up with a lengthy and well-researched script that I write myself and which I release to the public on my github page, I then film myself with a webcam recorded through OBS reading out the script and I edit that A-roll together with B-roll in a program called kdenlive.
+
+This is the webcam I use, this is me, and behind me is the whiteboard I use to write down any ideas I come up with for videos. You can see this whiteboard in the background of some of my videos. When I think of a topic that would be good to make a video on I write it on this whiteboard so that I can remember it later.
+
+* Videos
+** Jay Dyer has not read Hoppe
+This video is a clip from a Jay Dyer debate where he makes the claim that economist Hans-Hermann Hoppe supports Dyers monarchist position, I demonstrate this to be false by fading in a highlighted section of Hans-Hermann Hoppes book on monarchism where he explains that he is not a monarchist. This clip was edited by me using kdenlive, I also made the highlighted screenshot of the book which was faded into.
+
+[DO:0]This video is a humourous revision of the clip, the joke is that Dyer has not read the book that he cites to support his argument, this is funny and not something you get from the original clip. [DO:1]This video is also part of a critical review of Dyer, I am demonstrating that he doesn't know what he's talking about, [DO:5]similarly the clip falls under edited footage to provide commentary, the commentary is provided /by/ they editing, which I performed.
+
+[DONT]This content is not a compilation of short videos, or a collection of songs, it is not clips from my favourite show edited together, it is not content uploaded many times by others, and it is not promotion of other peoples content.
+
+** Why Artists Shouldn't Own Their Art
+This video is an incredibly deep and well-researched video essay on the topic of intellectual property. The script for this video is linked in the description, and you can verify that I wrote the whole thing because it is hosted on my github account. Similarly this video was edited entirely by me in kdenlive, it is not a compilation of clips that other people have made, I do use clips from elsewhere but only for the purpose of reviewing what they are saying and arguing against it, or for the purpose of citing my sources so that I am not plagiarising arguments made by others.
+
+[DO:0]This video certainly counts as a revision of content that I didnt create, most of the video consists of me talking and making arguments, those clips that I do use are used so that I can respond to counterarguments made by others. [DO:1]Similarly this video qualifies under clips of other peoples content as part of a critical review; I do use clips of others content but only for the purpose of responding to their arguments or citing arguments made by others, it is all contained within the wider video being made by me where I am trying to argue the thesis at hand. This is not a compilation video. This trivially also applies to the final two criteria listed.
+
+[DONT]This content is not a compilation of short videos, or a collection of songs, it is not clips from my favourite show edited together, it is not content uploaded many times by others, and it is not promotion of other peoples content.
+
+** Why Socialism is Literally Impossible
+Like the previous video and like all of my video essays and video essays in general this video does include content from other people but it is not a compilation of clips from others, it rather /includes/ clips so that I can respond to arguments that people are making. As such this video fits the various criteria that are able to be monetised, as it is transformative in its use of content, and it does not fit the criteria of that which isnt allowed to be monetised.
+
+Again I extensively scripted this video and recorded it with OBS studio then edited with kdenlive, this is not a compilation of other peoples content.
+
+** Quickfire
+I fear that I do not have enough time to go over every single video on my channel so I shall quickfire a handfull more to re-iterate the point that I do not compile other peoples content, the vast majority of my content is livestreamed and thus cannot compile others content and that content which does does so for critique and review.
+
+Such is the case for this video where I present the thesis that David Friedman is not an ancap, I need to show clips of friedman speaking in order to respond to what he is saying and to highlight what it is he believes so that I can demonstrate that his beliefs are not compatible with anarcho-capiatlism.
+
+This presents my thesis that anarcho-capitalism is the only correct legal theory, here I do not even include clips to respond to points others make, so this definitely cannot be considered to be reused content.
+
+In this video I use clips from professor daves channel to respond to argument he is making to show where he has gone wrong, like all of my other video essays the clips are used for the purpose of response and review, and like elsewhere I wrote the script, I recorded the script, and I edited the recording, I did not splice together content from others.
+
+The same is true for this video on georgism, I include clips from georgists very sparingly where necessary to respond to arguments being made, again I scripted, I recorded, and I edited the recording together with clips from others used only for the purpose of responding to points they have made.
+
+* This video
+I do not know how much more detail I can go into with respect to how my videos are made, they are all open source on github to the extent that github allows, the only thing I dont include are the video files themselves because they are too large to be allowed on github. This very appeal was made by recording audio in audacity and editing together slides generated by a program called marp, the source code can be seen on github--my github--I made this appeal just as I made the rest of the videos on my channel. My channel is categorically not dedicated to compiling content from other people or promoting other peoples content, I use content from others solely for the purpose of responding to or citing points that others have made, and to re-iterate again even this use makes up a tiny fraction of the content on my channel, most of which is taken up by livestreamed content that reuses not a single second of content from others.
+
+I trust that I have demonstrated how it is I make my videos and for what purpose I use clips of others: I write the scripts, I record the scripts, and I edit those recordings, I use clips from others only where it is necessary and only for purposes listed as being suitable for monetisation. Thus this appeal should succeed and I wish for you to have a nice day.
