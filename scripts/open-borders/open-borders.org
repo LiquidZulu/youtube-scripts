@@ -1,5 +1,124 @@
-#+TITLE: The Right Wing Case For Abolishing Borders | Open Borders is the Libertarian Position | [Dave Smith/Hoppe] and Border Socialism | Borders Should be Open
+#+TITLE: The [Moral/Right Wing] Case For Abolishing Borders | Open Borders is the Libertarian Position | [Dave Smith/Hoppe] and Border Socialism | Borders Should be Open
 
+* SEO Checklist :noexport:
+** Points to hit [0/16]
++ [ ] who's the character?
+  + [ ] their want?
+  + [ ] their need?
+  + [ ] their flaw?
+  + [ ] how do they grow?
+  + what story/journey could the above create?
++ [ ] what's the desire/motivation of the story?
++ [ ] what's the obstacle?
++ [ ] what're the stakes --- why is it important?
++ [ ] make them care
+  + [ ] show what you have so the audience feels the loss when you lose it
++ [ ] what's the resolution --- the one core idea that is the final message of the video that wraps everything up?
+  + deliver on the title and thumbnail
++ [ ] storyboard it [0/3]
+  + [ ] storylines you have
+  + [ ] hook for each
+  + [ ] different things that can happen
++ [ ] attach a story to every point I make and tell the story before I make that point
++ [ ] answer questions using spectacle
++ [ ] if things go static stories die, because life is never static.
++ [ ] drama is anticipation mingled with uncertainty
++ [ ] make comment goals (2 or 3)
++ [ ] cater to the archetypal viewer
++ [ ] reference popular media
++ [ ] Make an audience proxy (state things the viewer is thinking)
++ [ ] Problem every 2 minutes
+** Intro [0/4]
++ [ ] 8 words right at the start explaining the concept
++ [ ] Personal (character) motivation
++ [ ] Create an enemy
+** Questions to ask [0/11]
++ [ ] is there incentive to watch until the end?
++ [ ] can I add something?
++ [ ] what are the different loops that I can open?
++ [ ] what are the different questions that the viewer could ask themselves?
++ [ ] what's the hook?
++ [ ] what do viewers need to see in the first few seconds based on the title and thumbnail so that they feel like their click is worth it?
++ [ ] is there a way to make the viewer laugh or feel surprised or feel something in the first 10 seconds?
++ [ ] is there a way to have two storylines?
+  + [ ] surface level story, and hidden stories (finding nemo is ostensably about finding nemo, but really about marlon addressing his insecurities as a father)
+  + [ ] is there a way to build surface level and underlying tension in each story?
+    + short term: will dory's short term memory make her forget what marlon told her, long term: will we find nemo?
++ [ ] am I giving them 4 or 2+2?
+  + https://www.youtube.com/watch?v=KxDwieKpawg
++ [ ] in doing X big thing [0/3]
+  + [ ] what do I want?
+  + [ ] what happens if I dont get what I want?
+  + [ ] what will I do to get what I want?
+** Editing [0/5]
++ [ ] Show where possible
++ [ ] if theres a bit of information where you can delete what is before and after it and it flows just as well, cut it
++ [ ] tell stories with B-roll
++ [ ] Keep pace as fast as humanely possible, without impacting the pacing
++ [ ] add breather moments to allow for the pace to not feel too fast https://www.youtube.com/watch?v=o8ZbGnwXjj4
+** How to keep people watching [0/23]
++ [ ] deliver on title and thumbnail (video "I ate 100 bananas" shouldnt start with people eating apples or you buying bananas)
++ [ ] /exceed/ the expectations made by the thumbnail
++ [ ] instantly explain the payoff
++ [ ] tell them why to watch
++ [ ] get right into content after delivering
++ [ ] remove every dull moment
++ [ ] find 10 most critical people you know to roast your video
++ [ ] payoff at the end
++ [ ] you can make anything work but it has to be interesting to the audience, original, and good
++ [ ] big stunts
++ [ ] the title should be "bananas are the best food on the planet" rather than "I like bananas"
++ [ ] consider what the experience will be for people in the video, if they liked it they might want to watch more of your videos.
++ [ ] viewers can tell when you are half-assing
++ [ ] (storyline) have an objective
++ [ ] stay on topic
++ [ ] no filler, only content that is neccesary to the narrative and meets the expectations
++ [ ] for payoff have the clear goal that is teased throughout the video
++ [ ] build anticipation to the payoff
++ [ ] wait until the very end to give the payoff
++ [ ] watchtime is not created equal, engagement and viewer surveys will differentiate between a good 25min video and a great one
++ [ ] Signal to the viewer early on that you know something that they dont, e.g. "I've uncovered something about Elon Musk that nobody is talking about."
++ [ ] Get rid of signposting, e.g. over-explaining and ‘telling’ the viewer what's about to happen instead of ‘showing’ them.
++ [ ] subtly re-introduce the hook at several points in the video, most viewers forget what the incentive to watch is 5 or 6 minutes in
+** Thumbnail
++ concept more important than aestethics
++ borrow from other successful videos (yoink and twist)
++ make the dominant subject someone people know (so not me when starting off)
++ provide action
++ portray the story of the video
++ other parts of the image shouldnt take focus away from the important, clickable, elements
++ confusion doesnt make people want to click, curiosity \ne confusion
++ should be accurate in the most visually applealing way
++ should be simple and clear
++ colourful and bright
++ have 2-3 different versions of the thumbnail to A/B test
++ check how they look across youtube (thumbsup.tv)
++ recognisable figures improve CTR
++ you probably only want 1 person in your thumbnail (obviously just a rule of thumb)
++ spike their curiosity so much that they will wonder what happened if they dont click
+** Title
++ "and this happened" is better than "what happens next will shock you"
++ a good title says what it needs to say in as few characters as possible
+** End Screen
++ Next logical step
++ What do the avatars care about?
++ Make people want to know what happens next.
++ be persuasive
+  + mention the avatars desire
+  + point out what more there is for them to do
+    + use "have to"
+  + describe the result of them doing that.
++ be confident that the linked video is good
+** In-Video CTA
++ Course, subscription etc
+  + make CTA right after doing something great in the video
+    + best tip
+    + laughter
+    + clear effort (near end maybe)
+    + video climax
+  + DONT make it generic
+    + remind audience how simple the action is and how much it means to you
+    + demonstrate value
 * Notes
 ** Dave Smith vs Spike Cohen https://www.youtube.com/watch?v=S2hcFxdae7M
 + prop:"Libertarians should demand that the government allow people to travel into and out of the United States as they wish in defiance of its attempts to use crises like COVID to restrict our freedom of association"
@@ -82,55 +201,12 @@
 + "homesteading doesnt work because neither the state nor the hobo in the public park cares about homesteading, making it impractical under current circumstances"
   + which is irrelevant, 2+2 still makes 4 whether a single person is aware of this fact, and homesteading still appropriates unowned property whether a single person is aware of this fact. Moreover, the practicality or lackthereof of the homestead principle does not change its truth
 
-* Seo Checklist
-** Points to hit [0/14]
-+ [ ] who's the character?
-  + [ ] their want?
-  + [ ] their need?
-  + [ ] their flaw?
-  + [ ] how do they grow?
-  + what story/journey could the above create?
-+ [ ] what's the desire/motivation of the story?
-+ [ ] what's the obstacle?
-+ [ ] what're the stakes --- why is it important?
-+ [ ] make them care
-  + [ ] show what you have so the audience feels the loss when you lose it
-+ [ ] what's the resolution --- the one core idea that is the final message of the video that wraps everything up?
-  + deliver on the title and thumbnail
-+ [ ] storyboard it [0/3]
-  + [ ] storylines you have
-  + [ ] hook for each
-  + [ ] different things that can happen
-+ [ ] attach a story to every point I make and tell the story before I make that point
-+ [ ] answer questions using spectacle
-+ [ ] if things go static stories die, because life is never static.
-+ [ ] drama is anticipation mingled with uncertainty
-+ [ ] make comment goals (2 or 3)
-+ [ ] cater to the archetypal viewer
-+ [ ] reference popular media
-** Questions to ask [0/11]
-+ [ ] is there incentive to watch until the end?
-+ [ ] can I add something?
-+ [ ] what are the different loops that I can open?
-+ [ ] what are the different questions that the viewer could ask themselves?
-+ [ ] what's the hook?
-+ [ ] what do viewers need to see in the first few seconds based on the title and thumbnail so that they feel like their click is worth it?
-+ [ ] is there a way to make the viewer laugh or feel surprised or feel something in the first 10 seconds?
-+ [ ] is there a way to have two storylines?
-  + [ ] surface level story, and hidden stories (finding nemo is ostensably about finding nemo, but really about marlon addressing his insecurities as a father)
-  + [ ] is there a way to build surface level and underlying tension in each story?
-    + short term: will dory's short term memory make her forget what marlon told her, long term: will we find nemo?
-+ [ ] am I giving them 4 or 2+2?
-+ [ ] in doing X big thing [0/3]
-  + [ ] what do I want?
-  + [ ] what happens if I dont get what I want?
-  + [ ] what will I do to get what I want?
-** Editing [0/3]
-+ [ ] Show where possible
-+ [ ] if theres a bit of information where you can delete what is before and after it and it flows just as well, cut it
-+ [ ] tell stories with B-roll
-
 * Main Body
+** Intro
+The open borders argument has been unfairly maligned as either an insane leftist talking point or a grift forwarded by big business to destroy local cultures and depreciate wages. In reality borders are a moral evil that should be abolished. Here's why.
+
+** The Moral Case for Open Borders
+The waters are muddied on this issue by arguments analysing whether or not open borders "work" and whether they maximise some definition of economic goodies which the author cares about. I will not be making such an argument, my argument will be a moral one, not one based upon the effects that open borders will have. In short, open borders aren't good because they work, they work because they are good. The reason for this is quite simply that the state does not own the land which it rules over, and thus it has no right to decide who is allowed to enter or not.
 
 * Footnotes
 [fn:2]Block, Walter. "Rejoinder to Hoppe on Immigration." /Journal of Libertarian Studies/ 22, No. 1 (2011): 771–792.

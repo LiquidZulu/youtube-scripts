@@ -1,0 +1,142 @@
+#+title: Nobody Knows how to Make a Pencil
+
+* SEO Checklist :noexport:
+** Points to hit [0/16]
++ [ ] who's the character?
+  + [ ] their want?
+  + [ ] their need?
+  + [ ] their flaw?
+  + [ ] how do they grow?
+  + what story/journey could the above create?
++ [ ] what's the desire/motivation of the story?
++ [ ] what's the obstacle?
++ [ ] what're the stakes --- why is it important?
++ [ ] make them care
+  + [ ] show what you have so the audience feels the loss when you lose it
++ [ ] what's the resolution --- the one core idea that is the final message of the video that wraps everything up?
+  + deliver on the title and thumbnail
++ [ ] storyboard it [0/3]
+  + [ ] storylines you have
+  + [ ] hook for each
+  + [ ] different things that can happen
++ [ ] attach a story to every point I make and tell the story before I make that point
++ [ ] answer questions using spectacle
++ [ ] if things go static stories die, because life is never static.
++ [ ] drama is anticipation mingled with uncertainty
++ [ ] make comment goals (2 or 3)
++ [ ] cater to the archetypal viewer
++ [ ] reference popular media
++ [ ] Make an audience proxy (state things the viewer is thinking)
++ [ ] Problem every 2 minutes
+** Intro [0/4]
++ [ ] 8 words right at the start explaining the concept
++ [ ] Personal (character) motivation
++ [ ] Create an enemy
+** Questions to ask [0/11]
++ [ ] is there incentive to watch until the end?
++ [ ] can I add something?
++ [ ] what are the different loops that I can open?
++ [ ] what are the different questions that the viewer could ask themselves?
++ [ ] what's the hook?
++ [ ] what do viewers need to see in the first few seconds based on the title and thumbnail so that they feel like their click is worth it?
++ [ ] is there a way to make the viewer laugh or feel surprised or feel something in the first 10 seconds?
++ [ ] is there a way to have two storylines?
+  + [ ] surface level story, and hidden stories (finding nemo is ostensably about finding nemo, but really about marlon addressing his insecurities as a father)
+  + [ ] is there a way to build surface level and underlying tension in each story?
+    + short term: will dory's short term memory make her forget what marlon told her, long term: will we find nemo?
++ [ ] am I giving them 4 or 2+2?
+  + https://www.youtube.com/watch?v=KxDwieKpawg
++ [ ] in doing X big thing [0/3]
+  + [ ] what do I want?
+  + [ ] what happens if I dont get what I want?
+  + [ ] what will I do to get what I want?
+** Editing [0/5]
++ [ ] Show where possible
++ [ ] if theres a bit of information where you can delete what is before and after it and it flows just as well, cut it
++ [ ] tell stories with B-roll
++ [ ] Keep pace as fast as humanely possible, without impacting the pacing
++ [ ] add breather moments to allow for the pace to not feel too fast https://www.youtube.com/watch?v=o8ZbGnwXjj4
+** How to keep people watching [0/23]
++ [ ] deliver on title and thumbnail (video "I ate 100 bananas" shouldnt start with people eating apples or you buying bananas)
++ [ ] /exceed/ the expectations made by the thumbnail
++ [ ] instantly explain the payoff
++ [ ] tell them why to watch
++ [ ] get right into content after delivering
++ [ ] remove every dull moment
++ [ ] find 10 most critical people you know to roast your video
++ [ ] payoff at the end
++ [ ] you can make anything work but it has to be interesting to the audience, original, and good
++ [ ] big stunts
++ [ ] the title should be "bananas are the best food on the planet" rather than "I like bananas"
++ [ ] consider what the experience will be for people in the video, if they liked it they might want to watch more of your videos.
++ [ ] viewers can tell when you are half-assing
++ [ ] (storyline) have an objective
++ [ ] stay on topic
++ [ ] no filler, only content that is neccesary to the narrative and meets the expectations
++ [ ] for payoff have the clear goal that is teased throughout the video
++ [ ] build anticipation to the payoff
++ [ ] wait until the very end to give the payoff
++ [ ] watchtime is not created equal, engagement and viewer surveys will differentiate between a good 25min video and a great one
++ [ ] Signal to the viewer early on that you know something that they dont, e.g. "I've uncovered something about Elon Musk that nobody is talking about."
++ [ ] Get rid of signposting, e.g. over-explaining and ‘telling’ the viewer what's about to happen instead of ‘showing’ them.
++ [ ] subtly re-introduce the hook at several points in the video, most viewers forget what the incentive to watch is 5 or 6 minutes in
+** Thumbnail
++ concept more important than aestethics
++ borrow from other successful videos (yoink and twist)
++ make the dominant subject someone people know (so not me when starting off)
++ provide action
++ portray the story of the video
++ other parts of the image shouldnt take focus away from the important, clickable, elements
++ confusion doesnt make people want to click, curiosity \ne confusion
++ should be accurate in the most visually applealing way
++ should be simple and clear
++ colourful and bright
++ have 2-3 different versions of the thumbnail to A/B test
++ check how they look across youtube (thumbsup.tv)
++ recognisable figures improve CTR
++ you probably only want 1 person in your thumbnail (obviously just a rule of thumb)
++ spike their curiosity so much that they will wonder what happened if they dont click
+** Title
++ "and this happened" is better than "what happens next will shock you"
++ a good title says what it needs to say in as few characters as possible
+** End Screen
++ Next logical step
++ What do the avatars care about?
++ Make people want to know what happens next.
++ be persuasive
+  + mention the avatars desire
+  + point out what more there is for them to do
+    + use "have to"
+  + describe the result of them doing that.
++ be confident that the linked video is good
+** In-Video CTA
++ Course, subscription etc
+  + make CTA right after doing something great in the video
+    + best tip
+    + laughter
+    + clear effort (near end maybe)
+    + video climax
+  + DONT make it generic
+    + remind audience how simple the action is and how much it means to you
+    + demonstrate value
+* Main Body
+** Introduction
+This is a pencil. The pencil is a relatively simple tool, it consists of a wood-wrapped graphite core, and perhaps with a rubber eraser affixed to the end. But there is not a single person alive who knows how to make this pencil, sure there are people who know how to run the machines that combine graphite and wood into this form, but do they also know how to mine the graphite, and chop down the trees? Do they understand any of the many processing steps required to take raw graphite and wood and convert them into the form that their machine accepts? Do they know how to build the machines that they operate, or how to build the machines that build those machines? Do they know how to generate the electricity that their factory runs on, or build the cars they use to get to work?
+
+There is clearly a lot more going on with a pencil than meets the eye, but a pencil is one of the simplest tools we use on a daily basis. If nobody can make a pencil, then surely nobody can make a nuclear reactor, or a space shuttle, or a computer chip.
+
+** The Division of Labour
+But then how on Earth do we have all of these magical devices? If no individual is capable of performing all of the steps required in the construction of even the most basic of tools, where did all the tools come from? The answer is that each man specialises into a very small subset of the entire production process---he focuses his effort on only those tasks which he finds himself best suited at. The baker does not need to know how it is that wheat is harvested and processed into flour, or how the harvesters and processors are produced. All he must know is the step of how to turn flour into baked goods. Other men are able to pick up the slack, and together they may join forces and produce all kinds of goods.
+
+You will hear primitivists and communists of various types decrying this massive system of cooperation, claiming that it turns people into mere cogs, but what exactly is the alternative? If people are not specialising into that work which they deem to be of greatest advantage of them, this means that they will have to live a bare subsistence life, achieving only those goals that they can where they have to do all of the work themselves. In a world without this division of labour, there will be no pencils, no cars, no computers---there will be only mud and scraps of food. Even primitive tribes recognise this, they go out in hunting parties, whilst others stay home to gather---this is a division of labour.
+
+** Central Planning
+What is interesting, is that nobody could hope to plan such an intricate network of interactions. The magic power of the division of labour to provide us with goods we would never dream of having otherwise can only be harnessed insofar as people are free to live their own lives. Let's imagine a central planner attempting to arrange such a structure of production. First he would have to figure out whose labour is most effective where, he would have to pick out the bakers from the bankers, and the loggers from the railway-builders. This task would be quite impossible, he does not understand every step in the process of producing bread, or storing coinage, or felling trees, or building railways---so by what means could he determine which men are best suited at which parts of these processes of production if he does not even know all of the steps? This is true also of those non-human factors of production; the central planner cant decide whether lead or steel are best to build the railway, he cannot decide the fineness with which to grind the flour for bread, he cannot know whether axes or saws are more urgently required.
+
+But perhaps this is merely a limitation of our flimsy human brains, and with fancy new computer technology, some future AI system will be able to plan the economy by calculating all of the steps of these processes of production. Well, this solution would require that we already have a method of constructing such a device, which would surely be far more complex than a pencil---so if the division of labour is to be achieved via central planning ex nihilo we would first need to have a device that can centrally plan, but we can only get that device if we already have a division of labour, but we can only have a division of labour with that device, and so on. So such a solution pre-supposes the necessity of a capitalist division of labour prior to the socialist one.
+
+But even if we assume that such an AI system is able to be constructed, the AI is faced with an insurmountable problem. You see, these lines of production which obtain in the capitalist market did not come about due to some inherent superiority of line A over line B, they came about because line A was more profitable than line B. But due to the fact that the AI is the one directing all of the factors of production, there can be no more trade of the factors, and thus no more factor prices. This means that these profit/loss calculations which tended men towards certain lines of production could not be performed, meaning the AI is left with an entirely arbitrary choice between different lines of production. Let's imagine that this AI knows that people want chickens eggs, so the AI sets to calculating how to produce chickens eggs. Just one step in the production of chickens eggs is feeding the chickens---but which food should the AI pick? In nature chickens eat various bugs and other small creatures. But chickens can also eat various types of grain. So how could the AI decide whether to feed the chickens bugs or grains? If a capitalist entrepreneur is faced with this decision all he need to is pick the option that is cheaper, and by picking the cheaper option he is using the bundle of resources that is less urgently required by other people.
+
+But because the AI has no prices in these factors of production, it has no way of knowing which bundles of resources are required more or less, as the more heavily desired resources are not being bid up in price. We see here that this problem, called the economic calculation problem cannot be solved by simply throwing more computer power at it---the issue is not that it is very computationally intensive to work out which line of production is superior, rather the issue is that without factor prices there is no computation that can be performed to work out the superior line of production.
+
+So even with a supercomputer, the socialist society would soon regress to the state of nature, dirty and without any of the magic goods we so dearly depend on. This would mean mass death and suffering. Therefore if a truly superintelligent AI were tasked with making the economy more efficient, the very first thing it would do would be to eliminate any and all socialist interferences in the economy, including any taxation, minimum wage or civil rights legislation, and any and all fractional reserve banking. To learn more about why these things are evils that destroy society you have to watch this video, where I introduce my course on libertarian ethics.
