@@ -1,0 +1,34 @@
+#!/usr/bin/env node
+
+const [{ readdir, writeFile }, path] = ["fs/promises", "path"].map((x) =>
+  require(x)
+);
+
+(async () => {
+  const args = process.argv.slice(2);
+  const dir = path.resolve(__dirname, args[0]);
+  const outFile = path.resolve(__dirname, "index.ts");
+  const files = (await readdir(dir))
+    .map((x) => `./${args[0]}/${x}`)
+    .sort((a, b) => {
+      const [numA, numB] = [a, b].map((x) => +x.split(".")[5]);
+      return +(numA > numB) - 0.5;
+    });
+
+  let js = "";
+  let defaultExport = "export default [";
+
+  for (let i = 0; i < files.length; ++i) {
+    js += `import { default as frame${i} } from '${files[i]}';\n`;
+    defaultExport += `\n\tframe${i},`;
+  }
+
+  defaultExport += `\n];`;
+
+  js += `\n${defaultExport}`;
+
+  const error = await writeFile(outFile, js);
+
+  if (error) console.error(error);
+  else console.log(`Written to ${outFile}`);
+})();

@@ -82,19 +82,29 @@
   3. reason employs a distinctive method in forming using and applying concepts, namely logic---logic is method of reason.
      + reason is the faculty of forming concepts guided by the method of logic based on the foundation of sense perception.
 + A mystic is anyone who claims that knowledge is possible for man outside of senses or reason, and reason itself must integrate previous sense data, so you could say that mystics believe that there is a source of knowledge without sense data at its root.
-  + Nai's formulation: Where do universals (concepts) come from? Either
-    1. there is a process that happens in the human mind to construct them from sensory data (reason);
-       + This is the Objectivist view
-    2. they exist in the human mind from conception;
-       + The negation of this is demonstrated by talking to someone about a concept that they have not yet learned.
-    3. there is some other (mystic) means for humans to acquire new information completely independent of the senses;
-       + this needs to be demonstrated.
-    4. concepts don't exist, or;
-       + To even utter this relies on concepts, as language itself is conceptual.
-    5. humans do not have epistemic access to concepts.
-       + ditto for 4
+  + [[Nai's formulation]]
   + At its root, the mystic bases his revelations on whim---how does he know that his mystic intuition is correct? Of course, he simply feels that it is so.
     + feelings are not supernatural conduits to reality, they are rather the product of ones past thinking and ideas---to say you feel a certain way means only that in the past you had certain thoughts that imply that feeling, this does not show that the thought which the feeling comes from was indeed correct. You need a method of validating that thought namely reason.
+***** Nai's formulation
+Where do universals (concepts) come from? Either
+1. there is a process that happens in the human mind to construct them from sensory data (reason);
+   + This is the Objectivist view
+2. they exist in the human mind from conception;
+   + The negation of this is demonstrated by talking to someone about a concept that they have not yet learned.
+3. there is some other (mystic) means for humans to acquire new information completely independent of the senses;
+   + this needs to be demonstrated.
+4. concepts don't exist, or;
+   + To even utter this relies on concepts, as language itself is conceptual.
+5. humans do not have epistemic access to concepts.
+   + ditto for 4
+
+Copy/pasteable:
+Where do universals (concepts) come from? Either:
+1. there is a process that happens in the human mind to construct them from sensory data (reason);
+2. they exist in the human mind from conception;
+3. there is some other (mystic) means for humans to acquire new information completely independent of the senses;
+4. concepts don't exist, or;
+5. humans do not have epistemic access to concepts.
 **** On the validity of the senses
 + there is a distinction between perception and sensation, a consciousness that could only perform sensation would experience a constant bombardment of non-integrated data.
   + a percept is a group of sensations automatically retained and integrated by the brain of a living organism. Perception allows one to be aware not just of mere stimuli, but also of entities, of /things/.

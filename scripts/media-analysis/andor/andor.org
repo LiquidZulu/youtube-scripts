@@ -1,0 +1,221 @@
+#+title: The Politics/Philosophy of Andor [Thumbnail: "Its Not Socialism" "Its not Leftist" "Anti-Socialism" "Anarchism"] | Andor is an Anarchist Manifesto | Andor's Radical Anarchism | Andor: How To Make A Radical | This is the Real Story of Andor | Andor and the Power of Choice | Andor and the Anatomy of a Revolution | Andor: The Anatomy of a Revolution/Revolutionary | Andor: The Anatomy of The Empire
+
+* Notes
+** resources
++ "trumpism" https://screenrant.com/andor-show-star-wars-politics-good/
++ andor antifa https://www.youtube.com/watch?v=2gnKDSPBcb8
++ critical drinker https://www.youtube.com/watch?v=pPhEsoSAhvY
++ feels real https://www.youtube.com/watch?v=UhgXXhcPQEM
++ 1978 https://www.youtube.com/watch?v=rDzv250fEaE
++ evil in andor https://www.youtube.com/watch?v=LXVj2cDP1Gg
++ Anatomy of the State
++ OPAR section on Romanticism---choice/volition is fundamental, Andor has the potential for greatness within him
++ How Liberty Dies: The Politics of Star Wars https://www.youtube.com/watch?v=-TSqjRgh2ZY
+** Other Videos
+*** Andor: Anti-Fascist Art
++ show is real and honest quote
++ E: fascism ripped the beauty out of courisant and made it a drab stone nightmare
+  + evidence that andor is anti-fascist
++ C: andor doesnt need to spend time on easter eggs which allows it to make more interesting locations
+  + evidence for this is the gloves on the wall which tells us that ferrix is a community---high trust society
+    + evidenced further where the community is in a collective act of civil disobedience
++ tells you how many guards there are
++ E: Disney pushed back against "toxic" response to having a black star in Obi Wan
++ asymmetric warfare; rebels are good guys, interview with george lucas
+  + george bush "either you are with us or you are with the terrorists"---I have seen what makes you applaud
++ each section of the show tackles each of the pillars of fascism:
+  + capitalism (the rent-a-cops)
+    + "fascism has no inherent economic principles, so it can align itself with capitalism"
+  + colonialism
+  + prison system
++ the empire takes over the corpos the second they want to---this is not capitalism
+  + it is central planning from the empire which has caused the destruction of the various places seen
++ we already know what will happen to Andor, and that he will aid in the defeat of the empire, so the show has to focus on the questions of /how/ one becomes a rebel
++ the guy with the manifesto---you need physical tools to navigate physical space and intellectual tools to navigate ideology
++ Andor's taken name in each arc represents his current feelings---clem means dont rebel, his adoptive father clem died for rebelling
++ Andor kills skene and rejects the stirnirism but loses the kid with the manifesto but now has the manifesto so he can navigate on his own
++ Prison arc shows that you cant just mind your business, the state will crush you
+  + his father died by minding his business, cassian took the lesson that he should not resist. He was imprisoned for minding his business, then cassian learned
++ the prison is a reflection of all life under central planning; you are a cog in the machine, you have no volition
+*** Andor - The Best Show At The Worst Time
++ We get to see the empire's thought process, they dont just magically show up when the script needs more baddies to shoot.
++ the smaller scale makes there actual personal risk and investment, you can actually get to grips with the reality of these decisions on peoples' lives
+*** Why Andor Feels So Real
++ see things from the characters' perspective
++ "We are stressing that change and revolution happen when regular people decide to do something. It's just regular people trying to survive in the darkest time in this galaxy, and finding out they can't take it anymore. It's about a system that is choking society."
++ people eating and drinking because they are just regular people
++ the empire arent just evil monsters, they are each trying to climb up this beaurocratic mess that they have created, which inadvertendly leads to evil
+*** Evil in Andor | The Banality of Evil
++ evil people are just normal people under certain beliefs; they are not wicked creatures of darkness
+  + E: nuremberg trials---following orders, it is beaurocrats doing their jobs; the result of this is evil
++ deidra meiro isnt interested in crushing the rebellion due to some personal hatred, but because it is her job, she is infected with the mindset of beurocracy
++ the boring guys boring speech is indicative of this following orders mindset. They are not driven by passion, they can thus be defeated by passion---they are driven by the desire to seek approval from authority
+  + these people are unthinking ballast, it takes a vanguard to win
+** Books
+*** Anatomy of the State
+#+begin_quote
+Briefly, the State is that organization in society which attempts to maintain a monopoly of the use of force and violence in a given territorial area; in particular, it is the only organization in society that obtains its revenue not by voluntary contribution or payment for services rendered but by coercion. While other individuals or institutions obtain their income by production of goods and services and by the peaceful and voluntary sale of these goods and services to others, the State obtains its revenue by the use of compulsion; that is, by the use and the threat of the jailhouse and the bayonet.[fn:2]
+#+end_quote
+
+#+begin_quote
+We are now in a position to answer more fully the question: what is the State? The State, in the words of Oppenheimer, is the “organization of the political means”; it is the systematization of the predatory process over a given territory. For [private] crime, at best, is sporadic and uncertain; the parasitism is ephemeral, and the coercive, parasitic lifeline may be cut off at any time by the resistance of the victims. The State provides a legal, orderly, systematic channel for the predation of private property; it renders certain, secure, and relatively “peaceful” the lifeline of the parasitic caste in society. Since production must always precede predation, the free market is anterior to the State. The State has never been created by a “social contract”; it has always been born in conquest and exploitation. (15-16)
+#+end_quote
+
+#+begin_quote
+Onse a State has been established, the problem of the ruling group or "caste" is how to maintain their rule. While force is their /modus operandi/, their basic and long-run problem is ideological. For in order to continue in office, /any/ government (not simply a "democratic" government) must have the support of the majority of its subjects. This support, it must be noted, need not be active enthusiasm; it may well be passive resignation as if to an inevitable law of nature. But support in the sense of acceptance of some sort it must be; else the minority of State rulers would eventually be outweighed by the active resistance of the majority of the public. Since predation must be supported out of the surplus of production, it is necessarily true that the class constituting the State--the full-time bureaucracy (and nobility)--must be a rather small minority in the land, although it may, of course, purchase allies among important groups in the population. Therefore, the chief task of the rulers is always to secure the active or resigned acceptance of the majority of the citizens.
+#+end_quote
+
+#+begin_quote
+The supreme risk [to the government] is that of disaffection and a feeling of outrage widely disseminated throughout the population, and loss of moral authority by the government as such, however long it may be propped up by force or inertia or the lack of an appealing and immediately available alternative. Almost everybody living under a government of limited powers, must sooner or later be subjected to some governmental action which as a matter of private opinion he regards as outside the power of government or positively forbidden to government. A man is drafted, though he finds nothing in the Constitution about being drafted. [...] A farmer is told how much wheat he can raise; he believes, and he discovers that some respectable lawyers believe with him, that the government has no more right to tell him how much wheat he can grow than it has to tell his daughter whom she can marry. A man goes to the federal penitentiary for saying what he wants to, and he paces his cell reciting [...] “Congress shall make no laws abridging the freedom of speech.” [...] A businessman is told what he can ask, and must ask, for buttermilk. ( Charles L. Black. Jr., The People and the Court (New York: Macmillan, 1960), pp. 35ff. )
+#+end_quote
+
+** General notes
++ andor initially wants to just be left alone, but finds that this is impossible---there is no life apart from the reach of the empire, he must fight them.
+  + every event is caused: andor trying to find his family and live apart from the empire -> kills corpos harrassing him -> selling starpath unit -> joining the rebellion with the Aldhani heist -> empire increases authoritarianism -> andor arrested for nothing -> andor radicalised + the building of the death star -> andor fights back and eventually destroys the death star, the death star is destroyed because of the overstep of the empire.
++ the prison voice sounds super deep and evil but it is spoken by just some dude using a voice changer---peacocking, the state presents itself as more threatening than it is
++ the prisoners are making death star components, the death star is a symbol of a massive error in production thanks to central planning
++ it is not a sacrifice to resist oppression, the oppression is fundamentally altruistic
++ Every other star wars movie or show is about some elite warrior class achieving impossible feats. The story of Cassian Andor is one of just a regular person in his individual struggle against oppression
++ Every man has the potential to be either Cassian Andor or Deidra Meira
+** Editing notes
++ b-roll first
++ open with a quote/clip/thesis
+** Rogue One
++ 28:53 - "Rebellions are built on hope."
++ 42:00 - the black guy asks if she is fine with seeing the imperial flag flying across the galaxy, she responds that its not a problem if you dont look up
++ 1:11:52 - orders when they might be wrong? You might as well be a stormtrooper
+** Episodes
+*** Kassa - The Oppressed Everyman
+**** E01 - Kassa
++ opens down to earth with cassians POV
++ corpos harrass him for no good reason, he kills them in self-defense---this arbitrary harrassment is part and parcel under socialist regimes
++ you are placed into a community where people are living their lives, doing their jobs, this is a high trust society, all ruined by the state
+  + thankfully the corporate control is less oppressive than the empire
++ corporate guy is incentivised to lie to imperial command to make him look better---soviet union
+  + he is lying to keep the feds away---corporate vassal rule is better
++ corpos eating, incompetent, living their lives, not evil automata
++ nobody respects the nerdy corpo guy, he is unremarkable
+**** E02 - That Would Be Me
++ you can see the massive strip mining destroying the planet---socialist inefficiency, a capitalist society isnt going to abandon these things
++ reliance on snitches, socialists are laughably inefficient, they cannot effectively search out anyone
+  + they need favourable public opinion
++ child kassa faces the evil, when others evacuate
++ nerdy corpo has a boring speech, unremarkable, bureaucratic banality
+**** E03 - Reckoning
++ the show has limited information; we arent provided the full picture, similarly the socialist planners have only limited information, they can only get what their subordinates tell them
++ the bad guys on kassas homeworld were republic---democracy does not imply good guys
++ the empire is incompetent to stop kassian sneaking in, they are inefficient
++ guerilla tactics, whole town used as alarm, taking town a dropship with a single cable
++ "we're under siege, theyre everywhere"
++ the rebel guy in charge refers to kassa as Andor; he sees the revolutionary potential in him, he refers to him as his final revolutionary name
+*** Clem - The Seed is Planted
+**** E04 - Aldhani
++ "better to live"
+  + "we were fighting ourselves"---sees resistence as self-destructive
++ imperial bureau looks pristine---it is a fascade over the complete incompetence of the bureau
+  + soviet central planners could live in such pristine buildings, at the expense of those they rob
+  + brutalist
++ big imperial guy says that the mission statement is wrong; they are doing something else, the central planners cant know this
++ the imperials nationalise security at their whim, it was never private
+  + at least when it was corporate dogs following vague central commands it was better, far worse when the imperials come in and do it directly
+  + some level of independence, devolution, is better than total centralisation
++ TIE fighters are actually threatening, the heroes are regular people, they are not elite warriors who can cut down an arbitrary number of state goons, they need to band together
+  + need to use guerilla tactics
++ "I don't want to spark his interest" when the lady is sending her subordinate for information
+  + internal power struggles, keeping information secret
++ the kid (nemec) and the other guy (skene) represent different ends of the spectrum
+  + the kid is sleeping on the job, trusting, the other guy doesnt trust anyone
+  + kid is an ideologue, other guy is there for a payday
++ boring corpo guy has domineering mother, hence he seeks validation from authority
++ all nemec cares about is belief in the cause---it is an ideological battle first and foremost
++ The big imperial guy rejects the evidence being presented by the lady because of arbitrary bureaucratic hurdles; even where the central planners know there is a problem they cannot act on it efficiently or effectively
+**** E05 - The Axe Forgets
++ "I promise to disappoint you"---he fears disappointing others
++ "im here to win and walk away" "wouldnt that be lovely"
++ kassian rejects the milk, he is not yet ready for nemecs message
++ only thing keeping us from liberty is ideas
++ the compass device points to physical goals, the manifesto points to ideological goals---victory is won on ideological grounds
++ "a surprise from above is never as shocking as one from below"
+**** E06 - The Eye
++ Now he drinks the milk, he is more willing to hear the message now
++ nemec gives physical directions and ideological directions
++ kassa rejects skenes take all leave none attitude, he has accepted nemec and now has his words to guide him
+*** Keef - The Seed Grows
+**** E07 - Announcement
++ things are changing for kassa, staying the same for the nerdy corpo; the socialists do not develop intellectually, they are stuck on their pre-ordained path, they cannot adapt like an insurrection can
++ "since when do we lock the door?"
+  + now a low trust society after the imperials moved in
++ kassa's father unfairly killed, resistence kills
++ kassa inadvertendly inspires his mother to rebellion
+  + "I'm too old and I dont care anymore"
+  + resistence inspires her to confidence
+  + cant beat them if she runs away
++ "systems either change or die"
++ kassa is unfairly and arbitrarily arrested whilst trying to live his life, cannot live and let live with a socialist super-state
+  + they rile him up with their arbitrary commandments and then use his anger as evidence against him
++ court is a bureaucratic nightmare, they care nothing for justice, they are just following the arbitrary commands sent to them
+  + he has no chance to defend himself "resisting judgement"
+    + 6 years, arbitrary, show of force
++ boring corpo in a job where he is a cog again; its all the same
+**** E08 - Narkina 5
++ the prisoners are treated as capital goods, socialist view of workers
+  + they are disposable, empire is willing to arbitrarily kill them or work them to death because they will get another shipment in from arbitrary arrests
++ "I didn't deserve what happened"
+  + nobody cares, you are a cog, disposable
++ nothing is explained to kassian, kafkaesque
++ they are making death star parts, chief example of the folly of central planning
+  + the problem is not incentivising the worker tools to work hard (they handled that fine), the problem is in producing the right things in the first place and choosing the right lines of production
++ they have inmates bossing around inmates---being a victim of the state does not exempt you from also being its enforcer
++ axis "Im a coward" speech to the black guy could be a good opening
+**** E09 - Nobody's Listening!
++ working old man to death, he is a tool
++ the interrogation is to destroy the mind of Nix, this is the goal of socialism?
++ they killed everyone on level 2; disposable
++ they arent listening, they cant listen
+  + "we are nothing to them, we are cheaper than droids and easier to replace"
++ boring corpo hates that he lives for the approval of authority, yet he knows nothing else
++ finally radicalised
++ The man was doing what he was told and instead of being released he was sent back into prison---do what your told does not imply you will be left alone
+*** Andor - Rebellion
+**** E10 - One Way Out
++ "id rather die trying to take them down than die giving them what they want"
++ kino has an inspiring speech
+  + he is inspired by the just cause, he is not bureaucratic
++ power of the masses when they band together is unstoppable
++ Kino cant swim---he lead men to the liberty that he himself could not possess because it was right
++ "I burn my life for a sunset I can never see"
+**** E11 - Daughter of Ferrix
++ they split up to get out the word about whats happening
+  + the message is what is important
+**** E12 - Rix Road
++ tyranny is unnatural
++ starting the funeral march early is one of those little acts of rebellion which spirals out into a massive fight---microchosm
++ "we kept the trade lanes open and they left us alone"
+  + corporate rule was better---they acquiesced to the minarchism and it turned into totalitarianism
++ "its not visiting anymore"
+  + it was visiting when it was just corpos
+* Main Body
+** Introduction
+#+begin_quote
+Our show in many ways is about becoming, it's a revolution becoming a revolution, it's about Cassian Andor becoming a revolutionary and becoming a leader, it's about a lot of people becoming different things. [...] there isn't anything going on in our show which hasn't been going on for years.[fn:1]
+#+end_quote
+
+What does it take to defeat evil? Star Wars has classically answered this question by looking to an elite warrior class with heroes destined to success, but, this is not how the real world works. The average man does not have destiny or magic or the ability to chop down legions of highly trained soldiers. These average everyday people are thus glossed over in the classic telling of the world of Star Wars, relegated to being NPCs or props to decorate the background of the vast cosmic opera playing out completely outside of their control.
+
+Andor is different. Andor has no Jedi, nor any Sith, Andor is not populated by extreme caricatures of good and evil destined to a final conflict for the fate of the galaxy. Andor is small. Andor focuses on the question of what power does the oppressed everyman have in fighting against an enemy whose scale is incomprehensible to him, and whether he should fight in the first place. The entire series opens up down on the ground, from the perspective of a human; we remain fundamentally grounded in a human perspective in our view of everything. We are not Gods overseeing the heroes journey on a stage, we are right with the characters involved. These are presented as real people with real lives.
+
+The nature of the state and the process of radicalisation for these normal people under such an oppressive regime is captured perfectly in the story of our protagonist Cassian Andor. Andor goes through what can be classed as four stages in his radicalisation and takes a different name for each. These names have symbolic importance for his journey and serve as appropriate guideposts to how men truly are turned from moderates to radicals.
+
+** Kassa
+The first stage is marked by our protagonist's original name, Kassa. At this point Cassian is an ideological child, in a state where he is ripe for radicalisation. His homeworld is destroyed and his family killed not by the Empire, but by the Republic which it replaced. Thus the proper purpose of resistence in this show is not to replace one evil with another, it is to fight against and destroy evil as such.
+
+Kassa shows this bravery; as the rest of his tribe run away from the fight to lick their wounds he stands alone and faces the unknown. This is the mark of a hero; real revolution of real people does still require these heroic acts, but these real people do not have the wizardry available to previous depictions of heroes in Star Wars.
+** Clem
+** Keef
+** Andor
+** Philosophy as the Driving Force of Revolution
+
+* Footnotes
+[fn:2]Murray Rothbard, /Anatomy of the State/, pp. 11-12
+
+[fn:1]X-Ray Vision, /Andor Creator Tony Gilroy On Remixing History and Character-Driven Star Wars/, t. 2:00, https://www.youtube.com/watch?v=Mw08wdveiXM

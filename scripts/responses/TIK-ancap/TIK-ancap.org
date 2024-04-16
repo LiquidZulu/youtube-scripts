@@ -1,0 +1,543 @@
+#+title: Answering TIK's Questions to Ancaps | Why TIK Should be an Anarcho-Capitalist | Ancap Answers TIK on Anarcho-Capitalism
+#+EXPORT_FILE_NAME: ./TIK-ancap.md
+#+PROPERTY: header-args :tangle ./slides/TIK-ancap.md
+#+OPTIONS: toc:nil
+#+begin_export md
+---
+title: "Answering TIK's Questions to Ancaps"
+description: "TIK has recently released a video answering whether he is an ancap, and asked for responses from anarcho-capitalists."
+n: 1
+date: 2023-07-05
+---
+#+end_export
+#+begin_export latex
+\tableofcontents
+#+end_export
+
+#+begin_comment
+This slide should be blank:
+#+end_comment
+#+begin_src md :exports none
+---
+marp: true
+theme: uncover
+class: invert
+---
+
+#+end_src
+
+* Main Body
+** Introduciton
+TIK has recently released a video answering whether he is an ancap. And towards the end of that video he explained some of his apprehension towards anarcho-capitalism, and left the floor open for ancaps to respond to him. You should see this video as an outreach, a starting point into the deeper philosophy for those in TIK's audience who have encountered these ideas for the first time, or even hopefully for TIK himself if he ends up seeing this.
+
+** The positive case
+Before getting into his specific question posed to ancaps I would like to briefly go over the positive case for anarcho-capitalism in philosophical, not strategic terms. I hope that you will grant me this leeway in going over this theoretic basis prior to answering TIK's specific question, because I believe that it is of the utmost import to go into his problem with a solid basis in the philosophy, which is--as TIK has himself pointed out--quite broad and spread over decades of literature. Here I have attempted to distill the essential points into as brief a time as is possible---the reason for any perceived verbosity in this section is not to gish-gallop, it is because I like TIK and think his audience deserves a complete picture of the anarcho-capitalist thesis in the shortest time possible.
+
+So, fundamentally the problem that law poses to us is: given scarcity, there is a possibility for conflicts, how then should we deal with these conflicts?
+
+#+begin_src md :exports none
+---
+
+## The Problem of Law
+
+Given scarcity, there is a possibility for conflicts, how should we deal with these conflicts?
+#+end_src
+
+Every single political theory wrangles with this problem whether they realise it or not, most often the issue is left in an entirely vague form, never explicitly targeted. Anarcho-capitalism is unique in this, Murray Rothbard brought over the monumental insights of Mises in economics, by bringing over Mises' science of praxeology, Rothbard was able to identify and answer this issue in concrete, scientific terms.
+
+First we come to understand what a conflict actually is; it is not a mere disagreement, conflicts are rather mutually exclusive actions. So if Crusoe is on a desert island and is using a stick to spearfish, Friday cannot use that same stick to stoke his fire, because the stick is scarce. One man using the stick for one end excludes others from using the stick in incompatible ways. We say that if Friday tried to wrestle the stick away from Crusoe to use it for the stoking of his fire that Friday has initiated a conflict over the use of the stick; in other words we say that Friday has /aggressed/ against Crusoe, aggression being defined as the initiation of conflict.
+
+#+begin_src md :exports none
+---
+
+## Conflict:
+
+mutually exclusive actions
+#+end_src
+
+It is on this basis that we can understand the Non-Aggression Principle, or NAP. Primitive formulations of this principle will say something like, "do not initiate force, or fraud, or the threat thereof, or other things to be tacked on later." We see that such primitive formulations have not identified the problem in fundamental terms; they are forced to add on ever more asterisks to deal with ever more cases where it is unclear whether force is being used or who it is being used by. Simply by understanding aggression not as the initiation of force, but as the initiation of conflict, we can say that aggression as such must be prohibited from any rational legal theory. We do not need to add on extra "or this other thing"'s, we can simply say do not aggress.
+
+#+begin_src md :exports none
+---
+
+## The Primitive NAP:
+
+Do not initiate force\* \*\* \*\*\*
+
+,*or fraud
+,**or the threat thereof
+,***or other things
+
+---
+
+## The Mature NAP:
+
+Do not initiate conflict
+#+end_src
+
+Under a rational theory of law, which has the NAP sitting at its root, we have it that property rights are conflict avoiding norms. We have solved the conundrum of how to deal with conflicts; we should avoid them. We can see why rational law must accept conflict avoidance by a simple /argumentum e contrario/. There are three basic answers to the question of how to deal with conflicts:
+1. the law of the jungle---we should not avoid conflicts;
+2. mixed law---sometimes we should avoid conflicts and sometimes we should not, and;
+3. the NAP---we should avoid conflicts.
+
+#+begin_src md :exports none
+---
+
+## Rational Law
+Property rights are conflict avoiding norms
+
+---
+
+## How to Resolve Conflicts
+
+1. The law of the jungle—we should not avoid conflicts;
+2. mixed law—sometimes we should avoid conflicts and sometimes we should not, and;
+3. the NAP—we should avoid conflicts.
+#+end_src
+
+Let's first consider the consequences of the law of the jungle. What would a universal acceptance of conflict engendering norms look like? If Crusoe were to take a stick from nature and try to use it for spearfishing, he would not be able to complain under this system if Friday came along and took that stick from him, because Crusoe could not claim the stick as his property, the property right would rather travel from person to person always being attached to the item itself. In other words, on such a view there would be no distinction whatsoever between ownership and possession. We would have in Kinsella's words[fn:1] a "mere possessor" ethic.
+
+The issue with this view is that ownership, which we can define as the /right/ to possess a given scarce good, is necessarily distinct from possession. If there is some dispute between A and B over who should be the one to control a given property, then /both/ A and B must pre-suppose this to be the case. A is asserting that though B might be able to actually obtain control, it would nevertheless be the case that A /should/ be the one to control it, and similarly B is asserting that though A might be able to actually obtain control, it would nevertheless be the case that B /should/ be the one to actually control it.
+
+#+begin_src md :exports none
+---
+
+## The Failure of the Mere Possessor Ethic
+
+Ownership is *per se* distinct from possession
+#+end_src
+
+Kinsella elaborates on this view:[fn:2]
+#+begin_quote
+[...] what is implied in the idea that the right to possess—ownership, that is—is distinct from mere possession? It means that if there is any ownership at all—and those who quarrel over things are all asserting different ownership claims and thus presupposing ownership and its distinction from possession—then /it does not accrue merely to those who take things from others/. That is, if B takes a thing by force from A, this cannot in and of itself make B the owner. Why? Because if it did, it means that C could take it from B, and thereby become [the] owner. But this just means there is no such thing as ownership; there is only possession. "Might makes right," so to speak. But this contradicts the presumption that ownership and possession are different. From this very simple idea, we see that the entire Lockean idea of first-use, first-own, follows. Why? Because if taking some good by force from its previous [possessor] is not sufficient to ground an ownership claim, then by Misesian-style "regression" it becomes obvious that only the first possessor/user can have an ownership claim. Every other person takes it from a previous possessor, and is thus a /mere possessor/—not an owner. The first possessor—the person who plucks the resource from its unowned state out of the commons—is the only possessor who does not take it from someone else; /this/ is why /first/ possession imbues the homesteader with the unique status of ownership.
+#+end_quote
+
+#+begin_src md :exports none
+---
+
+<!-- _footer: Stephan Kinsella, *Thoughts on the Latecomer and Homesteading Ideas; or, why the very idea of "ownership" implies that only libertarian principles are justifiable* -->
+
+> [...] what is implied in the idea that the right to possess—ownership, that is—is distinct from mere possession? It means that if there is any ownership at all—and those who quarrel over things are all asserting different ownership claims and thus presupposing ownership and its distinction from possession—then *it does not accrue merely to those who take things from others*.
+
+---
+
+<!-- _footer: Stephan Kinsella, *Thoughts on the Latecomer and Homesteading Ideas; or, why the very idea of "ownership" implies that only libertarian principles are justifiable* -->
+
+> That is, if B takes a thing by force from A, this cannot in and of itself make B the owner. Why? Because if it did, it means that C could take it from B, and thereby become [the] owner. But this just means there is no such thing as ownership; there is only possession. "Might makes right," so to speak. But this contradicts the presumption that ownership and possession are different.
+
+---
+
+<!-- _footer: Stephan Kinsella, *Thoughts on the Latecomer and Homesteading Ideas; or, why the very idea of "ownership" implies that only libertarian principles are justifiable* -->
+
+> From this very simple idea, we see that the entire Lockean idea of first-use, first-own, follows. Why? Because if taking some good by force from its previous [possessor] is not sufficient to ground an ownership claim, then by Misesian-style "regression" it becomes obvious that only the first possessor/user can have an ownership claim. Every other person takes it from a previous possessor, and is thus a *mere possessor*—not an owner.
+
+---
+
+<!-- _footer: Stephan Kinsella, *Thoughts on the Latecomer and Homesteading Ideas; or, why the very idea of "ownership" implies that only libertarian principles are justifiable* -->
+
+> The first possessor—the person who plucks the resource from its unowned state out of the commons—is the only possessor who does not take it from someone else; *this* is why *first* possession imbues the homesteader with the unique status of ownership.
+#+end_src
+
+Moreover, on this "law of the jungle" view, what exactly is to be considered a crime? Surely nothing is criminal; the question posed is "how should we be dealing with conflicts, what is criminal?" and the answer given is "who gives a damn; might makes right; live by your arbitrary whims." This view fundamentally rests on a mystic epistemology that considers whims to be a genuine source of knowledge, as against reason. I know that TIK is fond of Leonard Peikoff, so perhaps he is already aware of the issue with this, but if he is not, or if others in the audience are not I can give here a brief demonstration of the issue with mystic epistemology in general, and for a far more broad overview you should read /Introduction to Objectivist Epistemology/. The fundamental epistemic problem here is Plato's problem of universals, stated briefly as the question: where do universals (concepts) come from? Either:
+1. there is a process that happens in the human mind to construct them from sensory data (reason);
+2. they exist in the human mind from the start;
+3. there is some other (mystic) means for humans to acquire new information completely independent of the senses;
+4. concepts don't exist, or;
+5. humans do not have epistemic access to concepts.
+
+#+begin_src md :exports none
+---
+
+# How should we be dealing with conflicts?
+
+---
+
+# What is criminal?
+
+---
+
+# Who gives a damn!? Might makes right; live by your arbitrary whims!
+
+---
+
+## Plato's Problem of Universals
+
+Where do universals (concepts) come from? Either:
+1) there is a process that happens in the human mind to construct them from sensory data (reason);
+2) they exist in the human mind from the start;
+3) there is some other (mystic) means for humans to acquire new information completely independent of the senses;
+4) concepts don't exist, or;
+5) humans do not have epistemic access to concepts.
+#+end_src
+
+(1) is the pro-reason, Objectivist stance on this question, it would hold that a property theory based on arbitrary whim is not rational and is thus not true. (2) can be called the Platonist answer, it's negation is trivially demonstrated by talking to a person about a concept they have not yet learned. Here, it is clear that answer (3) is the relevant one, (4) and (5) would make law itself impossible, as law is conceptual, so we can ignore those for now. Fundamentally any sort of mystic epistemology comes down to a whim-epistemology, mystics will dress this in fancy clothes by appealing to divine revelation, or innate intuition, or the wisdom of the masses and so on; but fundamentally these mystic, anti-rational insights, come down to "I think this is true because I feel like it is."
+
+#+begin_src md :exports none
+---
+
+## Mysticism as Whim-Worship
+
+"I think this is true because I feel like it is."
+#+end_src
+
+On what metaphysical premises does such a view rest? What is really being said here is that if you simply /think/ something to be the case hard enough then it /is/ the case; that your whims, your thoughts, your consciousness is the basis of reality. That existence conforms to your consciousness. Objectivism identifies this as the fallacy of the Primacy of Consciousness for this reason. This view of the law of the jungle or any other whim-based theory does and must rely on the premise that consciousness--mere thoughts--have metaphysical primacy over existence. I believe that this brief overview is sufficient to give an honest man pause over such a view, but if you do want to see the folly of this more fully you can read the start of /Objectivism: The Philosophy of Ayn Rand/ by Leonard Peikoff.
+
+#+begin_src md :exports none
+---
+
+## The Metaphysical Basis of Mysticism
+
+,* If you *think* something to be the case hard enough then it *is* the case.
+,* Your consciousness is the basis of reality.
+
+---
+
+## The Primacy of Consciousness
+#+end_src
+
+There is also one further problem with this law of the jungle, and that is that any advocate of such a view must, on his own premises, shut up about any issues in law. First, the law of the jungle is the claim that there are no valid property rights, that whomever is able to wrestle control of a given item has done no wrong. But on this basis, surely the jungle lawyer could not complain about a man defending his property against aggressive invaders, because the second he does complain about this, claiming that rights are illusory, he then attributes rights to the aggressors, rights which he has no theoretic basis for. The rights-sceptics attempt to eat their cake and have it too, when it comes to the issue of rights. Thus a consistent rights sceptic actually has nothing to say about law, he must be completely agnostic on the debate with his complete non-position.
+
+#+begin_src md :exports none
+---
+
+## The Law of the Jungle as Rights-Scepticism
+
+,* On the law of the jungle there are no property rights
+,* Whomever is able to control a thing has done no wrong
+,* The jungle-lawyer cannot complain about defending property
+,* If he does he attributes rights to the aggressor
+#+end_src
+
+But, now that we have seen the failure of the law of the jungle, that it is a pure whim-based, anti-rational legal system, we can turn to the far more common "mixed-law," wherein it is sometimes just to aggress, but sometimes not. First any sort of "we must aggress in these arbitrary situations" must be excluded, an arbitrary system of law would be a system of law based upon whim. Such a system cannot, for reasons already explained, be correct, it would be completely anti-rational. Furthermore I have gone over a number of these mixed-law systems and demonstrated their falsehood in my video /Anarcho-Capitalism: The Solution to Law/[fn:3] which you can see in the card here, or by checking the reference material in the description. It would here be legitimate to claim victory, there is no evidence of any mixed-law system which does not have its root in arbitrary whims or that has not been debunked in my aforementioned video,[fn:4] but I can go further. Hans-Hermann Hoppe has demonstrated through his method of argumentation ethics that any such conflict engendering ethic, no matter how few areas you limit it to, cannot be justified.
+
+#+begin_src md :exports none
+---
+
+## How to Resolve Conflicts
+
+1. The law of the jungle—we should not avoid conflicts;
+2. mixed law—sometimes we should avoid conflicts and sometimes we should not, and;
+3. the NAP—we should avoid conflicts.
+
+---
+
+## The Failure of Mixed-Law
+
+,* Arbitrary
+,* Debunked in *Anarcho-Capitalism: The Solution to Law*
+,* Could claim victory, but I can go further
+#+end_src
+
+The fundamental insight of Hoppe's argument is that any normative proposal, any proposal about how we should be resolving conflicts in this case, must be raised and decided upon in the course of an argumentation.[fn:5] Consider that the situations we are faced with in law are those where there is some dispute over some scarce goods, we have already seen the irrationality of the law of the jungle which means these parties are going to be trying to raise arguments about which situations we should be avoiding conflicts in. If they do not raise such an argument to try and justify why they should be the one in possession, they have reverted to said law of the jungle. But, argumentation is itself a conflict-free interaction, interlocutors do not attempt to convince the other through the force of violence, but rather through the force of their arguments. So if someone is to actually go about the task of justifying their conflict-resolution schema, they are themselves involved in a peaceful, non-aggressive, form of conflict resolution. This means that they must fall into a performative contradiction if they are to propose that the dispute at hand should be resolved by violence; they are accepting by their engagement in a dialogue over the dispute in question that conflict-avoidance is a valid norm governing conflict resolution. So these mixed-law advocates are involved in an inescapable inconsistency in their position, that can be resolved only by accepting the Non-Aggression Principle, or by reverting to a savage governed by the law of the jungle. The law of the jungle is an irrational whim-worship system thus we are left with the NAP as the only valid starting point for any deliberation within law.
+
+#+begin_src md :exports none
+---
+
+## Hoppe's Argumentation Ethics
+
+,* Any normative proposal must be raised and decided upon in the course of an argumentation.
+,* There is a dispute over some scarce goods, the law of the jungle is out, so each party will be raising arguments over whether conflicts should be avoided in this instance.
+,* Argumentation is conflict-free, justifying as such requires you to accept the validity of non-aggression.
+#+end_src
+
+** TIK's Challenge to Ancaps
+So now that we have it that the NAP is the correct starting point in a rational legal system, I can turn to TIK's question for anarcho-capitalists.
+
+#+begin_quote
+Murray Rothbard in /Ethics of Liberty/ said that man is a rational actor, clearly he had never met a millennial. [...] Men aren't always rational, and that irrationality results in problems. I can imagine Anarcho-Capitalism working in practice if certain conditions were met, but my question for the ancaps out here is: if there is a market for a state, then can we really deny the market? As soon as one person wants a state, that need is met by the entrepreneur, at which point we no longer have ancapistan. And if we say no to the market wishing to found a state then we're going against the market---so for me this is the sticking point.[fn:6]
+#+end_quote
+
+I would like to first address where TIK explains that man is not always rational and that this irrationality results in problems. Here Rothbard is using "rational" in a different sense to the way that TIK is using it. "Rational" to a Misesian such as Rothbard just means "purposeful," and we know that all human action does indeed have a purpose. But in a different sense of the word "rational," and the one which I have been using in this video, there are indeed many instances where men are not rational or are even on an active crusade against rationality. This is a more Objectivist sense of speaking about reason, where reason is not an intrinsic attribute to all human action, it is rather a deliberate identification and integration of percepts. And in this sense of the word, TIK is entirely correct that irrationality causes many problems, including legal problems. But the solution to this irrationality is surely not mirroring it by adopting an irrational legal system. Rather the weapon to fight irrationality is rationality, it is implementing reason in every walk of life, including law.
+
+#+begin_comment :exports none
+Editors note: in this section I shall open it up with TIK footage no audio, then the audio comes in to say his stance, at the end it zooms the footage out with squiggly border to transition to the quote below.
+#+end_comment
+
+Now I shall re-state TIK's sticking point:
+#+begin_quote
+[...] if there is a market for a state, then can we really deny the market? As soon as one person wants a state that need is met by the entrepreneur at which point we no longer have ancapistan and if we say no to the market wishing to found a state then we're going against the market [...]
+#+end_quote
+
+#+begin_src md :exports none
+---
+
+<!-- _footer: TIKhistory, *Am I an Ancap? And what is Anarcho-Capitalism?*, t. 12:24 -->
+
+> [...] if there is a market for a state, then can we really deny the market? As soon as one person wants a state that need is met by the entrepreneur at which point we no longer have ancapistan and if we say no to the market wishing to found a state then we're going against the market [...]
+#+end_src
+
+The fundamental problem I have here, is in the concept of a "market for a state."[fn:7] If "state" is taken to mean any organisation which provides security then this is a genuine function of the market, and we can absolutely still have ancapistan whilst this demand is being met. But given TIK says that we would not have ancapistan, I take "state" to mean an aggressive institution---one that does not operate like any normal firm in the market. The state under this view, which is the one that anarcho-capitalists accept, is not a feature of the market, and it does not make sense to describe it in market terms. Here, the state is not operating by market demand, it is a hampering force upon the market. This is the fundamental insight of Murray Rothbard in his separate analyses of hampered vs unhampered markets. In the unhampered market you have no aggression, no objective crimes, you have pure voluntary interaction. Any person defending themselves against these aggressive interferences into the market, is not going against the market, they are defending the structure of voluntary interactions. We have also the understanding that the economist cannot treat the state in the same way as he treats regular firms, which we get from Mises' economic calculation problem. You cannot run the government "like a business," they are two diametrically opposed forces.
+
+I quote here from a comment left under TIK's video by MRH: Legacy, because I think it makes the point best:[fn:8]
+#+begin_quote
+[...] can there be “market demand” for no market at all? And if so, when the market goes away as a result of this “demand” for it to go away, can there suddenly be a market demand for a market “to come back”? I suspect there is some accidental equivocation going on here—when you use the term “market” on its own, you are using it to reflect a network of voluntary interactions. When you use the term “market demand” at the end of the video, you instead seem to mean “whatever X people want”—but if some people’s property rights are being violated, then this is no longer a network of voluntary interactions; it has become something else, and is thus no longer a market at all.
+
+It’s another one of those word games Socialists will play—“So you support X—well what if I define X in THIS way, then you’d be on my side!” Substitute non-aggression in for X and the Socialists will attempt to redefine “aggression” such that it includes a man who hires a worker. Substitute consent in for X and the Socialist will attempt to redefine consent such that by living under a State you “implicitly consent” to it or something in that vein. Substitute “market” for X and the Socialist will attempt to convince you that there can be such a thing as “market demand for a State” (a social contract).
+
+Also, [if] you were to broaden what it means to be participating in a “free market” to such an extent that [the] State is said to be “demanded,” you’re locking yourself into a defense of the status quo at all times insofar as you defend markets, which isn’t much of a position at all. “The Bolsheviks took over Russia? Their ‘State’ was demanded by the people and hence was a market outcome!” and other such nonsensical positions can easily come from this.
+#+end_quote
+
+#+begin_src md :exports none
+---
+
+<!-- _footer: MRH: Legacy's comment under TIKhistory, *Am I an Ancap? And what is Anarcho-Capitalism?* -->
+
+> [...] can there be “market demand” for no market at all? And if so, when the market goes away as a result of this “demand” for it to go away, can there suddenly be a market demand for a market “to come back”? I suspect there is some accidental equivocation going on here—when you use the term “market” on its own, you are using it to reflect a network of voluntary interactions.
+
+---
+
+<!-- _footer: MRH: Legacy's comment under TIKhistory, *Am I an Ancap? And what is Anarcho-Capitalism?* -->
+
+> When you use the term “market demand” at the end of the video, you instead seem to mean “whatever X people want”—but if some people’s property rights are being violated, then this is no longer a network of voluntary interactions; it has become something else, and is thus no longer a market at all.
+
+---
+
+<!-- _footer: MRH: Legacy's comment under TIKhistory, *Am I an Ancap? And what is Anarcho-Capitalism?* -->
+
+> It’s another one of those word games Socialists will play—“So you support X—well what if I define X in THIS way, then you’d be on my side!” Substitute non-aggression in for X and the Socialists will attempt to redefine “aggression” such that it includes a man who hires a worker.
+
+---
+
+<!-- _footer: MRH: Legacy's comment under TIKhistory, *Am I an Ancap? And what is Anarcho-Capitalism?* -->
+
+> Substitute consent in for X and the Socialist will attempt to redefine consent such that by living under a State you “implicitly consent” to it or something in that vein. Substitute “market” for X and the Socialist will attempt to convince you that there can be such a thing as “market demand for a State” (a social contract).
+
+---
+
+<!-- _footer: MRH: Legacy's comment under TIKhistory, *Am I an Ancap? And what is Anarcho-Capitalism?* -->
+
+> Also, [if] you were to broaden what it means to be participating in a “free market” to such an extent that [the] State is said to be “demanded,” you’re locking yourself into a defense of the status quo at all times insofar as you defend markets, which isn’t much of a position at all. “The Bolsheviks took over Russia? Their ‘State’ was demanded by the people and hence was a market outcome!” and other such nonsensical positions can easily come from this.
+#+end_src
+
+** The Negative Connotations of "Anarchism" and "Capitalism"
+TIK brings forth a further issue of his with labelling himself an ancap, which I shall let him explain:[fn:9]
+#+begin_quote
+[...] even though I am definitely [...] an anti-corporations free-market guy, I also don't like the terms "anarchism" or "capitalism." They have negative connotations---the latter was invented by someone who hated free-markets. And they give people false impressions as to what they mean, so I think [that] even if I was an ancap, I wouldn't call myself one anyway because I don't think these terms are helpful. Same with the term "libertarian" or "Austrian;" like I have had people in the comments claiming that I'm standing for the Habsburg monarchy, or fascism, because Austria was fascist at one point. So new terms need to be created but in the meantime I'm just going to describe myself as an anti-corporation free-market guy, which I think conveys the message fairly well.
+#+end_quote
+
+On this point, I disagree with TIK entirely. I think anarcho-capitalism is the best term for the innovation to anarchist thought and political theory brought forth by Murray Rothbard. First what is an "anarchist?" Why use the term "anarchism" to describe this philosophy? Anarchism is anarchy-ism, and anarchy is from the ancient Greek ἀναρχία,[fn:10] which means without a leader, or through the latin anarchia, which means without power, or authority. So, in the context of politics and law, what exactly does it mean to be a leader, one with power and authority? Surely it means that you have the authority to dictate the law, you are above the rest and you lead the rest in the matters of law. Implicit in the notion of some sort of human leader, with authority over the law, is legal positivism. The thesis that the law is whatever those in power say that it is. Anarchism and anarcho-capitalists are surely opposed to this thesis. As has been explained during this video, it is not arbitrary decrees or whim which form the basis of law, it is the objective nature of what conflict is and what is justifiable. We should not shy away from this term, it describes the position perfectly accurately.
+
+#+begin_src md :exports none
+---
+
+# What is Anarchism?
+#+end_src
+
+Now for the "-capitalism," what makes it a useful modifier term on the anarchism? On this point I note the history of anarchist thought, proto-anarchists were those prior to Murray Rothbard, they had a vague notion of what it meant to rule others or decree law, but they did not understand this in the same scientific terms as we can now with the implementation of praxeology. This is what makes anarcho-capitalism distinct, it is the introduction of Austrianism and praxeology brought by Rothbard. Given this, -capitalism is quite descriptive indeed, Austrian economics places a great emphasis on the role of the capitalist in the structure of production, prior to marginalism the proto-anarchists would often see situations where a capitalist would hire employees as being exploitative. It is thanks to Austrians, particularly Böhm-Bawerk, that we know that this is not at all the case, the capitalist is an essential part of the structure of production, and he provides a service to those he employs.
+
+#+begin_src md :exports none
+---
+
+# Why -Capitalism?
+#+end_src
+
+Now there is also the strategic note, given these terms are, as TIK says, horribly caricatured and warped by those who do not understand the theory. So, TIK says, new terms must be introduced to describe the ideas. But, on such a view, we would be bound to constantly run hiding from any term as soon as it catches on, because at the very moment that people start using some new term to describe the beliefs currently denoted by anarcho-capitalism, its enemies would quickly re-start the propaganda machine and smear this new term also. This is /not/ a good strategy. To immediately concede any term like this would lead us into ever more obscure and incomprehensible terminology where simple English suffices. We would be driven away from explaining our ideology in simple terms into using obtuse "philosophese," such philosophese is used generally by those with wrong ideas in order to obscure them. We as Austrians have the truth on our side, and we should not be obscuring that truth with such horrendous terminology.
+
+#+begin_src md :exports none
+---
+
+# Why not new terms?
+#+end_src
+
+** CTA
+TIK notes multiple times in his video that he lacks the time to go through all of the literature on this topic, and I believe that I have sufficiently bundled enough of the fundamental points within this video to convince the reasonable man; but he is entirely correct to point to this, and it is a common issue we as anarcho-capitalists face. This is the very reason why I wrote a course on the matter, which can be read in its entirety for free by clicking the link in the description. And if you are convinced of my intellectual chops on this matter, I encourage you to also pay whatever price you think necessary for the video version of the course. This course includes also related reading material at the end of each lesson so you can trace the intellectual lineage at your will, but if you are not interested in that I have also this video where I provide further specific arguments against various other legal theories.
+
+#+begin_comment
+This is for citations
+#+end_comment
+#+begin_src md :exports none
+---
+
+<!-- _footer: Freedom and Hope - *Russian Revolution in Color* -->
+
+---
+
+<!-- _footer: Jordan B Peterson, *Maps of Meaning 11: The Flood and the Tower* -->
+
+---
+
+<!-- _footer: <i>Bernie Sanders: The Vox Conversation</i> -->
+
+---
+
+<!-- _footer: C-SPAN, *Barack Obama Speech at 2004 DNC Convention* -->
+
+---
+
+<!-- _footer: Parlio, *Noam Chomsky: Which language is most interesting to you?* -->
+
+---
+
+<!-- _footer: <i>Cast Away</i> (2000) -->
+
+---
+
+<!-- _footer: FOX Sports, *These fans fight over a hockey stick* -->
+
+---
+
+<!-- _footer: Miranda Hamilton, *Navajo Rain Dance* -->
+
+---
+
+<!-- _footer: TIKhistory, *From Plato to Hitler: The Ideological Origins of National Socialism* -->
+
+---
+
+<!-- _footer: <i>Lord of the Flies</i> (1990) -->
+
+---
+
+<!-- _footer: I don't know, it's one of the X-Men movies -->
+
+---
+
+<!-- _footer: <i>Lucy</i> (2014) -->
+
+---
+
+<!-- _footer: <i>Inception</i> (2010) -->
+
+---
+
+<!-- _footer: <i>Doctor Strange in the Multiverse of Madness</i> (2022) -->
+
+---
+
+<!-- _footer: <i>Planet Earth</i> (2006) -->
+
+---
+
+<!-- _footer: <i>Atlas Shrugged II: The Strike</i> (2012) -->
+
+---
+
+<!-- _footer: Hans-Hermann Hoppe, *PFP163: Ethics of Argumentation* -->
+
+---
+
+<!-- _footer: TIKhistory, *Am I an Ancap? And what is Anarcho-capitalism?* -->
+
+---
+
+<!-- _footer: TIKhistory, *Am I an Ancap? And what is Anarcho-capitalism?*, t. 12:24 -->
+
+---
+
+<!-- _footer: TIKhistory, *Am I an Ancap? And what is Anarcho-capitalism?*, t. 14:05 -->
+
+---
+
+<!-- _footer: Praxonomics, *Man, Economy & State: Animated*, ch. 1, sc. 1, t. 01:41 -->
+
+---
+
+<!-- _footer: Ayn Rand interview with Tom Snyder -->
+
+---
+
+<!-- _footer: ARI, "Reason as an Absolute" in idem. *Exploring Objectivism: The Philosophy of Ayn Rand* -->
+
+---
+
+<!-- _footer: Bitbutter, *You Can Always Leave*, t. 04:05 -->
+
+---
+
+<!-- _footer: VICE News, *Private Security in South Africa Comes at a Cost* -->
+
+---
+
+<!-- _footer: <i>Life, Liberty and the Pursuit of New Hampshire</i>, Episode 3 - The Move -->
+
+---
+
+<!-- _footer: <i>Life, Liberty and the Pursuit of New Hampshire</i>, Episode 2 - PorcFest -->
+
+---
+
+<!-- _footer: Learn Liberty, *What If There Were No Prices?* -->
+
+---
+
+<!-- _footer: Murray Rothbard, *The Future of Austrian Economics* -->
+
+---
+
+<!-- _footer: <i>Stargate: SG-1</i>, Season 8 - Moebius, Part 2 -->
+
+---
+
+<!-- _footer: <i>Andor</i>, Season 1 - Announcement -->
+
+---
+
+<!-- _footer: <i>Gladiator</i> (2000) -->
+
+---
+
+<!-- _footer: AJ Lambert, *Dogs playing tug of war* -->
+
+---
+
+<!-- _footer: ClickHole, *Beautiful: Shy Man Hiding Small Finds The Courage To Reveal Himself* -->
+
+---
+
+<!-- _footer: Shawn Ritenour, *Austrian Capital Theory* -->
+
+---
+
+<!-- _footer: MRH: Legacy, *Debunking Every Anti-Capitalist Argument Ever* -->
+
+---
+
+<!-- _footer: <i>It Follows</i> (2014) -->
+
+---
+
+<!-- _footer: R. C. Sproul, *Hegel's Dialectical Process* -->
+
+---
+
+<!-- _footer: Khan Academy, *Keynesian economics | Aggregate demand and aggregate supply* -->
+
+---
+
+<!-- _footer: Salerno, Hülsmann, Polleit, French, Hoppe, *PFP097* -->
+
+---
+
+<!-- _footer: LiquidZulu, *👀 I have something to share with you...* -->
+#+end_src
+
+* Footnotes
+
+[fn:1]Stephan Kinsella, /Thoughts on the Latecomer and Homesteading Ideas; or, why the very idea of "ownership" implies that only libertarian principles are justifiable/, https://mises.org/wire/thoughts-latecomer-and-homesteading-ideas-or-why-very-idea-ownership-implies-only-libertarian
+
+[fn:2]ibid.
+
+[fn:3]LiquidZulu, /Anarcho-Capitalism: The Solution to Law/, https://www.youtube.com/watch?v=8HhWhqTCKUI
+
+[fn:4]On this point see Leonard Peikoff, /Objectivism on Certainty and the Error of Cartesian Doubt/, https://www.youtube.com/watch?v=cla6IiLHpss
+
+[fn:5]PFP163 | Hans-Hermann Hoppe - Ethics of Argumentation (PFS 2016), https://www.youtube.com/watch?v=b8UE3QAV8JM
+
+[fn:6]TIKhistory, /Am I an Ancap? And what is Anarcho-Capitalism?/, t. 12:24
+
+[fn:7]In this section I borrow from MRH: Legacy's comment under TIK's video:
+#+begin_quote
+The concept of “the market for a State” is either misleading or nonsensical. If by “State” you mean some institution that looks like a property rights violating State but isn’t actually one, then this isn’t a State at all—it’s just another company that may do things you personally don’t like. For example, I might say “there’s a market demand for thieves” if I widen the definition of “thief” to include someone who is playing the role of a thief in a movie.
+
+If by “State” you do mean a property rights-violating institution, then this State is the one “going against the market” by very definition, not the person who defends themselves from this State. Otherwise you’d have to accept a definition for a market that is nonsensical—can there be “market demand” for no market at all? And if so, when the market goes away as a result of this “demand” for it to go away, can there suddenly be a market demand for a market “to come back”? I suspect there is some accidental equivocation going on here—when you use the term “market” on its own, you are using it to reflect a network of voluntary interactions. When you use the term “market demand” at the end of the video, you instead seem to mean “whatever X people want”—but if some people’s property rights are being violated, then this is no longer a network of voluntary interactions; it has become something else, and is thus no longer a market at all.
+
+It’s another one of those word games Socialists will play—“So you support X—well what if I define X in THIS way, then you’d be on my side!” Substitute non-aggression in for X and the Socialists will attempt to redefine “aggression” such that it includes a man who hires a worker. Substitute consent in for X and the Socialist will attempt to redefine consent such that by living under a State you “implicitly consent” to it or something in that vein. Substitute “market” for X and the Socialist will attempt to convince you that there can be such a thing as “market demand for a State” (a social contract).
+
+Also, If you were to broaden what it means to be participating in a “free market” to such an extent that that State is said to be “demanded,” you’re locking yourself into a defense of the status quo at all times insofar as you defend markets, which isn’t much of a position at all. “The Bolsheviks took over Russia? Their ‘State’ was demanded by the people and hence was a market outcome!” and other such nonsensical positions can easily come from this.
+#+end_quote
+
+[fn:8]ibid.
+
+[fn:9]TIKhistory, /Am I an Ancap? And what is Anarcho-Capitalism?/, t. 14:05
+
+[fn:10]https://en.wiktionary.org/wiki/anarchy#English (https://archive.ph/9fhrY)

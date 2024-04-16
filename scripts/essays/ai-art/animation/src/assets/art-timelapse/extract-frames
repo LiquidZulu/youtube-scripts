@@ -1,0 +1,51 @@
+#!/usr/bin/env node
+
+const [{ mkdir, unlink, readdir }, path, { exec }] = [
+  "fs/promises",
+  "path",
+  "child_process",
+].map((x) => require(x));
+
+const args = process.argv.slice(2);
+const filename = path.resolve(__dirname, args[0]);
+const outDir = path.resolve(__dirname, path.basename(filename) + ".frames");
+const framesToExtract = +args[1];
+
+exec(
+  `ffprobe -select_streams v:0 -count_packets -show_entries stream=nb_read_packets -v error -of csv=p=0 ${filename}`,
+  async (error, stdout) => {
+    if (error) {
+      console.error(error);
+      return;
+    }
+
+    const existingFiles = (await readdir(outDir)).map((x) =>
+      path.resolve(outDir, x)
+    );
+
+    for (let file of existingFiles) {
+      unlink(file);
+    }
+
+    await mkdir(outDir, { recursive: true });
+
+    const nFrames = +stdout;
+
+    const frameNumbers = new Array(framesToExtract)
+      .fill(0)
+      .map((_, i) => Math.floor((i * nFrames) / framesToExtract));
+
+    for (let i = 0; i < framesToExtract; ++i) {
+      const frame = Math.floor((i * nFrames) / framesToExtract);
+      exec(
+        `ffmpeg -i ${filename} -vf 'select=eq(n\\,${frame})' -vframes 1 ${path.resolve(
+          outDir,
+          args[0] + "." + frame + ".bmp"
+        )}`,
+        (error) => {
+          if (error) console.error(error);
+        }
+      );
+    }
+  }
+);

@@ -1,6 +1,6 @@
 ---
 title: "Defensive Force and Proportionality"
-description: "The questions of what types of defense and what types of punishment are legitimate are of great imporance to the legal theorist. The libertarian theory of non-aggression provides objective and insightful answers to both."
+description: "The questions of what types of defense and what types of punishment are legitimate are of great importance to the legal theorist. The libertarian theory of non-aggression provides objective and insightful answers to both."
 n: 6
 date: 2023-04-25
 ---

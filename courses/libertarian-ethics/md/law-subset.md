@@ -180,6 +180,14 @@ The following is a bank of miscellaneous quotes to demonstrate that I am not alo
 > 
 > &#x2014;Ayn Rand<sup><a id="fnr.28" class="footref" href="#fn.28" role="doc-backlink">28</a></sup>
 
+> For Rothbard, immigration restrictions represented pure protectionism — favoring domestic workers over foreign in what **ought** to be an international division of labor
+> 
+> &#x2014;Jeff Deist<sup><a id="fnr.29" class="footref" href="#fn.29" role="doc-backlink">29</a></sup>
+
+> I shall contend that emigration, migration, and immigration all fall under the rubric of “victimless crime.” That is, not a one of these three per se violates the non-aggression axiom. Therefore, at least for the libertarian, no restrictions or prohibitions whatsoever **should** be placed in the path of these essentially peaceful activities.
+> 
+> &#x2014;Walter Block<sup><a id="fnr.30" class="footref" href="#fn.30" role="doc-backlink">30</a></sup>
+
 Is this petty? Perhaps. Is it necessary? Probably.
 
 
@@ -245,3 +253,7 @@ Is this petty? Perhaps. Is it necessary? Probably.
 <sup><a id="fn.27" href="#fnr.27">27</a></sup> Frank van Dun, &ldquo;Against Libertarian Legalism: A Comment on Kinsella and Block,&rdquo; *Journal of Libertarian Studies* 17, no. 3 (Summer 2003), pp. 63-90
 
 <sup><a id="fn.28" href="#fnr.28">28</a></sup> Ayn Rand, &ldquo;Man&rsquo;s Rights,&rdquo; in idem. *The Virtue of Selfishness* and in idem. *Capitalism: The Unknown Ideal*.
+
+<sup><a id="fn.29" href="#fnr.29">29</a></sup> Jeff Deist, *Immigration Roundtable: Murray Rothbard*, <https://mises.org/library/immigration-roundtable-murray-rothbard>
+
+<sup><a id="fn.30" href="#fnr.30">30</a></sup> Walter Block, &ldquo;A Libertarian Case for Free Immigration,&rdquo; *Journal of Libertarian Studies* 13:2 (Summer 1998): 167-186

@@ -1,0 +1,79 @@
+#+title: 0
+
+* Notes
+** Nai convo
+Nai — Yesterday at 14:54
+Ok I understand now. I think the fact that it’s a history of philosophy will set some of the conditions, such as illustrating the progression of ideas and how each figure slots in to the overall story.
+That’s what Peikoff does particularly well
+Drilling down to the essential similarities and differences in order to put each one in its context
+I would say that you can’t and shouldn’t avoid some implicit evaluation in the course of telling a story
+But the purpose of a history shouldn’t be to put forward 100 syllogisms and their flaws
+LiquidZulu — Yesterday at 15:12
+So the evaluation of say, Plato, should come through just the way that I am speaking about him, rather than having "POINT_X_FROM_PLATO; REFUTATION_OF_POINT_X; ..."
+Nai — Yesterday at 15:13
+Yes. Although there may be some formal arguments that are so prominent that they do have historical merit (e.g. cogito ergo sum)
+Or if the argument itself is the best illustration of the idea (such as in Kant where there is no understanding his words without translating from philosophese to formal statements)
+Nai — Yesterday at 15:22
+There’s also a distinction between philosophy as an integrated system of ideas, and philosophy as an activity. Peikoff focuses entirely on the former, so he neglects for instance the figure of Socrates and his method of critical reasoning that can be found in the dialogues
+That’s what intro to philosophy courses usually cover in university
+But I think there could be merit in rescuing Socrates from his status as idol of the philosophy department
+i.e. that Socrates genuinely thought there was an objective truth and was using his method in order to seek it.
+Whereas philosophy professors love him for his rebellious deconstruction of aristocratic Greek values
+And see philosophy more in terms of mental masturbation
+Nai — Yesterday at 15:33
+Or as a tool to tear down all established doctrines of thought.
+In order to replace them with arbitrary whim, or just to feel justified in doubt and uncertainty.
+They really stress the humility in Socrates
+“The only thing I know for sure is that I know nothing”
+And then with his trial and execution, he takes the place of Christ for them.
+Nai — Yesterday at 15:55
+There is a certain Christian theme to Socratic irony when taken literally
+Notice what the starting point of a course reveals about its theme. Peikoff starts with Thales as the progenitor of western philosophy. The theme there was very clear especially with so little material. Philosophy is about getting to the bottom of things, reducing the complexity of the world into an integrated system.
+Nai — Yesterday at 16:02
+Whereas in starting with Socrates, especially with what they stress in him, university philosophy puts forth the theme that philosophy is about questioning our assumptions about the word and realizing how little we know.
+Which is the theme that leads to Descartes and primacy of consciousness
+Nai — Yesterday at 16:10
+That’s the sort of narrative decision that will inevitably animate the bones of any history, whether you’re aware of it or not.
+It’s critical that you choose your narratives consciously and build your course around them, rather than letting them set in sporadically and in contradiction to each other.
+History is an exercise in nonfiction storytelling, of choosing the facts relevant to the purpose of the story, and arranging them in the manner than best supports it.
+Nai — Yesterday at 16:27
+Also, for reading and quoting from original texts, choosing the best translations is nearly a project of its own.
+It can be helpful to navigate commentaries which shed light on the obtuse phrases, what they mean, and why certain translation decisions were made
+Starting from ground zero is not advisable, but from the knowledge you already have, you should be able to identify the most egregious biases in translation and interpretation.
+You can shoot me any Latin passage and I can work out precisely what the translation is obscuring in meaning, if anything.
+Nai — Yesterday at 16:36
+For texts that went Greek > Latin > … > English, it can be nearly as illuminating to read the Latin translation as the original Greek
+Nai — Yesterday at 17:02
+Some Roman, most medieval, most pre-renaissance, and some renaissance philosophy was originally published in Latin
+** general notes
++ bitesize summaries of philosophers https://twitter.com/UnmitigatedAss/status/1681510506731913216
+  + Thales:
+    + everything is water
+    + there is reality
+    + hinted at law of identity
+    + some maths
+  + Heraclitus:
+    + everything is fire
+    + reality moot; can't know
+    + only constant is change
+  + etc
+** structure
++ philosophical theory of history---philosophy, who needs it, and the history of philosophy, who needs it
+  + philosophical business cycle
++ a world of religion, go over the general attitude of the day, why greece?
+  + greek religion had gods in the image of men, they fight, they party, etc.; the asiatic god was some infinite nonsense
++ structure each section like:
+  1. The Age of __ --- what the general attitude we get from the era, the age of enlightenment, the age of envy, etc.
+  2. philosophers
++ Sections:
+  + The Age of Investigation
+    + Thales - post-Socratics
+  + The Age of Darkness
+    + neo-Platonists
+  + The Age of Reconstruction
+    + Thomism, the re-introduction of Aristotle, muslim golden age
+    + Renaissance
+  + The Age of Enlightenment
+    + Descartes - Kant
+  + The Age of Envy
+    + Kantians - Rand

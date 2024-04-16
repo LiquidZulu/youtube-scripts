@@ -707,6 +707,18 @@ A "right" is a *moral principle* defining and sanctioning a man's freedom of act
 ---Ayn Rand[fn:28]
 #+end_quote
 
+#+begin_quote
+For Rothbard, immigration restrictions represented pure protectionism — favoring domestic workers over foreign in what *ought* to be an international division of labor
+
+---Jeff Deist[fn:29]
+#+end_quote
+
+#+begin_quote
+I shall contend that emigration, migration, and immigration all fall under the rubric of “victimless crime.” That is, not a one of these three per se violates the non-aggression axiom. Therefore, at least for the libertarian, no restrictions or prohibitions whatsoever *should* be placed in the path of these essentially peaceful activities.
+
+---Walter Block[fn:30]
+#+end_quote
+
 Is this petty? Perhaps. Is it necessary? Probably.
 
 * Related Reading
@@ -776,3 +788,7 @@ Is this petty? Perhaps. Is it necessary? Probably.
 [fn:27]Frank van Dun, "Against Libertarian Legalism: A Comment on Kinsella and Block," /Journal of Libertarian Studies/ 17, no. 3 (Summer 2003), pp. 63-90
 
 [fn:28]Ayn Rand, "Man's Rights," in idem. /The Virtue of Selfishness/ and in idem. /Capitalism: The Unknown Ideal/.
+
+[fn:29]Jeff Deist, /Immigration Roundtable: Murray Rothbard/, https://mises.org/library/immigration-roundtable-murray-rothbard
+
+[fn:30]Walter Block, "A Libertarian Case for Free Immigration," /Journal of Libertarian Studies/ 13:2 (Summer 1998): 167-186

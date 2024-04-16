@@ -1,0 +1,7 @@
+* .signpost.xcf
+Each .signpost file shall contain the following information in large white text with a black background:
+1. the season and episode number
+2. the chapter it is signposting
+3. the beginning and ending timestamps (format as t1 -> t2) of the footage taken from the episode (for instance if the footage begins at 12:23 then the final line shall read "t+12:23 -> t+13:23").
+* .raw.*
+Each .raw file shall contain a signpost at front, with a white screen + beep to signify the beginning and red screen + beep to signify the end. The /Andor/ footage should center on the chapter title being said with no less than 1 minute of buffer either side.
