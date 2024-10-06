@@ -5,3 +5,6 @@
   + everyone has a philosophy
   + philosophy drives the course of history---philosophical theory of history
 + the philosophical business cycle
++ a note on interpretation and evaluation
+  + this course is going to be implicitly evaluative
+  + cartesian doubt with respect to the interpretation: it is not on me to ensure that I have covered an indeterminate number of interpretations and "you didn't read it in the original language" is not a rejoinder.

@@ -1,0 +1,59 @@
+#+title: Poverty As A Choice | When Poverty Is A Choice | The Choice of Poverty | Choosing Poverty | Poverty is a Choice
+
+* Notes
+** General
++ "chronically poor," "chronically impoverished"
+** Things to add
++ germany anti-tesla factory riots
++ Sude Tanzania
++ https://web.archive.org/web/20150407223525/http://squid314.livejournal.com/297579.html
+* Main Body
+** Oakland, California
+#+begin_comment
+EN: zoom into the location with a map, have the "flash robbery" and "street takeover" text come in with typewriter style ("randomly" cycle through letters until the right one is hit, then do so for the rest of the letters) and be glowing.
+#+end_comment
+
+In Oakland, California, Yemini immigrant Sam Mardaie is attending to his gas station in the wee hours of the morning when a crowd of some 80 to 100 attendees from a nearby automobile sideshow approached his store.[fn:1] Mardaie alleges that the mob were unsatisfied that the location only offered window service at this time of the night, and so they began ransacking his business in a so-called "flash robbery"[fn:2] over the course of about 40 minutes.[fn:3] It is reported that "dozens were seen milling around the store looking for things to steal. They pulled drinks from the fridges and others were putting their stolen goods in boxes or baskets that appeared to belong to the store itself."[fn:4]
+
+In total, the collective would cause $100k of damages, including taking around $25k from the store's register and ATM.[fn:5] Two employees were threatened during the pillaging, this all prompting Mardaie to contact the police, but unfortunately his pleas would go unanswered. The department classed the incident as a "Priority 2" and would not send any officers until nine hours after the robbery began, referring Mardaie to their online reporting service.[fn:6]
+
+You see, the police were too busy dealing with a "street takeover" near the airport[fn:7]---an event which consists of an unruly and drugged mob shutting down major intersections to display their reckless abandon for life and property.
+
+On the next street over,[fn:8] there used to sit an In-N-Out restaurant; the only location in Oakland. This store would close down a few months prior after 18 years of operation due to the insane rate of crime, the first In-N-Out location to close during the company's entire history:[fn:9]
+
+EN: cut down this for the video, but different parts might be good to highlight, so it is all here for now
+EN: use AI to voice this if it was not given in a speech
+#+begin_quote
+We have made the decision to close our In-N-Out Burger location in Oakland, California, due to ongoing issues with crime. Despite taking repeated steps to create safer conditions, our Customers and Associates are regularly victimized by car break-ins, property damage, theft, and armed robberies. Our last day of business in Oakland will be Sunday, March 24, 2024.
+
+We are grateful for the local community, which has supported us for over 18 years, and we recognize that this closure negatively impacts our Associates and their families.
+
+Additionally, this location remains a busy and profitable one for the company, but our top priority must be the safety and wellbeing of our Customers and Associates - we cannot ask them to visit or work in an unsafe environment.
+
+All affected Associates will have the opportunity to transfer to a nearby In-N-Out location or, alternatively, receive a severance package. In-N-Out Burger has a history of supporting the Oakland community through charitable giving that predates the opening of our location there. Although we will no longer do business there, we will continue to support local charitable organizations in Oakland through our In-N-Out Burger Foundation and Slave 2 Nothing Foundation.
+
+
+Denny Warnick Chief Operating Officer In-N-Out[fn:10]
+#+end_quote
+
+* Footnotes
+
+[fn:1]ABC 7 News Bay Area, /Video shows dozens of people ransacking store at Oakland gas station/, https://abc7news.com/post/video-shows-dozens-people-ransacking-76-gas-station/15033210/ ([[https://archive.ph/qnROi][archived]]).
+
+[fn:2]Taylor Penley, FOX News, /Oakland gas station owner sidelined after police allegedly take hours to respond to flash mob robbery/, https://www.foxnews.com/media/oakland-gas-station-owner-police-allegedly-hours-respond-flash-mob-robbery ([[https://archive.ph/EiR2P][archived]]).
+
+[fn:3]Amber Lee and O. Gloria Okorie, FOX CATV, /Video: Dozens ransack gas station in flash mob robbery/, https://www.ktvu.com/news/video-dozens-ransack-gas-station-flash-mob-robbery ([[https://archive.ph/vzs3L][archived]]).
+
+[fn:4]Amber Lee and O. Gloria Okorie, FOX CATV, /Video: Dozens ransack gas station in flash mob robbery/, https://www.ktvu.com/news/video-dozens-ransack-gas-station-flash-mob-robbery ([[https://archive.ph/vzs3L][archived]]).
+
+[fn:5]ABC 7 News Bay Area, /Video shows dozens of people ransacking store at Oakland gas station/, https://abc7news.com/post/video-shows-dozens-people-ransacking-76-gas-station/15033210/ ([[https://archive.ph/qnROi][archived]]); Taylor Penley, FOX News, /Oakland gas station owner sidelined after police allegedly take hours to respond to flash mob robbery/, https://www.foxnews.com/media/oakland-gas-station-owner-police-allegedly-hours-respond-flash-mob-robbery ([[https://archive.ph/EiR2P][archived]]); Amber Lee and O. Gloria Okorie, FOX CATV, /Video: Dozens ransack gas station in flash mob robbery/, https://www.ktvu.com/news/video-dozens-ransack-gas-station-flash-mob-robbery ([[https://archive.ph/vzs3L][archived]]); ABC 7 News Bay Area, /Video shows dozens of people ransacking store at Oakland gas station/, https://abc7news.com/post/video-shows-dozens-people-ransacking-76-gas-station/15033210/ ([[https://archive.ph/qnROi][archived]]).
+
+[fn:6]Nicholas McEntyre, New York Post, /Mob of nearly 100 looters ransacks Oakland gas station as store owner says police took hours to respond: ‘Back to square one’/, https://nypost.com/2024/07/06/us-news/oakland-looters-ransack-gas-station-as-store-owner-sam-mardaie-claims-cops-took-hours-to-respond/, ([[https://archive.ph/6S66H][archived]]).
+
+[fn:7]Nicholas McEntyre, New York Post, /Mob of nearly 100 looters ransacks Oakland gas station as store owner says police took hours to respond: ‘Back to square one’/, https://nypost.com/2024/07/06/us-news/oakland-looters-ransack-gas-station-as-store-owner-sam-mardaie-claims-cops-took-hours-to-respond/, ([[https://archive.ph/6S66H][archived]]).
+
+[fn:8]The 76 station is at 449 Hegenberger Rd; the In-N-Out is at 8300 Oakport St.
+
+[fn:9]Flash robbery took place in July, 2024; In-N-Out shut down the location in January 2024; Da Lin, CBS News, /Citing crime, In-N-Out announces closure of Oakland restaurant/, https://www.cbsnews.com/sanfrancisco/news/citing-crime-in-n-out-announces-closure-oakland-restaurant/ ([[https://archive.ph/eO9i4][archived]]); Jordan Valinsky, CNN, /In-N-Out has never closed a location, until now. It cites crime as the problem/, https://edition.cnn.com/2024/01/23/food/in-n-out-oakland-closure-crime/index.html ([[https://archive.ph/WtHM4][archived]]).
+
+[fn:10]Da Lin, CBS News, /Citing crime, In-N-Out announces closure of Oakland restaurant/, https://www.cbsnews.com/sanfrancisco/news/citing-crime-in-n-out-announces-closure-oakland-restaurant/ ([[https://archive.ph/eO9i4][archived]]).

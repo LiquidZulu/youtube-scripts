@@ -73,7 +73,11 @@ Some Roman, most medieval, most pre-renaissance, and some renaissance philosophy
   + The Age of Reconstruction
     + Thomism, the re-introduction of Aristotle, muslim golden age
     + Renaissance
-  + The Age of Enlightenment
-    + Descartes - Kant
+  + The Age of Doubt
+    + Descartes/Hobbes - Kant
   + The Age of Envy
     + Kantians - Rand
+** philosophers
+*** Kant
++ https://www.youtube.com/playlist?list=PL8Nxd4OXpzqkWppWYGtXQTto46ac-OoCT
++ Cambridge edition of CPR allegedly has a good introduction to guide the reader.

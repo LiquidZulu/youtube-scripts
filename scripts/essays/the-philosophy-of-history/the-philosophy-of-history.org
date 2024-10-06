@@ -1,0 +1,119 @@
+#+title: The Philosophy Of History
+
+* notes
+** The Role of Philosophy and Psychology in History
+*** alternative theories of history
+**** economic theory of history
+***** Alrah video
++ https://www.youtube.com/watch?v=lVWwwfcQ5FA
++ starts with the premise of materialist causality; not mechanistic materialism, but dialectical materialism
++ production as the fundamental. Mode of production is:
+  + (instruments + natural resources) + labour = (means of production) + labour = forces of production
+  + relations of production (property law)
++ human physical and mental constitution has remained constant through different eras---only the mode of production has changed.
++ how this theory predicts eras of human civilisation:
+  + hunter-gatherer mode of production had collective ownership of basic tools used to forrage for subsistence---primitive mode of production required collectivism in order for people to survive, so collectivism obtained. It is in their "material interest" that they practice egalitarianism to survive---they need "all hands on deck"
+  + as the hunter gatherer's tools developed (all tools continually develop); the minimum product required to sustain the society increases, and eventually a "surplus product" obatains. This surplus expands wants and needs, and allows for specialisation. With the division of labour, a change in the relations of production comes about---different individuals relate to the means of production differently. This is the class society. In the class society, there are different and conflicting material interests between the classes---the lord wants to take as much of the yield as possible, and the labourers want to keep as much as possible. This conflict requires a state to keep society together.
+  + as the forces of production change, new classes emerge, punting out the old ruling class---a rising class has a certain material relationship to the new modes of production which then allows them to come up with new relations of production. This is a "class struggle" and is supposed to predict revolutions. The capitalist class wins the class struggle against the feudal class, and thus displaces the feudal mode of production with a capitalist one.
+  + it is in the working class' material interest that their surplus labour value no longer be taken by the capitalists (why did this material interest then lose to the capitalists?)
+    + because in the new society, everyones relationship to the means of production is the same, there would no longer be any contradictions present.
+***** Peikoff Lecture
++ history of modern philosophy lecture 5 1:15:30
++ Marx is an ecclectic, he borrowed useful theories from other philosophers to advance his theory of history---dialectical materialism (his metaphysics)
+  + materialism is a view about the nature of reality that goes back to greece. It is the view that reality is essentially material in nature---that reality is matter in motion. Materialists are atheists, they reject God; materialists reject free will, because only minds can have choice, and all there is is matter, then there is determinism, minds are merely determined consequences of matter in motion, not entities capable of self-generating chosen action; materialists deny the causal efficacy of thought---thought has no influence on his physical actions, what a man thinks is determined by his physical state, rather than his actions being determined by his thoughts. The mind is merely a waste by-product. Nothing mental can cause anything physical. One might think that you have a certain thought and then take according actions, Marx completely reverses this: your physical actions determine your thoughts.
+    + marx was a materialist as a violent reaction to Hegels idealism. False alternative: everything is either mind (idealism) or everything is merely matter in motion (materialism).
+      + INCLUDE THIS: This occurs elsewhere, Heraclitus says everything is change and nothing is constant; Parmenides rejects this by saying there is no such thing as change and then these two extremes are argued on and on. This is a general pattern in the history of philosophy, where a philosopher goes to one extreme, he is rejected by going to another extreme, and it is just a battle between false alternatives.
+        + also seen in Idealists claiming that universals are the really real thing and that they are non-material entities; then the nominalists say that if thats what universals are then there are no universals and all you have is sense data
+    + marx was very concerned with being scientific, and to be materialist was considered to be what is required to be scientific. It was said that the reason why physics didn't develop in the medieval era was that everyone was appealing to all these ghosts, and angels, and other non-material entities. So as physics becomes much more successful by dispensing with this, they claim that the trouble with the social sciences is that they still discuss the mind, and they should become materialist here too.
+    + marx was not a mechanistic materialist, but a dialectical materialist. That the laws which drive matter are not the laws of physics, but the laws of dialectics---mater proceeds in dialectical, triadic patterns.
+  + Dialectics:
+    + there is a thesis which generates its antithesis and then is aufeben in a synthesis, which becomes a new thesis, and so on.
++ since everything is determined both by materialism and the dialectic process, then human history must be determined---it must follow a necessary progression, each stage leading to the next.
+  + since reality is dialectical, the progression of history must be dialectic too
+  + the forces that determine history must be material, because marx is a materialist; it can't be human attitudes, or psychology, or their philosophy, these things are waste byproducts. Economic forces (the mode of production) are what drive history on the marxian view.
++ why do men adopt a certain economic structure at one point in time if not the ideas they hold? Marxists say that men as such have no choice in the matter, and are not responsible for the system they live in. The dialectic process is what causes it.
++ secularised version of everything taking place according to God's will---now everything takes place according to dialectical materialism.
++ Marx quotes:
+  + "Does it require deep intuition to comprehend that man’s ideas, views, and conception, in one word, man’s consciousness, changes with every change in the conditions of his material existence, in his social relations and in his social life?"
+    + "What else does the history of ideas prove, than that intellectual production changes its character in proportion as material production is changed? +The ruling ideas of each age have ever been the ideas of its ruling class.+"[fn:1]
+  + "In the social production of their existence, men inevitably enter into definite relations, which are independent of their will, namely relations of production appropriate to a given stage in the development of their material forces of production. The totality of these relations of production constitutes the economic structure of society, the real foundation, on which arises a legal and political superstructure and to which correspond definite forms of social consciousness. The mode of production of material life conditions the general process of social, political and intellectual life. It is not the consciousness of men that determines their existence, but their social existence that determines their consciousness."[fn:2]
++ If men put forward arguments or even treatises on individual rights, or god, or happy endings in literature, or a particular architectural style, etc. His real motive is not his particular intellectual case or the arguments he puts forth because the mind is just a byproduct---his real motive is to protect and justify his particular economic system. There is no real, objective thinking on this view; all thinking is really just rationalising.
+  + This is not on the marxian view a volitional dishonesty on the part of the capitalists. They simply must think in this way because of their social conditions
++ the marxists apply this to logic itself. The logic you accept is a result of your material conditions. Polylogism.
+  + the marxists are against aristotle's logic, which they call proletarian. If you put forth some objection, no matter how sound, after a certain point they will just say that its capitalist logic, and that you can't think in the proletarian logic.
++ If all thought is merely a subjective rationalisation of the status quo, is that true of marxist thought too? Are the marxists not also the product of economic conditioning? And if so, what right do they have to claim their position to be correct?
+  + They don't want to say yes, because then their thought has no possibility of being a universally applicable true principle; and they don't want to say no because then they would be an exception to what they deem to be an inviolable law of human nature. The only response they can give is that the question is bourgeous. If we could grasp proletarian logic we would see that its perfectly logical to have a contradiction like this.
++ the units of the dialectic--the thesis, antithesis, etc.--are the economic classes. There have been, according to the marxists, in every society two groups: the haves and the have nots---the thesis and the antithesis.
+  + these groups are in class struggle throughout history. Eventually the exploiters and the exploited come to a full head, the exploited throw off their chains and we get a synthesis which is a new society where exploiters and exploited begin forming and class struggle occurs again and so on and so forth. "The history of society is the history of class struggle"
++ the dictatorship of the capitalists must be replaced by a dictatorship of the proletariat---this must be a violent revolution. They can't convince the capitalists, because they are stuck using capitalist logic.
+  + the synthesis of dictatorship of capialists and dictatorship of proletariat is the classless society. The rule of this society will be from each according to his ability to each according to his need---this is from a Lenin quote at 2:06:00
+*** The Philosophy of History
++ the philosophy of history is concerned with the question of what caused men to act in the ways that they did in the past
++ theories of the philosophy of history:
+  + Marxist economic theory of history---productive and economic factors are the real source shaping all human action throughout history, philosophy and ideology are irrelevant
+  + St Augustine---God did it
+  + Thomas Carlisle, the great man theory---a few outstanding individuals throughout history are the causes that shape everything
+  + sceptic---there are no causes for the way that men have acted, its all chance
+  + ecclectic---some of all of the above
+  + objectivist viewpoint---the philosophic interpretation of history. Philosophy is the decisive causal factor; the philosophy of any given age is the decisive causal factor shaping the actions of men and the events which take place.
+*** The Psychological Theory of History
++ the psychological theory of history---explain peoples behaviour throughout the centuries in terms of the psychology of the actors
+  + its obvious that most people have no coherent, articulate philosophy; philosophy to most people is just a smattering of vague ideas. So its questionable whether they even have a philosophy, but they obviously must have a psychology.
+  + people act on the basis of their psychologies; they act on their motives, their desires, their emotions, etc.
+  + psychological theory of history on nazism
+    + take some nazi leader, hitler, goering etc; you do not have these men unless there exists men with a tremendous power lust, a tremendous desire for domination, etc, and you couldnt have their mass following without a nation of people who felt the need for dependence.
+      + on its face this is true. These factors must have existed and they are required for the events to take place as they did, but they are not the originary factors. These psychological desires and motives are borne out of a mans particular philosophy.
+  + philosophy is at most a rationalisation for the underlying psychological motives
+*** The Error of the Psychological Theory of History
++ There are indeed psychological factors which are indispensable to the workings of history, but what is the source of these psychological factors? What is their cause?
+  + it cannot be that any specific psychology emanates from human nature as such because the specific motivations and desires of men differ.
+  + And on this view why would it be that there are seemingly trends in the psychologies of men? Even if mens psychologies could differ given their nature why would there be eras of different prominent psychologies?
+  + Fundamentally the psychology of individual outliers is not relevant, what causes a psychology on such a scale as to be a factor in shaping history?
+  + Certain emotions, certain feelings are the cause of these psychological traits.
+  + The source of emotions is ideas. The distinction between an emotion on the one hand and a sensation on the other is that a sensation can be transmitted by strictly physical means.
+    + If I pinch a mans arm it does not make a difference whether he is an Aristotelian or a Platonist, he will feel the sensation of pain.
+    + On the other hand his emotional response to this may be entirely different based upon his ideas. If a libertarian sees me robbing a factory owner at gunpoint he will have an entirely different emotional reaction to this than a communist would.
+  + The only ideas which pertain to fundamental ideas and thus can pervade an entire society are philosophical ideas.
++ How would philosophy breed a culture-wide psychology of (for instance) dependence?
+  + indirectly---shaping the institutions of a country.
+    + philosophy shaping a political system which is statist will result practically in the average man having less and less control over his own life, more dependence on the government. By all of the innevitable crises inherent in such a system the man will feel less in control less able to shape his life and wellbeing and thus feel more dependent on others for his life.
+  + directly---by the explicit statements of its intellectuals.
+    + the intellectuals spend their time degrading the individual, his mind is helpless, he cannot know anything, thinking is untrustworthy, there are no answers, there are no absolutes, etc. A mans life under such a system tells him that he must be dependent on a group for survival and all he ever hears is that he must be dependent on a group for survival.
++ A philosophy which shapes a free society would result in a society which requires men to think for themselves, to be independent, to work for their own sake and for their own happiness, and as such this is what men would learn to do.
+* Main Body
+***** The Philosophy of History
+So, if free market defensive services are so superior to the statist offerings, why have they not arrived? The answer, in short, is that the philosophy of the day does not allow for it. To explain this answer, I must first discuss the philosophy of history, which asks: why did men act the way they did in the past? What is the fundamental factor which caused the various developments of societies across time?
+
+Various theories have been established on this point. The originator of the field, St. Augustine, claimed that the will of God is the primary. Marx advanced the popular economic theory of history---that economic conditions and the available modes of production are what cause various societies to turn out as they do; and that the ideology men adopt are a deterministic cause of these conditions. Thomas Carlyle provides the "great man" theory---that a few superlative individuals are able to shape society to their whims within times of crisis. There is also the psychological theory of history---that the actions men take are a result of their psychology. The sceptic theory of history holds that there are no causes for the way that men have acted, that the way societies ended up at various points is down to pure chance.
+
+I will be advancing Leonard Peikoff's philosophical theory of history in opposition to these ideas; I do not have time to cover all of them within this video, so I will focus on the more popular and plausible theories. "The will of God" theory clearly relies on a prior demonstration that God exists, and is as such out of scope for this video, and the sceptic theory is refuted simply by providing the positive case for the philosophical theory; so these two do not need to be covered.
+
+***** The Economic Theory of History
+First, then, the Marxian economic theory of history. It is worth noting right off the bat that Marx was an ecclectic---his goal was not to study reality and come up with a philosophy he regards as correct. Rather, he had certain altruist motives which he thought could be achieved through a theory of history. To give philosophical backing to his theory, he would borrow random ideas from different philosophers who came before him. Thus if the mark of a great philosopher is his ability to challenge entrenched fundamentals, Marx is surely as second-rate as they come. Regardless, Marx took as his starting point a metaphysics called dialectical materialism.
+
+Materialism is a view that goes back to ancient Greece---it holds that reality is fundamentally material, that all there is is matter in motion. The important implication of this view is that there can be no such thing as free will. To the materialist, a mind is at best a mere byproduct of the matter in motion, so it has no causal efficacy. Thus, whilst we may ordinarily think that we come up with certain ideas and goals and plans of action we carry out to attain them; to the materialist this cannot be so. Rather, your body is pre-determined by the laws of matter to take a certain course of action, and your thoughts at best simply rationalise this course of action as being chosen even though you had no power over it. I.e. your physical actions determine your thoughts, rather than the other way around.
+
+Marx adopted his materialism in the wake of a general trend within German philosophy to swing radically away from the total idealism of Hegel. Hegel believed that everything was purely mental, so the correct response was taken to be that nothing is mental. Of course, this is a false alternative, there is absolutely no reason to have it that either everything is physical or everything is mental.
+
+This highlights a general trend seen elsewhere in the history of philosophy. Right back with the pre-Socratics there was a philosopher called Heraclitus who said that everything is change, and as such reality is inherently contradictory; Parmenides rejected this by saying that there was no such thing as change and then these two extremes were argued back and forth until Aristotle was able to set the record straight: that change does not involve a contradiction.
+
+This trend where a philosopher will go to one extreme and then get rejected by going to the other extreme is seen also in the nominalists from before. The idealists claimed that universals are the really real thing and that they are non-material entities; the nominalists just accepted on its face that a universal means a non-material entity, and concluded that there are therefore no such things as universals and the only faculty man has is that of sense-perception.
+
+Marx's materialism was not like the materialism of old where matter proceeds according to the laws of physics. Marx's matter obeyed the dialectic process---the laws of Hegel.
+
++ the starting point as the metaphysics of dialectical materialism
+  + materialism
+  + dialectics
+  + inverse---your thoughts are a waste byproduct of the society you are in, rather than thoughts creating a certain society
++ given everything in reality is pre-determined by the laws of dialectics, history too is pre-determined
+  + the forces that determine history are material---the mode of production
+    + give the marxist account for how societies transition into other modes of production
+      + thesis and antithesis being the units of the dialectic
+  + the beliefs that men hold at any given point are just a byproduct of your particular class---all thought is rationalising. Your logic is determined by your class.
+    + does this not also apply to marxism then? No, because if we had proletarian logic then we would see that contradictions are perfectly logical.
+
+* Footnotes
+
+[fn:1]https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch02.htm
+
+[fn:2]Karl Marx, /A Contribution to the Critique of Political Economy/
