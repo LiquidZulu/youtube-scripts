@@ -1,6 +1,6 @@
 #+title: You Might Already be an Anarchist (TIK Response) | Are You Already an Anarchist? | Are you a good person? Then you are probably an anarchist. | Why You Should Be An Anarchist | Anarcho-Capitalism: Responding to the Critics
 
-* Animations [6/45]
+* Animations [37/43]
 + [X] reasons people aren't anarchists:
   1. means total chaos
      + go up and have "in an anarchist society there would be no centralised government to enforce the law, so there would be total chaos" come out
@@ -15,54 +15,54 @@
     + Friday: he wants the stick, villaige elder said Friday is the stick-keeper, etc.
 + [X] legal anarchism \ne no laws
 + [X] venn diagram with anarchism as such only telling you what anarchism isn't, anarcho-capitalism tells you what it is
-+ [ ] Crusoe spearfishing with the stick as mutually-exclusive with Friday using the stick to stoke his fire
++ [X] Crusoe spearfishing with the stick as mutually-exclusive with Friday using the stick to stoke his fire
   + pic of stick = scarce could be up top with two arrows coming out pointing to each of the actions, where they can't both be highlighted at the same time
-+ [ ] Tik's definition of anarchism: an ideology that is opposed to the state
-  + the state = any "public" hierarchy
-+ [ ] standard for "public" vs "private" is size
-+ [ ] private and public as package deals (have the words "private" and "public" on screen and then the package terms come out of them to beneath)
++ [X] Tik's definition of anarchism: an ideology that is opposed to the state [2/2]
+  + [X] the state = any "public" hierarchy
+  + [X] standard for "public" vs "private" is size
++ [X] private and public as package deals (have the words "private" and "public" on screen and then the package terms come out of them to beneath)
   + private: small, individual, collective
   + public: large, collective
-+ [ ] bigness vs smallness as the incorrect criterion; collective vs individual is the correct one
-+ [ ] private: belonging to or for the use of one particular person *or group of people* only---turn the text red as it is infected with collectivism
++ [X] bigness vs smallness as the incorrect criterion; collective vs individual is the correct one
++ [X] private: belonging to or for the use of one particular person *or group of people* only---turn the text red as it is infected with collectivism
   + choice isn't between individualism or collectivism, its between small- or big-collectivism
-+ [ ] The collective as the really real thing.
++ [X] The collective as the really real thing.
   + have a circled set of circles. With the individual as the real thing, the dots are highlighted and the circle is greyed out, and vice versa
   + could have the outline circle slowly waving around and the internal circles could be floating about
-+ [ ] abstraction of a concept from particulars
++ [X] abstraction of a concept from particulars
   + have a number of particulars that slightly vary, and then the general concept is drawn out. Perhaps simple shapes or dogs
 + [ ] The Platonists telling hobbes that the mind is supernatural, Hobbes then rejecting the mind
-+ [ ] materialist metaphysics
-  + [ ] title Materialism comes up, with examples coming up below it: [0/3]
-    + [ ] particles studdied by the physicists
-    + [ ] chemicals studied by the chemists
-    + [ ] no such thing as purpose
-+ [ ] billiard ball metaphysics
-+ [ ] sensualist account of sense perception
++ [X] materialist metaphysics [2/2]
+  + [X] title Materialism comes up, with examples coming up below it: [3/3]
+    + [X] particles studdied by the physicists
+    + [X] chemicals studied by the chemists
+    + [X] no such thing as purpose
+  + [X] billiard ball metaphysics
++ [X] sensualist account of sense perception
   + "His idea, in basic terms, is that external matter strikes our body in specific locations which then sets of a chain of various oscillations and motions towards the brain according to the laws of mechanics---and sensation is the way in which we experience motions in the brain. What it means to "experience" anything if there is no such thing as a mind, nor why we only experience these motions in the brain but not elsewhere is left entirely unclear, which is a bit of a problem."
-+ [ ] primary/secondary quality distinction
++ [X] primary/secondary quality distinction
   + "that our senses only pick up distorted impressions of what is "really" out there, such that the real world is not remotely what it appears to be. In actual fact, this position has it, the real world is colourless, soundless, temperatureless, odourless, etc. All that really exists is quantity and motion."
   + table becoming distorted---the phenomenal table vs the noumenal table, splitting off into different headings as described below
   + maybe have two headings listing off the properties of the "fake" world and the "real" world or have rays coming off a table listing colour, sound, etc
-+ [ ] senses as invalid on the grounds of thought
++ [X] senses as invalid on the grounds of thought
   + "senses are invalid"
   + "we know this because of our thoughts"
   + "our thoughts are based on our senses"
   + thoughts based on senses; have arrow come from each pointing at the other with "invalidates" label
-+ [ ] state as a monopoly on the use of force (+ a monopoly on the justification of the use of force)
++ [X] state as a monopoly on the use of force (+ a monopoly on the justification of the use of force)
   + "It is my view that Murray Rothbard correctly identified what it is that people mean when they say "state," namely a monopoly on the use of force. They then combine this with legal positivism which almost everyone adopts, and thus conclude that the state is also a monopoly on the justification of the use of force. Such that aggression done by the state or by the state's order is justified, whereas other aggression is not."
-+ [ ] "it is wrong to /define/ the state as being coercive or aggressive because the dictionary definitions do not mention coercion, and that I myself appeal to dictionary definitions when it comes to socialism, so it would be improper for me to drop the dictionary all-together on this issue"
++ [X] "it is wrong to /define/ the state as being coercive or aggressive because the dictionary definitions do not mention coercion, and that I myself appeal to dictionary definitions when it comes to socialism, so it would be improper for me to drop the dictionary all-together on this issue"
   1. It is wrong to /define/ the state as being coercive, because the dictionary definitions do not mention coercion;
   2. I use dictionary definitions to define socialism, so I can't discard the dictionary entirely
-+ [ ] epilology as { praxeology, thymology }
++ [X] epilology as { praxeology, thymology }
   + thymology: the study of particular instances of man-made facts
   + praxeology: the study of general facts about the man-made as such
-+ [ ] false alternatives vs proper alternatives:
++ [X] false alternatives vs proper alternatives:
   + FALSE: a priori vs a posteriori
   + FALSE: reason vs empirical
   + TRUE: conceptual vs perceptual
   + TRUE: general vs particular
-+ [ ] determinism as a self defeat
++ [X] determinism as a self defeat
   + "If determinism is true:"
     + "facts of reality -> the determinist accepts this"
       + facts of reality also -> other people don't accept it
@@ -70,41 +70,41 @@
   + metaphysics as fundamental, epistemology as dependent upon metaphysics, etc until politics is reached way far up
   + euler diagram
 + [ ] legal authority justifying his rule by having the biggest stick in the land
-+ [ ] capitalism <-> anarchism
++ [X] capitalism <-> anarchism
   + This is why anarcho-capitalism is the only proper variant of anarchist thought. The capitalism implies the anarchism and vice versa. Capitalism implies anarchism because the recognition of full private property rights implies there can be no legal authorities that may flout or change those rights; and anarchism implies capitalism because with no authorities to appeal to, we are left with the non-aggression principle, which implies full private property rights.
 + [ ] Hobbes' state of nature
   + have a bunch of warring men doing anything in their power to expropriate from and invade others; then have "permanent underproduction of security" text come up to label this situation---each individual spends too little on his own defense
-+ [ ] collective myth syllogism:
++ [X] collective myth syllogism:
   1. Men are brutes who must necessarily be at war with each other.
   2. Make one of those men a sovereign.
   3. ???
   4. No more war! :)
-+ [ ] Animate this: "A rights-protecting violator of rights is simply a contradiction in terms."
-+ [ ] "Furthermore, so long as multiple states, $S_1, \cdots, S_n$, exist, just as there is supposed to be constant warfare between $A$ and $B$ in the state of anarchy, so too must there be constant warfare between these different states."
-+ [ ] Men are naturally brutish -/-> we need collective security.
++ [X] Animate this: "A rights-protecting violator of rights is simply a contradiction in terms."
++ [X] "Furthermore, so long as multiple states, $S_1, \cdots, S_n$, exist, just as there is supposed to be constant warfare between $A$ and $B$ in the state of anarchy, so too must there be constant warfare between these different states."
++ [X] Men are naturally brutish -/-> we need collective security.
   + "...but let's go further and examine this premise [that men are naturally brutish]."
-+ [ ] The threat of aggression is a risk, there are two ways to deal with risk on the market:
++ [X] The threat of aggression is a risk, there are two ways to deal with risk on the market:
   1. through your own privately controlled means;
   2. through the use of an insurance agency
      + underline this; "so we must analyse whether defense is an insurable good"
-+ [ ] hierarchy of philosophy law as a subset of ethics
++ [X] hierarchy of philosophy law as a subset of ethics
   + "Law is the subset of ethics which specifically tells man what he should do with respect to conflicts---should they be avoided or not? When should they be avoided or not? Are they ethically relevant or not? This is the area that law tackles and it obviously depends in the first case on ethics itself."
-+ [ ] Objectivism is the philosophy of the primacy of existence with annotated genus and differentia
++ [X] Objectivism is the philosophy of the primacy of existence with annotated genus and differentia
   + highlight the genus and differentia different colours or something
   + "So, for my definition, that Objectivism is the philosophy of the primacy of existence, the /genus/--the common denominator--is philosophy. Objectivism is a philosophy, like everything else which is a philosophy. What makes Objectivism different to all other philosophies--the /differentia/--is that Objectivism explicitly identifies and applies the primacy of existence to every philosophical issue."
-+ [ ] Title: "Objectivism: the philosophy of the primacy of existence."
++ [X] Title: "Objectivism: the philosophy of the primacy of existence."
   + have the stuff after the colon fade in
-+ [ ] murderology: "how should men act, including what are the proper methods of murder? Murder is a value to men only if it is the right kind of murder, after all!"
-+ [ ] "Metaphysics isn't "what is there, and also what is the world stuff?," epistemology isn't "how do I know and also why are the senses invalid?," and ethics isn't "what should I do about it, and what are therefore my duties?""
-+ [ ] the three answers to law:
++ [X] murderology: "how should men act, including what are the proper methods of murder? Murder is a value to men only if it is the right kind of murder, after all!"
++ [X] "Metaphysics isn't "what is there, and also what is the world stuff?," epistemology isn't "how do I know and also why are the senses invalid?," and ethics isn't "what should I do about it, and what are therefore my duties?""
++ [X] the three answers to law:
   1. the law of the jungle---initiate conflicts at your whim;
   2. mixed law---sometimes initiate conflicts, and;
   3. the non-aggression principle---don't initiate conflicts.
      + "first let's consider the law of the jungle---what would a universal acceptance of conflict-engendering norms look like?"
-+ [ ] "the property right would rather travel from person to person always being attached to the item itself"
-+ [ ] Title: ownership \ne possession; follow with other stuff
++ [X] "the property right would rather travel from person to person always being attached to the item itself"
++ [X] Title: ownership \ne possession; follow with other stuff
   + "The issue with this view is that ownership--which we can define as the /right/ to possess a given scarce good--is necessarily distinct from possession. If there is some dispute between $A$ and $B$ over who should be the one to control a given property, then /both/ $A$ and $B$ must pre-suppose this to be the case. $A$ is asserting that though $B$ might be able to actually obtain control, it would nevertheless be the case that $A$ /should/ be the one to control it, and similarly $B$ is asserting that though $A$ might be able to actually obtain control, it would nevertheless be the case that $\textit{\textbf{B}}$ should be the one to actually control it."
-+ [ ] "the instant a man tries to defend his conduct by asserting that conflicts should not be avoided and that rights are illusory he necessarily asserts that conflicts should be avoided (when initiated against him) and that rights are real (when the thief is facing a counter-attack)."
++ [X] "the instant a man tries to defend his conduct by asserting that conflicts should not be avoided and that rights are illusory he necessarily asserts that conflicts should be avoided (when initiated against him) and that rights are real (when the thief is facing a counter-attack)."
 + [ ] different mixed-law systems
 + [ ] "if Crusoe and Friday have a disagreement over how to use a spear, then each party sitting down and giving arguments as to why their use should go forth is quite distinct to each party launching missiles and trying to stab the other to death in order that their use may go forth unimpeded."
 * Why People Aren't Anarchists
@@ -133,7 +133,7 @@ It is worth noting on this point that legal anarchism doesn't mean that there ar
 
 Now, which man strikes you as being the more peaceful individual? Surely it is Crusoe. Crusoe was minding his business and then Friday physically attacked him and attempted to deprive him of his means of bettering his own life. This is an important observation: anarchism is peaceful, it is the non-anarchists who bring about chaos.
 
-Anarchism as such does not provide a positive case for what the law is; all it says is that it is non-authoritarian. This does not give us much; it is often entirely unclear which party in any given conflict is appealing to authority, or if either of them are. Thus, we need to turn to a specific subset of anarchism, called anarcho-capitlaism, for our positive case.
+Anarchism as such does not provide a positive case for what the law is; all it says is that it is non-authoritarian. This does not give us much; it is often entirely unclear which party in any given conflict is appealing to authority, or if either of them are. Thus, we need to turn to a specific subset of anarchism, called anarcho-capitalism, for our positive case.
 
 Anarcho-capitalism starts by recognising the fundamental problem that law tackles: namely, scarcity. It is only because the stick is scarce that Crusoe and Friday can come into conflict over its use. This requires a specific understanding of the terminology---to say that a given entity is scarce is to say that men can come into conflicts over its use, where a conflict is defined as mutually-exclusive actions. Crusoe cannot use the stick to spearfish at the same time that Friday uses it to stoke his fire---one action excludes the other, i.e. they are mutually-exclusive.
 
@@ -180,7 +180,7 @@ The Platonists would tell him that the mind is supernatural, he would accept thi
 
 Of course, by the time Hobbes gets to his epistemology--like all materialists--he has to smuggle in the mind, as that is the very faculty that epistemology studies. Again here, he merely accepts a pre-established position, namely empiricism---that all knowledge is based on the evidence of the senses; there are no innate ideas or mystic means of gaining knowledge on Hobbes' philosophy.
 
-How then does he account for sense perception on purely materialist grounds? His idea, in basic terms, is that external matter strikes our body in specific locations which then sets of a chain of various oscillations and motions towards the brain according to the laws of mechanics---and sensation is the way in which we experience motions in the brain. What it means to "experience" anything if there is no such thing as a mind, nor why we only experience these motions in the brain but not elsewhere is left entirely unclear, which is a bit of a problem.
+How then does he account for sense perception on purely materialist grounds? His idea, in basic terms, is that external matter strikes our body in specific locations which then sets off a chain of various oscillations and motions towards the brain according to the laws of mechanics---and sensation is the way in which we experience motions in the brain. What it means to "experience" anything if there is no such thing as a mind, nor why we only experience these motions in the brain but not elsewhere is left entirely unclear, which is a bit of a problem.
 
 This is compounded further by his acceptance of what philosophers call the primary/secondary quality distinction---that our senses only pick up distorted impressions of what is "really" out there, such that the real world is not remotely what it appears to be. In actual fact, this position has it, the real world is colourless, soundless, temperatureless, odourless, etc. All that really exists is quantity and motion. So, for Hobbes, we know that the senses are invalid through a process of thought, and that thought is based on the evidence of the senses; so thought is supposed to invalidate that which it is based upon. You can see, I'm sure, how the materialist position is leading Hobbes to total epistemic suicide.
 
@@ -205,7 +205,7 @@ Thus when TIK says that the standard of which words should be used is those whic
 
 Now, I don't think that TIK is a raging Humean or anything like that---but this is an area where I think he is not applying the correct methods of epistemology. He must take into account not only how the words are used, but more fundamentally what the requirements of man's mind are.
 
-*** The Rothbardian Definition as Identifying the Essential !!!HERE!!!
+*** The Rothbardian Definition as Identifying the Essential
 Furthermore, I also don't think that TIK's understanding of the state just being a large collection of people lines up with what most people think. It is my view that Murray Rothbard correctly identified what it is that people mean when they say "state," namely a monopoly on the use of force. They then combine this with legal positivism which almost everyone adopts, and thus conclude that the state is also a monopoly on the justification of the use of force. Such that aggression done by the state or by the state's order is justified, whereas other aggression is not.
 
 This is why people are fine with the government stealing their money, but not a random thug on the street. After all, if you believe that there is a legitimate monopoly on the use of force, then that monopoly gets to decide that certain aggressions are fine by pure fiat. A monopoly means that you are excluding competition, this means that if the state is justified it must be justified in preventing people from defending property on their own, and therefore the state must be operating under legal authoritarianism.
@@ -246,7 +246,7 @@ The determinist's position amounts to the following. “My mind does not automat
 
 So, the Austrians are correct to embrace a methodological dualism and reject the application of the methods used to study particles and chemicals to the study of man---but not because the study of man is non-empirical. Rather, when one studies human action, he must take into account the fact of free will.
 
-This integration between Objectivism and anarcho-capitalism is not idiosyncratic either. Murray Rothbard himself was an Objectivist[fn:19] +and the link between him and Rand deserves to be re-instated on TIK's chart+.[fn:20] As Rothbard himself explains:
+This integration between Objectivism and anarcho-capitalism is not idiosyncratic either. Murray Rothbard himself was an Objectivist[fn:19] +and the link between him and Rand deserves to be re-instated on TIK's chart+.[fn:20] As he explains:
 #+begin_quote
 I just finished your novel today. I will start by saying that all of us in the "Circle Bastiat" are convinced, and were convinced very early in the reading, that Atlas Shrugged is the greatest novel ever written.
 
@@ -298,7 +298,7 @@ A fallacy which may be termed "the fallacy of the frozen abstraction" [...] cons
 Legal positivism is one specific theory about what the law is, namely it is the thesis that the existence and content of law depends upon social facts, and not on its merits.[fn:25] In other words, the legal positivist claims that law is "posited," i.e. decreed by some authority, rather than discovered by jurists. This leaves us with a gross false alternative: arbitrary law declared by politicians vs arbitrary law declared by bandits; agression vs agression; might vs might. It is the dictum of every great villain in the history of philosophy: heads I win, tails you lose.
 
 #+begin_quote
-Fight the doctrine which slaughters the individual with a doctrine which slaughters the individual. Give up your soul to a council--or give it up to a leader. But give it up, give it up, give it up. My technique, Peter. Offer poison as food and poison as antidote. Go fancy on the trimmings, but hang on to the main objective. Give the fools a choice, let them have their fun--but don’t forget the only purpose you have to accomplish. Kill the individual. Kill man's soul. The rest will follow automatically.[fn:26]
+Fight the doctrine which slaughters the individual with a doctrine which slaughters the individual. Give up your soul to a council--or give it up to a leader. But give it up, give it up, give it up. My technique, Peter. Offer poison as food and poison as antidote. Go fancy on the trimmings, but hang on to the main objective. Give the fools a choice, let them have their fun--but don't forget the only purpose you have to accomplish. Kill the individual. Kill man's soul. The rest will follow automatically.[fn:26]
 #+end_quote
 
 The jungle anarchist accepts and furthers the brutish violence vs brutish violence false alternative; taking up the side of disorganised aggression as against organised aggression. He never stops to check his premises and question whether aggression is required in the first place. He merely asserts that somebody's got to rule, so its better if that ruling is done by syndicates, or cooperatives, or random Stirnerites rather than a union of syndicates, or democratic republic, or a specific Stirnerite called "dear leader." Surely this is as far from any reasonable conception of anarchist as one can come. Indeed, these anarcho-idiots are entirely correct to segregate anarcho-capitalism from their various moronic and/or brutish creeds, as they nearly universally do. When you see such attempts made to kick out anarcho-capitalism from the flag of "mother anarchy," you should not protest their disassociation from us. Rather, you should embrace this and point out that they are distancing /themselves/ from anarchism. Their facts are correct, but their evaluation is sorely reversed.
@@ -327,7 +327,7 @@ Furthermore, the entire purpose of protecting rights in the first place is to al
 
 Quite simply, given that the principle of government requires that it be a judicial monopoly with the power to tax, any notion of limiting it's power and safeguarding individual life and property is illusory; necessarily the state tends towards greater expropriation and less protection, because the sovereign is motivated by self-interest (albeit irrational) and the disutility of labour just as anyone else. Why allocate more resources towards protecting citizens than the minimum required to keep them in line and preserve their property for your own future expropriation? On Hobbes, the sovereign would /have/ to do this because he is supposed to be a brute.
 
-Furthermore, even if the sovereign is, contrary to the Hobbesian premise, an angel who wants to try his best to provide the correct level of protection, it is simply not possible for him to do this. He is faced with the unanswerable question of how much security must be rationally allocated. Should he give every citizen a handgun? Should he post armed guards on every street corner? Should he have a police patrol every 10 miles? He cannot answer, because the economic calculation problem stands in his way. I have already explained the ECP in this video,[fn:30] so I will not repeat the explanation here. You can read the full deductive argument on my wiki if you do not wish to watch the video.[fn:31]
+Furthermore, even if the sovereign is, contrary to the Hobbesian premise, an angel who wants to try his best to provide the correct level of protection, it is simply not possible for him to do this. He is faced with the unanswerable question of how much security must be rationally allocated and in what form(s) it should be produced. Should he give every citizen a handgun? Should he post armed guards on every street corner? Should he have a police patrol every 10 miles? He cannot answer, because the economic calculation problem stands in his way. I have already explained the ECP in this video,[fn:30] so I will not repeat the explanation here. You can read the full deductive argument on my wiki if you do not wish to watch the video.[fn:31]
 
 Regardless, in the statist society there will also exist a tendency toward a deterioration in the quality of justice, because if one can only appeal to the government for justice and protection, justice and protection will invariably be perverted in favour of the government. Even the constitutions and supreme courts that are supposed to limit this may be interpreted and administered solely by the government---the very agents who are supposed to be limited are the ones who determine what the limit is. "Accordingly, the definition of property and protection will continually be altered and the range of jurisdiction expanded to the government's advantage."[fn:32]
 
@@ -347,6 +347,10 @@ In addition to this tendency for free-market defense towards precision in lieu o
 This tendency enacts a civilising process, in contrast to the decivilising one created by monopoly "protection" under a state. All other things being equal, men would prefer to have their property under a lower risk of predation; so as the risk of aggression increases, the value of property decreases. On the one hand, in low-risk-high-value (i.e. "good") neighborhoods, insurance rates could be low in accordance with the low risk of predation; and on the other hand, in high-risk-low-value (i.e. "bad") neighborhoods, insurance rates would be accordingly higher. This creates a tendency for productive individuals to move to and invest their resources in good as against bad areas. In contrast, those who are in good neighborhoods under state-monopoly protection are forced to pay more in taxes in order to subsidise those who languish in the bad neighborhoods---shifting resources from civilisation to decivilisation.
 
 Not only does this hypothetical free-market in defensive services have the benefits that there would tend to not be total war, the victims would be compensated rather than the aggressors, and that accordingly resources are shifted away from predation and towards production; but also even current insurance agencies already utilise free market arbitration systems rather than statist courts. These free-market dispute resolution firms would only become more effective and more broadly used without the state forcefully positioning itself as the "true" "court of the land" that may be appealed to if one does not like the just verdicts of private judges.
+
+!!!HERE!!!
+
+It is often asserted that we need this "arbiter of last resort" with monopoly power over all others for justice to be served. But the exact opposite is the case. The more independent judges are in applying their judgement to some case, the better off we are. On the one hand, the capitalist judge is at the very least /trying/ to do justice in some specific case he has before him, and on the other, the monopoly judiciary must necessarily tend towards a systematic perversion of justice by the fact that it is a monopoly. Law is not subjective or intrinsic, it cannot be decreed from on high by the standard of "he's the guy with the biggest gavel." Objective legal principles can be applied /only/ when rational men are able to use their rational judgement to do justice without the razor of Damocles that is an arbiter of last resort constantly undercutting them.
 
 One final point must be addressed here before the positive case for private defense insurance is complete: namely, in a capitalist society, what methods could free peoples utilise in order to defend themselves against state aggression? First, it is worth questioning /why/ a sovereign would wish to do this in the first place. /Who/ would they be invading? There is no competing sovereign or state in this area to direct his attacks towards, there are only freely associating people, each engaged in their own individual behaviours. These free men would tend to have not aggressed against any citizens in the invading nation, and they would tend to have not provoked any aggressions from the invaders for reasons previously stated. Any individual who was engaged in such provocation or aggression would quickly become unwelcome in the free society, forced to live on the outskirts where the state may simply arrest him without needing to invade. Furthermore, options for casus belli become quite limited without a single collective state to pin grievances onto. Any state must in some way justify its conduct to the men who would be carrying out its crimes, the justification needn't be good, but it needs to exist. There would be no terrorist attacks coming from the free people, the free people would not be seeking any expansionist wars against neighboring territories, and they would be engaged in no internal ethnic cleansings or other such "crimes against humanity" to be used as a justification for attack.
 
@@ -429,38 +433,46 @@ Accordingly, Rand defined a right as "a moral principle defining and sanctioning
 ** Open vs Closed
 Now that I have elucidated the Objectivist politics--at least briefly--I must turn to my dispute with it, which impinges upon a great schism within the Objectivism movement: namely, the debate over whether Objectivism is an open or closed system. If Objectivism is a closed system, that is, if it is just whatever beliefs in philosophy that Ayn Rand held, then it can never develop or shift from the moment of her death. In this case, the preceding analysis of Rand's politics /is/ the Objectivist politics. If, on the other hand, Objectivism is an open system, then "Ayn Rand said so" cannot stand as an argument for the preceding analysis being the /Objectivist/ politics.
 
-Let me first state that I am not going to give the standard case for Objectivism being an open system as forwarded by Stephen Hicks. I think that Craig Biddle gave an unanswerable objection to Hicks' presentation of open Objectivism in their debate. Namely: Hicks has it that Objectivism means true philosophy---this is a frozen abstraction and must therefore be entirely disallowed within our conceptual framework. Objectivism is not a science, it is a particular philosophical theory.
+Let me first state that I am not going to give the standard case for Objectivism being an open system as forwarded by Stephen Hicks. I think that Craig Biddle gave an unanswerable objection to Hicks' presentation of open Objectivism in their debate.[fn:39] Namely: Hicks has it that Objectivism means true philosophy---this is a frozen abstraction and must therefore be entirely disallowed within our conceptual framework. Objectivism is not a science, it is a particular philosophical theory.
 
-I do want to be clear here because this debate often gets fairly heated; I hold no animosity or contempt to anybody in the Atlas Society or anybody else who is in the David Kelley school of open Objectivism.[fn:39] I think that they are doing fantastic work to promote Objectivism and they form a great resistance to some of the more Rand-worshipper elements of the movement.[fn:40] I also am not adopting any sort of a smear against the closed Objectivists in claiming they are closed minded as is allegedly done sometimes[fn:41]---closed Objectivism in the context of this video should be taken /only/ to mean that theory that Objectivism means whatever beliefs in philosophy Ayn Rand held. I hold to a different sort of open Objectivism than that of Kelley or Hicks. Namely: I don't hold that Objectivism means true philosophy, /or/ that it means whatever beliefs in philosophy are held by Ayn Rand---in my view, Objectivism is the philosophy of the primacy of existence.
+I do want to be clear here because this debate often gets fairly heated; I hold no animosity or contempt to anybody in the Atlas Society or anybody else who is in the David Kelley school of open Objectivism.[fn:40] I think that they are doing fantastic work to promote Objectivism and they form a great resistance to some of the more Rand-worshipper elements of the movement.[fn:41] I also am not adopting any sort of a smear against the closed Objectivists in claiming they are closed minded as is allegedly done sometimes[fn:42]---closed Objectivism in the context of this video should be taken /only/ to mean that theory that Objectivism means whatever beliefs in philosophy Ayn Rand held. I hold to a different sort of open Objectivism than that of Kelley or Hicks. Namely: I don't hold that Objectivism means true philosophy, /or/ that it means whatever beliefs in philosophy are held by Ayn Rand---in my view, Objectivism is the philosophy of the primacy of existence.
 
 The primacy of existence is basically the view that existence is the most fundamental fact. That /first/ one must have it that existence exists, /then/ one can recognise that they are conscious of it. To explain this view, it is worth contrasting it with the opposing view---the primacy of consciousness. One form of this is found in Descartes' /cogito ergo sum/---I think, /therefore/ I am. The starting point for Descartes is an "I think," not an "it is." Another form of it is found in the religious viewpoint that reality requires a cause, and that this cause must be the consciousness they call God. This is also the primacy of consciousness---supernatural thoughts are held as the fundamental which comes before reality.
 
-If you are interested in why the primacy of existence is true, I refer you to this wiki article[fn:42] I wrote on the subject. Regardless, to justify the claim that Objectivism means the philosophy of the primacy of consciousness, let me consult the standard Objectivist account of definition; namely, that a definition is a statement that identifies the nature of a concept's units:
+If you are interested in why the primacy of existence is true, I refer you to this wiki article[fn:43] I wrote on the subject. Regardless, to justify the claim that Objectivism means the philosophy of the primacy of consciousness, let me consult the standard Objectivist account of definition; namely, that a definition is a statement that identifies the nature of a concept's units:
 #+begin_quote
 A proper definition is made of two parts, each of which follows from the nature of concept-formation. When we form a concept, we isolate its units by grasping a distinguishing characteristic. In the definition, this becomes what the medieval Aristotelians called the differentia. Further, we can differentiate only on the basis of a wider characteristic, the [conceptual common-denominator], which is shared both by the concretes we are isolating and by the concretes from which we are isolating them. In the definition, this gives rise to the genus.
 
-A definition in terms of genus and differentia is like a logical X ray of a concept. It condenses into a brief, retainable statement the essence of the concept-forming process: it tells us what distinguishes the units and from what they are being distinguished, i.e., within what wider group the distinction is being made. To give the standard example: if we conceptualize man by differentiating men from dogs, cats, and horses, then “animal” would be the genus—“rational,” the differentia.[fn:43]
+A definition in terms of genus and differentia is like a logical X ray of a concept. It condenses into a brief, retainable statement the essence of the concept-forming process: it tells us what distinguishes the units and from what they are being distinguished, i.e., within what wider group the distinction is being made. To give the standard example: if we conceptualize man by differentiating men from dogs, cats, and horses, then “animal” would be the genus—“rational,” the differentia.[fn:44]
 #+end_quote
 
-So, for my definition, that Objectivism is the philosophy of the primacy of existence, the /genus/--the common denominator[fn:44]--is philosophy. Objectivism is a philosophy, like everything else which is a philosophy. What makes Objectivism different to all other philosophies--the /differentia/--is that Objectivism explicitly identifies and applies the primacy of existence to every philosophical issue.
+So, for my definition, that Objectivism is the philosophy of the primacy of existence, the /genus/--the common denominator[fn:45]--is philosophy. Objectivism is a philosophy, like everything else which is a philosophy. What makes Objectivism different to all other philosophies--the /differentia/--is that Objectivism explicitly identifies and applies the primacy of existence to every philosophical issue.
 
-Let me explicate this with respect to a few areas. In metaphysics, the most fundamental branch of philosophy, we have it that according to Rand's legal and intellectual heir, Leonard Peikoff, "[...] the essence of metaphysics [...] is the step-by-step development of the corollaries of the existence axiom."[fn:45] So the /essence/ of the /Objectivist/ approach to metaphysics according to its de-facto living leader is the development of the fact that existence exists and that it is not subject to change by thought.
+Let me explicate this with respect to a few areas. In metaphysics, the most fundamental branch of philosophy, we have it that according to Rand's legal and intellectual heir, Leonard Peikoff, "[...] the essence of metaphysics [...] is the step-by-step development of the corollaries of the existence axiom."[fn:46] So the /essence/ of the /Objectivist/ approach to metaphysics according to its de-facto living leader is the development of the fact that existence exists and that it is not subject to change by thought.
 
 The basic approach underlying this carries on up to the epistemology---the philosophy of knowledge. What it means to be /objective/ in epistemology, according to standard Objectivism, is to appeal to reality. It is the recognition of reality. This is so because existence has primacy over consciousness. Every single doctrine found within the Objectivist epistemology is based on the premise that reality exists independently of you, and that the role of your consciousness is merely to discover facts about it, or--if you choose to--obscure those facts.
 
-I could go on, but I think you get the point---the /essence/ of Objectivism is this consistent application of the primacy of existence to every philosophical issue. This is a uniquely Objectivist viewpoint, and is in fact what Objectivists mean when they tell you to be objective[fn:46]--the very namesake of the philosophy--namely: that objectivity means adherence to the primacy of existence. Even Aristotle was not fully consistent in this approach. He failed to explicitly identify and apply the primacy of existence---the most fundamental thing in his metaphysics is not that existence exists, but rather that the Prime Mover thinks about his own thoughts.
+I could go on, but I think you get the point---the /essence/ of Objectivism is this consistent application of the primacy of existence to every philosophical issue. This is a uniquely Objectivist viewpoint, and is in fact what Objectivists mean when they tell you to be objective[fn:47]--the very namesake of the philosophy--namely: that objectivity means adherence to the primacy of existence. Even Aristotle was not fully consistent in this approach. He failed to explicitly identify and apply the primacy of existence---the most fundamental thing in his metaphysics is not that existence exists, but rather that the Prime Mover thinks about his own thoughts.
 
 I have thus satisfied both requirements of a definition on Objectivist grounds---I have a genus (philosophy) and differentia (the explicit application of the primacy of existence). And I do not fall into the same frozen abstraction objection brought forth by Biddle, because I am not /defining/ Objectivism as "true philosophy." To be sure, Objectivism is true philosophy /on/ my definition, but not /by/ definition as it is with more primitive forms of open Objectivism---rather, Objectivism is true philosophy /because the primacy of existence is true/. So if somehow I were to be convinced that the correct approach in, say, aesthetics is to appeal to Platonic forms or something, I would consider that Platonic aesthetics to be part of true philosophy, but not part of Objectivism. The Platonic method would here be supposedly yielding truth, but it would not be adhering to the unique Objectivist innovation which is to explicitly apply the primacy of existence to /every/ philosophical issue.
 
-It is also not at all idiosyncratic of me to separate the philosophy from the philosopher who originated it. The arch-closed-Objectivist, Leonard Peikoff, does this very thing with respect to Aristotle. Peikoff tells us in his history of philosophy that Aristotle the man had both Platonist and Aristotelian elements in him.[fn:47] This simply could not be the case if Aristotelian meant whatever beliefs in philosophy Aristotle held, much like the closed Objectivists want to have for Rand. Indeed, Peikoff is entirely correct to conceptually separate the /essential/ approach that Aristotle performed[fn:48] from whatever remote deviations he may have had. As far as the history of philosophy is concerned, any such deviation is simply irrelevant, and will quickly be ironed over by more consistent students of the philosopher who did the deviation. What matters in the definition of philosophies is an identification of their essence---and that essence has nothing to do, conceptually speaking, with the person who discovered or invented the philosophy.
+This is why my definition is correct, as against the innumerable other attempts made to define the philosophy. For instance, you will hear legion Randians attempt to define it as "the philosophy of Ayn Rand." To be clear: I am not, here, referring to the fact that Peikoff's book is called /Objectivism: The Philosophy of Ayn Rand/. That's a fine book title. I am referring to the numerous people I have had legitimately approach the question "what is the definition of Objectivism?" with "it's the philosophy that Ayn Rand came up with." The essence of Objectivism simply is not that Ayn Rand discovered it. This is a non-definition, the Randian has failed to identify any essential, distinguishing, characteristic(s) of the Objectivist view as against any other view.
 
-Indeed, Rand herself rejected the term "Randism" as a description of her philosophy, correcting Mike Wallace that she calls it Objectivism "meaning a philosophy based on objective reality."[fn:49]
+Suppose, for instance, that Ayn Rand were to have gone through some philosophical progression, like many other philosophers have. Perhaps the early Rand comes up with Objectivism as we all know and love, but then at a later point, completely renounces this philosophy and comes up with something entirely different. Both of these philosophies would surely be borne from Rand, and yet they are clearly different and require different names. We find that the fact that Rand came up with an idea is not the /essence/ of that idea.
+
+The other sort of definition that the typical Randian will reach for consists of listing off the different branches of philosophy and briefly explaining the Objectivist position on each. Again, this is not the proper way to construct a definition. Nowhere else do we define something by listing off a number of attributes that it has. Man is the rational animal, not the animal that is in the genus homo with two arms and two legs, and ears and a nose, and mostly hairless skin with a certain amount of collagen and melanin and so on and so forth. Similarly, Objectivism is not /defined/ as the philosophy that says such and such on metaphysics, and this other thing on epistemology, and also heres the aesthetic theory, and the meta-ethical viewpoint etc. Objectivism is the philosophy of the primacy of existence. When we are looking for a definition of a /philosophy/, we are looking for what is distinctive to that philosophy, and thus how it approaches each of the branches. No abstraction can be properly defined by listing off each and every particular to which it applies---that is the nominalist approach to definition. So Objectivism as a philosophy which is the broader abstraction beyond each individual branch is not defined in terms of listing off what it says on each branch.
+
+This sort of listing-definition is borne from a parrotting of Rand. These Randians will watch an Ayn Rand interview where she is asked to /explain/ Objectivism, and will see that she goes over each of the branches giving a brief overview of the Objectivist position on them. "Explain" is the key word here. Ayn Rand is not defining Objectivism in terms of the branches, she is trying to explain what it means in language that will be understood by the layman. A layman will not understand what it means to say that Objectivism is the philosophy of the primacy of existence, they have a far better chance at understanding what she is getting across if she gives an explanation, rather than a definition.
+
+It is also not at all idiosyncratic of me to separate the philosophy from the philosopher who originated it. The arch-closed-Objectivist, Leonard Peikoff, does this very thing with respect to Aristotle. Peikoff tells us in his history of philosophy that Aristotle the man had both Platonist and Aristotelian elements in him.[fn:48] This simply could not be the case if Aristotelian meant whatever beliefs in philosophy Aristotle held, much like the closed Objectivists want to have for Rand. Indeed, Peikoff is entirely correct to conceptually separate the /essential/ approach that Aristotle performed[fn:49] from whatever remote deviations he may have had. As far as the history of philosophy is concerned, any such deviation is simply irrelevant, and will quickly be ironed over by more consistent students of the philosopher who did the deviation. What matters in the definition of philosophies is an identification of their essence---and that essence has nothing to do, conceptually speaking, with the person who discovered or invented the philosophy.
+
+Indeed, Rand herself rejected the term "Randism" as a description of her philosophy, correcting Mike Wallace that she calls it Objectivism "meaning a philosophy based on objective reality."[fn:50]
 
 So, then, is it possible to make such simple statements of other philosophies like my one for Objectivism? Perhaps, or perhaps not. I will leave it to the adherents of Kant, or Descartes, or Saint Augustine to distil such beliefs into an easily recognisable essence. I will say on this front that most philosophies except for Objectivism form an ecclectic hodge-podge of random positions hastily strung together, and that to whatever extent this is the case one requires more clarifications and asterisks to be stuck onto an otherwise neat statement of that philosophy. When it comes to some of the more ecclectic philosophies, it becomes possible to identify it only by gesturing at the philosopher who thought it made sense. But, insofar as a given philosophy is integrated in its claims and basic approach, one can identify it as easily as I identify Objectivism: the philosophy of the primacy of existence.
 
 Of course, I would be remiss if I did not present some of the arguments provided by the closed Objectivists on why they think it is closed. Onkar Ghate has it that this is the normal way of thinking of theories elsewhere:
 #+begin_quote
-So there's Darwin's theories in evolutionary biology, and they're Darwin's theories, and they end when he stops writing and dies. Then those are his theories in biology. Or Einstein's theories in physics. They're closed, again, when he dies or stops writing. And that was the perspective that ARI adopted and its a perspective I certainly agree with. But if you ask: is philosophy open or closed? I think it's a different answer. Philosophy is open. So Objectivism and [...] truths in philosophy are not synonyms.[fn:50]
+So there's Darwin's theories in evolutionary biology, and they're Darwin's theories, and they end when he stops writing and dies. Then those are his theories in biology. Or Einstein's theories in physics. They're closed, again, when he dies or stops writing. And that was the perspective that ARI adopted and its a perspective I certainly agree with. But if you ask: is philosophy open or closed? I think it's a different answer. Philosophy is open. So Objectivism and [...] truths in philosophy are not synonyms.[fn:51]
 #+end_quote
 
 He goes on to further address the "Objectivism is truths in philosophy" type of open Objectivism, which I agree with him on. What I disagree with him on, is his attempted analogising of Rand to Darwin and Einstein. Notice that he said "Darwin's theories in biology" and "Einstein's theories in physics" rather than "evolution" or "general relativity." Because the theories of evolution and general relativity are decidedly /not/ closed upon the deaths of their originators. We know /for sure/ that further discoveries need to be made in the theory of general relativity, because it cannot account for quantum gravity or dark matter. It is also possible to make further discoveries under the broad umbrella of the theory of evolution, but I know far less about biology so I cannot say exactly what that would consist of. Indeed, nobody is debating over whether "Ayn Rand's theories in philosophy" is open or closed---clearly, whatever beliefs Ayn Rand holds on philosophy is a closed set the instant she dies. But the word "Objectivism"--much like the words "evolution" and "general relativity"--does not refer to whatever beliefs she happens to hold. It refers to the essential theory that she was forwarding.
@@ -479,7 +491,7 @@ If you wonder why I am so particular about protecting the integrity of the term 
 
 [...]
 
-What is the proper policy on this issue? If you agree with some tenets of Objectivism, but disagree with others, do not call yourself an Objectivist; give proper authorship credit for the parts you agree with --- and then indulge in any flights of fancy you wish, on your own.[fn:51]
+What is the proper policy on this issue? If you agree with some tenets of Objectivism, but disagree with others, do not call yourself an Objectivist; give proper authorship credit for the parts you agree with --- and then indulge in any flights of fancy you wish, on your own.[fn:52]
 #+end_quote
 
 This quoted text was specifically selected by Onkar Ghate, before anybody tries accusing me of omitting important information. Regardless, I do agree with the closed Objectivists that this is evidence that Rand would have been a closed Objectivist if she were alive for the debates. But, that Ayn Rand would take that position does not imply that it is the correct position. "Ayn Rand said so" isn't an argument. At least the open Objectivism that I present is not a philosophical hodgepodge---it is the properly integrated form of the theory. And I am making no attempts to represent any discoveries I have made as being discoveries made by Ayn Rand, she deserves no credit for the numerous innovations in legal theory I have made. This is precisely because /Objectivism does not mean whatever beliefs in philosophy Ayn Rand held/. /Because/ I hold that Objectivism is a broader abstraction, I am perfectly free to hold both that there are correct Objectivist stances that Ayn Rand did not hold /whilst/ not pinning these positions onto Ayn Rand.
@@ -489,15 +501,15 @@ I give proper credit for the discovery of the correct legal theory /on Objectivi
 ** Law vs Politics
 So then, why is it that I think the anarcho-capitalist legal theory as formulated by myself is the proper implication of prior Objectivist philosophy? The reason is that I think Ayn Rand and her legion followers were all answering the wrong question when it came time to formulate the politics. Namely: I think politics is not a valid field of philosophy---law is.
 
-Peikoff states the question that politics is trying to answer as: "what is right or wrong in terms of what the government does, what society does,"[fn:52] or that:
+Peikoff states the question that politics is trying to answer as: "what is right or wrong in terms of what the government does, what society does,"[fn:53] or that:
 #+begin_quote
-Politics, like ethics, is a normative branch of philosophy. Politics defines the principles of a proper social system, including the proper functions of government.[fn:53]
+Politics, like ethics, is a normative branch of philosophy. Politics defines the principles of a proper social system, including the proper functions of government.[fn:54]
 #+end_quote
 
 This is, once again, the fallacy of the frozen abstraction. Allow me to highlight this with respect to another example from Rand:
 
 #+begin_quote
-Objectivists will often hear a question such as: "What will be done about the poor or the handicapped in a free society?" [...] Observe that he does not ask: "Should anything be done?" but: "What will be done?"---as if the collectivist premise had been tacitly accepted and all that remains is a discussion of the means to implement it.[fn:54]
+Objectivists will often hear a question such as: "What will be done about the poor or the handicapped in a free society?" [...] Observe that he does not ask: "Should anything be done?" but: "What will be done?"---as if the collectivist premise had been tacitly accepted and all that remains is a discussion of the means to implement it.[fn:55]
 #+end_quote
 
 In the case of politics, the Randians have grafted the premise that there should be a government onto the very problem-statement. This poisons every piece of analysis they provide from this point on. Their formulation doesn't even consider the question "should there be a government?" it asks "how should the government be run?"
@@ -524,13 +536,13 @@ There are three basic answers to this question:
 3. the non-aggression principle---don't initiate conflicts.
 
 *** The Law of the Jungle
-First let's consider the law of the jungle---what would a universal acceptance of conflict-engendering norms look like? If Crusoe were to take a stick from nature and try to use it for spearfishing, he would not be able to complain under this system if Friday came along and took that stick from him, because Crusoe could not claim the stick as his /property/, the property right would rather travel from person to person always being attached to the item itself. In other words, on such a view there would be no distinction whatsoever between /ownership/ and /possession/. We would have--in the words of Stephan Kinsella[fn:55]--a "mere possessor" ethic.
+First let's consider the law of the jungle---what would a universal acceptance of conflict-engendering norms look like? If Crusoe were to take a stick from nature and try to use it for spearfishing, he would not be able to complain under this system if Friday came along and took that stick from him, because Crusoe could not claim the stick as his /property/, the property right would rather travel from person to person always being attached to the item itself. In other words, on such a view there would be no distinction whatsoever between /ownership/ and /possession/. We would have--in the words of Stephan Kinsella[fn:56]--a "mere possessor" ethic.
 
 The issue with this view is that ownership--which we can define as the /right/ to possess a given scarce good--is necessarily distinct from possession. If there is some dispute between $A$ and $B$ over who should be the one to control a given property, then /both/ $A$ and $B$ must pre-suppose this to be the case. $A$ is asserting that though $B$ might be able to actually obtain control, it would nevertheless be the case that $A$ /should/ be the one to control it, and similarly $B$ is asserting that though $A$ might be able to actually obtain control, it would nevertheless be the case that $\textit{\textbf{B}}$ should be the one to actually control it.
 
-So this mere possessor ethic, which the law of the jungle asserts, would require a conflation of the concepts /ownership/ and /possession/, that is to say that the law of the jungle is the assertion that ownership rights are acquired by the mere act of taking a given good from someone else---if $A$ has a stick and $B$ takes that stick from him, then the jungle-jurist says that $C$ could come along and take the stick from $B$ and then become the owner, i.e. that whomever is in possession of the stick is in fact it's owner. But, how exactly is a person able to assert this jungle-law view in defense of their actions? We saw above that both $A$ and $B$ must pre-suppose the distinction between ownership and possession---they are saying that /they/ should control the item which implies that they have a /right/ to exclude other people from using it.[fn:56]
+So this mere possessor ethic, which the law of the jungle asserts, would require a conflation of the concepts /ownership/ and /possession/, that is to say that the law of the jungle is the assertion that ownership rights are acquired by the mere act of taking a given good from someone else---if $A$ has a stick and $B$ takes that stick from him, then the jungle-jurist says that $C$ could come along and take the stick from $B$ and then become the owner, i.e. that whomever is in possession of the stick is in fact it's owner. But, how exactly is a person able to assert this jungle-law view in defense of their actions? We saw above that both $A$ and $B$ must pre-suppose the distinction between ownership and possession---they are saying that /they/ should control the item which implies that they have a /right/ to exclude other people from using it.[fn:57]
 
-We have this real problem of conflicts that we are trying to resolve and the jungle law view is simply incommunicable by the fact that it is a contradiction to even assert---the instant a man tries to defend his conduct by asserting that conflicts should not be avoided and that rights are illusory he necessarily asserts that conflicts should be avoided (when initiated against him) and that rights are real (when the thief is facing a counter-attack).[fn:57] So this man would be left with only the option of sealing up his lips and making no defense, living as an animal-beast ruled by whatever whims he feels at the moment, with no concern for whether his conduct is rationally defensible.
+We have this real problem of conflicts that we are trying to resolve and the jungle law view is simply incommunicable by the fact that it is a contradiction to even assert---the instant a man tries to defend his conduct by asserting that conflicts should not be avoided and that rights are illusory he necessarily asserts that conflicts should be avoided (when initiated against him) and that rights are real (when the thief is facing a counter-attack).[fn:58] So this man would be left with only the option of sealing up his lips and making no defense, living as an animal-beast ruled by whatever whims he feels at the moment, with no concern for whether his conduct is rationally defensible.
 
 So at best the jungle-law ethic reduces into whim-worship, but recall above that ethics itself rests upon earlier conclusions in metaphysics and epistemology, so upon what metaphysical and/or epistemic premises does such an ethic rest? Fundamentally, we have the question of "how should we be dealing with conflicts, what is criminal?" and the jungle-jurist asserts: "who gives a damn? Might makes right; live by your arbitrary whims." What this means, if taken as a serious ethical proposal, is that whims are a genuine source of knowledge, i.e. this is not only a whim-ethic, but a whim-epistemology---it all boils down to "I think this is true because I feel like it is;" "I should take this spear because I feel like I should."
 
@@ -541,37 +553,37 @@ But of course, epistemology does not stand on it's own, it is not primary in phi
 Next, let's consider the "mixed law" system(s); i.e. that conflicts should be avoided under certain circumstances, but not always. First any mixed-law system that can be reduced to "we must aggress in these arbitrary situations" is refuted by the above reasoning against the law of the jungle.
 
 Allow me to now quickly introduce a number of different proposals for a mixed-law system such that I may draw your attention to a common principle among them all:
-1. consequentialism---he whose victory would yield the best outcome is he who should win the conflict at hand;[fn:58]
+1. consequentialism---he whose victory would yield the best outcome is he who should win the conflict at hand;[fn:59]
 2. racism---he who is fighting for the interests of the preferred race is he who should win the conflict at hand;
 3. Marxism---he who is fighting for the interests of the proletariat is he who should win the conflict at hand;
-4. primitivism---he who is fighting for apocalypse[fn:59] is he who should win the conflict at hand;
+4. primitivism---he who is fighting for apocalypse[fn:60] is he who should win the conflict at hand;
 5. monarchism---he who is deemed to be the proper victor by the monarch is he who should win the conflict at hand;
 6. democratism---he who is deemed to be the proper victor by majority opinion is he who should win the conflict at hand;
-7. Rawlsianism---he who is deemed to be the proper victor by a party situated behind a veil of ignorance is he who should win the conflict at hand,[fn:60] and;
+7. Rawlsianism---he who is deemed to be the proper victor by a party situated behind a veil of ignorance is he who should win the conflict at hand,[fn:61] and;
 8. imperialism---he who is deemed to be an ally by the military leadership of the preferred country is he who should win the conflict at hand.
 
-You will notice that on their face these ideologies fall under two categories: (1) the class-based, i.e. "he who is part of the preferred class is he who should win the conflict at hand,"[fn:61] and (2) the whim-based, i.e. "he who is deemed to be the proper victor by X is he who should win the conflict at hand." It should be clear why the latter would fall under the same reasoning as used against the law of the jungle; thus I shall focus my efforts on those class-based mixed-law systems.
+You will notice that on their face these ideologies fall under two categories: (1) the class-based, i.e. "he who is part of the preferred class is he who should win the conflict at hand,"[fn:62] and (2) the whim-based, i.e. "he who is deemed to be the proper victor by X is he who should win the conflict at hand." It should be clear why the latter would fall under the same reasoning as used against the law of the jungle; thus I shall focus my efforts on those class-based mixed-law systems.
 
-Any form of class-based law is an ethic in the form: one rule for class $A$ and another for class non-$A$. But by what possible means could one derive that one ethic applies to $A$ and another /incompatible/[fn:62] ethic applies to non-$A$? Surely such an ethic could not be derived from the nature of man as such, because if it were then we would have a universal principle, not one that applies only to a particular subset of humanity. Therefore, such an ethic must be arbitrarily particularised---we have an arbitrary distinction which forms a class of humans and a class of sub-humans, we do not here have a rational ethic for /man/. This particularisation then falls back into the primacy of consciousness and therefore fails.
+Any form of class-based law is an ethic in the form: one rule for class $A$ and another for class non-$A$. But by what possible means could one derive that one ethic applies to $A$ and another /incompatible/[fn:63] ethic applies to non-$A$? Surely such an ethic could not be derived from the nature of man as such, because if it were then we would have a universal principle, not one that applies only to a particular subset of humanity. Therefore, such an ethic must be arbitrarily particularised---we have an arbitrary distinction which forms a class of humans and a class of sub-humans, we do not here have a rational ethic for /man/. This particularisation then falls back into the primacy of consciousness and therefore fails.
 
 **** The ARgument from Argument
-On top of this, there exists a built-in self-destruct for any mixed law ethic, in the form of Hans-Hermann Hoppe's argument from argument.[fn:63]
+On top of this, there exists a built-in self-destruct for any mixed law ethic, in the form of Hans-Hermann Hoppe's argument from argument.[fn:64]
 
 The basic idea behind this attack is found in noticing that there exists an inescapable inconsistency when it comes to arguing in favour of aggression, borne from the fact that argumentation is and must be a conflict-free interaction. When people have some dispute and they choose to argue about it, they are doing the exact opposite of fighting over the dispute. That is, if Crusoe and Friday have a disagreement over how to use a spear, then each party sitting down and giving arguments as to why their use should go forth is quite distinct to each party launching missiles and trying to stab the other to death in order that their use may go forth unimpeded.
 
-That is, simply by arguing about property rights, you must pre-suppose libertarian non-aggression in your act of peacefully attempting to resolve the disagreement. For our above dispute between Crusoe and Friday, if Friday is trying to convince Crusoe that the proper use of the spear is to violate Crusoe's bodily autonomy, then he finds himself in a practical contradiction,[fn:64] namely he is respecting Crusoe's bodily autonomy and trying to achieve consent from Crusoe by his act of arguing, whilst he is explicitly rejecting that Crusoe's consent is required in the first place. To escape this contradiction, Friday has two options: first, he can stop arguing and go back to fighting over it, or second, he can drop his claim that Crusoe's bodily autonomy should be violated. In this second case the mixed law or jungle ethic has trivially dropped out of rational consideration, and in the first case we have it that Friday has turned himself into an animal-beast governed only by whim---which makes his ethic irrational still.
+That is, simply by arguing about property rights, you must pre-suppose libertarian non-aggression in your act of peacefully attempting to resolve the disagreement. For our above dispute between Crusoe and Friday, if Friday is trying to convince Crusoe that the proper use of the spear is to violate Crusoe's bodily autonomy, then he finds himself in a practical contradiction,[fn:65] namely he is respecting Crusoe's bodily autonomy and trying to achieve consent from Crusoe by his act of arguing, whilst he is explicitly rejecting that Crusoe's consent is required in the first place. To escape this contradiction, Friday has two options: first, he can stop arguing and go back to fighting over it, or second, he can drop his claim that Crusoe's bodily autonomy should be violated. In this second case the mixed law or jungle ethic has trivially dropped out of rational consideration, and in the first case we have it that Friday has turned himself into an animal-beast governed only by whim---which makes his ethic irrational still.
 
 What this argument does is highlight an implicit notion we have that such jungle ethics are irrational and brutish; namely that it is simply inconsistent and hypocritical for a person to even try to assert them in an argument---that if they truly believe in their murderous creeds then why the hell aren't they living by them?
 
 ** The Objectivist Arguments Against Anarchism
-So, we have it that there are three possible solutions to the correct problem-statement of law, two of them are false, leaving us only with the non-aggression principle as the correct answer. Refer to my course on how the rest of the legal theory is derived from the NAP,[fn:65] and any Randroids in the audience who find themselves screaming about rationalism because I used deductive reasoning can feel free to sob away all they want---but if I can pierce the veil of tears for a moment, I would ask them to articulate exactly what about my preceding reasoning is incorrect, rather than just screaming about how Peikoff one time said something that sort of sounds like what they want to say.
+So, we have it that there are three possible solutions to the correct problem-statement of law, two of them are false, leaving us only with the non-aggression principle as the correct answer. Refer to my course on how the rest of the legal theory is derived from the NAP,[fn:66] and any Randroids in the audience who find themselves screaming about rationalism because I used deductive reasoning can feel free to sob away all they want---but if I can pierce the veil of tears for a moment, I would ask them to articulate exactly what about my preceding reasoning is incorrect, rather than just screaming about how Peikoff one time said something that sort of sounds like what they want to say.
 
 Regardless, I can now move onto some of the objections that the Randians have raised against anarchism. Do note that this is one area where the writing is laughably sparse, and for good reason---namely, they lack any solid theoretical objections so prefer to give a very light treatment to the topic and never with an anarcho-Objectivist there to provide counter-arguments.
 
-Rand defines government as "an institution that holds the exclusive power to enforce certain rules of social conduct in a given geographical area,"[fn:66] and on this definition, anarchism is supposed to represent a floating abstraction---i.e. an abstraction with no concrete referent:
+Rand defines government as "an institution that holds the exclusive power to enforce certain rules of social conduct in a given geographical area,"[fn:67] and on this definition, anarchism is supposed to represent a floating abstraction---i.e. an abstraction with no concrete referent:
 
 #+begin_quote
-Anarchy, as a political concept, is a naive floating abstraction: for all the reasons discussed above, a society without an organized government would be at the mercy of the first criminal who came along and who would precipitate it into the chaos of gang warfare. But the possibility of human immorality is not the only objection to anarchy: even a society whose every member were fully rational and faultlessly moral, could not function in a state of anarchy; it is the need of objective laws and of an arbiter for honest disagreements among men that necessitates the establishment of a government.[fn:67]
+Anarchy, as a political concept, is a naive floating abstraction: for all the reasons discussed above, a society without an organized government would be at the mercy of the first criminal who came along and who would precipitate it into the chaos of gang warfare. But the possibility of human immorality is not the only objection to anarchy: even a society whose every member were fully rational and faultlessly moral, could not function in a state of anarchy; it is the need of objective laws and of an arbiter for honest disagreements among men that necessitates the establishment of a government.[fn:68]
 #+end_quote
 
 First, there is the false premise that without a monopoly on rights enforcement all that is left is brute violence and gang warfare. As I have explained earlier, competing insurance firms tend to do a far better job at enforcing rights than any monopolist could hope to. Second, there is the false premise that anarchy means no objective laws or arbitration. This is a point that is frequently repeated by the Randians, and never substantiated. It is the premise that you need some monopolist to "make the law objective"---but law is /discovered/ not /produced/. Competing arbitration firms can all appeal to reality to discover what the objective legal principles are which they can then apply to some specific case. Honest disagreements can be resolved without having a monopoly on dispute resolution.
@@ -579,13 +591,13 @@ First, there is the false premise that without a monopoly on rights enforcement 
 #+begin_quote
 A recent variant of anarchistic theory, which is befuddling some of the younger advocates of freedom, is a weird absurdity called "competing governments." Accepting the basic premise of the modern statists -- who see no difference between the functions of government and the functions of industry, between force and production, and who advocate government ownership of business -- the proponents of "competing governments" take the other side of the same coin and declare that since competition is so beneficial to business, it should also be applied to government. Instead of a single, monopolistic government, they declare, there should be a number of different governments in the same geographical area, competing for the allegiance of individual citizens, with every citizen free to "shop" and to patronize whatever government he chooses.
 
-Remember that forcible restraint of men is the only service a government has to offer. Ask yourself what a competition in forcible restraint would have to mean.[fn:68]
+Remember that forcible restraint of men is the only service a government has to offer. Ask yourself what a competition in forcible restraint would have to mean.[fn:69]
 #+end_quote
 
 Indeed, if government means "an institution that holds the exclusive power to enforce certain rules of social conduct in a given geographical area," then we have successfully defined away any "competing governments" anarchism. But this does not begin to address the anarcho-capitalist case. If government must mean a monopolist, then competition in rights enforcement does not entail competing governments. Competition in this arena means that you can pay whomever you like to enforce your rights---nothing else. Rand continues with a hypothetical scenario that is supposed to demonstrate the absurdity of competition in rights enforcement:
 
 #+begin_quote
-[...] suppose Mr. Smith, a  customer of Government A, suspects that his next-door neighbor, Mr. Jones, a customer of Government B, has robbed him; a squad of Police A proceeds to Mr. Jones' house and is met at the door by a squad of Police B, who declare that they do not accept the validity of Mr. Smith's complaint and do not recognize the authority of Government A. What happens then? You take it from there.[fn:69]
+[...] suppose Mr. Smith, a  customer of Government A, suspects that his next-door neighbor, Mr. Jones, a customer of Government B, has robbed him; a squad of Police A proceeds to Mr. Jones' house and is met at the door by a squad of Police B, who declare that they do not accept the validity of Mr. Smith's complaint and do not recognize the authority of Government A. What happens then? You take it from there.[fn:70]
 #+end_quote
 
 How utterly absurd! I might as well dream up my own fantasy to dispute this theory: what if instead of Government A and B, we had just the one government; Mr. Smith and Mr. Jones each have their own friends in the government. Then Smith tells his government friends that Jones stole his wallet, and of course this must obviously lead to the great war of the wallets! Millions die in the great and bloody war for power until one side prevails and genocides those who assert the incorrect view on whether the wallet was stolen or not.
@@ -594,18 +606,18 @@ What Rand forgets in her random hypothesizing, is that hypothetical scenarios ar
 
 Peikoff has his own retorts to anarchism, which stand as being just as absurd as Rand's:
 #+begin_quote
-Anarchism is the idea that there should be no government. In Objectivist terms, this amounts to the view that every man should defend himself by using physical force against others whenever he feels like it, with no objective standards of justice, crime, or proof.[fn:70]
+Anarchism is the idea that there should be no government. In Objectivist terms, this amounts to the view that every man should defend himself by using physical force against others whenever he feels like it, with no objective standards of justice, crime, or proof.[fn:71]
 #+end_quote
 
 This is a near-explicit straw man attack on anarchism. Anarchism is the view that there should be no government--if government means a monopoly force-user--but that does not even come close to implying "that every man should defend himself by using physical force against others whenever he feels like it, with no objective standards of justice, crime, or proof." What an absolutely absurd claim that is on its face. I would be somewhat willing to excuse utter nonsense like this if it were written in a time prior to Murray Rothbard, but it wasn't---Peikoff is just openly endorsing the false alternative that either there should be a monopoly on force, or everyone should just use whatever force they want at their whim. I'm frankly shocked that he never once considered whether individual men could discover and apply philosophy on their own when it comes to the question of when the use of force is licit. Peikoff continues:
 
 #+begin_quote
-"What if an individual does not want to delegate his right of self-defense?" the anarchist frequently asks. "Isn't that a legitimate aspect of 'freedom'?" The question implies that a "free man" is one with the right to enact his desire, any desire, simply because it is his desire, including the desire to use force. This means the equation of "freedom" with whim-worship. Philosophically, the underlying premise is subjectivism (of the personal variety).[fn:71]
+"What if an individual does not want to delegate his right of self-defense?" the anarchist frequently asks. "Isn't that a legitimate aspect of 'freedom'?" The question implies that a "free man" is one with the right to enact his desire, any desire, simply because it is his desire, including the desire to use force. This means the equation of "freedom" with whim-worship. Philosophically, the underlying premise is subjectivism (of the personal variety).[fn:72]
 #+end_quote
 
 Again, the underlying premise is decidedly /not/ that a man may do /anything/ he wants simply because he wants it---the underlying premise is that a man may defend himself if he wishes or delegate this defense to anybody he sees fit. Nowhere in this claim is there any implication that people may engage in random acts of violence or use arbitrary means to defend their property. That is a patent absurdity and false alternative presented to us by the people who are supposed to have as their banner that they check premises and never accept false alternatives.
 
-The collectivist poison that Rand grafted onto her politics has yielded legion derivative errors, not least of which is her support of intellectual "property." If you want to know why that is wrong, you have to watch this video[fn:72] where I explain that every form of IP is an anathema to the objective principles of law.
+The collectivist poison that Rand grafted onto her politics has yielded legion derivative errors, not least of which is her support of intellectual "property." If you want to know why that is wrong, you have to watch this video[fn:73] where I explain that every form of IP is an anathema to the objective principles of law.
 
 * Footnotes
 
@@ -685,61 +697,61 @@ The collectivist poison that Rand grafted onto her politics has yielded legion d
 
 [fn:38]Quoted from: Leonard Peikoff, /Objectivism: The Philosophy of Ayn Rand/, p. 351
 
-[fn:39]David Kelley, /A Note to Our Members About Open Objectivism/
+[fn:39]Ayn Rand Center Europe, /Craig Biddle and Stephen Hicks Debate: Is Objectivism a "Closed System" or an "Open System"?/, https://www.youtube.com/watch?v=yxvH5eU2fic
 
-[fn:40]See, Craig Biddle, /“Ayn Rand Said” Is Not an Argument/, https://theobjectivestandard.com/2016/04/ayn-rand-said-is-not-an-argument/
+[fn:40]David Kelley, /A Note to Our Members About Open Objectivism/
 
-[fn:41]See: "Onkar Ghate & Yaron Discuss Objectivism Closed/Open; Fact/Value; Moral Sanction | Yaron Interviews," https://youtu.be/qSCUlarRBNA
+[fn:41]See, Craig Biddle, /“Ayn Rand Said” Is Not an Argument/, https://theobjectivestandard.com/2016/04/ayn-rand-said-is-not-an-argument/
 
-[fn:42]/The Primacy of Existence vs The Primacy of Consciousness/ (Brain), https://liquidzulu.github.io/brain/note/the-primacy-of-existence-vs-the-primacy-of-consciousness/
+[fn:42]See: "Onkar Ghate & Yaron Discuss Objectivism Closed/Open; Fact/Value; Moral Sanction | Yaron Interviews," https://youtu.be/qSCUlarRBNA
 
-[fn:43]Leonard Peikoff, /Objectivism: The Philosophy of Ayn Rand/, p. 97
+[fn:43]/The Primacy of Existence vs The Primacy of Consciousness/ (Brain), https://liquidzulu.github.io/brain/note/the-primacy-of-existence-vs-the-primacy-of-consciousness/
 
-[fn:44]/Conceptual Common Denominator/ (Brain), https://liquidzulu.github.io/brain/note/conceptual-common-denominator/
+[fn:44]Leonard Peikoff, /Objectivism: The Philosophy of Ayn Rand/, p. 97
 
-[fn:45]Leonard Peikoff, /Objectivism: The Philosophy of Ayn Rand/, p. 16
+[fn:45]/Conceptual Common Denominator/ (Brain), https://liquidzulu.github.io/brain/note/conceptual-common-denominator/
 
-[fn:46]/The Meaning of Objectivity/ (Brain), https://liquidzulu.github.io/brain/note/the-meaning-of-objectivity/
+[fn:46]Leonard Peikoff, /Objectivism: The Philosophy of Ayn Rand/, p. 16
 
-[fn:47]See: Ayn Rand Institute, /Aristotle: A Philosopher for Living on Earth by Leonard Peikoff, part 13 of 50/, https://www.youtube.com/watch?v=Qvl4f8l7Ctk, t. 37:18, "Aristotle is not a fully consistent representative of the primacy of existence. There is always a vestigial, contradictory Platonic element in him. But that is unimportant to him /qua/ Aristotelian, which is our primary concern."
+[fn:47]/The Meaning of Objectivity/ (Brain), https://liquidzulu.github.io/brain/note/the-meaning-of-objectivity/
 
-[fn:48]See: Ayn Rand Institute, /Aristotle: A Philosopher for Living on Earth by Leonard Peikoff, part 13 of 50/, https://www.youtube.com/watch?v=Qvl4f8l7Ctk, tt. 2:12, 4:25, 5:16
+[fn:48]See: Ayn Rand Institute, /Aristotle: A Philosopher for Living on Earth by Leonard Peikoff, part 13 of 50/, https://www.youtube.com/watch?v=Qvl4f8l7Ctk, t. 37:18, "Aristotle is not a fully consistent representative of the primacy of existence. There is always a vestigial, contradictory Platonic element in him. But that is unimportant to him /qua/ Aristotelian, which is our primary concern."
 
-[fn:49]See: Ayn Rand Institute, /The Mike Wallace Interview with Ayn Rand/, https://www.youtube.com/watch?v=lHl2PqwRcY0
+[fn:49]See: Ayn Rand Institute, /Aristotle: A Philosopher for Living on Earth by Leonard Peikoff, part 13 of 50/, https://www.youtube.com/watch?v=Qvl4f8l7Ctk, tt. 2:12, 4:25, 5:16
 
-[fn:50]Onkar Ghate, /An OAC Moment: Is Objectivism an Open or Closed System?/, https://youtu.be/0JBdBPQ4dLQ?t=200, t. 3:20
+[fn:50]See: Ayn Rand Institute, /The Mike Wallace Interview with Ayn Rand/, https://www.youtube.com/watch?v=lHl2PqwRcY0
 
-[fn:51]Ayn Rand, /To The Readers of the Objectivist Forum/, https://youtu.be/ybgCeJdd5es?t=1125
+[fn:51]Onkar Ghate, /An OAC Moment: Is Objectivism an Open or Closed System?/, https://youtu.be/0JBdBPQ4dLQ?t=200, t. 3:20
 
-[fn:52]HEAVY DUTE COLLEGE, /LEONARD PEIKOFF: MY PHILOSOPHICAL JOURNEY/, https://youtu.be/jS7-63hSG98?t=49
+[fn:52]Ayn Rand, /To The Readers of the Objectivist Forum/, https://youtu.be/ybgCeJdd5es?t=1125
 
-[fn:53]Leonard Peikoff, "Government," in id., /Objectivism: The Philosophy of Ayn Rand/, p. 350
+[fn:53]HEAVY DUTE COLLEGE, /LEONARD PEIKOFF: MY PHILOSOPHICAL JOURNEY/, https://youtu.be/jS7-63hSG98?t=49
 
-[fn:54]Ayn Rand, "Collectivized Ethics," in ead., /The Virtue of Selfishness/
+[fn:54]Leonard Peikoff, "Government," in id., /Objectivism: The Philosophy of Ayn Rand/, p. 350
 
-[fn:55]Stephan Kinsella, /Thoughts on the Latecomer and Homesteading Ideas; or, why the very idea of "ownership" implies that only libertarian principles are justifiable/.
+[fn:55]Ayn Rand, "Collectivized Ethics," in ead., /The Virtue of Selfishness/
 
-[fn:56]Recall the point about scarcity; if they have a right to control the item in question this control will necessarily exclude others from using it.
+[fn:56]Stephan Kinsella, /Thoughts on the Latecomer and Homesteading Ideas; or, why the very idea of "ownership" implies that only libertarian principles are justifiable/.
 
-[fn:57]For more on this see: N. Stephan Kinsella, "Rights-Skepticism," in idem. /Dialogical Arguments for Libertarian Rights/; LiquidZulu, "The Contradiction of Rights-Scepticism," in idem., "2. The Non-Aggression Principle," in idem., /The Fundamentals of Libertarian Ethics/, https://liquidzulu.github.io/the-nap
+[fn:57]Recall the point about scarcity; if they have a right to control the item in question this control will necessarily exclude others from using it.
 
-[fn:58]Utilitarianism would be a sub-category, where "best outcome" means "the outcome of maximal utility." Utilitarianism specifically can be shown to be false on purely economic grounds in its use of a category error with the determination of the data type of "utility," see: Kenneth A. Zahringer (2011), "Cardinal Utility: It's Worse Than You Thought," /Mises Daily/, or on philosophical grounds as with any parasitic ethics, see: Leonard Peikoff's history of modern philosophy.
+[fn:58]For more on this see: N. Stephan Kinsella, "Rights-Skepticism," in idem. /Dialogical Arguments for Libertarian Rights/; LiquidZulu, "The Contradiction of Rights-Scepticism," in idem., "2. The Non-Aggression Principle," in idem., /The Fundamentals of Libertarian Ethics/, https://liquidzulu.github.io/the-nap
 
-[fn:59]Apocalypse here is meant as a break-down in the capital structure, which is what primitivists such as Ted Kaczynski advocate for. For more on this see: LiquidZulu, /Primitivism is an Apocalyptic Ideology/.
+[fn:59]Utilitarianism would be a sub-category, where "best outcome" means "the outcome of maximal utility." Utilitarianism specifically can be shown to be false on purely economic grounds in its use of a category error with the determination of the data type of "utility," see: Kenneth A. Zahringer (2011), "Cardinal Utility: It's Worse Than You Thought," /Mises Daily/, or on philosophical grounds as with any parasitic ethics, see: Leonard Peikoff's history of modern philosophy.
 
-[fn:60]For more on this in particular see: Hans-Hermann Hoppe, Introduction to Murray Rothbard, /The Ethics of Liberty/, second edition.
+[fn:60]Apocalypse here is meant as a break-down in the capital structure, which is what primitivists such as Ted Kaczynski advocate for. For more on this see: LiquidZulu, /Primitivism is an Apocalyptic Ideology/.
 
-[fn:61]This would include 1-4; consequentialism has the class of detrimental individuals as against the class of beneficial individuals, primitivism has the class of producers as against the class of anti-producers, racism and marxism are obvious.
+[fn:61]For more on this in particular see: Hans-Hermann Hoppe, Introduction to Murray Rothbard, /The Ethics of Liberty/, second edition.
 
-[fn:62]If the ethics were compatible this would then not be one rule for $A$ and another for non-$A$, it would rather be the same fundamental principle applying to both groups, and would therefore not be a class-based ethic.
+[fn:62]This would include 1-4; consequentialism has the class of detrimental individuals as against the class of beneficial individuals, primitivism has the class of producers as against the class of anti-producers, racism and marxism are obvious.
 
-[fn:63]On this, see: Hans-Hermann Hoppe, "The Ethical Justification of Capitalism and Why Socialism is Morally Indefensible," in idem., /A Theory of Socialism and Capitalism/; N. Stephan Kinsella, /Dialogical Arguments for Libertarian Rights/; and Frank van Dun, /Argumentation Ethics and the Philosophy of Freedom/.
+[fn:63]If the ethics were compatible this would then not be one rule for $A$ and another for non-$A$, it would rather be the same fundamental principle applying to both groups, and would therefore not be a class-based ethic.
 
-[fn:64]The terms performative contradiction and dialectic contradiction are also often used here; though dialectic contradiction is really a subset of performative contradictions in general.
+[fn:64]On this, see: Hans-Hermann Hoppe, "The Ethical Justification of Capitalism and Why Socialism is Morally Indefensible," in idem., /A Theory of Socialism and Capitalism/; N. Stephan Kinsella, /Dialogical Arguments for Libertarian Rights/; and Frank van Dun, /Argumentation Ethics and the Philosophy of Freedom/.
 
-[fn:65]LiquidZulu, /The Fundamentals of Libertarian Ethics/, https://liquidzulu.github.io/libertarian-ethics
+[fn:65]The terms performative contradiction and dialectic contradiction are also often used here; though dialectic contradiction is really a subset of performative contradictions in general.
 
-[fn:66]Ayn Rand, "The Nature of Government," in ead., /The Virtue of Selfishness/
+[fn:66]LiquidZulu, /The Fundamentals of Libertarian Ethics/, https://liquidzulu.github.io/libertarian-ethics
 
 [fn:67]Ayn Rand, "The Nature of Government," in ead., /The Virtue of Selfishness/
 
@@ -747,8 +759,10 @@ The collectivist poison that Rand grafted onto her politics has yielded legion d
 
 [fn:69]Ayn Rand, "The Nature of Government," in ead., /The Virtue of Selfishness/
 
-[fn:70]Leonard Peikoff, "Statism as the Politics of Unreason," in id., /Objectivism: The Philosophy of Ayn Rand/
+[fn:70]Ayn Rand, "The Nature of Government," in ead., /The Virtue of Selfishness/
 
 [fn:71]Leonard Peikoff, "Statism as the Politics of Unreason," in id., /Objectivism: The Philosophy of Ayn Rand/
 
-[fn:72]LiquidZulu, /Why Artists Shouldn't Own Their Art/, https://www.youtube.com/watch?v=4xKjHHzLUQQ
+[fn:72]Leonard Peikoff, "Statism as the Politics of Unreason," in id., /Objectivism: The Philosophy of Ayn Rand/
+
+[fn:73]LiquidZulu, /Why Artists Shouldn't Own Their Art/, https://www.youtube.com/watch?v=4xKjHHzLUQQ
