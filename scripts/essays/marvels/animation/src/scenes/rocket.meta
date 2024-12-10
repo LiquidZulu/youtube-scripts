@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "takeoff",
+      "targetTime": 5.821894954176176
+    },
+    {
+      "name": "cut thrust",
+      "targetTime": 8.645449958781874
+    },
+    {
+      "name": "qte",
+      "targetTime": 11.908487957445317
+    },
+    {
+      "name": "qte trigger",
+      "targetTime": 14.269413112473941
+    },
+    {
+      "name": "angle of attack",
+      "targetTime": 15.035827232024666
+    },
+    {
+      "name": "final burn",
+      "targetTime": 17.035827232024666
+    },
+    {
+      "name": "fly off",
+      "targetTime": 23.01069383190211
+    }
+  ],
+  "seed": 811336517
+}

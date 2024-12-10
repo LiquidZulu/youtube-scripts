@@ -1,0 +1,7 @@
+#+title: Philosophese
+
+* Notes
+#+begin_quote
+You could reply that mathematical economics shows that economic intuition is often wrong.  I beg to differ.  My experience: When mathematical economics contradicts common sense, there’s almost always mathematical sleight of hand at work – a sneaky assumption, a stilted formalization, or bad back-translation from economath to English.
+#+end_quote
++ https://www.betonit.ai/p/economath_failshtml

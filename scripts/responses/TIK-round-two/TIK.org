@@ -1,6 +1,6 @@
 #+title: You Might Already be an Anarchist (TIK Response) | Are You Already an Anarchist? | Are you a good person? Then you are probably an anarchist. | Why You Should Be An Anarchist | Anarcho-Capitalism: Responding to the Critics
 
-* Animations [37/43]
+* Animations [38/43]
 + [X] reasons people aren't anarchists:
   1. means total chaos
      + go up and have "in an anarchist society there would be no centralised government to enforce the law, so there would be total chaos" come out
@@ -105,7 +105,7 @@
 + [X] Title: ownership \ne possession; follow with other stuff
   + "The issue with this view is that ownership--which we can define as the /right/ to possess a given scarce good--is necessarily distinct from possession. If there is some dispute between $A$ and $B$ over who should be the one to control a given property, then /both/ $A$ and $B$ must pre-suppose this to be the case. $A$ is asserting that though $B$ might be able to actually obtain control, it would nevertheless be the case that $A$ /should/ be the one to control it, and similarly $B$ is asserting that though $A$ might be able to actually obtain control, it would nevertheless be the case that $\textit{\textbf{B}}$ should be the one to actually control it."
 + [X] "the instant a man tries to defend his conduct by asserting that conflicts should not be avoided and that rights are illusory he necessarily asserts that conflicts should be avoided (when initiated against him) and that rights are real (when the thief is facing a counter-attack)."
-+ [ ] different mixed-law systems
++ [X] different mixed-law systems
 + [ ] "if Crusoe and Friday have a disagreement over how to use a spear, then each party sitting down and giving arguments as to why their use should go forth is quite distinct to each party launching missiles and trying to stab the other to death in order that their use may go forth unimpeded."
 * Why People Aren't Anarchists
 You probably do not consider yourself to be an anarchist---in fact almost everybody considers anarchism to be an ideology which is completely insane. You might have minor disagreements here and there with other people, but anarchism is surely a whole different level of wrongness.
@@ -154,7 +154,7 @@ So, on this view anarchism is an ideology that is opposed to the state, where th
 #+end_quote
 
 It is on this front that the entire problem with TIKs rejection of anarchism can be found, because the definition of public as against private that he is using is a package deal.
-
+!quote
 #+begin_quote
 “Package-dealing” is the fallacy of failing to discriminate crucial differences. It consists of treating together, as parts of a single conceptual whole or “package,” elements which differ essentially in nature, truth-status, importance or value.[fn:5]
 #+end_quote
@@ -247,6 +247,7 @@ The determinist's position amounts to the following. “My mind does not automat
 So, the Austrians are correct to embrace a methodological dualism and reject the application of the methods used to study particles and chemicals to the study of man---but not because the study of man is non-empirical. Rather, when one studies human action, he must take into account the fact of free will.
 
 This integration between Objectivism and anarcho-capitalism is not idiosyncratic either. Murray Rothbard himself was an Objectivist[fn:19] +and the link between him and Rand deserves to be re-instated on TIK's chart+.[fn:20] As he explains:
+
 #+begin_quote
 I just finished your novel today. I will start by saying that all of us in the "Circle Bastiat" are convinced, and were convinced very early in the reading, that Atlas Shrugged is the greatest novel ever written.
 
@@ -348,8 +349,6 @@ This tendency enacts a civilising process, in contrast to the decivilising one c
 
 Not only does this hypothetical free-market in defensive services have the benefits that there would tend to not be total war, the victims would be compensated rather than the aggressors, and that accordingly resources are shifted away from predation and towards production; but also even current insurance agencies already utilise free market arbitration systems rather than statist courts. These free-market dispute resolution firms would only become more effective and more broadly used without the state forcefully positioning itself as the "true" "court of the land" that may be appealed to if one does not like the just verdicts of private judges.
 
-!!!HERE!!!
-
 It is often asserted that we need this "arbiter of last resort" with monopoly power over all others for justice to be served. But the exact opposite is the case. The more independent judges are in applying their judgement to some case, the better off we are. On the one hand, the capitalist judge is at the very least /trying/ to do justice in some specific case he has before him, and on the other, the monopoly judiciary must necessarily tend towards a systematic perversion of justice by the fact that it is a monopoly. Law is not subjective or intrinsic, it cannot be decreed from on high by the standard of "he's the guy with the biggest gavel." Objective legal principles can be applied /only/ when rational men are able to use their rational judgement to do justice without the razor of Damocles that is an arbiter of last resort constantly undercutting them.
 
 One final point must be addressed here before the positive case for private defense insurance is complete: namely, in a capitalist society, what methods could free peoples utilise in order to defend themselves against state aggression? First, it is worth questioning /why/ a sovereign would wish to do this in the first place. /Who/ would they be invading? There is no competing sovereign or state in this area to direct his attacks towards, there are only freely associating people, each engaged in their own individual behaviours. These free men would tend to have not aggressed against any citizens in the invading nation, and they would tend to have not provoked any aggressions from the invaders for reasons previously stated. Any individual who was engaged in such provocation or aggression would quickly become unwelcome in the free society, forced to live on the outskirts where the state may simply arrest him without needing to invade. Furthermore, options for casus belli become quite limited without a single collective state to pin grievances onto. Any state must in some way justify its conduct to the men who would be carrying out its crimes, the justification needn't be good, but it needs to exist. There would be no terrorist attacks coming from the free people, the free people would not be seeking any expansionist wars against neighboring territories, and they would be engaged in no internal ethnic cleansings or other such "crimes against humanity" to be used as a justification for attack.
@@ -396,16 +395,15 @@ In spectral evidence, the admission of victims' conjectures is governed only by 
 #+end_quote
 
 This legal principle comes directly from the supernaturalistic metaphysics of the Puritans:
-
 #+begin_quote
 The Puritans believed that physical realities had spiritual causes. For example, if the crop failed, the Devil may have played a role---and Satan could not take the form of an unwilling person. So if anyone claimed to have seen a ghost or spirit in the form of the accused, that person must be a witch. With this worldview, it was not a stretch for Puritans to believe in spectral evidence, which was the primary evidence used as proof of guilt.[fn:35]
 #+end_quote
 
-With a false philosophy as the grounding, even the most sound legal theory cannot properly map onto reality. After all, one can imagine that even if the Puritans accepted wholeheartedly the non-aggression principle, they could simply hold that these spectral attacks initiate conflict and are thus illicit. Perhaps the Marxian completely agrees with any argument one might come forth that the only proper legal principle is non-aggression, but claim that this applies only to the bourgeoisie with their bourgeois logic---if we were so-conditioned to accept proletarian logic, we would understand that individual property rights are illusory and that the proper meaning of liberty involves total obedience to the collective.
+With a false philosophy as the grounding, even the most sound legal theory cannot properly map onto reality. After all, one can imagine that even if the Puritans accepted wholeheartedly the non-aggression principle, they could simply hold that these spectral attacks initiate conflict and are thus illicit. Perhaps the Marxian completely agrees with any argument one might come forth with that the only proper legal principle is non-aggression, but claim that this applies only to the bourgeoisie with their bourgeois logic---if we were so-conditioned to accept proletarian logic, we would understand that individual property rights are illusory and that the proper meaning of liberty involves total obedience to the collective.
 
 ** Rand's Politics
 *** Value vs Force
-Now, before elaborating on why Objectivism properly understood yields anarcho-capitalism, it is worth going over the case Rand gives for her--decidedly not anarchistic--politics. Before I can give a proper case for politics as Rand sees it, I must establish a more fundamental ethical principle, which I agree with Rand on: namely that the initiation of force is a moral evil.[fn:36]
+So anarcho-capitalism requires Objectivism. Now, before elaborating on why Objectivism properly understood yields anarcho-capitalism, it is worth going over the case Rand gives for her--decidedly not anarchistic--politics. Before I can give a proper case for politics as Rand sees it, I must establish a more fundamental ethical principle, which I agree with Rand on: namely that the initiation of force is a moral evil.[fn:36]
 
 The justification of this principle on Objectivist grounds is that the mind cannot work under compulsion---in order to make a man act against his judgement you must nullify his judgement. This is what is meant by the use of force. There would be no reason to force a man to do what he was already planning to do---insofar as you are actually forcing him, you must be making him act /against/ his own rational judgement, i.e. you are making him act as his own destroyer. What this means is that force and value are entirely opposed to each other---you can have either one or the other.
 
@@ -431,7 +429,7 @@ A so-called positive right would be something like my having a right to healthca
 Accordingly, Rand defined a right as "a moral principle defining and sanctioning a man's freedom of action in a social context."[fn:38] A right is a /moral/ principle because it stands as the precondition for a society to be a value to man; it defines and sanctions mans "freedom of action" because it is and must be negative; it does so in a social context because there is no society to protect man from without said context.
 
 ** Open vs Closed
-Now that I have elucidated the Objectivist politics--at least briefly--I must turn to my dispute with it, which impinges upon a great schism within the Objectivism movement: namely, the debate over whether Objectivism is an open or closed system. If Objectivism is a closed system, that is, if it is just whatever beliefs in philosophy that Ayn Rand held, then it can never develop or shift from the moment of her death. In this case, the preceding analysis of Rand's politics /is/ the Objectivist politics. If, on the other hand, Objectivism is an open system, then "Ayn Rand said so" cannot stand as an argument for the preceding analysis being the /Objectivist/ politics.
+Now that I have elucidated the Objectivist politics--at least briefly--I must turn to my dispute with it, which impinges upon a great schism within the Objectivist movement: namely, the debate over whether Objectivism is an open or closed system. If Objectivism is a closed system, that is, if it is just whatever beliefs in philosophy that Ayn Rand held, then it can never develop or shift from the moment of her death. In this case, the preceding analysis of Rand's politics /is/ the Objectivist politics. If, on the other hand, Objectivism is an open system, then "Ayn Rand said so" cannot stand as an argument for the preceding analysis being the /Objectivist/ politics.
 
 Let me first state that I am not going to give the standard case for Objectivism being an open system as forwarded by Stephen Hicks. I think that Craig Biddle gave an unanswerable objection to Hicks' presentation of open Objectivism in their debate.[fn:39] Namely: Hicks has it that Objectivism means true philosophy---this is a frozen abstraction and must therefore be entirely disallowed within our conceptual framework. Objectivism is not a science, it is a particular philosophical theory.
 
@@ -439,7 +437,8 @@ I do want to be clear here because this debate often gets fairly heated; I hold 
 
 The primacy of existence is basically the view that existence is the most fundamental fact. That /first/ one must have it that existence exists, /then/ one can recognise that they are conscious of it. To explain this view, it is worth contrasting it with the opposing view---the primacy of consciousness. One form of this is found in Descartes' /cogito ergo sum/---I think, /therefore/ I am. The starting point for Descartes is an "I think," not an "it is." Another form of it is found in the religious viewpoint that reality requires a cause, and that this cause must be the consciousness they call God. This is also the primacy of consciousness---supernatural thoughts are held as the fundamental which comes before reality.
 
-If you are interested in why the primacy of existence is true, I refer you to this wiki article[fn:43] I wrote on the subject. Regardless, to justify the claim that Objectivism means the philosophy of the primacy of consciousness, let me consult the standard Objectivist account of definition; namely, that a definition is a statement that identifies the nature of a concept's units:
+If you are interested in why the primacy of existence is true, I refer you to this wiki article[fn:43] I wrote on the subject. Regardless, to justify the claim that Objectivism means the philosophy of the primacy of existence, let me consult the standard Objectivist account of definition; namely, that a definition is a statement that identifies the nature of a concept's units:
+
 #+begin_quote
 A proper definition is made of two parts, each of which follows from the nature of concept-formation. When we form a concept, we isolate its units by grasping a distinguishing characteristic. In the definition, this becomes what the medieval Aristotelians called the differentia. Further, we can differentiate only on the basis of a wider characteristic, the [conceptual common-denominator], which is shared both by the concretes we are isolating and by the concretes from which we are isolating them. In the definition, this gives rise to the genus.
 
@@ -597,7 +596,7 @@ Remember that forcible restraint of men is the only service a government has to 
 Indeed, if government means "an institution that holds the exclusive power to enforce certain rules of social conduct in a given geographical area," then we have successfully defined away any "competing governments" anarchism. But this does not begin to address the anarcho-capitalist case. If government must mean a monopolist, then competition in rights enforcement does not entail competing governments. Competition in this arena means that you can pay whomever you like to enforce your rights---nothing else. Rand continues with a hypothetical scenario that is supposed to demonstrate the absurdity of competition in rights enforcement:
 
 #+begin_quote
-[...] suppose Mr. Smith, a  customer of Government A, suspects that his next-door neighbor, Mr. Jones, a customer of Government B, has robbed him; a squad of Police A proceeds to Mr. Jones' house and is met at the door by a squad of Police B, who declare that they do not accept the validity of Mr. Smith's complaint and do not recognize the authority of Government A. What happens then? You take it from there.[fn:70]
+[...] suppose Mr. Smith, a customer of Government A, suspects that his next-door neighbor, Mr. Jones, a customer of Government B, has robbed him; a squad of Police A proceeds to Mr. Jones' house and is met at the door by a squad of Police B, who declare that they do not accept the validity of Mr. Smith's complaint and do not recognize the authority of Government A. What happens then? You take it from there.[fn:70]
 #+end_quote
 
 How utterly absurd! I might as well dream up my own fantasy to dispute this theory: what if instead of Government A and B, we had just the one government; Mr. Smith and Mr. Jones each have their own friends in the government. Then Smith tells his government friends that Jones stole his wallet, and of course this must obviously lead to the great war of the wallets! Millions die in the great and bloody war for power until one side prevails and genocides those who assert the incorrect view on whether the wallet was stolen or not.

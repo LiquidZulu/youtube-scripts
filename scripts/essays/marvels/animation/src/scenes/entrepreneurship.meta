@@ -1,0 +1,154 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "indications",
+      "targetTime": 3.6969697616007298
+    },
+    {
+      "name": "economic calculation out",
+      "targetTime": 5.09696976160073
+    },
+    {
+      "name": "computer",
+      "targetTime": 6.3969697616007295
+    },
+    {
+      "name": "equation",
+      "targetTime": 13.167686368790648
+    },
+    {
+      "name": "uncertain supply and demand",
+      "targetTime": 18.718449209239036
+    },
+    {
+      "name": "entrepreneurship",
+      "targetTime": 29.482095238710365
+    },
+    {
+      "name": "second point",
+      "targetTime": 42.567264119000484
+    },
+    {
+      "name": "entrepreneur failing to respond to market",
+      "targetTime": 55.205089640927945
+    },
+    {
+      "name": "losing money",
+      "targetTime": 63.188561860775955
+    },
+    {
+      "name": "steve",
+      "targetTime": 71.74612267342586
+    },
+    {
+      "name": "blackberry",
+      "targetTime": 78.40768271633786
+    },
+    {
+      "name": "market share",
+      "targetTime": 80.87316753371728
+    },
+    {
+      "name": "transition",
+      "targetTime": 86.32637560920305
+    },
+    {
+      "name": "best people",
+      "targetTime": 91.79521221452553
+    },
+    {
+      "name": "opportunity cost",
+      "targetTime": 96.35781999886825
+    },
+    {
+      "name": "opportunity cost refers to...",
+      "targetTime": 99.90922132777713
+    },
+    {
+      "name": "opportunity cost visualiser",
+      "targetTime": 106.08062825144398
+    },
+    {
+      "name": "indicate iphone",
+      "targetTime": 108.73867415986274
+    },
+    {
+      "name": "can only be used for one end",
+      "targetTime": 114.4459253874492
+    },
+    {
+      "name": "no macs",
+      "targetTime": 117.38745945732478
+    },
+    {
+      "name": "no ipods",
+      "targetTime": 119.88280246766374
+    },
+    {
+      "name": "only jobs",
+      "targetTime": 126.34562814253107
+    },
+    {
+      "name": "dead companies",
+      "targetTime": 128.55904878573523
+    },
+    {
+      "name": "risk reward",
+      "targetTime": 133.2956096677321
+    },
+    {
+      "name": "apple plays it safer",
+      "targetTime": 136.6956096677321
+    },
+    {
+      "name": "blackberry and nokia",
+      "targetTime": 140.22804541104807
+    },
+    {
+      "name": "modern ipod",
+      "targetTime": 149.5430990352901
+    },
+    {
+      "name": "modern blackberry",
+      "targetTime": 151.2184152335077
+    },
+    {
+      "name": "b-roll in",
+      "targetTime": 158.56513864458753
+    },
+    {
+      "name": "profits <-> losses",
+      "targetTime": 192.80286934216105
+    },
+    {
+      "name": "actual market conditions",
+      "targetTime": 196.82838008924156
+    },
+    {
+      "name": "free choice of capitalists",
+      "targetTime": 204.31266569130779
+    },
+    {
+      "name": "central planner",
+      "targetTime": 208.16164879207858
+    },
+    {
+      "name": "central planning bureau",
+      "targetTime": 213.01176580397788
+    },
+    {
+      "name": "questions",
+      "targetTime": 217.6503599494475
+    },
+    {
+      "name": "because of questions",
+      "targetTime": 217.6503599494475
+    },
+    {
+      "name": "end",
+      "targetTime": 231.76894215921533
+    }
+  ],
+  "seed": 134533042
+}

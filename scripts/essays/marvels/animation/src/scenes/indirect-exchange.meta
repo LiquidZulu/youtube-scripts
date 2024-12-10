@@ -1,0 +1,138 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "divide",
+      "targetTime": 4.3789117164332385
+    },
+    {
+      "name": "barter",
+      "targetTime": 6.164382875601662
+    },
+    {
+      "name": "carrots for pears",
+      "targetTime": 7.164382875601662
+    },
+    {
+      "name": "John",
+      "targetTime": 7.6396401450023905
+    },
+    {
+      "name": "Sally",
+      "targetTime": 7.836532442325549
+    },
+    {
+      "name": "John gives carrots",
+      "targetTime": 13.485481297852765
+    },
+    {
+      "name": "Sally gives pears",
+      "targetTime": 15.194200910314752
+    },
+    {
+      "name": "double coincidence of wants",
+      "targetTime": 17.795163430098956
+    },
+    {
+      "name": "preferences",
+      "targetTime": 19.457099856548194
+    },
+    {
+      "name": "John reverse preference",
+      "targetTime": 25.266951142054655
+    },
+    {
+      "name": "tractor for carrots",
+      "targetTime": 34.241050875592
+    },
+    {
+      "name": "John thinks tractor",
+      "targetTime": 35.241050875592
+    },
+    {
+      "name": "Doug appears",
+      "targetTime": 37.060190599517576
+    },
+    {
+      "name": "attempted trade",
+      "targetTime": 38.79116366278628
+    },
+    {
+      "name": "Doug refuses",
+      "targetTime": 41.05375349934132
+    },
+    {
+      "name": "Doug preference",
+      "targetTime": 42.59367678471025
+    },
+    {
+      "name": "Doug doesn't prefer that",
+      "targetTime": 45.42739493560259
+    },
+    {
+      "name": "carrots for salt",
+      "targetTime": 57.81689103544758
+    },
+    {
+      "name": "cant trade carrots for salt",
+      "targetTime": 62.60322655454969
+    },
+    {
+      "name": "many trades",
+      "targetTime": 71.11535171413699
+    },
+    {
+      "name": "media of exchange",
+      "targetTime": 83.88719944557889
+    },
+    {
+      "name": "many media of exchange",
+      "targetTime": 92.82412397160081
+    },
+    {
+      "name": "how many exchanges?",
+      "targetTime": 100.76553637480414
+    },
+    {
+      "name": "money",
+      "targetTime": 105.81551878979724
+    },
+    {
+      "name": "trades out",
+      "targetTime": 124.0690477019756
+    },
+    {
+      "name": "lines of production",
+      "targetTime": 125.51904770197561
+    },
+    {
+      "name": "profit",
+      "targetTime": 132.59839536175286
+    },
+    {
+      "name": "incentive",
+      "targetTime": 135.20439315923457
+    },
+    {
+      "name": "ion exchange",
+      "targetTime": 142.22100302875174
+    },
+    {
+      "name": "remove lop",
+      "targetTime": 150.72615079907598
+    },
+    {
+      "name": "economic calculation",
+      "targetTime": 155.42448145063182
+    },
+    {
+      "name": "maximise profit",
+      "targetTime": 178.4930688727084
+    },
+    {
+      "name": "end",
+      "targetTime": 180.13288525908246
+    }
+  ],
+  "seed": 2627265546
+}

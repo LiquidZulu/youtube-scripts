@@ -1,8 +1,9 @@
-import { makeProject, FullSceneDescription } from "@motion-canvas/core";
+import { makeProject } from "@motion-canvas/core";
 import { ValueDispatcher } from "@motion-canvas/core/lib/events";
 import { quoteScenes } from "./scenes/quotes";
 import makeFootnote from "mcas/lib/scenes/footnote";
 
+import example from "./scenes/example?scene";
 import hierarchyOfPhilosophy from "./scenes/hierarchy-of-philosophy?scene";
 import example from "./scenes/example?scene";
 import reasonsPeopleArentAnarchists from "./scenes/reasons-people-arent-anarchists?scene";
@@ -43,7 +44,7 @@ import mixedLawSystems from "./scenes/mixed-law-systems?scene";
 
 export default makeProject({
   scenes: [
-    mixedLawSystems,
+    //mixedLawSystems,
     //rightsScepticism,
     //ownershipNePossession,
     //merePossessor,
@@ -64,7 +65,7 @@ export default makeProject({
     //wrongToDefineStateCoercive,
     //stateMonopolyUseForce,
     //primarySecondaryQualityDistinction,
-    //sensualistSenseImpressions,
+    sensualistSenseImpressions,
     //materialism,
     //abstraction,
     //collectiveReal,
@@ -85,19 +86,19 @@ export default makeProject({
   ],
 });
 
-const footnotesScenes = new Array(999)
-  .fill(0)
-  .map((_, i) => i + 1)
-  .filter((x) => x > 91)
-  .map((footnoteNumber) => ({
-    footnoteNumber,
-    scene: makeFootnote(footnoteNumber),
-  }))
-  .map(({ scene, footnoteNumber }) => {
-    const description = scene as FullSceneDescription;
-    description.name = `footnotes/footnote-${footnoteNumber}`;
-    description.onReplaced = new ValueDispatcher<FullSceneDescription>(
-      description.config as any,
-    );
-    return description;
-  });
+// const footnotesScenes = new Array(999)
+//   .fill(0)
+//   .map((_, i) => i + 1)
+//   .filter((x) => x > 91)
+//   .map((footnoteNumber) => ({
+//     footnoteNumber,
+//     scene: makeFootnote(footnoteNumber),
+//   }))
+//   .map(({ scene, footnoteNumber }) => {
+//     const description = scene as FullSceneDescription;
+//     description.name = `footnotes/footnote-${footnoteNumber}`;
+//     description.onReplaced = new ValueDispatcher<FullSceneDescription>(
+//       description.config as any,
+//     );
+//     return description;
+//   });

@@ -1,0 +1,46 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "annotate 0",
+      "targetTime": 4.979937711637149
+    },
+    {
+      "name": "indicate components",
+      "targetTime": 6.87547652407709
+    },
+    {
+      "name": "indicate labour",
+      "targetTime": 8.27547652407709
+    },
+    {
+      "name": "FOP",
+      "targetTime": 10.027927642181695
+    },
+    {
+      "name": "annotate 1",
+      "targetTime": 11.269770930261227
+    },
+    {
+      "name": "annotate 2",
+      "targetTime": 15.658431423680005
+    },
+    {
+      "name": "chains of inputs",
+      "targetTime": 22.128701076433423
+    },
+    {
+      "name": "lines of production",
+      "targetTime": 26.794111538109263
+    },
+    {
+      "name": "just microchips",
+      "targetTime": 28.05900636050431
+    },
+    {
+      "name": "end",
+      "targetTime": 33.901390335145315
+    }
+  ],
+  "seed": 4032538207
+}

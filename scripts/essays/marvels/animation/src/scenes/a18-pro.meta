@@ -1,0 +1,94 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "microchips",
+      "targetTime": 1.048186224698869
+    },
+    {
+      "name": "spin",
+      "targetTime": 6.8514324850982575
+    },
+    {
+      "name": "brain",
+      "targetTime": 9.157488242972429
+    },
+    {
+      "name": "transistors",
+      "targetTime": 10.766666666666637
+    },
+    {
+      "name": "computations",
+      "targetTime": 14.719422323108374
+    },
+    {
+      "name": "computations done",
+      "targetTime": 18.024084931152828
+    },
+    {
+      "name": "thumbnail",
+      "targetTime": 19.024084931152828
+    },
+    {
+      "name": "work day and night",
+      "targetTime": 21.224010766989565
+    },
+    {
+      "name": "600 years",
+      "targetTime": 28.2143312196859
+    },
+    {
+      "name": "day night end",
+      "targetTime": 29.847169023225298
+    },
+    {
+      "name": "fabrication plant",
+      "targetTime": 31.789375184670853
+    },
+    {
+      "name": "wafer zoom",
+      "targetTime": 36.249095762752354
+    },
+    {
+      "name": "manufacturing chip",
+      "targetTime": 39.91328437544536
+    },
+    {
+      "name": "manufacturing part dos",
+      "targetTime": 47.35565546748463
+    },
+    {
+      "name": "indicate machines",
+      "targetTime": 52.51719584119495
+    },
+    {
+      "name": "millions upon millions of individuals",
+      "targetTime": 62.34958257812883
+    },
+    {
+      "name": "religions",
+      "targetTime": 69.61482914710962
+    },
+    {
+      "name": "language",
+      "targetTime": 72.96514221937676
+    },
+    {
+      "name": "iphone",
+      "targetTime": 82.7823662259029
+    },
+    {
+      "name": "components",
+      "targetTime": 85.00714680214564
+    },
+    {
+      "name": "time",
+      "targetTime": 88.21657071511422
+    },
+    {
+      "name": "end",
+      "targetTime": 92.42236732753285
+    }
+  ],
+  "seed": 2467431462
+}

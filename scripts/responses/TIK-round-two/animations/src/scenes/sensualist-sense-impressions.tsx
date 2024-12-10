@@ -67,7 +67,7 @@ export default makeScene2D(function* (view) {
   const eye = new Vector2([350, -93]);
   const origin = new Vector2([-1920 / 2 - 50, -50]);
   const n = 100;
-  const steps = 200;
+  const steps = 100;
 
   const eyeNode = createRef<Rect>();
 
@@ -119,7 +119,6 @@ export default makeScene2D(function* (view) {
     );
 
     for (let j = 0; j < steps; ++j) {
-      console.log(pseudoPos.get(qualia[i]).relative);
       if (
         !brainLocus(
           vectorSum(
@@ -147,7 +146,7 @@ export default makeScene2D(function* (view) {
       });
 
       qualiaYield.push(
-        qualia[i].position(pseudoPos.get(qualia[i]).relative, 1 / 10, linear),
+        qualia[i].position(pseudoPos.get(qualia[i]).relative, 1 / 20, linear),
       );
     }
 
