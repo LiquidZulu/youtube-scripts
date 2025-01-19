@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "ancap -> obism",
+      "targetTime": 0.6892221909459009
+    },
+    {
+      "name": "obism -> ancap",
+      "targetTime": 5.709401101866775
+    },
+    {
+      "name": "out",
+      "targetTime": 8.833400261264085
+    },
+    {
+      "name": "rand out breaker breaker",
+      "targetTime": 21.323730500485233
+    }
+  ],
+  "seed": 3873736248
+}

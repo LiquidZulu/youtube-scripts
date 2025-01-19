@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "h1",
+      "targetTime": 0.9485543656578721
+    },
+    {
+      "name": "h2",
+      "targetTime": 33.21269948339027
+    },
+    {
+      "name": "highlight out",
+      "targetTime": 46.75379298491024
+    },
+    {
+      "name": "other page",
+      "targetTime": 51.42354075980106
+    },
+    {
+      "name": "end",
+      "targetTime": 85.28802661234387
+    }
+  ],
+  "seed": 992007998
+}

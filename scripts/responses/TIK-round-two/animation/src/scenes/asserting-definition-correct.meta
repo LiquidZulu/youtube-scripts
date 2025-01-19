@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "nominalist",
+      "targetTime": 7.372532252427589
+    },
+    {
+      "name": "end",
+      "targetTime": 13.745797978736473
+    },
+    {
+      "name": "blank",
+      "targetTime": 27.60132116717473
+    }
+  ],
+  "seed": 2358561159
+}

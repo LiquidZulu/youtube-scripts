@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "indicate result",
+      "targetTime": 1.1
+    },
+    {
+      "name": "indicate system itself",
+      "targetTime": 3.2442729304351685
+    },
+    {
+      "name": "effect",
+      "targetTime": 6.4782346505663835
+    },
+    {
+      "name": "cause",
+      "targetTime": 8.470604239350614
+    },
+    {
+      "name": "indicate cause",
+      "targetTime": 14.855080531898663
+    },
+    {
+      "name": "indicate effect",
+      "targetTime": 18.683329691542227
+    },
+    {
+      "name": "end",
+      "targetTime": 36.75453241836894
+    }
+  ],
+  "seed": 903977622
+}

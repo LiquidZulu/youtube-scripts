@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "ancap -> objectivism",
+      "targetTime": 6.377755943980144
+    },
+    {
+      "name": "objectivism -> ancap",
+      "targetTime": 12.261561511818933
+    },
+    {
+      "name": "indicate sound legal theory",
+      "targetTime": 18.416988056883163
+    },
+    {
+      "name": "end",
+      "targetTime": 21.32912618387507
+    }
+  ],
+  "seed": 1912649188
+}

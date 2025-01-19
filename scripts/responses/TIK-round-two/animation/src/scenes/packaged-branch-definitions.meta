@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "metaphysics",
+      "targetTime": 0
+    },
+    {
+      "name": "epistemology",
+      "targetTime": 4.065044303495852
+    },
+    {
+      "name": "ethics",
+      "targetTime": 7.678592479378215
+    },
+    {
+      "name": "politics",
+      "targetTime": 11.809776106027016
+    },
+    {
+      "name": "out",
+      "targetTime": 24.92197879463845
+    }
+  ],
+  "seed": 2363896834
+}

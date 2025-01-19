@@ -1,0 +1,62 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "how much allocated",
+      "targetTime": 8.897106378276442
+    },
+    {
+      "name": "in what forms",
+      "targetTime": 13.648773082668837
+    },
+    {
+      "name": "hangun 4 every 1",
+      "targetTime": 15.52083402487293
+    },
+    {
+      "name": "armed guards",
+      "targetTime": 17.38395979152947
+    },
+    {
+      "name": "police patrols",
+      "targetTime": 19.667065210401823
+    },
+    {
+      "name": "list out",
+      "targetTime": 24.66460997871988
+    },
+    {
+      "name": "wiki",
+      "targetTime": 30.42299845548157
+    },
+    {
+      "name": "browser out",
+      "targetTime": 33.73388442054021
+    },
+    {
+      "name": "deter out",
+      "targetTime": 46.307854081901255
+    },
+    {
+      "name": "blank",
+      "targetTime": 68.8464294224357
+    },
+    {
+      "name": "capitalists",
+      "targetTime": 71.60943903024207
+    },
+    {
+      "name": "commies",
+      "targetTime": 79.79675455914715
+    },
+    {
+      "name": "both collectivists",
+      "targetTime": 86.82730207772096
+    },
+    {
+      "name": "end",
+      "targetTime": 90.89632671938116
+    }
+  ],
+  "seed": 1776220297
+}

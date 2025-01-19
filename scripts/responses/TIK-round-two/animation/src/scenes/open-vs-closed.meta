@@ -1,0 +1,30 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "title up",
+      "targetTime": 4.333232630071192
+    },
+    {
+      "name": "indicate closed",
+      "targetTime": 5.333232630071192
+    },
+    {
+      "name": "show closed",
+      "targetTime": 7.014441906573214
+    },
+    {
+      "name": "indicate open",
+      "targetTime": 21.56137071903408
+    },
+    {
+      "name": "show open",
+      "targetTime": 22.56137071903408
+    },
+    {
+      "name": "end",
+      "targetTime": 29.343360135684698
+    }
+  ],
+  "seed": 2427747813
+}

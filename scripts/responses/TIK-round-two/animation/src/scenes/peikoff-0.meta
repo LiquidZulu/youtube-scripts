@@ -1,0 +1,10 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "quote",
+      "targetTime": 37.74458901841428
+    }
+  ],
+  "seed": 2052907438
+}

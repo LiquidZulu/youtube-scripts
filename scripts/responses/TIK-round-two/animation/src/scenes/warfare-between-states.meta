@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "indicate states",
+      "targetTime": 10.346295290084413
+    },
+    {
+      "name": "out",
+      "targetTime": 20.499745896561805
+    },
+    {
+      "name": "blank",
+      "targetTime": 81.8404811569754
+    }
+  ],
+  "seed": 3518312729
+}

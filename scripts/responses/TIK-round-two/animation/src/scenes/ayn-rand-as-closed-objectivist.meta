@@ -1,0 +1,42 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "rand as closed objectivist",
+      "targetTime": 8.1338822904169
+    },
+    {
+      "name": "rand said so is not an argument",
+      "targetTime": 19.253344800908526
+    },
+    {
+      "name": "scroll",
+      "targetTime": 26.477558957934995
+    },
+    {
+      "name": "stream",
+      "targetTime": 22.337076282094042
+    },
+    {
+      "name": "my innovations",
+      "targetTime": 31.74580874766717
+    },
+    {
+      "name": "course scroll",
+      "targetTime": 38.44488736090943
+    },
+    {
+      "name": "broader abstraction",
+      "targetTime": 44.92761764782656
+    },
+    {
+      "name": "out",
+      "targetTime": 56.92516630904102
+    },
+    {
+      "name": "end",
+      "targetTime": 68.72522641053543
+    }
+  ],
+  "seed": 953651253
+}

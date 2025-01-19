@@ -1,0 +1,102 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "indicate darwin",
+      "targetTime": 4.421406222666015
+    },
+    {
+      "name": "indicate einstein",
+      "targetTime": 6.433104108074886
+    },
+    {
+      "name": "evolution",
+      "targetTime": 8.672501469615867
+    },
+    {
+      "name": "general relativity",
+      "targetTime": 9.672501469615867
+    },
+    {
+      "name": "not closed",
+      "targetTime": 14.060537766570935
+    },
+    {
+      "name": "out",
+      "targetTime": 20.976244995095364
+    },
+    {
+      "name": "blackhole zoom",
+      "targetTime": 37.65457151773536
+    },
+    {
+      "name": "other words",
+      "targetTime": 47.08190937970573
+    },
+    {
+      "name": "obism",
+      "targetTime": 47.70784787934992
+    },
+    {
+      "name": "evolutionn",
+      "targetTime": 49.607829303263976
+    },
+    {
+      "name": "general relativityy",
+      "targetTime": 50.535270536625816
+    },
+    {
+      "name": "ray",
+      "targetTime": 51.89388356495154
+    },
+    {
+      "name": "non analogous",
+      "targetTime": 59.250357598006005
+    },
+    {
+      "name": "wait for it!",
+      "targetTime": 60.38473589379467
+    },
+    {
+      "name": "philosophy",
+      "targetTime": 62.07098819762236
+    },
+    {
+      "name": "bilogy",
+      "targetTime": 65.92457668655636
+    },
+    {
+      "name": "physics",
+      "targetTime": 66.94494527642253
+    },
+    {
+      "name": "evo",
+      "targetTime": 67.94494527642253
+    },
+    {
+      "name": "gen",
+      "targetTime": 68.60466318219257
+    },
+    {
+      "name": "obi",
+      "targetTime": 73.64917592913996
+    },
+    {
+      "name": "outt",
+      "targetTime": 76.60006248041755
+    },
+    {
+      "name": "blackhole zoomm",
+      "targetTime": 87.40858069389563
+    },
+    {
+      "name": "show quote",
+      "targetTime": 83.71691955594905
+    },
+    {
+      "name": "quoteshowing",
+      "targetTime": 169.75210677100512
+    }
+  ],
+  "seed": 2681229133
+}

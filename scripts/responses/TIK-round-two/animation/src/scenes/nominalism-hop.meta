@@ -1,0 +1,30 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "nominalism",
+      "targetTime": 3.3792896739584304
+    },
+    {
+      "name": "nominalist arguments",
+      "targetTime": 6.214803346067305
+    },
+    {
+      "name": "ancient greece",
+      "targetTime": 9.645671345249221
+    },
+    {
+      "name": "hobbes",
+      "targetTime": 15.391001242358648
+    },
+    {
+      "name": "comes onto the scene",
+      "targetTime": 17.600753224485054
+    },
+    {
+      "name": "end",
+      "targetTime": 23.213995412851222
+    }
+  ],
+  "seed": 2435772444
+}

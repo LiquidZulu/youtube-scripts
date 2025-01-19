@@ -1,0 +1,50 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "rights illusory",
+      "targetTime": 1.674963959485952
+    },
+    {
+      "name": "conflict change",
+      "targetTime": 4.270523885273963
+    },
+    {
+      "name": "rights change",
+      "targetTime": 7.410148726293114
+    },
+    {
+      "name": "animal beast",
+      "targetTime": 15.451778561570098
+    },
+    {
+      "name": "vid out",
+      "targetTime": 24.435106360387127
+    },
+    {
+      "name": "flash metaphysics",
+      "targetTime": 31.358953945712827
+    },
+    {
+      "name": "flash epistemology",
+      "targetTime": 32.35895394571283
+    },
+    {
+      "name": "flash ethics",
+      "targetTime": 51.57915312187301
+    },
+    {
+      "name": "flash epistemology again",
+      "targetTime": 53.096694865560494
+    },
+    {
+      "name": "flash metaphysics again",
+      "targetTime": 67.21274371111774
+    },
+    {
+      "name": "hop out",
+      "targetTime": 73.58686688637002
+    }
+  ],
+  "seed": 3327093975
+}

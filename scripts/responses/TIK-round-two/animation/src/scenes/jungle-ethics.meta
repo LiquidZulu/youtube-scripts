@@ -1,0 +1,42 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "law of jungle",
+      "targetTime": 6.003586258698312
+    },
+    {
+      "name": "anarchism thesis",
+      "targetTime": 8.945452358959747
+    },
+    {
+      "name": "might makes right",
+      "targetTime": 21.29460706007286
+    },
+    {
+      "name": "natural law",
+      "targetTime": 35.8365826601098
+    },
+    {
+      "name": "ancom",
+      "targetTime": 45.23796402331459
+    },
+    {
+      "name": "contradiction",
+      "targetTime": 47.86908669122944
+    },
+    {
+      "name": "egregore",
+      "targetTime": 56.1865929035961
+    },
+    {
+      "name": "denies individual",
+      "targetTime": 63.37405055526678
+    },
+    {
+      "name": "end",
+      "targetTime": 75.92155407775745
+    }
+  ],
+  "seed": 128198468
+}

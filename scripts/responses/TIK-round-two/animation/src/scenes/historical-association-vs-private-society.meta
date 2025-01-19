@@ -1,0 +1,38 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "indicate society",
+      "targetTime": 2.634681297151415
+    },
+    {
+      "name": "rule other groups",
+      "targetTime": 5.858866620997642
+    },
+    {
+      "name": "capitalist society",
+      "targetTime": 9.187670269792346
+    },
+    {
+      "name": "each person state",
+      "targetTime": 14.318322521677633
+    },
+    {
+      "name": "indicate interactions",
+      "targetTime": 20.58921227022818
+    },
+    {
+      "name": "state encompassing entire private society",
+      "targetTime": 24.76537267162997
+    },
+    {
+      "name": "subjects",
+      "targetTime": 31.236301889840888
+    },
+    {
+      "name": "end",
+      "targetTime": 34.42335080984151
+    }
+  ],
+  "seed": 3422431533
+}

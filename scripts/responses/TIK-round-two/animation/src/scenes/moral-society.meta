@@ -1,0 +1,62 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "randian politics",
+      "targetTime": 4.070139834844813
+    },
+    {
+      "name": "code of values",
+      "targetTime": 9.92815569693726
+    },
+    {
+      "name": "society value",
+      "targetTime": 13.94060598723317
+    },
+    {
+      "name": "politics",
+      "targetTime": 18.464653381898483
+    },
+    {
+      "name": "collective real",
+      "targetTime": 24.977007234597803
+    },
+    {
+      "name": "individual",
+      "targetTime": 29.432577544442736
+    },
+    {
+      "name": "both opaque",
+      "targetTime": 33.35692764123666
+    },
+    {
+      "name": "indicate society",
+      "targetTime": 33.35692764123666
+    },
+    {
+      "name": "indicate individuals",
+      "targetTime": 39.165654519093
+    },
+    {
+      "name": "end",
+      "targetTime": 52.82587381951321
+    },
+    {
+      "name": "individual ",
+      "targetTime": 59.611804818918664
+    },
+    {
+      "name": "inalienable",
+      "targetTime": 68.04347538518113
+    },
+    {
+      "name": "rights meaning",
+      "targetTime": 83.00259554564198
+    },
+    {
+      "name": "positive rights",
+      "targetTime": 90.67567649727549
+    }
+  ],
+  "seed": 1830113385
+}

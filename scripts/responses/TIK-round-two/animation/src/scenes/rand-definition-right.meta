@@ -1,0 +1,30 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "definition",
+      "targetTime": 1.183333333333334
+    },
+    {
+      "name": "moral principle",
+      "targetTime": 8.300826741224773
+    },
+    {
+      "name": "freedom of action",
+      "targetTime": 14.532809624947557
+    },
+    {
+      "name": "social",
+      "targetTime": 18.604515160259126
+    },
+    {
+      "name": "def out",
+      "targetTime": 24.00143208974563
+    },
+    {
+      "name": "rand out breaker breaker",
+      "targetTime": 32.57940461109929
+    }
+  ],
+  "seed": 1880654763
+}

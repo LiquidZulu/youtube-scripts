@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "show anarchism subtitle",
+      "targetTime": 3.4947442474141006
+    },
+    {
+      "name": "show ancap",
+      "targetTime": 13.341952665276212
+    },
+    {
+      "name": "problem of law",
+      "targetTime": 19.01961619356778
+    },
+    {
+      "name": "scarcity",
+      "targetTime": 23.464769762314752
+    },
+    {
+      "name": "out",
+      "targetTime": 24.464769762314752
+    }
+  ],
+  "seed": 1754370490
+}

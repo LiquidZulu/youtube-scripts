@@ -1,0 +1,94 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "crusoe walks in",
+      "targetTime": 3.0982329144260192
+    },
+    {
+      "name": "makes spear",
+      "targetTime": 7.039002993083683
+    },
+    {
+      "name": "goes to ocean",
+      "targetTime": 8.670992039766766
+    },
+    {
+      "name": "friday zoom",
+      "targetTime": 10.784823231878468
+    },
+    {
+      "name": "friday run",
+      "targetTime": 15.37350749737001
+    },
+    {
+      "name": "indicate crusoe",
+      "targetTime": 24.257004728248102
+    },
+    {
+      "name": "indicate friday",
+      "targetTime": 30.48001829450645
+    },
+    {
+      "name": "friday wants it!",
+      "targetTime": 32.42525577339134
+    },
+    {
+      "name": "elder",
+      "targetTime": 35.86202334822166
+    },
+    {
+      "name": "indicate himself",
+      "targetTime": 45.23837509910281
+    },
+    {
+      "name": "indicate elder",
+      "targetTime": 46.42119963885535
+    },
+    {
+      "name": "deity",
+      "targetTime": 47.42119963885535
+    },
+    {
+      "name": "justified because authority",
+      "targetTime": 54.255589602044076
+    },
+    {
+      "name": "legal authoritarian",
+      "targetTime": 55.96276645098434
+    },
+    {
+      "name": "legal anarchist",
+      "targetTime": 58.01960642364126
+    },
+    {
+      "name": "beach away",
+      "targetTime": 59.961762818129785
+    },
+    {
+      "name": "arbitrary decrees",
+      "targetTime": 66.32901188090337
+    },
+    {
+      "name": "law is natural",
+      "targetTime": 70.73342778820887
+    },
+    {
+      "name": "which man more peaceful?",
+      "targetTime": 76.46632292528251
+    },
+    {
+      "name": "indicate crusoe as peaceful",
+      "targetTime": 80.93123771154264
+    },
+    {
+      "name": "anarchism = peaceful",
+      "targetTime": 90.68378535859283
+    },
+    {
+      "name": "end",
+      "targetTime": 93.1402763074664
+    }
+  ],
+  "seed": 141345127
+}

@@ -1,0 +1,50 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "public",
+      "targetTime": 4.148887226759973
+    },
+    {
+      "name": "browser",
+      "targetTime": 7.026769432610815
+    },
+    {
+      "name": "highlight",
+      "targetTime": 8.60833333333334
+    },
+    {
+      "name": "show packages",
+      "targetTime": 20.470836179643438
+    },
+    {
+      "name": "show private",
+      "targetTime": 24.684381811028814
+    },
+    {
+      "name": "show public",
+      "targetTime": 30.34347027123444
+    },
+    {
+      "name": "fadeout full",
+      "targetTime": 32.90475025691596
+    },
+    {
+      "name": "indicate big business",
+      "targetTime": 37.26686538668857
+    },
+    {
+      "name": "indicate central banks",
+      "targetTime": 39.015058606918295
+    },
+    {
+      "name": "indicate state",
+      "targetTime": 40.16469725096424
+    },
+    {
+      "name": "fade out",
+      "targetTime": 42.61621848950515
+    }
+  ],
+  "seed": 3420977802
+}

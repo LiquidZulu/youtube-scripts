@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "capitalism -> anarchism",
+      "targetTime": 4.150308969867675
+    },
+    {
+      "name": "statement 1",
+      "targetTime": 5.715078926805538
+    },
+    {
+      "name": "statement 2",
+      "targetTime": 11.728109884357966
+    },
+    {
+      "name": "statement 3",
+      "targetTime": 13.298095292868299
+    },
+    {
+      "name": "statement 4",
+      "targetTime": 24.184308666131976
+    }
+  ],
+  "seed": 1249124291
+}

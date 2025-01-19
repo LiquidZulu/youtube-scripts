@@ -1,0 +1,30 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "quote",
+      "targetTime": 84.6579366490673
+    },
+    {
+      "name": "methods for particles",
+      "targetTime": 88.97914480386301
+    },
+    {
+      "name": "not because non-empirical",
+      "targetTime": 92.68248972424578
+    },
+    {
+      "name": "must account for free will",
+      "targetTime": 95.38810586843297
+    },
+    {
+      "name": "not idiosyncratic",
+      "targetTime": 100.04983705556982
+    },
+    {
+      "name": "end",
+      "targetTime": 106.62114425554823
+    }
+  ],
+  "seed": 2587607150
+}

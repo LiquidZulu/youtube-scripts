@@ -1,0 +1,38 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "crossed out",
+      "targetTime": 0.5551097597490846
+    },
+    {
+      "name": "AO",
+      "targetTime": 2.788246542851014
+    },
+    {
+      "name": "insane",
+      "targetTime": 6.270545451861979
+    },
+    {
+      "name": "ao out",
+      "targetTime": 13.58931712984651
+    },
+    {
+      "name": "reasons to not be anarchist",
+      "targetTime": 15.930485700337057
+    },
+    {
+      "name": "first reason",
+      "targetTime": 20.90995867086384
+    },
+    {
+      "name": "typical claim",
+      "targetTime": 23.73635577502665
+    },
+    {
+      "name": "end",
+      "targetTime": 29.524102616364264
+    }
+  ],
+  "seed": 2884040690
+}

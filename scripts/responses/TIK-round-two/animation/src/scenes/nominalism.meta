@@ -1,0 +1,42 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "show things",
+      "targetTime": 2.128063819155087
+    },
+    {
+      "name": "no universals",
+      "targetTime": 11.063357126707256
+    },
+    {
+      "name": "creates universals",
+      "targetTime": 15.421408108950438
+    },
+    {
+      "name": "no definitions",
+      "targetTime": 25.439824453463643
+    },
+    {
+      "name": "definitions not true or false",
+      "targetTime": 37.434350517189316
+    },
+    {
+      "name": "no general principles",
+      "targetTime": 45.24619081689866
+    },
+    {
+      "name": "general principles arbitrary",
+      "targetTime": 53.616036409013134
+    },
+    {
+      "name": "mere semantic disagreement",
+      "targetTime": 61.832001592327586
+    },
+    {
+      "name": "end",
+      "targetTime": 71.11110267239297
+    }
+  ],
+  "seed": 2645527785
+}

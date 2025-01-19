@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "show list",
+      "targetTime": 1
+    },
+    {
+      "name": "second point",
+      "targetTime": 3.7792855496253885
+    },
+    {
+      "name": "end",
+      "targetTime": 7.088170641765167
+    },
+    {
+      "name": "blank",
+      "targetTime": 19.61439518791112
+    }
+  ],
+  "seed": 1876030325
+}

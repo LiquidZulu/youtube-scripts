@@ -1,0 +1,46 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "words conform to conceptual faculty",
+      "targetTime": 5.235397250730198
+    },
+    {
+      "name": "indicate concept",
+      "targetTime": 20.925196337340978
+    },
+    {
+      "name": "indicate out there",
+      "targetTime": 22.490573186747888
+    },
+    {
+      "name": "symbol for concept",
+      "targetTime": 25.60742297122809
+    },
+    {
+      "name": "perceptually graspable",
+      "targetTime": 27.244836689315644
+    },
+    {
+      "name": "sight gone",
+      "targetTime": 29.528902005463035
+    },
+    {
+      "name": "aid",
+      "targetTime": 35.224281681378145
+    },
+    {
+      "name": "hinder",
+      "targetTime": 37.27737506429314
+    },
+    {
+      "name": "rays out",
+      "targetTime": 38.66106761905777
+    },
+    {
+      "name": "end",
+      "targetTime": 44.91834768614821
+    }
+  ],
+  "seed": 2267800764
+}

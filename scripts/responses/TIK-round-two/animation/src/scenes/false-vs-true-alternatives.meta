@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "reason vs empirical",
+      "targetTime": 2.5769608783043045
+    },
+    {
+      "name": "conceptual vs perceptual",
+      "targetTime": 7.613085666134156
+    },
+    {
+      "name": "general vs particular",
+      "targetTime": 9.77657885737789
+    },
+    {
+      "name": "things out",
+      "targetTime": 11.357371903991107
+    },
+    {
+      "name": "blank",
+      "targetTime": 33.6178125850859
+    }
+  ],
+  "seed": 2011086004
+}

@@ -1,0 +1,50 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "deal with risk",
+      "targetTime": 7.941450701047724
+    },
+    {
+      "name": "first",
+      "targetTime": 12.272547847933897
+    },
+    {
+      "name": "second",
+      "targetTime": 14.870503677347
+    },
+    {
+      "name": "indicate 2",
+      "targetTime": 17.70479523474967
+    },
+    {
+      "name": "only 2",
+      "targetTime": 20.62313702914451
+    },
+    {
+      "name": "can't insure agianst risks",
+      "targetTime": 25.260504230448614
+    },
+    {
+      "name": "fire insurance",
+      "targetTime": 29.650119402041526
+    },
+    {
+      "name": "non-discriminatory insurance",
+      "targetTime": 38.188509915514054
+    },
+    {
+      "name": "provoked aggression",
+      "targetTime": 41.6833166767166
+    },
+    {
+      "name": "conflict-avoiding norms",
+      "targetTime": 46.567583649577436
+    },
+    {
+      "name": "out",
+      "targetTime": 53.85858592422436
+    }
+  ],
+  "seed": 1208027644
+}

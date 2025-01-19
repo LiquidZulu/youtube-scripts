@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "reason 2",
+      "targetTime": 6.976105246711558
+    },
+    {
+      "name": "reason 3",
+      "targetTime": 11.327331723559622
+    },
+    {
+      "name": "conflict displayed",
+      "targetTime": 12.987626052058854
+    },
+    {
+      "name": "stoke fire",
+      "targetTime": 16.485571961590995
+    },
+    {
+      "name": "one action excludes the other",
+      "targetTime": 19.34807861760424
+    },
+    {
+      "name": "they are mutually-exclusive",
+      "targetTime": 21.683224040892362
+    },
+    {
+      "name": "end",
+      "targetTime": 23.38843742355364
+    }
+  ],
+  "seed": 99328993
+}

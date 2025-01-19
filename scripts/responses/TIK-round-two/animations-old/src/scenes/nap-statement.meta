@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "aggression def",
+      "targetTime": 6.071218272111877
+    },
+    {
+      "name": "Friday aggressor",
+      "targetTime": 14.388935379962787
+    },
+    {
+      "name": "~NAP = legal authoritarianism",
+      "targetTime": 19.259724482579717
+    },
+    {
+      "name": "end",
+      "targetTime": 27.524063150097792
+    },
+    {
+      "name": "blank",
+      "targetTime": 43.19389192666701
+    }
+  ],
+  "seed": 2316026795
+}

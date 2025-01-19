@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "free capitalists",
+      "targetTime": 7.581535026589772
+    },
+    {
+      "name": "invading state",
+      "targetTime": 12.521783139163173
+    },
+    {
+      "name": "out",
+      "targetTime": 20.558245069871756
+    }
+  ],
+  "seed": 2003754472
+}

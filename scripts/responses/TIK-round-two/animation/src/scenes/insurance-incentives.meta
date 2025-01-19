@@ -1,0 +1,86 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "incentive",
+      "targetTime": 5.095991033528055
+    },
+    {
+      "name": "heavily restricted",
+      "targetTime": 12.075954921457392
+    },
+    {
+      "name": "no warchest",
+      "targetTime": 21.82346105788678
+    },
+    {
+      "name": "incentive to prevent crime",
+      "targetTime": 36.36743544893366
+    },
+    {
+      "name": "statist method",
+      "targetTime": 49.749278184142234
+    },
+    {
+      "name": "out",
+      "targetTime": 63.07723708480963
+    },
+    {
+      "name": "less risk",
+      "targetTime": 66.9876111310708
+    },
+    {
+      "name": "increasing risk",
+      "targetTime": 70.21433919564159
+    },
+    {
+      "name": "back",
+      "targetTime": 74.37699662297308
+    },
+    {
+      "name": "low risk high value",
+      "targetTime": 75.49668875159809
+    },
+    {
+      "name": "good",
+      "targetTime": 77.0268073014457
+    },
+    {
+      "name": "high risk low value",
+      "targetTime": 82.06325773779459
+    },
+    {
+      "name": "bad",
+      "targetTime": 84.53252177901385
+    },
+    {
+      "name": "tendency",
+      "targetTime": 88.41621310643815
+    },
+    {
+      "name": "productive individuals moving",
+      "targetTime": 89.91256152719784
+    },
+    {
+      "name": "indicate good",
+      "targetTime": 92.57644027519076
+    },
+    {
+      "name": "indicate bad",
+      "targetTime": 93.64818493488636
+    },
+    {
+      "name": "invert curve",
+      "targetTime": 94.83777212264262
+    },
+    {
+      "name": "shifting resources",
+      "targetTime": 103.87749775525423
+    },
+    {
+      "name": "end",
+      "targetTime": 107.42116441763355
+    }
+  ],
+  "seed": 745168469
+}

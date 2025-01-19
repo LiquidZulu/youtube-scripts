@@ -1,0 +1,82 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "right question",
+      "targetTime": 4.721041864239918
+    },
+    {
+      "name": "problem requiring answer",
+      "targetTime": 6.5851445927567065
+    },
+    {
+      "name": "out",
+      "targetTime": 10.398137089766195
+    },
+    {
+      "name": "keep going",
+      "targetTime": 20.546396105212274
+    },
+    {
+      "name": "stick out",
+      "targetTime": 19.446268591472972
+    },
+    {
+      "name": "crusoe walks in",
+      "targetTime": 21.51408926883004
+    },
+    {
+      "name": "makes spear",
+      "targetTime": 24.48527568114044
+    },
+    {
+      "name": "goes to ocean",
+      "targetTime": 25.812919285631917
+    },
+    {
+      "name": "friday zoom",
+      "targetTime": 28.873982418304156
+    },
+    {
+      "name": "friday run",
+      "targetTime": 30.875951924663145
+    },
+    {
+      "name": "no snuck premises",
+      "targetTime": 44.750578816678875
+    },
+    {
+      "name": "means scarce",
+      "targetTime": 50.780987631741326
+    },
+    {
+      "name": "ethics can answer",
+      "targetTime": 54.2140922453813
+    },
+    {
+      "name": "individual level",
+      "targetTime": 56.79977601753991
+    },
+    {
+      "name": "answers",
+      "targetTime": 61.97988404737482
+    },
+    {
+      "name": "law of jungle",
+      "targetTime": 65.07318965089601
+    },
+    {
+      "name": "mixed law",
+      "targetTime": 68.58696051806382
+    },
+    {
+      "name": "nap",
+      "targetTime": 71.89224675999715
+    },
+    {
+      "name": "end",
+      "targetTime": 73.76513369915006
+    }
+  ],
+  "seed": 3881745033
+}

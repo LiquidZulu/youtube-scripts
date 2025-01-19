@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "epistemology",
+      "targetTime": 24.606547409638893
+    },
+    {
+      "name": "out",
+      "targetTime": 54.03454774354477
+    },
+    {
+      "name": "unique to objectivism",
+      "targetTime": 62.59138634239575
+    },
+    {
+      "name": "meaning of objectivity",
+      "targetTime": 64.92033033842365
+    },
+    {
+      "name": "highlight",
+      "targetTime": 71.01791333354696
+    },
+    {
+      "name": "aristotle",
+      "targetTime": 74.78296685301676
+    },
+    {
+      "name": "end",
+      "targetTime": 88.6937854275864
+    }
+  ],
+  "seed": 3394986156
+}

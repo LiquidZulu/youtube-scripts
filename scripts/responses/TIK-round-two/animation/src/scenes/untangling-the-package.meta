@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "indicate bigness",
+      "targetTime": 8.208269209538617
+    },
+    {
+      "name": "throw out bigness",
+      "targetTime": 20.142089696043882
+    },
+    {
+      "name": "indicate aggression",
+      "targetTime": 22.500724839898147
+    },
+    {
+      "name": "end",
+      "targetTime": 35.28455643301186
+    }
+  ],
+  "seed": 3990602279
+}

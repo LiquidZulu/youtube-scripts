@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "genus",
+      "targetTime": 4.491948172190519
+    },
+    {
+      "name": "differentia",
+      "targetTime": 13.339454454869546
+    },
+    {
+      "name": "end",
+      "targetTime": 22.144873633356113
+    }
+  ],
+  "seed": 1589818186
+}

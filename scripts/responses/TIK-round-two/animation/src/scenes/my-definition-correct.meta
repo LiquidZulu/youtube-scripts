@@ -1,0 +1,118 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "genus",
+      "targetTime": 4.477636274290624
+    },
+    {
+      "name": "differentia",
+      "targetTime": 6.327501719577912
+    },
+    {
+      "name": "not frozen abstraction",
+      "targetTime": 10.302167620475736
+    },
+    {
+      "name": "true on definition",
+      "targetTime": 18.391913411958843
+    },
+    {
+      "name": "true because poe true",
+      "targetTime": 27.01605942372943
+    },
+    {
+      "name": "plato",
+      "targetTime": 34.81787868314101
+    },
+    {
+      "name": "end",
+      "targetTime": 60.75480332385949
+    },
+    {
+      "name": "opar",
+      "targetTime": 67.15250900659125
+    },
+    {
+      "name": "opar out",
+      "targetTime": 73.82084293754544
+    },
+    {
+      "name": "scroll",
+      "targetTime": 94.23704168643599
+    },
+    {
+      "name": "browser out",
+      "targetTime": 93.13919214022003
+    },
+    {
+      "name": "progression",
+      "targetTime": 95.67591267225737
+    },
+    {
+      "name": "early rand",
+      "targetTime": 100.9493603653385
+    },
+    {
+      "name": "late rand",
+      "targetTime": 104.70429553719914
+    },
+    {
+      "name": "sin",
+      "targetTime": 109.58029347745688
+    },
+    {
+      "name": "stop sin",
+      "targetTime": 116.20558655942432
+    },
+    {
+      "name": "progress out",
+      "targetTime": 116.07158156488804
+    },
+    {
+      "name": "listing definition",
+      "targetTime": 124.26996144796215
+    },
+    {
+      "name": "man rational animal",
+      "targetTime": 137.91661301823572
+    },
+    {
+      "name": "rational",
+      "targetTime": 138.29261767019958
+    },
+    {
+      "name": "in the genus homo",
+      "targetTime": 139.64887759962346
+    },
+    {
+      "name": "indicate homo",
+      "targetTime": 140.86263153761948
+    },
+    {
+      "name": "arms and legs",
+      "targetTime": 141.66243031883963
+    },
+    {
+      "name": "ears",
+      "targetTime": 142.96243031883964
+    },
+    {
+      "name": "nose",
+      "targetTime": 143.35261174892673
+    },
+    {
+      "name": "skin",
+      "targetTime": 143.75127244093002
+    },
+    {
+      "name": "man out",
+      "targetTime": 148.48836657158512
+    },
+    {
+      "name": "theend",
+      "targetTime": 158.81833607184842
+    }
+  ],
+  "seed": 4097391471
+}

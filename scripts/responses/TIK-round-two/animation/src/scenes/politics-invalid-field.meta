@@ -1,0 +1,66 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "wrong question",
+      "targetTime": 9.320995397599
+    },
+    {
+      "name": "politics invalid",
+      "targetTime": 17.501721017579374
+    },
+    {
+      "name": "peikoff",
+      "targetTime": 21.604282837450306
+    },
+    {
+      "name": "peikoff quote",
+      "targetTime": 25.226198665504363
+    },
+    {
+      "name": "quote1 in",
+      "targetTime": 29.67037411273012
+    },
+    {
+      "name": "quote",
+      "targetTime": 48.850317077420016
+    },
+    {
+      "name": "quote1",
+      "targetTime": 73.907135521415
+    },
+    {
+      "name": "grafted onto problem statement",
+      "targetTime": 76.38245987431736
+    },
+    {
+      "name": "collectivist deviation",
+      "targetTime": 90.40170742648242
+    },
+    {
+      "name": "good",
+      "targetTime": 102.02113984457947
+    },
+    {
+      "name": "bad",
+      "targetTime": 103.33013970436596
+    },
+    {
+      "name": "proper",
+      "targetTime": 103.81128217971133
+    },
+    {
+      "name": "improper",
+      "targetTime": 104.2118966900597
+    },
+    {
+      "name": "back",
+      "targetTime": 105.02118312517055
+    },
+    {
+      "name": "out",
+      "targetTime": 108.36114579446233
+    }
+  ],
+  "seed": 4190172113
+}

@@ -1,0 +1,70 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "absurd",
+      "targetTime": 1.5441890281685136
+    },
+    {
+      "name": "examine premise",
+      "targetTime": 6.038753681922416
+    },
+    {
+      "name": "show list",
+      "targetTime": 8.508691566529441
+    },
+    {
+      "name": "man has free will",
+      "targetTime": 9.508691566529441
+    },
+    {
+      "name": "if potd is evasion",
+      "targetTime": 15.296254212497832
+    },
+    {
+      "name": "if potd is thought",
+      "targetTime": 21.41670523564735
+    },
+    {
+      "name": "state not required to civilise brutes",
+      "targetTime": 27.944467063186103
+    },
+    {
+      "name": "out",
+      "targetTime": 41.83592181744281
+    },
+    {
+      "name": "anti-productive class",
+      "targetTime": 47.24435076368189
+    },
+    {
+      "name": "state maximise price",
+      "targetTime": 56.2471706171287
+    },
+    {
+      "name": "squiggly out",
+      "targetTime": 61.129152264057694
+    },
+    {
+      "name": "principle of government",
+      "targetTime": 62.3291522640577
+    },
+    {
+      "name": "state tends towards expropriation",
+      "targetTime": 72.3739845761572
+    },
+    {
+      "name": "sovereign self-interest",
+      "targetTime": 76.57420211381871
+    },
+    {
+      "name": "tends to minimise resources",
+      "targetTime": 82.28200017160091
+    },
+    {
+      "name": "end",
+      "targetTime": 93.63683758959625
+    }
+  ],
+  "seed": 3844805370
+}

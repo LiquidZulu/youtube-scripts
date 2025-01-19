@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "state as public hierarchy",
+      "targetTime": 3.9489915382697984
+    },
+    {
+      "name": "public vs private standard",
+      "targetTime": 6.554635682476656
+    },
+    {
+      "name": "gone",
+      "targetTime": 10.144088596040085
+    },
+    {
+      "name": "blank",
+      "targetTime": 16.374836530092196
+    }
+  ],
+  "seed": 942415639
+}

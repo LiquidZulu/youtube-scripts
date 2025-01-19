@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "praxeology",
+      "targetTime": 2.923504093180033
+    },
+    {
+      "name": "thymology",
+      "targetTime": 4.108165878874337
+    },
+    {
+      "name": "thymologysub",
+      "targetTime": 5.3081658788743376
+    },
+    {
+      "name": "praxeologsub",
+      "targetTime": 8.607211672948338
+    },
+    {
+      "name": "end",
+      "targetTime": 13.483454264609222
+    }
+  ],
+  "seed": 3335741752
+}

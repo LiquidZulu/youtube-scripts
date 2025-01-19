@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "404",
+      "targetTime": 7.081149993531882
+    },
+    {
+      "name": "browser gone",
+      "targetTime": 25.072964099702805
+    },
+    {
+      "name": "blank",
+      "targetTime": 126.30192879691134
+    }
+  ],
+  "seed": 2112188010
+}

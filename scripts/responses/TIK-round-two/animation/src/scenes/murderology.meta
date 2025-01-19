@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "question asked",
+      "targetTime": 1.766003975595411
+    },
+    {
+      "name": "murder value",
+      "targetTime": 4.937247070982508
+    },
+    {
+      "name": "out",
+      "targetTime": 15.362178466667473
+    }
+  ],
+  "seed": 595096131
+}

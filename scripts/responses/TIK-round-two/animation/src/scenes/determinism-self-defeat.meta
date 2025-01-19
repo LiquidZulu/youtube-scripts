@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "determinist must believe it",
+      "targetTime": 2.7553712162142254
+    },
+    {
+      "name": "non-determinist must too",
+      "targetTime": 11.638663927054314
+    },
+    {
+      "name": "man can believe errors",
+      "targetTime": 14.88900594102082
+    },
+    {
+      "name": "gone",
+      "targetTime": 30.524043738042437
+    }
+  ],
+  "seed": 119009615
+}

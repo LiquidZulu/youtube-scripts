@@ -1,0 +1,54 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "not true philosophy",
+      "targetTime": 3.38897441729607
+    },
+    {
+      "name": "closed",
+      "targetTime": 6.8955944033699605
+    },
+    {
+      "name": "mine",
+      "targetTime": 11.345142143856052
+    },
+    {
+      "name": "out",
+      "targetTime": 13.966298367845273
+    },
+    {
+      "name": "first blah blah",
+      "targetTime": 20.416455444605965
+    },
+    {
+      "name": "contrast",
+      "targetTime": 26.967448449639576
+    },
+    {
+      "name": "cogito ergo sum",
+      "targetTime": 31.2585338377317
+    },
+    {
+      "name": "starting point for descartes",
+      "targetTime": 37.03304084894433
+    },
+    {
+      "name": "other example",
+      "targetTime": 41.50217238140347
+    },
+    {
+      "name": "supernatural thoughts",
+      "targetTime": 51.23166689352767
+    },
+    {
+      "name": "poe out",
+      "targetTime": 55.44133402085702
+    },
+    {
+      "name": "end",
+      "targetTime": 59.97633194767279
+    }
+  ],
+  "seed": 1671950328
+}

@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "standard of definitions",
+      "targetTime": 6.908669005133461
+    },
+    {
+      "name": "objectively correct or incorrect",
+      "targetTime": 10.55132306474886
+    },
+    {
+      "name": "epistemology employed",
+      "targetTime": 14.800987507046385
+    },
+    {
+      "name": "end",
+      "targetTime": 19.171566135544104
+    },
+    {
+      "name": "blank",
+      "targetTime": 32.91548722466528
+    }
+  ],
+  "seed": 4050849546
+}

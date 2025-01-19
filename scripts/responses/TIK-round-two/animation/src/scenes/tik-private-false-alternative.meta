@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "group",
+      "targetTime": 5.532894725014
+    },
+    {
+      "name": "infection with collectivism",
+      "targetTime": 6.817340594417263
+    },
+    {
+      "name": "individualism vs collectivism",
+      "targetTime": 9.123492051442337
+    },
+    {
+      "name": "small vs big",
+      "targetTime": 12.562512068779055
+    },
+    {
+      "name": "end",
+      "targetTime": 14.085382184736403
+    }
+  ],
+  "seed": 2840551089
+}

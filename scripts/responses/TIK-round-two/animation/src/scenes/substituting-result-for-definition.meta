@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "indicate result",
+      "targetTime": 1.1
+    },
+    {
+      "name": "indicate definition",
+      "targetTime": 3.6315673464325524
+    },
+    {
+      "name": "cause",
+      "targetTime": 8.820505039189001
+    },
+    {
+      "name": "effect",
+      "targetTime": 11.466637103754636
+    },
+    {
+      "name": "end",
+      "targetTime": 14.008127416987467
+    }
+  ],
+  "seed": 1222687202
+}

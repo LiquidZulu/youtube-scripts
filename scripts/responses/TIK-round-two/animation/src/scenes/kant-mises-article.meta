@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "a priori reasoning",
+      "targetTime": 4.207980355152861
+    },
+    {
+      "name": "most robust",
+      "targetTime": 6.164290215169812
+    },
+    {
+      "name": "praxeology doesnt work on kant",
+      "targetTime": 10.800149718232584
+    },
+    {
+      "name": "browser gone",
+      "targetTime": 14.54045557792715
+    },
+    {
+      "name": "man gone",
+      "targetTime": 25.10677635445216
+    }
+  ],
+  "seed": 2806116270
+}

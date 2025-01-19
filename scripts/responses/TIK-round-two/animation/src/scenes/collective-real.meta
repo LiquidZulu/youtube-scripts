@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "browser gone",
+      "targetTime": 3.0229036535666167
+    },
+    {
+      "name": "collective real",
+      "targetTime": 6.022903653566617
+    },
+    {
+      "name": "individual",
+      "targetTime": 8.617688698433998
+    },
+    {
+      "name": "both opaque",
+      "targetTime": 12.339003725976175
+    },
+    {
+      "name": "end",
+      "targetTime": 24.02170144600864
+    }
+  ],
+  "seed": 4098961102
+}

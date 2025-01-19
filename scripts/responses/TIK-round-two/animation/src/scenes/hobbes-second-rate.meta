@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "axioms",
+      "targetTime": 3.2700881460486553
+    },
+    {
+      "name": "lemmas",
+      "targetTime": 5.467686683849534
+    },
+    {
+      "name": "indicate axioms",
+      "targetTime": 9.901664675550329
+    },
+    {
+      "name": "platonists",
+      "targetTime": 20.745854458926377
+    },
+    {
+      "name": "out",
+      "targetTime": 26.736507506643253
+    }
+  ],
+  "seed": 3395237907
+}

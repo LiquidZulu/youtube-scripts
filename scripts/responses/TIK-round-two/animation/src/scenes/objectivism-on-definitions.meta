@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "definition meaning",
+      "targetTime": 8.72299113267714
+    },
+    {
+      "name": "out",
+      "targetTime": 12.86523597346554
+    },
+    {
+      "name": "quote",
+      "targetTime": 85.77505233363725
+    }
+  ],
+  "seed": 595041454
+}

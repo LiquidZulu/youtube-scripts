@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "legal positivism",
+      "targetTime": 2.5471583383825775
+    },
+    {
+      "name": "state aggression fine",
+      "targetTime": 11.151531938666242
+    },
+    {
+      "name": "end",
+      "targetTime": 15.175689252928919
+    },
+    {
+      "name": "b-roll",
+      "targetTime": 44.55577600780532
+    }
+  ],
+  "seed": 3602347384
+}

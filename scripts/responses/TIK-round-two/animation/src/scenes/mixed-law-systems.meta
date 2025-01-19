@@ -1,0 +1,102 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "explanation",
+      "targetTime": 3.040364819651702
+    },
+    {
+      "name": "reduction",
+      "targetTime": 7.928332688944411
+    },
+    {
+      "name": "mixed law systems",
+      "targetTime": 16.389353335235512
+    },
+    {
+      "name": "in: Consequentialism",
+      "targetTime": 24.76648809668537
+    },
+    {
+      "name": "in: Racism",
+      "targetTime": 31.0157212157744
+    },
+    {
+      "name": "in: Marxism",
+      "targetTime": 37.223901282914866
+    },
+    {
+      "name": "in: Primitivism",
+      "targetTime": 43.24458680949386
+    },
+    {
+      "name": "in: Monarchism",
+      "targetTime": 48.400555360904015
+    },
+    {
+      "name": "in: Democratism",
+      "targetTime": 54.45170878203067
+    },
+    {
+      "name": "in: Rawlsianism",
+      "targetTime": 61.58529229711757
+    },
+    {
+      "name": "in: Imperialism",
+      "targetTime": 69.52668349144176
+    },
+    {
+      "name": "highlight first chunk",
+      "targetTime": 82.50724569356244
+    },
+    {
+      "name": "highlight second chunk",
+      "targetTime": 89.03528794438468
+    },
+    {
+      "name": "latter falls",
+      "targetTime": 96.1948052164363
+    },
+    {
+      "name": "glow",
+      "targetTime": 101.33046440066573
+    },
+    {
+      "name": "out",
+      "targetTime": 106.77849124079002
+    },
+    {
+      "name": "non-a",
+      "targetTime": 110.1794255532487
+    },
+    {
+      "name": "indicate a",
+      "targetTime": 115.71764406385934
+    },
+    {
+      "name": "indicate non-a",
+      "targetTime": 118.70777789981335
+    },
+    {
+      "name": "universal principle",
+      "targetTime": 124.39425150270303
+    },
+    {
+      "name": "particular subset",
+      "targetTime": 127.89035535163903
+    },
+    {
+      "name": "humans",
+      "targetTime": 136.87974712326854
+    },
+    {
+      "name": "subhumans",
+      "targetTime": 138.108800247811
+    },
+    {
+      "name": "outa",
+      "targetTime": 147.49125599891494
+    }
+  ],
+  "seed": 714487604
+}

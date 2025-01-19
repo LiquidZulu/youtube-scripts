@@ -1,0 +1,14 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "contradiction",
+      "targetTime": 1.4638803120604347
+    },
+    {
+      "name": "out",
+      "targetTime": 3.1352860268847484
+    }
+  ],
+  "seed": 1758222465
+}

@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "quote",
+      "targetTime": 35.5205453142131
+    },
+    {
+      "name": "possible cut",
+      "targetTime": 37.074667790064275
+    },
+    {
+      "name": "thesis",
+      "targetTime": 40.90685730298862
+    },
+    {
+      "name": "posited",
+      "targetTime": 46.979987414098915
+    },
+    {
+      "name": "false alternative",
+      "targetTime": 54.69794355928116
+    },
+    {
+      "name": "out",
+      "targetTime": 68.27474929280558
+    },
+    {
+      "name": "blank",
+      "targetTime": 150.40052062832052
+    }
+  ],
+  "seed": 972308199
+}

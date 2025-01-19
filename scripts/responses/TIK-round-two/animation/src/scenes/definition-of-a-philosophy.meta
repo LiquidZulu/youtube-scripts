@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "no abstraction",
+      "targetTime": 7.982310274658638
+    },
+    {
+      "name": "objectivism is a philosophy",
+      "targetTime": 16.481788272784755
+    },
+    {
+      "name": "end",
+      "targetTime": 26.317022038851682
+    }
+  ],
+  "seed": 4245782477
+}
