@@ -145,7 +145,7 @@ export default makeScene2D(function* (view) {
         {chunked.map((r: Array<[TxtProps, string]>, chunkN) => (
           <Rect ref={chunks} gap={6} direction="column">
             {r.map(([name, desc], i) => (
-              <Rect ref={entries} gap={6}>
+              <Rect ref={entries} gap={18}>
                 <Txt
                   ref={nums}
                   fontFamily="sans"
@@ -242,39 +242,46 @@ export default makeScene2D(function* (view) {
 
   view.add(
     <Rect
-      end={0}
-      ref={arect}
       layout
+      width={1920}
+      height={1080}
       alignItems="center"
       justifyContent="space-evenly"
-      width={1920 * 0.9}
-      height={1080 * 0.9}
-      stroke={acol}
-      lineWidth={15}
-      radius={160}
-      fill={() => acol().lerp(view.fill() as Color, 0.9)}
-      direction="column"
     >
-      <Txt
-        scale={0}
-        ref={a}
-        glow
-        fill={acol}
-        fontFamily="cubano"
-        fontSize={200}
+      <Rect
+        end={0}
+        ref={arect}
+        alignItems="center"
+        justifyContent="space-evenly"
+        width="45%"
+        height="90%"
+        stroke={acol}
+        lineWidth={15}
+        radius={160}
+        fill={() => acol().lerp(view.fill() as Color, 0.9)}
+        direction="column"
       >
-        a
-      </Txt>
+        <Txt
+          scale={0}
+          ref={a}
+          glow
+          fill={acol}
+          fontFamily="cubano"
+          fontSize={100}
+        >
+          a
+        </Txt>
+      </Rect>
       <Rect
         end={0}
         ref={brect}
         alignItems="center"
         justifyContent="center"
-        width="90%"
-        height="50%"
+        width="45%"
+        height="90%"
         stroke={bcol}
         lineWidth={15}
-        radius={100}
+        radius={160}
         fill={() => bcol().lerp(view.fill() as Color, 0.9)}
       >
         <Txt
@@ -283,7 +290,7 @@ export default makeScene2D(function* (view) {
           glow
           fill={bcol}
           fontFamily="cubano"
-          fontSize={200}
+          fontSize={100}
         >
           non-a
         </Txt>
@@ -326,8 +333,16 @@ export default makeScene2D(function* (view) {
   yield* waitUntil("outa");
   yield* sequence(
     0.2,
-    sequence(0.99, all(brect().start(1, 1), popout(b)), brect().opacity(0, 0)),
-    sequence(0.99, all(arect().start(1, 1), popout(a)), arect().opacity(0, 0)),
+    sequence(
+      0.99,
+      all(arect().start(1, 1), popout(a)),
+      arect().opacity(0, 0.01),
+    ),
+    sequence(
+      0.99,
+      all(brect().start(1, 1), popout(b)),
+      brect().opacity(0, 0.01),
+    ),
   );
 
   // Any form of class-based law is an ethic in the form: one rule for class $A$ and another for class non-$A$. But by what possible means could one derive that one ethic applies to $A$ and another /incompatible/[fn:65] ethic applies to non-$A$? Surely such an ethic could not be derived from the nature of man as such, because if it were then we would have a universal principle, not one that applies only to a particular subset of humanity. Therefore, such an ethic must be arbitrarily particularised---we have an arbitrary distinction which forms a class of humans and a class of sub-humans, we do not here have a rational ethic for /man/. This particularisation then falls back into the primacy of consciousness and therefore fails.

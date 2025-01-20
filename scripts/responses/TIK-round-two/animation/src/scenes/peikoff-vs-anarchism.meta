@@ -1,0 +1,66 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "quote",
+      "targetTime": 16.30383227353799
+    },
+    {
+      "name": "indicate anarchism",
+      "targetTime": 19.66515264688797
+    },
+    {
+      "name": "does not imply",
+      "targetTime": 24.1372253872061
+    },
+    {
+      "name": "indicate implication",
+      "targetTime": 26.825814542888185
+    },
+    {
+      "name": "rothie",
+      "targetTime": 41.09292642778004
+    },
+    {
+      "name": "false alternative",
+      "targetTime": 46.453204949056705
+    },
+    {
+      "name": "monopoly on force",
+      "targetTime": 48.095562914161775
+    },
+    {
+      "name": "the other one",
+      "targetTime": 49.99629458886984
+    },
+    {
+      "name": "the other quote",
+      "targetTime": 61.78299974865504
+    },
+    {
+      "name": "quote1",
+      "targetTime": 92.14792145119326
+    },
+    {
+      "name": "underlying premise",
+      "targetTime": 99.62442011815425
+    },
+    {
+      "name": "does not mean arbitrary violence",
+      "targetTime": 106.23211393124144
+    },
+    {
+      "name": "out",
+      "targetTime": 114.15708565410482
+    },
+    {
+      "name": "vidout",
+      "targetTime": 134.4988648761273
+    },
+    {
+      "name": "end",
+      "targetTime": 155.0818533696836
+    }
+  ],
+  "seed": 3513913604
+}

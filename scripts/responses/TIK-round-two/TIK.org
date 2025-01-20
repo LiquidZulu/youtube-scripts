@@ -564,7 +564,7 @@ You will notice that on their face these ideologies fall under two categories: (
 
 Any form of class-based law is an ethic in the form: one rule for class $A$ and another for class non-$A$. But by what possible means could one derive that one ethic applies to $A$ and another /incompatible/[fn:65] ethic applies to non-$A$? Surely such an ethic could not be derived from the nature of man as such, because if it were then we would have a universal principle, not one that applies only to a particular subset of humanity. Therefore, such an ethic must be arbitrarily particularised---we have an arbitrary distinction which forms a class of humans and a class of sub-humans, we do not here have a rational ethic for /man/. This particularisation then falls back into the primacy of consciousness and therefore fails.
 
-**** The ARgument from Argument
+**** The Argument from Argument
 On top of this, there exists a built-in self-destruct for any mixed law ethic, in the form of Hans-Hermann Hoppe's argument from argument.[fn:66]
 
 The basic idea behind this attack is found in noticing that there exists an inescapable inconsistency when it comes to arguing in favour of aggression, borne from the fact that argumentation is and must be a conflict-free interaction. When people have some dispute and they choose to argue about it, they are doing the exact opposite of fighting over the dispute. That is, if Crusoe and Friday have a disagreement over how to use a spear, then each party sitting down and giving arguments as to why their use should go forth is quite distinct to each party launching missiles and trying to stab the other to death in order that their use may go forth unimpeded.
@@ -573,8 +573,8 @@ That is, simply by arguing about property rights, you must pre-suppose libertari
 
 What this argument does is highlight an implicit notion we have that such jungle ethics are irrational and brutish; namely that it is simply inconsistent and hypocritical for a person to even try to assert them in an argument---that if they truly believe in their murderous creeds then why the hell aren't they living by them?
 
-*** The Lifeboat Scenario
-There is a certain subtle poison to address here that I have encountered more heavily since the initial writing of this script. I should note that I am indebted in my analysis here to Gee from Proheretics and Harry Binswanger---though the latter would almost certainly denounce this entire video.
+*** Virtue vs Crime
+There is a certain subtle poison to address here that I have encountered more heavily since the initial writing of this script. I should note that I am indebted in my analysis here to Gee from Proheretics[fn:68] and Harry Binswanger---though the latter would almost certainly denounce this entire video.
 
 I am writing this section and including it after I have already began editing because I believe it has to be included. Namely, the claim that the non-aggression principle no longer applies in so-called "emergency circumstances," or those that are "metaphysically abnormal;" concretised as "the lifeboat scenario."
 
@@ -589,7 +589,7 @@ For any who have read Atlas Shrugged, it should be clear what the counterfactual
 
 "I ... don't know. What ... could he do? What would you tell him?"
 
-"To shrug."[fn:68]
+"To shrug."[fn:69]
 #+end_quote
 
 This is the problem with their implicit framing of the hypotheticals as a single snapshot in time---an ethical cold-open, where the previous actions cannot be analysed. They assume that man is impotent as such, and cannot possibly forsee potential threats to his life. This impotence is then used as a justification of crime. Hypotheticals are not tools to discover new philosophy; they have their place, but that is not it. In any instance where a moron has stumbled his way into an emergency scenario, the immoral act has already occurred by his negligence in getting there in the first place. If I am beset by an angry mob trying to kill me, it is a valid question to ask of me: how did I get here? Are the mob trying to kill me because I previously went on a mass-murder spree? If that is so, is it moral for me to continue the spree to survive?
@@ -604,7 +604,7 @@ This framing of ethics as guiding man on what to do given the context of his lif
 
 This is the fourth key point: what it means to say that something is a /principle/. As Binswanger states it:
 #+begin_quote
-A principle identifies an action that is required by the facts at hand. To violate a principle is to act as if what is required were not required---a contradiction. The oft-heard excuse "Just this once" means: "It’s safe to accept just this one contradiction." But accepting a contradiction undercuts the whole structure of one's knowledge. It forces a puzzle-piece into a space it does not fit, spoiling the overall picture (and leaving no place to put the right piece).[fn:69]
+A principle identifies an action that is required by the facts at hand. To violate a principle is to act as if what is required were not required---a contradiction. The oft-heard excuse "Just this once" means: "It’s safe to accept just this one contradiction." But accepting a contradiction undercuts the whole structure of one's knowledge. It forces a puzzle-piece into a space it does not fit, spoiling the overall picture (and leaving no place to put the right piece).[fn:70]
 #+end_quote
 
 Just as epistemic principles are what man uses for his act of validation and thus the identification of facts, ethical principles are what man uses for his identification of values. You cannot drop ethical principles "just this once" or "just in emergencies" in order to gain values---you need those very principles to identify values in the first place. Your ethical principles are the very framework, the structure, of your hierarchy of values. It is literally impossible to identify and integrate new values if you are not operating on principle. The instant you drop the principle, you are disintegrating the entire apparatus necessary to seek and maintain objective values.
@@ -624,14 +624,14 @@ I do not buy any of these claims from people that there is just no possible way 
 Was Hugh Glass in metaphysically abnormal circumstances? Was survival impossible to him without aggression? Apparently not.
 
 ** The Objectivist Arguments Against Anarchism
-So, we have it that there are three possible solutions to the correct problem-statement of law, two of them are false, leaving us only with the non-aggression principle as the correct answer. Refer to my course on how the rest of the legal theory is derived from the NAP,[fn:70] and any Randroids in the audience who find themselves screaming about rationalism because I used deductive reasoning can feel free to sob away all they want---but if I can pierce the veil of tears for a moment, I would ask them to articulate exactly what about my preceding reasoning is incorrect, rather than just screaming about how Peikoff one time said something that sort of sounds like what they want to say.
+So, we have it that there are three possible solutions to the correct problem-statement of law, two of them are false, leaving us only with the non-aggression principle as the correct answer. Refer to my course on how the rest of the legal theory is derived from the NAP,[fn:71] and any Randroids in the audience who find themselves screaming about rationalism because I used deductive reasoning can feel free to sob away all they want---but if I can pierce the veil of tears for a moment, I would ask them to articulate exactly what about my preceding reasoning is incorrect, rather than just screaming about how Peikoff one time said something that sort of sounds like what they want to say.
 
 Regardless, I can now move onto some of the objections that the Randians have raised against anarchism. Do note that this is one area where the writing is laughably sparse, and for good reason---namely, they lack any solid theoretical objections so prefer to give a very light treatment to the topic and never with an anarcho-Objectivist there to provide counter-arguments.
 
-Rand defines government as "an institution that holds the exclusive power to enforce certain rules of social conduct in a given geographical area,"[fn:71] and on this definition, anarchism is supposed to represent a floating abstraction---i.e. an abstraction with no concrete referent:
+Rand defines government as "an institution that holds the exclusive power to enforce certain rules of social conduct in a given geographical area,"[fn:72] and on this definition, anarchism is supposed to represent a floating abstraction---i.e. an abstraction with no concrete referent:
 
 #+begin_quote
-Anarchy, as a political concept, is a naive floating abstraction: for all the reasons discussed above, a society without an organized government would be at the mercy of the first criminal who came along and who would precipitate it into the chaos of gang warfare. But the possibility of human immorality is not the only objection to anarchy: even a society whose every member were fully rational and faultlessly moral, could not function in a state of anarchy; it is the need of objective laws and of an arbiter for honest disagreements among men that necessitates the establishment of a government.[fn:72]
+Anarchy, as a political concept, is a naive floating abstraction: for all the reasons discussed above, a society without an organized government would be at the mercy of the first criminal who came along and who would precipitate it into the chaos of gang warfare. But the possibility of human immorality is not the only objection to anarchy: even a society whose every member were fully rational and faultlessly moral, could not function in a state of anarchy; it is the need of objective laws and of an arbiter for honest disagreements among men that necessitates the establishment of a government.[fn:73]
 #+end_quote
 
 First, there is the false premise that without a monopoly on rights enforcement all that is left is brute violence and gang warfare. As I have explained earlier, competing insurance firms tend to do a far better job at enforcing rights than any monopolist could hope to. Second, there is the false premise that anarchy means no objective laws or arbitration. This is a point that is frequently repeated by the Randians, and never substantiated. It is the premise that you need some monopolist to "make the law objective"---but law is /discovered/ not /produced/. Competing arbitration firms can all appeal to reality to discover what the objective legal principles are which they can then apply to some specific case. Honest disagreements can be resolved without having a monopoly on dispute resolution.
@@ -639,13 +639,13 @@ First, there is the false premise that without a monopoly on rights enforcement 
 #+begin_quote
 A recent variant of anarchistic theory, which is befuddling some of the younger advocates of freedom, is a weird absurdity called "competing governments." Accepting the basic premise of the modern statists -- who see no difference between the functions of government and the functions of industry, between force and production, and who advocate government ownership of business -- the proponents of "competing governments" take the other side of the same coin and declare that since competition is so beneficial to business, it should also be applied to government. Instead of a single, monopolistic government, they declare, there should be a number of different governments in the same geographical area, competing for the allegiance of individual citizens, with every citizen free to "shop" and to patronize whatever government he chooses.
 
-Remember that forcible restraint of men is the only service a government has to offer. Ask yourself what a competition in forcible restraint would have to mean.[fn:73]
+Remember that forcible restraint of men is the only service a government has to offer. Ask yourself what a competition in forcible restraint would have to mean.[fn:74]
 #+end_quote
 
 Indeed, if government means "an institution that holds the exclusive power to enforce certain rules of social conduct in a given geographical area," then we have successfully defined away any "competing governments" anarchism. But this does not begin to address the anarcho-capitalist case. If government must mean a monopolist, then competition in rights enforcement does not entail competing governments. Competition in this arena means that you can pay whomever you like to enforce your rights---nothing else. Rand continues with a hypothetical scenario that is supposed to demonstrate the absurdity of competition in rights enforcement:
 
 #+begin_quote
-[...] suppose Mr. Smith, a customer of Government A, suspects that his next-door neighbor, Mr. Jones, a customer of Government B, has robbed him; a squad of Police A proceeds to Mr. Jones' house and is met at the door by a squad of Police B, who declare that they do not accept the validity of Mr. Smith's complaint and do not recognize the authority of Government A. What happens then? You take it from there.[fn:74]
+[...] suppose Mr. Smith, a customer of Government A, suspects that his next-door neighbor, Mr. Jones, a customer of Government B, has robbed him; a squad of Police A proceeds to Mr. Jones' house and is met at the door by a squad of Police B, who declare that they do not accept the validity of Mr. Smith's complaint and do not recognize the authority of Government A. What happens then? You take it from there.[fn:75]
 #+end_quote
 
 How utterly absurd! I might as well dream up my own fantasy to dispute this theory: what if instead of Government A and B, we had just the one government; Mr. Smith and Mr. Jones each have their own friends in the government. Then Smith tells his government friends that Jones stole his wallet, and of course this must obviously lead to the great war of the wallets! Millions die in the great and bloody war for power until one side prevails and genocides those who assert the incorrect view on whether the wallet was stolen or not.
@@ -654,18 +654,18 @@ What Rand forgets in her random hypothesizing, is that hypothetical scenarios ar
 
 Peikoff has his own retorts to anarchism, which stand as being just as absurd as Rand's:
 #+begin_quote
-Anarchism is the idea that there should be no government. In Objectivist terms, this amounts to the view that every man should defend himself by using physical force against others whenever he feels like it, with no objective standards of justice, crime, or proof.[fn:75]
+Anarchism is the idea that there should be no government. In Objectivist terms, this amounts to the view that every man should defend himself by using physical force against others whenever he feels like it, with no objective standards of justice, crime, or proof.[fn:76]
 #+end_quote
 
 This is a near-explicit straw man attack on anarchism. Anarchism is the view that there should be no government--if government means a monopoly force-user--but that does not even come close to implying "that every man should defend himself by using physical force against others whenever he feels like it, with no objective standards of justice, crime, or proof." What an absolutely absurd claim that is on its face. I would be somewhat willing to excuse utter nonsense like this if it were written in a time prior to Murray Rothbard, but it wasn't---Peikoff is just openly endorsing the false alternative that either there should be a monopoly on force, or everyone should just use whatever force they want at their whim. I'm frankly shocked that he never once considered whether individual men could discover and apply philosophy on their own when it comes to the question of when the use of force is licit. Peikoff continues:
 
 #+begin_quote
-"What if an individual does not want to delegate his right of self-defense?" the anarchist frequently asks. "Isn't that a legitimate aspect of 'freedom'?" The question implies that a "free man" is one with the right to enact his desire, any desire, simply because it is his desire, including the desire to use force. This means the equation of "freedom" with whim-worship. Philosophically, the underlying premise is subjectivism (of the personal variety).[fn:76]
+"What if an individual does not want to delegate his right of self-defense?" the anarchist frequently asks. "Isn't that a legitimate aspect of 'freedom'?" The question implies that a "free man" is one with the right to enact his desire, any desire, simply because it is his desire, including the desire to use force. This means the equation of "freedom" with whim-worship. Philosophically, the underlying premise is subjectivism (of the personal variety).[fn:77]
 #+end_quote
 
 Again, the underlying premise is decidedly /not/ that a man may do /anything/ he wants simply because he wants it---the underlying premise is that a man may defend himself if he wishes or delegate this defense to anybody he sees fit. Nowhere in this claim is there any implication that people may engage in random acts of violence or use arbitrary means to defend their property. That is a patent absurdity and false alternative presented to us by the people who are supposed to have as their banner that they check premises and never accept false alternatives.
 
-The collectivist poison that Rand grafted onto her politics has yielded legion derivative errors, not least of which is her support of intellectual "property." If you want to know why that is wrong, you have to watch this video[fn:77] where I explain that every form of IP is an anathema to the objective principles of law.
+The collectivist poison that Rand grafted onto her politics has yielded legion derivative errors, not least of which is her support of intellectual "property." If you want to know why that is wrong, you have to watch this video[fn:78] where I explain that every form of IP is an anathema to the objective principles of law.
 
 * Footnotes
 
@@ -803,13 +803,13 @@ The collectivist poison that Rand grafted onto her politics has yielded legion d
 
 [fn:67]The terms performative contradiction and dialectic contradiction are also often used here; though dialectic contradiction is really a subset of performative contradictions in general.
 
-[fn:68]Ayn Rand, /Atlas Shrugged/
+[fn:68]https://www.youtube.com/@proheretics
 
-[fn:69]Harry Binswanger, "Just One Contradiction," in idem., /How We Know: Epistemology on an Objectivist Foundation/.
+[fn:69]Ayn Rand, /Atlas Shrugged/
 
-[fn:70]LiquidZulu, /The Fundamentals of Libertarian Ethics/, https://liquidzulu.github.io/libertarian-ethics
+[fn:70]Harry Binswanger, "Just One Contradiction," in idem., /How We Know: Epistemology on an Objectivist Foundation/.
 
-[fn:71]Ayn Rand, "The Nature of Government," in ead., /The Virtue of Selfishness/
+[fn:71]LiquidZulu, /The Fundamentals of Libertarian Ethics/, https://liquidzulu.github.io/libertarian-ethics
 
 [fn:72]Ayn Rand, "The Nature of Government," in ead., /The Virtue of Selfishness/
 
@@ -817,8 +817,10 @@ The collectivist poison that Rand grafted onto her politics has yielded legion d
 
 [fn:74]Ayn Rand, "The Nature of Government," in ead., /The Virtue of Selfishness/
 
-[fn:75]Leonard Peikoff, "Statism as the Politics of Unreason," in id., /Objectivism: The Philosophy of Ayn Rand/
+[fn:75]Ayn Rand, "The Nature of Government," in ead., /The Virtue of Selfishness/
 
 [fn:76]Leonard Peikoff, "Statism as the Politics of Unreason," in id., /Objectivism: The Philosophy of Ayn Rand/
 
-[fn:77]LiquidZulu, /Why Artists Shouldn't Own Their Art/, https://www.youtube.com/watch?v=4xKjHHzLUQQ
+[fn:77]Leonard Peikoff, "Statism as the Politics of Unreason," in id., /Objectivism: The Philosophy of Ayn Rand/
+
+[fn:78]LiquidZulu, /Why Artists Shouldn't Own Their Art/, https://www.youtube.com/watch?v=4xKjHHzLUQQ

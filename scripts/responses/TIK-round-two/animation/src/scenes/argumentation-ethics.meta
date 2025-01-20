@@ -1,0 +1,46 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "argument from argument",
+      "targetTime": 0.7452082984464798
+    },
+    {
+      "name": "inconsistent",
+      "targetTime": 3.7166221756190296
+    },
+    {
+      "name": "argument is the opposite of fighting",
+      "targetTime": 14.339336784192756
+    },
+    {
+      "name": "argument pre-supposes the NAP",
+      "targetTime": 35.9458953129985
+    },
+    {
+      "name": "Friday practical contradiction",
+      "targetTime": 47.160408033786105
+    },
+    {
+      "name": "Fridays options",
+      "targetTime": 66.168575448171
+    },
+    {
+      "name": "highlight second case",
+      "targetTime": 76.52134798821662
+    },
+    {
+      "name": "highlight first case",
+      "targetTime": 82.41792319075
+    },
+    {
+      "name": "out",
+      "targetTime": 89.14640494274704
+    },
+    {
+      "name": "end",
+      "targetTime": 106.03956093350712
+    }
+  ],
+  "seed": 2930949043
+}

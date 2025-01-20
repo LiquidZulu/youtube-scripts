@@ -88,6 +88,12 @@ import aristotleNotConsistent from "./scenes/aristotle-not-consistent?scene";
 import analogisingDarwinAndRand from "./scenes/analogising-darwin-and-rand?scene";
 import aynRandAsClosedObjectivist from "./scenes/ayn-rand-as-closed-objectivist?scene";
 import politicsInvalidField from "./scenes/politics-invalid-field?scene";
+import argumentationEthics from "./scenes/argumentation-ethics?scene";
+import lifeboatScenario from "./scenes/lifeboat-scenario?scene";
+import deathAsTheStandard from "./scenes/death-as-the-standard?scene";
+import contextOfEthics from "./scenes/context-of-ethics?scene";
+import obismVsAnarchism from "./scenes/obism-vs-anarchism?scene";
+import peikoffVsAnarchism from "./scenes/peikoff-vs-anarchism?scene";
 
 const songs = [
   ["White Town", "Your Woman"],
@@ -141,7 +147,7 @@ const songs = [
 export default makeProject({
   audio: audio,
   scenes: [
-    mixedLawSystems,
+    peikoffVsAnarchism,
     //// start.mp4
     // intro,
     // substitutingResultForDefinition,
@@ -244,6 +250,12 @@ export default makeProject({
     //aynRandAsClosedObjectivist,
     //objectivismPhilosophyPoe,
     //threeAnswersToLaw,
+    //mixedLawSystems,
+    //argumentationEthics,
+    //lifeboatScenario,
+    //deathAsTheStandard,
+    //contextOfEthics,
+    //obismVsAnarchism,
     ////
     //example,
     //...quoteScenes,

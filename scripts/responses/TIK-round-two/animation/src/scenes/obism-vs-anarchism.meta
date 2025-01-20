@@ -1,0 +1,82 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "two false",
+      "targetTime": 4.780341749709698
+    },
+    {
+      "name": "left with NAP",
+      "targetTime": 5.780341749709698
+    },
+    {
+      "name": "browser in",
+      "targetTime": 9.966649728387356
+    },
+    {
+      "name": "objections",
+      "targetTime": 33.49915965030958
+    },
+    {
+      "name": "rand definition",
+      "targetTime": 52.96306529096118
+    },
+    {
+      "name": "quote text",
+      "targetTime": 54.10770652352695
+    },
+    {
+      "name": "quote-0",
+      "targetTime": 68.10127467152728
+    },
+    {
+      "name": "quote-0 scroll",
+      "targetTime": 110.50500262982412
+    },
+    {
+      "name": "competing insurance",
+      "targetTime": 120.11179973942126
+    },
+    {
+      "name": "second false premise",
+      "targetTime": 126.75148118993404
+    },
+    {
+      "name": "snuck premise",
+      "targetTime": 136.01729861768632
+    },
+    {
+      "name": "competing arbitration firms",
+      "targetTime": 142.86853540490677
+    },
+    {
+      "name": "out",
+      "targetTime": 154.36289253833297
+    },
+    {
+      "name": "quote-1 scroll",
+      "targetTime": 225.1330762470693
+    },
+    {
+      "name": "doesnt address ancap",
+      "targetTime": 237.43014041549372
+    },
+    {
+      "name": "if government means a monopolist",
+      "targetTime": 240.6069035130275
+    },
+    {
+      "name": "what competition means",
+      "targetTime": 246.50269519313116
+    },
+    {
+      "name": "oout",
+      "targetTime": 257.15482644057045
+    },
+    {
+      "name": "quote-2 scroll",
+      "targetTime": 295.30489940774737
+    }
+  ],
+  "seed": 3520104918
+}

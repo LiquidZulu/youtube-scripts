@@ -1,0 +1,54 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "context of ethics",
+      "targetTime": 5.07214690475087
+    },
+    {
+      "name": "ethics out of context",
+      "targetTime": 11.344620460972616
+    },
+    {
+      "name": "no longer make choices",
+      "targetTime": 16.422416027395908
+    },
+    {
+      "name": "things really difficult",
+      "targetTime": 26.205532367939746
+    },
+    {
+      "name": "out",
+      "targetTime": 47.34322318047199
+    },
+    {
+      "name": "binswanger",
+      "targetTime": 50.992083264274115
+    },
+    {
+      "name": "show quote",
+      "targetTime": 53.143772768056834
+    },
+    {
+      "name": "quote out",
+      "targetTime": 80.82554720439354
+    },
+    {
+      "name": "cannot drop",
+      "targetTime": 92.99098958520695
+    },
+    {
+      "name": "framework",
+      "targetTime": 103.24217661366099
+    },
+    {
+      "name": "drop principle",
+      "targetTime": 114.88766015945343
+    },
+    {
+      "name": "out again",
+      "targetTime": 132.8426977532574
+    }
+  ],
+  "seed": 1389740777
+}

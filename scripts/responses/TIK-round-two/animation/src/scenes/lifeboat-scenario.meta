@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "indebted",
+      "targetTime": 6.681437880807053
+    },
+    {
+      "name": "sin wave",
+      "targetTime": 14.503116610974372
+    },
+    {
+      "name": "gee",
+      "targetTime": 9.227482739692816
+    },
+    {
+      "name": "binswanger",
+      "targetTime": 10.583247191289066
+    },
+    {
+      "name": "latter",
+      "targetTime": 11.568870732108726
+    },
+    {
+      "name": "people out",
+      "targetTime": 13.96019862276998
+    },
+    {
+      "name": "claim",
+      "targetTime": 20.582240927582806
+    }
+  ],
+  "seed": 2881489217
+}
