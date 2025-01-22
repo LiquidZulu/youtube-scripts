@@ -94,6 +94,7 @@ import deathAsTheStandard from "./scenes/death-as-the-standard?scene";
 import contextOfEthics from "./scenes/context-of-ethics?scene";
 import obismVsAnarchism from "./scenes/obism-vs-anarchism?scene";
 import peikoffVsAnarchism from "./scenes/peikoff-vs-anarchism?scene";
+import constantineReplacement from "./scenes/constantine-replacement?scene";
 
 const songs = [
   ["White Town", "Your Woman"],
@@ -147,7 +148,8 @@ const songs = [
 export default makeProject({
   audio: audio,
   scenes: [
-    peikoffVsAnarchism,
+    //constantineReplacement,
+    //peikoffVsAnarchism,
     //// start.mp4
     // intro,
     // substitutingResultForDefinition,
@@ -257,7 +259,7 @@ export default makeProject({
     //contextOfEthics,
     //obismVsAnarchism,
     ////
-    //example,
+    example,
     //...quoteScenes,
     //...footnotesScenes,
     //...songs,

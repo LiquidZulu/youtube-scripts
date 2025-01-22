@@ -1,0 +1,46 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "value is blah",
+      "targetTime": 3.39836057107075
+    },
+    {
+      "name": "death negation of existence",
+      "targetTime": 9.015936654524781
+    },
+    {
+      "name": "ignorance not the standard of knowledge",
+      "targetTime": 17.54618690216644
+    },
+    {
+      "name": "out",
+      "targetTime": 25.6208607263759
+    },
+    {
+      "name": "death as an action",
+      "targetTime": 30.69798209117627
+    },
+    {
+      "name": "alternatives out",
+      "targetTime": 33.37828295586192
+    },
+    {
+      "name": "certain nature",
+      "targetTime": 40.55376469850507
+    },
+    {
+      "name": "death not an action",
+      "targetTime": 45.55006866175187
+    },
+    {
+      "name": "this framing",
+      "targetTime": 52.26725218880297
+    },
+    {
+      "name": "out again",
+      "targetTime": 61.131180012197746
+    }
+  ],
+  "seed": 1374736968
+}
