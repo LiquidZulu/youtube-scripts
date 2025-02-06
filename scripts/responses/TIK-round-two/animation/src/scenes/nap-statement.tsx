@@ -26,7 +26,7 @@ export default makeScene2D(function* (view) {
 
   const title = createRef<Txt>();
   const list = createRef<ArrowList>();
-  const timestamp = createSignal<number>(1000);
+  const timestamp = createSignal<number>(10000);
 
   view.add(
     <Rect layout direction="column" alignItems="center" gap={120}>
@@ -65,7 +65,9 @@ export default makeScene2D(function* (view) {
   yield* list().next();
 
   yield* waitUntil("~NAP = legal authoritarianism");
-  yield* all(list().next(), timestamp(5038, 1));
+  yield* all(list().next(), timestamp(12604, 1));
+
+  console.log(timestamp());
 
   yield* waitUntil("end");
 

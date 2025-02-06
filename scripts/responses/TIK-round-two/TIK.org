@@ -1,6 +1,8 @@
-#+title: You Might Already be an Anarchist (TIK Response) | Are You Already an Anarchist? | Are you a good person? Then you are probably an anarchist. | Why You Should Be An Anarchist | Anarcho-Capitalism: Responding to the Critics
+#title: Anarcho-Capitalism: Responding to the Critics
+#+yt-title: You Might Already be an Anarchist (TIK Response) | Are You Already an Anarchist? | Are you a good person? Then you are probably an anarchist. | Why You Should Be An Anarchist | Anarcho-Capitalism: Responding to the Critics
+#+options: toc:nil
 
-* Animations [38/43]
+* Animations [38/43] :noexport:
 + [X] reasons people aren't anarchists:
   1. means total chaos
      + go up and have "in an anarchist society there would be no centralised government to enforce the law, so there would be total chaos" come out

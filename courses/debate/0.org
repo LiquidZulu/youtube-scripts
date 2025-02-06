@@ -1,6 +1,7 @@
 #+title: The Art of Argumentation
 
 * notes
+** general
 + the purpose of the debate as determining the strategy---are you interested in convincing your interlocutor or not?
 + types of debate have different strategic considerations
   + bloodsports
@@ -9,3 +10,36 @@
   + dialectic
 + the importance of having a strong philosophical foundation to engage in effective debate
   + https://www.youtube.com/watch?v=Ys0Sgicnjz4 in his opening statement the world champion uses nonsense arguments that can be easily destroyed by an experienced philosopher.
++ never allow [fallacy name] discourse.
+  + if someone is claiming that your argument is fallacious, have them explicate specifically why it is fallacious, rather than simply referencing some lesswrong infographic they have stuck up on their wall.
+  + what is fallacious relies upon prior philosophy; calling out fallacies is thus fertile ground to sneak premises.
+    + "oh, thats the fallacy of going from is to ought"---relies on the premise that there is a gap between is and ought
+    + "oh, so you think that libertarians can't be in favour of the police arresting drug dealers? That's a no true scotsman fallacy!"---relies on the premise that definitions do not identify the essence of some concept.
+    + "Oh, so you think that this new law which gives the government the ability to suspend due process in emergency circumstances will lead to rights violations? That's a slippery slope fallacy!"---relies on the premise that events do not have a logical progression from one another, and that the "emergency circumstances" removing due process is not already a violation of rights.
+    +
+  + another note on this point is found in the sorts who say that you are committing the ad hom fallacy by attacking your opponent. Argumentum ad hominem is not just whenever one attacks their opponent, its when they attack their opponent as a means to eliminate the argument. So "you are wrong because you are stupid" is argumentum ad hominem, but "you are wrong and you are also stupid" is just two separate premises---(1) that the person is wrong, and (2) that the person is (perhaps therefore) stupid.
+    + seen also in attempts to apply the argument from motive: "his argument for banning cars is bad and he actually holds that position because he owns a bike shop" is valid, but "he only holds his ban cars position because he owns a bike shop therefore he is wrong" is invalid.
+  + Its also just more effective to not shout fallacy names at your opponent for the most part. Take an appeal to authority: "drugs are illegal because the government says they are." This is indeed legal authoritarianism, but you can interrogate this authoritarianism to see if they hold it consistently:
+    + "so, were zero Jews murdered in the holocaust?"
+    + "if the relevant authorities in science claimed that gravity doesn't exist, does that imply that gravity doesn't exist?"
+** never accept the enemies framing
++ people who go the c4ss road of "🤓 actually, capitalism is a problematic term, I am for free markets---not capitalism!" Accept the framing of their enemy, and thus become his slave.
+  + a change in frame is not merely a change in the words that one is using--because words denote concepts--thus it is a change in the conceptual structure of one's mind.
+  + this is why the "🤓 markets, not capitalism!" crowd will frequently find themselves in situations where they start running cover for the marxists. "Well guys, we surely don't actually like capitalism---I mean, take a look at all of these big wealthy guys, they must have gotten their money by exploiting people through the use of the state. We should be for small mom-and-pop shops only"---of course, the line between "small" and "big" will be continually altered to the Marxists' advantage. What we have here is the language of Murray Rothbard used to defend Karl Marx.
++ Example: me vs foodshops on environmentalism
+  + any "🤓 markets, not capitalism!" adherent would surely accept the framing presented by foodshops that the environment is to be protected, and proceed to explain how "🤓 actually, markets are better at protecting the environment than anything else!" This would destroy any possibility at long-term victory. It would be accepting the fundamental premise that non-man is more important than man---ceding this far more important ground to quibble about how best to destroy mankind. But then the enemy has already won. Their most important premise was able to be presented openly and was accepted for the sole reason that they controlled the framing.
++ Example: me vs foodshops on the expert in law
+  + foodshops attempts to control the framing of the debate by placing me as a lowly nobody who is just making stuff up, with no knowledge of the field, residing on the left hand side of a dunning-kruger curve; and that I should consult these experts to see what they have to say about law. If I were to approach this by saying that I have read a great deal about jurisprudence from experts in the field, then I would be ceding the more fundamental argument---Scientism. That expertsTM must be consulted prior to one proceeding. Of course---you are never yourself the expert, they're somewhere else. You can't possibly think so much of yourself that you would say you're the expert!---that is what he's counting on. That I will not claim myself as the expert---and so that is precisely what I do. I demolish the framing by cutting right through the implicit premise that the selfish individual cannot possibly have expertise on anything---consensus is the only path to expertise. I am the expert. You are not the expert. None of these people with fancy degrees and powdry wigs have anything close to my level of knowledge about the law. They are all frauds, and cheats, and midwits.
+#+begin_comment
+One problem with this sort of approach is that it relies on the premise that leftists are in some way honest. That if we just move onto a new term, they wouldn't use this opportunity to press their advantage and immediately poison the new term, perhaps even more fully.
+
+The result of term-hopping, then, is not only that it confuses potential converts, disintegrates the intellectual tradition, and alienates the radicals---but also that it forces you into a constant retreat from the enemy.
+
+These ideologies survive only by default; by the slow progress afforded through a constant pressure on one side and a constant retreat on the other. Allowing them to set the terms is thus the only weapon they need.
+
+"Oh, you guy's think that capitalism is evil? I guess I am a free market anarchist. Oh, the true meaning of freedom is slavery to the collective? Well in that case I am a black market anarchist. Oh, black markets are evil because it means that babies are being raped and infinity drugs are injected into orphans? Then I am just a market anarchist. Oh, markets are evil because they rely on pure self-interested trade, and that instead we should have a democratic vote on production? Gee wiz, I guess I'll have to be a social democrat."
+
+The other alternative is that we end up with some hyper-obtuse term, where we bake in hundreds of different asterisks to account for the many attacks levied against us in a sort of "oh, I want this, but not like that, and also not like that, and please don't hate me!"
+
+Such a term would not only break from the requirements of concept-formation, but would also signal to everyone with a spine that they should steer well clear of this philosophy. No radical wishes to be the lapdog of his enemies.
+#+end_comment

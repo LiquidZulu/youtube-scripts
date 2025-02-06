@@ -1,0 +1,62 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "wall",
+      "targetTime": 2.8350734094616636
+    },
+    {
+      "name": "sin",
+      "targetTime": 17.605738416514555
+    },
+    {
+      "name": "sin out",
+      "targetTime": 16.676998368678635
+    },
+    {
+      "name": "virgin mountain",
+      "targetTime": 13.228481098375127
+    },
+    {
+      "name": "environmentalist advocates",
+      "targetTime": 25.120804058377647
+    },
+    {
+      "name": "environment be protected",
+      "targetTime": 30.10793172637781
+    },
+    {
+      "name": "be left untouched",
+      "targetTime": 36.27727993420277
+    },
+    {
+      "name": "the environmental-protectionist",
+      "targetTime": 44.76226815013115
+    },
+    {
+      "name": "list out",
+      "targetTime": 57.52370470589891
+    },
+    {
+      "name": "sin progress again",
+      "targetTime": 71.07930187070902
+    },
+    {
+      "name": "zombie",
+      "targetTime": 59.023704705898915
+    },
+    {
+      "name": "meteor",
+      "targetTime": 60.44615902266996
+    },
+    {
+      "name": "grave",
+      "targetTime": 61.72995447520864
+    },
+    {
+      "name": "apocalypse out",
+      "targetTime": 70.29761279245115
+    }
+  ],
+  "seed": 3759961035
+}

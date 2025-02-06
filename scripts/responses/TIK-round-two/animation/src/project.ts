@@ -151,14 +151,14 @@ export default makeProject({
     //constantineReplacement,
     //peikoffVsAnarchism,
     //// start.mp4
-    // intro,
-    // substitutingResultForDefinition,
-    // definitionAnarchism,
-    // crusoeVsFriday,
-    // ancapSubsetAnarchism,
-    // stickScarce,
-    // napStatement,
-    // anarchismAsPublicVsPrivate,
+    intro,
+    substitutingResultForDefinition,
+    definitionAnarchism,
+    crusoeVsFriday,
+    ancapSubsetAnarchism,
+    stickScarce,
+    napStatement,
+    anarchismAsPublicVsPrivate,
     ////
     //// tiks-definitions-as-package-deals.mp4
     // publicPrivatePackageDeals,
@@ -259,7 +259,7 @@ export default makeProject({
     //contextOfEthics,
     //obismVsAnarchism,
     ////
-    example,
+    //example,
     //...quoteScenes,
     //...footnotesScenes,
     //...songs,
