@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "need rule breaking",
+      "targetTime": 4.538441864799055
+    },
+    {
+      "name": "moral condemnation",
+      "targetTime": 11.932727450388727
+    },
+    {
+      "name": "not allowed to flourish via sanction",
+      "targetTime": 24.384616099032485
+    },
+    {
+      "name": "kowtow",
+      "targetTime": 29.286710382248486
+    },
+    {
+      "name": "no theoretic validity",
+      "targetTime": 31.651074429429848
+    },
+    {
+      "name": "hate environment",
+      "targetTime": 43.801098513983895
+    },
+    {
+      "name": "end",
+      "targetTime": 52.25961308603705
+    }
+  ],
+  "seed": 1430688590
+}

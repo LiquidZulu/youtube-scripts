@@ -1,0 +1,38 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "magazine in",
+      "targetTime": 2.624959377451002
+    },
+    {
+      "name": "quote in",
+      "targetTime": 7.791885187332313
+    },
+    {
+      "name": "miraculous",
+      "targetTime": 36.669565587100564
+    },
+    {
+      "name": "rand in",
+      "targetTime": 55.0978408207177
+    },
+    {
+      "name": "shortquote in",
+      "targetTime": 57.54946725698929
+    },
+    {
+      "name": "quote happens",
+      "targetTime": 60.509471797887905
+    },
+    {
+      "name": "quote scroll",
+      "targetTime": 147.70801639484708
+    },
+    {
+      "name": "end",
+      "targetTime": 167.8633555293995
+    }
+  ],
+  "seed": 2422811248
+}

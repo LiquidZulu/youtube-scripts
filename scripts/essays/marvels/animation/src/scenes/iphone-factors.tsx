@@ -372,19 +372,20 @@ export default makeScene2D(function* (view) {
   view.add(
     <Txt
       ref={fop}
-      position={[0, -400]}
+      position={[0, -350]}
       fill="white"
       fontSize={90}
       fontFamily="oswald"
+      textAlign="center"
     >
-      FACTORS OF PRODUCTION
+      FACTORS OF{"\n"}PRODUCTION
     </Txt>,
   );
 
   yield* fadein(fop);
 
   yield* waitUntil("annotate 1");
-  yield* all(annotate(1), fadeout(fop));
+  yield* annotate(1);
   yield* waitUntil("annotate 2");
   yield* annotate(2);
 
@@ -468,6 +469,7 @@ export default makeScene2D(function* (view) {
   ];
 
   yield* all(
+    fadeout(fop),
     ...chains.map((ch, i) =>
       chain(
         waitFor(0.2 * i),
@@ -535,7 +537,7 @@ export default makeScene2D(function* (view) {
   yield* waitUntil("just microchips");
 
   yield* all(
-    fadeout(lop),
+    lop().opacity(0.05, 1),
     ...chains.map((chain) =>
       all(
         ...chain
@@ -558,6 +560,7 @@ export default makeScene2D(function* (view) {
   yield* waitUntil("end");
 
   yield* all(
+    lop().opacity(0, 1),
     ...chains.map((ch) => all(...ch.map(([_, item]) => item.opacity(0, 1)))),
     back().scale(0.2, 1),
     back().opacity(0, 1),

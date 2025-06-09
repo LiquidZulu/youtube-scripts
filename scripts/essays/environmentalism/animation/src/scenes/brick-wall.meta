@@ -15,7 +15,7 @@
     },
     {
       "name": "virgin mountain",
-      "targetTime": 13.228481098375127
+      "targetTime": 12.782493871117275
     },
     {
       "name": "environmentalist advocates",
@@ -39,7 +39,7 @@
     },
     {
       "name": "sin progress again",
-      "targetTime": 71.07930187070902
+      "targetTime": 70.39497706950925
     },
     {
       "name": "zombie",
@@ -55,7 +55,27 @@
     },
     {
       "name": "apocalypse out",
-      "targetTime": 70.29761279245115
+      "targetTime": 69.45171130207922
+    },
+    {
+      "name": "highlight tree",
+      "targetTime": 81.54469951677578
+    },
+    {
+      "name": "tree out",
+      "targetTime": 86.76107010235825
+    },
+    {
+      "name": "live as a lower animal",
+      "targetTime": 95.99035264812935
+    },
+    {
+      "name": "dog cannot live like a plant",
+      "targetTime": 103.34382803245762
+    },
+    {
+      "name": "list out again",
+      "targetTime": 114.60927320992589
     }
   ],
   "seed": 3759961035

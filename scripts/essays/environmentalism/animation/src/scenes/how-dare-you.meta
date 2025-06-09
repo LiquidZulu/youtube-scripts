@@ -1,0 +1,254 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "You-0",
+      "targetTime": 0
+    },
+    {
+      "name": "have-0",
+      "targetTime": 0.1236188474265253
+    },
+    {
+      "name": "stolen-0",
+      "targetTime": 0.2970476440716844
+    },
+    {
+      "name": "my-0",
+      "targetTime": 0.776551902965595
+    },
+    {
+      "name": "dreams-0",
+      "targetTime": 1.163408846110211
+    },
+    {
+      "name": "and-0",
+      "targetTime": 2.037707253706101
+    },
+    {
+      "name": "my-1",
+      "targetTime": 2.1377072537061013
+    },
+    {
+      "name": "childhood-0",
+      "targetTime": 2.3833692976091747
+    },
+    {
+      "name": "with-0",
+      "targetTime": 3.37898463916751
+    },
+    {
+      "name": "your-0",
+      "targetTime": 3.47898463916751
+    },
+    {
+      "name": "empty-0",
+      "targetTime": 3.7057847239086765
+    },
+    {
+      "name": "words,-0",
+      "targetTime": 3.9751673224172976
+    },
+    {
+      "name": "and-1",
+      "targetTime": 5.429108315760424
+    },
+    {
+      "name": "yet-0",
+      "targetTime": 5.576134998526636
+    },
+    {
+      "name": "I'm-0",
+      "targetTime": 6.239291844865708
+    },
+    {
+      "name": "one-0",
+      "targetTime": 6.414024609350297
+    },
+    {
+      "name": "of-0",
+      "targetTime": 6.5140246093502965
+    },
+    {
+      "name": "the-0",
+      "targetTime": 6.714024609350296
+    },
+    {
+      "name": "lucky-0",
+      "targetTime": 6.865420842003296
+    },
+    {
+      "name": "ones.-0",
+      "targetTime": 7.133466116289095
+    },
+    {
+      "name": "People-0",
+      "targetTime": 9.43685855679497
+    },
+    {
+      "name": "are-0",
+      "targetTime": 9.759660652138594
+    },
+    {
+      "name": "suffering,-0",
+      "targetTime": 9.959660652138593
+    },
+    {
+      "name": "people-0",
+      "targetTime": 11.369927838784356
+    },
+    {
+      "name": "are-1",
+      "targetTime": 11.814406779427701
+    },
+    {
+      "name": "dying,-0",
+      "targetTime": 12.106565560316696
+    },
+    {
+      "name": "entire-0",
+      "targetTime": 13.559257064654862
+    },
+    {
+      "name": "ecosystems-0",
+      "targetTime": 14.122816067199885
+    },
+    {
+      "name": "are-2",
+      "targetTime": 15.402851914966242
+    },
+    {
+      "name": "collapsing,-0",
+      "targetTime": 15.60285191496624
+    },
+    {
+      "name": "we-0",
+      "targetTime": 17.08654275466574
+    },
+    {
+      "name": "are-3",
+      "targetTime": 17.18654275466574
+    },
+    {
+      "name": "in-0",
+      "targetTime": 17.286542754665742
+    },
+    {
+      "name": "the-1",
+      "targetTime": 17.386542754665744
+    },
+    {
+      "name": "beginning-0",
+      "targetTime": 17.486542754665745
+    },
+    {
+      "name": "of-1",
+      "targetTime": 18.381768993963224
+    },
+    {
+      "name": "a-0",
+      "targetTime": 18.481768993963225
+    },
+    {
+      "name": "mass-0",
+      "targetTime": 18.660577140748313
+    },
+    {
+      "name": "extinction-0",
+      "targetTime": 19.39827041203256
+    },
+    {
+      "name": "and-2",
+      "targetTime": 20.50671005422926
+    },
+    {
+      "name": "all-0",
+      "targetTime": 20.68813711315618
+    },
+    {
+      "name": "you-0",
+      "targetTime": 20.850080407180336
+    },
+    {
+      "name": "can-0",
+      "targetTime": 20.95018155399374
+    },
+    {
+      "name": "talk-0",
+      "targetTime": 21.211915504333636
+    },
+    {
+      "name": "about-0",
+      "targetTime": 21.47831148569536
+    },
+    {
+      "name": "is-0",
+      "targetTime": 22.219469822817523
+    },
+    {
+      "name": "money-0",
+      "targetTime": 22.39647808381634
+    },
+    {
+      "name": "and-3",
+      "targetTime": 23.248673744413573
+    },
+    {
+      "name": "fairytales-0",
+      "targetTime": 23.481712004658068
+    },
+    {
+      "name": "of-2",
+      "targetTime": 24.37120593790734
+    },
+    {
+      "name": "eternal-0",
+      "targetTime": 24.652606833472422
+    },
+    {
+      "name": "economic-0",
+      "targetTime": 25.281875901235885
+    },
+    {
+      "name": "growth.-0",
+      "targetTime": 25.94413762632582
+    },
+    {
+      "name": "How-0",
+      "targetTime": 26.944612446453725
+    },
+    {
+      "name": "dare-0",
+      "targetTime": 27.33196477671015
+    },
+    {
+      "name": "you!?-0",
+      "targetTime": 27.61613756276739
+    },
+    {
+      "name": "remove highlight",
+      "targetTime": 27.71613756276739
+    },
+    {
+      "name": "money",
+      "targetTime": 31.614387347528275
+    },
+    {
+      "name": "economicGrowth",
+      "targetTime": 32.61438734752828
+    },
+    {
+      "name": "entireEcosystems",
+      "targetTime": 38.16722176919638
+    },
+    {
+      "name": "collapsing",
+      "targetTime": 40.107230097400965
+    },
+    {
+      "name": "finish",
+      "targetTime": 51.46258785749261
+    }
+  ],
+  "seed": 3916475927
+}

@@ -1,0 +1,54 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "indicate scientism",
+      "targetTime": 14.464930262490475
+    },
+    {
+      "name": "bundled",
+      "targetTime": 15.464930262490475
+    },
+    {
+      "name": "bundled exp",
+      "targetTime": 19.689133945182853
+    },
+    {
+      "name": "what is there",
+      "targetTime": 33.593883915335724
+    },
+    {
+      "name": "how do I know",
+      "targetTime": 35.75164319517498
+    },
+    {
+      "name": "what should I do about it",
+      "targetTime": 38.41647135393109
+    },
+    {
+      "name": "list out",
+      "targetTime": 55.209800298188654
+    },
+    {
+      "name": "specialised field",
+      "targetTime": 56.80980029818866
+    },
+    {
+      "name": "antecedent philosophy",
+      "targetTime": 65.7523228613349
+    },
+    {
+      "name": "cannot stand on its own",
+      "targetTime": 76.45999852032607
+    },
+    {
+      "name": "ccpvirus",
+      "targetTime": 84.90096097608428
+    },
+    {
+      "name": "out",
+      "targetTime": 95.4659284624524
+    }
+  ],
+  "seed": 4088323905
+}

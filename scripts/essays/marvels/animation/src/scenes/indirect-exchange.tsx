@@ -544,6 +544,7 @@ export default makeScene2D(function* (view) {
       trades[7].with[0].ref,
     ].map((ref, i) => chain(waitFor(0.1 * i), flashAround(ref))),
   );
+  yield* waitUntil("moe title");
   yield* fadein(moe);
 
   yield* waitUntil("many media of exchange");

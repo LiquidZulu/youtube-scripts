@@ -1,10 +1,61 @@
 #+title: Flat Earth
+#+yt-title: The Bad Epistemology of Flat Earthers | The Deceptive Epistemology of Flat Earthers
 
 * notes
+** misc
++ wind directions require globe earth see: CGP Grey, /The Simple Secret of Runway Numbers/, https://www.youtube.com/watch?v=HSRmfNDk87s
++ what if globers were to use the same standards of proof as flerfs? Would it sound at all convincing? Would they see right through it?
+  + possibly experiment by going undercover in flerf communities and acting like they do but arguing for the globe, see if it amuses them.
++ EDITING: use a blender or motion-canvas based corkboard thing to keep track of the flow/people who need to be lying/etc.
++ https://en.wikipedia.org/wiki/Empirical_evidence_for_the_spherical_shape_of_Earth
++ any claim like "they did it with CG" is to be entirely discarded---/how/ was it done with CG? How specifically was that effect pulled off and what is the evidence that it is SFX? CG is not a magic wand that can make things which aren't real.
 ** 24 hr antarctic sun
++ https://www.youtube.com/watch?v=HzN2g6-4Sdw
++ a buttload of flat earthers dodged free tickets: https://www.youtube.com/watch?v=cLHTe_ORjLc
++ https://www.youtube.com/watch?v=U1RdHkkXuXE
++ https://www.youtube.com/watch?v=gQqluMYX8yM
++ by the fact that they have spent all of this effort to show that TFE was faked is an implicit admission that the 24hr sun does indeed contradict flat earth. Not one of them decided to actually integrate this new information and explain how it is possible.
++ in the southern hemisphere the sun can set south of the tropic https://www.youtube.com/watch?v=CK1ZNRu_3T0 --- you don't even have to go to antarctica
++ "gleesons" map is the best they have according to flat earth dave; it is debunked by final experiment https://youtu.be/jIy6txLNAY0?t=762
++ faked in unreal engine https://www.youtube.com/watch?v=MA7h1gwmNzU
+  + how did they comp in the real life people with perfect lighting on them, perfectly 3D scanned for the shadows into this flawless scene with multiple concurrent livestreams in real time? What graphical power would be required to do this in e.g. cycles?
++ https://www.youtube.com/watch?v=ntFZq0WlNKY
 ** the people who must be lying
 + violates the ECP
 + land surveyors
 + pilots
 + every person who has ever attempted to circumnavigate the globe
++ every person who has done celestial navigation
++ every astrophotographer
++ every person who has paid to launch a satellite
++ every person who has ever implemented satellite navigation software (ASSUMPTION: the GPS satellites literally only give you timestamps, and it is up to your software to calculate longitude/latitude based upon those timestamps, assuming a globe earth [a flat earth would have different distances to the satellites than a globe])
 ** accounting for curvature + refraction
+** Long distance observations
++ https://www.youtube.com/watch?v=kavhDHv0JW4
++ https://www.youtube.com/watch?v=xghhy7V7XIU
+** astronomical observations
++ https://www.youtube.com/watch?v=wAEwMpS__Tk
++ https://www.youtube.com/watch?v=fCZ-YmCC9nQ
++ why has nobody ever photographed polaris from the southern hemisphere?
++ stars rotating one way in the north vs the south
++ orbits https://www.youtube.com/watch?v=GDShWTVNobY
+  + procede perfectly according to Newton's laws, so it seems that they are under the force of gravity, so gravity is a thing
++ no matter the angle of the moon to you, during a lunar eclipse, a circular shadow appears. What shape always casts a circular shadow? A sphere. Why is any shadow cast if the sun and moon are both permanently "above" the plane of the earth?
+** direct observations of the ground
++ project CURVE: https://www.youtube.com/watch?v=oEe00WuKDI4
+** planes et al
++ https://www.youtube.com/watch?v=ecbQqT-VLBs
++ https://youtu.be/gh1OhB6SuYM
+** the moon landings
++ https://www.youtube.com/watch?v=03x2MC3wv5Q
++ https://www.youtube.com/watch?v=lG04Ge471mU
+** things that must be simultaneously accounted for
++ lunar + solar eclipse
++ 24 hour sun
++ seasons
++ magnetic field going from south to north
+** space denialism
++ The flat earthers constantly say that space is fake because you can't have an atmosphere next to a vacuum, but they also say that without the ice wall the water would be "gone" (https://youtu.be/qVAMbRujaAU?t=581). Where would the water /go/ to? There is no space, what is out there?
++ https://www.youtube.com/watch?v=7mzqjxp6iE0
+** the "we don't propose a model!" types
++ The claim is that it is only a sole proposition, that the earth is flat, and they need to claim nothing else, they need no model within which this claim is integrated

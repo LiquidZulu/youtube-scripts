@@ -1,8 +1,17 @@
-#+title: The Art of Argumentation
+#+title: The Art of Argumentation | The Principles of Debate
 
 * notes
+** achieve the concession before moving on
++ Kasimir: "They bounce between these arguments, neither of which is sufficient on its own, and keep thinking that they are escaping" in "The Remnant" gc
+  + I think this is a general observation
+  + I have noticed it a lot
+  + where a person will be pushed on one front, so they will try desperately to go to another
+  + particularly weasely people will end up in these loops
+  + where they keep jumping back to topics they have already lost on
+  + This is why you should always keep a person on one point and get a concession before going to the next
+** why randroids are so terrible at debating
++ ~1hr into this: https://x.com/njf_liberty/status/1829663645032480897
 ** general
-+ the purpose of the debate as determining the strategy---are you interested in convincing your interlocutor or not?
 + types of debate have different strategic considerations
   + bloodsports
     + pummel your opponent with their failings---rub their noses in it and do not let up for a single second. Immediately and prominently embarrass them for any tiny slip up---give them not a moment to correct it, instead highlight this slip up as a way to slip away from the point.
@@ -43,3 +52,7 @@ The other alternative is that we end up with some hyper-obtuse term, where we ba
 
 Such a term would not only break from the requirements of concept-formation, but would also signal to everyone with a spine that they should steer well clear of this philosophy. No radical wishes to be the lapdog of his enemies.
 #+end_comment
+** Learn How Conversation Works
++ "I just skim whenever somebody gives me a huge wall of text"
+  + "If they think a point is important for me to respond to they should state only it, and I will definitely respond to it"
+  + "people need to learn how conversation works; if you were talking to someone in person you would never give like 12 points in a row with several clauses each. You would just do point, counterpoint, on and on."

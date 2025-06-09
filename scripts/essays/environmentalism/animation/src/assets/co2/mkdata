@@ -1,0 +1,39 @@
+#!/bin/env node
+
+const { readFile, writeFile } = require("fs/promises");
+const { join, dirname } = require("path");
+
+(async () => {
+  const raw = await readFile("./co2_mm_mlo.csv", "utf8");
+  const valid = raw
+    .trim() // remove whitespace
+    .split("\n") // into rows
+    .filter((line) => line[0] !== "#") // remove comments
+    .slice(1) // get rid of titles
+    .map((row) => row.split(",")) // extract the information from the rows
+    .map(
+      ([
+        year,
+        month,
+        decimal_date,
+        average,
+        deseasonalized,
+        ndays,
+        sdev,
+        unc,
+      ]) => ({
+        year,
+        month,
+        decimal_date,
+        average,
+        deseasonalized,
+        ndays,
+        sdev,
+        unc,
+      }),
+    );
+
+  const d = `export const data = ${JSON.stringify(valid)}`;
+  writeFile("./index.ts", d);
+  console.log(`Written to ${join(dirname(process.argv[1]), "index.ts")}`);
+})();

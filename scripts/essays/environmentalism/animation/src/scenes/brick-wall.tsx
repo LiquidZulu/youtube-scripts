@@ -1,4 +1,13 @@
-import { makeScene2D, Rect, Ray, Img, Video, Circle } from "@motion-canvas/2d";
+import {
+  makeScene2D,
+  Rect,
+  Ray,
+  Img,
+  Video,
+  Circle,
+  Shape,
+  TxtProps,
+} from "@motion-canvas/2d";
 import {
   all,
   chain,
@@ -11,6 +20,7 @@ import {
   useDuration,
   linear,
   sequence,
+  waitUntil,
 } from "@motion-canvas/core";
 import {
   McasTxt as Txt,
@@ -21,6 +31,7 @@ import {
   sinFactory,
   after,
   ArrowList,
+  Tree,
 } from "mcas";
 import * as colors from "mcas/colors";
 import brickWall from "../assets/brick-wall.mp4";
@@ -29,6 +40,8 @@ import brainImg from "../assets/brain.png";
 import zombieImg from "../assets/zombie.jpg";
 import meteorImg from "../assets/meteor.jpeg";
 import gravestoneImg from "../assets/gravestone.jpg";
+import iphoneImg from "../assets/iphone-back.png";
+import moboImg from "../assets/motherboard.png";
 
 export default makeScene2D(function* (view) {
   view.fill(colors.bggreen);
@@ -276,12 +289,154 @@ export default makeScene2D(function* (view) {
       "apocalypse out",
       sequence(
         0.1,
-        zombie().scale(1).scale(0, 1),
-        meteor().scale(1).scale(0, 1),
-        gravestone().scale(1).scale(0, 1),
+        zombie().scale(1, 0).to(0, 1),
+        meteor().scale(1, 0).to(0, 1),
+        gravestone().scale(1, 0).to(0, 1),
       ),
     ),
   );
 
-  // It is this capital structure, this collection of factors that are combined to produce further factors, eventually terminating in consumers' goods, that is the mark of civilisation. Economic growth means growth in this capital structure---it is turning away from dirty, brutal nature, towards the clean and infinite power of man. The environmentalist inversion of this is a desire that man live not by using his mind to alter his environment to be habitable for him, but rather that he live as some lower animal, fending for survival and adapting to whatever circumstances he happens to be placed in. But just as a dog cannot live as a plant would by expecting his food to come to him, so too can a man not live like a dog does, by adapting himself to his environment rather than the other way around.
+  const mobo = createRef<Img>();
+  const txt: TxtProps = {
+    fontFamily: "cubano",
+    fill: "white",
+    fontSize: 15,
+  };
+  const tree = createRef<Tree>();
+
+  view.add(
+    <Tree
+      ref={tree}
+      hidden
+      rowGap={128}
+      columnGap={12}
+      crush={createSignal(() => (depth: number) => {
+        switch (depth) {
+          case 0:
+            return 1.5;
+          default:
+            return 1;
+        }
+      })}
+      tree={{
+        node: (
+          <Rect>
+            <Img ref={mobo} marginRight={-145} height={300} src={moboImg} />
+            <Img height={300} src={iphoneImg} />
+          </Rect>
+        ) as Shape,
+        children: [
+          {
+            node: (<Txt {...txt}>metal body</Txt>) as Shape,
+            children: [
+              {
+                node: (<Txt {...txt}>anodised titanium</Txt>) as Shape,
+                children: [
+                  {
+                    node: (<Txt {...txt}>raw titanium</Txt>) as Shape,
+                  },
+                  {
+                    node: (<Txt {...txt}>diode material</Txt>) as Shape,
+                  },
+                ],
+              },
+            ],
+          },
+          {
+            node: (<Txt {...txt}>circuit board</Txt>) as Shape,
+            children: [
+              {
+                node: (<Txt {...txt}>laminate insulator</Txt>) as Shape,
+                children: [
+                  { node: (<Txt {...txt}>resin</Txt>) as Shape },
+                  { node: (<Txt {...txt}>cloth</Txt>) as Shape },
+                ],
+              },
+              {
+                node: (<Txt {...txt}>copper traces</Txt>) as Shape,
+                children: [{ node: (<Txt {...txt}>raw copper</Txt>) as Shape }],
+              },
+              {
+                node: (<Txt {...txt}>glue</Txt>) as Shape,
+                children: [
+                  { node: (<Txt {...txt}>pva</Txt>) as Shape },
+                  { node: (<Txt {...txt}>solvent</Txt>) as Shape },
+                ],
+              },
+              {
+                node: (<Txt {...txt}>microchips</Txt>) as Shape,
+                children: [
+                  { node: (<Txt {...txt}>silicon wafers</Txt>) as Shape },
+                ],
+              },
+              {
+                node: (<Txt {...txt}>i/o components</Txt>) as Shape,
+                children: [
+                  { node: (<Txt {...txt}>camera</Txt>) as Shape },
+                  { node: (<Txt {...txt}>buttons</Txt>) as Shape },
+                  { node: (<Txt {...txt}>sensors</Txt>) as Shape },
+                ],
+              },
+            ],
+          },
+          {
+            node: (<Txt {...txt}>glass screen</Txt>) as Shape,
+            children: [
+              {
+                node: (<Txt {...txt}>gorilla glass</Txt>) as Shape,
+                children: [
+                  { node: (<Txt {...txt}>silica crystals</Txt>) as Shape },
+                  { node: (<Txt {...txt}>potassium</Txt>) as Shape },
+                ],
+              },
+            ],
+          },
+        ],
+      }}
+    />,
+  );
+
+  yield* all(
+    tree().show(),
+    mobo().margin([0, -100, 0, 0], 1),
+    after("highlight tree", tree().highlight(0.05)),
+  );
+  yield* waitUntil("tree out");
+  yield* tree().hide();
+
+  // It is this capital structure, this collection of factors that are combined to produce further factors, eventually terminating in consumers' goods, that is the mark of civilisation. Economic growth means growth in this capital structure---it is turning away from dirty, brutal nature, towards the clean and infinite power of man.
+
+  title().opacity(1);
+  title().scale(1);
+  title().text("");
+  list().remove();
+  cont().add(
+    <ArrowList ref={list}>
+      <Txt textWrap maxWidth={1600}>
+        Man should live not by using his mind to alter his environment to be
+        habitable for him.
+      </Txt>
+
+      <Txt textWrap maxWidth={1600}>
+        He should live as a lower animal, fending for survival and adapting to
+        whatever circumstances he happens to be placed in.
+      </Txt>
+
+      <Txt textWrap maxWidth={1600}>
+        But just as a dog cannot live as a plant would by expecting his food to
+        come to him, so too can a man not live like a dog does by adapting
+        himself to his environment, rather than the other way around.
+      </Txt>
+    </ArrowList>,
+  );
+
+  yield* all(
+    title().text("on environmentalism:".toUpperCase(), 1),
+    list().next(),
+  );
+  yield* list().next("live as a lower animal");
+  yield* list().next("dog cannot live like a plant");
+  yield* list().hideAll("list out again", fadeout(title));
+
+  // The environmentalist inversion of this is a desire that man live not by using his mind to alter his environment to be habitable for him, but rather that he live as some lower animal, fending for survival and adapting to whatever circumstances he happens to be placed in. But just as a dog cannot live as a plant would by expecting his food to come to him, so too can a man not live like a dog does, by adapting himself to his environment rather than the other way around.
 });

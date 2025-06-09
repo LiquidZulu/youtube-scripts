@@ -1,0 +1,138 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "title up",
+      "targetTime": 8.373597516946589
+    },
+    {
+      "name": "The fracking\nof oil. in",
+      "targetTime": 12.436689178739917
+    },
+    {
+      "name": "The fracking\nof oil. problem",
+      "targetTime": 14.799489833855267
+    },
+    {
+      "name": "The farming\nof cows. in",
+      "targetTime": 17.783062308735065
+    },
+    {
+      "name": "The farming\nof cows. problem",
+      "targetTime": 20.281518149955332
+    },
+    {
+      "name": "The mining\nof copper. in",
+      "targetTime": 23.377082145711146
+    },
+    {
+      "name": "The mining\nof copper. problem",
+      "targetTime": 25.60967343432082
+    },
+    {
+      "name": "The plucking\nof an apple. in",
+      "targetTime": 29.08888766569184
+    },
+    {
+      "name": "The plucking\nof an apple. problem",
+      "targetTime": 32.191775608893614
+    },
+    {
+      "name": "things out",
+      "targetTime": 45.54684302936174
+    },
+    {
+      "name": "h0",
+      "targetTime": 48.34684302936175
+    },
+    {
+      "name": "h1",
+      "targetTime": 53.6561719560501
+    },
+    {
+      "name": "gm",
+      "targetTime": 58.614107962812035
+    },
+    {
+      "name": "demands",
+      "targetTime": 66.46381092736945
+    },
+    {
+      "name": "h d1",
+      "targetTime": 69.1353400631851
+    },
+    {
+      "name": "h d2 1/2",
+      "targetTime": 102.96049257432415
+    },
+    {
+      "name": "h d2 2/2",
+      "targetTime": 126.22952239985001
+    },
+    {
+      "name": "h d3",
+      "targetTime": 150.9257440544325
+    },
+    {
+      "name": "Earth Day",
+      "targetTime": 174.0615215701103
+    },
+    {
+      "name": "ed scroll",
+      "targetTime": 177.7351222324605
+    },
+    {
+      "name": "h ed 0",
+      "targetTime": 178.7351222324605
+    },
+    {
+      "name": "h ed 1",
+      "targetTime": 181.7757096340371
+    },
+    {
+      "name": "h ed 2",
+      "targetTime": 183.87206108292375
+    },
+    {
+      "name": "Just Stop Oil",
+      "targetTime": 210.59094556207884
+    },
+    {
+      "name": "Sierra Club",
+      "targetTime": 238.1830102323904
+    },
+    {
+      "name": "sierra scroll",
+      "targetTime": 241.71409576937324
+    },
+    {
+      "name": "sierra highlight 0",
+      "targetTime": 242.71409576937324
+    },
+    {
+      "name": "sierra highlight 1",
+      "targetTime": 251.49250847219903
+    },
+    {
+      "name": "sierra highlight 2",
+      "targetTime": 255.20377364925955
+    },
+    {
+      "name": "sierra highlight 3",
+      "targetTime": 258.8442050822411
+    },
+    {
+      "name": "sierra scroll down",
+      "targetTime": 261.0747349569458
+    },
+    {
+      "name": "sierra highlight 4",
+      "targetTime": 263.8198742354928
+    },
+    {
+      "name": "blah",
+      "targetTime": 288.24621601992965
+    }
+  ],
+  "seed": 2945048796
+}

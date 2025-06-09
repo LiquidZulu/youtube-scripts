@@ -1,0 +1,46 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "what is required",
+      "targetTime": 4.539939265987925
+    },
+    {
+      "name": "rotate",
+      "targetTime": 10.126254599608112
+    },
+    {
+      "name": "glaciers",
+      "targetTime": 7.58275855952774
+    },
+    {
+      "name": "rodents",
+      "targetTime": 8.304105687170843
+    },
+    {
+      "name": "bugs",
+      "targetTime": 9.142760640822999
+    },
+    {
+      "name": "out",
+      "targetTime": 12.969038201379544
+    },
+    {
+      "name": "man lives through production",
+      "targetTime": 14.87044964156585
+    },
+    {
+      "name": "environmental marxism",
+      "targetTime": 19.357341584883354
+    },
+    {
+      "name": "on environmentalism",
+      "targetTime": 33.12429655488803
+    },
+    {
+      "name": "list out",
+      "targetTime": 43.40367797507745
+    }
+  ],
+  "seed": 466621344
+}

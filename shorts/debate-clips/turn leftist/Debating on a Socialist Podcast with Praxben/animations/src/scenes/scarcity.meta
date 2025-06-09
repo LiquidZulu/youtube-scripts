@@ -1,0 +1,822 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "Both | 0",
+      "targetTime": 0
+    },
+    {
+      "name": "of | 0",
+      "targetTime": 0.3178698310371955
+    },
+    {
+      "name": "you | 0",
+      "targetTime": 0.41786983103719555
+    },
+    {
+      "name": "consider | 0",
+      "targetTime": 0.7859070573790086
+    },
+    {
+      "name": "private | 1",
+      "targetTime": 1.7272859443450206
+    },
+    {
+      "name": "property | 1",
+      "targetTime": 1.9591545262885863
+    },
+    {
+      "name": "to | 1",
+      "targetTime": 2.5149611464848247
+    },
+    {
+      "name": "be | 1",
+      "targetTime": 2.642194875364474
+    },
+    {
+      "name": "something | 2",
+      "targetTime": 2.7421948753644743
+    },
+    {
+      "name": "that | 2",
+      "targetTime": 3.187633225890554
+    },
+    {
+      "name": "ostensively | 2",
+      "targetTime": 3.96704309373023
+    },
+    {
+      "name": "would | 3",
+      "targetTime": 4.451182006348443
+    },
+    {
+      "name": "be | 3",
+      "targetTime": 4.575549026924971
+    },
+    {
+      "name": "infinite— | 3",
+      "targetTime": 5.091221730877515
+    },
+    {
+      "name": "you | 4",
+      "targetTime": 5.475214236315735
+    },
+    {
+      "name": "can | 4",
+      "targetTime": 5.6239482774687914
+    },
+    {
+      "name": "have | 4",
+      "targetTime": 5.723948277468791
+    },
+    {
+      "name": "as | 4",
+      "targetTime": 6.901830599442285
+    },
+    {
+      "name": "much | 4",
+      "targetTime": 7.0734983070203095
+    },
+    {
+      "name": "private | 5",
+      "targetTime": 7.351234221813811
+    },
+    {
+      "name": "property | 5",
+      "targetTime": 7.646170386426038
+    },
+    {
+      "name": "as | 6",
+      "targetTime": 8.385446338022021
+    },
+    {
+      "name": "you | 6",
+      "targetTime": 8.85811841742775
+    },
+    {
+      "name": "can | 6",
+      "targetTime": 8.979618729701157
+    },
+    {
+      "name": "acquire? | 6",
+      "targetTime": 9.079618729701156
+    },
+    {
+      "name": "Yeah. | 7",
+      "targetTime": 10.230267322795001
+    },
+    {
+      "name": "OK, | 8",
+      "targetTime": 10.583971007621209
+    },
+    {
+      "name": "and | 8",
+      "targetTime": 10.960608358872385
+    },
+    {
+      "name": "how | 8",
+      "targetTime": 11.337245710123561
+    },
+    {
+      "name": "does | 8",
+      "targetTime": 11.541880563187478
+    },
+    {
+      "name": "that | 8",
+      "targetTime": 11.641880563187478
+    },
+    {
+      "name": "interface | 8",
+      "targetTime": 12.166153392049385
+    },
+    {
+      "name": "with | 9",
+      "targetTime": 13.015797613315524
+    },
+    {
+      "name": "the | 9",
+      "targetTime": 13.39530167286982
+    },
+    {
+      "name": "idea | 9",
+      "targetTime": 13.49530167286982
+    },
+    {
+      "name": "that | 9",
+      "targetTime": 13.841838586938225
+    },
+    {
+      "name": "resources | 10",
+      "targetTime": 13.941838586938225
+    },
+    {
+      "name": "are | 10",
+      "targetTime": 14.534912415075036
+    },
+    {
+      "name": "finite? | 10",
+      "targetTime": 14.785414600988888
+    },
+    {
+      "name": "Well | 11",
+      "targetTime": 15.35125470024605
+    },
+    {
+      "name": "it's | 11",
+      "targetTime": 15.45125470024605
+    },
+    {
+      "name": "implied | 11",
+      "targetTime": 15.55125470024605
+    },
+    {
+      "name": "by | 11",
+      "targetTime": 16.04972715437987
+    },
+    {
+      "name": "the | 11",
+      "targetTime": 16.14972715437987
+    },
+    {
+      "name": "fact | 11",
+      "targetTime": 16.249727154379872
+    },
+    {
+      "name": "that | 12",
+      "targetTime": 16.456559134528444
+    },
+    {
+      "name": "resources | 12",
+      "targetTime": 16.556559134528445
+    },
+    {
+      "name": "are | 12",
+      "targetTime": 16.911696173506215
+    },
+    {
+      "name": "finite, | 12",
+      "targetTime": 17.011696173506216
+    },
+    {
+      "name": "it's | 13",
+      "targetTime": 18.03190953880806
+    },
+    {
+      "name": "the | 13",
+      "targetTime": 18.175606461792395
+    },
+    {
+      "name": "fact | 13",
+      "targetTime": 18.275606461792396
+    },
+    {
+      "name": "that | 13",
+      "targetTime": 18.5066972307454
+    },
+    {
+      "name": "we | 13",
+      "targetTime": 18.6066972307454
+    },
+    {
+      "name": "have | 14",
+      "targetTime": 18.798772889890962
+    },
+    {
+      "name": "finite | 14",
+      "targetTime": 19.134424153127906
+    },
+    {
+      "name": "resources– | 14",
+      "targetTime": 19.448226954872684
+    },
+    {
+      "name": "that | 15",
+      "targetTime": 20.621922776773463
+    },
+    {
+      "name": "we | 15",
+      "targetTime": 20.721922776773464
+    },
+    {
+      "name": "have | 15",
+      "targetTime": 20.821922776773466
+    },
+    {
+      "name": "scarce | 15",
+      "targetTime": 20.921922776773467
+    },
+    {
+      "name": "means– | 15",
+      "targetTime": 21.56345250090075
+    },
+    {
+      "name": "this | 16",
+      "targetTime": 22.336072993981034
+    },
+    {
+      "name": "implies | 16",
+      "targetTime": 22.436072993981035
+    },
+    {
+      "name": "that | 16",
+      "targetTime": 23.01673914680871
+    },
+    {
+      "name": "there | 16",
+      "targetTime": 23.116739146808712
+    },
+    {
+      "name": "can | 17",
+      "targetTime": 23.24483002587007
+    },
+    {
+      "name": "indeed | 17",
+      "targetTime": 23.56331464079174
+    },
+    {
+      "name": "be | 17",
+      "targetTime": 24.00820821148952
+    },
+    {
+      "name": "conflicts, | 17",
+      "targetTime": 24.172192991573727
+    },
+    {
+      "name": "and | 18",
+      "targetTime": 25.4145554067356
+    },
+    {
+      "name": "the | 18",
+      "targetTime": 25.514555406735603
+    },
+    {
+      "name": "fact | 18",
+      "targetTime": 25.614555406735604
+    },
+    {
+      "name": "that | 18",
+      "targetTime": 25.714555406735606
+    },
+    {
+      "name": "there | 18",
+      "targetTime": 25.814555406735607
+    },
+    {
+      "name": "can | 19",
+      "targetTime": 26.05813101082699
+    },
+    {
+      "name": "indeed | 19",
+      "targetTime": 26.272055131464718
+    },
+    {
+      "name": "be | 19",
+      "targetTime": 26.66856996600127
+    },
+    {
+      "name": "conflicts | 19",
+      "targetTime": 26.768569966001273
+    },
+    {
+      "name": "means | 19",
+      "targetTime": 27.867356777071763
+    },
+    {
+      "name": "that | 20",
+      "targetTime": 28.157750512932076
+    },
+    {
+      "name": "we | 20",
+      "targetTime": 28.287523315278683
+    },
+    {
+      "name": "need | 20",
+      "targetTime": 28.387523315278685
+    },
+    {
+      "name": "an | 20",
+      "targetTime": 29.071189357998005
+    },
+    {
+      "name": "area | 20",
+      "targetTime": 29.171189357998006
+    },
+    {
+      "name": "of | 20",
+      "targetTime": 29.271189357998008
+    },
+    {
+      "name": "philosophy | 20",
+      "targetTime": 29.37118935799801
+    },
+    {
+      "name": "called | 21",
+      "targetTime": 29.917522214195134
+    },
+    {
+      "name": "law, | 21",
+      "targetTime": 30.017522214195136
+    },
+    {
+      "name": "where | 21",
+      "targetTime": 30.826036608298267
+    },
+    {
+      "name": "we | 21",
+      "targetTime": 30.92603660829827
+    },
+    {
+      "name": "deal | 21",
+      "targetTime": 31.02603660829827
+    },
+    {
+      "name": "with: | 21",
+      "targetTime": 31.222794080620726
+    },
+    {
+      "name": "OK, | 22",
+      "targetTime": 31.48665754181198
+    },
+    {
+      "name": "how | 22",
+      "targetTime": 32.148475123039134
+    },
+    {
+      "name": "exactly | 22",
+      "targetTime": 32.310899298731044
+    },
+    {
+      "name": "do | 22",
+      "targetTime": 32.76359589139031
+    },
+    {
+      "name": "we | 22",
+      "targetTime": 32.86359589139031
+    },
+    {
+      "name": "resolve | 23",
+      "targetTime": 32.96359589139031
+    },
+    {
+      "name": "these | 23",
+      "targetTime": 33.388201604988225
+    },
+    {
+      "name": "conflicts? | 23",
+      "targetTime": 33.48820160498823
+    },
+    {
+      "name": "Do | 24",
+      "targetTime": 34.79047958661172
+    },
+    {
+      "name": "we | 24",
+      "targetTime": 34.89047958661172
+    },
+    {
+      "name": "give | 24",
+      "targetTime": 35.03759359385877
+    },
+    {
+      "name": "precedence | 24",
+      "targetTime": 35.33417272754476
+    },
+    {
+      "name": "to | 24",
+      "targetTime": 35.91506052565263
+    },
+    {
+      "name": "the | 25",
+      "targetTime": 36.07842074229522
+    },
+    {
+      "name": "initiator | 25",
+      "targetTime": 36.436735471684244
+    },
+    {
+      "name": "of | 25",
+      "targetTime": 36.90744443152784
+    },
+    {
+      "name": "this | 25",
+      "targetTime": 37.007444431527844
+    },
+    {
+      "name": "conflict | 25",
+      "targetTime": 37.14289070657265
+    },
+    {
+      "name": "or | 26",
+      "targetTime": 38.040431895080786
+    },
+    {
+      "name": "the | 26",
+      "targetTime": 38.21427830142413
+    },
+    {
+      "name": "non-initiator | 26",
+      "targetTime": 38.31427830142413
+    },
+    {
+      "name": "of | 26",
+      "targetTime": 38.98732641464849
+    },
+    {
+      "name": "this | 26",
+      "targetTime": 39.087326414648494
+    },
+    {
+      "name": "conflict? | 26",
+      "targetTime": 39.187326414648496
+    },
+    {
+      "name": "'Cause | 27",
+      "targetTime": 40.25619126587319
+    },
+    {
+      "name": "they | 27",
+      "targetTime": 40.586160941037484
+    },
+    {
+      "name": "can't | 27",
+      "targetTime": 40.686160941037485
+    },
+    {
+      "name": "both | 27",
+      "targetTime": 40.926469113089844
+    },
+    {
+      "name": "win | 27",
+      "targetTime": 41.1756388539034
+    },
+    {
+      "name": "by | 28",
+      "targetTime": 41.63453238873206
+    },
+    {
+      "name": "definition | 28",
+      "targetTime": 41.81428650758288
+    },
+    {
+      "name": "of | 28",
+      "targetTime": 42.18308742667266
+    },
+    {
+      "name": "what | 28",
+      "targetTime": 42.28308742667266
+    },
+    {
+      "name": "a | 28",
+      "targetTime": 42.42296448609807
+    },
+    {
+      "name": "conflict | 28",
+      "targetTime": 42.52296448609807
+    },
+    {
+      "name": "is: | 28",
+      "targetTime": 43.02911972098647
+    },
+    {
+      "name": "it's | 29",
+      "targetTime": 43.28715103056123
+    },
+    {
+      "name": "contradictory | 29",
+      "targetTime": 43.571767046419595
+    },
+    {
+      "name": "action— | 29",
+      "targetTime": 44.144384047017006
+    },
+    {
+      "name": "only | 30",
+      "targetTime": 45.09509464809235
+    },
+    {
+      "name": "one | 30",
+      "targetTime": 45.375279879570115
+    },
+    {
+      "name": "can | 30",
+      "targetTime": 45.81349642062264
+    },
+    {
+      "name": "win, | 30",
+      "targetTime": 45.91349642062264
+    },
+    {
+      "name": "'cause | 30",
+      "targetTime": 46.74162198716803
+    },
+    {
+      "name": "their | 31",
+      "targetTime": 47.275838856466905
+    },
+    {
+      "name": "actions | 31",
+      "targetTime": 47.48365460972819
+    },
+    {
+      "name": "are | 31",
+      "targetTime": 47.8288246787881
+    },
+    {
+      "name": "mutually | 31",
+      "targetTime": 48.14445618531067
+    },
+    {
+      "name": "exclusive, | 31",
+      "targetTime": 48.45713383557951
+    },
+    {
+      "name": "so | 32",
+      "targetTime": 49.60427587752815
+    },
+    {
+      "name": "it's | 32",
+      "targetTime": 49.704275877528154
+    },
+    {
+      "name": "like | 32",
+      "targetTime": 49.804275877528156
+    },
+    {
+      "name": "if, | 32",
+      "targetTime": 50.12729202468506
+    },
+    {
+      "name": "you | 32",
+      "targetTime": 50.41486189679716
+    },
+    {
+      "name": "know, | 32",
+      "targetTime": 50.514861896797164
+    },
+    {
+      "name": "Crusoe | 33",
+      "targetTime": 50.74692320296129
+    },
+    {
+      "name": "and | 33",
+      "targetTime": 51.00347758440918
+    },
+    {
+      "name": "Friday, | 33",
+      "targetTime": 51.103477584409184
+    },
+    {
+      "name": "they | 34",
+      "targetTime": 51.96932464724524
+    },
+    {
+      "name": "have | 34",
+      "targetTime": 52.06932464724524
+    },
+    {
+      "name": "a | 34",
+      "targetTime": 52.16932464724524
+    },
+    {
+      "name": "stick | 34",
+      "targetTime": 52.26932464724524
+    },
+    {
+      "name": "here, | 34",
+      "targetTime": 52.45055569422292
+    },
+    {
+      "name": "and | 35",
+      "targetTime": 53.23160315095459
+    },
+    {
+      "name": "Crusoe | 35",
+      "targetTime": 53.804220151552
+    },
+    {
+      "name": "wants | 35",
+      "targetTime": 54.07111302988796
+    },
+    {
+      "name": "to | 36",
+      "targetTime": 54.34360216621556
+    },
+    {
+      "name": "use | 36",
+      "targetTime": 54.44360216621556
+    },
+    {
+      "name": "it | 36",
+      "targetTime": 54.543602166215564
+    },
+    {
+      "name": "for | 36",
+      "targetTime": 54.71301778817831
+    },
+    {
+      "name": "spearfishing, | 36",
+      "targetTime": 55.09806491666363
+    },
+    {
+      "name": "Friday | 37",
+      "targetTime": 55.832712898589456
+    },
+    {
+      "name": "wants | 37",
+      "targetTime": 56.12471355508215
+    },
+    {
+      "name": "to | 38",
+      "targetTime": 56.224713555082154
+    },
+    {
+      "name": "use | 38",
+      "targetTime": 56.324713555082155
+    },
+    {
+      "name": "it | 38",
+      "targetTime": 56.42471355508216
+    },
+    {
+      "name": "to | 38-8168",
+      "targetTime": 56.52471355508216
+    },
+    {
+      "name": "stoke | 38",
+      "targetTime": 56.62471355508216
+    },
+    {
+      "name": "his | 38",
+      "targetTime": 56.72471355508216
+    },
+    {
+      "name": "fire, | 38",
+      "targetTime": 56.82471355508216
+    },
+    {
+      "name": "they | 39",
+      "targetTime": 57.69271618105296
+    },
+    {
+      "name": "can't | 39",
+      "targetTime": 57.79271618105296
+    },
+    {
+      "name": "both | 39",
+      "targetTime": 58.00643964682171
+    },
+    {
+      "name": "do | 39",
+      "targetTime": 58.2186861844636
+    },
+    {
+      "name": "that | 39",
+      "targetTime": 58.3186861844636
+    },
+    {
+      "name": "at | 40",
+      "targetTime": 58.54570200337416
+    },
+    {
+      "name": "the | 40",
+      "targetTime": 58.64570200337416
+    },
+    {
+      "name": "same | 40",
+      "targetTime": 58.74570200337416
+    },
+    {
+      "name": "time, | 40",
+      "targetTime": 58.960902397269784
+    },
+    {
+      "name": "one | 41",
+      "targetTime": 59.5556733197702
+    },
+    {
+      "name": "of | 41",
+      "targetTime": 59.6556733197702
+    },
+    {
+      "name": "them | 41",
+      "targetTime": 59.7556733197702
+    },
+    {
+      "name": "has | 41",
+      "targetTime": 60.00927384496436
+    },
+    {
+      "name": "to | 41",
+      "targetTime": 60.212658813845046
+    },
+    {
+      "name": "win | 41",
+      "targetTime": 60.31265881384505
+    },
+    {
+      "name": "out, | 41",
+      "targetTime": 60.41265881384505
+    },
+    {
+      "name": "Anarcho-Capitalists | 42",
+      "targetTime": 61.11524548960675
+    },
+    {
+      "name": "are | 42",
+      "targetTime": 61.652416215159356
+    },
+    {
+      "name": "saying | 42",
+      "targetTime": 61.75241621515936
+    },
+    {
+      "name": "that | 42",
+      "targetTime": 62.237894456271626
+    },
+    {
+      "name": "the | 43",
+      "targetTime": 62.6163552372416
+    },
+    {
+      "name": "person | 43",
+      "targetTime": 62.7163552372416
+    },
+    {
+      "name": "who | 43",
+      "targetTime": 62.9950635405925
+    },
+    {
+      "name": "didn't | 43",
+      "targetTime": 63.32989511276434
+    },
+    {
+      "name": "initiate | 43",
+      "targetTime": 63.49783380660022
+    },
+    {
+      "name": "the | 44",
+      "targetTime": 63.89617328822734
+    },
+    {
+      "name": "conflict | 44",
+      "targetTime": 63.99617328822734
+    },
+    {
+      "name": "should | 44",
+      "targetTime": 64.34872799792157
+    },
+    {
+      "name": "win | 44",
+      "targetTime": 64.44872799792157
+    },
+    {
+      "name": "out, | 44",
+      "targetTime": 64.54872799792156
+    },
+    {
+      "name": "End mkSubtitles for prefix: no prefix specified",
+      "targetTime": 65.1464527766757
+    }
+  ],
+  "seed": 456822638
+}

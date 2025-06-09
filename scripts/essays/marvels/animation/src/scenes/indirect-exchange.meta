@@ -86,52 +86,56 @@
       "targetTime": 83.88719944557889
     },
     {
+      "name": "moe title",
+      "targetTime": 88.04809933491877
+    },
+    {
       "name": "many media of exchange",
-      "targetTime": 92.82412397160081
+      "targetTime": 92.76205917746893
     },
     {
       "name": "how many exchanges?",
-      "targetTime": 100.76553637480414
+      "targetTime": 100.70347158067226
     },
     {
       "name": "money",
-      "targetTime": 105.81551878979724
+      "targetTime": 105.75345399566535
     },
     {
       "name": "trades out",
-      "targetTime": 124.0690477019756
+      "targetTime": 124.00698290784372
     },
     {
       "name": "lines of production",
-      "targetTime": 125.51904770197561
+      "targetTime": 125.45698290784372
     },
     {
       "name": "profit",
-      "targetTime": 132.59839536175286
+      "targetTime": 132.53633056762098
     },
     {
       "name": "incentive",
-      "targetTime": 135.20439315923457
+      "targetTime": 135.14232836510268
     },
     {
       "name": "ion exchange",
-      "targetTime": 142.22100302875174
+      "targetTime": 142.15893823461985
     },
     {
       "name": "remove lop",
-      "targetTime": 150.72615079907598
+      "targetTime": 150.6640860049441
     },
     {
       "name": "economic calculation",
-      "targetTime": 155.42448145063182
+      "targetTime": 155.36241665649993
     },
     {
       "name": "maximise profit",
-      "targetTime": 178.4930688727084
+      "targetTime": 178.4310040785765
     },
     {
       "name": "end",
-      "targetTime": 180.13288525908246
+      "targetTime": 180.07082046495057
     }
   ],
   "seed": 2627265546

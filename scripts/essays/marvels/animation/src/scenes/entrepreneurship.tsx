@@ -156,7 +156,7 @@ export default makeScene2D(function* (view) {
     >
       <Rect opacity={0} ref={computer} width={500} height={425}>
         <Rect layout={false} position={[0, -90]} clip height={200} width={250}>
-          <Video ref={tracker} src={stockChart} width={380} />
+          <Video loop ref={tracker} src={stockChart} width={380} />
         </Rect>
         <Img layout={false} width={500} src={computerImg} />
       </Rect>

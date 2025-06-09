@@ -1,0 +1,902 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "Let's | 0",
+      "targetTime": 0
+    },
+    {
+      "name": "say, | 0",
+      "targetTime": 0.1
+    },
+    {
+      "name": "Nestlé | 0",
+      "targetTime": 0.5232335374065331
+    },
+    {
+      "name": "taking | 0",
+      "targetTime": 1.1647489112462197
+    },
+    {
+      "name": "control | 0",
+      "targetTime": 1.5645163503360462
+    },
+    {
+      "name": "of | 1",
+      "targetTime": 1.8941768883484134
+    },
+    {
+      "name": "the | 1",
+      "targetTime": 1.9941768883484134
+    },
+    {
+      "name": "California | 1",
+      "targetTime": 2.447128873083209
+    },
+    {
+      "name": "river | 1",
+      "targetTime": 2.7695369730530803
+    },
+    {
+      "name": "systems | 1",
+      "targetTime": 3.1892036636314076
+    },
+    {
+      "name": "in | 2",
+      "targetTime": 3.6052377781804354
+    },
+    {
+      "name": "central | 2",
+      "targetTime": 3.8414593792791543
+    },
+    {
+      "name": "and | 2",
+      "targetTime": 4.123088180744113
+    },
+    {
+      "name": "northwest | 2",
+      "targetTime": 4.310270005447292
+    },
+    {
+      "name": "California, | 2",
+      "targetTime": 4.768078744333261
+    },
+    {
+      "name": "they | 3",
+      "targetTime": 5.4365768929185805
+    },
+    {
+      "name": "obtained | 3",
+      "targetTime": 5.53657689291858
+    },
+    {
+      "name": "the | 3",
+      "targetTime": 5.801859102251692
+    },
+    {
+      "name": "river | 3",
+      "targetTime": 5.9018591022516915
+    },
+    {
+      "name": "rights | 3",
+      "targetTime": 6.174406463643402
+    },
+    {
+      "name": "back | 4",
+      "targetTime": 6.748457635466944
+    },
+    {
+      "name": "in | 4",
+      "targetTime": 7.113635685605783
+    },
+    {
+      "name": "the | 4",
+      "targetTime": 7.213635685605783
+    },
+    {
+      "name": "1890s, | 4",
+      "targetTime": 7.3136356856057825
+    },
+    {
+      "name": "after | 5",
+      "targetTime": 8.512489934468782
+    },
+    {
+      "name": "about | 5",
+      "targetTime": 8.910361168871313
+    },
+    {
+      "name": "a | 5",
+      "targetTime": 9.429923700255367
+    },
+    {
+      "name": "10-year | 5",
+      "targetTime": 9.529923700255367
+    },
+    {
+      "name": "drought | 5",
+      "targetTime": 10.00407903127318
+    },
+    {
+      "name": "when | 5",
+      "targetTime": 10.513460251705093
+    },
+    {
+      "name": "water | 6",
+      "targetTime": 10.866081170098338
+    },
+    {
+      "name": "is | 6",
+      "targetTime": 11.349523635516658
+    },
+    {
+      "name": "looking | 6",
+      "targetTime": 11.449523635516657
+    },
+    {
+      "name": "more | 7",
+      "targetTime": 11.790866834338777
+    },
+    {
+      "name": "and | 7",
+      "targetTime": 11.890866834338777
+    },
+    {
+      "name": "more | 7-9771",
+      "targetTime": 11.990866834338776
+    },
+    {
+      "name": "scarce | 7",
+      "targetTime": 12.194621854393144
+    },
+    {
+      "name": "in | 8",
+      "targetTime": 12.57205375584287
+    },
+    {
+      "name": "that | 8",
+      "targetTime": 12.67205375584287
+    },
+    {
+      "name": "area | 8",
+      "targetTime": 12.91415302243907
+    },
+    {
+      "name": "of | 8",
+      "targetTime": 13.147230113378368
+    },
+    {
+      "name": "the | 8",
+      "targetTime": 13.247230113378368
+    },
+    {
+      "name": "world, | 8",
+      "targetTime": 13.347230113378368
+    },
+    {
+      "name": "people | 9",
+      "targetTime": 13.838566982496477
+    },
+    {
+      "name": "are | 9",
+      "targetTime": 14.167013686414274
+    },
+    {
+      "name": "having | 9",
+      "targetTime": 14.267013686414273
+    },
+    {
+      "name": "less | 9",
+      "targetTime": 14.662870893127485
+    },
+    {
+      "name": "and | 9",
+      "targetTime": 15.019405306543371
+    },
+    {
+      "name": "less | 9-50",
+      "targetTime": 15.11940530654337
+    },
+    {
+      "name": "reliable | 10",
+      "targetTime": 15.670681172479346
+    },
+    {
+      "name": "water | 10",
+      "targetTime": 16.291240055177276
+    },
+    {
+      "name": "access, | 10",
+      "targetTime": 16.651519496526245
+    },
+    {
+      "name": "so | 10",
+      "targetTime": 17.307656144588424
+    },
+    {
+      "name": "that | 11",
+      "targetTime": 18.285865194895365
+    },
+    {
+      "name": "initial | 11",
+      "targetTime": 18.745387876470915
+    },
+    {
+      "name": "right | 11",
+      "targetTime": 19.283556144641118
+    },
+    {
+      "name": "in | 11",
+      "targetTime": 19.585787653027364
+    },
+    {
+      "name": "the | 11",
+      "targetTime": 19.685787653027365
+    },
+    {
+      "name": "1890s | 11",
+      "targetTime": 19.785787653027366
+    },
+    {
+      "name": "being | 12",
+      "targetTime": 21.22463513910298
+    },
+    {
+      "name": "used | 12",
+      "targetTime": 21.451966088827653
+    },
+    {
+      "name": "as | 12",
+      "targetTime": 21.716747317883115
+    },
+    {
+      "name": "license | 12",
+      "targetTime": 21.816747317883117
+    },
+    {
+      "name": "to | 12",
+      "targetTime": 22.405114468730172
+    },
+    {
+      "name": "continue | 13",
+      "targetTime": 22.505114468730174
+    },
+    {
+      "name": "to | 13",
+      "targetTime": 23.0777835190055
+    },
+    {
+      "name": "take | 13",
+      "targetTime": 23.1777835190055
+    },
+    {
+      "name": "water | 13",
+      "targetTime": 23.480015027391747
+    },
+    {
+      "name": "from | 13",
+      "targetTime": 23.8253143570084
+    },
+    {
+      "name": "people | 13",
+      "targetTime": 23.9253143570084
+    },
+    {
+      "name": "who | 14",
+      "targetTime": 24.341769217353544
+    },
+    {
+      "name": "need | 14",
+      "targetTime": 24.687068546970195
+    },
+    {
+      "name": "it | 14",
+      "targetTime": 24.94623223412604
+    },
+    {
+      "name": "to | 14",
+      "targetTime": 25.04623223412604
+    },
+    {
+      "name": "live, | 14",
+      "targetTime": 25.146232234126042
+    },
+    {
+      "name": "who | 15",
+      "targetTime": 25.858544301184402
+    },
+    {
+      "name": "is | 15",
+      "targetTime": 26.10272787660793
+    },
+    {
+      "name": "the | 15",
+      "targetTime": 26.20272787660793
+    },
+    {
+      "name": "aggressor | 15",
+      "targetTime": 26.302727876607932
+    },
+    {
+      "name": "in | 16",
+      "targetTime": 26.8727288822093
+    },
+    {
+      "name": "that | 16",
+      "targetTime": 26.972728882209303
+    },
+    {
+      "name": "situation? | 16",
+      "targetTime": 27.072728882209304
+    },
+    {
+      "name": "I | 17",
+      "targetTime": 27.781619440798867
+    },
+    {
+      "name": "just | 17",
+      "targetTime": 28.03868812404022
+    },
+    {
+      "name": "own | 17",
+      "targetTime": 28.220282245204558
+    },
+    {
+      "name": "a | 17",
+      "targetTime": 28.32028224520456
+    },
+    {
+      "name": "well | 17",
+      "targetTime": 28.42028224520456
+    },
+    {
+      "name": "and | 17",
+      "targetTime": 28.805861669279746
+    },
+    {
+      "name": "everybody | 18",
+      "targetTime": 29.079249176753965
+    },
+    {
+      "name": "else | 18",
+      "targetTime": 29.413832275101438
+    },
+    {
+      "name": "around | 18",
+      "targetTime": 29.707618312866742
+    },
+    {
+      "name": "me, | 18",
+      "targetTime": 29.807618312866744
+    },
+    {
+      "name": "they | 19",
+      "targetTime": 30.132002146068675
+    },
+    {
+      "name": "need | 19",
+      "targetTime": 30.440067155037738
+    },
+    {
+      "name": "water | 19",
+      "targetTime": 30.76445098823967
+    },
+    {
+      "name": "to | 19",
+      "targetTime": 31.0643565850923
+    },
+    {
+      "name": "live, | 19",
+      "targetTime": 31.1643565850923
+    },
+    {
+      "name": "and | 20",
+      "targetTime": 31.911367607909177
+    },
+    {
+      "name": "there's | 20",
+      "targetTime": 32.01136760790918
+    },
+    {
+      "name": "no | 20",
+      "targetTime": 32.11136760790918
+    },
+    {
+      "name": "other | 20",
+      "targetTime": 32.21136760790918
+    },
+    {
+      "name": "sources | 20",
+      "targetTime": 32.53120861607482
+    },
+    {
+      "name": "of | 21",
+      "targetTime": 32.88508952227901
+    },
+    {
+      "name": "water | 21",
+      "targetTime": 32.98508952227901
+    },
+    {
+      "name": "around, | 21",
+      "targetTime": 33.15742430561093
+    },
+    {
+      "name": "and | 21",
+      "targetTime": 34.14246165461323
+    },
+    {
+      "name": "I | 22",
+      "targetTime": 34.53747410428066
+    },
+    {
+      "name": "don't | 22",
+      "targetTime": 34.63747410428066
+    },
+    {
+      "name": "want | 22",
+      "targetTime": 34.737474104280665
+    },
+    {
+      "name": "to | 22",
+      "targetTime": 34.837474104280666
+    },
+    {
+      "name": "give | 22",
+      "targetTime": 34.93747410428067
+    },
+    {
+      "name": "them | 22",
+      "targetTime": 35.03747410428067
+    },
+    {
+      "name": "any | 23",
+      "targetTime": 35.13747410428067
+    },
+    {
+      "name": "of | 23",
+      "targetTime": 35.23747410428067
+    },
+    {
+      "name": "my | 23",
+      "targetTime": 35.33747410428067
+    },
+    {
+      "name": "water, | 23",
+      "targetTime": 35.437474104280675
+    },
+    {
+      "name": "is | 24",
+      "targetTime": 36.25231196309022
+    },
+    {
+      "name": "it | 24",
+      "targetTime": 36.35231196309022
+    },
+    {
+      "name": "just | 24",
+      "targetTime": 36.452311963090224
+    },
+    {
+      "name": "for | 24",
+      "targetTime": 36.8854417808057
+    },
+    {
+      "name": "them | 24",
+      "targetTime": 36.9854417808057
+    },
+    {
+      "name": "to | 24",
+      "targetTime": 37.2855637225835
+    },
+    {
+      "name": "steal | 25",
+      "targetTime": 37.48440443772984
+    },
+    {
+      "name": "water | 25",
+      "targetTime": 37.72839461535045
+    },
+    {
+      "name": "from | 25",
+      "targetTime": 38.01021272099003
+    },
+    {
+      "name": "me? | 25",
+      "targetTime": 38.110212720990035
+    },
+    {
+      "name": "My | 26",
+      "targetTime": 38.903317982757024
+    },
+    {
+      "name": "answer | 26",
+      "targetTime": 39.003317982757025
+    },
+    {
+      "name": "would | 26",
+      "targetTime": 39.28147532116896
+    },
+    {
+      "name": "be | 26",
+      "targetTime": 39.38147532116896
+    },
+    {
+      "name": "no, | 26",
+      "targetTime": 39.720645446708275
+    },
+    {
+      "name": "and | 26",
+      "targetTime": 40.277021094421045
+    },
+    {
+      "name": "I | 27",
+      "targetTime": 40.58812533788176
+    },
+    {
+      "name": "can | 27",
+      "targetTime": 40.805269889166325
+    },
+    {
+      "name": "kind | 27",
+      "targetTime": 40.90526988916633
+    },
+    {
+      "name": "of | 27",
+      "targetTime": 41.00526988916633
+    },
+    {
+      "name": "illustrate | 27",
+      "targetTime": 41.74346364251868
+    },
+    {
+      "name": "this | 27",
+      "targetTime": 42.41217442045957
+    },
+    {
+      "name": "with | 28",
+      "targetTime": 42.724898299231356
+    },
+    {
+      "name": "an | 28",
+      "targetTime": 43.15375205059794
+    },
+    {
+      "name": "easier | 28",
+      "targetTime": 43.25375205059794
+    },
+    {
+      "name": "example | 28",
+      "targetTime": 43.52306289288568
+    },
+    {
+      "name": "to | 28",
+      "targetTime": 44.1049475978585
+    },
+    {
+      "name": "see | 28",
+      "targetTime": 44.2049475978585
+    },
+    {
+      "name": "why | 29",
+      "targetTime": 44.43301605548641
+    },
+    {
+      "name": "it | 29",
+      "targetTime": 44.720777438279875
+    },
+    {
+      "name": "would | 29",
+      "targetTime": 44.820777438279876
+    },
+    {
+      "name": "be | 29",
+      "targetTime": 44.92077743827988
+    },
+    {
+      "name": "wrong | 30",
+      "targetTime": 45.02077743827988
+    },
+    {
+      "name": "to | 30",
+      "targetTime": 45.2629551327651
+    },
+    {
+      "name": "steal | 30",
+      "targetTime": 45.3629551327651
+    },
+    {
+      "name": "the | 30",
+      "targetTime": 45.51939208019435
+    },
+    {
+      "name": "water: | 30",
+      "targetTime": 45.61939208019435
+    },
+    {
+      "name": "imagine | 31",
+      "targetTime": 46.55617835842418
+    },
+    {
+      "name": "I | 31",
+      "targetTime": 47.11961252289128
+    },
+    {
+      "name": "had | 31",
+      "targetTime": 47.370472824673314
+    },
+    {
+      "name": "a | 31",
+      "targetTime": 47.470472824673315
+    },
+    {
+      "name": "disease | 31",
+      "targetTime": 47.63125107575097
+    },
+    {
+      "name": "where | 31",
+      "targetTime": 48.54850148756297
+    },
+    {
+      "name": "I | 32",
+      "targetTime": 48.796105811608705
+    },
+    {
+      "name": "will | 32",
+      "targetTime": 48.896105811608706
+    },
+    {
+      "name": "die | 32",
+      "targetTime": 48.99610581160871
+    },
+    {
+      "name": "in | 32",
+      "targetTime": 49.26650197980855
+    },
+    {
+      "name": "a | 32",
+      "targetTime": 49.366501979808554
+    },
+    {
+      "name": "week | 32",
+      "targetTime": 49.466501979808555
+    },
+    {
+      "name": "if | 32",
+      "targetTime": 50.03210679609986
+    },
+    {
+      "name": "I | 32-9748",
+      "targetTime": 50.13210679609986
+    },
+    {
+      "name": "do | 32",
+      "targetTime": 50.23210679609986
+    },
+    {
+      "name": "not | 33",
+      "targetTime": 50.332106796099865
+    },
+    {
+      "name": "have | 33",
+      "targetTime": 50.432106796099866
+    },
+    {
+      "name": "s*x | 33",
+      "targetTime": 50.53210679609987
+    },
+    {
+      "name": "with | 33",
+      "targetTime": 50.88932903726779
+    },
+    {
+      "name": "a | 33",
+      "targetTime": 50.989329037267794
+    },
+    {
+      "name": "woman, | 33",
+      "targetTime": 51.089329037267795
+    },
+    {
+      "name": "and | 34",
+      "targetTime": 51.69074960865843
+    },
+    {
+      "name": "no | 34",
+      "targetTime": 51.79074960865843
+    },
+    {
+      "name": "woman | 34",
+      "targetTime": 51.89074960865843
+    },
+    {
+      "name": "wants | 34",
+      "targetTime": 52.66690765189732
+    },
+    {
+      "name": "to | 34",
+      "targetTime": 52.88520817631632
+    },
+    {
+      "name": "have | 34",
+      "targetTime": 52.98520817631632
+    },
+    {
+      "name": "s*x | 35",
+      "targetTime": 53.08520817631632
+    },
+    {
+      "name": "with | 35",
+      "targetTime": 53.34909238904356
+    },
+    {
+      "name": "me, | 35",
+      "targetTime": 53.449092389043564
+    },
+    {
+      "name": "would | 35",
+      "targetTime": 54.377196059976576
+    },
+    {
+      "name": "I | 35",
+      "targetTime": 54.47719605997658
+    },
+    {
+      "name": "be | 35",
+      "targetTime": 54.57719605997658
+    },
+    {
+      "name": "allowed | 36",
+      "targetTime": 54.67719605997658
+    },
+    {
+      "name": "to | 36",
+      "targetTime": 55.01488243472669
+    },
+    {
+      "name": "force | 36",
+      "targetTime": 55.67599593128287
+    },
+    {
+      "name": "them | 36",
+      "targetTime": 56.00391437282407
+    },
+    {
+      "name": "to | 36-1592",
+      "targetTime": 56.279737170584426
+    },
+    {
+      "name": "have | 37",
+      "targetTime": 56.37973717058443
+    },
+    {
+      "name": "s*x | 37",
+      "targetTime": 56.47973717058443
+    },
+    {
+      "name": "with | 37",
+      "targetTime": 57.005184928127996
+    },
+    {
+      "name": "me? | 37",
+      "targetTime": 57.105184928128
+    },
+    {
+      "name": "Obviously | 38",
+      "targetTime": 57.86940438633377
+    },
+    {
+      "name": "not, | 38",
+      "targetTime": 58.38182823293213
+    },
+    {
+      "name": "but | 38",
+      "targetTime": 59.20139931265505
+    },
+    {
+      "name": "why | 38",
+      "targetTime": 59.30139931265505
+    },
+    {
+      "name": "is | 38",
+      "targetTime": 59.40139931265505
+    },
+    {
+      "name": "it | 38",
+      "targetTime": 59.50139931265505
+    },
+    {
+      "name": "any | 39",
+      "targetTime": 59.601399312655055
+    },
+    {
+      "name": "different | 39",
+      "targetTime": 59.805590600216746
+    },
+    {
+      "name": "in | 39",
+      "targetTime": 60.310417165430394
+    },
+    {
+      "name": "the | 39",
+      "targetTime": 60.410417165430395
+    },
+    {
+      "name": "case | 39",
+      "targetTime": 60.7481035401805
+    },
+    {
+      "name": "of: | 39",
+      "targetTime": 61.125946973678346
+    },
+    {
+      "name": "a | 40",
+      "targetTime": 61.674186575376034
+    },
+    {
+      "name": "bunch | 40",
+      "targetTime": 61.774186575376035
+    },
+    {
+      "name": "of | 40",
+      "targetTime": 61.87418657537604
+    },
+    {
+      "name": "people | 40",
+      "targetTime": 61.97418657537604
+    },
+    {
+      "name": "having | 40",
+      "targetTime": 62.07418657537604
+    },
+    {
+      "name": "wells | 40",
+      "targetTime": 62.42272620924715
+    },
+    {
+      "name": "and | 41",
+      "targetTime": 63.128338068199476
+    },
+    {
+      "name": "none | 41",
+      "targetTime": 63.22833806819948
+    },
+    {
+      "name": "of | 41",
+      "targetTime": 63.32833806819948
+    },
+    {
+      "name": "them | 41",
+      "targetTime": 63.42833806819948
+    },
+    {
+      "name": "want | 41",
+      "targetTime": 63.52833806819948
+    },
+    {
+      "name": "to | 41",
+      "targetTime": 63.64027665323259
+    },
+    {
+      "name": "give | 41",
+      "targetTime": 63.74027665323259
+    },
+    {
+      "name": "me | 42",
+      "targetTime": 63.84027665323259
+    },
+    {
+      "name": "their | 42",
+      "targetTime": 63.940276653232594
+    },
+    {
+      "name": "water? | 42",
+      "targetTime": 64.0402766532326
+    },
+    {
+      "name": "End mkSubtitles for prefix: no prefix specified",
+      "targetTime": 64.77953361546004
+    }
+  ],
+  "seed": 3188089861
+}

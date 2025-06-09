@@ -1,59 +1,39 @@
-
-# Table of Contents
-
-1.  [main body 10:24](#org921dc8c)
-    1.  [The Complexity of the iPhone 1:27](#org73e3404)
-    2.  [The Production of a Microchip 1:52](#org0866433)
-    3.  [Direct vs Indirect Exchange 3:00](#org30cf46e)
-    4.  [Entrepreneurship 4:05](#org71e43e4)
-
--   processes of production -> lines of production?
+---
+title: 'The "Impossible" Economics of the iPhone'
+description: "The intricacies of this everyday product are reveiled."
+date: 2024-12-16
+---
 
 
-<a id="org921dc8c"></a>
+# The Complexity of the iPhone
 
-# main body 10:24
-
-
-<a id="org73e3404"></a>
-
-## The Complexity of the iPhone 1:27
-
-[rocket animation should start with it on the ground, takes off have the background slowly fade to black as it gets into space and have a massive field of stars behind the rocket as it makes its maneuvers]
-
-The Moon landing is perhaps the most stark example of the power of human ingenuity that one might come up with. Consider the vast enormity of the technical knowledge required and the calculations involved in sending living humans into this final frontier. The perfectly-timed rocket burns, the precisely determined angles of attack, not to mention the innumerable engineering problems both large and small that must be overcome to build the rocket in the first place. And now consider, that for $40 a month<sup><a id="fnr.1" class="footref" href="#fn.1" role="doc-backlink">1</a></sup> you can own a device of far greater complexity. A device that pushes to the very edge of our understanding of material science and nanoscopic fabrication. One that can be constructed only by the cooperation of hundreds of millions of people and which in a single second can perform over 66 times the total combined number of computations of the entire 8-day Apollo 11 mission.<sup><a id="fnr.2" class="footref" href="#fn.2" role="doc-backlink">2</a></sup> That is on the order of millions of times more processing power.
+The Moon landing is perhaps the most stark example of the power of human ingenuity that one might come up with. Consider the vast enormity of the technical knowledge required and the calculations involved in sending living humans into this final frontier. The perfectly-timed rocket burns, the precisely determined angles of attack, not to mention the innumerable engineering problems both large and small that must be overcome to build the rocket in the first place. And now consider, that for $40 a month<sup><a id="fnr.1" class="footref" href="#fn.1" role="doc-backlink">1</a></sup> you can own a device of far greater complexity. A device that pushes to the very edge of our understanding of material science and nanotechnology. One that can be constructed only by the cooperation of hundreds of millions of people and which in a single second can perform over 66 times the total combined number of computations of the entire 8-day Apollo 11 mission.<sup><a id="fnr.2" class="footref" href="#fn.2" role="doc-backlink">2</a></sup>
 
 This device is called an iPhone. It is surely a marvel of technology and a testament to the enormous power of mankind just as fully as the Saturn V rocket. It might not seem like it, but consider the innumerable steps required to construct just one functioning iPhone.
 
-First, we would require the various components: the glass screen, the metal body, and the circuit board. These components, along with the labour needed to assemble them are called factors of production. But of course, these factors also don&rsquo;t come from nowhere. They require their own factors, and those factors require factors, and so on.
+First, the phone has various components; these components, along with the labour needed to assemble them are called factors of production. But of course, these factors also don&rsquo;t come from nowhere. They require their own factors, and those factors require factors, and so on.
 
 
-<a id="org0866433"></a>
+# The Production of a Microchip
 
-## The Production of a Microchip 1:52
-
-You can see how quickly this is getting out of hand, but let&rsquo;s dig even deeper. These chains of inputs being progressively transformed and combined into different goods are called processes of production. Consider just the process used to create the microchips to get an idea of the seemingly impossible intricacy involved.
+You can see how quickly this is getting out of hand, but let&rsquo;s dig even deeper. These chains of inputs being progressively transformed and combined into different goods are called lines of production. Consider just the process used to create the microchips to get an idea of the seemingly impossible intricacy involved.
 
 The iPhone 16 Pro contains dozens of individual microchips with separate functions that require their own particular considerations in construction, the most important is called the A18 Pro; it is the brain of the phone. This one microchip contains more than 20 billion<sup><a id="fnr.3" class="footref" href="#fn.3" role="doc-backlink">3</a></sup> nanoscopic transistors capable of performing trillions<sup><a id="fnr.4" class="footref" href="#fn.4" role="doc-backlink">4</a></sup> of computations every second and it is crammed into a space about the size of your thumbnail.<sup><a id="fnr.5" class="footref" href="#fn.5" role="doc-backlink">5</a></sup>
 
-If you could work day and night, making one of these transistors every second with nanoscopic accuracy and no mistakes, it would take you roughly 633 years to finish just one of these processing units. A semiconductor fabrication plant produces 10s of thousands of wafers per month, each containing about 500 individual A18 chips.
+If you could work day and night, making one of these transistors every second with atomic accuracy and no mistakes, it would take you over 600 years to finish just one of these processing units. A semiconductor fabrication plant can produce 10s of thousands of wafers per month, each containing about 500 individual A18 chips.
 
-Over the course of a few months, each raw silicon wafer travels between dozens of machines, performing hundreds of separate processes to construct a grid of chips, each containing billions of transistors. These chips must then be laser cut, tested, packaged, and shipped to their final destination. And of course, each fabrication machine is itself based on a highly complex knowledge and requires many thousands of different steps in its construction.
+Over the course of a few months, each wafer travels between dozens of machines, performing hundreds of separate processes to construct a grid of chips. These chips must then be cut, tested, packaged, and shipped to their final destination. And of course, each fabrication machine is itself based on a highly complex knowledge and requires many thousands of different steps in its construction.
 
-It is simply not possible for one man to have all of the knowledge and expertise required to orchestrate this process. Millions upon millions of individuals with vastly different areas of expertise across great spans of time who do not share a belief system, culture, or even a language were able to do it without even getting together and coming up with a specific plan of action.
+It is simply not possible for one man to have all of the knowledge and expertise required to orchestrate this process. Millions upon millions of individuals with vastly different areas of expertise across great spans of time who do not share a belief system, culture, or even a language were able to do it without so much as getting together and coming up with a specific plan of action.
 
 No one person enumerated and organised the countless steps required to construct a single iPhone, nor even a single one of the components used in its construction. And nobody could do this; not with all the time and resources in the world at their disposal. So how was it done?
 
 
-<a id="org30cf46e"></a>
-
-## Direct vs Indirect Exchange 3:00
+# Direct vs Indirect Exchange
 
 The answer can be found in the astronomical power of the indirect exchange economy.
 
-[indirect exchange on one half, barter on the other, with line divider]
-
-Let me demonstrate this power by comparing it to a simpler system: barter. Perhaps John wants some of Sally&rsquo;s beetroots, and Sally wants some of John&rsquo;s carrots. This is a system of *direct* exchange, so John would give carrots to Sally, and Sally would give beetroots to John. This is called a double coincidence of wants; in other words, each party wants what the other has *more* than what they currently have. This is required for any exchange to take place&#x2014;if John preferred his carrots to Sally&rsquo;s beetroots, he would not agree to the trade.
+Let me demonstrate this power by comparing it to a simpler system: barter. Perhaps John wants some of Sally&rsquo;s pears, and Sally wants some of John&rsquo;s carrots. This is a system of *direct* exchange, so John would give carrots to Sally, and Sally would give pears to John. This is called a double coincidence of wants; each party wants what the other has *more* than what they currently have. This is required for any exchange to take place&#x2014;if John preferred his carrots to Sally&rsquo;s pears, he would not agree to the trade.
 
 A problem with the barter system, therefore, arises wherever there is *not* a double coincidence of wants. John perhaps desires a new tractor to plough his field, and he knows that Doug has a spare one. When John attempts to trade the tractor for carrots, he finds that Doug refuses.
 
@@ -67,26 +47,22 @@ You can see the problem we face when we have a great many media of exchange, lik
 
 As our barter system evolves, eventually people will start holding onto more goods that are in high demand because they know that those goods are more able to be exchanged down the line. The end state of such a system would involve a good which is desired by every person in the market, a universal medium of exchange: money.
 
-[switch back over to indirect exchange economy]
-
 So how does this money-economy help us make an iPhone? Basically: for each step in the gargantuan line of production required, there is someone looking to do nothing else, except make a profit. Economists call this an *incentive*.
 
 These incentives have a powerful effect: there are perhaps many thousands of different ways to perform the single step of impregnating the glass screen with potassium to increase its durability. The company that makes the glass routinely experiments with different chemical processes&#x2014;they arrived at the one they use currently by subtracting the cost of the process from the expected return. This is called economic calculation.
 
-Notice the power that this brings: the makers of the glass do not need to know anything about the countless steps involved in producing any of the many billions<sup><a id="fnr.6" class="footref" href="#fn.6" role="doc-backlink">6</a></sup> of products that it will be used within, or even what those products will be. Nor do they need to know anything about the massively complex processes of production involved in making the various factors required to make the glass. All they must focus on is making the glass such that they maximise the profit.
+Notice the power that this brings: the makers of the glass do not need to know anything about the countless steps involved in producing any of the many billions<sup><a id="fnr.6" class="footref" href="#fn.6" role="doc-backlink">6</a></sup> of products that it will be used within, or even what those products will be. Nor do they need to know anything about the massively complex lines of production involved in making the various factors required to make the glass. All they must focus on is making the glass such that they maximise the profit.
 
 
-<a id="org71e43e4"></a>
-
-## Entrepreneurship 4:05
+# Entrepreneurship
 
 This work is not quite as mathematical as the profit equation makes it seem, though. For both the cost and the return there is a great deal of uncertainty. You cannot ask a computer to spit out whether or not there will be a silica shortage 10 months down the line and plan accordingly; you can&rsquo;t consult a mathematical theorem to determine how much people will desire some new feature you are implementing; in short, the specific costs and returns that come about from a given product depend upon the uncertain and ever-changing supply of and demand for the product in question.
 
-The way to deal with this uncertainty is through the process of entrepreneurship. The entrepreneur makes an educated guess on what the future conditions of the market will be, and adjusts the processes of production under his control accordingly. Importantly: this guessing is not random in the slightest. If any entrepreneur makes a wrong guess, he will be able to discover this by the fact that he is making a loss, rather than a profit. With sufficient accounting, he can track down which areas of his business are responsible for the loss and adjust accordingly.
+The way to deal with this uncertainty is through the process of entrepreneurship. The entrepreneur makes an educated guess on what the future conditions of the market will be, and adjusts the lines of production under his control accordingly. Importantly: this guessing is not random in the slightest. If any entrepreneur makes a wrong guess, he will be able to discover this by the fact that he is making a loss, rather than a profit. With sufficient accounting, he can track down which areas of his business are responsible for the loss and adjust accordingly.
 
-Any entrepreneur who fails to respond to the market properly, and remains gung-ho in his wrong decisions will quickly run out of funding and leave the profession. In this way, there is a sort of natural selection that allows only those entrepreneurs who are best at predicting future market conditions to stay managing the processes of production.
+Any entrepreneur who fails to respond to the market properly, and remains gung-ho in his wrong decisions will quickly run out of funding and leave the profession. In this way, there is a sort of natural selection that allows only those entrepreneurs who are best at predicting future market conditions to stay managing the lines of production.
 
-Steve Jobs&rsquo; decision to create the iPhone back in 2007 is a perfect example of the risk-taking involved in good entrepreneurship. At the time, the BlackBerry was seemingly beyond reproach. In that year, it was at a 44% market share, up from 33% just a year before.<sup><a id="fnr.7" class="footref" href="#fn.7" role="doc-backlink">7</a></sup> It is reported that Apple spent over $150 million to create the original iPhone<sup><a id="fnr.8" class="footref" href="#fn.8" role="doc-backlink">8</a></sup> and committed its best people to the project:
+Steve Jobs&rsquo; decision to create the iPhone back in 2007 is a perfect example of the risk-taking involved in good entrepreneurship. At the time, the BlackBerry was seemingly beyond reproach. In that year, it was at a 44% market share, up from 33% just a year before.<sup><a id="fnr.7" class="footref" href="#fn.7" role="doc-backlink">7</a></sup> In the midst of this, Apple spent over $150 million to create the original iPhone<sup><a id="fnr.8" class="footref" href="#fn.8" role="doc-backlink">8</a></sup> and committed its best people to the project:
 
 > The iPhone project was so complex that it occasionally threatened to derail the entire corporation. Many top engineers in the company were being sucked into the project, forcing slowdowns in the timetables of other work. Had the iPhone been a dud or not gotten off the ground at all, Apple would have had no other big products ready to announce for a long time. [&#x2026;] according to a top executive [&#x2026;], the company&rsquo;s leading engineers, frustrated by failure, would have left Apple.<sup><a id="fnr.9" class="footref" href="#fn.9" role="doc-backlink">9</a></sup>
 

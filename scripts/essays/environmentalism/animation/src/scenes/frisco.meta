@@ -1,0 +1,30 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "highlight",
+      "targetTime": 0.9445350734094611
+    },
+    {
+      "name": "package deal",
+      "targetTime": 25.67394290571419
+    },
+    {
+      "name": "fundamental questions",
+      "targetTime": 34.324249541372865
+    },
+    {
+      "name": "good is sacrifice to non-humans",
+      "targetTime": 49.297565574358146
+    },
+    {
+      "name": "infinite recursion",
+      "targetTime": 53.571685127590214
+    },
+    {
+      "name": "list out",
+      "targetTime": 60.2519072747226
+    }
+  ],
+  "seed": 2102711140
+}

@@ -1,0 +1,118 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "in",
+      "targetTime": 0
+    },
+    {
+      "name": "show part 0",
+      "targetTime": 2.3812364400351482
+    },
+    {
+      "name": "show part 1",
+      "targetTime": 5.287853172882501
+    },
+    {
+      "name": "first point",
+      "targetTime": 9.206641687352189
+    },
+    {
+      "name": "plant",
+      "targetTime": 10.473770557422075
+    },
+    {
+      "name": "increase",
+      "targetTime": 16.234181579672462
+    },
+    {
+      "name": "show chart",
+      "targetTime": 16.689548475713117
+    },
+    {
+      "name": "hide chart",
+      "targetTime": 26.448596521817983
+    },
+    {
+      "name": "show quote",
+      "targetTime": 27.766666666667202
+    },
+    {
+      "name": "quote out",
+      "targetTime": 40.36307428935798
+    },
+    {
+      "name": "indicate claim 2",
+      "targetTime": 46.53429533320297
+    },
+    {
+      "name": "ipcc",
+      "targetTime": 48.76817087881955
+    },
+    {
+      "name": "first ipcc",
+      "targetTime": 50.80803363860297
+    },
+    {
+      "name": "second ipcc",
+      "targetTime": 56.51145984751818
+    },
+    {
+      "name": "third ipcc",
+      "targetTime": 62.89911211444142
+    },
+    {
+      "name": "ipcc done",
+      "targetTime": 74.60702762791513
+    },
+    {
+      "name": "browser in",
+      "targetTime": 84.6324067289105
+    },
+    {
+      "name": "browser scroll0",
+      "targetTime": 85.6324067289105
+    },
+    {
+      "name": "browser h0",
+      "targetTime": 86.330069443939
+    },
+    {
+      "name": "browser scroll1",
+      "targetTime": 89.48997837141302
+    },
+    {
+      "name": "browser h1",
+      "targetTime": 90.39354069698418
+    },
+    {
+      "name": "browser scroll2",
+      "targetTime": 93.80295712234256
+    },
+    {
+      "name": "browser h2",
+      "targetTime": 94.44397707311423
+    },
+    {
+      "name": "second level",
+      "targetTime": 114.13476315594924
+    },
+    {
+      "name": "vid in",
+      "targetTime": 130.30908886322888
+    },
+    {
+      "name": "rand in",
+      "targetTime": 154.01788970959356
+    },
+    {
+      "name": "shortquote in",
+      "targetTime": 165.653267873583
+    },
+    {
+      "name": "end",
+      "targetTime": 183.89206237125177
+    }
+  ],
+  "seed": 2328400151
+}

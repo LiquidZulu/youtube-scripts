@@ -1,14 +1,410 @@
-#+title: Anatomy of the Celebritarian
+#+title: Anatomy of the Celebritarian | Anatomy of a Pragmatist
+
+EN: use edits for transitions between major sections; e.g. supercut of trump being an authoritarian for the trump section.
++ if there is a section on living in ancapistan in one's head, use Danny Duchamp's rick roll
 
 * Notes
+** structure
++ intro: cargo cults
+  + relate to the idea of bundled philosophy
++ neo-pragmatism vs pragmatism
++ Isaiah's Job/libertarian leninism
++ the Mises Caucus strategy and its parallels to Gail Wynand
++ meet the neo-prags
+  + Josie TRH
+  + Rectenwald
+  + Angela McArdle
+  + Austin Padgett
+  + Michael Heise
+  + Dave Smith
++ the open borders debacle
++ Trump turning out bad
++ philosophical bust
 ** Dave Smith
-+ Dave smith not a libertarian: send entire US military to secure the border, secure the border "by any means necessary."
+*** Track Record
++ https://x.com/MonarchoHoppean/status/1911037879226343759 "-
+  1. Rug pulled the entire LP by not running as the candidate after essentially accepting the nomination informally.
+  2. Backed a now open Holocaust denier in Rectumwald, who lost the nomination while tripping on a weed gummy to Chase Oliver.
+  3. Then finally backed a massive Israel simp who wanted to ethnically cleanse the Gaza Strip, instituted deportations without due process, kick started the largest tariff regime in US history, and decided to escalate tensions with Iran for no reason."
+*** POTP eps to archive
++ 1126 "Libertarian National Convention 2024"
++ exclusive 22 "Harris's $20M Book Deal"
+*** Dave Smith human action podcast
++ https://www.youtube.com/watch?v=1EZ6-Pn9j88
++ 4:10 the open borders types are "too married to ideology"
++ 22:10 "the real world"
++ he keeps coming in with this notion that open borders means "owned by everyone"---it doesn't, it means owned by nobody.
+*** dave smith biblical anarchy podcast
++ https://www.youtube.com/watch?v=ghqN_F2iTdU
++ 14:00 says that he would reject libertarian theory if it lead to things that make him feel icky
++ 15:50 "if there is government property it should be handled this way"
+  + the question of what colour of uniform we should dress jews in as we gas them to death simply does not come up, the question of what brand of knife we should use to stab someone to death does not come up---these things should not occur in the first place, you have already crossed Rothbard's razor
+  + its a question of property rights, does the government have property in those possessions? If not they have no right to exclude anybody from them and it is proper to oppose their forestalling of these goods
+    + its all well and good to say that you would prefer the streets to be sweeped and the grass to be mowed, but that is not the question that law answers
++ 17:00 is the homeless drug addict a reductio case, or the expected outcome? Unclear.
+  + the reductios can go both ways---on restricted immigration, prevent the children from ever leaving the school and prevent parents from retrieving them, turn it into a work camp.
++ The framing of "while government property exists it should be restricted" is dishonest---we are the ones advocating that the government not restrict those possessions, that it be left open to homesteading
+  + the implicit premise is that open borders means that the government will let anyone in and that they will stop you from preventing people from coming in, but this is completely false.
+    + it's the idea that open borders means everyone owns public property---this is a complete inversion of the actual stance, which is that it is not owned by anyone so it is liable for homesteading
++ 28:40 "there is this thing called government property, it is not a given that there should be no restrictions on it or that nobody owns it"
+  + but who owns it?
++ 33:10 can't deduce the property owner---he calls this mental gymnastics, the proper position is that it is owned
+  + but BY WHO? WHO OWNS IT?
++ 34:50 claims universal teleology is correct
++ 38:00 says he will address my argument, but instead just makes the nonsense claim that theft means you have retroactively enslaved the person
++ 44:00 says "yeah, ok" to the fact that there is no title transfer chain linking "the taxpayers" to the goods in question
+  + says its not the case that its unowned---then who owns it?
++ 46:30 just states my case that the homeless man has homesteaded a slide by sleeping on it, but what is the counterargument?
++ 47:10 his question which apparently nobody would answer: two ways that we can privatise something, one way is that everyone on the block gets the piece of the street that extends beyond their house. The other proposal is that the road is given to a private company in swizerland.
+  + the proposal I am giving is that it be homesteaded, not "given away" because the government doesn't have the right to give it away
++ 50:00 says that Ace is wrong that if you rob someone and buy something with the money that you only have a claim to the money, not what they buy
+  + but why? At what point do you start owning the thing they buy?
+    + misrepresents Ace as saying that the thing is therefore unowned---no, it is owned by the guy who sold it
++ 1:11:40 says its a win to put the entire military on the border---what happens to the Mexicans who cross?
+  + let's be realistic! What plan would a state have when they are placing their entire military on the border? Could it perhaps be that they want to invade?
++ He doesn't address the domestic migration point---why not ban migration between states within the union as well?
++ 1:15:40 claims I will never have an impact on the culture---we shall see.
++ 1:16:40 says we are "missing virtue"
+  + at no point did I claim that legal theory is the entirety of ethics
++ 1:30:10 says that we should approximate how it would be privately operated, but how? The ECP stands in the way
++ 1:32:10 says that the net taxpayers don't own the property---but then who does?
+*** did dave sell out his principles in advocating trump twitter space
++ he allowed random retards to speak for like hours on end, and then immediately removed people who were even remotely capable of pushing back at him
+  + he then lumps us in with those retards in a big package deal and uses it to justify not debating us.
+*** Dave Smith and his Wynand Downfall
++ "I knew I would be disappointed" - https://x.com/jakeshieldsajj/status/1908456194152562844
+  + Maybe don't have a political stategy that you know will disappoint you, and maybe don't degrade the people who were warning you that you would be disappointed.
+*** andrew wilson debate
+*** response to douglas murray
++ 18:00 laments that murray is supporting a policy that results in thousands of children dying
++ 18:50 supports mass deportations, right before this he indicates that he thinks it would be fine to have someone challenge him, but he never once goes for strong opponents
+  + "people who entered our country illegally don't have a right to be here"
+    + illegal /by what standard/?
+  + "this is a policy that comes with a human cost"
+    + so it's fine to break a few eggs?
+  + "mass deportations are happening and it seems like mistakes are being made"
++ 47:00 and elsewhere he is whining about how these people aren't taking on his arguments, how ironic, he has never once addressed my arguments against closed borders.
++ 49:00 murray took any excuse to not debate dave on the topics---doesn't feel great, huh dave?
+*** Nowrasteh debate
+**** general
++ "Government restrictions on the immigration of peaceful and healthy people make sense from a libertarian standpoint, especially in present-day America."
++ the evidence he won is democracy: the god
+**** Dave's Opening Statement
++ The foundational principle of libertarianism all orbits around voluntarism, voluntary exchanges.
+  + ugh
++ Things like the NAP and property rights are built around the idea that we prefer voluntary exchange and reject coercion or aggression.
++ If that's your starting point and your endpoint is supporting a policy that is saying that you are going to drastically change almost every aspect of "our society" "against the will of almost all of the people who live here [...] you've messed up somewhere along the line"
+  + we now see his sloppy starting point of "just make everything voluntary bro" come to fruition with a retarded policy. What does it mean for something to be voluntary? What does consent consist of? Smith has it that a "society" can either consent or not consent to something, or that I can not consent to have brown people move in next door---but does my consent matter?
++ if your kid brought you their homework and their starting point was that all exchange should be voluntary and their endpoint was "I am going to force on hundreds of millions of people their nation to be changed radically in almost every area you can imagine" if that is your end point I think it's worth re-examining how you got there
+  + it is moreso worth examining what exactly is meant by "force" here. Dave keeps using these vague weasel-terms because he doesn't know the hardcore theory. Which "exchanges" were not voluntary here? Whose rights are being violated, dave? Does "the nation" have rights?
++ hard to determine where the american people are because almost no pollster will ask "do you support open borders" but the american people are nowhere near there and it is almost as much as a consensus as you can find on any issue
+  + so democracy: the god? The American people love buying foreign products and hiring foreign workers, so what if they vote differently to how they act? Why is what they respond to pollsters more important than how they are voting with their dollars? I thought the starting point was voluntary exchange, not public opinion polls?
++ this doesn't mean alex is wrong, because I hold many positions that the majority of people would reject, I'm not making an appeal to democracy or an appeal to popularity, I'm making an appeal to voluntarism.
+  + no you fucking aren't.
++ My argument is that if the people of a country do not wish to have a large number of immigrants coming in, then it is not a voluntary transaction to force that on them.
+  + immigration is not a transaction between "the people" and immigrants. Let's try this with an actual transaction: if the people of a country do not wish to have employers paying people under minimum wage then it is not a voluntary transaction to force that on them.
+    + This highlights how outside of the correct theory Dave is. You aren't forcing anything on "the people," the employer and employee both agreed to the trade, that is it.
++ the issue libertarians have on this is that it does seem as a reasonable starting point that we don't want the government doing anything to anyone. We don't want the government stopping anyone who isn't aggressing, but we have an awkward position when it comes to immigration, because immigration is a government policy---as long as the government is controlling those borders what you have is a government program.
+  + What? Is it also a government policy to allow people to hire anybody at any price? The open borders position is precisely that the government /shouldn't/ control the borders. That's what it means for the borders to be open, retard.
++ higher levels of immigration have always been unpopular
+  + right, because immigration restriction is a protectionist policy, protectionism is very popular, this is not an argument.
+  + isn't his stance on communal consent here at odds with the many communities who have been resisting the ICE arrests? Why does communal consent stop at the level of the nation, why not at the state, or county, or neighborhood level? Is Dave in favour of Lincoln?
++ alex is for an ellis island system which is also a restriction, he won't bite the bullet
+  + I agree, which is exactly why you are willing to debate him and other CATOtards but not me. If one simply bites the bullet you have no additional moves to play.
++ the people who own private property along the border have been demanding that the government serve "its only legitimate function" and prodect private property
+  + excuse me? I thought a rights protecting violator of rights was a contradiction in terms? Why are we talking about legitimate functions of the government? Restricting immigration is a legitimate function? What specifically are the legitimate functions, dave? It isn't protecting private property, because you think that is derivative, so is the legitimate function of government protecting voluntary exchange? What counts as voluntary exchange, though? Dave's entire anarchism falls away completely.
++ that there should be no restrictions on government "property" is not deduced from libertarian principles
+  + provide a full deduction with premises leading to conclusions in the video
++ taxation is theft and the government property was built and maintained by tax dollars so the american people have some say in it but government property isn't owned by the taxpayers; the american people simply have a better claim than other people
+  + then who owns it? "The american people" don't have claims to anything, because "the american people" is not an individual capable of laying claim to some property. The "greater claim" point is only legitimate in a dispute over some scarce good between individuals. So which individual owns the specific piece of "government property" that dave is pointing at?
++ there is nothing in libertarian principles which says that if something is stolen then its unowned or owned by the world equally
+  + which is not the situation at hand. Nobody is claiming that everyone owns public possessions, they are saying it is not owned---you didn't own some public school which was then stolen from you. You owned tax dollars. Yes, you still own those dollars.
++ not possible to divvy up the public possessions perfectly, but it is possible to not do what 95% of american people don't want
+  + find other policies with wide support pertaining to public possessions that dave would be against:
+    + mask mandates
+    + vax mandates
++ India has 100million people who want to immigrate and 100% of american people don't want them, would the libertarian position be to let them?
+  + well, if no american wanted them to come over, where are they moving to? Are these indians simply homesteading virgin wilderness? Then, yes, the libertarian position would be to allow them.
+**** Alex's opening statement
++ making three points: (1) libertarian principles require the free movement of peaceful and healthy people; (2) evidence shows that immigration is beneficial to americans, and; (3) government immigration restrictions are how tyranny will come to the US.
++ Dave would clearly see the problem with resolutions like: "Government restrictions on the [private property/drug use/gun ownership] of peaceful and healthy people make sense from a libertarian standpoint, especially in present-day America,"
++ not talking about tresspassers, talking about peaceful people.
++ every immigration restriction violates the rights of the immigrants and those who wish to associate with them
++ immigration outcomes are great
++ more immigration is associated with slower growth in the size of the federal government
++ immigration mostly increases economic freedom or has no effect
++ immigrants are slowing socialism, not increasing it.
++ social securities problem isn't the elderly, it's the program itself.
+*** Bob Murphy Review of Nowrasteh Debate
+*** The "IDK man" gambit
++ aka the "retarded dave" gambit
+  + just act progressively more retarded and guffaw at every single libertarian point brought forth and then you win.
+    + this works because his audience are also a bunch of retards, so they genuinely do not understand the libertarian points so they agree by default.
+      + this is why the Dave strategy requires preaching to ever-more retarded people.
+  + This is a common tactic; just signal to your audience that your opponents position is laughable and they'll buy in (argument by intimidation)
+    + faustian bargain: this strategy can only yield a gaggle of retards who will clap at your retardation. These retards aren't actually under your control, as Wynand finds out.
+*** hate for israel borders, love for us borders
++ His boo hooing over how Israeli's are violating the rights of browns in the middle east rings fairly hollow given his enthusiastic support of violating the rights of browns in the US.
+  + Like, what does he think military enforcement of borders entails? The "entire" US military enforcing the US borders would be the IDF * 1 million. Israel is simply enforcing the border policy decided upon by the net taxpayer or whatever.
+  + "if you spend a career boo-hooing over how Israel uses its military to enforce its border claims, you can't then turn around and boo-hoo over how the US isn't enforcing its border claims enough. Pick a fucking lane."
++ should the entire Israeli military be used to secure the border claims of Israel?
++ if it is good for the entire US military to secure the US border because it stops them fighting wars in the ME would it also be good if they got the IDF to join them? Should the IDF * 1000 be stationed across the entire US border to make sure no chicanery occurs; would Dave trust them to do that?
+
+*** general
++ The closed border types love to prance around making fun of open borders people with the old question "should you have open borders for Israel?" But few of them have bothered to consider whether that attack can be inverted and sent right back at them. Does Dave Smith hold that the entire Israeli military should be used to secure it's border claims? Is doing that not what has lead to the various atrocities committed by the IDF? Why does Dave Smith want closed borders for the US but open borders for Israel? Why not open them both?
++ ""But immigrants are voting for politicians who will increase the size of government and institute socialism!" -@ComicDaveSmith after voting for Donald Trump, who is rapidly increasing the size of government and instituting socialism." - https://twitter.com/MarketlyAnarchy/status/1914072468014420391?s=19
++ RE: the retards whom dave continues to debate---the reason he will only debate these idiots and catotards is because those are the only people he can actually beat, and then he can claim "I've been in all of this debates before man. And I won every single one. I don't wanna keep doing this" when it comes to debating me
+  + corollary to how he keeps claiming he knows /beyond/ libertarianism 101---he /doesn't/ know libertarianism 101.
++ The people who didn't vote for "John McCain" were "worse than communists" https://x.com/ComicDaveSmith/status/1908592279461253352
++ "He treats interviews like stand-up comedy, these are his workshopped bits. He can riff on them a little, but when you get to an interview where these don't work (ie. Andrew Wilson), he can't improvise based on principles and shits his pants. He resorts to being agreeable and handing out L word passes so the audience will still like him."
++ dave says that we are worse than communists
+  + dave smith is strategically worse than a communist or a nazi. Because those guys are not an active poison within the movement.
+  + we know the neo-prag stance on communists, since they buddied up with rectenwald, so it's perhaps not saying much
+    + "you know who else is just as bad as communists? Communists! Perhaps left-communists like the Mises Caucus presidential pick, Mike Rectenwald."
++ Dave smith not a libertarian: send entire US military to secure the border, secure the border "by any means necessary." ("OK then, let's not just talk /theory/ anymore, let's discuss the actual practical implications of Dave's proposed border policy.")
   + this means:
     + the entire 100-mile exclusion zone around the US will be under martial law
     + the US government will be the ones to regulate what is "necessary" and so will have sole discression to turn off the constitution for literally anyone and will have the military to back it up
   + Dave understands that these are the practical implications of his proposal, he has been talking about this shit for years---this means he knows what he is asking for, knows that it is anti-liberty, and still wants it. He is not a libertarian.
   + the people who are a problem, the west-haters as against the hard-working mexicans, are brought in by the US on planes. These would be exempt from his proposed solution. The cartels were caused by the US government in the first place---deal with them by invading mexico.
+  + his explicit policy position is that the US be plunged into a martial law the likes of which are known only to North Korea. The practical implication of this is worse than every war of expansion the US has ever undertaken. It would be the death of capitalism.
+    + at least outright war hawks admit that they salivate over the bloodshed of innocents. Dave hides this policy behind layers upon layers of faux-libertarianism.
+      + this makes him more evil than them---because of the sanctity of the movement which he has so tarnished.
+  + Dave doesn't just not understand libertarian theory---he actively hates liberty.
+    + mistakes of this size are never made innocently---he has heard all of our arguments numerous times and has deliberately chosen to pile us in with the gaggle of retards
+    + he understands that our arguments are of a different sort and deliberately buries them
+    + this is because he knows that his position is anti-liberty and wants to hide this from his audience
 + says RFK is not a libertarian: https://youtu.be/Xr_xTRQLSLw?t=1354, "Dave Smith | A Response to James Lindsay | Part Of The Problem 1198"
   + "this is the shit im talking about where people have this calcification of pattern recognition where everyone dissenting against you are among the same groups you got tired of years ago even where they're all different and even 95% on your side about amost everything else and you just throw your hands up and mock them bc they dont do anything bc theyre not in the party."
 + Dave Smith passes ideas through a social acceptability filter: https://youtu.be/wKIPQXw_m4g?t=1213
   + "Despite being so immensely popular, Dave posts Cole [coal] because he's ashamed of being a libertarian." - Harrison
+** Rectenwald
++ Dave Smith is "controlled opposition" https://x.com/RecTheRegime/status/1910730704108879926, https://archive.ph/pwsbr
++ Rectenwald was talking for months about how Ter Maat betrayed him
+  + I think I remember the part of The Prince where they become a bunch of whiney bitches about failing to gain power. As I recall, Machiavelli counseled the prince, "BUT ITS NOT FAIR! NOT FAIR NOT FAIR NOT FAIR!"
+  + "NOT FAIR! YOU PROMISED!!!"
+    + "Yeah, my favorite part of Machiavelli is how he says to trust what everybody tells you while you're competing with them for power, and then call them snakes and throw hissy fits should they betray you"
+** angela
+*** general
++ "Donald Trump says he's going to put a Libertarian in a Cabinet position. He came out and spoke to us. He said he's a Libertarian. He has basically endorsed us," McArdle said in a June 3 video address. "And so in return, I endorse Chase Oliver as the best way to beat Joe Biden. Get in loser, we are stopping Biden. That's what I think. That's what I think this campaign is about." via https://reason.com/2024/06/25/how-the-libertarian-party-lost-its-way/?comments=true#comments
+*** the hill interview
++ "we will see more libertarian domestic policy, I never had high hopes for forpol"
+  + "trump is proud of the fact that he didn't start any new wars so I think that is his goal for this term"
++ the concessions:
+  + freeing ross ulbricht
+  + add a libertarian to the cabinet
+  + according to angela this also includes abolishing the department of education.
++ "if the libertarian choice for cabinet is RFK in a role in which he is not libertarian (health+environment was an example) we can't call that a win" to which angela responds "no." So we cannot, by Angela's admission take that point as a win.
+** austin padgett
+*** general
++ https://x.com/LudwigNverMises
++ angela's boyfriend and father of her child; they describe it as husband and wife
++ RE: Rand having the ability to block trumps tariffs: "Rand is being opportunistic around restoring any constitutional precedent he can, but he is only able to get support this time because what he’s doing helps the deep state/corrupt interests. Unfortunately sabotaging Trump to put tariffs in the hands of a corrupt and feckless ..." https://twitter.com/LudwigNverMises/status/1917563306375606431?s=19 https://archive.ph/jRuAn
+  + so yeah, these people would not push the button. It has never been about them thinking tariffs are a lesser evil, they want the tariffs, they hate that someone can get rid of them.
+  + these people will take any opportunity to countersignal free markets if it is the MAGA thing to do. See: RFK and food dyes
+** pete quinones
++ advocates murdering "leftists" in "pete quinones advocating murder.mp4"
++ insinuates that opposing nazism is homosexual behaviour: https://x.com/PeterRQuinones/status/1931184928718274951
+** TRH
++ Says "yes" to piers morgan asking "so you would return every illegal immigrant in america right now to their country of origin" - https://x.com/TRHLofficial/status/1912157978767093938
+  + This is leaving the solid political philosophy of libertarianism and returning to just picking policies by vibes with no fundamental principals. This implies they never had such principles, as no sane man would back away from such beauty.
++ claims to "lead" the libertarian ideas https://x.com/TRHLofficial/status/1912911161470693785
+** mc discord
+*** Loss at LNC 2024
++ Winograd: "the division caused by going against josh and ousting people who didn't perfectly line up led to fracturing the base to the degree that we have the results we see today"
++ Hobson: "I was worried that a coalition between Mike ter Maat and Chase Oliver might materialize and I repeatedly voiced my fears to leadership. While I was assured we had nothing to worry about, we can all see that I was not wrong."
++ Dugger: "If you still can't admit that rec was a bad candidate then this caucus is lost"
+  + Heise: "Rec was not a bad choice. He was the /only/ choice. And you wont get that through your head [...] And given that he was the only choice, and we said that [repeatedly], we needed less whining and more doing."
+    + Was Joshua Smith not an alternative choice? Also cope around Mathis saying "Rec was a great choice." Which is it? Was Rec just the only possible option available to the political masterminds at the MC, or was he a great choice?
++ Heise has it that the choice they had was to either "pull the bandaid off immediately" or "slow bleed until we can figure out a plan B." This indicates that Rec was a rushed decision a la Kamala replacing Biden. This is not the type of action that a political mastermind would take.
++ Bracco: "Those who don't like the Rectenwald endorsement from the MC, would you have preferred no endorsement for president from the MC? Those were the real world options."
+  + Well, the MC was /supposed/ to be the principled caucus. If none of the available candidates are to MC standards, then don't endorse any of them. Also flies in the face of the neo-prag assertion that they are machiavellian geniuses who are all-powerful. And why not Joshua Smith? Was he not also an alternative?
++ Heise: "Everybody thinks they could do it better then they can fuckin step up and show us how its done"
+  + Woike: "how do people step up and make the decisions that the board and you make? They have to be on the board."
+    + Heise: "Anybody could recruit a candidate or bring one to our attention. This is all a cope instead of acknowledging the reality of the situation that nobody wanted to run"
+      + Did Joshua Smith not want to run? How am I to accept that you people are political masterminds if you cannot get anybody to run for you who wasn't just a communist a few years ago?
+    + Heise: "[...] for fucks sake we may have just saved Ross"
+      + saving Ross as the justification of the whole strategy.
++ Heise whining about Ter Maat going Chase over Rec:
+  + Ter Maat had promised repeatedly to endorse Rec when he had been eliminated, saying that Chase needed to be stopped, then when he was eliminated chose Chase because Chase offered the VP way before Heise did.
+    + Just sounds like Ter Maat was a better machiavellian gigachad than these guys. Power is all that matters, stop living in Rectenwald/Ter Maat in your heads!
++ Heise: "I dont believe Rec was a mistake"
+  + Rebmann: "Rec came out [of] [nowhere] and almost won. He was the only solid Austrian in the race.."
+    + Was he a solid Austrian? What exactly are his creds? Check on this.
++ Heise: "I appreciate that you feel betrayed but you gotta see how that sort of calls into question your positions the entire time and that maybe, just maybe, we sort of have a handle on these situations."
+  + Pinkleton: "No you really didn't. You ran a boring candidate that was never going to win regardless. Rec was a horrible candidate. I told you that multiple times and you didn't listen. And when he fumbled on Saturday night you basically laughed it off. Clint should've been the MC candidate for President."
+    + Ensor: "He didn't want it, he was asked."
+    + Heise: "What makes you think you or I decide his life? Because heres the surprise: He was one of the laundry list of people approached and there was a 2 month period where him and Judge Nap and seriously considering. Both ultimately. Passed. So now what?"
+      + So, again, the story is that Rec was literally the only possible choice. But who else was on this "laundry list?" Was Joshua Smith on there? If not, why not?
++ Leduc: "I'm not asking for some magical person to appear."
+  + Heise: "It's not up to you what is or isnt available. You dont control these peoples lives. I was right to run Rec as the only option [...] its actually /you/ that should be /grateful/ for the only guy that stepped up to push /your interests/ forward."
+    + (A) was he the only guy? Perhaps for my interests. But (B) he does not push /my/ interests forward. Pragmatism is poison
++ Crouch: "Every L we took this weekend was due to some kind of betrayal. We put up the candidate who had the largest base of support. Even after gummygate he was set to run away with it. Josh people and [Mike ter Maat] backstabbing. Now if you guys are interested in REAL accountability and reflection, it's not going to be this finger pointing bullshit based on a superficial 'muh boring candidate' analysis. We can truly reflect tomorrow or the next day. But keep in mind that we won this weekend, despite potus"
+  + It's again the whining about backstabbing. Aren't you guys supposed to be machiavellian?
+*** Julian Assange Freed
++ The MC tried to take credit for freeing assange, but he was freed under biden. So I am to accept that Angela is some all-powerful deity who is able to control the policy of both parties. Then why are they doing nothing to control trump beyond getting ross freed? What are the tangible policies which they have achieved?
+  + "My favorite part of it is that the Australian government, which put the actual pressure, gets less credit than MTG and Tim Pool"
++ MC discord gives angela credit: "Everyone should be thanking the guillotine queen herself for this. @Angela_McArdle. She Isn't the only reason something like this would happen but pressuring the major parties the way she is has ripple effects that have yet come to pass."
++ Angela takes credit on twitter: "We played a small part in freeing Julian Assange and Liz's response is to write a hit piece on us."
+  + Liz does a back-and-forth with Dave about it, I find it laughable that they can take credit for it.
++ Angela takes further credit on her substack.
+*** LPCO Backs RFK over Chase (Project Wild Horse)
++ they also tried to amend the platform to include IP https://c4sif.org/2025/06/colorado-ip-socialists/
++ Project wild horse "is when LP Colorado tried and failed to endorse RFK Jr. for president"
++ Goodman: "The Strategy of [LPCO] [...] is to radically reshape the political landscape of Colorado. I'm in a blue super majority. WE have literal communists in our state legislature. [...] How the fuck do we break up this stranglehold? [By endorsing RFK.] This play has made Colorado a swing state now. No one is saying RFK is a pure libertarian. Chase by his own admission said he's only proadly libertarian. I'd argue RFK could be considered broadly libertarian then. RFK is polling higher than Biden in Colorado. Colorado doesn't care about internal party politics. We care about taking down the state, we care about breaking up the establishment. [...] I don't want to grow members to the party till I grow voters. My [Key Performance Indicator] is gaining more votes for candidates."
+  + "we care about breaking up the establishment"---this is the slip of the mask. Their categorical imperative is to be on the anti-establishment side of the culture war. Anti-establishment is conflated with anti-state.
+  + Also comes out and states the standard of success as being votes.
++ Vance: "We now have two candidates changing their message to be more libertarian. RFK signed a pledge [...]. His messaging will align with libertarian principles going forward. That's a win. The rest of the wins are for the LPCO in terms of exposure [...]. The LPCO has access to 18,000 registered L's emails who are supporting RFK. Our state only has 5000 emails from registered members."
+  + RFK is not a libertarian, so they just generated 18000 fiat libertarians, RFK included. Libertarian in name only; he is authoritarian.
+  + The exposure wasn't good, they admit that this exposure is only in generating Libertarians, not libertarians. He wants Libertarians for RFK-authoritarianism, not libertarians.
+** The libertarian in the cabinet
++ The bait and switch was that it was initially supposed to be a libertarian in the cabinet, but changed to a Libertarian in the cabinet. So if they just gift membership to RFK and Trump suddenly there are Libertarians all about washington---fiat libertarians.
+  + Angela took credit for the promise that there would be a libertarian in the cabinet here: https://archive.ph/0PPvb
+  + Angela changes this to having a Libertarian president here: https://archive.ph/Pr8a4
+  + see: https://x.com/i/grok?conversation=1913636708761133269
++ If appointing a Libertarian is sufficient for a concession, what does that imply? Just have some inner party member given LP membership and then libertarianism has won? This is open endorsement of the fiat libertarian strategy.
+  + it is an endorsement of Nick Sarwark over Ludwig von Mises
+  + would kissinger fulfil the cabinet libertarian criterion if he were given LP membership?
+https://x.com/i/grok?conversation=1913617361602506917
+Who exactly is the libertarian in the cabinet? Cabinet is listed here[fn:2]
++ JD Vance
+  + opposes free trade
+  + supports mass deportation
+  + opposes due process
+  + supports "more muscular government intervention"
++ Marco Rubio
+  + supports restrictive immigration policies
+  + war hawk (ukraine and taiwan)?
+  + supports tariffs
++ Scott Bessent
++ Pete Hegseth
++ Pam Bondi
++ Doug Burgum
++ Brooke Rollins
++ Howard Lutnick
++ Lori Chavez-DeRemer
++ Robert F. Kennedy Jr.
++ Scott Turner
++ Sean Duffy
++ Chris Wright
++ Linda McMahon
++ Doug Collins
++ Kristi Noem
++ Lee Zeldin
++ Russell Vought
++ Tulsi Gabbard
++ John Ratcliffe
++ Jamieson Greer
++ Kelly Loeffler
++ Susie Wiles
+
+"Who is the mythical cabinet libertarian? Is it blah who did blah? Blah who did blah? Or perhaps blah who did blah? [segue into project wild horse and RFK being shit]"
+** joshua smith
++ groks timeline: https://x.com/i/grok?conversation=1912897361984073849
++ Josh was supposedly repeatedly fucked over by MC leadership out of a personal dislike of him.
++ resigned from vice chair over commies at the Rage Against the War Machine rally; esp. Ritter---this pissed off MC leadership, he was the only big MC guy to not want Ritter to speak.
++ Heise constantly has it that it isn't the MCs fault that they failed at the 2024 LNC because Rec was literally their only possible choice. But it seems pretty clear that Joshua Smith was an alternative choice.
++ They whine and complain about ter Maat not honoring his promises; worth looking into if they did any similar behaviour towards smith.
+** RFK
++ creating government registry to track autistic americans: https://twitter.com/NoLieWithBTC/status/1914731094974291986?s=19
++ bans artificial food dyes: https://twitter.com/remarks/status/1914730501988032787?s=19
++ US health secretary calls leading medical journals such as Lancet 'corrupt' and pushes to create state-run alternatives https://x.com/GaryMarcus/status/1927805427817009163
+** Trump
+*** general
++ ICE can enter your home without a warrant now: https://twitter.com/essenviews/status/1915841697885655341?s=19
++ Trump believed that the guy literally had MS13 written on his knuckles: https://x.com/BulwarkOnline/status/1917381376111960308
+*** nobody could have foreseen trump being bad!
++ link between "we ALL made mistakes during covid" and "look, nobody could have foreseen trump turning out bad!" https://x.com/BiblicalAnarchy/status/1911846681844601136, https://x.com/BiblicalAnarchy/status/1911841358505029832
+*** TACO
++ "Trump Always Chickens Out"
++ "Trump Says He Negotiates, Doesn't Chicken Out, on Tariffs. Wall Street Shrugs." https://archive.ph/4SEMb
+*** increasing deficit both terms
++ The MAGA crowd who were courted by the neo-prags revealed that they are enthusiastic supporters of tariffs and do not give a damn about budget deficits, so long as brown people are kept out of the US.
+  + This MAGA-communism was clear to see for any who were paying attention even a little bit during the first term and the runup to the second term. It is a failure on the parts of the neo-prags that they did not recognise this. Even as we were all pointing it out to them we were met with shame and ridicule for being too preoccupied with the theory. Of course, that theory was the very thing that allowed us to make the correct prediction, whilst the neo-prags failed.
+  + https://x.com/loganclarkhall/status/1930785528137290151
+    + relies on the assumption that immigrants are in some way demi-beings being puppetted by an evil demon hell-bent on the destruction of the world. This is a false assumption. It wouldn't be possible to have any mutually-beneficial arrangements with uruk-hai, because uruk-hai cannot engage in human action. Immigrants can.
+    + What precisely do these people think not having a balanced budget means? It means more destruction to wealth, it means further degredation of everything they hold dear, far moreso than any refugee could ever manage.
+    + These people are equivalent to the "just print more money" or "just make minimum wage $1 million" types. They are truly incapable of projecting out the practical implication of their policy proposals. Ironically, making them far closer to the uruks they fear than a rational immigrant would be.
+** living in ancapistan in our heads
++ Who is truly living in ancapistan in their heads if not the people who say "so we should pretend that all government property is actually already privately owned and enforce our delusion on any would be violent trespasser!"
+** pragmatism
++ review peikoff lectures
++ The pragmatist holds that the true is a species of the good. So it doesn't matter if all of the data shows that immigration is positive and that immigrants tend to reduce socialism as compared to the protectionist natives; it is not practical to believe in these facts. It is not practical to obey the NAP. That these things are not practical /means/ that they are not true.
+** general
++ Both the washington beltway libertarians and the neo-prags enable rather than meaningfully oppose the regime. All pragmatists necessarily enable the philosophical status quo.
++ it is hard to find a group more susceptible to propaganda than the prags.
++ On the alternative being Isaiah vs salesmanship:
+  + "There are simply two opposing theses here: either Isaiah has the correct strategy, and the theory has primacy over messaging, or the salesman is right and messaging has primacy over the theory. It is possible for people to pussyfoot around and not accept either thesis to its logical conclusions, but those people are simply inconsistent"
+  + any salesman who is not engaged in adulterating the theory to best appeal to the masses is not taking his role seriously.
++ What is the big master-plan of the neo-prags? That they keep supporting bigger and more tyrannical government and covering for the biggest socialist the Whitehouse has seen in years, and then at some undisclosed point down the line the state will just wither away? What are the tangible steps that these strategic central planners have worked out?
+** things to watch
++ Inside the Mises Caucus Takeover of the Libertarian Party https://www.youtube.com/watch?v=NsgFdPqOAhk
+* main body
+** Cargo Cults
+Among the indigenous tribes of the South Pacific there exists a peculiar phenomenon. The islanders began constructing facsimiles of airstrips using twigs and performing military drills with bamboo shoots in the place of guns.
+
+Previously, these tribes had witnessed a great war between nations possessing technology they could not conceive of, and they saw that supplies would be brought to strange places they could not understand the true purpose of. Lacking any context for these great flying machines, they would attempt to entice them to bring gifts by building monuments in favour of whatever gods must have sent them.
+
+These tribes are called cargo cults. Their operating premise is that if they simply build an area which looks like the airports they have seen, that they too will be able to receive the riches bestowed by the sky. That is, they have not understood the fundamental reason behind the activities they saw others engaged in; so they do not know that those activities were not the reason for success.
+
+A similar mentality has gripped the libertarian movement; incapable or unwilling to understand the greats, most have resigned to simply imitating their movements, without understanding the purpose behind those movements. If this poison is not removed, we are doomed to fall into a world of communism. This is a poison that has gripped some of the most popular advocates of liberty. This is the anatomy of the celebritarian.
+
+[intro edit]
+
+** Pragmatism, Old and New
+
+** The Philosophical Bust
+These are not entirely disconnected events as these people would have you believe,[fn:1] rather, the are both the direct result of the fundamental strategy that the neo-prags have taken up. All of it. The alienation of the radicals to court fiat libertarians to gain temporary culture war wins to eventually get---what?
+
+Not libertarianism. I have already proven that Dave is not for liberty, let's take a review of the others. Angela sold out that label to Trump to claim a "Libertarian POTUS," her husband is running cover for his tariffs, and [something else]. It is all the same strategy, the same strategy that required Dave to label us as "worse than communists." We /are/ worse from his perspective, because we undermine him from within. We refute his entire plan. We negate the grift. Communists feed the grift.
+
+/That/ is that they are really after. The grift. The grift is their categorial imperative and the driving force of everything they do. This is why they herd over libertarians in name only; great for grifting, terrible for winning. They are a poison that should be immediately excised. They are the anarcho-stirnerites and anarcho-pragmatists that Murray Rothbard warned us about. And per Rothbard's advice they should, on their own premises, shut up and get out of the fucking way of people trying to do the real work to bring about anarchy.
+
+There is a phenomenon in economic theory called the business cycle. It is a procession of expansion in the economy, followed by a contraction; which goes on in a loop, every boom being followed by a bust. The Austrian account of this is that investors look to the amount saved to decide how long-run their investments should be. Consider the case of Robinson Crusoe on the desert island; if he has saved only a few twigs and logs, he should perhaps invest in a small raft, but if he has a vastly greater amount of capital saved he can build an entire fishing trawler, or cruise line.
+
+The same is true of the regular economy. Investors gauge how many resources have been saved by looking at the interest rates of loans. If the interest rates are super low, this means that a whole lot of resources have been put aside, so investors can wait longer to be repaid. If the interest rates are high, this means that not many resources have been put aside, and accordingly investors will require a sooner payment on the loan.
+
+When a fractional reserve bank prints off more money than actually exists, it signals to investors that more resources have been saved than have actually been saved. This "fiat" money has mislead investors into making longer-run investments than they otherwise would have, so when they find this out, it is suddenly revealed that all of these investments were wrong, and the market goes bust.
+
+We can draw out of this economic case a more general principle. The economic boom was essentially caused by a friendly-sounding deception---a white lie if you will. Crusoe on our island is living in ignorance of the true state of his savings, because he has swallowed the falsehood that he is far better off than he really is. This falsehood will eventually run up against reality, and Crusoe will find that he has made incorrect decisions based upon his false premises. That's the general rule. When you operate upon false premises to generate some manner of "fiat" goodies--that is, goodies which don't actually exist--you will eventually reach some breaking point, where reality swoops in and demonstrates your choices to have been wrong. At such a point, a man has two options: he can either double-down and simply ignore this new fact of reality like he has been doing all along; or he can acknowledge the error of his ways and start to rebuild. The economic analogue for both would be either printing off more money to get another boom going, or letting the bubble burst, not bailing anyone out, and allowing capital to be reallocated to where it should have been in the first place.
+
+Let us apply this generalised "cycle of evasion" to the case of the pragmatist strategy. Both the old prags and the neo-prags have as their guiding principle the herding over of fiat libertarians--that is, libertarians in name only--and the more they can herd into the tent the better they are said to be doing. This creates a libertarian "boom" period; where perhaps it becomes a very popular topic of discussion, and many people watch the podcasts, and many people attend the conferences. But, as discussed, this boom necessitates a bust. None of these people who were herded over were actually radicals for capitalism. None of them care about property rights as anything approaching a fundamental legal principle. They all inevitably wish to achieve some form of socialism in their various pet issues. It would be surprising if any one of them even understood the theory beyond the most basic soundbites.
+
+After all, how could they ever advance beyond the stage of the soundbitatarian? These people are, by definition, followers; not leaders. By the fact that the pragmatist has taken as his guiding strategic light the herding in of sheep to generate fiat libertarians, he is selecting for people who do not carefully consider philosophy or come to their own conclusions on the various topics therein. Rather, he has selected for those who will just accept whatever hodgepodge of bundled philosophies which has been passed down to them; these bundles can come only in the form of soundbites.
+
+By "bundled philosophy" I mean any philosophy which gives you a metaphysics (what is there?), epistemology (how do I know?), and ethics (what should I do about it?). For instance, a particularly primitive form of religious proselytising might go like: what is there? God is there. How do I know? God told me. What should I do about it? Whatever God says.
+
+Here the anarcho-pragmatist has focused his activities on providing a specific soundbite to slot into someone's ethics, without worrying about integrating it with any other area in philosophy. In fact, integration is to be discouraged, can't we all just get along and sing kumbaya!? This suits the pragmatist, his target demographic is not capable of integration in the first place. This is a far larger demographic to grift on, and it is far easier to just feed these people soundbites than to do the real work of philosophy.
+
+Specifically, the anarcho-pragmatist will merely present some soundbite like "socially liberal, fiscally conservative," or; "don't hurt people, and don't take their stuff," or; "black guns matter," or; "did you guys know that war is bad?," or; "we need to run government like a business!," etc.
+
+The pragmatist must ensure that the soundbites never get any more specific than this---being vague is the entire point. If some radical comes along and explains that "don't hurt people, and don't take their stuff" is to be laughed out of any serious discussion on jurisprudence and that the proper principle it is trying to point at is called the non-aggression principle, which is precisely defined in terms of praxeology; this man is to be denounced and laughed at as "too autistic," or "too idealistic," or "living in anarcho-capitalism in his head."
+
+This is because if the radical is allowed to speak to the fiat libertarians, they will quickly be turned off, and be made to understand that they have no place in this movement. The radical will demonstrate to the fiatatarian that there are many parts of the tent he was herded into that he finds repulsive; many conclusions that are not so wholesome chungus and feminist or super duper trad and MAGA, depending, of course, on which variety of pragmatist did the herding. The fiatatarian will be disgusted by these radical conclusions and will quickly run away to be herded elsewhere at which point he may post on social media that he used to be a libertarian, before he grew up that is!
+
+So what exactly is the practical implication of successful pragmatism---that is, pragmatism which generates many fiat libertarians. What is the consequence of the strategy which is revealed in the bust phase?
+
+In the first case, the strategy involves a direct alienation of radicals. As discussed above, it is either-or. In the pursuit of milquetoast, pragmatist messaging, you have to simultaneously denounce radical messaging. One is forced to explain that they are not like those crazy anarchists, they just want reasonable limits on government overreach! The pragmatist must lionize the "sensible" or "centrist" path, and reject the "idealistic" or "utopian" one.
+
+It is not possible to have it both ways. Those who attempt to "be everyone's friend" inevitably run up against this fact. In any opportunity where this type is given the choice between backing a radical or throwing him under the bus for a culture war win, they take the latter 10 times out of 10. If one of these kumbaya-atarians were to take the radical side, they become radicals and immediately place themselves in opposition to the pragmatists. In reality, kumbaya-atarianism is just another form of pragmatism; it is the denunciation of reality and principle, in favour of fiat and compromise. After all, can't we all just get along!? We cannot. There is no middle ground between A and non-A, the excluded middle does not exist. The kumbaya-atarian exists at most as a higher-order pragmatist; where the first order pragmatist attempts to bridge between radicals and normies by herding the latter into the libertarian tent, the second order pragmatist attempts to bridge between pragmatists and radicals by herding the pragmatists into the radical tent. An attempt which fails for obvious reasons.
+
+Not only does the pragmatist strategy necessitate the direct alienation of radicals, it also indirectly alienates them by making coordination between radicals more difficult. If I find myself in this tent which is being constantly fluffed up by an influx of people who hate libertarianism, but have had the label hastily stamped on their forehead upon entry, it becomes increasingly more challenging to find other radicals in the movement to converse and organise with.
+
+One might find himself in a supposedly-libertarian party or conference and be faced with legion subversions to the theory. "Oh, I am definitely a libertarian, but it violates my NAP to allow any immigration;" "oh, you misunderstand, it is actually an initiation of force to lie about someone as it damages their reputation: free speech in moderation, I say!;" "oh, the non-aggression principle is definitely true, but aggression means when the Proletariat are exploited, so we need socialism to be truly free."
+
+These subversions have two sources: (1) through fiatatarians bringing along their old bad premises, but translating them into libertarian terminology; and (2) through active subverters in the movement. These subverters come into the tent through the gaping hole made by the pragmatists, seek out new and easily swayed advocates of liberty, and fill their heads with poison. These subverters are in the business of trying to herd people out of the liberty tent, and into their own ideology's tent. Even if they fail to lead the individual completely back home, they often succeed in demonstrating to him that the libertarian movement is full of bad actors, and is not to be engaged with. This counts as victory also.
+
+All of this indirect alienation ends up in the same place: the radical vanguard is slowed down, and slowly loses members to attrition. Potential members of the vanguard are unable to find it, and are left wandering forever. And without this base of radicals the movement becomes doomed to failure, perhaps needing to be spun off into a new ideology, leaving the old one to rot.
+
+The movement /must/ die without the radicals because without the radicals there is not, strictly speaking, any movement at all. That is, the radical base are not merely the core, or guiding light, or misguided autistic wing of the movement; the radicals /are/ the movement. Every single other person in the tent is either entirely irrelevant or an active hindrance to the movement. Properly speaking, one cannot describe this ballast as part of any movement as they generate no /motion/. They exist only as inertia, they go along in the same direction unless acted upon by some force generated by radicals. Having this inertia is a very bad thing for a small ideology, because the active subverters can provide this force just as fully as the radical vanguard.
+
+* Footnotes
+[fn:2]https://en.wikipedia.org/wiki/Cabinet_of_the_United_States ([[https://archive.ph/NE9Wm][archived]]).
+
+[fn:1]Jacob Winograd tweet: "You're connecting two entirely different things/events
+
+And also proving my point to @MonarchoHoppean that this is really just the fact that you guys are still peeved over a year later about Dave's comments
+
+Let it go
+
+Or don't 🤷🏻‍♂️" https://x.com/BiblicalAnarchy/status/1908707891680264351 https://archive.ph/DuXOK

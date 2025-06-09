@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "tech",
+      "targetTime": 8.052654025470828
+    },
+    {
+      "name": "both cases",
+      "targetTime": 17.87702386843497
+    },
+    {
+      "name": "groping",
+      "targetTime": 19.05882380020333
+    },
+    {
+      "name": "end",
+      "targetTime": 30.642002853099697
+    }
+  ],
+  "seed": 4194808633
+}

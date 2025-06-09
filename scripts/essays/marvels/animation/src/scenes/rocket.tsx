@@ -37,6 +37,18 @@ import birdis from "../assets/birds-image-sequence";
 export default makeScene2D(function* (view) {
   view.fill(colors.sky200);
 
+  const fadeFromBlack = createRef<Rect>();
+
+  view.add(
+    <Rect
+      zIndex={999}
+      ref={fadeFromBlack}
+      width={1920}
+      height={1080}
+      fill="black"
+    />,
+  );
+
   const earth = createRef<Rect>();
   const bird = createRef<Img>();
   const rocketHeight = createSignal(1200);
@@ -132,7 +144,7 @@ export default makeScene2D(function* (view) {
     fireFrame++;
   }
 
-  yield* loopUntil("takeoff", doBird);
+  yield* all(fadeFromBlack().opacity(0, 1), loopUntil("takeoff", doBird));
 
   yield* all(
     view.fill(colors.neutral950, 5, linear),
