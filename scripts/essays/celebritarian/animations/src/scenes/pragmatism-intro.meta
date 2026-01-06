@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "theory",
+      "targetTime": 0
+    },
+    {
+      "name": "be practical",
+      "targetTime": 5.114186453990695
+    },
+    {
+      "name": "proper attitude",
+      "targetTime": 8.333701891124402
+    },
+    {
+      "name": "title",
+      "targetTime": 12.959476768775298
+    }
+  ],
+  "seed": 1545065620
+}

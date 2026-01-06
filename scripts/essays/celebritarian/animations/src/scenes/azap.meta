@@ -1,0 +1,62 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "MIC",
+      "targetTime": 5.589214916270322
+    },
+    {
+      "name": "indicate MIC",
+      "targetTime": 6.839714794925838
+    },
+    {
+      "name": "dismantle the MIC",
+      "targetTime": 39.741592376171575
+    },
+    {
+      "name": "ICE",
+      "targetTime": 64.93486462760978
+    },
+    {
+      "name": "DOT",
+      "targetTime": 65.93486462760978
+    },
+    {
+      "name": "Pro-Free Speech and Anti-Censorship",
+      "targetTime": 91.4452851548298
+    },
+    {
+      "name": "indicate freeze peach",
+      "targetTime": 92.4452851548298
+    },
+    {
+      "name": "borders",
+      "targetTime": 146.81376709921312
+    },
+    {
+      "name": "indicate borders",
+      "targetTime": 147.81376709921312
+    },
+    {
+      "name": "foreign interests",
+      "targetTime": 184.6392201063303
+    },
+    {
+      "name": "exploitation",
+      "targetTime": 185.90151628570868
+    },
+    {
+      "name": "tariffs",
+      "targetTime": 197.1112960235714
+    },
+    {
+      "name": "indicate tariffs",
+      "targetTime": 198.1112960235714
+    },
+    {
+      "name": "end",
+      "targetTime": 219.00734212493566
+    }
+  ],
+  "seed": 2484976868
+}

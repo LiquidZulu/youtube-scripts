@@ -1,0 +1,794 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "Let's | ヮ",
+      "targetTime": 0
+    },
+    {
+      "name": "say | ヮ",
+      "targetTime": 0.16
+    },
+    {
+      "name": "there's | ヮ",
+      "targetTime": 0.26
+    },
+    {
+      "name": "like | ヮ",
+      "targetTime": 0.4461614157610274
+    },
+    {
+      "name": "somebody | ",
+      "targetTime": 0.8055255932062535
+    },
+    {
+      "name": "who | ",
+      "targetTime": 1.12
+    },
+    {
+      "name": "makes | ",
+      "targetTime": 1.26
+    },
+    {
+      "name": "a | ",
+      "targetTime": 1.44
+    },
+    {
+      "name": "game | 񽈗",
+      "targetTime": 1.6
+    },
+    {
+      "name": "that | 񽈗",
+      "targetTime": 1.98706594714651
+    },
+    {
+      "name": "would | 񽈗",
+      "targetTime": 2.1
+    },
+    {
+      "name": "normally | 񽈗",
+      "targetTime": 2.22
+    },
+    {
+      "name": "be | 򬘓",
+      "targetTime": 2.54
+    },
+    {
+      "name": "a | 򬘓",
+      "targetTime": 2.950757876358459
+    },
+    {
+      "name": "hit, | 򬘓",
+      "targetTime": 3.050757876358459
+    },
+    {
+      "name": "but | 򬘓",
+      "targetTime": 3.58
+    },
+    {
+      "name": "they're | 򬘓",
+      "targetTime": 3.68
+    },
+    {
+      "name": "not | 򓘴",
+      "targetTime": 4.1
+    },
+    {
+      "name": "that | 򓘴",
+      "targetTime": 4.24
+    },
+    {
+      "name": "well | 򓘴",
+      "targetTime": 4.44
+    },
+    {
+      "name": "known. | 򓘴",
+      "targetTime": 4.68
+    },
+    {
+      "name": "There | 𔾀",
+      "targetTime": 5.16
+    },
+    {
+      "name": "would | 𔾀",
+      "targetTime": 5.28
+    },
+    {
+      "name": "be, | 𔾀",
+      "targetTime": 5.46
+    },
+    {
+      "name": "I | 𔾀",
+      "targetTime": 6.256894690896147
+    },
+    {
+      "name": "think, | 𔾀",
+      "targetTime": 6.4
+    },
+    {
+      "name": "an | 𼠘",
+      "targetTime": 6.64
+    },
+    {
+      "name": "industry | 𼠘",
+      "targetTime": 6.739999999999999
+    },
+    {
+      "name": "popping | 𼠘",
+      "targetTime": 7.08
+    },
+    {
+      "name": "up | 𼠘",
+      "targetTime": 7.5
+    },
+    {
+      "name": "immediately | 󸢕",
+      "targetTime": 7.7
+    },
+    {
+      "name": "that's | 󸢕",
+      "targetTime": 8.14
+    },
+    {
+      "name": "on | 󸢕",
+      "targetTime": 8.54
+    },
+    {
+      "name": "the | 򎮠",
+      "targetTime": 8.68
+    },
+    {
+      "name": "prowl | 򎮠",
+      "targetTime": 8.84
+    },
+    {
+      "name": "for | 򎮠",
+      "targetTime": 9.28
+    },
+    {
+      "name": "stuff | 򎮠",
+      "targetTime": 9.646748035869123
+    },
+    {
+      "name": "like | 򎮠",
+      "targetTime": 9.9
+    },
+    {
+      "name": "this. | 󍬚",
+      "targetTime": 10.14
+    },
+    {
+      "name": "They | 󍬚",
+      "targetTime": 10.54
+    },
+    {
+      "name": "see, | 󍬚",
+      "targetTime": 10.64
+    },
+    {
+      "name": "okay, | 󍬚",
+      "targetTime": 11.04
+    },
+    {
+      "name": "this | 󄅨",
+      "targetTime": 11.28
+    },
+    {
+      "name": "game's | 󄅨",
+      "targetTime": 11.42
+    },
+    {
+      "name": "for | 󄅨",
+      "targetTime": 11.851418300136572
+    },
+    {
+      "name": "sale | 󄅨",
+      "targetTime": 11.98
+    },
+    {
+      "name": "for | 󄅨-4842",
+      "targetTime": 12.224938973098157
+    },
+    {
+      "name": "$10. | 񻸕",
+      "targetTime": 12.34
+    },
+    {
+      "name": "We're | 񻸕",
+      "targetTime": 13.16
+    },
+    {
+      "name": "just | 񻸕",
+      "targetTime": 13.3
+    },
+    {
+      "name": "going | 񻸕",
+      "targetTime": 13.46
+    },
+    {
+      "name": "to | 񻸕",
+      "targetTime": 13.58
+    },
+    {
+      "name": "copy | 񧧰",
+      "targetTime": 13.68
+    },
+    {
+      "name": "it, | 񧧰",
+      "targetTime": 14.04
+    },
+    {
+      "name": "put | 񧧰",
+      "targetTime": 14.719364177445225
+    },
+    {
+      "name": "our | 񧧰",
+      "targetTime": 14.82
+    },
+    {
+      "name": "name | 񧧰",
+      "targetTime": 14.96
+    },
+    {
+      "name": "on | 񧧰",
+      "targetTime": 15.16
+    },
+    {
+      "name": "it, | 򲱔",
+      "targetTime": 15.36
+    },
+    {
+      "name": "and | 򲱔",
+      "targetTime": 15.52
+    },
+    {
+      "name": "we're | 򲱔",
+      "targetTime": 15.62
+    },
+    {
+      "name": "going | 򲱔",
+      "targetTime": 15.74
+    },
+    {
+      "name": "to | 򲱔",
+      "targetTime": 15.84
+    },
+    {
+      "name": "put | 𚹒",
+      "targetTime": 15.94
+    },
+    {
+      "name": "it | 𚹒",
+      "targetTime": 16.04
+    },
+    {
+      "name": "out | 𚹒",
+      "targetTime": 16.14
+    },
+    {
+      "name": "for | 𚹒",
+      "targetTime": 16.240000000000002
+    },
+    {
+      "name": "$2 | 𚹒",
+      "targetTime": 16.340000000000003
+    },
+    {
+      "name": "immediately | 񵦼",
+      "targetTime": 16.853813983015634
+    },
+    {
+      "name": "and | 񵦼",
+      "targetTime": 17.860879930162145
+    },
+    {
+      "name": "market | 񵦼",
+      "targetTime": 18
+    },
+    {
+      "name": "it | 𔀸",
+      "targetTime": 18.255696849456616
+    },
+    {
+      "name": "everywhere. | 𔀸",
+      "targetTime": 18.926112213314347
+    },
+    {
+      "name": "Any | 𔀸",
+      "targetTime": 19.520293310054047
+    },
+    {
+      "name": "game | 𔀸",
+      "targetTime": 19.74
+    },
+    {
+      "name": "that | 䬝",
+      "targetTime": 20
+    },
+    {
+      "name": "gets | 䬝",
+      "targetTime": 20.14
+    },
+    {
+      "name": "out, | 䬝",
+      "targetTime": 20.34
+    },
+    {
+      "name": "they're | 䬝",
+      "targetTime": 20.92
+    },
+    {
+      "name": "immediately | 昴",
+      "targetTime": 21.1
+    },
+    {
+      "name": "going | 昴",
+      "targetTime": 21.46
+    },
+    {
+      "name": "to | 昴",
+      "targetTime": 21.66
+    },
+    {
+      "name": "undercut | 𩺍",
+      "targetTime": 21.76
+    },
+    {
+      "name": "it | 𩺍",
+      "targetTime": 21.860000000000003
+    },
+    {
+      "name": "and | 𩺍",
+      "targetTime": 22.303349416711228
+    },
+    {
+      "name": "kind | 򼥚",
+      "targetTime": 22.40334941671123
+    },
+    {
+      "name": "of | 򼥚",
+      "targetTime": 22.50334941671123
+    },
+    {
+      "name": "take | 򼥚",
+      "targetTime": 22.603349416711232
+    },
+    {
+      "name": "it. | 򼥚",
+      "targetTime": 22.703349416711234
+    },
+    {
+      "name": "I | 򐺚",
+      "targetTime": 23.06547639075959
+    },
+    {
+      "name": "don't | 򐺚",
+      "targetTime": 23.24300690421051
+    },
+    {
+      "name": "think | 򐺚",
+      "targetTime": 23.464840568204817
+    },
+    {
+      "name": "this | 򏑘",
+      "targetTime": 23.68
+    },
+    {
+      "name": "is | 򏑘",
+      "targetTime": 23.9
+    },
+    {
+      "name": "too | 򏑘",
+      "targetTime": 25.132362222330237
+    },
+    {
+      "name": "much | 򏑘",
+      "targetTime": 25.232362222330238
+    },
+    {
+      "name": "of | 򏑘",
+      "targetTime": 25.34
+    },
+    {
+      "name": "a | 򏑘",
+      "targetTime": 25.44
+    },
+    {
+      "name": "concern. | 򘲰",
+      "targetTime": 25.540000000000003
+    },
+    {
+      "name": "I | 򘲰",
+      "targetTime": 25.9
+    },
+    {
+      "name": "mean, | 򘲰",
+      "targetTime": 26
+    },
+    {
+      "name": "you | 򘲰",
+      "targetTime": 26.31075787635846
+    },
+    {
+      "name": "know, | 󈗛",
+      "targetTime": 26.41075787635846
+    },
+    {
+      "name": "look | 󈗛",
+      "targetTime": 26.54
+    },
+    {
+      "name": "at | 󈗛",
+      "targetTime": 26.66
+    },
+    {
+      "name": "the | 󈗛",
+      "targetTime": 26.76
+    },
+    {
+      "name": "open | 󈗛",
+      "targetTime": 27.251860241970764
+    },
+    {
+      "name": "source | 񪸍",
+      "targetTime": 27.46
+    },
+    {
+      "name": "software | 񪸍",
+      "targetTime": 27.7
+    },
+    {
+      "name": "community. | 񧠹",
+      "targetTime": 28.14
+    },
+    {
+      "name": "You | 񧠹",
+      "targetTime": 28.986250009015887
+    },
+    {
+      "name": "know, | 񧠹",
+      "targetTime": 29.086250009015888
+    },
+    {
+      "name": "a | 񧠹",
+      "targetTime": 29.18625000901589
+    },
+    {
+      "name": "lot | 񋚉",
+      "targetTime": 29.28625000901589
+    },
+    {
+      "name": "of | 񋚉",
+      "targetTime": 29.386250009015892
+    },
+    {
+      "name": "software | 񋚉",
+      "targetTime": 29.486250009015894
+    },
+    {
+      "name": "outside | 񋚉",
+      "targetTime": 29.72
+    },
+    {
+      "name": "of | 󵢪",
+      "targetTime": 29.98
+    },
+    {
+      "name": "games | 󵢪",
+      "targetTime": 30.22
+    },
+    {
+      "name": "is | 󵢪",
+      "targetTime": 31.09742127247896
+    },
+    {
+      "name": "open | 󵢪",
+      "targetTime": 31.61802165773179
+    },
+    {
+      "name": "source. | 󵢪",
+      "targetTime": 31.84
+    },
+    {
+      "name": "It's | 󛐮",
+      "targetTime": 32.80822835128409
+    },
+    {
+      "name": "not | 󛐮",
+      "targetTime": 32.98
+    },
+    {
+      "name": "like | 󛐮",
+      "targetTime": 33.08
+    },
+    {
+      "name": "Microsoft | 󛐮",
+      "targetTime": 33.7764567025682
+    },
+    {
+      "name": "just | 򿽮",
+      "targetTime": 34.18
+    },
+    {
+      "name": "comes | 򿽮",
+      "targetTime": 34.44
+    },
+    {
+      "name": "along | 򿽮",
+      "targetTime": 34.66
+    },
+    {
+      "name": "and | 򿽮",
+      "targetTime": 34.86
+    },
+    {
+      "name": "sees | 񕖝",
+      "targetTime": 35.02
+    },
+    {
+      "name": "RipGrep | 񕖝",
+      "targetTime": 35.28
+    },
+    {
+      "name": "and | 񕖝",
+      "targetTime": 36.535167338807675
+    },
+    {
+      "name": "goes, | 񕖝",
+      "targetTime": 36.66
+    },
+    {
+      "name": "well, | 󯨚",
+      "targetTime": 37.06
+    },
+    {
+      "name": "we're | 󯨚",
+      "targetTime": 37.24
+    },
+    {
+      "name": "going | 󯨚",
+      "targetTime": 37.34
+    },
+    {
+      "name": "to | 󯨚",
+      "targetTime": 37.440000000000005
+    },
+    {
+      "name": "remake | 񡼑",
+      "targetTime": 37.7044586648959
+    },
+    {
+      "name": "RipGrep | 񡼑",
+      "targetTime": 37.94
+    },
+    {
+      "name": "ourselves | 񡼑",
+      "targetTime": 38.42
+    },
+    {
+      "name": "and | 񷇌",
+      "targetTime": 38.82
+    },
+    {
+      "name": "everybody | 񷇌",
+      "targetTime": 39.08
+    },
+    {
+      "name": "will | 񷇌",
+      "targetTime": 39.34
+    },
+    {
+      "name": "use | 񷇌",
+      "targetTime": 39.48
+    },
+    {
+      "name": "our | 񾱡",
+      "targetTime": 39.64
+    },
+    {
+      "name": "version. | 񾱡",
+      "targetTime": 39.84
+    },
+    {
+      "name": "Or, | 񾱡",
+      "targetTime": 40.73158465056769
+    },
+    {
+      "name": "you | 񾱡",
+      "targetTime": 40.94
+    },
+    {
+      "name": "know, | 𙰢",
+      "targetTime": 41.06
+    },
+    {
+      "name": "we'll | 𙰢",
+      "targetTime": 41.18
+    },
+    {
+      "name": "remake | 𙰢",
+      "targetTime": 41.658710636239476
+    },
+    {
+      "name": "whatever | 碨",
+      "targetTime": 42.51967520615025
+    },
+    {
+      "name": "else | 碨",
+      "targetTime": 42.96
+    },
+    {
+      "name": "and | 碨",
+      "targetTime": 43.46
+    },
+    {
+      "name": "then | 碨",
+      "targetTime": 43.94
+    },
+    {
+      "name": "everybody | 𤸸",
+      "targetTime": 44.22
+    },
+    {
+      "name": "will | 𤸸",
+      "targetTime": 44.48
+    },
+    {
+      "name": "use | 𤸸",
+      "targetTime": 44.64
+    },
+    {
+      "name": "ours. | 𤸸",
+      "targetTime": 44.78
+    },
+    {
+      "name": "We'll | 񎀐",
+      "targetTime": 45.08
+    },
+    {
+      "name": "make | 񎀐",
+      "targetTime": 45.18
+    },
+    {
+      "name": "our | 񎀐",
+      "targetTime": 45.28
+    },
+    {
+      "name": "own | 񎀐",
+      "targetTime": 45.38
+    },
+    {
+      "name": "Linux | 񎀐",
+      "targetTime": 45.54
+    },
+    {
+      "name": "kernel. | 󠐂",
+      "targetTime": 45.82
+    },
+    {
+      "name": "That's | 󠐂",
+      "targetTime": 46.26
+    },
+    {
+      "name": "generally | 󠐂",
+      "targetTime": 46.5
+    },
+    {
+      "name": "not | 𳲖",
+      "targetTime": 46.82
+    },
+    {
+      "name": "how | 𳲖",
+      "targetTime": 47
+    },
+    {
+      "name": "it | 𳲖",
+      "targetTime": 47.14
+    },
+    {
+      "name": "happens. | 𳲖",
+      "targetTime": 47.26
+    },
+    {
+      "name": "Generally, | 񚁽",
+      "targetTime": 47.62
+    },
+    {
+      "name": "the | 񚁽",
+      "targetTime": 47.98
+    },
+    {
+      "name": "first | 񚁽",
+      "targetTime": 48.12
+    },
+    {
+      "name": "mover, | 𹳣",
+      "targetTime": 48.48
+    },
+    {
+      "name": "they | 𹳣",
+      "targetTime": 49.42919292119487
+    },
+    {
+      "name": "get | 𹳣",
+      "targetTime": 49.56
+    },
+    {
+      "name": "the | 𹳣",
+      "targetTime": 49.76
+    },
+    {
+      "name": "advantage | 󮂜",
+      "targetTime": 49.9
+    },
+    {
+      "name": "there. | 󮂜",
+      "targetTime": 50.26
+    },
+    {
+      "name": "They're | 󮂜",
+      "targetTime": 50.58
+    },
+    {
+      "name": "the | 󭨮",
+      "targetTime": 50.8
+    },
+    {
+      "name": "ones | 󭨮",
+      "targetTime": 50.9
+    },
+    {
+      "name": "who | 󭨮",
+      "targetTime": 51.2
+    },
+    {
+      "name": "people | 󭨮",
+      "targetTime": 52.211673243822545
+    },
+    {
+      "name": "go | 󭨮",
+      "targetTime": 52.42
+    },
+    {
+      "name": "to | 򅉅",
+      "targetTime": 52.62
+    },
+    {
+      "name": "because | 򅉅",
+      "targetTime": 53.17871063623948
+    },
+    {
+      "name": "they're | 򅉅",
+      "targetTime": 53.32
+    },
+    {
+      "name": "the | 򅉅",
+      "targetTime": 53.48
+    },
+    {
+      "name": "originator. | 󲛱",
+      "targetTime": 53.58
+    },
+    {
+      "name": "You | 󲛱",
+      "targetTime": 54.24
+    },
+    {
+      "name": "want | 󲛱",
+      "targetTime": 54.34
+    },
+    {
+      "name": "the | 󲛱",
+      "targetTime": 54.5
+    },
+    {
+      "name": "original. | 񖇔",
+      "targetTime": 55.02
+    },
+    {
+      "name": "End mkSubtitles for prefix: no prefix specified",
+      "targetTime": 55.53953741044871
+    }
+  ],
+  "seed": 2353515583
+}

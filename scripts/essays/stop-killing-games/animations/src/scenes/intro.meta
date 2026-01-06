@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "vid shrink",
+      "targetTime": 3.2987793112757946
+    },
+    {
+      "name": "browser",
+      "targetTime": 6.025618040132381
+    },
+    {
+      "name": "scroll",
+      "targetTime": 8.889312185743353
+    },
+    {
+      "name": "highlight",
+      "targetTime": 10.558721331598752
+    }
+  ],
+  "seed": 2768503304
+}

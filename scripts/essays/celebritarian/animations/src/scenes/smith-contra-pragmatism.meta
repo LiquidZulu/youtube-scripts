@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "philosophy of libertarianism",
+      "targetTime": 8.88570918185065
+    },
+    {
+      "name": "principled and courageous",
+      "targetTime": 26.518512230130586
+    },
+    {
+      "name": "fundamental strategic question",
+      "targetTime": 28.623687031082515
+    },
+    {
+      "name": "pragmatism opposite of principles",
+      "targetTime": 41.355162558056435
+    },
+    {
+      "name": "end",
+      "targetTime": 65.72526711528344
+    }
+  ],
+  "seed": 1921426808
+}

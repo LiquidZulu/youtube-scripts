@@ -1,0 +1,30 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "move cam",
+      "targetTime": 51.808681672025756
+    },
+    {
+      "name": "first list",
+      "targetTime": 52.45561400135939
+    },
+    {
+      "name": "second list",
+      "targetTime": 61.476119873858956
+    },
+    {
+      "name": "cam back",
+      "targetTime": 68.87836683272711
+    },
+    {
+      "name": "scroll text",
+      "targetTime": 271.4477844818874
+    },
+    {
+      "name": "end",
+      "targetTime": 281.5491063825663
+    }
+  ],
+  "seed": 1762108089
+}

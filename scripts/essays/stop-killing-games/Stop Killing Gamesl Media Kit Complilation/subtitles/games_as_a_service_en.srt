@@ -1,0 +1,6192 @@
+1
+00:00:01,300 --> 00:00:03,700
+"Games as a Service".
+
+2
+00:00:03,700 --> 00:00:06,200
+If you've been involved with computer or video games
+
+3
+00:00:06,200 --> 00:00:07,800
+for any length of time
+
+4
+00:00:07,800 --> 00:00:10,200
+you've probably come across that phrase.
+
+5
+00:00:10,200 --> 00:00:12,400
+I don't know what the origin is.
+
+6
+00:00:12,400 --> 00:00:14,400
+Wikpedia's no help.
+
+7
+00:00:14,400 --> 00:00:16,300
+Look at this first sentence under 'History'.
+
+8
+00:00:16,800 --> 00:00:20,100
+"The idea of Games as a Service began around 2004
+
+9
+00:00:20,100 --> 00:00:21,900
+with the introduction of-" blah blah blah
+
+10
+00:00:21,900 --> 00:00:24,200
+that doesn't matter, that's already wrong.
+
+11
+00:00:24,200 --> 00:00:28,700
+I mean EverQuest was the first major game
+I knew about doing this in '99
+
+12
+00:00:28,700 --> 00:00:33,200
+but even before that, I remember hearing
+about the Sierra Network from '91.
+
+13
+00:00:33,200 --> 00:00:37,900
+I really doubt that was even when this started
+either, it was probably some MUD.
+
+14
+00:00:37,900 --> 00:00:42,100
+Yeah, before World of Warcraft, there were MUDs,
+fun for everyone.
+
+15
+00:00:42,100 --> 00:00:45,700
+"2004"...you're no help at all
+here Wikipedia.
+
+16
+00:00:45,700 --> 00:00:49,000
+And I got sidetracked in the first minute.
+Nice.
+
+17
+00:00:49,000 --> 00:00:52,700
+Anyway, what I was getting at is I don't
+know the origin of this phrase,
+
+18
+00:00:52,700 --> 00:00:55,200
+but it's so thoroughly entered the vernacular,
+
+19
+00:00:55,200 --> 00:00:59,300
+that I'm honestly wondering if it's the result
+of some subtle propaganda campaign.
+
+20
+00:00:59,700 --> 00:01:02,600
+I say that because it's such a harmless
+sounding phrase
+
+21
+00:01:02,600 --> 00:01:06,300
+but it hides a terrible if not illegal
+business practice.
+
+22
+00:01:06,300 --> 00:01:08,200
+And that bring me to the title:
+
+23
+00:01:08,200 --> 00:01:11,100
+"Games as a Service is Fraud".
+
+24
+00:01:11,100 --> 00:01:14,400
+Now that sounds clickbait-y, and,
+I guess it is
+
+25
+00:01:14,400 --> 00:01:16,800
+but, I'm not exaggerating. I mean it.
+
+26
+00:01:16,800 --> 00:01:21,641
+Unfortunately, it's not the kind of fraud
+I can easily explain in one sentence.
+
+27
+00:01:21,641 --> 00:01:24,241
+So it's not like changing the odometer
+on a car
+
+28
+00:01:24,241 --> 00:01:27,573
+then covering it up and selling it
+as though you never did that.
+
+29
+00:01:27,573 --> 00:01:30,600
+That's easy fraud.
+Anyone understands that.
+
+30
+00:01:31,450 --> 00:01:33,700
+This is a more sophisticated kind.
+
+31
+00:01:33,700 --> 00:01:37,300
+Like how even now, a lot of people
+are still confused on how Goldman Sachs
+
+32
+00:01:37,300 --> 00:01:40,400
+broke the law leading up to the 2008
+finanical crash
+
+33
+00:01:40,400 --> 00:01:42,600
+and how a lot of people should have gone to prison.
+
+34
+00:01:42,600 --> 00:01:44,795
+This is more like that.
+
+35
+00:01:44,795 --> 00:01:48,960
+Now I'll warn you, this video is going to
+be long, and could get boring in spots,
+
+36
+00:01:48,960 --> 00:01:50,550
+but, it's necessary.
+
+37
+00:01:50,550 --> 00:01:55,400
+See, this video is my declaration of war
+on Games as a Service.
+
+38
+00:01:55,400 --> 00:01:58,555
+I'm going up against years of pushed
+narrative here,
+
+39
+00:01:58,555 --> 00:02:00,055
+this isn't gonna be easy.
+
+40
+00:02:00,055 --> 00:02:04,800
+I have to explain everything as a way
+to provide ammo to the troops.
+
+41
+00:02:04,800 --> 00:02:07,844
+And even though it's gonna be long,
+I'm gonna say a lot.
+
+42
+00:02:07,844 --> 00:02:11,300
+You know how some court cases drag on
+weeks or months?
+
+43
+00:02:11,300 --> 00:02:15,100
+Well this is me putting my entire case
+in this video.
+
+44
+00:02:15,100 --> 00:02:18,571
+So however long it is, it's me saying it all.
+
+45
+00:02:18,571 --> 00:02:21,520
+I'm going to explain what Games as a Service is,
+
+46
+00:02:21,520 --> 00:02:24,424
+why it's fraud, address any counterarguments,
+
+47
+00:02:24,424 --> 00:02:26,839
+and most importantly, what can be done about it.
+
+48
+00:02:26,839 --> 00:02:28,339
+I have a plan
+
+49
+00:02:28,339 --> 00:02:29,539
+sort of.
+
+50
+00:02:29,539 --> 00:02:34,148
+Oh and I think it's Games as a Service "is"
+fraud and not "are" fraud
+
+51
+00:02:34,148 --> 00:02:38,096
+because it's referring to the singular practice
+"Games as a Service".
+
+52
+00:02:38,096 --> 00:02:43,630
+But I guess you could also literally have
+Games as a Service "are" something.
+
+53
+00:02:43,630 --> 00:02:45,137
+I really don't know if-
+
+54
+00:02:45,137 --> 00:02:49,280
+So let's jump right in:
+What is "Games as a Service?"
+
+55
+00:02:49,280 --> 00:02:51,200
+Well, Wikipedia defines it as
+
+56
+00:02:51,200 --> 00:02:53,400
+Ah ha ha! Gotcha!
+
+57
+00:02:53,400 --> 00:02:55,180
+No, we're not doing that.
+
+58
+00:02:55,180 --> 00:02:56,700
+They had their chance.
+
+59
+00:02:56,700 --> 00:02:58,959
+I was hoping they would make this easy on me.
+
+60
+00:02:58,959 --> 00:03:00,159
+Nope.
+
+61
+00:03:00,159 --> 00:03:02,669
+Gamasutra defines it as
+
+62
+00:03:02,669 --> 00:03:04,159
+Uhh...
+
+63
+00:03:04,159 --> 00:03:07,220
+This long winded philisophical ideal.
+
+64
+00:03:07,220 --> 00:03:09,828
+Ok, yeah, looks like I'm gonna have to
+do this myself.
+
+65
+00:03:10,328 --> 00:03:13,110
+Ok, first, let's get something out of the way.
+
+66
+00:03:13,110 --> 00:03:15,084
+Because this isn't confusing enough,
+
+67
+00:03:15,084 --> 00:03:19,800
+"Games as a Service" is not the same as
+a "game service".
+
+68
+00:03:19,800 --> 00:03:22,785
+A "game service" is usually a rental system.
+
+69
+00:03:22,785 --> 00:03:27,105
+So if you pay a company twenty bucks a month
+and can rent games or have them streamed to you,
+
+70
+00:03:27,105 --> 00:03:30,389
+but you can also buy them outright somewhere,
+
+71
+00:03:30,389 --> 00:03:34,160
+then that's not what I'm talking about.
+That's not fraud, that's fine.
+
+72
+00:03:34,160 --> 00:03:37,800
+But "Games as a Service", how do we define that?
+
+73
+00:03:37,800 --> 00:03:41,050
+Well, it's a business practice, but what?
+
+74
+00:03:41,100 --> 00:03:44,850
+Well if you're a gamer, you probably have
+an idea of what it is
+
+75
+00:03:44,850 --> 00:03:49,650
+so let's list some common traits and see if we
+can narrow it down to what actually defines it.
+
+76
+00:03:49,650 --> 00:03:52,239
+Here's my list--let's go down the line.
+
+77
+00:03:52,239 --> 00:03:58,360
+"Online only". Yes, I'd say that one defines
+every use of Games as a Service.
+
+78
+00:03:58,360 --> 00:04:02,119
+Now some games have downloadable content
+that you can run offline,
+
+79
+00:04:02,119 --> 00:04:05,477
+but that's not what the industry means
+when they refer to this.
+
+80
+00:04:05,477 --> 00:04:10,100
+In fact, another term for Games as a
+Service is "live service games".
+
+81
+00:04:10,100 --> 00:04:13,660
+In other words, you're connected online,
+so it's live.
+
+82
+00:04:13,660 --> 00:04:15,900
+But hey, I'll give another freebie.
+
+83
+00:04:15,900 --> 00:04:20,813
+If offline Games as a Service games exist,
+then those are not fraud.
+
+84
+00:04:20,813 --> 00:04:23,259
+So hey, "Oblivion" horse armor
+
+85
+00:04:23,259 --> 00:04:24,559
+Not fraud.
+
+86
+00:04:24,559 --> 00:04:28,447
+This is actually a great baseline if you want
+to determine how fair or not you think I'm
+
+87
+00:04:28,447 --> 00:04:33,377
+being toward game companies. This says something
+about where my standards are these days.
+
+88
+00:04:33,377 --> 00:04:38,808
+But back to defining things, we'll say, "Yes,
+every Games as a Service is online only."
+
+89
+00:04:38,808 --> 00:04:43,455
+However, not every online game is Games
+as a Service.
+
+90
+00:04:43,455 --> 00:04:45,378
+We'll come back to that in a minute.
+
+91
+00:04:45,378 --> 00:04:47,683
+"Extra online features"
+
+92
+00:04:47,683 --> 00:04:52,597
+This is stuff like stat tracking,
+matchmaking, player messaging, and so on.
+
+93
+00:04:52,597 --> 00:04:57,515
+Well Games as a Service usually have
+these, but they're by no means a guarantee.
+
+94
+00:04:57,515 --> 00:05:00,000
+Plus, regular games can have these too.
+
+95
+00:05:00,000 --> 00:05:03,359
+Player messaging and voice chat go way back.
+
+96
+00:05:03,359 --> 00:05:06,667
+Stat tracking certainly happened in
+offline games.
+
+97
+00:05:06,667 --> 00:05:10,246
+Matchmaking was usually third party software
+in the past
+
+98
+00:05:10,246 --> 00:05:14,573
+so I think it's safe to say none of those
+define "Games as a Service".
+
+99
+00:05:14,573 --> 00:05:16,593
+"Microtransactions".
+
+100
+00:05:16,593 --> 00:05:23,076
+And you may not believe this, but NO,
+those are NOT what define Games as a Service!
+
+101
+00:05:23,076 --> 00:05:28,225
+Here are a few Games as a Service that
+had NO microtransactions whatsoever.
+
+102
+00:05:28,225 --> 00:05:33,049
+However, I will say the overwhelming
+majority of Games as a Service
+
+103
+00:05:33,049 --> 00:05:35,080
+DO have microtransactions
+
+104
+00:05:35,080 --> 00:05:37,530
+and this is the number one reason
+
+105
+00:05:37,530 --> 00:05:40,465
+companies really like this practice.
+
+106
+00:05:40,465 --> 00:05:46,936
+However, since exceptions do exist,
+this is not actually what defines it.
+
+107
+00:05:46,936 --> 00:05:48,850
+"Subscription fees".
+
+108
+00:05:48,850 --> 00:05:52,130
+Very few games still have these, so, no.
+
+109
+00:05:52,130 --> 00:05:54,483
+However, we have that trick again.
+
+110
+00:05:54,483 --> 00:05:58,260
+Most Games as a Service do not have
+a subscription fee,
+
+111
+00:05:58,260 --> 00:06:03,170
+but all games with a subscription fee are
+Games as a Service.
+
+112
+00:06:03,170 --> 00:06:04,170
+Get it?
+
+113
+00:06:05,270 --> 00:06:07,289
+"Frequent updates".
+
+114
+00:06:07,289 --> 00:06:10,550
+Well a lot of good Games as a Service
+have these, but again,
+
+115
+00:06:10,550 --> 00:06:12,750
+it's by no means what defines them.
+
+116
+00:06:12,750 --> 00:06:16,843
+Plenty of Games as a Service go by years
+with no updates at all
+
+117
+00:06:16,843 --> 00:06:18,787
+so, nope, that's not it either.
+
+118
+00:06:19,287 --> 00:06:21,957
+And, "massive multiplayer games".
+
+119
+00:06:21,957 --> 00:06:23,835
+Nope, still not it.
+
+120
+00:06:23,835 --> 00:06:29,060
+On one hand, you have some Games as a Service
+that are intended for a small number of players,
+
+121
+00:06:29,060 --> 00:06:33,770
+on the other hand, you've had some gigantic
+games that are not this practice.
+
+122
+00:06:33,770 --> 00:06:36,560
+The multiplayer mod for Just Cause 2
+
+123
+00:06:36,560 --> 00:06:41,125
+has had over 1,800 simultaneous players
+in the game.
+
+124
+00:06:41,125 --> 00:06:44,841
+Yet it is NOT considered "Games as a
+Service".
+
+125
+00:06:44,841 --> 00:06:50,500
+MMO games are usually Games as a Service,
+but, not what defines it.
+
+126
+00:06:50,500 --> 00:06:52,097
+Okay, so wow.
+
+127
+00:06:52,097 --> 00:06:56,900
+The only definition that survived is Games
+as a Service are online only.
+
+128
+00:06:56,900 --> 00:06:59,000
+and even that one has a caveat.
+
+129
+00:06:59,000 --> 00:07:02,006
+See, some games are just meant to be played
+online.
+
+130
+00:07:02,006 --> 00:07:04,600
+If you play the game "Starsiege: Tribes"
+
+131
+00:07:04,600 --> 00:07:07,863
+the only way to really play it, is to
+connect to other people.
+
+132
+00:07:07,863 --> 00:07:10,796
+In essence, it's an online only game.
+
+133
+00:07:10,796 --> 00:07:15,226
+Yet it is not Games as a Service.
+You know why?
+
+134
+00:07:15,226 --> 00:07:18,383
+Because YOU'RE still the one in control.
+
+135
+00:07:18,383 --> 00:07:22,990
+Games as a Service means the company is
+providing you the "service" of allowing
+
+136
+00:07:22,990 --> 00:07:25,022
+you to play your game.
+
+137
+00:07:25,022 --> 00:07:27,423
+And yes, I am being facetious.
+
+138
+00:07:27,423 --> 00:07:30,370
+You didn't used to need "permission" for that.
+
+139
+00:07:30,370 --> 00:07:33,385
+Now people will debate what Games as a
+Service should mean
+
+140
+00:07:33,385 --> 00:07:37,309
+but this is the real world, hard definition.
+
+141
+00:07:37,309 --> 00:07:41,730
+"Games as a Service" means the business
+practice of players not having control
+
+142
+00:07:41,730 --> 00:07:46,174
+of whether they can play a game due to a
+company withholding that function.
+
+143
+00:07:46,174 --> 00:07:50,838
+That it all it is, in its purest,
+most distilled form.
+
+144
+00:07:50,838 --> 00:07:53,810
+Oh sure, they usually have other stuff on
+this list
+
+145
+00:07:53,810 --> 00:07:57,354
+but none of those other traits could survive
+the definition test.
+
+146
+00:07:57,354 --> 00:08:02,350
+In fact, I'd say this definition isn't even
+the intent of Games as a Service.
+
+147
+00:08:02,350 --> 00:08:04,810
+But it is what defines it.
+
+148
+00:08:04,810 --> 00:08:09,246
+If it doesn't have this, it is NOT Games
+as a Service.
+
+149
+00:08:09,246 --> 00:08:11,250
+Okay! Fraud time!
+
+150
+00:08:12,350 --> 00:08:16,363
+So now we have a concrete definition of
+Games as a Service.
+
+151
+00:08:16,363 --> 00:08:18,330
+But why is it fraud?
+
+152
+00:08:18,330 --> 00:08:22,785
+Well, the simplest answer is it's being sold
+as something it's not.
+
+153
+00:08:22,785 --> 00:08:24,307
+I'll break it down.
+
+154
+00:08:24,307 --> 00:08:28,455
+But first we have to understand the difference
+between a "good" and a "service".
+
+155
+00:08:28,455 --> 00:08:31,934
+Products are defined as "services" or
+"goods".
+
+156
+00:08:31,934 --> 00:08:37,367
+A "good" is something you buy and own,
+a "service" is an action performed for you.
+
+157
+00:08:37,367 --> 00:08:40,420
+So if you buy a hammer, it's a "good".
+
+158
+00:08:40,420 --> 00:08:41,720
+It's a thing.
+
+159
+00:08:41,770 --> 00:08:43,120
+It's yours.
+
+160
+00:08:45,000 --> 00:08:47,830
+But if you get a haircut, that's a service.
+
+161
+00:08:47,830 --> 00:08:50,440
+They didn't just hand you your haircut in a
+box
+
+162
+00:08:50,440 --> 00:08:53,270
+they used scissors to deliver the desired
+result.
+
+163
+00:08:53,270 --> 00:08:55,050
+Or, so I'm told.
+
+164
+00:08:55,050 --> 00:08:58,150
+And again, I have to rail on Wikipedia here.
+
+165
+00:08:58,150 --> 00:09:03,640
+Since they define goods as "something tangible"
+then later say they're NOT always tangible.
+
+166
+00:09:03,640 --> 00:09:07,500
+Good job contradicting yourself in the first
+sentence guys!
+
+167
+00:09:07,500 --> 00:09:09,704
+Whatever, that second part is correct.
+
+168
+00:09:09,704 --> 00:09:13,600
+So things like digital movies you buy are
+intangible goods.
+
+169
+00:09:13,600 --> 00:09:15,540
+You can't touch a movie.
+
+170
+00:09:15,540 --> 00:09:18,080
+But it's still sold like a physical good.
+
+171
+00:09:18,080 --> 00:09:22,281
+Well guess what? Most games are goods too.
+
+172
+00:09:22,281 --> 00:09:24,980
+Even Games as a Service.
+
+173
+00:09:24,980 --> 00:09:30,331
+So yes, I just said Games as a Service
+are not services.
+
+174
+00:09:30,331 --> 00:09:31,531
+I'll get to that.
+
+175
+00:09:31,531 --> 00:09:33,973
+But, I have to concede on one point.
+
+176
+00:09:33,973 --> 00:09:38,968
+If it's a game that has a subscription fee that
+you pay each month like World of Warcraft
+
+177
+00:09:38,968 --> 00:09:42,205
+under most laws, those ARE services
+
+178
+00:09:42,205 --> 00:09:44,822
+and, I don't think I can make the case those
+are fraud.
+
+179
+00:09:44,822 --> 00:09:46,755
+Those win this round.
+
+180
+00:09:46,755 --> 00:09:50,983
+But, you know what? We can work with that.
+Since that's what, five games now?
+
+181
+00:09:51,383 --> 00:09:52,782
+Eh, maybe ten.
+
+182
+00:09:53,900 --> 00:09:58,948
+But let's try to establish legally that
+Games as a Service are not services.
+
+183
+00:09:58,948 --> 00:10:03,866
+Now of course the law's different in every
+country, but we'll cover some major ones.
+
+184
+00:10:03,866 --> 00:10:06,319
+Now I can't take credit for most of this part.
+
+185
+00:10:06,319 --> 00:10:08,914
+I found bits and crumbs of this on my own
+
+186
+00:10:08,914 --> 00:10:11,800
+but then I stumbled into a mother lode of
+information
+
+187
+00:10:11,800 --> 00:10:15,063
+on why games are goods and you own them.
+
+188
+00:10:15,063 --> 00:10:18,666
+A highly researched user, Delicieuxz
+
+189
+00:10:18,666 --> 00:10:24,430
+created the best layman's explanation on this
+topic I've seen in the Linus Tech Tips forum.
+
+190
+00:10:26,360 --> 00:10:27,930
+Oh, hi Linus.
+
+191
+00:10:27,930 --> 00:10:33,300
+Now I admit, this is a colorful title, but
+putting that aside, he has some good logic.
+
+192
+00:10:33,300 --> 00:10:35,300
+So let's look at the abridged version.
+
+193
+00:10:35,300 --> 00:10:40,966
+"A license is a right to use a property or
+intellectual property that belongs to somebody else."
+
+194
+00:10:40,966 --> 00:10:47,272
+"When you read 'this software is licensed, not
+sold' in a software end user license agreement"
+
+195
+00:10:47,272 --> 00:10:50,559
+"'this software' refers to the software
+intellectual property"
+
+196
+00:10:50,559 --> 00:10:56,567
+"and not the copy of that intellectual property
+that you've purchased via a software license."
+
+197
+00:10:56,567 --> 00:11:00,130
+"The software intellectual property is
+licensed, not sold."
+
+198
+00:11:00,130 --> 00:11:04,142
+"The license is sold, not licensed or leased."
+
+199
+00:11:04,142 --> 00:11:06,486
+A little confusing there, but let's keep going.
+
+200
+00:11:06,486 --> 00:11:09,901
+"All the mass produced items you've bought
+follow the same rules."
+
+201
+00:11:09,901 --> 00:11:14,039
+"You are purchasing a one-off copy of the
+intellectual property of those things"
+
+202
+00:11:14,039 --> 00:11:17,110
+"and there is a transfer of ownership over
+those instances"
+
+203
+00:11:17,110 --> 00:11:21,350
+"and you become the sole owner of that
+instance of intellectual property."
+
+204
+00:11:21,350 --> 00:11:24,719
+"You own it and have full property rights
+over it."
+
+205
+00:11:24,719 --> 00:11:29,269
+Okay, just so everybody's with me, he's
+saying if you buy a copy of...
+
+206
+00:11:29,269 --> 00:11:30,669
+Half-Life
+
+207
+00:11:30,669 --> 00:11:34,030
+you don't own the rights to the Half-Life
+franchise.
+
+208
+00:11:34,030 --> 00:11:36,460
+You can't sell additional copies of it.
+
+209
+00:11:36,460 --> 00:11:40,385
+But you DO own YOUR COPY of Half-Life.
+
+210
+00:11:40,385 --> 00:11:44,058
+A lot of goods are like this. If you buy
+a car
+
+211
+00:11:44,058 --> 00:11:47,995
+you don't own the manufacturing and design
+right to that car model.
+
+212
+00:11:47,995 --> 00:11:50,679
+But you do own YOUR CAR.
+
+213
+00:11:50,679 --> 00:11:52,471
+It's a basic concept.
+
+214
+00:11:52,471 --> 00:11:55,266
+I said before I'm going up against a narrative
+
+215
+00:11:55,266 --> 00:12:00,076
+well one myth you hear sometimes is you
+don't "own" any of your software.
+
+216
+00:12:00,076 --> 00:12:04,160
+What he's doing here is explaining why that's
+almost always false.
+
+217
+00:12:04,160 --> 00:12:06,414
+Turns out you have ownership rights after all!
+
+218
+00:12:06,414 --> 00:12:07,914
+Who knew?
+
+219
+00:12:07,914 --> 00:12:11,149
+Next he says there are two types of software
+licenses:
+
+220
+00:12:11,149 --> 00:12:14,046
+perpetual, and subscription licenses.
+
+221
+00:12:14,046 --> 00:12:16,345
+Perpetual ones last forever.
+
+222
+00:12:16,345 --> 00:12:21,471
+So that copy of Mega Man that your brother
+has in the attic? That's a perpetual license.
+
+223
+00:12:21,471 --> 00:12:25,634
+And this is why World of Warcraft gets a
+free pass for now.
+
+224
+00:12:25,634 --> 00:12:30,679
+They want 15 bucks a month. That's as clear
+as day a subscription license.
+
+225
+00:12:30,679 --> 00:12:33,820
+If you're not paying a subscription fee for
+your game
+
+226
+00:12:33,820 --> 00:12:36,829
+then it's being bought under a perpetual
+license.
+
+227
+00:12:36,829 --> 00:12:40,700
+That's a really key point, a whole lot of
+things are gonna come back to this.
+
+228
+00:12:40,700 --> 00:12:42,839
+"A perpetual license is a product"
+
+229
+00:12:42,839 --> 00:12:48,178
+"and whenever it's sold it undergoes transfer
+of ownership upon the point of sale."
+
+230
+00:12:48,178 --> 00:12:52,860
+"Ownership is what establishes one's decision
+making authority over the thing."
+
+231
+00:12:52,860 --> 00:12:56,189
+"To sell something is to relinquish it as
+one's property"
+
+232
+00:12:56,189 --> 00:13:00,082
+"and to relinquish all of one's decision
+making authority over that thing"
+
+233
+00:13:00,082 --> 00:13:01,836
+"to the person who bought it."
+
+234
+00:13:01,836 --> 00:13:06,444
+"Then the seller no longer has any rightful
+say over anything regarding that instance"
+
+235
+00:13:06,444 --> 00:13:09,759
+"of software represented by its perpetual
+license."
+
+236
+00:13:09,759 --> 00:13:10,959
+So there it is.
+
+237
+00:13:10,959 --> 00:13:14,829
+If you only have to pay once, and it's not
+a subscription fee for your game
+
+238
+00:13:14,829 --> 00:13:19,616
+then by definition it's being sold under
+a perpetual license.
+
+239
+00:13:19,616 --> 00:13:25,230
+Under most country's laws, that means it's
+a GOOD, and NOT a service.
+
+240
+00:13:25,230 --> 00:13:30,500
+This is why I wonder if "Games as a Service"
+is a deliberate propaganda term.
+
+241
+00:13:30,500 --> 00:13:34,900
+It means the EXACT OPPOSITE OF WHAT IT SAYS!
+
+242
+00:13:34,900 --> 00:13:36,391
+But I know what you're thinking.
+
+243
+00:13:36,391 --> 00:13:40,000
+You're thinking "this is just some guy on
+the internet saying words"
+
+244
+00:13:40,000 --> 00:13:41,500
+"that doesnt prove anything."
+
+245
+00:13:41,500 --> 00:13:42,842
+Fair point.
+
+246
+00:13:42,842 --> 00:13:45,076
+But you know what helps a legal argument?
+
+247
+00:13:45,076 --> 00:13:49,034
+If you back up what you're saying with legal
+documents that say the same thing.
+
+248
+00:13:49,034 --> 00:13:52,393
+And that's exactly what he does. For
+multiple countries.
+
+249
+00:13:52,393 --> 00:13:57,038
+"The European Union's highest court, the
+Court of Justice, has ruled that software"
+
+250
+00:13:57,038 --> 00:14:01,710
+"sold via a perpetual license represents a
+good rather than a service"
+
+251
+00:14:01,710 --> 00:14:07,385
+"and the purchaser becomes the exclusive owner
+of that instance, just like a physical good."
+
+252
+00:14:07,385 --> 00:14:10,803
+Then he links to the court documents for
+UsedSoft v. Oracle
+
+253
+00:14:10,803 --> 00:14:13,722
+and a more professional explanation of what
+that means.
+
+254
+00:14:13,722 --> 00:14:16,961
+Next up, Canada. He gives an outdated link
+
+255
+00:14:16,961 --> 00:14:21,858
+but I found this court case which apparently
+rules Software as a Service is a good
+
+256
+00:14:21,858 --> 00:14:23,839
+As explained in this article.
+
+257
+00:14:23,839 --> 00:14:26,648
+They even refer to Software as a Service!
+
+258
+00:14:26,648 --> 00:14:29,025
+I love it when it's black and white like that.
+
+259
+00:14:29,025 --> 00:14:30,660
+And later he revises things
+
+260
+00:14:30,660 --> 00:14:34,460
+saying Canada follows the World Intellectual
+Property Organization's
+
+261
+00:14:34,460 --> 00:14:38,223
+International Classification of Goods and
+Services Guidelines.
+
+262
+00:14:38,223 --> 00:14:40,959
+Yeah you know we're having fun now with a
+name like that.
+
+263
+00:14:40,959 --> 00:14:43,337
+Anyway, they say they're goods too.
+
+264
+00:14:43,337 --> 00:14:46,797
+Next, Australia. You may have heard of this
+one.
+
+265
+00:14:46,797 --> 00:14:51,419
+In the case of the Australian Competition
+and Consumer Commission v. Valve Corporation
+
+266
+00:14:51,419 --> 00:14:55,172
+Australia rules that sure enough, games
+are goods.
+
+267
+00:14:55,172 --> 00:14:57,506
+You have to love this quote in the conclusion
+
+268
+00:14:57,506 --> 00:15:02,700
+"Each of Valve's challenges to the applicability
+of the Australian Consumer Law fails."
+
+269
+00:15:02,700 --> 00:15:08,472
+Yada yada--"Valve supplied goods, which are
+defined as including computer software."
+
+270
+00:15:08,872 --> 00:15:12,170
+And then we get to the United States.
+
+271
+00:15:12,170 --> 00:15:16,049
+Listen, the United States hard mode when it
+comes to this topic.
+
+272
+00:15:16,049 --> 00:15:18,911
+In the lower courts, nobody agrees on anything.
+
+273
+00:15:18,911 --> 00:15:22,550
+In 2008 in the court case Vernor v. Autodesk
+
+274
+00:15:22,550 --> 00:15:27,090
+a federal judge in Washington State said that
+yes, you own the software.
+
+275
+00:15:27,090 --> 00:15:29,978
+Then in 2010, that was appealed to the Ninth
+Circuit
+
+276
+00:15:29,978 --> 00:15:35,649
+which said no, you don't own the software and
+you have to follow the EULA rules.
+
+277
+00:15:35,649 --> 00:15:40,489
+But then there was an amicus brief filed with it
+which said yeah, this could easily be abused
+
+278
+00:15:40,489 --> 00:15:44,907
+could harm preservation, this is potentially
+a dangerous precedent, and hey Congress
+
+279
+00:15:44,907 --> 00:15:46,906
+why don't you do something about this?
+
+280
+00:15:46,906 --> 00:15:52,400
+But even then, that decision was just from
+the Ninth Circuit states, not the entire US
+
+281
+00:15:52,400 --> 00:15:54,090
+Before I keep going, look at this!
+
+282
+00:15:54,090 --> 00:15:58,503
+That giant headline saying you don't own
+anything. That's misleading.
+
+283
+00:15:58,503 --> 00:16:01,181
+This is what I mean when I talk about a
+narrative.
+
+284
+00:16:01,181 --> 00:16:05,329
+Especially because in 2013 the Supreme Court
+ruled on a different case
+
+285
+00:16:05,329 --> 00:16:08,719
+saying people in the U.S can resell
+copyrighted goods
+
+286
+00:16:08,719 --> 00:16:13,547
+which includes software licenses, and the
+first sale doctrine applies
+
+287
+00:16:13,547 --> 00:16:17,704
+which states a seller retains no decision
+making authority over a good
+
+288
+00:16:17,704 --> 00:16:20,057
+once they have sold it to someone else.
+
+289
+00:16:20,057 --> 00:16:23,760
+And as a side note, the official link to this
+court document was down.
+
+290
+00:16:23,760 --> 00:16:26,063
+I had to find it using the Wayback Machine
+
+291
+00:16:26,063 --> 00:16:30,146
+so I guess that doesn't bode too well for the
+Supreme Court, but, whatever.
+
+292
+00:16:30,146 --> 00:16:34,416
+In the US, games as services being goods
+aren't quite proven
+
+293
+00:16:34,416 --> 00:16:37,443
+but there's a lot of precedent that implies
+they are.
+
+294
+00:16:38,043 --> 00:16:39,768
+Delicieuxz says it best:
+
+295
+00:16:39,768 --> 00:16:44,318
+"A specific matter of software ownership has
+never gone to the USA's Supreme Court"
+
+296
+00:16:44,318 --> 00:16:47,669
+"and it's likely that software publishers
+would prefer that it doesn't."
+
+297
+00:16:47,669 --> 00:16:49,069
+He's damn right they do!
+
+298
+00:16:49,069 --> 00:16:53,456
+"Because in all likeliness the verdict will
+be the same as it was in the European Union"
+
+299
+00:16:53,456 --> 00:16:57,956
+"and in Australia. Because this matter has
+never gone to the USA's Supreme Court"
+
+300
+00:16:57,956 --> 00:17:02,245
+"and because regional court verdicts have
+conflicted with each other in their conclusions"
+
+301
+00:17:02,245 --> 00:17:07,685
+"it is baseless for anyone to claim that people
+in the USA don't own their purchased software."
+
+302
+00:17:08,085 --> 00:17:12,092
+So again, if there's no subscription fee,
+you own your games.
+
+303
+00:17:12,092 --> 00:17:13,476
+Well so what?
+
+304
+00:17:13,476 --> 00:17:18,554
+Just because Games as a Service isn't actually
+a service, that doesn't mean anything.
+
+305
+00:17:18,554 --> 00:17:21,104
+It's just a name for a business practice.
+
+306
+00:17:21,104 --> 00:17:23,061
+Where does the fraud come in?
+
+307
+00:17:23,061 --> 00:17:26,383
+Well the "fraud" comes from that whole
+ownership thing.
+
+308
+00:17:26,383 --> 00:17:31,183
+Remember: a seller retains NO decision making
+authority over a product
+
+309
+00:17:31,183 --> 00:17:33,639
+once they have sold it to someone else.
+
+310
+00:17:33,639 --> 00:17:38,487
+Now some of you may know that I'm a
+huge advocate against killing games.
+
+311
+00:17:38,487 --> 00:17:43,483
+By "killing games," I mean the practice of
+a company's actions leaving a game completely
+
+312
+00:17:43,483 --> 00:17:46,454
+unplayable by anyone who bought it.
+
+313
+00:17:46,454 --> 00:17:49,141
+This is also known as "bricking" a game.
+
+314
+00:17:49,141 --> 00:17:54,121
+Well killing games, and Games as a Service
+are handcuffed together
+
+315
+00:17:54,121 --> 00:17:56,518
+You almost don't have one without the other.
+
+316
+00:17:56,918 --> 00:18:01,909
+See, all Games as a Service depend on you
+connecting to a server controlled by a company.
+
+317
+00:18:01,909 --> 00:18:03,841
+That's fine while the game is running,
+
+318
+00:18:03,841 --> 00:18:07,910
+but eventually most companies decide they're
+not making enough money on the game anymore
+
+319
+00:18:07,910 --> 00:18:09,784
+to justify the server running.
+
+320
+00:18:09,784 --> 00:18:11,400
+So they shut it down.
+
+321
+00:18:11,400 --> 00:18:16,832
+Once THAT happens, every single person who
+bought the game can never play it again.
+
+322
+00:18:16,832 --> 00:18:19,314
+If I sold you a copy of a game on disc
+
+323
+00:18:19,314 --> 00:18:23,437
+then next month while you were sleeping I
+snuck into your house and broke the disc
+
+324
+00:18:23,437 --> 00:18:25,037
+I would go to jail.
+
+325
+00:18:25,037 --> 00:18:30,442
+In practical terms, that's almost exactly
+what Games as a Service is.
+
+326
+00:18:30,442 --> 00:18:35,321
+Companies engaged in this practice almost
+always destroy your product
+
+327
+00:18:35,321 --> 00:18:37,064
+AFTER they've sold it to you.
+
+328
+00:18:37,464 --> 00:18:41,498
+And I keep saying this "almost always"
+happens, there's a reason for that.
+
+329
+00:18:41,898 --> 00:18:45,450
+Some volunteers and I have put together a
+list of every game we could find
+
+330
+00:18:45,450 --> 00:18:48,067
+that has been shut down, and how that was
+handled.
+
+331
+00:18:48,067 --> 00:18:50,278
+Now if anything this is the small list
+
+332
+00:18:50,278 --> 00:18:55,010
+since I filtered out games like you see here just
+to bring focus on the bigger problem cases.
+
+333
+00:18:55,010 --> 00:18:59,726
+We came up with 122 titles that mostly meet
+that criteria.
+
+334
+00:18:59,726 --> 00:19:05,144
+Now this list may not be 100% accurate. It
+can be difficult to verify some information
+
+335
+00:19:05,144 --> 00:19:08,382
+but I'm guessing it's at least 95% accurate.
+
+336
+00:19:08,382 --> 00:19:12,574
+And it's probably the most extensive data
+collected on this topic to date.
+
+337
+00:19:12,574 --> 00:19:18,174
+So, out of 122 titles, how many times did
+the companies do something to either
+
+338
+00:19:18,174 --> 00:19:22,677
+A) Give customers a chance to run their game
+after shutdown, or
+
+339
+00:19:22,677 --> 00:19:26,570
+B) Give a full refund, no strings attached.
+
+340
+00:19:26,570 --> 00:19:29,178
+Well from my best count, here it is.
+
+341
+00:19:29,578 --> 00:19:32,057
+Yeah. That's five titles.
+
+342
+00:19:32,057 --> 00:19:36,483
+Or in other words, about 4% of all
+Games as a Service.
+
+343
+00:19:36,483 --> 00:19:39,644
+So hey, I made a clickbait-y title, I'll
+fess up.
+
+344
+00:19:39,644 --> 00:19:45,567
+If we're being completely honest, "Games as
+a Service" is not fraud.
+
+345
+00:19:45,567 --> 00:19:49,417
+It's only fraud about 96% of the time.
+
+346
+00:19:49,417 --> 00:19:54,013
+So if anyone says I'm exaggerating how bad
+all this is, it's true.
+
+347
+00:19:54,013 --> 00:19:55,795
+I'm exaggerating 4%.
+
+348
+00:19:56,745 --> 00:19:58,744
+And who knows? We could have missed one!
+
+349
+00:19:58,744 --> 00:20:02,201
+I'm making all this public, you're welcome
+to double check the data.
+
+350
+00:20:02,201 --> 00:20:05,960
+In fact, I'm not sure which of those games
+were on a subscription license
+
+351
+00:20:05,960 --> 00:20:10,586
+at the time of shutdown, so you might even
+be able to get that number down to 95
+
+352
+00:20:10,586 --> 00:20:12,750
+hey, maybe 94%.
+
+353
+00:20:13,150 --> 00:20:16,600
+Oh, and some of these titles you can
+actually still run
+
+354
+00:20:16,600 --> 00:20:22,000
+usually due to illicit server emulators. But
+those are cases where the companies did NOTHING
+
+355
+00:20:22,000 --> 00:20:27,384
+to help, and it was in spite of the company's
+actions. Not because of them.
+
+356
+00:20:27,384 --> 00:20:28,610
+More on that in a bit.
+
+357
+00:20:29,010 --> 00:20:33,170
+So I'm calling this fraud because of the
+reality, and the intent.
+
+358
+00:20:33,170 --> 00:20:36,539
+Just because your game doesn't run
+doesn't make it fraud.
+
+359
+00:20:36,539 --> 00:20:39,730
+There could be bugs, the hardware could go
+bad.
+
+360
+00:20:39,730 --> 00:20:43,813
+I'm not talking about quirks, accidents,
+forces of nature.
+
+361
+00:20:43,813 --> 00:20:47,945
+But with Games as a Service, the product
+is DESIGNED to fail
+
+362
+00:20:47,945 --> 00:20:50,334
+as soon as they shut down the server.
+
+363
+00:20:50,334 --> 00:20:55,891
+The fraud begins once they purposefully
+take away access to your product.
+
+364
+00:20:55,891 --> 00:21:00,958
+Games as a Service is fraud because it
+involves selling perpetual licenses
+
+365
+00:21:00,958 --> 00:21:04,293
+that are in practice, NOT perpetual.
+
+366
+00:21:04,293 --> 00:21:09,617
+The decision making authority over the product
+is being removed from the buyer.
+
+367
+00:21:09,617 --> 00:21:13,528
+Customers buy games with the expectation
+that they will function.
+
+368
+00:21:13,528 --> 00:21:20,420
+If 100% of all copies sold of a game cease to
+function because of deliberate interference
+
+369
+00:21:20,420 --> 00:21:26,125
+from the seller AFTER the point of sale, how
+can that be considered an honest practice?
+
+370
+00:21:26,625 --> 00:21:31,809
+Now the opposition would say this isn't fraud,
+because you were sold a perpetual license
+
+371
+00:21:31,809 --> 00:21:37,023
+and just because the company breaks your
+game, it doesn't mean you lost your license.
+
+372
+00:21:37,023 --> 00:21:41,116
+You are still free to "repair" the game,
+after they break it.
+
+373
+00:21:41,566 --> 00:21:45,451
+I say this is a disingenuous argument on
+multiple levels.
+
+374
+00:21:45,451 --> 00:21:49,462
+If somebody sells you a bike, and then
+later you get a flat tire
+
+375
+00:21:49,462 --> 00:21:53,497
+yes, your product no longer works, and it
+takes some effort to repair it.
+
+376
+00:21:53,497 --> 00:21:57,625
+But that's something the average person can
+be reasonably expected to do.
+
+377
+00:21:57,625 --> 00:21:59,781
+Or hey, take it to a repair shop!
+
+378
+00:21:59,781 --> 00:22:01,000
+More importantly
+
+379
+00:22:01,000 --> 00:22:06,030
+the company that sold you the bike didn't
+come to your house and puncture the tire.
+
+380
+00:22:06,030 --> 00:22:08,438
+I see that as an important distinction.
+
+381
+00:22:08,438 --> 00:22:11,050
+Now when a Game as a Service stops working
+
+382
+00:22:11,050 --> 00:22:14,796
+which again, I want to emphasize is a
+deliberate act
+
+383
+00:22:14,796 --> 00:22:19,672
+NO ONE on EARTH could be "reasonably
+expected" to fix that.
+
+384
+00:22:19,672 --> 00:22:21,900
+The reason for that is two-fold.
+
+385
+00:22:21,900 --> 00:22:25,900
+First, it takes specialized programming
+knowledge in order to recreate
+
+386
+00:22:25,900 --> 00:22:28,110
+the portions of the server that were lost.
+
+387
+00:22:28,110 --> 00:22:32,918
+Again, the way these games work is most of
+the data is on the customer's computer.
+
+388
+00:22:32,918 --> 00:22:36,780
+But the company hosting the game has key
+information about how to run it.
+
+389
+00:22:36,780 --> 00:22:39,767
+Where things spawn, logic routines, and
+so on.
+
+390
+00:22:39,767 --> 00:22:43,624
+If you want, you can almost think of this
+as the "body" and this as the "brain".
+
+391
+00:22:43,624 --> 00:22:45,361
+When they shut the "brain" down here
+
+392
+00:22:45,361 --> 00:22:48,970
+a large portion of the game is now missing,
+and it's unplayable.
+
+393
+00:22:48,970 --> 00:22:53,123
+In order to run the game again, the person
+would have to write a new "brain".
+
+394
+00:22:53,123 --> 00:22:54,423
+I mean--server!
+
+395
+00:22:54,423 --> 00:22:59,379
+Now that is an exhorbitant amount of work,
+and takes a lot of specialized knowledge.
+
+396
+00:22:59,379 --> 00:23:04,285
+I would estimate only 5% of the population
+is even capable of doing that.
+
+397
+00:23:04,285 --> 00:23:06,522
+However, it is possible.
+
+398
+00:23:06,522 --> 00:23:11,500
+Whether that's a reasonable expectation of
+buyers to repair their product is debatable.
+
+399
+00:23:11,500 --> 00:23:15,778
+I think it isn't, but that is NOTHING
+compared to the next part.
+
+400
+00:23:15,778 --> 00:23:18,767
+Programming a new server is difficult enough.
+
+401
+00:23:18,767 --> 00:23:23,950
+But companies will also encrypt their data in
+order to protect against hackers and piracy.
+
+402
+00:23:23,950 --> 00:23:27,640
+This is known as "Digital Rights Management,"
+or DRM.
+
+403
+00:23:27,640 --> 00:23:33,057
+Now that's reasonable while the product is
+still being sold, but once it's shut down
+
+404
+00:23:33,057 --> 00:23:37,349
+then this is the equivalent of locking things
+up and throwing away the key.
+
+405
+00:23:37,349 --> 00:23:41,126
+I've talked to a developer for a resurrected
+game server emulator
+
+406
+00:23:41,126 --> 00:23:45,493
+and he said they had a cryptography
+expert helping them decrypt the code
+
+407
+00:23:45,493 --> 00:23:47,781
+and even then, it took them years.
+
+408
+00:23:47,781 --> 00:23:51,796
+So if you were qualified to crack codes
+like what the Nazis were using
+
+409
+00:23:51,796 --> 00:23:58,548
+and win World War II in Europe, then yes, you
+might be qualified to "repair" your game.
+
+410
+00:23:58,548 --> 00:24:01,082
+I'm really not exaggerating.
+
+411
+00:24:01,082 --> 00:24:06,012
+Not only is that such a small percentage of
+the population capable of doing that
+
+412
+00:24:06,012 --> 00:24:10,360
+but even for them, that in no way can be
+considered reasonable.
+
+413
+00:24:10,360 --> 00:24:14,813
+For most people, I'm talking 99.9% or more
+
+414
+00:24:14,813 --> 00:24:18,896
+it is IMPOSSIBLE for them to repair their
+game after shutdown.
+
+415
+00:24:19,396 --> 00:24:23,511
+So, not literally impossible, but, again,
+I'm rounding.
+
+416
+00:24:24,211 --> 00:24:26,908
+But let's try to shore this up a little
+legally.
+
+417
+00:24:26,908 --> 00:24:30,140
+And again, the United States is hard mode.
+
+418
+00:24:30,140 --> 00:24:33,691
+Some of you may have heard of the term
+"planned obsolescence".
+
+419
+00:24:33,691 --> 00:24:37,833
+That's the practice of designing goods to
+intentionally break faster
+
+420
+00:24:37,833 --> 00:24:41,145
+in hopes that you'll buy a new one so they
+can make more money.
+
+421
+00:24:41,145 --> 00:24:45,558
+Best I can tell, this is perfectly legal in
+the United States unfortunately.
+
+422
+00:24:45,558 --> 00:24:49,539
+But there's a subset of that called
+"programmed obsolescence".
+
+423
+00:24:49,539 --> 00:24:54,202
+See unlike planned obsolescence, which just
+increases the odds the product will break
+
+424
+00:24:54,202 --> 00:24:58,762
+over time, programmed obsolescence
+ENSURES it will break
+
+425
+00:24:58,768 --> 00:25:01,995
+on purpose, usually at a specific time.
+
+426
+00:25:01,995 --> 00:25:06,248
+And it's not clear if THAT is legal in the
+US or not.
+
+427
+00:25:06,248 --> 00:25:13,070
+There have been some cases on it. Like class
+action lawsuit Jackie Blennis v. HP in 2008.
+
+428
+00:25:13,070 --> 00:25:18,480
+Charges were pressed against Hewlett-Packard for
+designing ink cartridges to shut down prematurely.
+
+429
+00:25:18,480 --> 00:25:25,284
+HP denied any wrongdoing, and yet awarded the
+complaintants $5 million of credit to shut them up.
+
+430
+00:25:25,284 --> 00:25:27,893
+Yeah, I'm sure they did that just to be nice.
+
+431
+00:25:27,893 --> 00:25:31,411
+Otherwise, why wouldn't they fight it and
+maintain their innocence?
+
+432
+00:25:31,411 --> 00:25:37,550
+Especially since they got hit with another
+class action lawsuit, San Miguel v. HP in 2016
+
+433
+00:25:37,550 --> 00:25:42,398
+for updating firmware on printers to stop
+accepting third party cartridges.
+
+434
+00:25:42,398 --> 00:25:44,945
+In other words, breaking functionality.
+
+435
+00:25:44,945 --> 00:25:49,800
+THIS time they were guilty of wrongdoing
+and had to pay out $1.5 million.
+
+436
+00:25:49,800 --> 00:25:54,626
+Now these both imply that programmed
+obsolescence could be illegal if challenged
+
+437
+00:25:54,626 --> 00:25:59,610
+however in both cases the reasoning behind
+the charges doesn't tie directly to that.
+
+438
+00:25:59,610 --> 00:26:03,096
+So these aren't the strongest legal
+precendents in my opinion.
+
+439
+00:26:03,096 --> 00:26:09,280
+The strongest legal argument I DID find was
+in 2017 in Impression v. Lexmark.
+
+440
+00:26:09,280 --> 00:26:12,382
+The Supreme Court ruled that you have
+ownership of your product
+
+441
+00:26:12,382 --> 00:26:14,951
+and are free to do with it as you please
+
+442
+00:26:14,951 --> 00:26:18,542
+even if patents still apply to it that
+control its behavior.
+
+443
+00:26:18,542 --> 00:26:22,712
+While that's still a bit of a stretch to say
+programmed obsolescence isn't legal
+
+444
+00:26:22,712 --> 00:26:25,421
+I thought these lines from the ruling were noteworthy.
+
+445
+00:26:25,421 --> 00:26:28,633
+"Even if the restrictions in Lexmark's
+contracts with its customers"
+
+446
+00:26:28,633 --> 00:26:31,619
+"were clear and enforceable under contract law"
+
+447
+00:26:31,619 --> 00:26:37,385
+"they do not entitle Lexmark to retain patent
+rights in an item that it has elected to sell."
+
+448
+00:26:37,421 --> 00:26:42,669
+"Once a patentee sells an item, it has
+secured that reward, and the patent laws"
+
+449
+00:26:42,669 --> 00:26:47,088
+"provide no basis for restraining the use and
+enjoyment of the product."
+
+450
+00:26:47,088 --> 00:26:49,387
+That might be a key sentence.
+
+451
+00:26:49,387 --> 00:26:53,596
+I would call shutting down a game so that
+the person who bought it has no way to ever
+
+452
+00:26:53,596 --> 00:26:58,772
+run it again "restraining the use and
+enjoyment of the product," wouldn't you?
+
+453
+00:26:58,772 --> 00:27:00,653
+There might be something there.
+
+454
+00:27:00,653 --> 00:27:05,795
+But, this hasn't been tested in court, so
+most of this is in a legal gray zone.
+
+455
+00:27:05,795 --> 00:27:09,953
+That means the law hasn't specifically said
+if something is legal or not
+
+456
+00:27:09,953 --> 00:27:12,587
+so everybody has to guess based on other
+laws.
+
+457
+00:27:12,587 --> 00:27:16,473
+I'm obviously on the "this is fraud" side
+
+458
+00:27:16,473 --> 00:27:21,086
+because if the law says one thing, and the
+outcome is the exact opposite
+
+459
+00:27:21,086 --> 00:27:23,014
+then something's breaking down.
+
+460
+00:27:23,014 --> 00:27:26,484
+But how does this actually play out?
+Let's see.
+
+461
+00:27:26,484 --> 00:27:28,513
+Do you own your game?
+
+462
+00:27:28,513 --> 00:27:30,975
+Theoretically, yes.
+
+463
+00:27:30,975 --> 00:27:35,579
+You technically never lose ownership of your
+perpetual license. It's yours.
+
+464
+00:27:35,579 --> 00:27:38,094
+In practice? Unclear.
+
+465
+00:27:38,094 --> 00:27:42,127
+There's been no higher court ruling on
+whether Games as a Service infringes
+
+466
+00:27:42,127 --> 00:27:43,826
+upon your perpetual license.
+
+467
+00:27:43,826 --> 00:27:46,025
+THIS is what I'm trying to change.
+
+468
+00:27:46,025 --> 00:27:50,890
+In real world terms, also known as the
+only part I actually care about
+
+469
+00:27:50,890 --> 00:27:55,471
+NO. If no normal person can ever be expected
+to use their product again
+
+470
+00:27:55,471 --> 00:28:00,571
+after the company disables it, that is
+certainly effective loss of ownership.
+
+471
+00:28:00,571 --> 00:28:02,004
+Seller intent?
+
+472
+00:28:02,004 --> 00:28:06,205
+NO. Games as a Service are designed to
+have their functionality removed
+
+473
+00:28:06,205 --> 00:28:08,239
+at a later, undisclosed date
+
+474
+00:28:08,239 --> 00:28:12,471
+AND the data is encrypted to prevent you
+from restoring it yourself.
+
+475
+00:28:12,471 --> 00:28:16,095
+It doesn't get any more deliberate to remove
+your ownership than that.
+
+476
+00:28:16,095 --> 00:28:21,300
+Games as a Service is a situation where the
+outcome is the exact opposite
+
+477
+00:28:21,300 --> 00:28:23,542
+of the intent of the law.
+
+478
+00:28:23,542 --> 00:28:27,733
+This is why the myth that why you DON'T own
+your games keeps persisting!
+
+479
+00:28:27,733 --> 00:28:30,729
+People are just saying what they're seeing
+with their own eyes!
+
+480
+00:28:30,729 --> 00:28:34,465
+Laws are MEANINGLESS if they're not enforced!
+
+481
+00:28:34,465 --> 00:28:37,601
+And, that's all I have for U.S law.
+
+482
+00:28:37,601 --> 00:28:41,671
+But fortunately, things are a little more
+optimistic in other countries.
+
+483
+00:28:41,671 --> 00:28:45,488
+In Germany, there's a political party that
+initiated a study to try and reduce
+
+484
+00:28:45,488 --> 00:28:48,878
+planned obsolescence using existing laws
+on the books.
+
+485
+00:28:48,878 --> 00:28:50,703
+So kind of like what I'm doing.
+
+486
+00:28:50,703 --> 00:28:52,766
+Some parts I found noteworthy.
+
+487
+00:28:52,766 --> 00:28:55,589
+"Introduction of minimum standards for
+repair."
+
+488
+00:28:55,589 --> 00:28:59,283
+"Obligations to provide repair instructions."
+
+489
+00:28:59,283 --> 00:29:02,452
+In France, the Hamon Law was introducted in
+2014
+
+490
+00:29:02,452 --> 00:29:05,358
+to more or less make planned obsolescence
+illegal.
+
+491
+00:29:05,358 --> 00:29:08,506
+Except that it looks like that it only
+applies to physical goods
+
+492
+00:29:08,506 --> 00:29:10,828
+so there may or may not be an opening there.
+
+493
+00:29:10,828 --> 00:29:15,241
+And hey, it's being put to the test suing
+printer companies Epson, HP, Canon
+
+494
+00:29:15,241 --> 00:29:17,761
+and Brother for violating this law.
+
+495
+00:29:17,761 --> 00:29:21,295
+Would be great if they could establish
+a precedent for software too.
+
+496
+00:29:21,295 --> 00:29:24,750
+Boy, printers are the games industry of the
+real world, huh?
+
+497
+00:29:25,350 --> 00:29:26,696
+And in Europe in general
+
+498
+00:29:26,696 --> 00:29:30,336
+the European Parliament accepted a resolution
+to lengthen consumer goods'
+
+499
+00:29:30,336 --> 00:29:34,437
+and software's longevity to combat planned
+obsolescence.
+
+500
+00:29:34,437 --> 00:29:36,057
+And back to Australia
+
+501
+00:29:36,057 --> 00:29:40,298
+the Australian Competition and Consumer
+Commission has consumer guarantees
+
+502
+00:29:40,298 --> 00:29:45,493
+including that your product is safe, LASTING,
+and with no faults.
+
+503
+00:29:45,493 --> 00:29:50,369
+Well, Games as a Service are safe, so, you
+know, one out of three.
+
+504
+00:29:50,369 --> 00:29:54,893
+Now it also says this doesn't apply if you
+knew of, or were made aware of the faults
+
+505
+00:29:54,893 --> 00:29:56,593
+before you bought the product.
+
+506
+00:29:56,593 --> 00:29:58,735
+This is another gray area again.
+
+507
+00:29:58,735 --> 00:30:03,532
+The company usually DOES tell you Games as
+a Service could cease working at any time
+
+508
+00:30:03,532 --> 00:30:05,765
+in the end user license agreement.
+
+509
+00:30:05,765 --> 00:30:08,950
+But is this really following the intent of
+the law?
+
+510
+00:30:08,950 --> 00:30:12,444
+If the company is creating the defect in the
+product on purpose
+
+511
+00:30:12,444 --> 00:30:15,438
+and does it OVER and OVER again
+
+512
+00:30:15,438 --> 00:30:18,275
+to the point where selling intentionally
+defective products
+
+513
+00:30:18,275 --> 00:30:20,254
+is their whole business model
+
+514
+00:30:20,254 --> 00:30:24,444
+that still smells like fraud to me, and
+should at least be examined.
+
+515
+00:30:24,444 --> 00:30:27,251
+Now I don't know the details of these laws
+or movements
+
+516
+00:30:27,251 --> 00:30:31,760
+since it's hard enough for me to research
+this as it is, let alone in different languages
+
+517
+00:30:31,760 --> 00:30:34,900
+and it looks like they're mostly focused
+on physical goods
+
+518
+00:30:34,900 --> 00:30:39,458
+but for God's sake, we've got to get software
+on board this train.
+
+519
+00:30:39,458 --> 00:30:43,677
+Just requiring companies to provide "repair
+instructions"
+
+520
+00:30:43,677 --> 00:30:47,460
+would be NIGHT and DAY compared to where
+we are now.
+
+521
+00:30:47,460 --> 00:30:50,973
+The bottom line is, it looks like a lot of
+people are getting upset
+
+522
+00:30:50,973 --> 00:30:53,666
+over companies ripping customers off
+
+523
+00:30:53,666 --> 00:30:57,576
+and the law is playing catch-up with what
+technology is doing.
+
+524
+00:30:57,576 --> 00:31:00,651
+Games as a Service are goods in these
+countries
+
+525
+00:31:00,651 --> 00:31:04,184
+which means there's a real chance they could
+be protected under the law.
+
+526
+00:31:04,184 --> 00:31:09,619
+The INTENT of these laws is almost identical
+to my war on Games as a Service.
+
+527
+00:31:09,619 --> 00:31:15,484
+Software has got to piggyback onto these laws
+and get examined by the right governing bodies.
+
+528
+00:31:15,984 --> 00:31:19,672
+And THAT is IT for LEGAL ARGUMENTS!
+
+529
+00:31:19,672 --> 00:31:21,290
+AHHHHHH!
+
+530
+00:31:21,990 --> 00:31:23,371
+I'm taking a break.
+
+531
+00:31:23,371 --> 00:31:25,721
+You want to take a break? I'm taking a break.
+
+532
+00:31:28,649 --> 00:31:39,988
+[8-bit music playing]
+
+533
+00:31:42,911 --> 00:31:45,937
+Okay, so those were the legal arguments.
+
+534
+00:31:45,937 --> 00:31:49,033
+Yeah, that was...fun.
+
+535
+00:31:51,602 --> 00:31:56,632
+But I need to cover EVERYTHING, so,
+let's get conceptual!
+
+536
+00:31:56,632 --> 00:32:00,762
+Maybe you're thinking, "Okay, so what if the
+law says games are goods?"
+
+537
+00:32:00,762 --> 00:32:04,651
+"Maybe they're really services and the law's
+just outdated?"
+
+538
+00:32:04,651 --> 00:32:08,887
+Okay. Let's pretend the law doesn't exist.
+We're writing it fresh.
+
+539
+00:32:08,887 --> 00:32:11,718
+If that was the case, then Games as a
+Service
+
+540
+00:32:11,718 --> 00:32:15,605
+would be unlike any other service that
+exists.
+
+541
+00:32:15,605 --> 00:32:17,105
+I'm not joking.
+
+542
+00:32:17,151 --> 00:32:22,881
+Every other service I can think of, has at
+least ONE of the following conditions.
+
+543
+00:32:22,881 --> 00:32:25,961
+One, an expectation of how long it lasts.
+
+544
+00:32:25,961 --> 00:32:29,347
+If you pay an electric bill, it's usually
+for a month at a time.
+
+545
+00:32:29,347 --> 00:32:33,965
+Or if you go to an amusement park. Your
+ticket lasts the day, or the season.
+
+546
+00:32:33,965 --> 00:32:37,625
+The point being, everybody knows when the
+service is over and it ends
+
+547
+00:32:37,625 --> 00:32:39,593
+or you have to renew it.
+
+548
+00:32:39,593 --> 00:32:43,157
+Two, there's a general expectation of when
+it's done.
+
+549
+00:32:43,157 --> 00:32:45,304
+If you pay roofers to fix your roof
+
+550
+00:32:45,304 --> 00:32:49,461
+you may have no idea how long that will take.
+But you know when it's fixed.
+
+551
+00:32:49,461 --> 00:32:52,712
+There's a rough idea of when the service is finished.
+
+552
+00:32:52,712 --> 00:32:57,534
+Three, there are real-world limitations
+towards keeping the service going.
+
+553
+00:32:57,534 --> 00:32:59,725
+Some services can go on forever.
+
+554
+00:32:59,725 --> 00:33:02,149
+If I rent a plot of land
+
+555
+00:33:02,149 --> 00:33:05,807
+I don't have to do anything but collect my
+money each month pretty much.
+
+556
+00:33:05,807 --> 00:33:07,420
+Hence number one here.
+
+557
+00:33:07,420 --> 00:33:09,231
+In fact I've had a landlord before
+
+558
+00:33:09,231 --> 00:33:12,263
+where at one point, I wasn't sure if he
+was alive or dead.
+
+559
+00:33:12,263 --> 00:33:14,549
+But, the service kept going!
+
+560
+00:33:14,549 --> 00:33:18,599
+But most services require real resources
+to continue.
+
+561
+00:33:18,599 --> 00:33:22,541
+If you go to a concert, and you're having
+a good time, and just want to stay
+
+562
+00:33:22,541 --> 00:33:25,864
+Well that's great, but the band has to stop
+sometime.
+
+563
+00:33:25,864 --> 00:33:28,268
+Eventually, they're going to run out of coke.
+
+564
+00:33:28,268 --> 00:33:31,661
+Maybe you can stump me, but I couldn't think
+of ONE service
+
+565
+00:33:31,661 --> 00:33:35,021
+that didn't require at least ONE of those
+conditions.
+
+566
+00:33:35,021 --> 00:33:38,225
+EXCEPT, Games as a Service.
+
+567
+00:33:38,225 --> 00:33:43,388
+Hence, even on a conceptual level, they're
+NOT SERVICES.
+
+568
+00:33:43,388 --> 00:33:44,749
+Here, I'll show you.
+
+569
+00:33:44,749 --> 00:33:47,489
+"Expectation of how long it lasts."
+
+570
+00:33:47,489 --> 00:33:50,538
+Well, subscription games like World of
+Warcraft
+
+571
+00:33:50,538 --> 00:33:52,903
+yes, they win this round too.
+
+572
+00:33:52,903 --> 00:33:54,230
+Dammit!
+
+573
+00:33:54,230 --> 00:33:58,422
+Subscription games really are services, and
+they're not fraud.
+
+574
+00:33:58,422 --> 00:34:00,467
+I'll have to get them on the final round.
+
+575
+00:34:01,184 --> 00:34:05,444
+So besides those few games that still require
+a monthly fee to play
+
+576
+00:34:05,444 --> 00:34:07,659
+no, this doesn't apply.
+
+577
+00:34:07,659 --> 00:34:11,846
+If there's an expectation for how long
+Games as a Service last
+
+578
+00:34:11,846 --> 00:34:13,211
+then what is it?
+
+579
+00:34:13,211 --> 00:34:16,490
+The Culling 2 lasted a week and a half.
+
+580
+00:34:16,490 --> 00:34:20,987
+Meridian 59 has been going on over 22 years.
+
+581
+00:34:20,987 --> 00:34:22,370
+That's no help!
+
+582
+00:34:22,370 --> 00:34:24,276
+Well what do the games themselves tell you?
+
+583
+00:34:24,276 --> 00:34:26,275
+Well most don't tell you anything.
+
+584
+00:34:26,275 --> 00:34:29,791
+They just say they can be shut down at any
+time, for any reason.
+
+585
+00:34:29,791 --> 00:34:33,764
+Some say they can be shut down at any time,
+plus 30 days.
+
+586
+00:34:33,764 --> 00:34:36,088
+Even then, I'd argue nobody buying the game
+
+587
+00:34:36,088 --> 00:34:41,060
+is actually expecting it to stop working
+after 30 days.
+
+588
+00:34:41,060 --> 00:34:44,102
+Now I'd say there's no standard here, but
+that's not true.
+
+589
+00:34:44,102 --> 00:34:46,234
+There IS a standard for games.
+
+590
+00:34:46,234 --> 00:34:48,008
+The traditional standard is
+
+591
+00:34:48,008 --> 00:34:49,193
+forever!
+
+592
+00:34:49,193 --> 00:34:52,221
+There are people who speedrun Super Mario
+Brothers.
+
+593
+00:34:52,221 --> 00:34:54,532
+That game's over 30 years old.
+
+594
+00:34:54,532 --> 00:34:57,310
+So, yeah, "forever," that's a good standard.
+
+595
+00:34:57,310 --> 00:35:00,757
+Games as a Service is trying to push a
+new standard.
+
+596
+00:35:00,757 --> 00:35:02,162
+Except it doesn't have one!
+
+597
+00:35:02,162 --> 00:35:04,394
+Just that it's less, for you!
+
+598
+00:35:04,394 --> 00:35:08,518
+Oh, except for The Secret World, and,
+Fallout 76.
+
+599
+00:35:08,518 --> 00:35:11,128
+They're both saying you'll be able to play
+them forever.
+
+600
+00:35:11,848 --> 00:35:12,643
+Umm...
+
+601
+00:35:12,943 --> 00:35:13,999
+Okay?
+
+602
+00:35:14,443 --> 00:35:19,009
+Well, for every OTHER Game as a Service
+that DOESN'T last forever
+
+603
+00:35:19,009 --> 00:35:23,530
+this is a concrete example of how your
+rights are being taken away from you.
+
+604
+00:35:23,530 --> 00:35:27,793
+We've gone from "play forever," to
+"whatever the seller feels like".
+
+605
+00:35:27,793 --> 00:35:29,920
+So, no, this does not apply.
+
+606
+00:35:30,532 --> 00:35:33,278
+Expectation of when it's done.
+
+607
+00:35:33,278 --> 00:35:36,798
+Yeah, let me ask you, when is somebody
+"done" with a game?
+
+608
+00:35:36,798 --> 00:35:38,213
+When they beat it?
+
+609
+00:35:38,213 --> 00:35:40,089
+What if they want to play it again?
+
+610
+00:35:40,089 --> 00:35:44,040
+What if it's a game that has no ending,
+it's just sort of an ongoing thing?
+
+611
+00:35:44,040 --> 00:35:47,483
+What if they want to come back and play it
+after a few years?
+
+612
+00:35:47,483 --> 00:35:50,141
+Exactly, there's no standard at all here.
+
+613
+00:35:50,141 --> 00:35:52,795
+Well, no, that's not right either.
+
+614
+00:35:52,795 --> 00:35:54,877
+There IS a standard for games.
+
+615
+00:35:54,877 --> 00:35:57,927
+The old standard used to be that YOU own
+the game
+
+616
+00:35:57,927 --> 00:36:00,597
+so, YOU decide when you're done with it.
+
+617
+00:36:00,597 --> 00:36:02,788
+And that's gonna be different for every
+person.
+
+618
+00:36:02,788 --> 00:36:05,705
+So no "general" standard.
+
+619
+00:36:05,705 --> 00:36:06,805
+GNAHH!
+
+620
+00:36:06,805 --> 00:36:08,955
+Real world limitations.
+
+621
+00:36:08,955 --> 00:36:10,983
+Okay let me explain this one.
+
+622
+00:36:10,983 --> 00:36:15,463
+Remember that body and brain analogy I made
+to the server and clients earlier?
+
+623
+00:36:15,463 --> 00:36:18,468
+Well the vast majority of videogames
+throughout history
+
+624
+00:36:18,468 --> 00:36:21,268
+have been sold with both the body, AND
+the brain.
+
+625
+00:36:21,268 --> 00:36:25,952
+You got the whole package, so you could keep
+the game running as long as you wanted.
+
+626
+00:36:25,952 --> 00:36:27,880
+Now with the server and client model
+
+627
+00:36:27,880 --> 00:36:31,197
+they're set up so that the brain here needs
+maintenance by real people
+
+628
+00:36:31,197 --> 00:36:34,629
+and computer hardware, and electricity
+bills, and so on.
+
+629
+00:36:34,629 --> 00:36:37,411
+But that's a CHOICE, not a NECESSITY.
+
+630
+00:36:37,411 --> 00:36:40,490
+See at their core, videogames are CODE.
+
+631
+00:36:40,490 --> 00:36:41,890
+They're NUMBERS.
+
+632
+00:36:41,890 --> 00:36:44,240
+They don't "wear out" over time.
+
+633
+00:36:44,240 --> 00:36:49,138
+The number "three" works just as well now as
+it did thousands of years ago.
+
+634
+00:36:49,138 --> 00:36:50,862
+It just looks a little different.
+
+635
+00:36:50,862 --> 00:36:53,997
+The containers that hold the data can wear
+out
+
+636
+00:36:53,997 --> 00:36:57,235
+but it can also be copied from one container
+to the next.
+
+637
+00:36:57,235 --> 00:36:59,228
+So there's an infinite supply!
+
+638
+00:36:59,228 --> 00:37:02,060
+Don't worry! We're not gonna run outta
+numbers!
+
+639
+00:37:02,060 --> 00:37:03,867
+They're always on tap!
+
+640
+00:37:03,867 --> 00:37:08,454
+Now the server is usually maintained LIKE a
+service while it's running
+
+641
+00:37:08,454 --> 00:37:12,425
+but once it's shut down, it COULD just be
+copied over here
+
+642
+00:37:12,425 --> 00:37:14,760
+and someone ELSE could get it running.
+
+643
+00:37:14,760 --> 00:37:19,332
+Companies almost never DO that, but the point
+is the limitation isn't real.
+
+644
+00:37:19,332 --> 00:37:24,906
+It's artificial. Somebody made it up. They
+could just as easily undo it.
+
+645
+00:37:24,906 --> 00:37:30,098
+In fact, it's easier to undo this, rather
+than set this split up in the first place.
+
+646
+00:37:30,098 --> 00:37:33,930
+Again, most games don't even have this limitation.
+
+647
+00:37:33,930 --> 00:37:38,200
+It's not a perfect analogy, but imagine
+a natural park.
+
+648
+00:37:38,200 --> 00:37:42,337
+You may pay to go there as a service, and
+there will be people maintaining the roads
+
+649
+00:37:42,337 --> 00:37:45,453
+and trails, running a visitor center,
+et cetera,
+
+650
+00:37:45,453 --> 00:37:47,531
+and that takes real resources.
+
+651
+00:37:47,531 --> 00:37:50,231
+But if the park runs out of money and shuts
+down
+
+652
+00:37:50,239 --> 00:37:52,997
+the park doesn't cease to exist.
+
+653
+00:37:52,997 --> 00:37:55,067
+The trees are still there.
+
+654
+00:37:55,067 --> 00:37:58,104
+The mountains and rocks are all still there.
+
+655
+00:37:58,104 --> 00:38:02,950
+We don't erect an indestructable dome around
+the park, that allows nothing in or out
+
+656
+00:38:02,950 --> 00:38:05,192
+and can survive a direct missile strike
+
+657
+00:38:05,192 --> 00:38:09,086
+and then tell everyone with a lifetime pass
+that they can never enter the park again.
+
+658
+00:38:09,886 --> 00:38:14,275
+But that's almost exactly how Games as a
+Service works.
+
+659
+00:38:14,275 --> 00:38:16,135
+This is not a good standard.
+
+660
+00:38:16,635 --> 00:38:18,777
+I hope one of these analogies is sticking.
+
+661
+00:38:19,477 --> 00:38:24,232
+Anyway the point to all that is even without
+the law telling us what's what
+
+662
+00:38:24,232 --> 00:38:30,784
+Games as a Service are really not services,
+they're goods! So they should be treated as such!
+
+663
+00:38:30,784 --> 00:38:33,662
+But hey, maybe you're saying they're a
+weird exception
+
+664
+00:38:33,662 --> 00:38:36,201
+and should still be treated as services.
+
+665
+00:38:36,201 --> 00:38:38,190
+Okay. Why?
+
+666
+00:38:38,190 --> 00:38:43,674
+I usually look at the law and rules from the
+perspective of "what's the actual outcome?"
+
+667
+00:38:43,674 --> 00:38:46,163
+Well the end outcome of most Games as a
+Service
+
+668
+00:38:46,163 --> 00:38:49,734
+is that they're destroyed, and can never
+be played again.
+
+669
+00:38:49,734 --> 00:38:54,351
+Geez that seems like a really high price
+to pay to treat them as services.
+
+670
+00:38:54,351 --> 00:38:56,951
+Now you might be thinking, "Well yeah
+that sucks
+
+671
+00:38:56,951 --> 00:39:02,044
+but then we also get anti cheat measures,
+stat tracking, matchmaking, easy updates and
+
+672
+00:39:02,044 --> 00:39:03,544
+[interruptive stuttering]
+
+673
+00:39:03,544 --> 00:39:05,685
+See, that's the narrative talking.
+
+674
+00:39:05,685 --> 00:39:10,992
+We can STILL HAVE all that stuff, AND,
+NOT destroy the game!
+
+675
+00:39:10,992 --> 00:39:15,303
+The narrative likes to frame it like you
+can't have the good without the bad.
+
+676
+00:39:15,303 --> 00:39:19,160
+That's what's known as a "false dichotomy,"
+and it's just...wrong!
+
+677
+00:39:19,660 --> 00:39:24,123
+It's like how you can simultaneously be
+FOR the circus coming to town
+
+678
+00:39:24,123 --> 00:39:26,897
+but AGAINST clowns stabbing people.
+
+679
+00:39:26,897 --> 00:39:31,570
+I know that sounds impossible to some people,
+but it's not that hard a concept.
+
+680
+00:39:31,570 --> 00:39:36,353
+Companies don't have to give up ANYTHING
+while they're supporting the game.
+
+681
+00:39:36,353 --> 00:39:40,850
+It's only once they shut the game down that
+they need to stop treating them like a service
+
+682
+00:39:40,850 --> 00:39:43,458
+and give the customers their goods.
+
+683
+00:39:43,458 --> 00:39:47,359
+Now you might be thinking "Yeah, but that's
+probably a bunch of work right?"
+
+684
+00:39:47,359 --> 00:39:49,926
+Well, it can be, but I'm not an expert.
+
+685
+00:39:49,926 --> 00:39:52,122
+So I talked to someone who is.
+
+686
+00:39:52,122 --> 00:39:55,201
+I asked that developer who worked on a
+server emulator
+
+687
+00:39:55,201 --> 00:39:59,374
+how much work would it take for companies
+to provide the bare minimum
+
+688
+00:39:59,374 --> 00:40:02,146
+to give users a reasonable chance
+
+689
+00:40:02,146 --> 00:40:05,926
+to create a server emulator once the game
+shuts down.
+
+690
+00:40:05,926 --> 00:40:09,128
+Well, he said there were two basic options.
+
+691
+00:40:09,128 --> 00:40:12,204
+I'm not even gonna go over these, but you
+can see them here.
+
+692
+00:40:12,204 --> 00:40:15,218
+Now this would NOT be enough for a playable
+game.
+
+693
+00:40:15,218 --> 00:40:18,118
+This would be more like those "repair
+notes," like it was mentioned
+
+694
+00:40:18,118 --> 00:40:20,834
+in those European planned obsolescence laws.
+
+695
+00:40:20,834 --> 00:40:23,353
+But okay, this doesn't seem like too much
+work
+
+696
+00:40:23,353 --> 00:40:26,698
+so I asked him how long would it take the
+developers to do this.
+
+697
+00:40:26,698 --> 00:40:31,428
+He said it depended on how well the game was
+written, and how competent the developers are
+
+698
+00:40:31,428 --> 00:40:35,204
+but anywhere from less than an hour,
+to a few days.
+
+699
+00:40:35,204 --> 00:40:38,231
+Okay, so NOW let's compare.
+
+700
+00:40:38,231 --> 00:40:44,128
+Here are the total pros and cons of having
+Games as a Service, the way we do it now.
+
+701
+00:40:44,128 --> 00:40:48,909
+Under pros, the developers save anywhere from
+less than hour, to a few days work.
+
+702
+00:40:48,909 --> 00:40:50,617
+Alright, that's a positive.
+
+703
+00:40:50,617 --> 00:40:52,850
+And under cons, everyone who paid for the game
+
+704
+00:40:52,850 --> 00:40:57,380
+along with anyone in the future interested in
+the game, will never be able to run it again.
+
+705
+00:40:57,380 --> 00:40:58,525
+Hmm.
+
+706
+00:40:58,525 --> 00:41:01,065
+No this doesn't seem like a good idea to me.
+
+707
+00:41:01,065 --> 00:41:04,271
+In fact, this looks like a really bad deal
+for everyone.
+
+708
+00:41:04,271 --> 00:41:06,070
+In order for this to be a good deal
+
+709
+00:41:06,070 --> 00:41:09,265
+I'd say we need a situation like The Day
+After Tomorrow
+
+710
+00:41:09,265 --> 00:41:12,908
+where these people are hiding in a library
+from the worst blizzard ever
+
+711
+00:41:12,908 --> 00:41:16,359
+and need to burn some books so they stay
+warm and don't die.
+
+712
+00:41:16,359 --> 00:41:20,180
+See to me, THAT looks like a better
+trade off for destroying media.
+
+713
+00:41:20,180 --> 00:41:23,679
+I'm pretty sure Games as a Service
+doesn't save lives.
+
+714
+00:41:23,679 --> 00:41:26,956
+Now I understand if you think I'm framing
+this unfairly
+
+715
+00:41:26,956 --> 00:41:32,949
+because it sounds kind of crazy that THIS is the
+entire reason the industry is defrauding customers
+
+716
+00:41:32,949 --> 00:41:35,395
+and destroying products with millions of
+dollars
+
+717
+00:41:35,395 --> 00:41:38,105
+and thousands of hours of work behind them.
+
+718
+00:41:38,105 --> 00:41:41,596
+But this is the only honest reason I've seen.
+
+719
+00:41:41,596 --> 00:41:47,323
+It reminds me how in the 60's, auto manufacturers
+fought against seatbelts being mandatory
+
+720
+00:41:47,323 --> 00:41:51,613
+because even though they saved lives, they
+did cost some money
+
+721
+00:41:51,613 --> 00:41:53,668
+and auto makers didn't want that.
+
+722
+00:41:53,668 --> 00:41:54,813
+I won't lie
+
+723
+00:41:54,813 --> 00:41:58,223
+THIS does cost SOME money to do.
+
+724
+00:41:58,223 --> 00:41:59,709
+But not much at all.
+
+725
+00:41:59,709 --> 00:42:03,576
+I would guess well under 1% of the total
+budget.
+
+726
+00:42:03,576 --> 00:42:07,933
+It's certainly cheaper than making a game
+a service to begin with.
+
+727
+00:42:07,933 --> 00:42:09,715
+So even without the law
+
+728
+00:42:09,715 --> 00:42:13,536
+If THIS is the ENTIRE REASON games are not
+preserved
+
+729
+00:42:13,536 --> 00:42:16,240
+and customers can never use their products
+again
+
+730
+00:42:16,240 --> 00:42:18,718
+I don't find that particularly compelling.
+
+731
+00:42:18,718 --> 00:42:21,205
+It's almost like if there are no laws on this
+
+732
+00:42:21,205 --> 00:42:23,005
+then there SHOULD be.
+
+733
+00:42:23,005 --> 00:42:25,310
+And that brings me to the final argument
+
+734
+00:42:25,310 --> 00:42:28,435
+and this one I can even use on World of
+Warcraft
+
+735
+00:42:28,435 --> 00:42:29,935
+finally.
+
+736
+00:42:29,935 --> 00:42:33,734
+Now this may sound crazy, considering the
+first half of this video
+
+737
+00:42:33,734 --> 00:42:38,917
+but I don't actually care about this topic
+because the industry is breaking the law
+
+738
+00:42:38,917 --> 00:42:40,697
+that's just a coincidence.
+
+739
+00:42:40,697 --> 00:42:45,010
+I only covered that legal mess because there
+could be some real power behind that.
+
+740
+00:42:45,010 --> 00:42:47,461
+I think the law is going to be the only way
+out of this
+
+741
+00:42:47,461 --> 00:42:50,011
+but that's not my main motivation here.
+
+742
+00:42:50,011 --> 00:42:54,553
+No, I care because Games as a Service
+is destroying games.
+
+743
+00:42:54,553 --> 00:42:56,933
+Quite successfully too.
+
+744
+00:42:56,933 --> 00:43:00,788
+Every once in a while, you'll hear people
+ask if games are art.
+
+745
+00:43:00,788 --> 00:43:02,453
+I don't have an answer on that
+
+746
+00:43:02,453 --> 00:43:06,097
+but, I think it's pretty clear that games
+are creative experiences
+
+747
+00:43:06,097 --> 00:43:08,383
+often worthy of preservation.
+
+748
+00:43:08,383 --> 00:43:10,677
+So I'll say "art" just to keep it simple.
+
+749
+00:43:10,677 --> 00:43:13,063
+I mean come on, if you're looking at stuff
+like this
+
+750
+00:43:13,063 --> 00:43:16,688
+and are saying "NO. This has no artistic
+value at all"
+
+751
+00:43:16,688 --> 00:43:18,623
+you're just being grumpy.
+
+752
+00:43:18,623 --> 00:43:21,720
+You know David Bowie's in a game, right?
+
+753
+00:43:21,720 --> 00:43:24,379
+Anyway the point here is that Games as a
+Service
+
+754
+00:43:24,379 --> 00:43:27,351
+is more than JUST a consumer rights issue.
+
+755
+00:43:27,351 --> 00:43:30,290
+Even though the quality ratio is debatable
+
+756
+00:43:30,290 --> 00:43:34,110
+games contain ideas, art, often dialogue
+
+757
+00:43:34,110 --> 00:43:37,754
+and ways of interacting that aren't present
+in any other medium.
+
+758
+00:43:37,754 --> 00:43:40,771
+They're more than JUST products.
+
+759
+00:43:40,771 --> 00:43:43,674
+If I buy a toaster that's designed to fail
+
+760
+00:43:44,422 --> 00:43:46,061
+well, I still think that's wrong
+
+761
+00:43:46,061 --> 00:43:50,303
+but I can always buy another toaster, and
+still have toast.
+
+762
+00:43:50,303 --> 00:43:53,397
+Whereas games are unique experiences.
+
+763
+00:43:53,397 --> 00:43:57,054
+You can't replace them any more than you can
+replace books in a library
+
+764
+00:43:57,054 --> 00:43:58,454
+with different authors.
+
+765
+00:43:58,454 --> 00:44:01,735
+You can't replace Dracula with Twilight
+
+766
+00:44:01,735 --> 00:44:05,310
+and say nothing was lost because they're
+both about vampires.
+
+767
+00:44:05,310 --> 00:44:07,116
+It doesn't work that way.
+
+768
+00:44:07,116 --> 00:44:10,931
+I'm not going to spend much time explaining
+why saving art has value
+
+769
+00:44:10,931 --> 00:44:12,965
+because for me, it's innate.
+
+770
+00:44:12,965 --> 00:44:16,898
+If you don't understand why art or creative
+works have value
+
+771
+00:44:16,898 --> 00:44:18,853
+I probably can't reach you on that.
+
+772
+00:44:18,853 --> 00:44:21,196
+Maybe a philosopher can field that one.
+
+773
+00:44:21,196 --> 00:44:24,361
+For me, it's just an instinctive response.
+
+774
+00:44:24,361 --> 00:44:28,858
+Now of course we can't save ALL artistic
+works, that's just not practical.
+
+775
+00:44:28,858 --> 00:44:30,480
+There's too many. Plus
+
+776
+00:44:30,480 --> 00:44:32,190
+some of them suck.
+
+777
+00:44:32,190 --> 00:44:36,830
+But we can decide for ourselves what's worth
+saving, and what's not.
+
+778
+00:44:36,830 --> 00:44:41,154
+Games as a Service denies that chance to
+everyone.
+
+779
+00:44:41,154 --> 00:44:45,501
+When I see a game with obvious creative
+value being destroyed
+
+780
+00:44:45,501 --> 00:44:47,628
+this is what comes to mind
+
+781
+00:44:54,692 --> 00:44:58,669
+Now the reality is both better and worse
+than that.
+
+782
+00:44:58,669 --> 00:45:01,490
+The part that's better is that games that
+are destroyed
+
+783
+00:45:01,490 --> 00:45:05,530
+are far less likely to contain ideas that
+are so powerful
+
+784
+00:45:05,530 --> 00:45:07,821
+some see them as a threat.
+
+785
+00:45:07,821 --> 00:45:13,593
+The part that's worse, is that publishers
+are way more successful at destroying games
+
+786
+00:45:13,593 --> 00:45:17,133
+than oppressors ever were at destroying
+books.
+
+787
+00:45:17,133 --> 00:45:20,605
+Or, you know, at least within the past few
+thousand years.
+
+788
+00:45:20,605 --> 00:45:22,160
+Even at book burning rallies
+
+789
+00:45:22,160 --> 00:45:26,951
+people didn't burn every existing copy
+of a book they hated.
+
+790
+00:45:26,951 --> 00:45:32,233
+And yet, a lot of Games as a Service have
+a 100% death rate.
+
+791
+00:45:32,233 --> 00:45:35,911
+There is no comparison to that in modern
+media.
+
+792
+00:45:35,911 --> 00:45:39,142
+I guess in the early days of film we lost
+a lot of stuff
+
+793
+00:45:39,142 --> 00:45:41,377
+because the studios didn't know any better.
+
+794
+00:45:41,377 --> 00:45:42,879
+That's what scares me.
+
+795
+00:45:42,879 --> 00:45:46,343
+Now we DO know better, and yet we're still
+going backwards.
+
+796
+00:45:46,343 --> 00:45:49,595
+It's like watching a driver take a bus over
+a cliff
+
+797
+00:45:49,595 --> 00:45:53,969
+and he KNOWS he's taking it over the cliff.
+It's a kind of madness.
+
+798
+00:45:53,969 --> 00:45:59,184
+And speaking of modern media, you can rent
+movies or stream music as a service
+
+799
+00:45:59,184 --> 00:46:00,865
+but you can ALSO
+
+800
+00:46:00,865 --> 00:46:04,749
+BUY THEM and KEEP them as GOODS.
+
+801
+00:46:04,749 --> 00:46:09,957
+I guess some TV shows or radio shows you
+can't buy, but guess what?
+
+802
+00:46:09,957 --> 00:46:12,190
+You can back them up yourself.
+
+803
+00:46:12,190 --> 00:46:13,407
+Legally!
+
+804
+00:46:13,407 --> 00:46:15,862
+Not to dip back into the law again
+
+805
+00:46:17,123 --> 00:46:19,767
+but that's what THIS case was all about.
+
+806
+00:46:19,767 --> 00:46:24,396
+Technically, it's already legal to back up
+Games as a Service is multiple countries.
+
+807
+00:46:24,396 --> 00:46:26,261
+Even in the USA!
+
+808
+00:46:26,261 --> 00:46:30,820
+But if game companies make that impossible
+then what does that matter?
+
+809
+00:46:30,820 --> 00:46:34,215
+I care about reality, not fantasy rights!
+
+810
+00:46:34,215 --> 00:46:38,835
+I want to say Games as a Service are the
+only form of modern media
+
+811
+00:46:38,835 --> 00:46:43,526
+without real world limitations, that you
+CANNOT PRESERVE.
+
+812
+00:46:43,526 --> 00:46:46,476
+It's kind of amazing, in a terrible way.
+
+813
+00:46:46,476 --> 00:46:48,751
+And that's what all this comes down to for
+me.
+
+814
+00:46:48,751 --> 00:46:53,302
+Even if Games as a Service passed every
+legal test, which it hasn't
+
+815
+00:46:53,302 --> 00:46:55,121
+then the law would be wrong.
+
+816
+00:46:55,121 --> 00:46:57,742
+Games as a Service, the way we do it now
+
+817
+00:46:57,742 --> 00:47:01,911
+permanently destroys games, and all the work
+the creators put into them
+
+818
+00:47:01,911 --> 00:47:06,669
+it's entirely preventable, and serves
+almost no purpose for anyone.
+
+819
+00:47:06,669 --> 00:47:08,507
+It's just wrong.
+
+820
+00:47:08,507 --> 00:47:12,931
+The whole point of laws is to have a more
+civilized society.
+
+821
+00:47:12,931 --> 00:47:17,886
+Wanton destruction of art that others are
+trying to preserve and have paid for
+
+822
+00:47:17,886 --> 00:47:19,907
+is not civilized.
+
+823
+00:47:19,907 --> 00:47:23,295
+That's why this needs to stop, even for
+subscription games.
+
+824
+00:47:23,295 --> 00:47:24,734
+We just have to stop it.
+
+825
+00:47:24,934 --> 00:47:25,695
+["Stop it."]
+
+826
+00:47:25,772 --> 00:47:26,496
+Stop it.
+
+827
+00:47:26,596 --> 00:47:29,019
+["STOP IT! STOP IT! STOP IT! STOP IT!"]
+
+828
+00:47:31,393 --> 00:47:33,377
+And that's my case!
+
+829
+00:47:33,377 --> 00:47:35,593
+So I would be almost done, but
+
+830
+00:47:35,593 --> 00:47:37,404
+but you know how the internet is.
+
+831
+00:47:37,404 --> 00:47:39,245
+Somebody can make a good point
+
+832
+00:47:39,245 --> 00:47:41,934
+but then somebody else comes along, nitpicks
+something
+
+833
+00:47:41,934 --> 00:47:43,630
+and then says "debunked"
+
+834
+00:47:43,630 --> 00:47:45,246
+"all done".
+
+835
+00:47:45,246 --> 00:47:46,186
+Uh uh.
+
+836
+00:47:46,186 --> 00:47:47,626
+I mean that may still happen
+
+837
+00:47:47,626 --> 00:47:50,704
+but, I want to wreck that before it even
+gets started.
+
+838
+00:47:50,704 --> 00:47:52,983
+Now if you're already onboard with what I'm
+saying
+
+839
+00:47:52,983 --> 00:47:54,947
+you can skip straight to the end.
+
+840
+00:47:54,947 --> 00:47:56,531
+Yeah, see, there you go.
+
+841
+00:47:56,531 --> 00:47:59,933
+But Games as a Service is a PLAGUE of
+an idea
+
+842
+00:47:59,933 --> 00:48:03,772
+so I need to burn out every last inch of it
+I can.
+
+843
+00:48:03,772 --> 00:48:08,814
+So I'm going into overtime to show just how
+weak the opposition is.
+
+844
+00:48:08,814 --> 00:48:11,068
+I think it's so bad it's indefensible.
+
+845
+00:48:11,068 --> 00:48:13,169
+But hey, judge for yourself.
+
+846
+00:48:13,169 --> 00:48:17,997
+So here are my rebuttals to every major
+counterargument or concern I can think of
+
+847
+00:48:17,997 --> 00:48:19,749
+BEFORE they happen.
+
+848
+00:48:19,749 --> 00:48:21,322
+Here we go!
+
+849
+00:48:21,322 --> 00:48:23,279
+Let's start with the big one.
+
+850
+00:48:23,279 --> 00:48:27,106
+"Games as a Service is legal because you
+agree to the terms stated"
+
+851
+00:48:27,106 --> 00:48:29,417
+"in the End User License Agreement."
+
+852
+00:48:29,417 --> 00:48:31,142
+Well, the simple answer is
+
+853
+00:48:31,142 --> 00:48:36,232
+yes, those terms apply, as long as they don't
+contradict anything the law says.
+
+854
+00:48:36,232 --> 00:48:40,689
+If they say something that is not legal,
+then those documents mean nothing.
+
+855
+00:48:40,689 --> 00:48:42,333
+Nothing.
+
+856
+00:48:42,333 --> 00:48:45,412
+That's why I spent half the video focusing
+on the law
+
+857
+00:48:45,412 --> 00:48:48,152
+and almost didn't care what those documents said.
+
+858
+00:48:48,152 --> 00:48:50,285
+If the law says they're wrong
+
+859
+00:48:50,285 --> 00:48:53,125
+that's all there is to it. It's not even
+a debate.
+
+860
+00:48:53,125 --> 00:48:57,989
+The end user license agreements are
+irrelevant to this conversation.
+
+861
+00:48:57,989 --> 00:49:00,961
+That's what that Lexmark Supreme Court
+case was showing.
+
+862
+00:49:00,961 --> 00:49:03,819
+They simply DON'T determine the law.
+
+863
+00:49:03,819 --> 00:49:06,694
+It's good to think of those agreements like
+"club rules."
+
+864
+00:49:06,694 --> 00:49:10,047
+So if you're at the Moose Lodge and the rules
+say you have to make an antler face
+
+865
+00:49:10,047 --> 00:49:12,127
+before you can speak at the meetings
+
+866
+00:49:12,127 --> 00:49:14,266
+well, then those are the club rules.
+
+867
+00:49:14,266 --> 00:49:18,159
+You don't actually lose your right to speak.
+
+868
+00:49:18,159 --> 00:49:20,681
+But let's crush this argument a little
+further.
+
+869
+00:49:20,681 --> 00:49:22,611
+Maybe you think the law is wrong
+
+870
+00:49:22,611 --> 00:49:26,089
+and the customer assumed the risk of shutdown
+when they bought the game.
+
+871
+00:49:26,089 --> 00:49:27,189
+Okay.
+
+872
+00:49:27,189 --> 00:49:30,381
+Well then when was it supposed to shut down?
+
+873
+00:49:30,381 --> 00:49:34,219
+I don't think there's been one case in the
+history of Games as a Service
+
+874
+00:49:34,219 --> 00:49:39,845
+where the company told the customer WHEN the
+game was gonna shut down upon release.
+
+875
+00:49:39,845 --> 00:49:42,660
+That means the agreements are made in
+bad faith
+
+876
+00:49:42,660 --> 00:49:47,653
+because the company is purposefully
+withholding information from the customer.
+
+877
+00:49:47,653 --> 00:49:51,730
+Now personally, I think that's a weaker
+argument that doesn't get to the core issue
+
+878
+00:49:51,730 --> 00:49:53,875
+but it's still true.
+
+879
+00:49:53,875 --> 00:49:56,885
+Game shutdowns are not a force of nature.
+
+880
+00:49:56,885 --> 00:50:00,059
+They are entirely within the company's
+control.
+
+881
+00:50:00,059 --> 00:50:03,051
+In order to defend the end user license
+agreement
+
+882
+00:50:03,051 --> 00:50:06,972
+you would have to say that companies are
+entitled to sell you a product
+
+883
+00:50:06,972 --> 00:50:10,085
+break that product after the point of sale
+
+884
+00:50:10,085 --> 00:50:14,537
+not tell customers when that's going to
+happen, even though it's in their control
+
+885
+00:50:14,537 --> 00:50:19,307
+and then, prevent customers from repairing
+the product after it's broken.
+
+886
+00:50:19,307 --> 00:50:22,783
+That is NOT good business, that is predatory.
+
+887
+00:50:22,783 --> 00:50:24,927
+Good luck defending that.
+
+888
+00:50:24,932 --> 00:50:27,027
+Okay, here's another big one.
+
+889
+00:50:27,027 --> 00:50:30,062
+"Buying a game entitles you to the client
+software"
+
+890
+00:50:30,062 --> 00:50:33,183
+"you are not entitled to the server
+software."
+
+891
+00:50:33,183 --> 00:50:35,886
+Technically, yes, that is true.
+
+892
+00:50:35,886 --> 00:50:37,794
+But that's not the whole story.
+
+893
+00:50:37,794 --> 00:50:40,517
+Part of what I was trying to show in the
+legal portion
+
+894
+00:50:40,517 --> 00:50:42,985
+is that there's a precedent, if not laws
+
+895
+00:50:42,985 --> 00:50:46,948
+that customers ARE entitled to a working
+product.
+
+896
+00:50:46,948 --> 00:50:49,926
+OR a reasonable chance of repairing one.
+
+897
+00:50:49,926 --> 00:50:53,633
+So, no, the customer is not entitled to
+the server software.
+
+898
+00:50:53,633 --> 00:50:56,772
+But since they ARE entitled to a working
+product
+
+899
+00:50:56,772 --> 00:51:00,071
+that usually means the server software also.
+
+900
+00:51:00,071 --> 00:51:01,317
+Doesn't have to!
+
+901
+00:51:01,317 --> 00:51:05,147
+The company could patch the game for it to
+run offline instead.
+
+902
+00:51:05,147 --> 00:51:09,543
+In fact I have a really easy test, that sums
+up my whole stance on this.
+
+903
+00:51:09,543 --> 00:51:12,073
+Step one: Company sells the game.
+
+904
+00:51:12,073 --> 00:51:16,215
+Step two: The company conducts business
+any way they want to.
+
+905
+00:51:16,215 --> 00:51:18,829
+Step three: Company support ends
+
+906
+00:51:18,829 --> 00:51:23,861
+And step four: the customer has a reasonable
+chance to run the game after shutdown.
+
+907
+00:51:23,861 --> 00:51:27,723
+What the company does in step two here
+is a "black box".
+
+908
+00:51:27,723 --> 00:51:31,782
+I am in NO WAY trying to dictate how they
+run their business there.
+
+909
+00:51:31,782 --> 00:51:34,116
+I'm only concerned with step four here
+
+910
+00:51:34,116 --> 00:51:36,827
+Can the customer run the game?
+
+911
+00:51:36,827 --> 00:51:40,524
+In Games as a Service, the answer is
+currently "NO".
+
+912
+00:51:40,524 --> 00:51:42,977
+This is what it's all about, right here.
+
+913
+00:51:42,977 --> 00:51:46,159
+Notice it doesn't say "release the server
+software".
+
+914
+00:51:46,159 --> 00:51:50,314
+It says give the customers a chance to
+run their game that they paid for.
+
+915
+00:51:50,314 --> 00:51:52,970
+HOW the company does that is up to them.
+
+916
+00:51:52,970 --> 00:51:56,650
+In fact if you get confused by anything
+I've said in this video
+
+917
+00:51:56,650 --> 00:51:59,282
+and get lost somewhere, just look at that
+chart.
+
+918
+00:51:59,282 --> 00:52:01,580
+This chart is all you really need to know.
+
+919
+00:52:01,580 --> 00:52:03,409
+Simple. Easy.
+
+920
+00:52:03,409 --> 00:52:05,423
+I guess I should have put that at the
+beginning.
+
+921
+00:52:05,952 --> 00:52:06,676
+Oops.
+
+922
+00:52:07,358 --> 00:52:11,105
+"What you're proposing would require businesses
+to support their games forever."
+
+923
+00:52:11,105 --> 00:52:12,633
+"That's unreasonable."
+
+924
+00:52:12,633 --> 00:52:13,769
+No they wouldn't.
+
+925
+00:52:13,769 --> 00:52:19,485
+In fact, I'm in favor of companies ending
+support for a game ANY TIME THEY WANT.
+
+926
+00:52:19,485 --> 00:52:22,356
+That's why an end of life plan is essential.
+
+927
+00:52:22,356 --> 00:52:25,314
+If you're a company, and you end support for
+your game
+
+928
+00:52:25,314 --> 00:52:29,450
+but then the customer still has a reasonable
+chance to play it after that?
+
+929
+00:52:29,450 --> 00:52:32,861
+That's it! You're done! You don't have to
+support anything!
+
+930
+00:52:32,861 --> 00:52:38,415
+What needs to STOP, is support being a
+REQUIREMENT to play the game.
+
+931
+00:52:38,415 --> 00:52:41,826
+THAT'S what Games as a Service is.
+
+932
+00:52:41,826 --> 00:52:44,490
+"If Games as a Service have to be treated
+as goods"
+
+933
+00:52:44,490 --> 00:52:47,971
+"it will hurt creativity of developers and
+restrain them."
+
+934
+00:52:47,971 --> 00:52:52,222
+Well first, I'd like to point out the
+industry made games as goods for decades
+
+935
+00:52:52,222 --> 00:52:55,694
+and I didn't see a lot of shortage of
+creativity myself.
+
+936
+00:52:55,694 --> 00:52:59,099
+[gibberish singing]
+
+937
+00:52:59,099 --> 00:53:02,955
+And again, we're talking up to a few extra
+days of work.
+
+938
+00:53:02,955 --> 00:53:05,364
+I don't see how that would "kill creativity"
+
+939
+00:53:05,364 --> 00:53:08,316
+unless the point of the game was for it
+to die.
+
+940
+00:53:08,316 --> 00:53:11,940
+Well wouldn't you know it, we've had a game
+just like that
+
+941
+00:53:11,940 --> 00:53:13,214
+"The Flock".
+
+942
+00:53:13,214 --> 00:53:17,393
+This was a multiplayer game that the
+developers actually wanted to die.
+
+943
+00:53:17,393 --> 00:53:21,209
+After a fixed amount of player deaths, it
+was going to shut down forever
+
+944
+00:53:21,209 --> 00:53:23,688
+and they told people that right from the
+beginning.
+
+945
+00:53:23,688 --> 00:53:26,705
+Now I would actually allow an exemption for
+this game
+
+946
+00:53:26,705 --> 00:53:31,121
+because I think there's an argument to be
+made that this was performance art.
+
+947
+00:53:31,121 --> 00:53:33,501
+See, all other Games as a Service
+
+948
+00:53:33,501 --> 00:53:36,482
+they don't die because the creators WANT
+them to.
+
+949
+00:53:36,482 --> 00:53:41,199
+It happens because they become unprofitable
+and they handle the shutdowns irresponsibly.
+
+950
+00:53:41,199 --> 00:53:45,671
+But this one, game death was the entire
+point.
+
+951
+00:53:45,671 --> 00:53:47,308
+So guess what happened?
+
+952
+00:53:47,308 --> 00:53:49,870
+They ran out of money to pay for server
+hosting
+
+953
+00:53:49,870 --> 00:53:52,868
+so they shut the game down prematurely.
+
+954
+00:53:52,868 --> 00:53:55,910
+So, the ONE GAME that wanted to die
+
+955
+00:53:55,910 --> 00:53:58,370
+couldn't do it the way it intended.
+
+956
+00:53:58,370 --> 00:54:04,036
+Its creative vision was compromised BECAUSE
+of Games as a Service.
+
+957
+00:54:04,036 --> 00:54:10,013
+Thus, as far as I know, games as a good has
+NEVER hurt creativity.
+
+958
+00:54:10,013 --> 00:54:11,603
+Let's look at that chart again.
+
+959
+00:54:11,603 --> 00:54:15,010
+Does this chart look like it's strangling
+creativity?
+
+960
+00:54:15,010 --> 00:54:17,020
+But let's say it somehow was.
+
+961
+00:54:17,020 --> 00:54:22,553
+Is that one game being allowed to die not
+worth making rules for all others?
+
+962
+00:54:22,553 --> 00:54:23,873
+I don't think so.
+
+963
+00:54:23,873 --> 00:54:26,744
+"If the law was enforced on Games as a
+Service"
+
+964
+00:54:26,744 --> 00:54:28,660
+"it would negatively affect a lot of companies"
+
+965
+00:54:28,660 --> 00:54:33,296
+"that would have to go back and change their
+games. And they may not be able to do that."
+
+966
+00:54:33,296 --> 00:54:35,986
+I consider the current situation so bad
+
+967
+00:54:35,986 --> 00:54:40,063
+that I would accept that any laws on this,
+not apply retroactively.
+
+968
+00:54:40,063 --> 00:54:44,914
+If I can save all the games of the future for
+the price of a hundred or so games today
+
+969
+00:54:44,914 --> 00:54:47,401
+that's a devils bargain I can live with.
+
+970
+00:54:47,401 --> 00:54:50,762
+Now it's not like I have any power to
+compromise WITH.
+
+971
+00:54:50,762 --> 00:54:55,653
+I'm just talking on a pure conceptual level.
+I want every base covered.
+
+972
+00:54:55,653 --> 00:54:58,150
+This is such a black and white issue to me.
+
+973
+00:54:58,150 --> 00:55:00,498
+I don't want to leave any room for people
+going
+
+974
+00:55:00,498 --> 00:55:03,895
+"Oh, it's so hard to come up with a rule for
+this."
+
+975
+00:55:03,895 --> 00:55:07,350
+"I guess it's impossible to do anything
+about it."
+
+976
+00:55:07,350 --> 00:55:10,598
+No, I want clear rules for any scenario.
+
+977
+00:55:10,598 --> 00:55:14,666
+In fact, if I miss one, come at me, I'll
+straighten you out.
+
+978
+00:55:14,666 --> 00:55:17,881
+"What about free or free to play games?"
+
+979
+00:55:17,881 --> 00:55:21,340
+Well if a game is truly free, no money
+involved
+
+980
+00:55:21,340 --> 00:55:26,158
+I'd say the law doesn't apply, nor should
+it. That would hurt creativity.
+
+981
+00:55:26,158 --> 00:55:30,979
+People will want to experiment with concepts
+and throw bad experiments out sometimes.
+
+982
+00:55:30,979 --> 00:55:33,543
+There doesn't need to be a higher
+responsibility on the person
+
+983
+00:55:33,543 --> 00:55:35,319
+if they're just messing around.
+
+984
+00:55:35,319 --> 00:55:37,777
+It's once they start taking money for that
+
+985
+00:55:37,777 --> 00:55:42,199
+that they're entering legal territory, and
+just a higher responsibility in general
+
+986
+00:55:42,199 --> 00:55:45,029
+since then their actions start affecting
+others.
+
+987
+00:55:45,029 --> 00:55:50,807
+Now "free to play games," games that are free
+but you can also buy extra items or features
+
+988
+00:55:50,807 --> 00:55:54,197
+those are easy. Treat them like any other
+commerical game.
+
+989
+00:55:54,197 --> 00:55:56,853
+If you buy a virtual sword in a game
+
+990
+00:55:56,853 --> 00:56:00,278
+then the game shuts down, so you can no
+longer access it
+
+991
+00:56:00,278 --> 00:56:04,087
+it's been taken from you, your property
+rights have been infringed upon.
+
+992
+00:56:04,087 --> 00:56:09,300
+Hence the need to treat it like the good it
+is, so you can keep what you paid for.
+
+993
+00:56:09,300 --> 00:56:13,380
+"Making a server emulator work on another
+system is a lot of work."
+
+994
+00:56:13,380 --> 00:56:15,995
+"Developers can't be expected to do that."
+
+995
+00:56:15,995 --> 00:56:19,510
+Well, that's why I presented the "minimum
+effort options" here.
+
+996
+00:56:19,510 --> 00:56:22,420
+See, the situation is so bad right now
+
+997
+00:56:22,420 --> 00:56:25,295
+I found a way to lower my standards even
+futher.
+
+998
+00:56:25,295 --> 00:56:29,518
+I used to think these were the only ways
+for a company to not commit fraud
+
+999
+00:56:29,518 --> 00:56:31,365
+for a Games as a Service shut down.
+
+1000
+00:56:31,365 --> 00:56:36,053
+But wouldn't you know it, that minimum
+effort solution sort of qualifies too.
+
+1001
+00:56:36,053 --> 00:56:41,351
+If a developer provides THIS, then the game
+enters "possible to repair" territory.
+
+1002
+00:56:41,351 --> 00:56:44,666
+Which I still don't think is great, but, I
+can live with that.
+
+1003
+00:56:44,666 --> 00:56:49,005
+And again, this is anywhere from under an
+hour, to a few days of work.
+
+1004
+00:56:49,005 --> 00:56:52,935
+If that is still just too much work
+for you to handle
+
+1005
+00:56:52,935 --> 00:56:56,261
+then you shouldn't be selling Games as
+a Service.
+
+1006
+00:56:56,261 --> 00:57:00,025
+Laws enforcing games as goods would
+negatively affect games
+
+1007
+00:57:00,025 --> 00:57:03,372
+that get shutdown temporarily, but then
+come back up.
+
+1008
+00:57:03,372 --> 00:57:08,817
+Good point! I agree with you! That's why I
+think a grace period is quite reasonable.
+
+1009
+00:57:08,817 --> 00:57:10,849
+If a game is shut down for a couple months
+
+1010
+00:57:10,849 --> 00:57:15,203
+but then comes right back up so buyers can
+play it again, that's acceptable.
+
+1011
+00:57:15,203 --> 00:57:18,482
+I think what the appropriate time period is,
+is debateable
+
+1012
+00:57:18,482 --> 00:57:21,959
+however, I consider "NEVER" an unacceptable
+answer.
+
+1013
+00:57:21,959 --> 00:57:26,370
+"Requiring companies to give players a chance
+to play their games upon shutdown"
+
+1014
+00:57:26,370 --> 00:57:29,902
+"is overreach, and an infringement on
+business rights."
+
+1015
+00:57:29,902 --> 00:57:33,011
+The whole idea behind a perpetual
+software license
+
+1016
+00:57:33,011 --> 00:57:37,817
+is the business is giving up a tiny bit of
+its rights, in exchange for money.
+
+1017
+00:57:37,817 --> 00:57:41,859
+It's the customer paying the business, not
+the other way around.
+
+1018
+00:57:41,859 --> 00:57:45,246
+What's actually happening is overreach
+from the business.
+
+1019
+00:57:45,246 --> 00:57:48,711
+They're trying to take back rights that
+they SOLD.
+
+1020
+00:57:48,711 --> 00:57:53,643
+If I were to sell you a car, and then later
+steal it, and drive it back to my lot
+
+1021
+00:57:53,643 --> 00:57:56,282
+we wouldn't say I'm "protecting my rights"
+
+1022
+00:57:56,282 --> 00:57:58,345
+we would say I robbed you.
+
+1023
+00:57:58,345 --> 00:58:02,773
+"You're just being an idealist. Things break
+down or go bad all the time"
+
+1024
+00:58:02,773 --> 00:58:04,244
+"games are no different."
+
+1025
+00:58:04,244 --> 00:58:05,403
+Yes they are.
+
+1026
+00:58:05,403 --> 00:58:08,101
+Video games are code. Numbers.
+
+1027
+00:58:08,101 --> 00:58:10,062
+Games are more like stories.
+
+1028
+00:58:10,062 --> 00:58:13,892
+BOOKS go bad, STORIES don't, unless we
+let them.
+
+1029
+00:58:13,892 --> 00:58:16,354
+Hey there's this story called The Odyssey.
+
+1030
+00:58:16,354 --> 00:58:19,296
+It's pretty good, it's about 3,000 years old
+
+1031
+00:58:19,296 --> 00:58:22,051
+though it's only been published for
+2400 years.
+
+1032
+00:58:22,051 --> 00:58:24,563
+When's that one supposed to go bad by?
+
+1033
+00:58:24,563 --> 00:58:28,553
+But you know what, that's not a game, so
+how about, Go?
+
+1034
+00:58:28,553 --> 00:58:32,298
+That one's two and a half thousand
+years old. People still play it.
+
+1035
+00:58:32,298 --> 00:58:35,359
+So, no, this doesn't apply to games.
+
+1036
+00:58:35,359 --> 00:58:38,742
+See, I have to point this out because some
+people just don't get it.
+
+1037
+00:58:38,742 --> 00:58:42,415
+Cheese goes bad, car tires go bad
+
+1038
+00:58:42,415 --> 00:58:45,097
+math equations, do not.
+
+1039
+00:58:45,097 --> 00:58:48,686
+Again, there's a real narrative pushing
+back against this.
+
+1040
+00:58:48,686 --> 00:58:51,525
+Just to pick on someone, take a look at
+this article.
+
+1041
+00:58:51,525 --> 00:58:55,738
+Eliot here argues that all these online
+games are going to get shut down.
+
+1042
+00:58:55,738 --> 00:58:57,411
+He's right about that.
+
+1043
+00:58:57,411 --> 00:59:00,089
+Then, he tries to argue that this is
+"welcome" and "inevitable".
+
+1044
+00:59:00,089 --> 00:59:02,185
+Well, no, that's wrong.
+
+1045
+00:59:02,185 --> 00:59:06,525
+He then compares game shutdowns to TV
+shows ending, like Star Trek.
+
+1046
+00:59:06,525 --> 00:59:11,148
+I'm guessing if he took a logic class in
+school, he didn't get top marks.
+
+1047
+00:59:11,148 --> 00:59:13,219
+See, here's the difference Eliot
+
+1048
+00:59:13,219 --> 00:59:17,986
+people can still watch those TV shows today,
+because they were preserved.
+
+1049
+00:59:17,986 --> 00:59:21,303
+If no one today could ever watch Star Trek
+again
+
+1050
+00:59:21,303 --> 00:59:24,338
+then yes, that would be a solid analogy.
+
+1051
+00:59:24,338 --> 00:59:26,133
+What he's actually arguing here
+
+1052
+00:59:26,133 --> 00:59:30,382
+is development and support on a game
+eventually ends.
+
+1053
+00:59:30,382 --> 00:59:34,319
+YES, that's why an end of life plan is
+necessary!
+
+1054
+00:59:34,319 --> 00:59:36,518
+Their shutdown is inevitable
+
+1055
+00:59:36,518 --> 00:59:39,320
+their destruction is NOT.
+
+1056
+00:59:39,320 --> 00:59:42,712
+There are people playing Star Wars Galaxies
+right now
+
+1057
+00:59:42,712 --> 00:59:46,826
+even though that game was officially shut
+down over seven years ago.
+
+1058
+00:59:46,826 --> 00:59:51,202
+Do you think those people accepted the
+ending back in 2011?
+
+1059
+00:59:51,202 --> 00:59:55,668
+Now that's only possible because a developer
+illegally leaked code to the game
+
+1060
+00:59:55,668 --> 00:59:59,608
+but it just goes to show a game ending
+is not inevitable at all.
+
+1061
+00:59:59,608 --> 01:00:04,708
+Now I don't think Eliot here is a bad faith
+actor, I think he just doesn't know any better
+
+1062
+01:00:04,708 --> 01:00:07,836
+and it's unfortunate he's also a game
+journalist
+
+1063
+01:00:07,836 --> 01:00:11,704
+because then he influences others to buy
+in to the misinformation.
+
+1064
+01:00:11,704 --> 01:00:15,253
+This is exactly how a constructed narrative
+works.
+
+1065
+01:00:15,253 --> 01:00:19,552
+Go read The Odyssey Eliot, maybe something
+will click in your brain.
+
+1066
+01:00:19,552 --> 01:00:21,471
+"What you are proposing is outrageous"
+
+1067
+01:00:21,471 --> 01:00:24,671
+"because it would require companies to give
+up their intellectual property"
+
+1068
+01:00:24,671 --> 01:00:28,086
+"and they cannot release their game without
+losing their trademark."
+
+1069
+01:00:28,086 --> 01:00:30,780
+Okay, I pointed out earlier that the
+perpetual license
+
+1070
+01:00:30,780 --> 01:00:34,491
+in no way entitles the buyers to the
+intellectual property rights.
+
+1071
+01:00:34,491 --> 01:00:37,257
+All they get is that single instance of it.
+
+1072
+01:00:37,257 --> 01:00:40,767
+I was never arguing that rights holders
+should lose their IP.
+
+1073
+01:00:40,767 --> 01:00:45,809
+That's actually the whole point, people with
+perpetual licenses have rights also.
+
+1074
+01:00:45,809 --> 01:00:46,999
+As for trademark
+
+1075
+01:00:46,999 --> 01:00:51,325
+companies can still protect their trademark,
+and release an unsupported game.
+
+1076
+01:00:51,325 --> 01:00:54,779
+They just have to be in front of it, and
+define the terms.
+
+1077
+01:00:54,779 --> 01:00:58,620
+As an example, Grand Theft Auto, a
+commercial game
+
+1078
+01:00:58,620 --> 01:01:04,047
+has been released for free, multiple times by
+Rockstar, and they no longer support that game.
+
+1079
+01:01:04,047 --> 01:01:08,131
+Do you honestly think Rockstar lost the
+rights and trademark
+
+1080
+01:01:08,131 --> 01:01:12,089
+to the Grand Theft Auto franchise because
+of that?
+
+1081
+01:01:12,089 --> 01:01:15,557
+I think they have some money invested into
+that one.
+
+1082
+01:01:15,557 --> 01:01:21,300
+Using trademark as an excuse to kill a game,
+means the company is operating irresponsibly.
+
+1083
+01:01:21,300 --> 01:01:25,741
+That's the point here, if the company wants
+to solve a problem, they can
+
+1084
+01:01:25,741 --> 01:01:29,135
+if they don't, there's infinite excuses.
+
+1085
+01:01:29,135 --> 01:01:32,918
+Not good excuses, but, excuses nonetheless.
+
+1086
+01:01:32,918 --> 01:01:36,567
+"You say games are goods, but old arcades
+were services"
+
+1087
+01:01:36,567 --> 01:01:40,073
+"so there IS a historical precedent for this!"
+
+1088
+01:01:40,073 --> 01:01:42,474
+See, I knew you were gonna say that.
+
+1089
+01:01:42,474 --> 01:01:44,551
+Well let's go back to that service list
+again.
+
+1090
+01:01:44,551 --> 01:01:47,818
+With arcades, you had one of these first
+two criteria.
+
+1091
+01:01:47,818 --> 01:01:52,048
+Maybe you played the game until you died, or
+played until three minutes were up.
+
+1092
+01:01:52,048 --> 01:01:53,472
+It depended on the game.
+
+1093
+01:01:53,472 --> 01:01:56,025
+And for SURE arcades had real limits.
+
+1094
+01:01:56,025 --> 01:02:00,392
+There were machines with space age
+technology that weighed 300 pounds!
+
+1095
+01:02:00,392 --> 01:02:02,410
+And hey, if you really wanted to
+
+1096
+01:02:02,410 --> 01:02:07,090
+you could BUY the arcade machine as a GOOD
+and preserve it!
+
+1097
+01:02:07,090 --> 01:02:11,802
+Oh sure it costs thousands of dollars, but
+that goes back to the real world limits.
+
+1098
+01:02:11,802 --> 01:02:14,116
+It's just not the same thing at all.
+
+1099
+01:02:14,116 --> 01:02:16,881
+In fact, arcade machines only PROVE the
+point.
+
+1100
+01:02:16,881 --> 01:02:22,274
+ARCADES mostly died off, but the GAMES
+survived.
+
+1101
+01:02:22,274 --> 01:02:26,572
+"You keep mentioning the law, and need for
+law enforcement, but this isn't necessary."
+
+1102
+01:02:26,572 --> 01:02:30,031
+"Companies just need to be convinced
+preserving games is in their interest"
+
+1103
+01:02:30,031 --> 01:02:33,491
+"and customers need to make conscientious
+buying decisions."
+
+1104
+01:02:33,491 --> 01:02:37,055
+Listen, we tried it your way already, it
+didn't work!
+
+1105
+01:02:37,055 --> 01:02:40,880
+For decades, this wasn't an issue for the
+vast majority of games!
+
+1106
+01:02:40,880 --> 01:02:43,454
+Nobody was enforcing laws on Games as a
+Service
+
+1107
+01:02:43,454 --> 01:02:45,541
+because almost nobody was doing it!
+
+1108
+01:02:45,541 --> 01:02:46,585
+Great!
+
+1109
+01:02:46,585 --> 01:02:48,224
+That's not what's happening now.
+
+1110
+01:02:48,224 --> 01:02:53,335
+We're seeing large percentages of blockbuster
+titles engaged in Games as a Service.
+
+1111
+01:02:53,335 --> 01:02:56,292
+Why should we try to convince companies not
+to do something
+
+1112
+01:02:56,292 --> 01:02:59,413
+when they're the ones that created the
+problem in the first place?
+
+1113
+01:02:59,413 --> 01:03:03,187
+The companies that CAN be convinced, aren't
+the ones doing this!
+
+1114
+01:03:03,187 --> 01:03:08,789
+Remember, this absolute minimum effort
+solution, could take under an HOUR!
+
+1115
+01:03:08,789 --> 01:03:13,061
+But even I have to admit, that still takes
+SOME effort.
+
+1116
+01:03:13,061 --> 01:03:16,367
+Killing games requires NO effort.
+
+1117
+01:03:16,367 --> 01:03:20,260
+I've heard people say before that companies
+would be happy to preserve games
+
+1118
+01:03:20,260 --> 01:03:23,061
+if they could just be convinced that it's
+more profitable.
+
+1119
+01:03:23,061 --> 01:03:26,942
+Well you know those people running shell
+games on the street that are scams?
+
+1120
+01:03:26,942 --> 01:03:30,613
+They're asking you to pick a cup, when the
+ball is actually in their pocket?
+
+1121
+01:03:30,613 --> 01:03:33,117
+I'm sure THEY would be happy to run an
+honest game
+
+1122
+01:03:33,117 --> 01:03:36,752
+if you could convince them that was more
+profitable than scamming people.
+
+1123
+01:03:36,752 --> 01:03:41,416
+But the thing about fraud, is that it already
+has an excellent profit-to-work ratio.
+
+1124
+01:03:41,416 --> 01:03:46,548
+A maximum one even. Customers are not going
+to convince companies that honest business
+
+1125
+01:03:46,548 --> 01:03:50,409
+is more profitable than fraud, because, it's
+usually NOT.
+
+1126
+01:03:50,409 --> 01:03:54,151
+But I think law enforcement could convince
+them.
+
+1127
+01:03:54,151 --> 01:03:58,364
+But hey, prove me wrong, maybe the industry
+will see the error of its ways
+
+1128
+01:03:58,364 --> 01:04:01,557
+and stop killing games before any of this
+ever goes to court.
+
+1129
+01:04:01,557 --> 01:04:05,348
+But do you really want to bet on the
+industry policing itself?
+
+1130
+01:04:05,348 --> 01:04:08,014
+Really? I'll bet against you.
+
+1131
+01:04:08,014 --> 01:04:10,964
+Hit me up, my email's at the end of this
+video.
+
+1132
+01:04:10,964 --> 01:04:14,088
+"What about streaming only games?"
+
+1133
+01:04:14,088 --> 01:04:17,886
+Streaming only games are ones you can
+ONLY play through a video feed
+
+1134
+01:04:17,886 --> 01:04:19,402
+it's the only way.
+
+1135
+01:04:19,402 --> 01:04:22,683
+So forget everything that was shown in that
+body and brain chart.
+
+1136
+01:04:22,683 --> 01:04:26,332
+Streaming only games is like you're watching
+all that through a window
+
+1137
+01:04:26,332 --> 01:04:28,455
+You have NOTHING then.
+
+1138
+01:04:28,455 --> 01:04:32,570
+At this point in time, these are mostly
+prototypes, but, they're coming.
+
+1139
+01:04:32,570 --> 01:04:37,238
+However, it's the same thing as before. If
+they're under a subscription license
+
+1140
+01:04:37,238 --> 01:04:41,421
+then, all I have is the preservation argument
+not to destroy history.
+
+1141
+01:04:41,421 --> 01:04:43,540
+I'm not sure there's any legal standing.
+
+1142
+01:04:43,540 --> 01:04:47,904
+But if they're under perpetual licenses
+and you BUY the streaming games?
+
+1143
+01:04:47,904 --> 01:04:50,019
+Yep, back to fraud.
+
+1144
+01:04:50,019 --> 01:04:54,822
+That's why we need to challenge this NOW,
+BEFORE this becomes the norm.
+
+1145
+01:04:54,822 --> 01:04:57,967
+And that also means they'll have to release a
+LOT more than this
+
+1146
+01:04:57,967 --> 01:05:02,297
+in order to let customers "repair" their game
+after shutdown.
+
+1147
+01:05:02,297 --> 01:05:05,297
+"You are pushing to enforce laws on games
+as goods"
+
+1148
+01:05:05,297 --> 01:05:08,259
+"but won't that lead to companies declaring
+everything as a service"
+
+1149
+01:05:08,259 --> 01:05:11,146
+"with a subscription fee and getting around
+it that way?"
+
+1150
+01:05:11,146 --> 01:05:12,853
+That IS a risk
+
+1151
+01:05:12,853 --> 01:05:16,807
+but you know what, we've been there before,
+and saw how it turned out.
+
+1152
+01:05:16,807 --> 01:05:22,362
+In the early to mid 2000's, almost every MMO
+game was subscription only.
+
+1153
+01:05:22,362 --> 01:05:24,093
+Well guess what happened?
+
+1154
+01:05:24,093 --> 01:05:27,787
+Almost all of them either failed, or went to
+a different payment model.
+
+1155
+01:05:27,787 --> 01:05:31,184
+Only a FEW survived on subscription fees.
+
+1156
+01:05:32,985 --> 01:05:37,211
+So if every company goes to a subcription
+model, most are going to fail
+
+1157
+01:05:37,211 --> 01:05:41,923
+because gamers aren't going to be eager to
+have five different game bills a month.
+
+1158
+01:05:41,923 --> 01:05:46,591
+I think the economics of this aren't going to
+work out for companies to do this exclusively
+
+1159
+01:05:46,591 --> 01:05:48,018
+and they know it.
+
+1160
+01:05:48,018 --> 01:05:51,014
+That's why Games as a Service exist.
+
+1161
+01:05:51,014 --> 01:05:52,775
+They're pretending to be services
+
+1162
+01:05:52,775 --> 01:05:54,342
+while they're really goods
+
+1163
+01:05:54,342 --> 01:05:57,821
+and they're evading the responsibilities
+of both!
+
+1164
+01:05:57,846 --> 01:06:00,503
+"What about delisted games?"
+
+1165
+01:06:00,503 --> 01:06:05,101
+Delisted games are games you can't buy
+online anymore, or sometimes at all.
+
+1166
+01:06:05,101 --> 01:06:07,265
+I have mixed feelings on those.
+
+1167
+01:06:07,265 --> 01:06:11,567
+On one hand I of course want people to be able
+to play games that they're interested in.
+
+1168
+01:06:11,567 --> 01:06:15,045
+On the other hand I don't think it's reasonable
+to force companies to sell their games
+
+1169
+01:06:15,045 --> 01:06:16,450
+if they don't want to.
+
+1170
+01:06:16,450 --> 01:06:19,138
+There's nothing fraudulent about what
+they're doing, so
+
+1171
+01:06:19,138 --> 01:06:21,750
+all I have is the preservation argument.
+
+1172
+01:06:21,750 --> 01:06:25,262
+And again, this comes back to me wanting to
+stay black and white on this issue
+
+1173
+01:06:25,262 --> 01:06:29,546
+And I am LASER FOCUSED on not killing games.
+
+1174
+01:06:29,546 --> 01:06:33,464
+Maybe once we solve that, I can care more
+about other areas like this.
+
+1175
+01:06:33,464 --> 01:06:35,972
+"What about games that are updated all the
+time"
+
+1176
+01:06:35,972 --> 01:06:39,052
+"so the early version is very different than
+the later version?"
+
+1177
+01:06:39,052 --> 01:06:42,653
+"Isn't it unreasonable for developers to
+preserve each version?"
+
+1178
+01:06:42,653 --> 01:06:45,713
+That COULD take a lot more work, yes.
+
+1179
+01:06:45,713 --> 01:06:48,661
+Which is why I'm willing to compromise on
+this too.
+
+1180
+01:06:48,661 --> 01:06:54,896
+I would consider ANY working verison of the
+game, as adequate compensation for the buyer.
+
+1181
+01:06:54,896 --> 01:06:58,291
+Now of course it'd be nicer to have each
+version available.
+
+1182
+01:06:58,291 --> 01:07:00,952
+But again, I want to leave NO EXCUSES
+
+1183
+01:07:00,952 --> 01:07:04,291
+not to provide customers with a working
+copy of the game.
+
+1184
+01:07:04,291 --> 01:07:09,230
+So if the company can only provide "1.0,"
+and not "3.6," whatever.
+
+1185
+01:07:09,230 --> 01:07:11,462
+ANYTHING, is better than NOTHING.
+
+1186
+01:07:11,462 --> 01:07:14,967
+We're getting WAY TOO MUCH "nothing" right
+now.
+
+1187
+01:07:14,967 --> 01:07:19,037
+"I don't care if old games aren't preserved,
+because I only play new games."
+
+1188
+01:07:19,037 --> 01:07:23,148
+Fine. Then you shouldn't care if laws get
+enforced on the old ones!
+
+1189
+01:07:23,148 --> 01:07:25,668
+Although sometimes, they're not that old!
+
+1190
+01:07:25,668 --> 01:07:27,297
+Anyway, this shouldn't affect you.
+
+1191
+01:07:27,297 --> 01:07:28,605
+You can go back to sleep.
+
+1192
+01:07:29,444 --> 01:07:34,004
+"This guy challenged EA in court on how his
+game should last longer and lost"
+
+1193
+01:07:34,004 --> 01:07:36,653
+"therefore you don't have rights on your
+games."
+
+1194
+01:07:36,653 --> 01:07:40,801
+This case was arguing the multiplayer portion
+of his game should last longer
+
+1195
+01:07:40,801 --> 01:07:45,620
+and it ended up being sent to arbitration,
+which is notorious for siding with businesses
+
+1196
+01:07:45,620 --> 01:07:47,782
+and the records were kept private.
+
+1197
+01:07:47,782 --> 01:07:50,780
+He could have been arguing the case on
+completely different grounds
+
+1198
+01:07:50,780 --> 01:07:53,777
+than what I've been making that wouldn't
+hold up in court.
+
+1199
+01:07:53,777 --> 01:07:58,227
+We don't know what happened, and whatever
+did happen, is not the law of the land.
+
+1200
+01:07:58,227 --> 01:08:02,966
+This is also a perfect example of why legal
+strategy matters.
+
+1201
+01:08:02,966 --> 01:08:06,843
+If you go into the wrong court, with the
+wrong argument, you lose!
+
+1202
+01:08:06,843 --> 01:08:10,864
+"I found a ruling in the UK that says
+perpetual licenses aren't perpetual"
+
+1203
+01:08:10,864 --> 01:08:12,264
+"so you're wrong."
+
+1204
+01:08:12,264 --> 01:08:14,520
+First, this was only in the UK.
+
+1205
+01:08:14,520 --> 01:08:18,674
+Second, the perpetual part was more in
+reference to its usage in the contract
+
+1206
+01:08:18,674 --> 01:08:21,708
+and the fact that it was referring to 10
+years to begin with
+
+1207
+01:08:21,708 --> 01:08:24,915
+means it wasn't a perpetual contract in the
+first place.
+
+1208
+01:08:24,915 --> 01:08:29,670
+So that's just a really odd interpretation
+that may not apply specifically to software.
+
+1209
+01:08:29,670 --> 01:08:34,764
+Third, the European Union High Court ruling
+on perpetual licenses supercedes this one.
+
+1210
+01:08:34,764 --> 01:08:39,732
+Maybe Brexit will shake things up, but even
+then, it will still just be the UK.
+
+1211
+01:08:39,732 --> 01:08:42,487
+"If companies release information about
+their servers"
+
+1212
+01:08:42,487 --> 01:08:46,329
+"this means other games they're hosting with
+the same software could be hacked."
+
+1213
+01:08:46,329 --> 01:08:48,113
+I asked that developer about this
+
+1214
+01:08:48,113 --> 01:08:50,444
+and he said in either of these scenarios
+
+1215
+01:08:50,444 --> 01:08:53,713
+this doesn't give a hacker enough information
+to hack another game
+
+1216
+01:08:53,713 --> 01:08:55,952
+that he couldn't get without it anyway.
+
+1217
+01:08:55,952 --> 01:08:59,489
+But even if he's wrong, I kind of want to
+say "too bad."
+
+1218
+01:08:59,489 --> 01:09:03,924
+At some point, a company should take
+responsibility for its actions.
+
+1219
+01:09:03,924 --> 01:09:06,829
+And that's how I feel about most of these
+counterarguments.
+
+1220
+01:09:06,829 --> 01:09:08,417
+They're excuses.
+
+1221
+01:09:08,417 --> 01:09:13,041
+They're excuses not to do what everybody in
+gaming should know is needed.
+
+1222
+01:09:13,041 --> 01:09:16,154
+This right here, it NOT the end of the world.
+
+1223
+01:09:16,154 --> 01:09:20,289
+Somehow, companies found a way to make
+thousands of games in the past
+
+1224
+01:09:20,289 --> 01:09:22,194
+and NOT destroy them.
+
+1225
+01:09:22,194 --> 01:09:24,910
+It's necessary to go back to that.
+
+1226
+01:09:24,910 --> 01:09:26,414
+And it's cheap!
+
+1227
+01:09:26,414 --> 01:09:30,086
+See, companies are going to fight us all the
+way on this, because, you know
+
+1228
+01:09:30,086 --> 01:09:31,795
+customers are the enemy.
+
+1229
+01:09:31,795 --> 01:09:34,300
+But THIS is what they care about.
+
+1230
+01:09:34,300 --> 01:09:36,579
+THIS is their gravy train.
+
+1231
+01:09:36,579 --> 01:09:40,420
+And preserving games doesn't need to
+interfere with that!
+
+1232
+01:09:40,420 --> 01:09:43,411
+If I could get companies to understand
+ONE THING
+
+1233
+01:09:43,411 --> 01:09:47,401
+it's that THIS is gonna be WAY CHEAPER
+than any litigation.
+
+1234
+01:09:47,401 --> 01:09:51,062
+I don't expect them to GET that message,
+but I wanted to say it.
+
+1235
+01:09:51,062 --> 01:09:56,885
+All I want here is the absolute BARE MINIMUM
+of responsibility, to not kill games.
+
+1236
+01:09:56,885 --> 01:09:58,845
+Just the tiniest bit
+
+1237
+01:09:58,845 --> 01:10:00,699
+my GOD.
+
+1238
+01:10:00,699 --> 01:10:03,327
+And finally we're done!
+
+1239
+01:10:03,327 --> 01:10:04,921
+So what now?
+
+1240
+01:10:04,921 --> 01:10:07,888
+Well, I didn't make this video for my health.
+
+1241
+01:10:07,888 --> 01:10:10,490
+This isn't some TED Talk where I say
+something positive
+
+1242
+01:10:10,490 --> 01:10:12,867
+and then everybody acts like the problem's
+solved.
+
+1243
+01:10:12,867 --> 01:10:15,960
+No, I made this to actually get something
+done.
+
+1244
+01:10:15,960 --> 01:10:20,243
+At this point, I've taken things as far as
+I can on my own
+
+1245
+01:10:20,243 --> 01:10:24,864
+so this video is an SOS for HELP, to take
+things further.
+
+1246
+01:10:24,864 --> 01:10:28,327
+If you think you can help with ending this
+practice, let me know.
+
+1247
+01:10:28,327 --> 01:10:29,793
+Here's my email.
+
+1248
+01:10:29,793 --> 01:10:33,248
+I probably need people like lawyers, or law
+students
+
+1249
+01:10:33,248 --> 01:10:36,691
+especially in consumer law, activist
+organizers,
+
+1250
+01:10:36,691 --> 01:10:39,252
+or anyone with connections to organizations
+
+1251
+01:10:39,252 --> 01:10:42,000
+that could actually get the ball rolling
+on this.
+
+1252
+01:10:42,000 --> 01:10:45,915
+Here, I made cheat sheets of all the
+important stuff I discussed in the video.
+
+1253
+01:10:45,915 --> 01:10:50,510
+I'll make this, and key information you might
+want available as a download link also.
+
+1254
+01:10:50,510 --> 01:10:53,472
+I think there might be some meat on some of
+the legal precedents
+
+1255
+01:10:53,472 --> 01:10:56,090
+but we need them to be examined and ruled on.
+
+1256
+01:10:56,090 --> 01:10:59,703
+Here's a few more ideas I had about possible
+places to start.
+
+1257
+01:10:59,703 --> 01:11:04,431
+And the thing to realize is, we don't need
+to win all battles to win the war.
+
+1258
+01:11:04,431 --> 01:11:07,729
+Say we can't make any progress at all in
+the United States
+
+1259
+01:11:07,729 --> 01:11:11,154
+but we can in the European Union, and
+Australia.
+
+1260
+01:11:11,154 --> 01:11:14,952
+Well that could be enough to make companies
+add end of life plans globally
+
+1261
+01:11:14,952 --> 01:11:18,617
+because then that will be cheaper than
+facing fines or lawsuits.
+
+1262
+01:11:18,617 --> 01:11:21,185
+Anyway, I don't know what to do with this
+information
+
+1263
+01:11:21,185 --> 01:11:24,960
+who to contact, what the procedure is, I'm
+a layman.
+
+1264
+01:11:24,960 --> 01:11:28,010
+It's a miracle I was able to put this
+together as it is.
+
+1265
+01:11:28,010 --> 01:11:31,502
+My most valuable function in all this, is as
+a mascot
+
+1266
+01:11:31,502 --> 01:11:34,045
+to get people fired up in the right
+direction.
+
+1267
+01:11:34,045 --> 01:11:36,499
+Yeah, like that! That could be me!
+
+1268
+01:11:38,093 --> 01:11:40,770
+Somebody else needs to figure out how to
+use this.
+
+1269
+01:11:40,770 --> 01:11:45,031
+Maybe an agency says they could help, but
+they need enough public interest first.
+
+1270
+01:11:45,031 --> 01:11:48,267
+Well then I'll be right back up here
+telling everybody to contact them.
+
+1271
+01:11:48,267 --> 01:11:51,127
+Or, maybe all that's needed is some legal
+person
+
+1272
+01:11:51,127 --> 01:11:54,091
+submitting the right documents to the right
+offices.
+
+1273
+01:11:54,091 --> 01:11:56,204
+I'm trying to pull people out of the ether
+
+1274
+01:11:56,204 --> 01:11:59,922
+who have more of a clue how to push this
+forward than I do.
+
+1275
+01:11:59,922 --> 01:12:03,950
+I said at the beginning that I'm declaring
+war on Games as a Service.
+
+1276
+01:12:03,950 --> 01:12:06,579
+That's true but this is retaliatory.
+
+1277
+01:12:06,579 --> 01:12:09,986
+The games industry itself has declared a
+war on ownership
+
+1278
+01:12:09,986 --> 01:12:12,360
+against the consumer for years now.
+
+1279
+01:12:12,360 --> 01:12:13,805
+And they're winning.
+
+1280
+01:12:13,805 --> 01:12:17,782
+We're seeing the industry act with UTTER
+IMPUNITY on this.
+
+1281
+01:12:17,782 --> 01:12:21,314
+At the time of this video, a new era is
+starting.
+
+1282
+01:12:21,314 --> 01:12:25,497
+Stadia has been announced with
+streaming-only exclusive games
+
+1283
+01:12:25,497 --> 01:12:29,014
+meaning you'll never be able to preserve
+those, it's impossible.
+
+1284
+01:12:29,014 --> 01:12:31,830
+Not even that 0.1% chance.
+
+1285
+01:12:31,830 --> 01:12:33,298
+And they're not alone.
+
+1286
+01:12:33,298 --> 01:12:38,728
+So many companies are tripping over themselves
+to do streaming games just like that.
+
+1287
+01:12:38,728 --> 01:12:44,037
+The games industry is SO EAGER to take away
+the concept of consumer ownership.
+
+1288
+01:12:44,037 --> 01:12:46,747
+And that means these games are going to
+get destroyed.
+
+1289
+01:12:46,747 --> 01:12:49,797
+This is like something out of a science
+fiction story to me
+
+1290
+01:12:49,797 --> 01:12:51,582
+and yet, here we are!
+
+1291
+01:12:51,582 --> 01:12:54,704
+Now I'm as cynical a person as you're going
+to find on this topic
+
+1292
+01:12:54,704 --> 01:12:57,967
+and even I am seeing a chance to change this.
+
+1293
+01:12:57,967 --> 01:13:01,386
+The law could be our ally on this, we don't
+know.
+
+1294
+01:13:01,386 --> 01:13:05,699
+The problem is, the law has been UTTERLY
+ASLEEP at the WHEEL
+
+1295
+01:13:05,699 --> 01:13:07,541
+regarding the games industry
+
+1296
+01:13:07,541 --> 01:13:10,333
+so we have to wake the law up.
+
+1297
+01:13:10,333 --> 01:13:13,186
+We're gonna lose for sure if it keeps on
+sleeping.
+
+1298
+01:13:13,186 --> 01:13:18,237
+Even if it's against us, there is NO
+DOWNSIDE to getting the law involved.
+
+1299
+01:13:18,237 --> 01:13:21,012
+The situation has gotten THAT BAD.
+
+1300
+01:13:21,012 --> 01:13:21,777
+Because of that
+
+1301
+01:13:21,777 --> 01:13:26,107
+I'm only interested in plans where the end
+game is some sort of legal process.
+
+1302
+01:13:26,107 --> 01:13:28,139
+I think that's our only chance.
+
+1303
+01:13:28,139 --> 01:13:31,994
+I don't think...changing consumer habits
+will work.
+
+1304
+01:13:31,994 --> 01:13:35,300
+In fact I saw a quote before that said
+something like
+
+1305
+01:13:35,300 --> 01:13:39,504
+"Anytime someone says the solution to a
+problem is to 'vote with your wallet'"
+
+1306
+01:13:39,504 --> 01:13:41,790
+"I know that cause is doomed."
+
+1307
+01:13:41,790 --> 01:13:44,936
+That really reflects my own views as well.
+
+1308
+01:13:44,936 --> 01:13:47,422
+I think legislation COULD work
+
+1309
+01:13:47,422 --> 01:13:50,295
+but, I also see that as almost impossible.
+
+1310
+01:13:50,295 --> 01:13:51,918
+I have no power.
+
+1311
+01:13:51,918 --> 01:13:56,496
+If I was a multi-millionaire and could hire
+lobbyists to push this through Congress
+
+1312
+01:13:56,496 --> 01:13:58,024
+yeah that could work.
+
+1313
+01:13:58,024 --> 01:13:59,529
+But, that's not me.
+
+1314
+01:14:00,223 --> 01:14:04,479
+But getting judges SOMEWHERE to interpret
+EXISTING laws?
+
+1315
+01:14:04,479 --> 01:14:07,046
+That at least seems possible.
+
+1316
+01:14:07,046 --> 01:14:11,044
+I care about games not being killed, but
+I'm not gonna fight this forever
+
+1317
+01:14:11,044 --> 01:14:13,160
+there are other things I'd rather be doing.
+
+1318
+01:14:13,160 --> 01:14:15,526
+But I either need this practice to stop
+
+1319
+01:14:15,526 --> 01:14:18,179
+or else I need to be DEFEATED.
+
+1320
+01:14:18,179 --> 01:14:20,146
+I need to have high courts come down
+
+1321
+01:14:20,146 --> 01:14:24,702
+and say games will NEVER be protected,
+before I can give this up.
+
+1322
+01:14:24,702 --> 01:14:28,898
+This is just "Phase One". Informing people
+and the SOS for help.
+
+1323
+01:14:28,898 --> 01:14:31,630
+"Phase Two" is to wake the law up.
+
+1324
+01:14:31,630 --> 01:14:34,149
+We need knowledgable people for that part.
+
+1325
+01:14:34,149 --> 01:14:37,692
+Now if you want to help, but don't have any
+particular knowledge on this
+
+1326
+01:14:37,692 --> 01:14:39,431
+well then you're in the same boat I am.
+
+1327
+01:14:39,431 --> 01:14:42,278
+We're just gonna have to wait and see who
+reaches out.
+
+1328
+01:14:42,278 --> 01:14:45,365
+Believe me, I'll let you know if we need
+your help.
+
+1329
+01:14:45,365 --> 01:14:47,504
+In the meantime, the only advice I have
+
+1330
+01:14:47,504 --> 01:14:50,749
+is making noise on this certainly won't
+hurt.
+
+1331
+01:14:50,749 --> 01:14:54,897
+Just getting gamers to understand that they
+legally DO own their games
+
+1332
+01:14:54,897 --> 01:14:56,522
+isn't a bad start.
+
+1333
+01:14:56,522 --> 01:14:59,450
+I'm still impressed by that post explaining
+it.
+
+1334
+01:14:59,450 --> 01:15:02,806
+And you're welcome to use my chart. It's
+nice and simple.
+
+1335
+01:15:02,806 --> 01:15:06,651
+In fact you can take anything I've said in
+this video, and use it however you want.
+
+1336
+01:15:06,651 --> 01:15:07,759
+That's fine.
+
+1337
+01:15:07,759 --> 01:15:10,484
+Maybe more noise will help, maybe it won't
+matter
+
+1338
+01:15:10,484 --> 01:15:14,780
+that's large scale zeitgeist manipulating
+stuff, I don't know how to do that.
+
+1339
+01:15:14,780 --> 01:15:17,796
+I'm single issue here. Stop killing games.
+
+1340
+01:15:17,796 --> 01:15:18,845
+Stop it.
+
+1341
+01:15:18,845 --> 01:15:19,718
+["STOP IT!"]
+
+1342
+01:15:19,718 --> 01:15:20,718
+Stop it.
+
+1343
+01:15:20,718 --> 01:15:23,152
+["STOP IT!"]
+
+1344
+01:15:23,152 --> 01:15:24,252
+Stop it.
+
+1345
+01:15:24,252 --> 01:15:27,955
+["STOP IT!"]
+
+1346
+01:15:28,155 --> 01:15:30,055
+[music]
+
+1347
+01:15:30,055 --> 01:15:36,055
+[Subtitles by Generic-User, quality control
+editing courtesy of danielsangeo]
+
+1348
+01:15:48,805 --> 01:15:50,132
+["This needs to stop!"]
+

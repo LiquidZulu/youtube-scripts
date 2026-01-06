@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "indicate republicans",
+      "targetTime": 3.1575562700964634
+    },
+    {
+      "name": "indicate dems",
+      "targetTime": 5.81993569131833
+    },
+    {
+      "name": "lp runs",
+      "targetTime": 9.508038585209004
+    },
+    {
+      "name": "indicate LP",
+      "targetTime": 12.97734029129375
+    }
+  ],
+  "seed": 2096823236
+}

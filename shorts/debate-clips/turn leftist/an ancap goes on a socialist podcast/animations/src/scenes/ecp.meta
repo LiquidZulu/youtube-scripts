@@ -11,651 +11,1827 @@
     },
     {
       "name": "thesis | 0",
-      "targetTime": 0.27474990041801317
+      "targetTime": 0.1
     },
     {
       "name": "of | 0",
-      "targetTime": 0.37474990041801315
-    },
-    {
-      "name": "that | 0",
-      "targetTime": 0.6640622925375277
+      "targetTime": 0.5321920992677383
     },
     {
       "name": "video",
       "targetTime": 0.6569521424113024
     },
     {
+      "name": "that | 0",
+      "targetTime": 0.6321920992677382
+    },
+    {
       "name": "video | 0",
-      "targetTime": 0.8662017448936294
+      "targetTime": 0.83433155162384
     },
     {
       "name": "is | 0",
-      "targetTime": 1.129390924892696
+      "targetTime": 1.0975207316229065
     },
     {
       "name": "End mkSubtitles for prefix: no prefix specified",
-      "targetTime": 1.2293909248926962
+      "targetTime": 1.1975207316229066
     },
     {
       "name": "wipe out",
-      "targetTime": 3.778187446959346
+      "targetTime": 3.484590042117676
+    },
+    {
+      "name": "wipe in",
+      "targetTime": 51.18599402669043
     },
     {
       "name": "​It | 0",
-      "targetTime": 3.9148606014412315
+      "targetTime": 3.558704168106173
     },
     {
       "name": "​is | 0",
-      "targetTime": 4.014860601441232
+      "targetTime": 3.658704168106173
     },
     {
       "name": "​the | 0",
-      "targetTime": 4.592604291329902
+      "targetTime": 4.236447857994844
     },
     {
       "name": "​idea | 0",
-      "targetTime": 4.692604291329902
+      "targetTime": 4.336447857994844
     },
     {
       "name": "​that | 0",
-      "targetTime": 4.948770461684351
+      "targetTime": 4.592614028349293
     },
     {
       "name": "​you | 0",
-      "targetTime": 5.383893628801192
+      "targetTime": 5.027737195466134
     },
     {
       "name": "​can't | 0",
-      "targetTime": 5.483893628801192
+      "targetTime": 5.127737195466134
     },
     {
       "name": "​have | 1",
-      "targetTime": 5.662957381399274
+      "targetTime": 5.306800948064216
     },
     {
       "name": "​a | 1",
-      "targetTime": 5.9961954515636195
+      "targetTime": 5.640039018228562
     },
     {
       "name": "​socialist | 1",
-      "targetTime": 6.096195451563619
+      "targetTime": 5.740039018228561
     },
     {
       "name": "​economy | 1",
-      "targetTime": 6.760183553429946
+      "targetTime": 6.404027120094888
     },
     {
       "name": "​'cause | 1",
-      "targetTime": 7.548038201033269
+      "targetTime": 7.191881767698211
     },
     {
       "name": "​under | 2",
-      "targetTime": 7.648038201033269
+      "targetTime": 7.768415481523787
     },
     {
       "name": "​socialism | 2",
-      "targetTime": 7.7480382010332685
+      "targetTime": 7.868415481523787
     },
     {
       "name": "​you | 3",
-      "targetTime": 8.248038201033268
+      "targetTime": 8.490836625919734
     },
     {
       "name": "​can't | 3",
-      "targetTime": 8.348038201033267
+      "targetTime": 8.590836625919733
     },
     {
       "name": "​economise, | 3",
-      "targetTime": 8.448038201033267
+      "targetTime": 8.851968036009872
     },
     {
       "name": "​because | 4",
-      "targetTime": 8.548038201033267
+      "targetTime": 9.675156254524666
     },
     {
       "name": "​you | 4",
-      "targetTime": 8.648038201033266
+      "targetTime": 9.962705879490368
     },
     {
       "name": "​don't | 4",
-      "targetTime": 8.748038201033266
+      "targetTime": 10.095954025467286
     },
     {
       "name": "​know | 4",
-      "targetTime": 8.848038201033265
+      "targetTime": 10.27828276788632
     },
     {
       "name": "​which | 4",
-      "targetTime": 8.948038201033265
+      "targetTime": 10.729763168213744
     },
     {
       "name": "​line | 5",
-      "targetTime": 9.048038201033265
+      "targetTime": 10.829763168213743
     },
     {
       "name": "​of | 5",
-      "targetTime": 9.148038201033264
+      "targetTime": 11.046923301656218
     },
     {
       "name": "​production | 5",
-      "targetTime": 9.248038201033264
+      "targetTime": 11.146923301656217
     },
     {
       "name": "​is | 6",
-      "targetTime": 10.34803820103326
+      "targetTime": 11.477466209047533
     },
     {
       "name": "​gonna | 6",
-      "targetTime": 10.44803820103326
+      "targetTime": 11.577466209047532
     },
     {
       "name": "​be | 6",
-      "targetTime": 10.54803820103326
+      "targetTime": 11.677466209047532
     },
     {
       "name": "​best— | 6",
-      "targetTime": 10.648038201033259
+      "targetTime": 11.777466209047532
     },
     {
       "name": "​you | 7",
-      "targetTime": 10.648038201033259
+      "targetTime": 12.474349591585542
     },
     {
       "name": "​can't | 7",
-      "targetTime": 10.848038201033258
+      "targetTime": 12.574349591585541
     },
     {
       "name": "​arrange | 7",
-      "targetTime": 10.948038201033258
+      "targetTime": 12.67434959158554
     },
     {
       "name": "​the | 7",
-      "targetTime": 10.34803820103326
+      "targetTime": 13.071102374847142
     },
     {
       "name": "​factors, | 7",
-      "targetTime": 11.148038201033257
+      "targetTime": 13.171102374847141
     },
     {
       "name": "​so, | 7",
-      "targetTime": 11.248038201033257
+      "targetTime": 14.106848953763368
     },
     {
       "name": "​the | 8",
-      "targetTime": 11.348038201033257
+      "targetTime": 14.887728754477866
     },
     {
       "name": "​reason | 8",
-      "targetTime": 11.448038201033256
+      "targetTime": 14.987728754477866
     },
     {
       "name": "​for | 8",
-      "targetTime": 11.548038201033256
+      "targetTime": 15.612406718557862
     },
     {
       "name": "​this | 8",
-      "targetTime": 11.648038201033255
+      "targetTime": 15.911330425041116
     },
     {
       "name": "​is | 8",
-      "targetTime": 11.748038201033255
+      "targetTime": 16.119470158095773
     },
     {
       "name": "​because | 8",
-      "targetTime": 11.848038201033255
+      "targetTime": 16.219470158095774
     },
     {
       "name": "​if | 9",
-      "targetTime": 11.948038201033254
+      "targetTime": 16.884199875158977
     },
     {
       "name": "​you | 9",
-      "targetTime": 12.048038201033254
+      "targetTime": 16.98419987515898
     },
     {
       "name": "​have | 9",
-      "targetTime": 12.148038201033254
+      "targetTime": 17.140272329335467
     },
     {
       "name": "​no | 9",
-      "targetTime": 11.448038201033256
+      "targetTime": 17.907801545722233
     },
     {
       "name": "​private | 9",
-      "targetTime": 11.548038201033256
+      "targetTime": 18.420334601449255
     },
     {
       "name": "​property, | 9",
-      "targetTime": 12.448038201033253
+      "targetTime": 18.769990528377907
     },
     {
       "name": "​no | 10",
-      "targetTime": 11.848038201033255
+      "targetTime": 19.23045630522676
     },
     {
       "name": "​private | 10",
-      "targetTime": 11.948038201033254
+      "targetTime": 19.927227424676527
     },
     {
       "name": "​direction, | 10",
-      "targetTime": 12.748038201033252
+      "targetTime": 20.128617430619872
     },
     {
       "name": "​no | 11",
-      "targetTime": 12.848038201033251
+      "targetTime": 20.490671599827284
     },
     {
       "name": "​private | 11",
-      "targetTime": 12.94803820103325
+      "targetTime": 20.771613764280023
     },
     {
       "name": "​control, | 11",
-      "targetTime": 13.04803820103325
+      "targetTime": 20.955845461525264
     },
     {
       "name": "​of | 12",
-      "targetTime": 12.94803820103325
+      "targetTime": 22.002672132411565
     },
     {
       "name": "​factors | 12",
-      "targetTime": 13.24803820103325
+      "targetTime": 22.61586154710941
     },
     {
       "name": "​of | 12-6385",
-      "targetTime": 13.34803820103325
+      "targetTime": 22.85624770918481
     },
     {
       "name": "​production, | 12",
-      "targetTime": 13.04803820103325
+      "targetTime": 22.95624770918481
     },
     {
       "name": "​or | 13",
-      "targetTime": 13.548038201033249
+      "targetTime": 23.312062493411094
     },
     {
       "name": "​means | 13",
-      "targetTime": 13.648038201033248
+      "targetTime": 23.412062493411096
     },
     {
       "name": "​of | 13",
-      "targetTime": 13.748038201033248
+      "targetTime": 23.650888809241213
     },
     {
       "name": "​production, | 13",
-      "targetTime": 13.848038201033248
+      "targetTime": 23.750888809241214
     },
     {
       "name": "​whatever | 14",
-      "targetTime": 13.948038201033247
+      "targetTime": 24.13010128714673
     },
     {
       "name": "​you | 14",
-      "targetTime": 13.748038201033248
+      "targetTime": 24.437560837769265
     },
     {
       "name": "​wanna | 14",
-      "targetTime": 14.148038201033247
+      "targetTime": 24.537560837769266
     },
     {
       "name": "​call | 14",
-      "targetTime": 14.248038201033246
+      "targetTime": 24.637560837769268
     },
     {
       "name": "​them, | 14",
-      "targetTime": 13.748038201033248
+      "targetTime": 24.73756083776927
     },
     {
       "name": "​then | 15",
-      "targetTime": 14.448038201033246
+      "targetTime": 24.934271304976768
     },
     {
       "name": "​you | 15",
-      "targetTime": 14.548038201033245
+      "targetTime": 25.12474238720314
     },
     {
       "name": "​are | 15",
-      "targetTime": 14.648038201033245
+      "targetTime": 25.22474238720314
     },
     {
       "name": "​not | 15",
-      "targetTime": 14.748038201033244
+      "targetTime": 25.32474238720314
     },
     {
       "name": "​allowed | 15",
-      "targetTime": 14.848038201033244
+      "targetTime": 25.424742387203143
     },
     {
       "name": "​to | 16",
-      "targetTime": 14.948038201033244
+      "targetTime": 25.696325474184185
     },
     {
       "name": "​trade | 16",
-      "targetTime": 15.048038201033243
+      "targetTime": 25.796325474184187
     },
     {
       "name": "​them, | 16",
-      "targetTime": 15.148038201033243
+      "targetTime": 25.896325474184188
     },
     {
       "name": "​of | 16",
-      "targetTime": 15.248038201033243
+      "targetTime": 26.195985793580313
     },
     {
       "name": "​course, | 16",
-      "targetTime": 15.348038201033242
+      "targetTime": 26.295985793580314
     },
     {
       "name": "​'cause | 17",
-      "targetTime": 15.448038201033242
+      "targetTime": 27.87457476299961
     },
     {
       "name": "​it's | 17",
-      "targetTime": 15.548038201033242
+      "targetTime": 28.637458945262757
     },
     {
       "name": "​gonna | 17",
-      "targetTime": 15.648038201033241
+      "targetTime": 28.73745894526276
     },
     {
       "name": "​be | 17",
-      "targetTime": 15.748038201033241
+      "targetTime": 28.83745894526276
     },
     {
       "name": "​a | 17",
-      "targetTime": 15.348038201033242
+      "targetTime": 28.93745894526276
     },
     {
       "name": "​single | 17",
-      "targetTime": 15.94803820103324
+      "targetTime": 29.037458945262763
     },
     {
       "name": "​guy | 17",
-      "targetTime": 16.04803820103324
+      "targetTime": 29.414807609094257
     },
     {
       "name": "​deciding | 18",
-      "targetTime": 16.14803820103324
+      "targetTime": 29.768818404992217
     },
     {
       "name": "​where | 18",
-      "targetTime": 16.248038201033243
+      "targetTime": 30.14447917356
     },
     {
       "name": "​it | 18",
-      "targetTime": 15.94803820103324
+      "targetTime": 30.244479173560002
     },
     {
       "name": "​all | 18",
-      "targetTime": 16.448038201033246
+      "targetTime": 30.344479173560003
     },
     {
       "name": "​goes, | 18",
-      "targetTime": 16.548038201033247
+      "targetTime": 30.444479173560005
     },
     {
       "name": "​or | 19",
-      "targetTime": 16.348038201033244
+      "targetTime": 31.212426420474248
     },
     {
       "name": "​a | 19",
-      "targetTime": 16.14803820103324
+      "targetTime": 31.583375039151985
     },
     {
       "name": "​group | 19",
-      "targetTime": 16.84803820103325
+      "targetTime": 31.683375039151986
     },
     {
       "name": "​of | 19",
-      "targetTime": 16.948038201033253
+      "targetTime": 31.86583766222782
     },
     {
       "name": "​guys, | 19",
-      "targetTime": 17.048038201033254
+      "targetTime": 31.96583766222782
     },
     {
       "name": "​or | 20",
-      "targetTime": 17.148038201033255
+      "targetTime": 32.17657318464394
     },
     {
       "name": "​whatever | 20",
-      "targetTime": 17.248038201033257
+      "targetTime": 32.276573184643944
     },
     {
       "name": "​it | 20",
-      "targetTime": 17.34803820103326
+      "targetTime": 32.50497926914774
     },
     {
       "name": "​is— | 20",
-      "targetTime": 17.44803820103326
+      "targetTime": 32.60497926914774
     },
     {
       "name": "​a | 21",
-      "targetTime": 17.54803820103326
+      "targetTime": 33.16441388342738
     },
     {
       "name": "​single | 21",
-      "targetTime": 17.648038201033263
+      "targetTime": 33.26441388342738
     },
     {
       "name": "​will, | 21",
-      "targetTime": 17.748038201033264
+      "targetTime": 33.36441388342738
     },
     {
       "name": "​so | 22",
-      "targetTime": 17.848038201033265
+      "targetTime": 33.85081017441128
     },
     {
       "name": "​you're | 22",
-      "targetTime": 17.948038201033267
+      "targetTime": 33.95081017441128
     },
     {
       "name": "​not | 22",
-      "targetTime": 18.04803820103327
+      "targetTime": 34.13798494737716
     },
     {
       "name": "​trading | 22",
-      "targetTime": 18.14803820103327
+      "targetTime": 34.406444305946366
     },
     {
       "name": "​them | 22",
-      "targetTime": 18.24803820103327
+      "targetTime": 34.77150273726154
     },
     {
       "name": "​which | 23",
-      "targetTime": 18.04803820103327
+      "targetTime": 35.07294714506108
     },
     {
       "name": "​means | 23",
-      "targetTime": 18.14803820103327
+      "targetTime": 35.23891724352175
     },
     {
       "name": "​you | 23",
-      "targetTime": 18.348038201033273
+      "targetTime": 35.39192892978478
     },
     {
       "name": "​can't | 23",
-      "targetTime": 18.448038201033274
+      "targetTime": 35.491928929784784
     },
     {
       "name": "​get | 23",
-      "targetTime": 18.74803820103328
+      "targetTime": 35.66378921560801
     },
     {
       "name": "​prices | 23",
-      "targetTime": 18.84803820103328
+      "targetTime": 35.84271772626631
     },
     {
       "name": "​for | 24",
-      "targetTime": 18.94803820103328
+      "targetTime": 36.291416818129825
     },
     {
       "name": "​the | 24",
-      "targetTime": 19.048038201033282
+      "targetTime": 36.39141681812983
     },
     {
       "name": "​factors | 24",
-      "targetTime": 19.148038201033284
+      "targetTime": 36.49141681812983
     },
     {
       "name": "​of | 24",
-      "targetTime": 19.248038201033285
+      "targetTime": 36.84940702460993
     },
     {
       "name": "​production | 24",
-      "targetTime": 19.348038201033287
+      "targetTime": 36.94940702460993
     },
     {
       "name": "​which | 25",
-      "targetTime": 19.448038201033288
+      "targetTime": 38.141447761628456
     },
     {
       "name": "​means | 25",
-      "targetTime": 19.54803820103329
+      "targetTime": 38.32995546053994
     },
     {
       "name": "​that | 25",
-      "targetTime": 19.64803820103329
+      "targetTime": 38.66109953373027
     },
     {
       "name": "​you | 25",
-      "targetTime": 18.84803820103328
+      "targetTime": 39.12537088958086
     },
     {
       "name": "​can't | 25",
-      "targetTime": 18.94803820103328
+      "targetTime": 39.22537088958086
     },
     {
       "name": "​perform | 26",
-      "targetTime": 19.948038201033295
+      "targetTime": 39.45581110382763
     },
     {
       "name": "​economic | 26",
-      "targetTime": 20.048038201033297
+      "targetTime": 39.73196113674207
     },
     {
       "name": "​calculation— | 26",
-      "targetTime": 20.148038201033298
+      "targetTime": 40.11848365863455
     },
     {
       "name": "​you | 27",
-      "targetTime": 20.2480382010333
+      "targetTime": 40.78372458703722
     },
     {
       "name": "​can't | 27",
-      "targetTime": 20.3480382010333
+      "targetTime": 40.88372458703722
     },
     {
       "name": "​compare | 27",
-      "targetTime": 20.448038201033302
+      "targetTime": 41.2211926693839
     },
     {
       "name": "​how | 28",
-      "targetTime": 20.648038201033305
+      "targetTime": 41.74673576818781
     },
     {
       "name": "​much | 28",
-      "targetTime": 20.748038201033307
+      "targetTime": 41.84673576818781
     },
     {
       "name": "​it | 28",
-      "targetTime": 20.848038201033308
+      "targetTime": 41.946735768187814
     },
     {
       "name": "​costs | 28",
-      "targetTime": 20.94803820103331
+      "targetTime": 42.046735768187816
     },
     {
       "name": "​to | 29",
-      "targetTime": 21.04803820103331
+      "targetTime": 42.563698504327064
     },
     {
       "name": "​make | 29",
-      "targetTime": 21.148038201033312
+      "targetTime": 42.663698504327066
     },
     {
       "name": "​a | 29",
-      "targetTime": 21.248038201033314
+      "targetTime": 43.20407358661317
     },
     {
       "name": "​widget | 29",
-      "targetTime": 21.348038201033315
+      "targetTime": 43.30407358661317
     },
     {
       "name": "​vs | 29",
-      "targetTime": 21.448038201033317
+      "targetTime": 44.10086960288865
     },
     {
       "name": "​how | 30",
-      "targetTime": 21.548038201033318
+      "targetTime": 44.38482375118538
     },
     {
       "name": "​much | 30",
-      "targetTime": 21.64803820103332
+      "targetTime": 44.48482375118538
     },
     {
       "name": "​you're | 30",
-      "targetTime": 21.74803820103332
+      "targetTime": 44.67066902039052
     },
     {
       "name": "​getting | 30",
-      "targetTime": 21.848038201033322
+      "targetTime": 44.81080447092799
     },
     {
       "name": "​out | 30",
-      "targetTime": 21.948038201033324
+      "targetTime": 44.91080447092799
     },
     {
       "name": "​of | 30",
-      "targetTime": 22.048038201033325
+      "targetTime": 45.010804470927994
     },
     {
       "name": "​it— | 30",
-      "targetTime": 22.148038201033327
+      "targetTime": 45.110804470927995
     },
     {
       "name": "​so | 31",
-      "targetTime": 22.248038201033328
+      "targetTime": 46.247636943145906
     },
     {
       "name": "​without | 31",
-      "targetTime": 22.34803820103333
+      "targetTime": 46.69436264084459
     },
     {
       "name": "​economic | 31",
-      "targetTime": 22.44803820103333
+      "targetTime": 46.91922848696115
     },
     {
       "name": "​calculation | 31",
-      "targetTime": 22.548038201033332
+      "targetTime": 47.36037981652963
     },
     {
       "name": "​there | 32",
-      "targetTime": 22.648038201033334
+      "targetTime": 47.79818652521998
     },
     {
       "name": "​is | 32",
-      "targetTime": 22.748038201033335
+      "targetTime": 47.898186525219984
     },
     {
       "name": "​nothing | 32",
-      "targetTime": 22.848038201033336
+      "targetTime": 47.998186525219985
     },
     {
       "name": "​you | 32",
-      "targetTime": 22.948038201033338
+      "targetTime": 48.168423563660554
     },
     {
       "name": "​can | 32",
-      "targetTime": 23.04803820103334
+      "targetTime": 48.268423563660555
     },
     {
       "name": "​do, | 32",
-      "targetTime": 23.14803820103334
+      "targetTime": 48.368423563660556
+    },
+    {
+      "name": "​I | 33",
+      "targetTime": 48.46842356366056
+    },
+    {
+      "name": "​mean, | 33",
+      "targetTime": 48.56842356366056
+    },
+    {
+      "name": "​could | 33",
+      "targetTime": 48.85712125826455
+    },
+    {
+      "name": "​you | 33",
+      "targetTime": 48.95712125826455
+    },
+    {
+      "name": "​conceive | 33",
+      "targetTime": 49.31199136477701
+    },
+    {
+      "name": "​of | 33",
+      "targetTime": 49.547129712149875
+    },
+    {
+      "name": "​a | 34",
+      "targetTime": 49.64712971214988
+    },
+    {
+      "name": "​system | 34",
+      "targetTime": 49.74712971214988
+    },
+    {
+      "name": "​where | 34",
+      "targetTime": 50.13092024163289
+    },
+    {
+      "name": "​it | 34",
+      "targetTime": 50.58168322708898
+    },
+    {
+      "name": "​is | 34",
+      "targetTime": 50.68168322708898
+    },
+    {
+      "name": "​someone's | 34",
+      "targetTime": 50.78168322708898
+    },
+    {
+      "name": "​job | 34",
+      "targetTime": 51.239305739961836
+    },
+    {
+      "name": "indicate goods",
+      "targetTime": 53.1590932913116
     },
     {
       "name": "End mkSubtitles for prefix: ​",
-      "targetTime": 21.74803820103332
+      "targetTime": 51.765139103971755
+    },
+    {
+      "name": "rarity",
+      "targetTime": 56.563433150404556
+    },
+    {
+      "name": "wipe out again",
+      "targetTime": 57.54759620800152
+    },
+    {
+      "name": "​​that | 0",
+      "targetTime": 58.36601418032129
+    },
+    {
+      "name": "​​would | 0",
+      "targetTime": 58.46601418032129
+    },
+    {
+      "name": "​​be | 0",
+      "targetTime": 58.56601418032129
+    },
+    {
+      "name": "​​similar | 0",
+      "targetTime": 58.66601418032129
+    },
+    {
+      "name": "​​to | 1",
+      "targetTime": 59.07633677220601
+    },
+    {
+      "name": "​​a | 1",
+      "targetTime": 59.176336772206014
+    },
+    {
+      "name": "​​price | 1",
+      "targetTime": 59.276336772206015
+    },
+    {
+      "name": "​​but | 1",
+      "targetTime": 59.65399382810287
+    },
+    {
+      "name": "​​it's | 1",
+      "targetTime": 60.13944715275968
+    },
+    {
+      "name": "​​not | 1",
+      "targetTime": 60.23944715275968
+    },
+    {
+      "name": "​​actually | 2",
+      "targetTime": 60.33944715275968
+    },
+    {
+      "name": "​​like | 2",
+      "targetTime": 60.6703187952563
+    },
+    {
+      "name": "​​a | 2",
+      "targetTime": 60.87064521581766
+    },
+    {
+      "name": "​​price, | 2",
+      "targetTime": 60.9996552651366
+    },
+    {
+      "name": "​​it's | 3",
+      "targetTime": 61.251958024061075
+    },
+    {
+      "name": "​​for | 3",
+      "targetTime": 61.681947335064095
+    },
+    {
+      "name": "​​internal | 3",
+      "targetTime": 61.87502124329572
+    },
+    {
+      "name": "​​use | 3",
+      "targetTime": 62.369074413211415
+    },
+    {
+      "name": "​​only— | 3",
+      "targetTime": 62.72014509486968
+    },
+    {
+      "name": "​​the | 4",
+      "targetTime": 63.0302609844844
+    },
+    {
+      "name": "​​same | 4",
+      "targetTime": 63.1302609844844
+    },
+    {
+      "name": "​​way | 4",
+      "targetTime": 63.472428450481026
+    },
+    {
+      "name": "​​like | 4",
+      "targetTime": 63.66502189336209
+    },
+    {
+      "name": "​​a | 4",
+      "targetTime": 63.843370191184526
+    },
+    {
+      "name": "​​business | 4",
+      "targetTime": 63.95583469311082
+    },
+    {
+      "name": "​​would | 5",
+      "targetTime": 64.38881495885619
+    },
+    {
+      "name": "​​do | 5",
+      "targetTime": 64.48881495885618
+    },
+    {
+      "name": "​​some | 5",
+      "targetTime": 64.58881495885618
+    },
+    {
+      "name": "​​kind | 5",
+      "targetTime": 64.84053477618504
+    },
+    {
+      "name": "​​of | 5",
+      "targetTime": 64.94053477618503
+    },
+    {
+      "name": "​​like | 5",
+      "targetTime": 65.10918627723882
+    },
+    {
+      "name": "​​internal | 6",
+      "targetTime": 66.21535425028455
+    },
+    {
+      "name": "​​calculations | 6",
+      "targetTime": 66.54728887599816
+    },
+    {
+      "name": "​​that | 6",
+      "targetTime": 67.12224537933739
+    },
+    {
+      "name": "​​way | 6",
+      "targetTime": 67.22224537933738
+    },
+    {
+      "name": "​​but | 7",
+      "targetTime": 67.89769992541214
+    },
+    {
+      "name": "​​then | 7",
+      "targetTime": 67.99769992541214
+    },
+    {
+      "name": "​​it's— | 7",
+      "targetTime": 68.09769992541213
+    },
+    {
+      "name": "​​because | 8",
+      "targetTime": 68.64925277496361
+    },
+    {
+      "name": "​​it's | 8",
+      "targetTime": 68.77678648530211
+    },
+    {
+      "name": "​​a | 8",
+      "targetTime": 68.8767864853021
+    },
+    {
+      "name": "​​socialist-run | 9",
+      "targetTime": 68.9767864853021
+    },
+    {
+      "name": "​​economy | 9",
+      "targetTime": 69.60209512872468
+    },
+    {
+      "name": "​​you | 10",
+      "targetTime": 70.17573406951554
+    },
+    {
+      "name": "​​have | 10",
+      "targetTime": 70.27573406951554
+    },
+    {
+      "name": "​​something | 10",
+      "targetTime": 70.37573406951553
+    },
+    {
+      "name": "​​similar | 10",
+      "targetTime": 70.68487334207254
+    },
+    {
+      "name": "​​to | 10",
+      "targetTime": 70.98171030447912
+    },
+    {
+      "name": "​​a | 11",
+      "targetTime": 71.08171030447912
+    },
+    {
+      "name": "​​price | 11",
+      "targetTime": 71.18171030447911
+    },
+    {
+      "name": "​​control | 11",
+      "targetTime": 71.2817103044791
+    },
+    {
+      "name": "​​but | 11",
+      "targetTime": 71.6326774315475
+    },
+    {
+      "name": "​​it's | 11",
+      "targetTime": 71.7326774315475
+    },
+    {
+      "name": "​​just | 12",
+      "targetTime": 71.8326774315475
+    },
+    {
+      "name": "​​not | 12",
+      "targetTime": 71.93267743154749
+    },
+    {
+      "name": "​​used | 12",
+      "targetTime": 72.05272251756932
+    },
+    {
+      "name": "​​for | 12",
+      "targetTime": 72.24607858746855
+    },
+    {
+      "name": "​​trading, | 12",
+      "targetTime": 72.34607858746854
+    },
+    {
+      "name": "​​it's | 13",
+      "targetTime": 72.84649047788598
+    },
+    {
+      "name": "​​more | 13",
+      "targetTime": 72.94649047788597
+    },
+    {
+      "name": "​​used | 13",
+      "targetTime": 73.41426691641986
+    },
+    {
+      "name": "​​for | 13",
+      "targetTime": 73.68459477297856
+    },
+    {
+      "name": "​​keeping | 14",
+      "targetTime": 74.15058193138604
+    },
+    {
+      "name": "​​track | 14",
+      "targetTime": 74.42964492212393
+    },
+    {
+      "name": "​​of | 14",
+      "targetTime": 74.60574669318753
+    },
+    {
+      "name": "​​the | 14",
+      "targetTime": 74.75065317228139
+    },
+    {
+      "name": "​​inventory, | 14",
+      "targetTime": 74.85065317228138
+    },
+    {
+      "name": "​​Well | 15",
+      "targetTime": 75.41308308745117
+    },
+    {
+      "name": "​​the | 15",
+      "targetTime": 75.51308308745116
+    },
+    {
+      "name": "​​problem | 15",
+      "targetTime": 75.61308308745116
+    },
+    {
+      "name": "​​is | 15",
+      "targetTime": 75.83908224973057
+    },
+    {
+      "name": "​​that | 15",
+      "targetTime": 76.0027313110882
+    },
+    {
+      "name": "​​just | 16",
+      "targetTime": 76.10273131108819
+    },
+    {
+      "name": "​​assigning | 16",
+      "targetTime": 76.32093671075238
+    },
+    {
+      "name": "​​some | 16",
+      "targetTime": 76.94571672684393
+    },
+    {
+      "name": "​​arbitrary | 16",
+      "targetTime": 77.42111629281041
+    },
+    {
+      "name": "​​\"rarity | 17",
+      "targetTime": 78.29529671258904
+    },
+    {
+      "name": "​​value,\" | 17",
+      "targetTime": 78.73432538635114
+    },
+    {
+      "name": "​​and | 17",
+      "targetTime": 79.0187777682447
+    },
+    {
+      "name": "​​it | 17",
+      "targetTime": 79.1187777682447
+    },
+    {
+      "name": "​​might | 17",
+      "targetTime": 79.21877776824469
+    },
+    {
+      "name": "​​not | 17",
+      "targetTime": 79.31877776824469
+    },
+    {
+      "name": "​​even | 18",
+      "targetTime": 79.41877776824468
+    },
+    {
+      "name": "​​be | 18",
+      "targetTime": 79.58502475047405
+    },
+    {
+      "name": "​​arbitrary, | 18",
+      "targetTime": 79.68502475047404
+    },
+    {
+      "name": "​​if | 18",
+      "targetTime": 80.49165922758742
+    },
+    {
+      "name": "​​we | 18",
+      "targetTime": 80.75532824250706
+    },
+    {
+      "name": "​​just | 18",
+      "targetTime": 80.85532824250706
+    },
+    {
+      "name": "​​restrict | 19",
+      "targetTime": 81.03716274996687
+    },
+    {
+      "name": "​​ourselves | 19",
+      "targetTime": 81.41384132280722
+    },
+    {
+      "name": "​​for | 19",
+      "targetTime": 82.15942465943469
+    },
+    {
+      "name": "​​now | 19",
+      "targetTime": 82.25942465943469
+    },
+    {
+      "name": "​​to | 20",
+      "targetTime": 82.61012402355763
+    },
+    {
+      "name": "​​goods | 20",
+      "targetTime": 82.71012402355763
+    },
+    {
+      "name": "​​which | 20",
+      "targetTime": 82.89975229363266
+    },
+    {
+      "name": "​​have | 20",
+      "targetTime": 82.99975229363265
+    },
+    {
+      "name": "​​a | 20",
+      "targetTime": 83.09975229363265
+    },
+    {
+      "name": "​​mass, | 20",
+      "targetTime": 83.23192152067611
+    },
+    {
+      "name": "​​let's | 21",
+      "targetTime": 83.75443111918986
+    },
+    {
+      "name": "​​say | 21",
+      "targetTime": 83.89117108427801
+    },
+    {
+      "name": "​​we | 21",
+      "targetTime": 84.11976096208654
+    },
+    {
+      "name": "​​use | 21",
+      "targetTime": 84.21976096208654
+    },
+    {
+      "name": "​​the | 21",
+      "targetTime": 84.38656089861044
+    },
+    {
+      "name": "​​mass, | 21",
+      "targetTime": 84.48656089861043
+    },
+    {
+      "name": "​​OK | 22",
+      "targetTime": 84.9222305796431
+    },
+    {
+      "name": "​​there | 22",
+      "targetTime": 85.20426040667076
+    },
+    {
+      "name": "​​are, | 22",
+      "targetTime": 85.30426040667075
+    },
+    {
+      "name": "​​you | 22",
+      "targetTime": 86.04219980047412
+    },
+    {
+      "name": "​​know, | 22",
+      "targetTime": 86.14219980047412
+    },
+    {
+      "name": "​​62 | 23",
+      "targetTime": 86.34573970208618
+    },
+    {
+      "name": "​​tonnes | 23",
+      "targetTime": 86.7723983904045
+    },
+    {
+      "name": "​​of | 23",
+      "targetTime": 87.10150208539073
+    },
+    {
+      "name": "​​copper | 23",
+      "targetTime": 87.20150208539073
+    },
+    {
+      "name": "​​and | 23",
+      "targetTime": 87.76305617226171
+    },
+    {
+      "name": "​​65 | 24",
+      "targetTime": 88.06512598024655
+    },
+    {
+      "name": "​​tonnes | 24",
+      "targetTime": 89.060245129667
+    },
+    {
+      "name": "​​of | 24",
+      "targetTime": 89.4591748456115
+    },
+    {
+      "name": "​​steel | 24",
+      "targetTime": 89.5591748456115
+    },
+    {
+      "name": "​​and | 24",
+      "targetTime": 90.32049421719823
+    },
+    {
+      "name": "​​all | 25",
+      "targetTime": 90.42049421719823
+    },
+    {
+      "name": "​​that | 25",
+      "targetTime": 90.52049421719822
+    },
+    {
+      "name": "​​stuff, | 25",
+      "targetTime": 90.71620508226263
+    },
+    {
+      "name": "​​well | 26",
+      "targetTime": 91.0294343512669
+    },
+    {
+      "name": "​​that | 26",
+      "targetTime": 91.1294343512669
+    },
+    {
+      "name": "​​doesn't | 26",
+      "targetTime": 91.22943435126689
+    },
+    {
+      "name": "​​actually | 26",
+      "targetTime": 91.32943435126688
+    },
+    {
+      "name": "​​give | 26",
+      "targetTime": 91.60874078202048
+    },
+    {
+      "name": "​​you | 27",
+      "targetTime": 91.70874078202047
+    },
+    {
+      "name": "​​the | 27",
+      "targetTime": 92.03529688033751
+    },
+    {
+      "name": "​​information | 27",
+      "targetTime": 92.1352968803375
+    },
+    {
+      "name": "​​you | 27-3463",
+      "targetTime": 92.51273723603056
+    },
+    {
+      "name": "​​need, | 27",
+      "targetTime": 92.61273723603055
+    },
+    {
+      "name": "​​because | 28",
+      "targetTime": 93.05923479816249
+    },
+    {
+      "name": "​​you | 28",
+      "targetTime": 93.29129156135264
+    },
+    {
+      "name": "​​need | 28",
+      "targetTime": 93.39129156135263
+    },
+    {
+      "name": "​​to | 28",
+      "targetTime": 93.49129156135263
+    },
+    {
+      "name": "​​know | 28",
+      "targetTime": 93.59129156135262
+    },
+    {
+      "name": "​​which | 29",
+      "targetTime": 94.62538114318383
+    },
+    {
+      "name": "​​one | 29",
+      "targetTime": 94.72538114318382
+    },
+    {
+      "name": "​​is | 29",
+      "targetTime": 94.97019211174249
+    },
+    {
+      "name": "​​the | 29",
+      "targetTime": 95.07019211174249
+    },
+    {
+      "name": "​​most | 29",
+      "targetTime": 95.17019211174248
+    },
+    {
+      "name": "​​efficient | 29",
+      "targetTime": 95.27019211174247
+    },
+    {
+      "name": "​​in | 30",
+      "targetTime": 95.82282982489443
+    },
+    {
+      "name": "​​this | 30",
+      "targetTime": 95.92282982489442
+    },
+    {
+      "name": "​​line | 30",
+      "targetTime": 96.10557894978508
+    },
+    {
+      "name": "​​of | 30",
+      "targetTime": 96.20557894978508
+    },
+    {
+      "name": "​​production, | 30",
+      "targetTime": 96.30557894978507
+    },
+    {
+      "name": "​​you | 31",
+      "targetTime": 96.61245176201174
+    },
+    {
+      "name": "​​know, | 31",
+      "targetTime": 96.71245176201174
+    },
+    {
+      "name": "​​maybe | 31",
+      "targetTime": 97.34287365256093
+    },
+    {
+      "name": "​​you've | 31",
+      "targetTime": 97.5140378999669
+    },
+    {
+      "name": "​​got | 31",
+      "targetTime": 97.69595953360864
+    },
+    {
+      "name": "​​a | 32",
+      "targetTime": 97.85719388602773
+    },
+    {
+      "name": "​​bunch | 32",
+      "targetTime": 97.95719388602772
+    },
+    {
+      "name": "​​of | 32",
+      "targetTime": 98.05719388602772
+    },
+    {
+      "name": "​​copper | 32",
+      "targetTime": 98.15719388602771
+    },
+    {
+      "name": "​​lying | 32",
+      "targetTime": 98.57991547310131
+    },
+    {
+      "name": "​​around, | 32",
+      "targetTime": 98.81918478981147
+    },
+    {
+      "name": "​​and | 33",
+      "targetTime": 99.28889973848811
+    },
+    {
+      "name": "​​you | 33",
+      "targetTime": 99.47406442856267
+    },
+    {
+      "name": "​​could | 33",
+      "targetTime": 99.57406442856266
+    },
+    {
+      "name": "​​be | 33",
+      "targetTime": 99.81132987021225
+    },
+    {
+      "name": "​​using | 33",
+      "targetTime": 99.91132987021224
+    },
+    {
+      "name": "​​it | 33",
+      "targetTime": 100.1706379375282
+    },
+    {
+      "name": "​​to | 33",
+      "targetTime": 100.31672706392149
+    },
+    {
+      "name": "​​make | 34",
+      "targetTime": 100.41672706392148
+    },
+    {
+      "name": "​​cars | 34",
+      "targetTime": 100.55480069007247
+    },
+    {
+      "name": "​​out | 34",
+      "targetTime": 100.861199821312
+    },
+    {
+      "name": "​​of, | 34",
+      "targetTime": 101.0984652629616
+    },
+    {
+      "name": "​​but | 34",
+      "targetTime": 101.3427442673232
+    },
+    {
+      "name": "​​you | 35",
+      "targetTime": 101.44274426732319
+    },
+    {
+      "name": "​​don't | 35",
+      "targetTime": 101.54274426732319
+    },
+    {
+      "name": "​​know | 35",
+      "targetTime": 101.74594383294296
+    },
+    {
+      "name": "​​if | 35",
+      "targetTime": 101.93712014819926
+    },
+    {
+      "name": "​​that's | 35",
+      "targetTime": 102.03712014819925
+    },
+    {
+      "name": "​​actually | 35",
+      "targetTime": 102.21627321309208
+    },
+    {
+      "name": "​​the | 36",
+      "targetTime": 102.41947277871185
+    },
+    {
+      "name": "​​most | 36",
+      "targetTime": 102.51947277871184
+    },
+    {
+      "name": "​​value-productive | 36",
+      "targetTime": 102.80783703440618
+    },
+    {
+      "name": "​​use | 37",
+      "targetTime": 103.43986586298965
+    },
+    {
+      "name": "​​of | 37",
+      "targetTime": 103.53986586298964
+    },
+    {
+      "name": "​​copper, | 37",
+      "targetTime": 103.8723153700167
+    },
+    {
+      "name": "​​copper | 38",
+      "targetTime": 104.31698188043612
+    },
+    {
+      "name": "​​might | 38",
+      "targetTime": 104.5271950087679
+    },
+    {
+      "name": "​​be | 38",
+      "targetTime": 104.70735001119102
+    },
+    {
+      "name": "​​better | 39",
+      "targetTime": 105.0377956431575
+    },
+    {
+      "name": "​​spent | 39",
+      "targetTime": 105.53756871774281
+    },
+    {
+      "name": "​​elsewhere, | 39",
+      "targetTime": 106.01930691678292
+    },
+    {
+      "name": "​​and | 40",
+      "targetTime": 106.62929311970004
+    },
+    {
+      "name": "​​just | 40",
+      "targetTime": 106.75534349548755
+    },
+    {
+      "name": "​​knowing | 40",
+      "targetTime": 107.08077943980258
+    },
+    {
+      "name": "​​how | 41",
+      "targetTime": 107.38517469598153
+    },
+    {
+      "name": "​​rare | 41",
+      "targetTime": 107.71653118024827
+    },
+    {
+      "name": "​​copper | 41",
+      "targetTime": 107.94022717164196
+    },
+    {
+      "name": "​​is, | 41",
+      "targetTime": 108.26063093812529
+    },
+    {
+      "name": "​​how | 42",
+      "targetTime": 108.51806219989909
+    },
+    {
+      "name": "​​many | 42",
+      "targetTime": 108.61806219989909
+    },
+    {
+      "name": "​​tonnes | 42",
+      "targetTime": 109.28369023327213
+    },
+    {
+      "name": "​​of | 42",
+      "targetTime": 109.60072047271744
+    },
+    {
+      "name": "​​it | 42",
+      "targetTime": 109.70072047271744
+    },
+    {
+      "name": "​​you've | 42",
+      "targetTime": 109.80072047271743
+    },
+    {
+      "name": "​​got— | 42",
+      "targetTime": 109.90072047271742
+    },
+    {
+      "name": "​​that | 43",
+      "targetTime": 110.32682808639174
+    },
+    {
+      "name": "​​doesn't | 43",
+      "targetTime": 110.42682808639174
+    },
+    {
+      "name": "​​tell | 43",
+      "targetTime": 110.57855550097456
+    },
+    {
+      "name": "​​you | 43",
+      "targetTime": 110.67855550097455
+    },
+    {
+      "name": "​​that, | 43",
+      "targetTime": 110.93598676274836
+    },
+    {
+      "name": "​​and | 43",
+      "targetTime": 111.23390034897828
+    },
+    {
+      "name": "​​this | 44",
+      "targetTime": 111.50184956295561
+    },
+    {
+      "name": "​​problem, | 44",
+      "targetTime": 111.74298335621387
+    },
+    {
+      "name": "​​of | 44",
+      "targetTime": 112.0603293978316
+    },
+    {
+      "name": "​​course, | 44",
+      "targetTime": 112.16032939783159
+    },
+    {
+      "name": "​​even | 45",
+      "targetTime": 112.37041375657303
+    },
+    {
+      "name": "​​gets | 45",
+      "targetTime": 112.47041375657302
+    },
+    {
+      "name": "​​worse | 45",
+      "targetTime": 112.67061874978639
+    },
+    {
+      "name": "​​when | 46",
+      "targetTime": 113.4198341987744
+    },
+    {
+      "name": "​​you | 46",
+      "targetTime": 113.82327185427965
+    },
+    {
+      "name": "​​realise | 46",
+      "targetTime": 113.97408001985262
+    },
+    {
+      "name": "​​that: | 46",
+      "targetTime": 114.28154669594227
+    },
+    {
+      "name": "​​well | 47",
+      "targetTime": 114.49304239261629
+    },
+    {
+      "name": "​​not | 47",
+      "targetTime": 114.83014716529017
+    },
+    {
+      "name": "​​everything | 47",
+      "targetTime": 115.05575624129003
+    },
+    {
+      "name": "​​can | 47",
+      "targetTime": 115.53399480722217
+    },
+    {
+      "name": "​​be | 47",
+      "targetTime": 115.63399480722217
+    },
+    {
+      "name": "​​measured | 48",
+      "targetTime": 115.73399480722216
+    },
+    {
+      "name": "​​in | 48",
+      "targetTime": 116.67515221504141
+    },
+    {
+      "name": "​​tonnes, | 48",
+      "targetTime": 116.87817988411993
+    },
+    {
+      "name": "​​right? | 48",
+      "targetTime": 117.81228060227626
+    },
+    {
+      "name": "​​You | 49",
+      "targetTime": 117.95462074025373
+    },
+    {
+      "name": "​​might | 49",
+      "targetTime": 118.05462074025372
+    },
+    {
+      "name": "​​have | 49",
+      "targetTime": 118.29857720937714
+    },
+    {
+      "name": "​​manpower, | 49",
+      "targetTime": 118.74153232699472
+    },
+    {
+      "name": "​​how | 50",
+      "targetTime": 119.77442670043183
+    },
+    {
+      "name": "​​many | 50",
+      "targetTime": 119.87442670043183
+    },
+    {
+      "name": "​​hours | 50",
+      "targetTime": 120.37665801121787
+    },
+    {
+      "name": "​​of | 50",
+      "targetTime": 120.81396777710512
+    },
+    {
+      "name": "​​engineer-time | 51",
+      "targetTime": 120.91396777710511
+    },
+    {
+      "name": "​​you've | 51",
+      "targetTime": 121.60249569499207
+    },
+    {
+      "name": "​​got, | 51",
+      "targetTime": 121.70249569499207
+    },
+    {
+      "name": "​​clearly | 52",
+      "targetTime": 122.33739277144088
+    },
+    {
+      "name": "​​you're | 52",
+      "targetTime": 122.54606579224973
+    },
+    {
+      "name": "​​not | 52",
+      "targetTime": 122.64606579224973
+    },
+    {
+      "name": "​​measuring | 52",
+      "targetTime": 122.74606579224972
+    },
+    {
+      "name": "​​that | 53",
+      "targetTime": 122.98861092344056
+    },
+    {
+      "name": "​​in | 53",
+      "targetTime": 123.08861092344056
+    },
+    {
+      "name": "​​tonnes, | 53",
+      "targetTime": 123.30575197184491
+    },
+    {
+      "name": "​​so | 53",
+      "targetTime": 124.0563787587655
+    },
+    {
+      "name": "​​how | 53",
+      "targetTime": 124.1563787587655
+    },
+    {
+      "name": "​​are | 53",
+      "targetTime": 124.25637875876549
+    },
+    {
+      "name": "​​you | 53",
+      "targetTime": 124.35637875876549
+    },
+    {
+      "name": "​​going | 54",
+      "targetTime": 124.45637875876548
+    },
+    {
+      "name": "​​to | 54",
+      "targetTime": 124.55637875876548
+    },
+    {
+      "name": "​​compare | 54",
+      "targetTime": 124.65637875876547
+    },
+    {
+      "name": "​​these | 54",
+      "targetTime": 124.9327960003383
+    },
+    {
+      "name": "​​things | 54",
+      "targetTime": 125.17816380739431
+    },
+    {
+      "name": "​​and | 55",
+      "targetTime": 125.38479822896721
+    },
+    {
+      "name": "​​figure | 55",
+      "targetTime": 125.48479822896721
+    },
+    {
+      "name": "​​out: | 55",
+      "targetTime": 125.5847982289672
+    },
+    {
+      "name": "​​how | 56",
+      "targetTime": 126.31362768559568
+    },
+    {
+      "name": "​​much | 56",
+      "targetTime": 126.41362768559567
+    },
+    {
+      "name": "​​engineering | 56",
+      "targetTime": 126.51362768559567
+    },
+    {
+      "name": "​​you | 57",
+      "targetTime": 127.0589832109884
+    },
+    {
+      "name": "​​should | 57",
+      "targetTime": 127.1589832109884
+    },
+    {
+      "name": "​​use? | 57",
+      "targetTime": 127.25898321098839
+    },
+    {
+      "name": "​​How | 58",
+      "targetTime": 127.41857303480855
+    },
+    {
+      "name": "​​much | 58",
+      "targetTime": 127.51857303480854
+    },
+    {
+      "name": "​​all | 58",
+      "targetTime": 128.26935663705498
+    },
+    {
+      "name": "​​sorts | 58",
+      "targetTime": 128.60614777907716
+    },
+    {
+      "name": "​​of | 58",
+      "targetTime": 128.8519860321107
+    },
+    {
+      "name": "​​different | 58",
+      "targetTime": 128.95198603211068
+    },
+    {
+      "name": "​​stuff | 59",
+      "targetTime": 129.14293892109933
+    },
+    {
+      "name": "​​should | 59",
+      "targetTime": 129.34643703615538
+    },
+    {
+      "name": "​​you | 59",
+      "targetTime": 129.44643703615537
+    },
+    {
+      "name": "​​use, | 59",
+      "targetTime": 129.54643703615537
+    },
+    {
+      "name": "​​right? | 59",
+      "targetTime": 129.88322817817755
+    },
+    {
+      "name": "End mkSubtitles for prefix: ​​",
+      "targetTime": 130.20202473498333
     }
   ],
   "seed": 3882893897

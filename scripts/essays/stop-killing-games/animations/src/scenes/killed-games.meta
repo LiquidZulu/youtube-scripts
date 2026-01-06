@@ -1,0 +1,30 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "browser",
+      "targetTime": 3.5265150020062217
+    },
+    {
+      "name": "highlight",
+      "targetTime": 4.066082319311072
+    },
+    {
+      "name": "licensing constraints",
+      "targetTime": 7.832436264759616
+    },
+    {
+      "name": "browser small",
+      "targetTime": 9.686426620864461
+    },
+    {
+      "name": "tahiti",
+      "targetTime": 17.845243477535092
+    },
+    {
+      "name": "browser small heroes",
+      "targetTime": 20.659935454210135
+    }
+  ],
+  "seed": 3117524921
+}

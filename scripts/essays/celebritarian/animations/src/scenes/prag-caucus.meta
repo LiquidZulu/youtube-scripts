@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "washington luncheons",
+      "targetTime": 5.276786967751662
+    },
+    {
+      "name": "leftist LP",
+      "targetTime": 20.100081001335084
+    },
+    {
+      "name": "end",
+      "targetTime": 25.398401830202538
+    }
+  ],
+  "seed": 3246653958
+}

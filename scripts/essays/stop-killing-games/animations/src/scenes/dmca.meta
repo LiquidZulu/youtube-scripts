@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "browser",
+      "targetTime": 0.7322448979591837
+    },
+    {
+      "name": "scroll",
+      "targetTime": 4.42465306122449
+    },
+    {
+      "name": "highlight",
+      "targetTime": 5.42465306122449
+    },
+    {
+      "name": "end",
+      "targetTime": 13.756625337034203
+    }
+  ],
+  "seed": 1339973330
+}

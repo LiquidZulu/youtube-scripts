@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "kant",
+      "targetTime": 1.6068595927116833
+    },
+    {
+      "name": "hegel",
+      "targetTime": 2.866059306895319
+    },
+    {
+      "name": "marx",
+      "targetTime": 4.092890317970701
+    },
+    {
+      "name": "end",
+      "targetTime": 21.375634155055376
+    }
+  ],
+  "seed": 1707146782
+}

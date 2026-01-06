@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "address the problem",
+      "targetTime": 2.582777338157786
+    },
+    {
+      "name": "operate like other commodities",
+      "targetTime": 11.549118282627843
+    },
+    {
+      "name": "purchase some good",
+      "targetTime": 15.176854340129069
+    },
+    {
+      "name": "purchase a service",
+      "targetTime": 22.581068709298865
+    }
+  ],
+  "seed": 3011452798
+}

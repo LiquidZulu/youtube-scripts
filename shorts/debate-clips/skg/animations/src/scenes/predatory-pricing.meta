@@ -1,0 +1,1246 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "It | 󷍫",
+      "targetTime": 0
+    },
+    {
+      "name": "seems | 󷍫",
+      "targetTime": 0.16
+    },
+    {
+      "name": "like | 󷍫",
+      "targetTime": 0.4
+    },
+    {
+      "name": "over | 󷍫",
+      "targetTime": 0.58
+    },
+    {
+      "name": "time, | 󷍫",
+      "targetTime": 0.76
+    },
+    {
+      "name": "competition | 󪾺",
+      "targetTime": 1.24
+    },
+    {
+      "name": "can | 󪾺",
+      "targetTime": 1.74
+    },
+    {
+      "name": "sometimes | 􆣈",
+      "targetTime": 1.94
+    },
+    {
+      "name": "be | 􆣈",
+      "targetTime": 2.18
+    },
+    {
+      "name": "absorbed. | 􆣈",
+      "targetTime": 2.36
+    },
+    {
+      "name": "Let's | 𰯼",
+      "targetTime": 2.96
+    },
+    {
+      "name": "say | 𰯼",
+      "targetTime": 3.3
+    },
+    {
+      "name": "you're | 𰯼",
+      "targetTime": 3.44
+    },
+    {
+      "name": "manufacturing | 񁒉",
+      "targetTime": 3.54
+    },
+    {
+      "name": "cars | 񁒉",
+      "targetTime": 3.98
+    },
+    {
+      "name": "or | 񁒉",
+      "targetTime": 4.42
+    },
+    {
+      "name": "something, | 񶃊",
+      "targetTime": 4.64
+    },
+    {
+      "name": "and | 񶃊",
+      "targetTime": 5.5354038197464766
+    },
+    {
+      "name": "they're | 񶃊",
+      "targetTime": 6.544258719732658
+    },
+    {
+      "name": "competing | 󳶯",
+      "targetTime": 6.76
+    },
+    {
+      "name": "with | 󳶯",
+      "targetTime": 7.06
+    },
+    {
+      "name": "us. | 󳶯",
+      "targetTime": 7.38
+    },
+    {
+      "name": "We | 󳶯",
+      "targetTime": 7.72
+    },
+    {
+      "name": "don't | 񯐖",
+      "targetTime": 8.04
+    },
+    {
+      "name": "like | 񯐖",
+      "targetTime": 8.22
+    },
+    {
+      "name": "this. | 񯐖",
+      "targetTime": 8.44
+    },
+    {
+      "name": "We're | 񯐖",
+      "targetTime": 8.76
+    },
+    {
+      "name": "just | 񀢕",
+      "targetTime": 8.86
+    },
+    {
+      "name": "going | 񀢕",
+      "targetTime": 9.06
+    },
+    {
+      "name": "to | 񀢕",
+      "targetTime": 9.22
+    },
+    {
+      "name": "just | 񀢕-4185",
+      "targetTime": 10.24017054147106
+    },
+    {
+      "name": "put | 񀢕",
+      "targetTime": 10.42
+    },
+    {
+      "name": "all | 󼵓",
+      "targetTime": 10.62
+    },
+    {
+      "name": "our | 󼵓",
+      "targetTime": 10.86
+    },
+    {
+      "name": "resources | 󼵓",
+      "targetTime": 10.96
+    },
+    {
+      "name": "into | 󼵓",
+      "targetTime": 11.34
+    },
+    {
+      "name": "buying | 𳅇",
+      "targetTime": 11.58
+    },
+    {
+      "name": "them | 𳅇",
+      "targetTime": 11.92
+    },
+    {
+      "name": "out | 𳅇",
+      "targetTime": 12.06
+    },
+    {
+      "name": "so | 𳅇",
+      "targetTime": 12.2
+    },
+    {
+      "name": "we | 𳅇",
+      "targetTime": 12.32
+    },
+    {
+      "name": "can | 񾲉",
+      "targetTime": 12.42
+    },
+    {
+      "name": "absorb | 񾲉",
+      "targetTime": 12.54
+    },
+    {
+      "name": "them, | 񾲉",
+      "targetTime": 12.9
+    },
+    {
+      "name": "and | 񾲉",
+      "targetTime": 13.24
+    },
+    {
+      "name": "then | 􅊾",
+      "targetTime": 13.34
+    },
+    {
+      "name": "now | 􅊾",
+      "targetTime": 13.44
+    },
+    {
+      "name": "we're | 􅊾",
+      "targetTime": 13.6
+    },
+    {
+      "name": "even | 􅊾",
+      "targetTime": 13.76
+    },
+    {
+      "name": "bigger | 󓖺",
+      "targetTime": 14.02
+    },
+    {
+      "name": "over | 󓖺",
+      "targetTime": 14.4
+    },
+    {
+      "name": "time. | 󓖺",
+      "targetTime": 14.66
+    },
+    {
+      "name": "We | 󓖺",
+      "targetTime": 15.04
+    },
+    {
+      "name": "can | 󓖺",
+      "targetTime": 15.139999999999999
+    },
+    {
+      "name": "take | 󪱿",
+      "targetTime": 15.239999999999998
+    },
+    {
+      "name": "the | 󪱿",
+      "targetTime": 15.34
+    },
+    {
+      "name": "hit. | 󪱿",
+      "targetTime": 15.46
+    },
+    {
+      "name": "Setting | 󪱿",
+      "targetTime": 15.78
+    },
+    {
+      "name": "up | 󪱿",
+      "targetTime": 15.94
+    },
+    {
+      "name": "your | 񤳌",
+      "targetTime": 16.08
+    },
+    {
+      "name": "own | 񤳌",
+      "targetTime": 16.22
+    },
+    {
+      "name": "car | 񤳌",
+      "targetTime": 16.44
+    },
+    {
+      "name": "manufacturing | 񈅘",
+      "targetTime": 16.68
+    },
+    {
+      "name": "plant, | 񈅘",
+      "targetTime": 17.34
+    },
+    {
+      "name": "that's | 򰸺",
+      "targetTime": 17.68
+    },
+    {
+      "name": "not | 򰸺",
+      "targetTime": 17.92
+    },
+    {
+      "name": "the | 򰸺",
+      "targetTime": 18.020000000000003
+    },
+    {
+      "name": "easiest | 򰸺",
+      "targetTime": 18.14
+    },
+    {
+      "name": "thing | 󡵏",
+      "targetTime": 18.5
+    },
+    {
+      "name": "for | 󡵏",
+      "targetTime": 18.78
+    },
+    {
+      "name": "a | 󡵏",
+      "targetTime": 18.98
+    },
+    {
+      "name": "smaller | 󡵏",
+      "targetTime": 19.1
+    },
+    {
+      "name": "person | 񇃦",
+      "targetTime": 19.44
+    },
+    {
+      "name": "or | 񇃦",
+      "targetTime": 19.98
+    },
+    {
+      "name": "a | 񇃦",
+      "targetTime": 20.12
+    },
+    {
+      "name": "smaller | 񇃦",
+      "targetTime": 20.26
+    },
+    {
+      "name": "company | 񅆄",
+      "targetTime": 20.360000000000003
+    },
+    {
+      "name": "to | 񅆄",
+      "targetTime": 20.460000000000004
+    },
+    {
+      "name": "do. | 񅆄",
+      "targetTime": 20.560000000000006
+    },
+    {
+      "name": "Well, | 񻸁",
+      "targetTime": 21.28322837310284
+    },
+    {
+      "name": "if | 񻸁",
+      "targetTime": 21.839733232381985
+    },
+    {
+      "name": "I've | 񻸁",
+      "targetTime": 21.939733232381986
+    },
+    {
+      "name": "got | 񻸁",
+      "targetTime": 22.21042635367767
+    },
+    {
+      "name": "this | 񫃵",
+      "targetTime": 22.494143724282285
+    },
+    {
+      "name": "big | 񫃵",
+      "targetTime": 22.594143724282286
+    },
+    {
+      "name": "car | 񫃵",
+      "targetTime": 22.907387100876928
+    },
+    {
+      "name": "manufacturer, | 텠",
+      "targetTime": 23.16
+    },
+    {
+      "name": "I | 텠",
+      "targetTime": 24.319999999999997
+    },
+    {
+      "name": "might | 텠",
+      "targetTime": 24.72
+    },
+    {
+      "name": "just | 񵓧",
+      "targetTime": 24.9
+    },
+    {
+      "name": "try | 񵓧",
+      "targetTime": 25.14
+    },
+    {
+      "name": "and | 񵓧",
+      "targetTime": 25.5
+    },
+    {
+      "name": "buy | 񵓧",
+      "targetTime": 25.62
+    },
+    {
+      "name": "all | 񵓧",
+      "targetTime": 25.86
+    },
+    {
+      "name": "the | 񵓧",
+      "targetTime": 26.12
+    },
+    {
+      "name": "little | 񿤣",
+      "targetTime": 26.26
+    },
+    {
+      "name": "car | 񿤣",
+      "targetTime": 26.44
+    },
+    {
+      "name": "manufacturers. | 󤎚",
+      "targetTime": 26.66
+    },
+    {
+      "name": "That | 󤎚",
+      "targetTime": 27.42953966509246
+    },
+    {
+      "name": "type | 󤎚",
+      "targetTime": 27.62
+    },
+    {
+      "name": "of | 񈙷",
+      "targetTime": 27.82
+    },
+    {
+      "name": "thing, | 񈙷",
+      "targetTime": 27.96
+    },
+    {
+      "name": "it | 񈙷",
+      "targetTime": 28.51196637702603
+    },
+    {
+      "name": "only | 񈙷",
+      "targetTime": 28.64
+    },
+    {
+      "name": "works | 񈙷",
+      "targetTime": 28.9
+    },
+    {
+      "name": "if | 򆖧",
+      "targetTime": 29.38
+    },
+    {
+      "name": "there | 򆖧",
+      "targetTime": 29.68
+    },
+    {
+      "name": "are | 򆖧",
+      "targetTime": 29.88
+    },
+    {
+      "name": "patents, | 򆖧",
+      "targetTime": 30.190376510529624
+    },
+    {
+      "name": "because | 󘣿",
+      "targetTime": 30.62
+    },
+    {
+      "name": "then | 󘣿",
+      "targetTime": 30.720000000000002
+    },
+    {
+      "name": "I | 󘣿",
+      "targetTime": 30.820000000000004
+    },
+    {
+      "name": "can | 󘣿",
+      "targetTime": 30.920000000000005
+    },
+    {
+      "name": "buy | 󘣿",
+      "targetTime": 31.020000000000007
+    },
+    {
+      "name": "their | 𚳍",
+      "targetTime": 31.22
+    },
+    {
+      "name": "patent | 𚳍",
+      "targetTime": 31.38
+    },
+    {
+      "name": "pools, | 𚳍",
+      "targetTime": 31.7
+    },
+    {
+      "name": "and | 𚳍",
+      "targetTime": 32.534895102999094
+    },
+    {
+      "name": "then | 񑒢",
+      "targetTime": 32.68
+    },
+    {
+      "name": "nobody | 񑒢",
+      "targetTime": 32.8
+    },
+    {
+      "name": "else | 񑒢",
+      "targetTime": 33.06
+    },
+    {
+      "name": "is | 񑒢",
+      "targetTime": 33.24
+    },
+    {
+      "name": "allowed | 󅧣",
+      "targetTime": 33.36
+    },
+    {
+      "name": "to | 󅧣",
+      "targetTime": 33.5
+    },
+    {
+      "name": "make | 󅧣",
+      "targetTime": 33.64
+    },
+    {
+      "name": "those | 󅧣",
+      "targetTime": 34.56110262713888
+    },
+    {
+      "name": "types | 􇵼",
+      "targetTime": 34.72
+    },
+    {
+      "name": "of | 􇵼",
+      "targetTime": 34.92
+    },
+    {
+      "name": "cars. | 􇵼",
+      "targetTime": 35.08
+    },
+    {
+      "name": "This | 􇵼",
+      "targetTime": 35.46
+    },
+    {
+      "name": "has | 􇵼",
+      "targetTime": 35.62
+    },
+    {
+      "name": "been | 򓩖",
+      "targetTime": 35.72
+    },
+    {
+      "name": "tried | 򓩖",
+      "targetTime": 35.82
+    },
+    {
+      "name": "before. | 򓩖",
+      "targetTime": 36.1
+    },
+    {
+      "name": "There | 򓩖",
+      "targetTime": 36.90781263143218
+    },
+    {
+      "name": "was | 񟘽",
+      "targetTime": 37.00781263143218
+    },
+    {
+      "name": "this | 񟘽",
+      "targetTime": 37.14
+    },
+    {
+      "name": "one | 񟘽",
+      "targetTime": 37.64316449219683
+    },
+    {
+      "name": "case, | 񟘽",
+      "targetTime": 37.8
+    },
+    {
+      "name": "like | 񟘽",
+      "targetTime": 38.12
+    },
+    {
+      "name": "this | 󳈉",
+      "targetTime": 38.22
+    },
+    {
+      "name": "chemical | 󳈉",
+      "targetTime": 38.36
+    },
+    {
+      "name": "magnate | 󳈉",
+      "targetTime": 38.8
+    },
+    {
+      "name": "in | 󳈉",
+      "targetTime": 39.26
+    },
+    {
+      "name": "the | 񑒀",
+      "targetTime": 39.4
+    },
+    {
+      "name": "US, | 񑒀",
+      "targetTime": 39.5
+    },
+    {
+      "name": "where | 񑒀",
+      "targetTime": 39.98
+    },
+    {
+      "name": "there | 񑒀",
+      "targetTime": 40.24
+    },
+    {
+      "name": "was | 񑒀",
+      "targetTime": 40.44
+    },
+    {
+      "name": "this | 𵼽",
+      "targetTime": 40.54
+    },
+    {
+      "name": "German | 𵼽",
+      "targetTime": 40.64
+    },
+    {
+      "name": "cartel. | 𵼽",
+      "targetTime": 40.94
+    },
+    {
+      "name": "He | 𵼽",
+      "targetTime": 41.6
+    },
+    {
+      "name": "tried | 񧣔",
+      "targetTime": 41.7
+    },
+    {
+      "name": "to | 񧣔",
+      "targetTime": 41.9
+    },
+    {
+      "name": "start | 񧣔",
+      "targetTime": 42
+    },
+    {
+      "name": "selling | 񧣔",
+      "targetTime": 42.28
+    },
+    {
+      "name": "in | 񨞶",
+      "targetTime": 42.7
+    },
+    {
+      "name": "Europe, | 񨞶",
+      "targetTime": 43.21082523357361
+    },
+    {
+      "name": "and | 񨞶",
+      "targetTime": 43.91558741982663
+    },
+    {
+      "name": "they | 񨞶",
+      "targetTime": 44.01558741982663
+    },
+    {
+      "name": "were | 񨞶",
+      "targetTime": 44.11558741982663
+    },
+    {
+      "name": "like, | 򒕴",
+      "targetTime": 44.21558741982663
+    },
+    {
+      "name": "no, | 򒕴",
+      "targetTime": 44.42
+    },
+    {
+      "name": "you | 򒕴",
+      "targetTime": 44.7
+    },
+    {
+      "name": "stay | 򒕴",
+      "targetTime": 44.94
+    },
+    {
+      "name": "in | 򒕴",
+      "targetTime": 45.3
+    },
+    {
+      "name": "the | 񻈔",
+      "targetTime": 45.42
+    },
+    {
+      "name": "US. | 񻈔",
+      "targetTime": 45.52
+    },
+    {
+      "name": "We'll | 񻈔",
+      "targetTime": 46.57693410686308
+    },
+    {
+      "name": "sell | 񻈔",
+      "targetTime": 46.760000000000005
+    },
+    {
+      "name": "in | 񻈔",
+      "targetTime": 47.08
+    },
+    {
+      "name": "Europe. | 򩤆",
+      "targetTime": 47.2
+    },
+    {
+      "name": "And | 򩤆",
+      "targetTime": 47.36
+    },
+    {
+      "name": "he's | 򩤆",
+      "targetTime": 47.46
+    },
+    {
+      "name": "like, | 򩤆",
+      "targetTime": 47.58
+    },
+    {
+      "name": "no. | 𖩠",
+      "targetTime": 48.1
+    },
+    {
+      "name": "So | 𖩠",
+      "targetTime": 48.52
+    },
+    {
+      "name": "it's | 𖩠",
+      "targetTime": 48.620000000000005
+    },
+    {
+      "name": "like, | 𖩠",
+      "targetTime": 48.720000000000006
+    },
+    {
+      "name": "okay, | 𖩠",
+      "targetTime": 48.9
+    },
+    {
+      "name": "well, | 򏉇",
+      "targetTime": 49.1
+    },
+    {
+      "name": "we're | 򏉇",
+      "targetTime": 49.28
+    },
+    {
+      "name": "going | 򏉇",
+      "targetTime": 49.38
+    },
+    {
+      "name": "to | 򏉇",
+      "targetTime": 49.480000000000004
+    },
+    {
+      "name": "run | 򏉇",
+      "targetTime": 49.580000000000005
+    },
+    {
+      "name": "you | 󤎹",
+      "targetTime": 49.92
+    },
+    {
+      "name": "out | 󤎹",
+      "targetTime": 50.04
+    },
+    {
+      "name": "of | 󤎹",
+      "targetTime": 50.14
+    },
+    {
+      "name": "business. | 󤎹",
+      "targetTime": 50.24
+    },
+    {
+      "name": "We're | 󃂁",
+      "targetTime": 50.808664769455774
+    },
+    {
+      "name": "going | 󃂁",
+      "targetTime": 50.94
+    },
+    {
+      "name": "to | 󃂁",
+      "targetTime": 51.04
+    },
+    {
+      "name": "sell | 󃂁",
+      "targetTime": 51.14
+    },
+    {
+      "name": "way | 󃂁",
+      "targetTime": 51.28
+    },
+    {
+      "name": "cheaper | 򙂨",
+      "targetTime": 51.52
+    },
+    {
+      "name": "in | 򙂨",
+      "targetTime": 51.86
+    },
+    {
+      "name": "the | 򙂨",
+      "targetTime": 52
+    },
+    {
+      "name": "US, | 򙂨",
+      "targetTime": 52.1
+    },
+    {
+      "name": "and | 򙂨",
+      "targetTime": 52.78692265037085
+    },
+    {
+      "name": "you're | 񣢠",
+      "targetTime": 53.06
+    },
+    {
+      "name": "going | 񣢠",
+      "targetTime": 53.46
+    },
+    {
+      "name": "to | 񣢠",
+      "targetTime": 53.56
+    },
+    {
+      "name": "be | 񣢠",
+      "targetTime": 53.660000000000004
+    },
+    {
+      "name": "predatory | 򺳝",
+      "targetTime": 53.88
+    },
+    {
+      "name": "pricing | 򺳝",
+      "targetTime": 54.66
+    },
+    {
+      "name": "is | 򺳝",
+      "targetTime": 55.06
+    },
+    {
+      "name": "what | 棻",
+      "targetTime": 55.18
+    },
+    {
+      "name": "they | 棻",
+      "targetTime": 55.28
+    },
+    {
+      "name": "call | 棻",
+      "targetTime": 55.38
+    },
+    {
+      "name": "it, | 棻",
+      "targetTime": 55.56
+    },
+    {
+      "name": "and | 棻",
+      "targetTime": 55.96822351143844
+    },
+    {
+      "name": "then | 񶨀",
+      "targetTime": 56.1
+    },
+    {
+      "name": "you'll | 񶨀",
+      "targetTime": 56.22
+    },
+    {
+      "name": "be | 񶨀",
+      "targetTime": 56.38
+    },
+    {
+      "name": "out | 񶨀",
+      "targetTime": 56.480000000000004
+    },
+    {
+      "name": "of | 񶨀",
+      "targetTime": 56.580000000000005
+    },
+    {
+      "name": "business. | 񴽱",
+      "targetTime": 56.68000000000001
+    },
+    {
+      "name": "So | 񴽱",
+      "targetTime": 57.018676225947985
+    },
+    {
+      "name": "what | 񴽱",
+      "targetTime": 57.14
+    },
+    {
+      "name": "this | 񴽱",
+      "targetTime": 57.24
+    },
+    {
+      "name": "guy | 􎜺",
+      "targetTime": 57.36
+    },
+    {
+      "name": "did, | 􎜺",
+      "targetTime": 57.48
+    },
+    {
+      "name": "he | 􎜺",
+      "targetTime": 57.78
+    },
+    {
+      "name": "was | 􎜺",
+      "targetTime": 57.88
+    },
+    {
+      "name": "like, | 􎜺",
+      "targetTime": 57.980000000000004
+    },
+    {
+      "name": "okay, | 򢡙",
+      "targetTime": 58.14
+    },
+    {
+      "name": "he | 򢡙",
+      "targetTime": 58.78
+    },
+    {
+      "name": "just | 򢡙",
+      "targetTime": 59.02
+    },
+    {
+      "name": "stopped | 򢡙",
+      "targetTime": 59.16
+    },
+    {
+      "name": "selling | 񅞬",
+      "targetTime": 59.38
+    },
+    {
+      "name": "in | 񅞬",
+      "targetTime": 59.76
+    },
+    {
+      "name": "the | 񅞬",
+      "targetTime": 59.92
+    },
+    {
+      "name": "US, | 񅞬",
+      "targetTime": 60.02
+    },
+    {
+      "name": "and | 񅞬",
+      "targetTime": 60.44
+    },
+    {
+      "name": "he | 򾸳",
+      "targetTime": 60.68
+    },
+    {
+      "name": "just | 򾸳",
+      "targetTime": 60.78
+    },
+    {
+      "name": "started | 򾸳",
+      "targetTime": 60.88
+    },
+    {
+      "name": "buying | 򾸳",
+      "targetTime": 61.06
+    },
+    {
+      "name": "up | 򉫊",
+      "targetTime": 61.28
+    },
+    {
+      "name": "all | 򉫊",
+      "targetTime": 61.42
+    },
+    {
+      "name": "this | 򉫊",
+      "targetTime": 61.56
+    },
+    {
+      "name": "cheap | 򉫊",
+      "targetTime": 61.7
+    },
+    {
+      "name": "chlorine | 񶅰",
+      "targetTime": 62.02
+    },
+    {
+      "name": "and | 񶅰",
+      "targetTime": 62.42
+    },
+    {
+      "name": "stuff, | 񶅰",
+      "targetTime": 62.58
+    },
+    {
+      "name": "which | 𙭕",
+      "targetTime": 62.88
+    },
+    {
+      "name": "came | 𙭕",
+      "targetTime": 62.980000000000004
+    },
+    {
+      "name": "in | 𙭕",
+      "targetTime": 63.16
+    },
+    {
+      "name": "and | 𙭕",
+      "targetTime": 63.48
+    },
+    {
+      "name": "coming | 𙭕",
+      "targetTime": 63.58
+    },
+    {
+      "name": "in, | 򮒘",
+      "targetTime": 63.7
+    },
+    {
+      "name": "because | 򮒘",
+      "targetTime": 63.92
+    },
+    {
+      "name": "they | 򮒘",
+      "targetTime": 64.02
+    },
+    {
+      "name": "tried | 򮒘",
+      "targetTime": 64.11999999999999
+    },
+    {
+      "name": "to | 񔫅",
+      "targetTime": 64.28
+    },
+    {
+      "name": "predatory | 񔫅",
+      "targetTime": 64.42
+    },
+    {
+      "name": "price | 񔫅",
+      "targetTime": 64.82
+    },
+    {
+      "name": "him. | 񔫅",
+      "targetTime": 65.06
+    },
+    {
+      "name": "He | 󼶜",
+      "targetTime": 65.63953582899823
+    },
+    {
+      "name": "just | 󼶜",
+      "targetTime": 65.74
+    },
+    {
+      "name": "bought | 󼶜",
+      "targetTime": 65.86
+    },
+    {
+      "name": "it | 󼶜",
+      "targetTime": 66
+    },
+    {
+      "name": "up | 󼶜",
+      "targetTime": 66.1
+    },
+    {
+      "name": "and | 󼶜",
+      "targetTime": 66.24
+    },
+    {
+      "name": "started | 򽽂",
+      "targetTime": 66.38
+    },
+    {
+      "name": "selling | 򽽂",
+      "targetTime": 66.58
+    },
+    {
+      "name": "it | 򽽂",
+      "targetTime": 66.86
+    },
+    {
+      "name": "off | 򽽂",
+      "targetTime": 66.96
+    },
+    {
+      "name": "in | 񣏡",
+      "targetTime": 67.06
+    },
+    {
+      "name": "Europe, | 񣏡",
+      "targetTime": 67.16
+    },
+    {
+      "name": "and | 񣏡",
+      "targetTime": 67.34
+    },
+    {
+      "name": "he | 񣏡",
+      "targetTime": 67.96557596333442
+    },
+    {
+      "name": "was | 񣏡",
+      "targetTime": 68.06557596333441
+    },
+    {
+      "name": "making | 󤦉",
+      "targetTime": 68.18
+    },
+    {
+      "name": "a | 󤦉",
+      "targetTime": 68.38
+    },
+    {
+      "name": "massive | 󤦉",
+      "targetTime": 68.54
+    },
+    {
+      "name": "arbitrage | 񽍷",
+      "targetTime": 68.8
+    },
+    {
+      "name": "out | 񽍷",
+      "targetTime": 69.48
+    },
+    {
+      "name": "of | 񽍷",
+      "targetTime": 69.64
+    },
+    {
+      "name": "this. | 񽍷",
+      "targetTime": 69.78
+    },
+    {
+      "name": "So | 񞖆",
+      "targetTime": 70.08
+    },
+    {
+      "name": "I | 񞖆",
+      "targetTime": 70.26
+    },
+    {
+      "name": "don't | 񞖆",
+      "targetTime": 70.44
+    },
+    {
+      "name": "think | 񞖆",
+      "targetTime": 70.6
+    },
+    {
+      "name": "this | 񞖆",
+      "targetTime": 70.74
+    },
+    {
+      "name": "type | 𲏠",
+      "targetTime": 70.94
+    },
+    {
+      "name": "of | 𲏠",
+      "targetTime": 71.26
+    },
+    {
+      "name": "predatory | 𲏠",
+      "targetTime": 71.4
+    },
+    {
+      "name": "pricing | 񚉄",
+      "targetTime": 71.8
+    },
+    {
+      "name": "strategy, | 񚉄",
+      "targetTime": 72.12
+    },
+    {
+      "name": "A, | 񚉄",
+      "targetTime": 72.76
+    },
+    {
+      "name": "it | 񚉄",
+      "targetTime": 73.26
+    },
+    {
+      "name": "hasn't | 󞣭",
+      "targetTime": 73.6
+    },
+    {
+      "name": "ever | 󞣭",
+      "targetTime": 74
+    },
+    {
+      "name": "worked, | 󞣭",
+      "targetTime": 74.1
+    },
+    {
+      "name": "and | 󞣭",
+      "targetTime": 74.84734099540377
+    },
+    {
+      "name": "B, | 𚲄",
+      "targetTime": 74.98
+    },
+    {
+      "name": "I | 𚲄",
+      "targetTime": 75.18
+    },
+    {
+      "name": "just | 𚲄",
+      "targetTime": 75.28
+    },
+    {
+      "name": "don't | 𚲄",
+      "targetTime": 75.56
+    },
+    {
+      "name": "think, | 𚲄",
+      "targetTime": 75.9
+    },
+    {
+      "name": "theoretically, | 򽷴",
+      "targetTime": 76.58910602747311
+    },
+    {
+      "name": "that | 򽷴",
+      "targetTime": 77.18566761527211
+    },
+    {
+      "name": "it | 򽷴",
+      "targetTime": 77.34
+    },
+    {
+      "name": "can | 򃹥",
+      "targetTime": 77.44
+    },
+    {
+      "name": "work | 򃹥",
+      "targetTime": 77.64
+    },
+    {
+      "name": "in | 򃹥",
+      "targetTime": 78.02
+    },
+    {
+      "name": "general. | 򃹥",
+      "targetTime": 78.36
+    },
+    {
+      "name": "End mkSubtitles for prefix: no prefix specified",
+      "targetTime": 79.09902583202762
+    }
+  ],
+  "seed": 2611918518
+}

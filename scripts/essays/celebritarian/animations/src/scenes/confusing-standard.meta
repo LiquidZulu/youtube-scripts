@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "what is still owned?",
+      "targetTime": 3.8700305938501756
+    },
+    {
+      "name": "no chain of title-transfer",
+      "targetTime": 9.25368186117749
+    },
+    {
+      "name": "cant be divvied up",
+      "targetTime": 26.12820597717935
+    },
+    {
+      "name": "is that valid elsewhere?",
+      "targetTime": 36.40563755477739
+    },
+    {
+      "name": "end",
+      "targetTime": 39.57680824602432
+    }
+  ],
+  "seed": 2775433192
+}

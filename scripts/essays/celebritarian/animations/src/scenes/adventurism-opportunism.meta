@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "adventurism",
+      "targetTime": 6.385923544122896
+    },
+    {
+      "name": "opportunism",
+      "targetTime": 14.68179694893884
+    },
+    {
+      "name": "indicate adventurists",
+      "targetTime": 23.257902253947535
+    },
+    {
+      "name": "end",
+      "targetTime": 38.372691962303726
+    }
+  ],
+  "seed": 1068323073
+}

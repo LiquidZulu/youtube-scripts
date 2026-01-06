@@ -1,0 +1,162 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "kant",
+      "targetTime": 9.559967188701918
+    },
+    {
+      "name": "plato",
+      "targetTime": 10.786089342378027
+    },
+    {
+      "name": "hegel",
+      "targetTime": 11.980777225649495
+    },
+    {
+      "name": "portraits out",
+      "targetTime": 16.322048072357727
+    },
+    {
+      "name": "back down to earth",
+      "targetTime": 16.83011221536765
+    },
+    {
+      "name": "purpose theory",
+      "targetTime": 22.554518485430002
+    },
+    {
+      "name": "highlight standard",
+      "targetTime": 36.9361782697678
+    },
+    {
+      "name": "indicate theory",
+      "targetTime": 48.56690447128436
+    },
+    {
+      "name": "cartesian proof",
+      "targetTime": 57.06547937249684
+    },
+    {
+      "name": "CD argument",
+      "targetTime": 58.108479712390974
+    },
+    {
+      "name": "man fallible",
+      "targetTime": 66.49323839057011
+    },
+    {
+      "name": "scepticism conclusion",
+      "targetTime": 78.87812125334075
+    },
+    {
+      "name": "indicate classic theory of truth",
+      "targetTime": 97.21888608591182
+    },
+    {
+      "name": "pragmatist conclusion",
+      "targetTime": 105.24439657044134
+    },
+    {
+      "name": "ethical implications",
+      "targetTime": 120.43626876549959
+    },
+    {
+      "name": "no unyielding principles",
+      "targetTime": 123.59614536141035
+    },
+    {
+      "name": "truth satisfies desires",
+      "targetTime": 136.67120465616625
+    },
+    {
+      "name": "purpose is pre-logical",
+      "targetTime": 158.36617057661454
+    },
+    {
+      "name": "ethical claim is true if it satisfies your whims",
+      "targetTime": 167.0873888261219
+    },
+    {
+      "name": "back to dewey",
+      "targetTime": 180.98234855574137
+    },
+    {
+      "name": "indicate dewey",
+      "targetTime": 183.32902507393302
+    },
+    {
+      "name": "get that shit outta here",
+      "targetTime": 184.32902507393302
+    },
+    {
+      "name": "scroll quote",
+      "targetTime": 229.10013952736634
+    },
+    {
+      "name": "quote in",
+      "targetTime": 186.1413990602826
+    },
+    {
+      "name": "primacy of consciousness",
+      "targetTime": 240.95195819821777
+    },
+    {
+      "name": "pocthesis",
+      "targetTime": 244.00856572114907
+    },
+    {
+      "name": "link to pragmatism",
+      "targetTime": 247.46398306791875
+    },
+    {
+      "name": "stolen concept",
+      "targetTime": 259.2148106816656
+    },
+    {
+      "name": "parasitic",
+      "targetTime": 272.87545743120364
+    },
+    {
+      "name": "in ethics blah",
+      "targetTime": 279.53652025378267
+    },
+    {
+      "name": "desire money",
+      "targetTime": 296.0052842721674
+    },
+    {
+      "name": "already have code of values",
+      "targetTime": 307.1375049928343
+    },
+    {
+      "name": "requires prior ethics",
+      "targetTime": 315.6014540646423
+    },
+    {
+      "name": "pragmatist epistemology parasitic",
+      "targetTime": 331.46240981027313
+    },
+    {
+      "name": "what it means to say something is true",
+      "targetTime": 336.2513723658808
+    },
+    {
+      "name": "example",
+      "targetTime": 344.99645758984354
+    },
+    {
+      "name": "elaboration",
+      "targetTime": 348.515003288571
+    },
+    {
+      "name": "infinite regress",
+      "targetTime": 357.39381660273165
+    },
+    {
+      "name": "end",
+      "targetTime": 388.28598029753414
+    }
+  ],
+  "seed": 1684042528
+}

@@ -1,0 +1,698 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "you | 񆼥",
+      "targetTime": 0
+    },
+    {
+      "name": "know | 񆼥",
+      "targetTime": 0.1
+    },
+    {
+      "name": "people | 񆼥",
+      "targetTime": 0.2
+    },
+    {
+      "name": "point | 񆼥",
+      "targetTime": 0.34
+    },
+    {
+      "name": "to | 񆼥",
+      "targetTime": 0.58
+    },
+    {
+      "name": "standard | 󵝟",
+      "targetTime": 0.72
+    },
+    {
+      "name": "oil | 󵝟",
+      "targetTime": 1.04
+    },
+    {
+      "name": "um | 󵝟",
+      "targetTime": 1.3
+    },
+    {
+      "name": "which | 󵝟",
+      "targetTime": 1.64
+    },
+    {
+      "name": "was | 񀃝",
+      "targetTime": 2.02
+    },
+    {
+      "name": "like | 񀃝",
+      "targetTime": 2.18
+    },
+    {
+      "name": "you | 񀃝",
+      "targetTime": 2.34
+    },
+    {
+      "name": "know | 񀃝",
+      "targetTime": 2.46
+    },
+    {
+      "name": "supposedly | 𧤍",
+      "targetTime": 2.56
+    },
+    {
+      "name": "one | 𧤍",
+      "targetTime": 3.4849005984585
+    },
+    {
+      "name": "of | 𧤍",
+      "targetTime": 3.5849005984585003
+    },
+    {
+      "name": "these | 𧤍",
+      "targetTime": 3.6849005984585004
+    },
+    {
+      "name": "natural | 𩼟",
+      "targetTime": 3.7849005984585005
+    },
+    {
+      "name": "monopolies | 𩼟",
+      "targetTime": 4.04
+    },
+    {
+      "name": "because | 喫",
+      "targetTime": 4.42
+    },
+    {
+      "name": "you | 喫",
+      "targetTime": 4.66
+    },
+    {
+      "name": "need | 喫",
+      "targetTime": 4.86
+    },
+    {
+      "name": "so | 喫",
+      "targetTime": 4.98
+    },
+    {
+      "name": "much | 喫",
+      "targetTime": 5.12
+    },
+    {
+      "name": "investment | 𱶩",
+      "targetTime": 5.26
+    },
+    {
+      "name": "to | 𱶩",
+      "targetTime": 6.149962990379056
+    },
+    {
+      "name": "get | 𱶩",
+      "targetTime": 6.249962990379055
+    },
+    {
+      "name": "into | 𱶩",
+      "targetTime": 6.349962990379055
+    },
+    {
+      "name": "the | 򕈡",
+      "targetTime": 6.5
+    },
+    {
+      "name": "oil | 򕈡",
+      "targetTime": 6.6
+    },
+    {
+      "name": "game | 򕈡",
+      "targetTime": 6.76
+    },
+    {
+      "name": "but | 򕈡",
+      "targetTime": 7.040329177721372
+    },
+    {
+      "name": "what | 򕈡",
+      "targetTime": 7.16
+    },
+    {
+      "name": "they | 񛲛",
+      "targetTime": 7.26
+    },
+    {
+      "name": "really | 񛲛",
+      "targetTime": 7.38
+    },
+    {
+      "name": "don't | 񛲛",
+      "targetTime": 7.52
+    },
+    {
+      "name": "tell | 񛲛",
+      "targetTime": 7.7
+    },
+    {
+      "name": "you | 򄳳",
+      "targetTime": 7.84
+    },
+    {
+      "name": "about | 򄳳",
+      "targetTime": 7.94
+    },
+    {
+      "name": "that | 򄳳",
+      "targetTime": 8.06
+    },
+    {
+      "name": "story | 򄳳",
+      "targetTime": 8.24
+    },
+    {
+      "name": "um | 򄳳",
+      "targetTime": 9.032999609113286
+    },
+    {
+      "name": "is | 񱻴",
+      "targetTime": 9.564991558480505
+    },
+    {
+      "name": "that | 񱻴",
+      "targetTime": 9.72
+    },
+    {
+      "name": "you | 񱻴",
+      "targetTime": 9.88
+    },
+    {
+      "name": "know | 񱻴",
+      "targetTime": 10
+    },
+    {
+      "name": "standard | 𷛱",
+      "targetTime": 10.215686923544194
+    },
+    {
+      "name": "was | 𷛱",
+      "targetTime": 10.62
+    },
+    {
+      "name": "continually | 𷛱",
+      "targetTime": 11.134739643543988
+    },
+    {
+      "name": "lowering | 򱄗",
+      "targetTime": 11.7
+    },
+    {
+      "name": "their | 򱄗",
+      "targetTime": 12.12
+    },
+    {
+      "name": "prices | 򱄗",
+      "targetTime": 12.26
+    },
+    {
+      "name": "in | 򱄗",
+      "targetTime": 13.112845083543577
+    },
+    {
+      "name": "order | 񔢿",
+      "targetTime": 13.22
+    },
+    {
+      "name": "to | 񔢿",
+      "targetTime": 13.34
+    },
+    {
+      "name": "stay | 񔢿",
+      "targetTime": 13.48
+    },
+    {
+      "name": "in | 񔢿",
+      "targetTime": 13.64
+    },
+    {
+      "name": "the | 񔢿",
+      "targetTime": 13.78
+    },
+    {
+      "name": "game | ⏻",
+      "targetTime": 13.879999999999999
+    },
+    {
+      "name": "because | ⏻",
+      "targetTime": 13.979999999999999
+    },
+    {
+      "name": "they | ⏻",
+      "targetTime": 14.08
+    },
+    {
+      "name": "just | ⏻",
+      "targetTime": 14.18
+    },
+    {
+      "name": "had | 񟽅",
+      "targetTime": 14.34
+    },
+    {
+      "name": "a | 񟽅",
+      "targetTime": 14.58
+    },
+    {
+      "name": "more | 񟽅",
+      "targetTime": 14.8
+    },
+    {
+      "name": "efficient | 񟽅",
+      "targetTime": 14.98
+    },
+    {
+      "name": "process | 󤂗",
+      "targetTime": 15.32
+    },
+    {
+      "name": "than | 󤂗",
+      "targetTime": 16.28675171949316
+    },
+    {
+      "name": "anybody | 󤂗",
+      "targetTime": 16.4
+    },
+    {
+      "name": "else | 򖆅",
+      "targetTime": 16.6
+    },
+    {
+      "name": "and | 򖆅",
+      "targetTime": 16.84
+    },
+    {
+      "name": "by | 򖆅",
+      "targetTime": 17.544682507341086
+    },
+    {
+      "name": "the | 򖆅",
+      "targetTime": 17.650849890633395
+    },
+    {
+      "name": "time | 򖆅",
+      "targetTime": 17.7825327888612
+    },
+    {
+      "name": "the | 򖆅-2740",
+      "targetTime": 18.042707441012862
+    },
+    {
+      "name": "trust | 񯣌",
+      "targetTime": 18.142707441012863
+    },
+    {
+      "name": "busters | 񯣌",
+      "targetTime": 18.439845474430296
+    },
+    {
+      "name": "got | 񯣌",
+      "targetTime": 18.8056297873413
+    },
+    {
+      "name": "in, | 񯣌",
+      "targetTime": 18.9056297873413
+    },
+    {
+      "name": "standards | 􋎔",
+      "targetTime": 19.88
+    },
+    {
+      "name": "peak | 􋎔",
+      "targetTime": 20.12
+    },
+    {
+      "name": "market | 􋎔",
+      "targetTime": 20.34
+    },
+    {
+      "name": "share | 񗅀",
+      "targetTime": 20.604815076639575
+    },
+    {
+      "name": "was | 񗅀",
+      "targetTime": 20.704815076639576
+    },
+    {
+      "name": "about | 񗅀",
+      "targetTime": 20.804815076639578
+    },
+    {
+      "name": "90% | 񗅀",
+      "targetTime": 21.004024151898353
+    },
+    {
+      "name": "they'd | 󏏫",
+      "targetTime": 22.008106853853295
+    },
+    {
+      "name": "gone | 󏏫",
+      "targetTime": 22.167312269733532
+    },
+    {
+      "name": "down | 󏏫",
+      "targetTime": 22.39212368699457
+    },
+    {
+      "name": "to | 󏏫",
+      "targetTime": 22.541728224623956
+    },
+    {
+      "name": "60% | 󏏫",
+      "targetTime": 22.641728224623957
+    },
+    {
+      "name": "by | 򲽵",
+      "targetTime": 23.715265429688248
+    },
+    {
+      "name": "the | 򲽵",
+      "targetTime": 23.81526542968825
+    },
+    {
+      "name": "time | 򲽵",
+      "targetTime": 23.91526542968825
+    },
+    {
+      "name": "the | 򲽵-4166",
+      "targetTime": 24.080787265362694
+    },
+    {
+      "name": "trust | 򲽵",
+      "targetTime": 24.180787265362696
+    },
+    {
+      "name": "busters | 鯈",
+      "targetTime": 24.375195901496042
+    },
+    {
+      "name": "got | 鯈",
+      "targetTime": 24.62
+    },
+    {
+      "name": "involved | 鯈",
+      "targetTime": 24.78
+    },
+    {
+      "name": "so | 鯈",
+      "targetTime": 25.345627957652024
+    },
+    {
+      "name": "they | 󦔒",
+      "targetTime": 25.46
+    },
+    {
+      "name": "were | 󦔒",
+      "targetTime": 25.560000000000002
+    },
+    {
+      "name": "already | 󦔒",
+      "targetTime": 25.68
+    },
+    {
+      "name": "losing | 󦔒",
+      "targetTime": 26.1
+    },
+    {
+      "name": "market | 򧥬",
+      "targetTime": 26.4
+    },
+    {
+      "name": "share | 򧥬",
+      "targetTime": 26.68
+    },
+    {
+      "name": "to | 򧥬",
+      "targetTime": 27.37683630103509
+    },
+    {
+      "name": "these | 򧥬",
+      "targetTime": 27.48
+    },
+    {
+      "name": "more | 𗻹",
+      "targetTime": 28.222442302415892
+    },
+    {
+      "name": "nimble | 𗻹",
+      "targetTime": 28.52
+    },
+    {
+      "name": "smaller | 𗻹",
+      "targetTime": 29.364027811276884
+    },
+    {
+      "name": "firms | 󐰾",
+      "targetTime": 29.74
+    },
+    {
+      "name": "who | 󐰾",
+      "targetTime": 30.28
+    },
+    {
+      "name": "were | 󐰾",
+      "targetTime": 30.46
+    },
+    {
+      "name": "able | 󐰾",
+      "targetTime": 30.560000000000002
+    },
+    {
+      "name": "to | 󐰾",
+      "targetTime": 30.7
+    },
+    {
+      "name": "just | 󙫏",
+      "targetTime": 30.84
+    },
+    {
+      "name": "get | 󙫏",
+      "targetTime": 31
+    },
+    {
+      "name": "in | 󙫏",
+      "targetTime": 31.16
+    },
+    {
+      "name": "there | 󙫏",
+      "targetTime": 31.32
+    },
+    {
+      "name": "you | 󙫏",
+      "targetTime": 31.580805562255374
+    },
+    {
+      "name": "know | 󐎥",
+      "targetTime": 31.7
+    },
+    {
+      "name": "they | 󐎥",
+      "targetTime": 31.96001463751415
+    },
+    {
+      "name": "weren't | 󐎥",
+      "targetTime": 32.16
+    },
+    {
+      "name": "super | 󐎥",
+      "targetTime": 32.56
+    },
+    {
+      "name": "bloated | 󰟦",
+      "targetTime": 32.72
+    },
+    {
+      "name": "because | 󰟦",
+      "targetTime": 33.18
+    },
+    {
+      "name": "at | 󰟦",
+      "targetTime": 33.72366963071397
+    },
+    {
+      "name": "a | 󰟦",
+      "targetTime": 33.84
+    },
+    {
+      "name": "certain | 񈠼",
+      "targetTime": 33.98
+    },
+    {
+      "name": "point | 񈠼",
+      "targetTime": 34.1
+    },
+    {
+      "name": "standard | 񈠼",
+      "targetTime": 34.42
+    },
+    {
+      "name": "oil | 󐫒",
+      "targetTime": 34.74
+    },
+    {
+      "name": "if | 󐫒",
+      "targetTime": 34.98
+    },
+    {
+      "name": "they | 󐫒",
+      "targetTime": 35.14
+    },
+    {
+      "name": "swallowed | 󐫒",
+      "targetTime": 35.24
+    },
+    {
+      "name": "the | 찱",
+      "targetTime": 35.54
+    },
+    {
+      "name": "entire | 찱",
+      "targetTime": 35.72
+    },
+    {
+      "name": "market | 찱",
+      "targetTime": 35.88
+    },
+    {
+      "name": "well | 찱",
+      "targetTime": 36.28
+    },
+    {
+      "name": "suddenly | 󉓍",
+      "targetTime": 36.58
+    },
+    {
+      "name": "they've | 󉓍",
+      "targetTime": 37.77609094797891
+    },
+    {
+      "name": "got | 󉓍",
+      "targetTime": 38
+    },
+    {
+      "name": "internal | 󘪩",
+      "targetTime": 38.12
+    },
+    {
+      "name": "calculation | 󘪩",
+      "targetTime": 38.56
+    },
+    {
+      "name": "problems | 񔨉",
+      "targetTime": 39.16
+    },
+    {
+      "name": "so | 񔨉",
+      "targetTime": 39.72
+    },
+    {
+      "name": "there's | 񔨉",
+      "targetTime": 40.1
+    },
+    {
+      "name": "dis | 񔨉",
+      "targetTime": 40.42
+    },
+    {
+      "name": "economies | 󸰿",
+      "targetTime": 40.62
+    },
+    {
+      "name": "of | 󸰿",
+      "targetTime": 41.02
+    },
+    {
+      "name": "scale | 󸰿",
+      "targetTime": 41.2
+    },
+    {
+      "name": "and | 󸰿",
+      "targetTime": 41.58965828424443
+    },
+    {
+      "name": "that's | 𜛈",
+      "targetTime": 41.7
+    },
+    {
+      "name": "why | 𜛈",
+      "targetTime": 41.92
+    },
+    {
+      "name": "no | 𜛈",
+      "targetTime": 42.18
+    },
+    {
+      "name": "company | 𜛈",
+      "targetTime": 42.52
+    },
+    {
+      "name": "can | 􎑴",
+      "targetTime": 42.84
+    },
+    {
+      "name": "really | 􎑴",
+      "targetTime": 43
+    },
+    {
+      "name": "stay | 􎑴",
+      "targetTime": 43.18
+    },
+    {
+      "name": "in | 􎑴",
+      "targetTime": 43.5
+    },
+    {
+      "name": "dominant | 򂳤",
+      "targetTime": 43.82
+    },
+    {
+      "name": "space | 򂳤",
+      "targetTime": 44.16
+    },
+    {
+      "name": "in | 򂳤",
+      "targetTime": 44.52
+    },
+    {
+      "name": "any | 򂳤",
+      "targetTime": 44.76
+    },
+    {
+      "name": "market | 򈓬",
+      "targetTime": 44.92
+    },
+    {
+      "name": "forever | 򈓬",
+      "targetTime": 45.713011302413896
+    },
+    {
+      "name": "unless | 򈓬",
+      "targetTime": 46.22
+    },
+    {
+      "name": "they | 𤡂",
+      "targetTime": 46.64
+    },
+    {
+      "name": "have | 𤡂",
+      "targetTime": 46.84
+    },
+    {
+      "name": "government | 𤡂",
+      "targetTime": 47.672920178212415
+    },
+    {
+      "name": "protections | 𛚫",
+      "targetTime": 47.952510119305735
+    },
+    {
+      "name": "End mkSubtitles for prefix: no prefix specified",
+      "targetTime": 48.733411594790596
+    }
+  ],
+  "seed": 1693628918
+}

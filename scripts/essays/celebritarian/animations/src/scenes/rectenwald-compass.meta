@@ -1,0 +1,14 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "rec in",
+      "targetTime": 0
+    },
+    {
+      "name": "rot",
+      "targetTime": 6.829117541979278
+    }
+  ],
+  "seed": 2479967950
+}

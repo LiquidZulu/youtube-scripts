@@ -1,0 +1,718 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "let's | 񋝅",
+      "targetTime": 0
+    },
+    {
+      "name": "see, | 񋝅",
+      "targetTime": 0.21264998141251248
+    },
+    {
+      "name": "they | 񋝅",
+      "targetTime": 0.3867258782807405
+    },
+    {
+      "name": "sent | 񋝅",
+      "targetTime": 0.48672587828074054
+    },
+    {
+      "name": "me | 񋝅",
+      "targetTime": 0.5867258782807405
+    },
+    {
+      "name": "this | 󈆯",
+      "targetTime": 0.7924215152541136
+    },
+    {
+      "name": "this | 󈆯-5699",
+      "targetTime": 1.1096528843691515
+    },
+    {
+      "name": "page | 󈆯",
+      "targetTime": 1.32
+    },
+    {
+      "name": "on | 󈆯",
+      "targetTime": 1.54
+    },
+    {
+      "name": "rational | 늁",
+      "targetTime": 2.353390644108519
+    },
+    {
+      "name": "wiki | 늁",
+      "targetTime": 2.72
+    },
+    {
+      "name": "called | 늁",
+      "targetTime": 3.04
+    },
+    {
+      "name": "the | 늁",
+      "targetTime": 3.26
+    },
+    {
+      "name": "neo | 򓢣",
+      "targetTime": 3.4
+    },
+    {
+      "name": "reactionary | 򓢣",
+      "targetTime": 3.62
+    },
+    {
+      "name": "movement | 򓢣",
+      "targetTime": 4.12
+    },
+    {
+      "name": "and | ԫ",
+      "targetTime": 4.32
+    },
+    {
+      "name": "it | ԫ",
+      "targetTime": 4.46
+    },
+    {
+      "name": "was | ԫ",
+      "targetTime": 4.56
+    },
+    {
+      "name": "the | ԫ",
+      "targetTime": 4.659999999999999
+    },
+    {
+      "name": "first | ԫ",
+      "targetTime": 4.759999999999999
+    },
+    {
+      "name": "I've | 񎹃",
+      "targetTime": 4.8599999999999985
+    },
+    {
+      "name": "heard | 񎹃",
+      "targetTime": 4.959999999999998
+    },
+    {
+      "name": "of | 񎹃",
+      "targetTime": 5.059999999999998
+    },
+    {
+      "name": "it | 񎹃",
+      "targetTime": 5.1599999999999975
+    },
+    {
+      "name": "so | 񎹃",
+      "targetTime": 5.259999999999997
+    },
+    {
+      "name": "I | 񎹃",
+      "targetTime": 5.762415510767027
+    },
+    {
+      "name": "don't | 螻",
+      "targetTime": 5.862415510767026
+    },
+    {
+      "name": "know | 螻",
+      "targetTime": 5.962415510767026
+    },
+    {
+      "name": "have | 螻",
+      "targetTime": 6.062415510767026
+    },
+    {
+      "name": "you | 螻",
+      "targetTime": 6.162415510767025
+    },
+    {
+      "name": "ever | 螻",
+      "targetTime": 6.262415510767025
+    },
+    {
+      "name": "heard | 􊿜",
+      "targetTime": 6.362415510767025
+    },
+    {
+      "name": "of | 􊿜",
+      "targetTime": 6.462415510767024
+    },
+    {
+      "name": "this | 􊿜",
+      "targetTime": 6.84
+    },
+    {
+      "name": "is | 􊿜",
+      "targetTime": 6.9399999999999995
+    },
+    {
+      "name": "this | 􊿜-9666",
+      "targetTime": 7.039999999999999
+    },
+    {
+      "name": "something | 󰻭",
+      "targetTime": 7.139999999999999
+    },
+    {
+      "name": "that | 󰻭",
+      "targetTime": 7.239999999999998
+    },
+    {
+      "name": "you're | 󰻭",
+      "targetTime": 7.339999999999998
+    },
+    {
+      "name": "familiar | 󮎜",
+      "targetTime": 7.439999999999998
+    },
+    {
+      "name": "with | 󮎜",
+      "targetTime": 7.6
+    },
+    {
+      "name": "do | 󮎜",
+      "targetTime": 7.88
+    },
+    {
+      "name": "you | 󮎜",
+      "targetTime": 8.12
+    },
+    {
+      "name": "know | 𢙇",
+      "targetTime": 8.219999999999999
+    },
+    {
+      "name": "about | 𢙇",
+      "targetTime": 8.319999999999999
+    },
+    {
+      "name": "Mencius | 𢙇",
+      "targetTime": 8.419999999999998
+    },
+    {
+      "name": "Moldbug— | 𢙇",
+      "targetTime": 8.787234617617399
+    },
+    {
+      "name": "I've | 󬀬",
+      "targetTime": 8.887234617617398
+    },
+    {
+      "name": "heard | 󬀬",
+      "targetTime": 8.987234617617398
+    },
+    {
+      "name": "of | 󬀬",
+      "targetTime": 9.087234617617398
+    },
+    {
+      "name": "it. | 󬀬",
+      "targetTime": 9.187234617617397
+    },
+    {
+      "name": "What | 񦞗",
+      "targetTime": 10.545905644789716
+    },
+    {
+      "name": "do | 񦞗",
+      "targetTime": 10.645905644789716
+    },
+    {
+      "name": "you | 񦞗",
+      "targetTime": 10.745905644789715
+    },
+    {
+      "name": "make | 񦞗",
+      "targetTime": 10.845905644789715
+    },
+    {
+      "name": "of | 񦞗",
+      "targetTime": 10.945905644789715
+    },
+    {
+      "name": "them? | 񦞗",
+      "targetTime": 11.045905644789714
+    },
+    {
+      "name": "um | 򔔰",
+      "targetTime": 11.594763071612235
+    },
+    {
+      "name": "I | 򔔰",
+      "targetTime": 12.153858491168384
+    },
+    {
+      "name": "think | 򔔰",
+      "targetTime": 12.253858491168383
+    },
+    {
+      "name": "they're | 򔔰",
+      "targetTime": 12.353858491168383
+    },
+    {
+      "name": "just | 򔔰",
+      "targetTime": 12.453858491168383
+    },
+    {
+      "name": "uh | 󥷀",
+      "targetTime": 12.871700374656902
+    },
+    {
+      "name": "you | 󥷀",
+      "targetTime": 13.5472346176174
+    },
+    {
+      "name": "know | 󥷀",
+      "targetTime": 13.680237408405238
+    },
+    {
+      "name": "a | 󥷀",
+      "targetTime": 13.843038196929427
+    },
+    {
+      "name": "bunch | 󥷀",
+      "targetTime": 13.943038196929427
+    },
+    {
+      "name": "of | 󥷀",
+      "targetTime": 14.043038196929427
+    },
+    {
+      "name": "voodoo | 􏑴",
+      "targetTime": 14.747234617617401
+    },
+    {
+      "name": "hoodoo | 􏑴",
+      "targetTime": 15.11386591908877
+    },
+    {
+      "name": "bullshit | 􏑴",
+      "targetTime": 15.548004529885487
+    },
+    {
+      "name": "going | 㿲",
+      "targetTime": 16.24352924864936
+    },
+    {
+      "name": "on | 㿲",
+      "targetTime": 16.34352924864936
+    },
+    {
+      "name": "like | 㿲",
+      "targetTime": 16.906955757069248
+    },
+    {
+      "name": "I | 㿲",
+      "targetTime": 17.21268247809677
+    },
+    {
+      "name": "think | 㿲",
+      "targetTime": 17.44478068844076
+    },
+    {
+      "name": "they | 𧲖",
+      "targetTime": 17.720487696363524
+    },
+    {
+      "name": "are | 𧲖",
+      "targetTime": 17.820872652497567
+    },
+    {
+      "name": "um | 𧲖",
+      "targetTime": 18.43195066261519
+    },
+    {
+      "name": "absolute | 𧲖",
+      "targetTime": 19.569794642379946
+    },
+    {
+      "name": "nonsense | 𝺫",
+      "targetTime": 20.14736928579317
+    },
+    {
+      "name": "mongers | 𝺫",
+      "targetTime": 20.61233561874923
+    },
+    {
+      "name": "they | 𝺫",
+      "targetTime": 21.281633040569027
+    },
+    {
+      "name": "speak | 𖓤",
+      "targetTime": 21.53297086284155
+    },
+    {
+      "name": "only | 𖓤",
+      "targetTime": 21.69170037465691
+    },
+    {
+      "name": "in | 𖓤",
+      "targetTime": 21.90787938590636
+    },
+    {
+      "name": "philosophese, | 񋃈",
+      "targetTime": 22.00787938590636
+    },
+    {
+      "name": "they're | 񋃈",
+      "targetTime": 23.002249236268106
+    },
+    {
+      "name": "just | 򽼭",
+      "targetTime": 23.185713841474488
+    },
+    {
+      "name": "an | 򽼭",
+      "targetTime": 23.28571384147449
+    },
+    {
+      "name": "absolute | 򽼭",
+      "targetTime": 23.38571384147449
+    },
+    {
+      "name": "they're | 򽼭",
+      "targetTime": 23.988764917956956
+    },
+    {
+      "name": "an | 󌀜",
+      "targetTime": 24.088764917956958
+    },
+    {
+      "name": "absolute | 󌀜",
+      "targetTime": 24.18876491795696
+    },
+    {
+      "name": "joke | 󌀜",
+      "targetTime": 24.520872652497566
+    },
+    {
+      "name": "of | 󌀜",
+      "targetTime": 25.53410668285043
+    },
+    {
+      "name": "a | 󌀜",
+      "targetTime": 25.85386591908878
+    },
+    {
+      "name": "community | 󾉮",
+      "targetTime": 25.98851462999868
+    },
+    {
+      "name": "Why? | 򇍰",
+      "targetTime": 26.623404104670232
+    },
+    {
+      "name": "Do | 򇍰",
+      "targetTime": 26.723404104670234
+    },
+    {
+      "name": "you | 򇍰",
+      "targetTime": 26.823404104670235
+    },
+    {
+      "name": "think | 𽹫",
+      "targetTime": 26.923404104670237
+    },
+    {
+      "name": "they're | 𽹫",
+      "targetTime": 27.097176807726154
+    },
+    {
+      "name": "never | 𽹫",
+      "targetTime": 27.197176807726155
+    },
+    {
+      "name": "going | 􏁬",
+      "targetTime": 27.297176807726157
+    },
+    {
+      "name": "to | 􏁬",
+      "targetTime": 27.397176807726158
+    },
+    {
+      "name": "see | 􏁬",
+      "targetTime": 27.49717680772616
+    },
+    {
+      "name": "any | 􏁬",
+      "targetTime": 27.848004529885497
+    },
+    {
+      "name": "of | 􏁬",
+      "targetTime": 27.948004529885498
+    },
+    {
+      "name": "their | 񯹜",
+      "targetTime": 28.0480045298855
+    },
+    {
+      "name": "stuff | 񯹜",
+      "targetTime": 28.29590631954151
+    },
+    {
+      "name": "realized | 񯹜",
+      "targetTime": 28.77636835553056
+    },
+    {
+      "name": "in | 񯹜",
+      "targetTime": 29.540737984321805
+    },
+    {
+      "name": "material | 򶴷",
+      "targetTime": 30.087802453765015
+    },
+    {
+      "name": "reality | 򶴷",
+      "targetTime": 30.419371220175233
+    },
+    {
+      "name": "in | 򶴷",
+      "targetTime": 31.268368862639615
+    },
+    {
+      "name": "their | 򺔶",
+      "targetTime": 31.368368862639617
+    },
+    {
+      "name": "life | 򺔶",
+      "targetTime": 31.46836886263962
+    },
+    {
+      "name": "times? | 򺔶",
+      "targetTime": 31.56836886263962
+    },
+    {
+      "name": "I | 𰅱",
+      "targetTime": 32.31752765612527
+    },
+    {
+      "name": "don't | 𰅱",
+      "targetTime": 32.41752765612527
+    },
+    {
+      "name": "even | 𰅱",
+      "targetTime": 32.517527656125274
+    },
+    {
+      "name": "know | 𰅱",
+      "targetTime": 32.617527656125276
+    },
+    {
+      "name": "what | 󤙊",
+      "targetTime": 32.71752765612528
+    },
+    {
+      "name": "they're | 󤙊",
+      "targetTime": 32.81752765612528
+    },
+    {
+      "name": "saying | 󤙊",
+      "targetTime": 32.91752765612528
+    },
+    {
+      "name": "and | 򃏷",
+      "targetTime": 33.60752261020465
+    },
+    {
+      "name": "I | 򃏷",
+      "targetTime": 33.86036252867089
+    },
+    {
+      "name": "don't | 򃏷",
+      "targetTime": 33.96036252867089
+    },
+    {
+      "name": "think | 򃏷",
+      "targetTime": 34.06036252867089
+    },
+    {
+      "name": "they | 񏢎",
+      "targetTime": 34.17670158737283
+    },
+    {
+      "name": "know | 񏢎",
+      "targetTime": 34.336980307570734
+    },
+    {
+      "name": "what | 񏢎",
+      "targetTime": 34.55778758696053
+    },
+    {
+      "name": "they're | 񏢎",
+      "targetTime": 34.65778758696053
+    },
+    {
+      "name": "saying | 󣓣",
+      "targetTime": 34.75778758696053
+    },
+    {
+      "name": "like | 󣓣",
+      "targetTime": 35.59488486016582
+    },
+    {
+      "name": "I | 󣓣",
+      "targetTime": 35.69488486016582
+    },
+    {
+      "name": "can | 󣓣",
+      "targetTime": 35.79488486016582
+    },
+    {
+      "name": "I | 󣓣-5275",
+      "targetTime": 36.57526901333813
+    },
+    {
+      "name": "can | 󣓣-6491",
+      "targetTime": 36.67526901333813
+    },
+    {
+      "name": "probably | 𐒇",
+      "targetTime": 36.77526901333813
+    },
+    {
+      "name": "find | 𐒇",
+      "targetTime": 37.09146366602049
+    },
+    {
+      "name": "like | 𐒇",
+      "targetTime": 37.50461118588855
+    },
+    {
+      "name": "a | 𐒇",
+      "targetTime": 37.68600478687807
+    },
+    {
+      "name": "screenshot | 􆄎",
+      "targetTime": 38.078537103942494
+    },
+    {
+      "name": "I | 􆄎",
+      "targetTime": 39.2911459727774
+    },
+    {
+      "name": "took | 􆄎",
+      "targetTime": 39.46181389206824
+    },
+    {
+      "name": "on | 􆄎",
+      "targetTime": 40.023620527433984
+    },
+    {
+      "name": "twitter | 뽬",
+      "targetTime": 40.17586542677912
+    },
+    {
+      "name": "this | 뽬",
+      "targetTime": 40.61812406956627
+    },
+    {
+      "name": "this | 뽬-6766",
+      "targetTime": 40.954779427191426
+    },
+    {
+      "name": "is | 뽬",
+      "targetTime": 41.05477942719143
+    },
+    {
+      "name": "from | 󵥘",
+      "targetTime": 41.24519750748828
+    },
+    {
+      "name": "Fanged | 󵥘",
+      "targetTime": 41.946696541452205
+    },
+    {
+      "name": "Noumena | 󵥘",
+      "targetTime": 42.44276557747763
+    },
+    {
+      "name": "like | 󵥘",
+      "targetTime": 42.97454208223564
+    },
+    {
+      "name": "that | 򾿷",
+      "targetTime": 43.159790095429244
+    },
+    {
+      "name": "is | 򾿷",
+      "targetTime": 43.28152965116804
+    },
+    {
+      "name": "those | 򾿷",
+      "targetTime": 43.484611185888554
+    },
+    {
+      "name": "are | 򾿷",
+      "targetTime": 43.67172843954659
+    },
+    {
+      "name": "actual | 򾿷",
+      "targetTime": 43.845088277997064
+    },
+    {
+      "name": "pages | 򘢨",
+      "targetTime": 44.24223550733841
+    },
+    {
+      "name": "in | 򘢨",
+      "targetTime": 44.66926346365262
+    },
+    {
+      "name": "Fanged | 򘢨",
+      "targetTime": 44.82902491759836
+    },
+    {
+      "name": "Noumena | 򘢨",
+      "targetTime": 45.12158960253465
+    },
+    {
+      "name": "oh | 񣞎",
+      "targetTime": 45.590118568533406
+    },
+    {
+      "name": "my | 񣞎",
+      "targetTime": 45.69011856853341
+    },
+    {
+      "name": "god, | 񣞎",
+      "targetTime": 45.79011856853341
+    },
+    {
+      "name": "this | 􇴂",
+      "targetTime": 45.89011856853341
+    },
+    {
+      "name": "is | 􇴂",
+      "targetTime": 45.99011856853341
+    },
+    {
+      "name": "nonsense | 􇴂",
+      "targetTime": 46.09011856853341
+    },
+    {
+      "name": "hold | 򫵵",
+      "targetTime": 46.517146524847625
+    },
+    {
+      "name": "on... | 򫵵",
+      "targetTime": 46.61714652484763
+    },
+    {
+      "name": "Look | 󍅇",
+      "targetTime": 48.1189584075256
+    },
+    {
+      "name": "at | 󍅇",
+      "targetTime": 48.2189584075256
+    },
+    {
+      "name": "that! | 󍅇",
+      "targetTime": 48.3189584075256
+    },
+    {
+      "name": "End mkSubtitles for prefix: no prefix specified",
+      "targetTime": 48.765097992549485
+    }
+  ],
+  "seed": 355366505
+}

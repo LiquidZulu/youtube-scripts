@@ -1,0 +1,86 @@
+import { makeScene2D, Rect, Ray, Img, Video } from "@motion-canvas/2d";
+import {
+  all,
+  chain,
+  waitFor,
+  createRef,
+  createRefArray,
+  createSignal,
+} from "@motion-canvas/core";
+import {
+  McasTxt as Txt,
+  popin,
+  popout,
+  fadein,
+  fadeout,
+  mkSubtitles,
+  TranscriptAtom,
+  subtitlesProps,
+  highFill,
+} from "mcas";
+import * as colors from "mcas/colors";
+import video from "/home/liquidzulu/Documents/youtube-scripts/shorts/debate-clips/skg/animations/src/assets/video.mp4";
+
+export default makeScene2D(function* (view) {
+  //view.add(<Video zIndex={-999} src={video} play />);
+
+  yield* mkSubtitles(
+    view,
+    [
+      <Txt {...subtitlesProps}>Let's say there's like</Txt>,
+      <Txt {...subtitlesProps}>somebody who makes a</Txt>,
+      <Txt {...subtitlesProps}>game that would normally</Txt>,
+      <Txt {...subtitlesProps}>be a hit, but they're</Txt>,
+      <Txt {...subtitlesProps}>not that well known.</Txt>,
+      <Txt {...subtitlesProps}>There would be, I think,</Txt>,
+      <Txt {...subtitlesProps}>an industry popping up</Txt>,
+      <Txt {...subtitlesProps}>immediately that's on</Txt>,
+      <Txt {...subtitlesProps}>the prowl for stuff like</Txt>,
+      <Txt {...subtitlesProps}>this. They see, okay,</Txt>,
+      <Txt {...subtitlesProps}>this game's for sale for</Txt>,
+      <Txt {...subtitlesProps}>$10. We're just going to</Txt>,
+      <Txt {...subtitlesProps}>copy it, put our name on</Txt>,
+      <Txt {...subtitlesProps}>it, and we're going to</Txt>,
+      <Txt {...subtitlesProps}>put it out for $2</Txt>,
+      <Txt {...subtitlesProps}>immediately and market</Txt>,
+      <Txt {...subtitlesProps}>it everywhere. Any game</Txt>,
+      <Txt {...subtitlesProps}>that gets out, they're</Txt>,
+      <Txt {...subtitlesProps}>immediately going to</Txt>,
+      <Txt {...subtitlesProps}>undercut it and</Txt>,
+      <Txt {...subtitlesProps}>kind of take it.</Txt>,
+      [
+        highFill(colors.emerald500),
+        <Txt {...subtitlesProps}>I don't think</Txt>,
+      ],
+      <Txt {...subtitlesProps}>this is too much of a</Txt>,
+      <Txt {...subtitlesProps}>concern. I mean, you</Txt>,
+      <Txt {...subtitlesProps}>know, look at the open</Txt>,
+      <Txt {...subtitlesProps}>source software</Txt>,
+      <Txt {...subtitlesProps}>community. You know, a</Txt>,
+      <Txt {...subtitlesProps}>lot of software outside</Txt>,
+      <Txt {...subtitlesProps}>of games is open source.</Txt>,
+      <Txt {...subtitlesProps}>It's not like Microsoft</Txt>,
+      <Txt {...subtitlesProps}>just comes along and</Txt>,
+      <Txt {...subtitlesProps}>sees RipGrep and goes,</Txt>,
+      <Txt {...subtitlesProps}>well, we're going to</Txt>,
+      <Txt {...subtitlesProps}>remake RipGrep ourselves</Txt>,
+      <Txt {...subtitlesProps}>and everybody will use</Txt>,
+      <Txt {...subtitlesProps}>our version. Or, you</Txt>,
+      <Txt {...subtitlesProps}>know, we'll remake</Txt>,
+      <Txt {...subtitlesProps}>whatever else and then</Txt>,
+      <Txt {...subtitlesProps}>everybody will use ours.</Txt>,
+      <Txt {...subtitlesProps}>We'll make our own Linux</Txt>,
+      <Txt {...subtitlesProps}>kernel. That's generally</Txt>,
+      <Txt {...subtitlesProps}>not how it happens.</Txt>,
+      <Txt {...subtitlesProps}>Generally, the first</Txt>,
+      <Txt {...subtitlesProps}>mover, they get the</Txt>,
+      <Txt {...subtitlesProps}>advantage there. They're</Txt>,
+      <Txt {...subtitlesProps}>the ones who people go</Txt>,
+      <Txt {...subtitlesProps}>to because they're the</Txt>,
+      <Txt {...subtitlesProps}>originator. You want the</Txt>,
+      <Txt {...subtitlesProps}>original.</Txt>,
+    ] as TranscriptAtom[],
+    undefined,
+    { fill: colors.amber500 },
+  );
+});

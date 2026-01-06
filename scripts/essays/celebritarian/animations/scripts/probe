@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+
+echo "Probing src/audio.wav\n"
+
+ffprobe src/audio.wav
+
+echo "\n\n---\n\nCopying audio to src/data/${1:-audio}.wav"
+
+mkdir -p src/data
+
+cp src/audio.wav "src/data/${1:-audio}.wav"

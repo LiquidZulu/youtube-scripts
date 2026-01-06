@@ -1,0 +1,38 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "against IP",
+      "targetTime": 3.8703575927148965
+    },
+    {
+      "name": "details",
+      "targetTime": 4.895489722397635
+    },
+    {
+      "name": "property from scarcity",
+      "targetTime": 5.895489722397635
+    },
+    {
+      "name": "action excludes",
+      "targetTime": 15.396835065482726
+    },
+    {
+      "name": "determines who is allowed",
+      "targetTime": 18.44212961429875
+    },
+    {
+      "name": "own the stick implies",
+      "targetTime": 22.951719557424823
+    },
+    {
+      "name": "none of this",
+      "targetTime": 29.412485661050596
+    },
+    {
+      "name": "end",
+      "targetTime": 34.43028854638433
+    }
+  ],
+  "seed": 1663615565
+}

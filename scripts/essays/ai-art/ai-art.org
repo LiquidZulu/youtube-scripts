@@ -1,7 +1,7 @@
 #+title: In Defense of AI Image Generation
 #+yt-titles: No, AI is not Stealing Your Art | AI Art is Real Art | Anti-AI Art is Anti-Human | The Anti-AI Movement is Anti-Human | The Truth About the Anti-AI Art Movement [THUMB: "They Hate Humanity" | image of anti-AI logo "this is anti-human" | "Anti-AI = Anti-Human"] | Every Criticism of AI-Art is Wrong | In Defense of AI Art
-#+options: num:nil toc:nil
 #+latex_class: article
+#+options: num:nil toc:nil
 #+begin_export md
 ---
 title: "In Defense of AI Image Generation"

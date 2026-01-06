@@ -1,0 +1,86 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "first zoom",
+      "targetTime": 4.156860145191768
+    },
+    {
+      "name": "hannah goodman",
+      "targetTime": 9.481674235643805
+    },
+    {
+      "name": "The strategy of Colorado ...",
+      "targetTime": 10.481674235643805
+    },
+    {
+      "name": "I'm in a blue super majority ...",
+      "targetTime": 15.772007923734929
+    },
+    {
+      "name": "How the fuck do we break up ...",
+      "targetTime": 20.809969041938345
+    },
+    {
+      "name": "This play has made Colorado ...",
+      "targetTime": 23.2611113187927
+    },
+    {
+      "name": "No one is saying ...",
+      "targetTime": 25.806286276980106
+    },
+    {
+      "name": "Chase by his own admission ...",
+      "targetTime": 29.02464357542329
+    },
+    {
+      "name": "I'd argue RFK could be considered ...",
+      "targetTime": 32.20135699070482
+    },
+    {
+      "name": "RFK is polling ...",
+      "targetTime": 35.5042566909302
+    },
+    {
+      "name": "Colorado doesnt care about internal ...",
+      "targetTime": 38.79169067879594
+    },
+    {
+      "name": "We care about ...",
+      "targetTime": 41.909401903678884
+    },
+    {
+      "name": "I don't want to grow voters ...",
+      "targetTime": 45.50162007250546
+    },
+    {
+      "name": "My KPI is gaining more votes ...",
+      "targetTime": 49.403904626214164
+    },
+    {
+      "name": "slipped the mask",
+      "targetTime": 53.280352157947085
+    },
+    {
+      "name": "we care about taking down the state",
+      "targetTime": 56.97105530602911
+    },
+    {
+      "name": "these sort of people",
+      "targetTime": 61.712050270810494
+    },
+    {
+      "name": "telling that her KPI",
+      "targetTime": 93.46800035986384
+    },
+    {
+      "name": "swing state",
+      "targetTime": 118.41704749600626
+    },
+    {
+      "name": "end",
+      "targetTime": 153.0529364897186
+    }
+  ],
+  "seed": 3330986206
+}

@@ -1,0 +1,38 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "eight separate points",
+      "targetTime": 4.932654519471239
+    },
+    {
+      "name": "refuting winograd",
+      "targetTime": 12.569519738684889
+    },
+    {
+      "name": "get rid of that shit",
+      "targetTime": 16.32946773128831
+    },
+    {
+      "name": "massie",
+      "targetTime": 18.37555729994665
+    },
+    {
+      "name": "rebekah's shit",
+      "targetTime": 20.128147406059373
+    },
+    {
+      "name": "massie out",
+      "targetTime": 21.83235348654129
+    },
+    {
+      "name": "monhop in",
+      "targetTime": 40.36647678579489
+    },
+    {
+      "name": "end",
+      "targetTime": 68.1917761186605
+    }
+  ],
+  "seed": 2550769583
+}

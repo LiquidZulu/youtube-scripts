@@ -1,0 +1,872 @@
+1
+00:00:00,534 --> 00:00:02,569
+Ahoj, volám sa Ross.
+
+2
+00:00:02,569 --> 00:00:04,905
+Už niekoľko mesiacov
+Pracujem na kampani, 
+
+3
+00:00:04,905 --> 00:00:07,774
+ktorá má zabrániť ničeniu videohier.
+
+4
+00:00:07,774 --> 00:00:13,213
+Väčšina videohier je teoreticky hrateľných donekonečna,
+a... Teda, to je v podstate všetko.
+
+5
+00:00:13,213 --> 00:00:15,582
+Ale čím ďalej tým viac hier
+je vyrábaných tak, že po čase prestanú fungovať
+
+6
+00:00:15,582 --> 00:00:20,120
+hneď ako prestane ich technická podpora
+od ich vydavateľov -- v zásade ich znefunkčnia stlačením gombíka.
+
+7
+00:00:20,120 --> 00:00:22,623
+Je to forma plánovaného zastarania
+
+8
+00:00:22,623 --> 00:00:26,260
+a vydavatelia hier ničia hry
+ktoré Vám predali,
+
+9
+00:00:26,260 --> 00:00:27,934
+ale Vaše peniaze si nechajú.
+
+10
+00:00:27,934 --> 00:00:31,331
+A tomuto všetému sa dá predísť -- niektorí
+ľudia to však nechápu. 
+
+11
+00:00:31,331 --> 00:00:34,401
+Prirovnal som to v minulosti 
+k filmovým štúdiám, ktoré pred sto rokmi
+
+12
+00:00:34,401 --> 00:00:37,437
+pálili vlastné filmy po tom, 
+čo ich skončili premietať v kinách,
+
+13
+00:00:37,437 --> 00:00:39,206
+aby opäť získali striebro z filmoých pásiek.
+
+14
+00:00:39,206 --> 00:00:42,509
+A teraz je väčšína filmov 
+z tej éry filmu stratených naveky. 
+
+15
+00:00:42,509 --> 00:00:46,213
+A niečo veľmi podobné sa dnes 
+deje s videohrami.
+
+16
+00:00:46,213 --> 00:00:49,750
+Je to jednoducho hrozná obchodná
+praktika pre všetkých z nás.
+
+17
+00:00:49,750 --> 00:00:51,451
+Väčšinu svoj úsilia teraz smerujem
+
+18
+00:00:51,451 --> 00:00:55,055
+do toho, či táketo niečo je vôbec  
+legálne vo viacerých krajinách sveta,
+
+19
+00:00:55,055 --> 00:01:00,627
+pretože je to nastavé proti spotrebiteľom tak veľmi, 
+že nie je jansé či to je vôbec legálne. 
+
+20
+00:01:00,627 --> 00:01:04,531
+Toto úsilie stále beží, ale 
+teraz máme novú možnosť:
+
+21
+00:01:04,531 --> 00:01:08,802
+navrhnúť nový zákon a
+to pre celú Európsku úniu. 
+
+22
+00:01:08,802 --> 00:01:11,872
+Trvalo mesiace, kým sa všetko 
+spracovalo a spísalo, 
+
+23
+00:01:11,872 --> 00:01:15,175
+ale teraz máme vlastnú oficiálnu
+Európsku občiansku iniciatívu
+
+24
+00:01:15,175 --> 00:01:18,578
+zameranú na zastavenie 
+ničenia videohier.
+
+25
+00:01:18,578 --> 00:01:20,180
+Sami si ju môžte prečítať.
+
+26
+00:01:20,180 --> 00:01:23,450
+Požadujeme, aby vydavatelia videohier, 
+tieto videohry, ktoré nám už raz predali, ponechali v hrateľné 
+
+27
+00:01:23,450 --> 00:01:26,119
+aj v momente ako ich prestanu technicky podporovať.
+
+28
+00:01:26,119 --> 00:01:28,789
+Jednoducho, aby hry po ukončení podpory zo starny vydavateľa,
+boli naďalej hrateľné a 
+
+
+29
+00:01:28,789 --> 00:01:31,758
+nevyžadovali pripojenie na servery vydavateľa
+alebo servery tretích strán napojených na vydavateľa.
+
+30
+00:01:31,758 --> 00:01:34,227
+Ako to vydavatelia technicky vyriešia je na nich. 
+
+31
+00:01:34,227 --> 00:01:38,699
+Iniciatíva sa zároveň vzťahuje na hry, 
+ktoré sú zadarmo, ale obsahujú mikronákupy,
+
+32
+00:01:38,699 --> 00:01:42,302
+pretože ak si niečo pomocou mikronákupu 
+zakúpite ako tovar,
+
+33
+00:01:42,302 --> 00:01:46,540
+ale videohra sa potom stane nehrateľnou, 
+tak ste o svoj tovar jednoducho prišli. 
+
+34
+00:01:46,540 --> 00:01:48,942
+NEVYŽADUJEME aby sa vydavatelia videohier vzdali 
+
+35
+00:01:48,942 --> 00:01:51,244
+svojich práv duševného vlastníctva,
+
+36
+00:01:51,244 --> 00:01:55,082
+alebo vzdali sa zdrojových kódov -- aj keď
+to by bolo celkom fajn --
+
+37
+00:01:55,082 --> 00:01:57,517
+a nevyžadujeme ani nekonečnú podporu zo strany vydavateľa. 
+
+38
+00:01:57,517 --> 00:02:00,654
+Vydavatelia by za týchto podmienok mohli pordporu 
+ukončiť kedykoľvek kedy sa mi zachce, nám by to bolo jedno.
+
+
+39
+00:02:00,654 --> 00:02:04,124
+Nemuseli by prevádzkovať servery,
+ale museli by buď hru aktualizovať 
+
+40
+00:02:04,124 --> 00:02:08,261
+aby bola hrateľná bez pripojenia na ich servery alebo
+umožniť zákazníkom, aby prevádzkovali vlastné servery.
+
+41
+00:02:08,261 --> 00:02:13,467
+Vydavayelia by nemali ŽIDANU zodpovednosť za to, 
+čo ich by ich zákazníci so svojimi kópiami videhier robili.
+
+42
+00:02:13,467 --> 00:02:17,037
+A nakoniec, nič z v tejto inicatíve
+nemá žiaden dopad na to, 
+
+43
+00:02:17,037 --> 00:02:21,141
+ako vydavatelia budú s videohrami narábať, 
+kým ich budú technicky podporovať.
+
+44
+00:02:21,141 --> 00:02:25,946
+Inak povedané, vydavatelia môžu
+robiť co len budú chieť, 
+
+45
+00:02:25,946 --> 00:02:27,914
+pokiaľ bude videohra pre zákazníkov hrateľná.
+
+46
+00:02:27,914 --> 00:02:33,153
+Prekvapuje ma, keď ľudia hovoria "tak toto
+zachádza prílš ďaleko" v prospech zákazníkov a spotrebiteľov.
+
+47
+00:02:33,153 --> 00:02:36,390
+Ale aby som bol férový, nemyslí 
+si to asi väčšína Európanov.
+
+48
+00:02:36,390 --> 00:02:42,095
+JEDINÉ čo chceme je, zastaviť 
+ničenie videohier. TO JE VŠETKO. 
+
+49
+00:02:42,095 --> 00:02:47,134
+Takže sa sústreďujeme na čo najužší počet 
+riešéní, ktoré by ničeniu zabránili a predišli.
+
+50
+00:02:47,134 --> 00:02:48,602
+Ak zozbierame dosť podpisov, 
+
+51
+00:02:48,602 --> 00:02:52,706
+naša iniciatíva bude predložená priamo zákonodarcom
+Európskej únie na spracovanie ako možný zákon.
+
+52
+00:02:52,706 --> 00:02:55,308
+Ak s týmto súhlasíte, 
+nemusíte ani pozerať ďalej -- 
+
+53
+00:02:55,308 --> 00:02:57,010
+rovno môžte ísť iniciatívu podpísať. 
+
+54
+00:02:57,010 --> 00:03:01,815
+Ale počkajte! Predtým, ako podpíšete, 
+vedzte, že máte LEN JEDEN POKUS tak spraviť správne. 
+
+55
+00:03:01,815 --> 00:03:04,217
+Nie je to náročné, ale ak sa niekde pomýlite, 
+
+56
+00:03:04,217 --> 00:03:07,554
+Váš podpis bude neplatný, 
+a nemáte možnosť svoju chybu opraviť.
+
+57
+00:03:07,554 --> 00:03:12,292
+Na stopkillinggames.com nájdete návody ako podpísať
+správne a v rôznych jazykoch, len pre istotu.
+
+58
+00:03:12,292 --> 00:03:16,963
+Ale je to naozaj také jednoduché? Dosť
+podpisov a stane sa z toho zákon v EÚ?
+
+59
+00:03:16,963 --> 00:03:19,399
+Um, ÁNO, je to možné!
+
+60
+00:03:19,399 --> 00:03:24,237
+Samozrejme, ničie nie je isté na 100%, ale 
+myslím si, že ak budeme mať dosť podpisov, tak to prejde. 
+
+61
+00:03:24,237 --> 00:03:27,074
+Prečo si to myslím? No, z viacerých dôvodov: 
+
+62
+00:03:27,074 --> 00:03:31,978
+Politici majú radi ľahko riešiteľné problémy a 
+na riešenie tohto problému veľa spraviť nemusia.
+
+63
+00:03:31,978 --> 00:03:35,082
+A pokiaľ sa to netýka hazardných hier, 
+alebo ochrany maloletých,
+
+64
+00:03:35,082 --> 00:03:38,351
+politici sa videohrami vo všeobecnosti
+veľmi nezaoberajú.
+
+65
+00:03:38,351 --> 00:03:42,689
+Čiže toto nemá veľký dopad či už
+na nich alebo ich voličov.
+
+66
+00:03:42,689 --> 00:03:47,094
+Zákony EÚ sú už teraz dosť nejasné 
+čo sa týka tychto obchodných praktík, 
+
+67
+00:03:47,094 --> 00:03:50,130
+a naše úsilie by im pomohlo
+tieto nejasnosti vyriešiť.
+
+68
+00:03:50,130 --> 00:03:52,966
+Zároveň pekne zapadáme do existúcich 
+opatrení do ochrany spotrebiteľa--
+
+69
+00:03:52,966 --> 00:03:57,337
+poznáte to, ak niečo KÚPITE, tak si to vo väčšine prípadov 
+môžte NECHAŤ? VLASTNIŤ? Alebo viete aspoň na ako dlho?
+
+70
+00:03:57,337 --> 00:04:00,607
+A nakoniec, toto je pekné odvrátenie
+pozornosti od vážńych problémov, 
+
+71
+00:04:00,607 --> 00:04:03,076
+s ktorými by sa politici 
+radi radšej nezaoberali.
+
+72
+00:04:03,076 --> 00:04:06,480
+Môžu sa pretvarovať, že niečo 
+robia A ZÁROVEŇ sa vyhnúť náročným témam. 
+
+73
+00:04:06,480 --> 00:04:10,183
+Dokonca by som sa stavil, že 
+ak prekonáme hranicu počtu podpisov,
+
+74
+00:04:10,183 --> 00:04:14,621
+tak sa z tohto stane zákon a 
+tento problém vyriešime na 90% a aj viac.
+
+75
+00:04:14,621 --> 00:04:18,692
+90%, lebo by to malo 
+dopad len na EÚ,
+
+76
+00:04:18,692 --> 00:04:25,031
+a ak videohru vydajú len v Číne 
+alebo Japnosku, tak áno, tú nezachránime,
+
+77
+00:04:25,031 --> 00:04:29,636
+ale drvivá väčšina hier sa predáva 
+globálne a EÚ je súčasťou svetového trhu.
+
+78
+00:04:29,636 --> 00:04:31,404
+Ak už raz vydavatelia a vývojári videohier musia tieto podmienky spĺňať 
+
+79
+00:04:31,404 --> 00:04:35,942
+a musia zákazníkom umožniť hrať hry, ktoré
+Vám predali, hlavne na tak veľkom trhu akým je EÚ,
+
+80
+00:04:35,942 --> 00:04:40,413
+myslím si, že sa to rozšíri či už sa to stane 
+zákonom aj v iných častiach sveta alebo nie.
+
+81
+00:04:40,413 --> 00:04:45,385
+Žiaľ, na čo by som si NESTAVIL, 
+--lebo to je veľká neznáma-- 
+
+82
+00:04:45,385 --> 00:04:49,256
+či vôbec prekonáme hranicu 
+počtu podpisov.
+
+83
+00:04:49,256 --> 00:04:55,095
+Aby sme uspeli, potrebujeme
+jeden milión podpisov z celej EÚ...
+
+84
+00:04:55,095 --> 00:05:02,536
+ale v skutočnosti potrebujeme ešte VIAC, pretože niektoré 
+podpisy budú vyhlásené za neplatné, lebo...ktovie prečo. 
+
+85
+00:05:02,536 --> 00:05:08,341
+Čiže realisticky potrebujeme 
+1,2 aŽ 1,3 milóna podpisov.
+
+86
+00:05:08,341 --> 00:05:14,781
+A je to ěste horšie, pretože každá členská  
+krajina ma vlastnú hranicu podpisov.
+
+87
+00:05:14,781 --> 00:05:17,350
+Povedzme, že to podpíše niekto z Grécka.
+
+88
+00:05:17,350 --> 00:05:25,292
+To znamená, že to musí podpísať ĎAĽŠÍCH 15000 Grékov, 
+inak sa NEPREKONÁ táto hranica.
+
+89
+00:05:25,292 --> 00:05:28,895
+Toto pravidlo mi príde trochu
+tupé a nepríjmné.
+
+90
+00:05:28,895 --> 00:05:33,066
+Zaujímalo by ma, či sa tu EÚ trochu neinšpirovala 
+volebným systémom Spojených štátov amerických.
+
+91
+00:05:33,066 --> 00:05:35,836
+V každom prípade, je to veľné mnoštvo podpisov.
+
+92
+00:05:35,836 --> 00:05:40,874
+Možno mi šiblo, že som o toto   
+vôbec pokúsil, zatiaľ neviem.
+
+93
+00:05:40,874 --> 00:05:46,680
+Teraz však dobré správy - máme jeden celý rok 
+aby sme podpisy zozbirali, teda máme dosť času.
+
+94
+00:05:46,680 --> 00:05:48,248
+Aj keď hneď teraz na začiatok priznávam, 
+
+95
+00:05:48,248 --> 00:05:52,452
+že toľko ľudí v Európe nezmobilizujem 
+len ja sám zo svojho vlastného obecenstva.
+
+96
+00:05:52,452 --> 00:05:58,258
+Jediný spôsob ako toto môže fungovať je, že nadviažeme kontakt 
+s inými Youtubermi a streamermi z Európy alebo európskym obecenstvom a
+
+97
+00:05:58,258 --> 00:06:03,330
+získame ich na svoju stranu a zároveň
+tých, ktorý neprodukujú obsah len v angličtine.
+
+98
+00:06:03,330 --> 00:06:08,134
+Ja sa budem maximálne snažiť túto iniciatívu propagovať, 
+najlepšie ako viem, ale mám obmedzený dosah.
+
+99
+00:06:08,134 --> 00:06:11,104
+Dokonca, odkedy som začal so kampaňou Stop Killing Games,
+
+100
+00:06:11,104 --> 00:06:15,742
+odhadol by som, že KAŽDÝ, koho 
+som oslovil a kontaktoval, mi nikdy neodpovedal.
+
+101
+00:06:15,742 --> 00:06:19,946
+Čiže moje úsilie o kontakt z mojej strany jednoducho 
+nefunguje -- totálne neefektívne.
+
+102
+00:06:19,946 --> 00:06:23,016
+ALE, dve veci fungovali veľmi dobre:
+
+103
+00:06:23,016 --> 00:06:28,021
+Prvá, ľudia kontaktovali a oslovili priamo MŇA, 
+keďže im skoro vždy odpoviem. 
+
+104
+00:06:28,021 --> 00:06:31,258
+Druhá, luďia jedoducho o tejto téme
+hovoria sami od seba.
+
+105
+00:06:31,258 --> 00:06:34,828
+Funguje to VEĽMI DOBRE, čo znamená, 
+že ak toto video pozeráte,
+
+106
+00:06:34,828 --> 00:06:38,064
+ste kriticky dôležítým článkom v celom tomto úsilí,
+
+107
+00:06:38,064 --> 00:06:42,869
+pretože o tejto inicitatíve môžte povedať iným 
+Youtuberom, streamerom, a tak ďalej 
+
+108
+00:06:42,869 --> 00:06:44,604
+a môžno oni túto tému možno pokryjú vo svojich videách.
+
+109
+00:06:44,604 --> 00:06:49,609
+A opäť, ešte lepšie ak ich hlavné obecenstvo
+nie je len anglicky hovoriace!
+
+110
+00:06:49,609 --> 00:06:53,880
+Počet ľudí, ktorých materinská reč je angličtina 
+je v EÚ relatívne malý,
+
+111
+00:06:53,880 --> 00:06:57,517
+čiže musíme iniciatívu propagovať pre ľudí 
+v rôznych jazykoch ako najlepšie sa len dá.
+
+112
+00:06:57,517 --> 00:07:02,155
+Ja sa sám ponúkam do rozhovorov a interview, 
+podujatí, publicita akéhokoľvek na túto tému, čokoľvek,
+
+113
+00:07:02,155 --> 00:07:06,259
+a komukoľvek, kto má trochu väčšie 
+obecenstvo v Európe.
+
+114
+00:07:06,259 --> 00:07:10,330
+Okrem toho, oficiálny hovorca 
+a náhrádný hovorca 
+
+115
+00:07:10,330 --> 00:07:13,667
+pre celú iniciatívu sa ponúkli, 
+že spravia to isté!
+
+116
+00:07:13,667 --> 00:07:17,938
+A oni hovoria viacerými jazykmi a aj ďalší 
+organizátori sú miltilinguálni
+
+117
+00:07:17,938 --> 00:07:20,940
+a ponúkli sa o tejto iniciatíve
+diskutovať vo viacerých jazykoch.
+
+118
+00:07:20,940 --> 00:07:26,046
+Títo ľudia sú oficiálne za iniciatívu 
+zodpovední. Viete, skutoční ľudia z Európy.
+
+119
+00:07:26,046 --> 00:07:33,119
+Áno áno, aj keď ja...pomáham, oficálne nie
+som súčasťou tejto iniciatívy - nespĺňam podmienky.
+
+120
+00:07:33,119 --> 00:07:36,022
+TO JE JEDNO! Čokoľvek
+nám pomôže dosiahnuť náš cieľ.
+
+121
+00:07:36,022 --> 00:07:38,591
+A kým hovorím o podmienkach a spôsobilosti,
+je to veľmi jednoduché:
+
+122
+00:07:38,591 --> 00:07:42,495
+Musíte byť občanom členskej krajiny EÚ, 
+aj keď v nej nemusíte žiť;
+
+123
+00:07:42,495 --> 00:07:45,398
+a musíte dosiahnuť
+volebný vek. To je všetko.
+
+124
+00:07:45,398 --> 00:07:49,869
+To zároveň znamená, že podpísať môžte 
+nielen VY, ale aj Vaši kamaráti,
+
+125
+00:07:49,869 --> 00:07:54,107
+Vaša rodina, Vaší blízki, partneri,
+piateľky, piatelia, ktokoľvek môže podpísať ak spĺňa podmienky. 
+
+126
+00:07:54,107 --> 00:07:59,079
+Ich hlasy sa samozrejme počítajú. Pozháňajte všetkých a
+povedzte im, nech podpíšu a aj oni získájú ľudí na podpis našej iniciatívy.
+
+127
+00:07:59,079 --> 00:08:02,482
+Áno áno, je to čudné, 
+že ja ako Američan, ktorý nemôže podpísať,
+
+128
+00:08:02,482 --> 00:08:06,619
+sa snaží presvedčiť ľudí z Európy aby podpísali
+túto iniciatívu, ale viete čo?
+
+129
+00:08:06,619 --> 00:08:11,257
+Ak toto prejde, tak sme vyhrali všetci, či sa musíme 
+presadiť tam, kde sa to len dá.
+
+130
+00:08:11,257 --> 00:08:14,728
+A pokiaľ Vaši príbuzní alebo kotkoľvek 
+nemá záujem o videohry,
+
+131
+00:08:14,728 --> 00:08:19,933
+môžte mu to vysvetliť tak, že ide aj
+o to neprísť o základné práve - VLASTNÍCTVO čohokoľvek.
+
+132
+00:08:19,933 --> 00:08:21,935
+Napríklad, ak by videohry boli autá,
+
+133
+00:08:21,935 --> 00:08:26,139
+čo sa teraz deje je, ako keby 
+som Vám teraz predal auto za plnú cenu, vy by ste ho plne zaplatili
+
+134
+00:08:26,139 --> 00:08:30,543
+a neskôr -- a neprezradím KEDY a 
+koľko to môžem trvať, čiže nejde o prenájom alebo lízing --
+
+135
+00:08:30,543 --> 00:08:33,713
+by som prišiel k Vám domov 
+a auto Vám jedoducho zobral
+
+136
+00:08:33,713 --> 00:08:35,415
+a ZÁROVEŇ si nechám všetky peniaze!
+
+137
+00:08:35,415 --> 00:08:39,786
+To nie je dobrá obchodná praktika...aspoň
+teda iste nie pre spotrebiteľa.
+
+138
+00:08:39,786 --> 00:08:43,390
+Áno, predpokladám, že praktika zobrať si späť to, 
+čo už raz predali, je pre obchodníkov a vydavateľov skvelá vec.
+
+139
+00:08:43,390 --> 00:08:47,527
+Možno preto teraz videohry prinášajú viac peňazí
+celosvetovo ako filmy a hudba DOHROMADY.
+
+140
+00:08:47,527 --> 00:08:51,064
+Ja to chápem, videohry väčšina ľudí 
+nepovažuje za dôležítú tému a nezaujímajú ich,
+
+141
+00:08:51,064 --> 00:08:54,234
+a práve preto sú títo ľudia dôležití,
+sú našimi kanárikmi v bani na uhlie - ukazovateľmi.
+
+142
+00:08:54,234 --> 00:09:00,073
+Čo ak sa táto praktika rozšíri do poľnohospodárskych strojov?
+Vzelávacích prostriedkov? Zdravotných technológii?
+
+143
+00:09:00,073 --> 00:09:04,644
+Ako spotrebiteľ a človek, NECHCETE 
+sa to rozšírilo do inćyh oblastí, verte mi.
+
+144
+00:09:04,644 --> 00:09:08,214
+Ďalšia vec, niektorí z Vás 
+si to v hlave spočítali a už terach vedia, 
+
+145
+00:09:08,214 --> 00:09:13,186
+že v priemere denne potrebujeme 
+2700 podpisov aby sme boli úspešní.
+
+146
+00:09:13,186 --> 00:09:16,856
+Budem úprímný a rovno poviem,
+že každý deň toľko nedosiahneme.
+
+147
+00:09:16,856 --> 00:09:20,193
+Takéto veci sa dejú vo vlnách,
+podľa toho ako ich príjmu rôzne obecenstvá.
+
+148
+00:09:20,193 --> 00:09:24,364
+Veľa dní bude pod priemerom, ale na druhej strane,
+niektoré dni môžu by desaťnásobne nad priemerom.
+
+149
+00:09:24,364 --> 00:09:26,433
+Čiže naš iniciatívu neodpisujte ako stratenú hneď od začiatku.
+
+150
+00:09:26,433 --> 00:09:28,401
+Nebuďte ako ten spoluhráč v tímových športoch,
+
+151
+00:09:28,401 --> 00:09:31,337
+ktorý sa vzdá okamžite,
+ako narazíte na akýkoľvek odpor,
+
+152
+00:09:31,337 --> 00:09:34,240
+a chce sa vzdať a abaliť to hneď 
+po 30 sekundách od začiatku zápasu.
+
+153
+00:09:34,240 --> 00:09:35,742
+Takýto pistup nenávidím.
+
+154
+00:09:35,742 --> 00:09:37,811
+Myslím, že sa nachádzame na križovatke dejín.
+
+155
+00:09:37,811 --> 00:09:39,412
+Ak získame dosť podpisov,
+
+156
+00:09:39,412 --> 00:09:43,082
+tak vieme zabrániť ničeniu hier a nekalým praktikám
+a zároveň zmeniť dejiny videohier.
+
+157
+00:09:43,082 --> 00:09:47,420
+ALEBO sa jednoducho nevieme dostatočne zorganizovať a 
+tento problém sa len bude zhoršovať a zhoršovať,
+
+158
+00:09:47,420 --> 00:09:50,356
+a potom v budúcnosti už 
+nebudeme naozaj VLASTNIŤ vôbec nič,
+
+159
+00:09:50,356 --> 00:09:53,960
+ale miesto toho budeme platiť 
+veľa paňazí ZA TO, že nič NEVLASTNÍME.
+
+160
+00:09:53,960 --> 00:09:57,163
+Možno budeme mať šťastie a toto všetko bude redundantné,
+
+161
+00:09:57,163 --> 00:10:00,467
+lebo uspejeme na iných frontoch, iných úsiliach, ktoré 
+zasterušujeme aby sa takýmto nekalým praktikám predišlo,
+
+162
+00:10:00,467 --> 00:10:04,904
+ale v každom prípade, toto je Vaša šanca
+zachrániť videohry a spotrebiteľov.
+
+163
+00:10:04,904 --> 00:10:08,074
+Inú šancu už mat nebudeme!
+
+164
+00:10:08,074 --> 00:10:11,311
+Ak ste občanmi EÚ, alebo občanov EÚ poznáte,
+
+165
+00:10:11,311 --> 00:10:15,415
+je vo Vašich silách toto všetko 
+vyriešiť podpisom jedného formulára.
+
+166
+00:10:15,415 --> 00:10:18,318
+Tento plán však ma jednu kritickú slabinu.
+
+167
+00:10:18,318 --> 00:10:23,223
+Spolieham sa na to, že hráči videohoier 
+sú proti tomu aby sa ich videohry ničili.
+
+168
+00:10:23,223 --> 00:10:25,792
+Dúfam, že to nie je príliš veľká požiadavka,
+
+169
+00:10:25,792 --> 00:10:27,961
+pretože o niekoľko rokov budúcnosti
+niekto môže povedať,
+
+170
+00:10:27,961 --> 00:10:31,130
+"Jásné, mal som šancu zachrániť videohry, 
+
+171
+00:10:31,130 --> 00:10:34,667
+"ale chcelo to po mne aby 
+som otvoril novú záložku v internetovom prehliadači,
+
+172
+00:10:34,667 --> 00:10:39,639
+"a potom by som musel vyplniť svoje meno a adresu a 
+bezpečnostnú CAPTCHU...och môj BOOOOŽE... fuuuj...
+
+173
+00:10:39,639 --> 00:10:44,577
+"Tak som to vtedy neurobil. Bolo to príliš
+veľa práce. Nestálo to za to..."
+
+174
+00:10:44,577 --> 00:10:50,083
+Ak sa takto hráči vo všeobecnosti správajú,
+tak to prekonať a presvedčiť Vás neviem.
+
+175
+00:10:50,083 --> 00:10:53,386
+Potom som ako Don Quijote a bojujem proti veterným mlynom.
+
+176
+00:10:53,386 --> 00:10:56,122
+Naozaj dúfam, že to také zlé nie je.
+
+177
+00:10:56,122 --> 00:11:00,827
+Čiže, ummm, áno, podpíšte a podporte nás, alebo
+o našej inicitíve povedzte niekomu z Európy!
+
+178
+00:11:02,228 --> 00:11:05,131
+[Hudba]
+
+179
+00:11:05,131 --> 00:11:09,402
+[Subtitles by danielondruska]
+[Hudba]
+
+180
+00:11:09,402 --> 00:11:11,404
+[Hudba]
+
+181
+00:11:14,707 --> 00:11:17,277
+Áno, ešte jedna vec, iniciatíva NEMUSÍ trvať celý rok.
+
+182
+00:11:17,277 --> 00:11:20,634
+Ak dosiahneme dosť podpisov skôr,
+nemusíme čakať, môžme s EÚ začať konať oveľa skôr.
+
+183
+00:11:20,634 --> 00:11:22,849
+Môžme to speedrunovať!
+

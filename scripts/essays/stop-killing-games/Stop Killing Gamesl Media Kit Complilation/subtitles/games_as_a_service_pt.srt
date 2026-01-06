@@ -1,0 +1,6480 @@
+1
+00:00:01,160 --> 00:00:03,980
+Jogos como Serviço.
+
+2
+00:00:03,980 --> 00:00:07,600
+Se você esteve envolvido com computadores ou videogames durante qualquer tempo
+
+3
+00:00:07,600 --> 00:00:10,140
+Você provavelmente se deparou com essa frase.
+
+4
+00:00:10,140 --> 00:00:12,455
+Eu não sei qual é a origem dela.
+
+5
+00:00:12,460 --> 00:00:14,380
+Wikipedia não é de ajuda alguma.
+
+6
+00:00:14,380 --> 00:00:16,640
+Olha a primeira frase sob "História"
+
+7
+00:00:16,680 --> 00:00:20,480
+"A ideia de Jogos como Serviços começou em 2004 com a introdução de -"
+
+8
+00:00:20,480 --> 00:00:24,060
+Bla, bla , bla, isso não importa. Já está errado.
+
+9
+00:00:24,060 --> 00:00:25,800
+Quero dizer, EverQuest foi primeiro jogo grande
+
+10
+00:00:25,800 --> 00:00:28,500
+que eu soube que fazia isso em 99.
+
+11
+00:00:28,500 --> 00:00:30,960
+Mas até antes disso, eu lembro ouvir sobre o
+
+12
+00:00:30,960 --> 00:00:33,160
+Sierra Network de 91.
+
+13
+00:00:33,160 --> 00:00:36,620
+Eu realmente duvido que isso foi onde COMEÇOU também,
+
+14
+00:00:36,620 --> 00:00:37,960
+foi provavelmente algum MUD.
+
+15
+00:00:37,960 --> 00:00:42,000
+É! Antes de World of Warcraft existiam MUDs, divertidos para todos!
+
+16
+00:00:42,000 --> 00:00:45,620
+"2004", você não ajudou em nada Wikipedia.
+
+17
+00:00:45,700 --> 00:00:48,740
+E eu me desviei no primeiro minuto. Boa!
+
+18
+00:00:49,040 --> 00:00:50,595
+De qualquer forma, aonde eu queria chegar é:
+
+19
+00:00:50,600 --> 00:00:52,780
+eu não sei a origem dessa frase.
+
+20
+00:00:52,780 --> 00:00:55,300
+Mas ela entrou tão completamente no vernáculo
+
+21
+00:00:55,300 --> 00:00:59,300
+Que honestamente me pergunto se é o resultado de alguma sutil campanha de propaganda.
+
+22
+00:00:59,540 --> 00:01:02,560
+Eu digo isso, porque é uma frase que parece tão inofensiva.
+
+23
+00:01:02,640 --> 00:01:06,360
+Mas esconde uma terrível, se não ILEGAL, prática de negócios.
+
+24
+00:01:06,360 --> 00:01:08,260
+E isso me leva ao título.
+
+25
+00:01:08,260 --> 00:01:10,800
+"Jogos como serviço" é fraude.
+
+26
+00:01:11,280 --> 00:01:14,415
+Agora isso soa como clickbait, e eu acho que é,
+
+27
+00:01:14,420 --> 00:01:16,740
+mas eu não estou exagerando, estou falando sério.
+
+28
+00:01:17,060 --> 00:01:21,560
+Infelizmente não é o tipo de fraude que posso facilmente explicar em uma frase.
+
+29
+00:01:21,660 --> 00:01:24,040
+Então não é como mudar o odómetro em um carro,
+
+30
+00:01:24,040 --> 00:01:27,500
+daí encobrir isso e vender como se nunca tivesse feito isso.
+
+31
+00:01:27,500 --> 00:01:30,760
+Isso é fraude fácil e qualquer um entende essa.
+
+32
+00:01:31,400 --> 00:01:33,775
+Essa é de um tipo mais sofisticado.
+
+33
+00:01:33,775 --> 00:01:36,835
+Como até agora muitas pessoas ainda estão confusas em como a
+
+34
+00:01:36,840 --> 00:01:40,200
+Goldman Sachs infringiu a lei, levando até a crise financeira de 2008.
+
+35
+00:01:40,200 --> 00:01:42,625
+E como muitas pessoas deveriam ter ido para prisão.
+
+36
+00:01:42,625 --> 00:01:44,220
+Isso é mais tipo assim.
+
+37
+00:01:44,920 --> 00:01:50,160
+Agora eu vou te avisar, esse vídeo vai ser longo e pode ficar chato em alguns lugares, mas é necessário.
+
+38
+00:01:50,540 --> 00:01:55,360
+Veja, esse vídeo é minha declaração de guerra contra os Jogos como Serviços.
+
+39
+00:01:55,360 --> 00:01:59,780
+Eu estou indo contra ANOS de narrativa forçada aqui, não vai ser fácil.
+
+40
+00:02:00,060 --> 00:02:02,120
+Eu tenho que explicar tudo,
+
+41
+00:02:02,120 --> 00:02:04,715
+como uma maneira de dar munição para as tropas.
+
+42
+00:02:04,715 --> 00:02:07,785
+E mesmo que seja longo eu vou dizer muita coisa.
+
+43
+00:02:07,785 --> 00:02:11,080
+Você sabe como alguns processos levam semanas ou meses.
+
+44
+00:02:11,080 --> 00:02:12,880
+Bem isso sou eu colocando
+
+45
+00:02:12,880 --> 00:02:15,040
+meu caso INTEIRO nesse vídeo.
+
+46
+00:02:15,045 --> 00:02:18,445
+Então o quão longo que seja, é eu dizendo tudo.
+
+47
+00:02:18,695 --> 00:02:21,355
+Eu vou explicar o que Jogos como Serviços é,
+
+48
+00:02:21,360 --> 00:02:22,800
+porque é fraude,
+
+49
+00:02:22,800 --> 00:02:24,440
+abordar qualquer contra argumentos,
+
+50
+00:02:24,440 --> 00:02:26,580
+e mais importante, o que pode ser feito sobre tudo isso.
+
+51
+00:02:26,880 --> 00:02:29,560
+Eu tenho um plano... Mais ou menos.
+
+52
+00:02:29,560 --> 00:02:32,780
+Ah! E eu acho que é Jogos como Serviços É fraude
+
+53
+00:02:32,780 --> 00:02:34,200
+e não SÃO fraude.
+
+54
+00:02:34,200 --> 00:02:38,180
+Porque está se referindo a prática singular "Jogos como Serviços".
+
+55
+00:02:38,185 --> 00:02:40,825
+Mas eu acho que você também literalmente poderia ter
+
+56
+00:02:40,825 --> 00:02:43,820
+Jogos como Serviços SÃO alguma coisa.
+
+57
+00:02:43,820 --> 00:02:45,260
+Eu realmente não sei s--
+
+58
+00:02:45,260 --> 00:02:49,015
+Então vamos direto a 'O que é Jogos como Serviço?'
+
+59
+00:02:49,020 --> 00:02:51,300
+Bem, Wikipedia define co--
+
+60
+00:02:51,300 --> 00:02:53,120
+AH HA HA! Te peguei!!
+
+61
+00:02:53,120 --> 00:02:54,840
+Não, a gente não vai fazer isso.
+
+62
+00:02:54,915 --> 00:02:56,435
+Eles tiveram a chance deles.
+
+63
+00:02:56,440 --> 00:02:58,800
+Estava esperando que eles fossem deixar isso fácil pra mim
+
+64
+00:02:58,800 --> 00:02:59,580
+Nem.
+
+65
+00:02:59,980 --> 00:03:03,380
+Gamasutra define isso como... Ahh...
+
+66
+00:03:03,905 --> 00:03:06,995
+Esse ideal filosófico interminável...
+
+67
+00:03:06,995 --> 00:03:10,215
+Okay, é. Parece que vou ter que fazer isso eu mesmo.
+
+68
+00:03:10,395 --> 00:03:12,935
+Okay, primeiro vamos esclarecer uma coisa.
+
+69
+00:03:12,940 --> 00:03:15,100
+Porque isso já não é confuso o suficiente.
+
+70
+00:03:15,100 --> 00:03:19,600
+"Jogos como um Serviço" não é a mesma coisa que um "Serviço de Jogos"
+
+71
+00:03:19,600 --> 00:03:22,480
+Um Serviço de Jogos é geralmente um sistema de aluguel.
+
+72
+00:03:22,880 --> 00:03:24,820
+Então se você paga uma empresa 20 dólares por mês
+
+73
+00:03:24,820 --> 00:03:27,000
+e pode alugar jogos ou fazer o stream deles,
+
+74
+00:03:27,000 --> 00:03:30,280
+mas você pode também comprar eles diretamente em algum lugar.
+
+75
+00:03:30,280 --> 00:03:32,240
+Então não é disso que eu estou falando.
+
+76
+00:03:32,280 --> 00:03:33,780
+Não é fraude, tá tudo bem.
+
+77
+00:03:34,305 --> 00:03:37,300
+Mas Jogos como Serviços, como definimos isso?
+
+78
+00:03:37,575 --> 00:03:40,875
+Bom, é uma prática de negócios mas e daí?
+
+79
+00:03:40,980 --> 00:03:44,760
+Bem, se você é um gamer você provavelmente tem uma ideia do que é
+
+80
+00:03:44,960 --> 00:03:46,660
+Então vamos listar algumas características em comum
+
+81
+00:03:46,660 --> 00:03:49,340
+e ver se a gente consegue reduzir ao que realmente a define.
+
+82
+00:03:49,555 --> 00:03:52,445
+Aqui está a minha lista, vamos acompanha-la.
+
+83
+00:03:52,445 --> 00:03:53,560
+Sempre online.
+
+84
+00:03:53,880 --> 00:03:57,960
+Sim! Eu diria que essa define todo uso de Jogos como Serviços.
+
+85
+00:03:58,340 --> 00:04:00,175
+Agora alguns jogos tem conteúdos para download
+
+86
+00:04:00,175 --> 00:04:02,105
+que você pode rodar offline.
+
+87
+00:04:02,105 --> 00:04:05,545
+Mas isso não é o que a Indústria quer dizer quando se referem a isso.
+
+88
+00:04:05,615 --> 00:04:08,235
+Na verdade, outro termo para Jogos como Serviços é
+
+89
+00:04:08,240 --> 00:04:10,040
+Jogos de "Serviços ao vivo".
+
+90
+00:04:10,340 --> 00:04:13,540
+Em outras palavras você está conectado online então é "ao vivo"
+
+91
+00:04:13,800 --> 00:04:15,600
+Mas ei! Eu te dou outra de graça.
+
+92
+00:04:15,920 --> 00:04:19,340
+Se jogos offline "Jogos como Serviços" existem.
+
+93
+00:04:19,340 --> 00:04:20,540
+Então esses não são fraude.
+
+94
+00:04:20,880 --> 00:04:23,000
+Então ei! Armadura de cavalo do Oblivion.
+
+95
+00:04:23,000 --> 00:04:24,580
+Não é fraude!
+
+96
+00:04:24,580 --> 00:04:26,575
+Isso é na verdade uma ótima base
+
+97
+00:04:26,580 --> 00:04:29,700
+se você quiser determinar o quão justo ou não você acha que eu estou sendo diante as empresas de jogos.
+
+98
+00:04:29,920 --> 00:04:33,000
+Isso diz alguma coisa sobre onde meus padrões estão hoje em dia.
+
+99
+00:04:33,340 --> 00:04:35,960
+Mas de volta a definir coisas, vamos dizer que Sim
+
+100
+00:04:35,965 --> 00:04:38,735
+Todos Jogos como Serviços é sempre online.
+
+101
+00:04:38,740 --> 00:04:43,240
+Entretanto nem todo jogo online é um Jogo como Serviços.
+
+102
+00:04:43,600 --> 00:04:45,200
+A gente volta nisso daqui a pouco.
+
+103
+00:04:45,400 --> 00:04:47,660
+Recursos online extras.
+
+104
+00:04:47,660 --> 00:04:50,800
+Isso são coisas como, monitoramento de estatísticas, matchmaking,
+
+105
+00:04:50,800 --> 00:04:52,200
+mensagens entre jogadores e tudo mais.
+
+106
+00:04:52,760 --> 00:04:55,360
+Jogos como Serviços geralmente possuem essas coisas,
+
+107
+00:04:55,360 --> 00:04:57,360
+mas não são de modo algum uma garantia.
+
+108
+00:04:57,500 --> 00:04:59,920
+Além disso, jogos normais podem ter essas coisas também.
+
+109
+00:05:00,200 --> 00:05:03,180
+Mensagem entre jogadores e chat de voz existem a muito tempo.
+
+110
+00:05:03,180 --> 00:05:06,520
+Monitoramento de estatísticas certamente aconteceu em jogos offline.
+
+111
+00:05:06,760 --> 00:05:10,080
+Matchmaking era geralmente um software de terceiros no passado.
+
+112
+00:05:10,240 --> 00:05:13,920
+Então é seguro dizer nenhum desses DEFINEM Jogos como Serviços.
+
+113
+00:05:14,440 --> 00:05:16,480
+Microtransações.
+
+114
+00:05:16,600 --> 00:05:18,540
+E você pode não acreditar nisso mas
+
+115
+00:05:18,540 --> 00:05:22,860
+Não! Essas não são o que definem Jogos como Serviços.
+
+116
+00:05:23,180 --> 00:05:27,940
+Aqui tem alguns Jogos como Serviços que não tinham  nenhuma microtransações.
+
+117
+00:05:28,440 --> 00:05:33,080
+Entrando eu vou dizer que a maioria ESMAGADORA dos Jogos como Serviços
+
+118
+00:05:33,080 --> 00:05:34,940
+Possuem sim microtransações.
+
+119
+00:05:35,100 --> 00:05:37,600
+E isso é a razão número um de porquê
+
+120
+00:05:37,600 --> 00:05:40,320
+empresas realmente gostam dessa prática.
+
+121
+00:05:40,520 --> 00:05:43,820
+Entretanto, já que exceções existem
+
+122
+00:05:43,820 --> 00:05:46,460
+Isso não é o que na verdade define.
+
+123
+00:05:46,840 --> 00:05:48,680
+Taxas de assinatura.
+
+124
+00:05:48,680 --> 00:05:52,180
+Muito poucos jogos ainda possuem isso, então, NÃO.
+
+125
+00:05:52,180 --> 00:05:54,300
+Entretanto, nós temos aquilo de novo.
+
+126
+00:05:54,500 --> 00:05:58,060
+A maioria dos Jogos como Serviços não tem uma taxa de assinatura.
+
+127
+00:05:58,260 --> 00:06:00,760
+Mas todos jogos com uma taxa de assinatura
+
+128
+00:06:00,760 --> 00:06:03,060
+São Jogos como Serviços.
+
+129
+00:06:03,060 --> 00:06:03,920
+Entendeu?
+
+130
+00:06:05,420 --> 00:06:06,920
+Atualizações frequentes.
+
+131
+00:06:07,360 --> 00:06:10,080
+Bem, muitos jogos bons Jogos como Serviços tem isso.
+
+132
+00:06:10,080 --> 00:06:12,720
+Mas de novo, não é de modo algum é o que os definem.
+
+133
+00:06:12,720 --> 00:06:16,580
+Muitos Jogos como Serviços ficam anos sem nen huma atualização.
+
+134
+00:06:16,720 --> 00:06:18,720
+Então não, isso também não.
+
+135
+00:06:19,400 --> 00:06:21,740
+E Jogos Multiplayer Massivos.
+
+136
+00:06:22,100 --> 00:06:23,700
+Não, também não é.
+
+137
+00:06:24,180 --> 00:06:26,760
+Em uma mão você tem alguns Jogos como Serviços
+
+138
+00:06:26,760 --> 00:06:29,200
+que são para uma pequena quantidade de jogadores.
+
+139
+00:06:29,200 --> 00:06:33,220
+Na outra mão você tem alguns jogos gigantescos que não são dessa prática.
+
+140
+00:06:34,060 --> 00:06:36,560
+O Mod multilplayer de Just Cause 2
+
+141
+00:06:36,560 --> 00:06:40,860
+já teve mais de 1800 jogadores simultâneos no jogo.
+
+142
+00:06:41,240 --> 00:06:44,580
+Mas mesmo assim não é considerado Jogos como Serviços.
+
+143
+00:06:45,020 --> 00:06:48,300
+Jogos MMO são geralmente Jogos como Serviços.
+
+144
+00:06:48,300 --> 00:06:50,400
+Mas não é o que define.
+
+145
+00:06:50,420 --> 00:06:52,040
+Okay, então Wow!
+
+146
+00:06:52,120 --> 00:06:54,500
+A única definição que sobreviveu é
+
+147
+00:06:54,500 --> 00:06:57,040
+que Jogos como Serviços são sempre online.
+
+148
+00:06:57,040 --> 00:06:59,040
+E até essa tem uma ressalva.
+
+149
+00:06:59,100 --> 00:07:01,660
+Veja, alguns jogos só foram feitos para serem jogados online.
+
+150
+00:07:02,040 --> 00:07:04,540
+Se você joga o jogo Star Siege Tribes.
+
+151
+00:07:04,540 --> 00:07:07,420
+O único jeito de realmente jogá-lo é se conectando com outras pessoas.
+
+152
+00:07:07,960 --> 00:07:10,840
+Em essência, é um jogo sempre online.
+
+153
+00:07:10,895 --> 00:07:13,835
+Mas ainda assim não é Jogos como Serviços.
+
+154
+00:07:13,840 --> 00:07:14,980
+Sabe o porquê?
+
+155
+00:07:15,400 --> 00:07:17,940
+Porque VOCÊ ainda é quem está no controle.
+
+156
+00:07:18,600 --> 00:07:21,160
+Jogos como Serviços significa que a empresa está te provendo
+
+157
+00:07:21,160 --> 00:07:24,580
+O SERVIÇO de te permitir jogar o seu jogo.
+
+158
+00:07:25,200 --> 00:07:27,100
+E sim, eu estou sendo irônico.
+
+159
+00:07:27,480 --> 00:07:30,100
+Você não precisava de Permissão pra isso.
+
+160
+00:07:30,320 --> 00:07:33,360
+As pessoas debaterão o que Jogos com Serviços NÃO devia significar.
+
+161
+00:07:33,560 --> 00:07:36,820
+Mas isso é a dura definição do mundo real.
+
+162
+00:07:37,340 --> 00:07:39,880
+Jogos como Serviços significa que é a prática de negócios
+
+163
+00:07:39,880 --> 00:07:43,380
+de jogadores não tendo controle de que se eles podem jogar um jogo,
+
+164
+00:07:43,380 --> 00:07:45,960
+devido a uma empresa retendo essa função.
+
+165
+00:07:45,960 --> 00:07:48,060
+Isso é tudo que é
+
+166
+00:07:48,060 --> 00:07:50,645
+em sua forma mais pura e destilada.
+
+167
+00:07:50,645 --> 00:07:53,655
+Sim, claro que eles possuem outras coisas dessa lista.
+
+168
+00:07:53,660 --> 00:07:57,000
+Mas nenhuma dessas outras características puderam sobreviver o deste de definição.
+
+169
+00:07:57,300 --> 00:07:59,660
+Na verdade, eu diria que essa definição
+
+170
+00:07:59,660 --> 00:08:02,035
+nem é a INTENÇÃO de Jogos como Serviços.
+
+171
+00:08:02,280 --> 00:08:04,320
+Mas é o que a define.
+
+172
+00:08:04,760 --> 00:08:06,180
+Se não possuí isto.
+
+173
+00:08:06,180 --> 00:08:08,720
+Não é Jogos como Serviços.
+
+174
+00:08:09,300 --> 00:08:11,380
+Okay! Hora da fraude!
+
+175
+00:08:12,460 --> 00:08:15,980
+Então agora temos uma definição concreta de Jogos como Serviços.
+
+176
+00:08:16,360 --> 00:08:18,120
+Mas por que isso é fraude?
+
+177
+00:08:18,360 --> 00:08:22,540
+Bem, a resposta mais simples é que está sendo vendido como algo que não é.
+
+178
+00:08:22,900 --> 00:08:24,100
+Eu vou explicar isso.
+
+179
+00:08:24,400 --> 00:08:27,900
+Mas primeiro temos que entender a diferença entre um "bem" e um "serviço".
+
+180
+00:08:28,660 --> 00:08:31,540
+Produtos são definidos como "serviços" ou "bens".
+
+181
+00:08:32,000 --> 00:08:34,540
+Um bem é algo que você compra e é dono.
+
+182
+00:08:34,540 --> 00:08:37,340
+Um serviço é uma ação feita para você.
+
+183
+00:08:37,340 --> 00:08:39,100
+Então se você compra um martelo,
+
+184
+00:08:39,100 --> 00:08:40,160
+é um "bem",
+
+185
+00:08:40,460 --> 00:08:41,400
+é uma coisa,
+
+186
+00:08:41,700 --> 00:08:42,820
+é seu.
+
+187
+00:08:45,020 --> 00:08:47,635
+Mas se você vai cortar o cabelo, isso é um serviço.
+
+188
+00:08:47,635 --> 00:08:50,555
+Eles não só te entregaram o seu corte de cabelo em uma caixa.
+
+189
+00:08:50,560 --> 00:08:53,340
+Eles usaram tesouras para entregar o resultado desejado.
+
+190
+00:08:53,340 --> 00:08:54,540
+Ou, pelo menos, é o que me disseram.
+
+191
+00:08:55,200 --> 00:08:57,880
+E de novo eu tenho que arregaçar o Wikipedia aqui.
+
+192
+00:08:58,340 --> 00:09:01,020
+Já que eles definem "Bens" como algo tangível
+
+193
+00:09:01,220 --> 00:09:03,380
+e depois dizem que nem sempre são algo tangível.
+
+194
+00:09:03,600 --> 00:09:07,380
+Bom trabalho em se contradizer na primeira frase gente.
+
+195
+00:09:07,520 --> 00:09:09,480
+Tanto faz. Aquela segunda parte está correta.
+
+196
+00:09:09,800 --> 00:09:13,440
+Então coisas como filmes digitais que você compra são bens intangíveis.
+
+197
+00:09:13,640 --> 00:09:15,260
+Você não pode tocar um filme.
+
+198
+00:09:15,500 --> 00:09:17,915
+Mas ainda é vendido como um bem físico.
+
+199
+00:09:18,080 --> 00:09:19,240
+Bem, adivinha só.
+
+200
+00:09:19,440 --> 00:09:21,980
+A maioria dos jogos são bens também.
+
+201
+00:09:22,280 --> 00:09:24,260
+Até Jogos como Serviços.
+
+202
+00:09:24,900 --> 00:09:25,940
+Então sim.
+
+203
+00:09:26,080 --> 00:09:28,260
+Eu acabei de dizer que Jogos como Serviços
+
+204
+00:09:28,460 --> 00:09:29,780
+Não são serviços.
+
+205
+00:09:30,400 --> 00:09:31,200
+Já chego nisso.
+
+206
+00:09:31,600 --> 00:09:33,900
+Mas eu tenho que conceder em um ponto.
+
+207
+00:09:34,160 --> 00:09:37,100
+Se é um jogo que tem uma taxa de assinatura que você paga todo mês.
+
+208
+00:09:37,100 --> 00:09:38,760
+Tipo World of Warcraft.
+
+209
+00:09:39,320 --> 00:09:42,220
+Sob a maioria das leis esses jogos SÃO serviços.
+
+210
+00:09:42,220 --> 00:09:44,660
+E eu não acho que consigo fazer o caso de que esses são fraude.
+
+211
+00:09:44,660 --> 00:09:46,600
+Eles ganham esse round.
+
+212
+00:09:46,600 --> 00:09:48,940
+Mas sabe, a gente consegue aceitar isso.
+
+213
+00:09:48,940 --> 00:09:51,160
+Já que só são o que? Cinco jogos agora.
+
+214
+00:09:51,560 --> 00:09:52,820
+Talvez dez...
+
+215
+00:09:54,000 --> 00:09:56,200
+Mas vamos tentar estabelecer legalmente que
+
+216
+00:09:56,200 --> 00:09:58,360
+Jogos como Serviços não são serviços.
+
+217
+00:09:59,160 --> 00:10:01,700
+Agora, claro que a lei é diferente em todos países.
+
+218
+00:10:01,700 --> 00:10:03,700
+Mas vamos cobrir alguns maiores.
+
+219
+00:10:03,800 --> 00:10:06,360
+Agora eu não posso levar o crédito pela maioria dessa parte.
+
+220
+00:10:06,360 --> 00:10:09,040
+Eu achei pedaços e trechos disso por conta própria.
+
+221
+00:10:09,040 --> 00:10:12,020
+Mas dai me deparei em uma mina de ouro de informações.
+
+222
+00:10:12,020 --> 00:10:15,035
+No porquê jogos são bens e você é dono deles.
+
+223
+00:10:15,160 --> 00:10:18,580
+Um usuário altamente conhecedor, Deliciuxz.
+
+224
+00:10:18,740 --> 00:10:24,560
+Criou a melhor explicação simples nesse tópico que eu já vi no forum do Linus Tech Tips.
+
+225
+00:10:26,300 --> 00:10:27,360
+Oh! Oi Linus.
+
+226
+00:10:28,160 --> 00:10:30,400
+Eu admito que isso é um titulo exagerado.
+
+227
+00:10:30,400 --> 00:10:33,160
+Mas tirando isso ele tem uma boa lógica.
+
+228
+00:10:33,160 --> 00:10:34,980
+Então vamos olhar a versão resumida:
+
+229
+00:10:35,340 --> 00:10:39,000
+Uma licença é o direito de usar uma propriedade ou propriedade intelectual
+
+230
+00:10:39,000 --> 00:10:40,640
+que pertence a outro.
+
+231
+00:10:41,120 --> 00:10:42,140
+Quando você lê
+
+232
+00:10:42,140 --> 00:10:44,640
+"esse software é licenciado, não vendido"
+
+233
+00:10:44,800 --> 00:10:47,260
+em um Acordo de Licença de Usuário Final.
+
+234
+00:10:47,260 --> 00:10:50,635
+"esse software" se refere a propriedade intelectual do software.
+
+235
+00:10:50,640 --> 00:10:53,540
+E não a cópia de aquela propriedade intelectual
+
+236
+00:10:53,540 --> 00:10:56,395
+que você comprou via uma licença de software.
+
+237
+00:10:56,820 --> 00:11:00,020
+"A propriedade intelectual do software é licenciada não vendida
+
+238
+00:11:00,400 --> 00:11:03,840
+A licença é vendida, não licenciada ou alugada."
+
+239
+00:11:04,180 --> 00:11:06,260
+Um pouco confuso ali mas vamos continuar.
+
+240
+00:11:06,520 --> 00:11:09,775
+Todos itens produzidos em massa que você comprou seguem as mesmas regras.
+
+241
+00:11:09,780 --> 00:11:13,920
+Você está comprando uma cópia única da propriedade intelectual dessas coisas.
+
+242
+00:11:14,160 --> 00:11:17,240
+E existe uma transferência de posse sobre essas instâncias.
+
+243
+00:11:17,240 --> 00:11:21,100
+E você vira o único dono dessa instância da propriedade intelectual.
+
+244
+00:11:21,340 --> 00:11:24,480
+Você é o dono e possuí todos os direitos proprietários sobre ela.
+
+245
+00:11:24,720 --> 00:11:26,920
+Ok, só pra que todos estejam me acompanhando.
+
+246
+00:11:26,920 --> 00:11:29,040
+Ele está dizendo que se você compra uma cópia de...
+
+247
+00:11:29,400 --> 00:11:30,140
+Half-Life.
+
+248
+00:11:30,840 --> 00:11:33,960
+Você não vira o dono dos direitos da franquia Half-Life.
+
+249
+00:11:33,960 --> 00:11:36,580
+Você não pode vender cópias adicionais.
+
+250
+00:11:36,580 --> 00:11:39,860
+Mas você é dono da SUA cópia do Half-Life.
+
+251
+00:11:40,480 --> 00:11:42,140
+Muitos bens são assim.
+
+252
+00:11:42,300 --> 00:11:43,800
+Se você compra um carro,
+
+253
+00:11:43,800 --> 00:11:47,720
+você não vira o dono dos direitos de manufatura e design daquele modelo de carro.
+
+254
+00:11:48,140 --> 00:11:50,460
+Mas você é dono do SEU carro.
+
+255
+00:11:50,660 --> 00:11:52,040
+É um conceito básico.
+
+256
+00:11:52,580 --> 00:11:55,240
+Eu disse antes que estou indo contra uma narrativa.
+
+257
+00:11:55,240 --> 00:11:57,820
+E um mito que se ouve as vezes é de que
+
+258
+00:11:57,820 --> 00:11:59,600
+você não é o dono de nenhum dos seus softwares.
+
+259
+00:12:00,300 --> 00:12:03,955
+O que ele está fazendo aqui é explicar porque isso é quase sempre falso.
+
+260
+00:12:03,955 --> 00:12:07,195
+Pelo visto você tem direitos de propriedade no final de contas. Quem sabia?
+
+261
+00:12:07,800 --> 00:12:10,775
+A seguir ele diz que existe dois tipo de licença de software.
+
+262
+00:12:11,140 --> 00:12:13,855
+Licenças perpétuas e de assinaturas.
+
+263
+00:12:13,860 --> 00:12:16,000
+As perpétuas duram para sempre.
+
+264
+00:12:16,460 --> 00:12:19,400
+Então aquela cópia de Mega Man que o seu irmão tem no sótão.
+
+265
+00:12:19,400 --> 00:12:21,220
+Ela é uma licença perpétua.
+
+266
+00:12:21,500 --> 00:12:25,520
+E por isso que World of Warcraft ganha um passe livre por enquanto.
+
+267
+00:12:25,760 --> 00:12:27,420
+Eles querem 15 dólares por mês.
+
+268
+00:12:27,760 --> 00:12:30,360
+Isso é uma licença por assinatura clara como dia.
+
+269
+00:12:30,860 --> 00:12:33,800
+Se você não está pagando uma taxa de assinatura pelo seu jogo.
+
+270
+00:12:33,940 --> 00:12:36,680
+Então ele está sendo comprado sob uma licença perpétua.
+
+271
+00:12:36,980 --> 00:12:40,140
+Isso é um ponto essencial e um monte de coisa vai voltar nisso.
+
+272
+00:12:40,780 --> 00:12:42,940
+Uma licença perpétua é um produto.
+
+273
+00:12:42,940 --> 00:12:46,075
+E quando é vendida sofre uma transferência de propriedade,
+
+274
+00:12:46,080 --> 00:12:48,180
+no momento da venda.
+
+275
+00:12:48,180 --> 00:12:52,620
+Propriedade é o que estabelece a autoridade de alguém em tomar decisões sobre a coisa.
+
+276
+00:12:52,980 --> 00:12:56,095
+Vender algo, é ceder a propriedade de alguém
+
+277
+00:12:56,095 --> 00:12:59,105
+e ceder toda a autoridade de tomada de decisões sobre
+
+278
+00:12:59,105 --> 00:13:01,900
+aquela coisa para a pessoa que comprou.
+
+279
+00:13:01,900 --> 00:13:04,620
+Então o vendedor não possui nenhum dizer legítimo
+
+280
+00:13:04,620 --> 00:13:06,600
+sobre qualquer coisa a respeito daquela instância
+
+281
+00:13:06,600 --> 00:13:09,580
+do software representada por sua licença perpétua.
+
+282
+00:13:09,880 --> 00:13:10,900
+Então aí está,
+
+283
+00:13:10,920 --> 00:13:14,940
+se você tem que pagar apenas uma vez, e não é uma taxa de assinatura para o seu jogo.
+
+284
+00:13:14,980 --> 00:13:19,520
+Então por definição, está sendo vendido sob uma licença perpétua.
+
+285
+00:13:19,540 --> 00:13:23,120
+Sob as leis da maioria dos países, isso significa que é um BEM
+
+286
+00:13:23,120 --> 00:13:25,320
+e não um SERVIÇO.
+
+287
+00:13:25,440 --> 00:13:28,280
+É por isso que imagino se Jogos como um Serviço
+
+288
+00:13:28,280 --> 00:13:30,460
+é um termo de propaganda deliberado.
+
+289
+00:13:30,460 --> 00:13:34,660
+Significa o exato oposto do que diz!
+
+290
+00:13:34,760 --> 00:13:36,040
+Mas sei o que está pensando.
+
+291
+00:13:36,280 --> 00:13:40,120
+Você está pensando " Isso é só um cara na Internet dizendo palavras.
+
+292
+00:13:40,120 --> 00:13:41,320
+Isso não prova nada."
+
+293
+00:13:41,800 --> 00:13:42,600
+Bom ponto.
+
+294
+00:13:42,880 --> 00:13:45,000
+Mas sabe o que ajuda um argumento legal?
+
+295
+00:13:45,000 --> 00:13:49,100
+Se você apoiar o que está dizendo com documentos legais que dizem a mesma coisa.
+
+296
+00:13:49,100 --> 00:13:52,360
+E isso é exatamente o que ele faz, para múltiplos países.
+
+297
+00:13:52,560 --> 00:13:55,840
+A corte mais alta da União Europeia, a Corte de Justiça.
+
+298
+00:13:55,840 --> 00:13:58,960
+Declarou que software vendido sob uma licença perpétua
+
+299
+00:13:58,960 --> 00:14:01,660
+representa um bem ao invés de um serviço.
+
+300
+00:14:01,660 --> 00:14:05,380
+E o comprador vira o dono exclusivo daquela instância,
+
+301
+00:14:05,380 --> 00:14:07,100
+que nem de um bem físico.
+
+302
+00:14:07,300 --> 00:14:10,680
+Então ele linka para os documentos do julgamento do caso de "UsedSoft vs Oracle".
+
+303
+00:14:10,680 --> 00:14:13,480
+E a uma explicação mais profissional de o que isso significa.
+
+304
+00:14:13,540 --> 00:14:15,100
+A seguir Canadá!
+
+305
+00:14:15,360 --> 00:14:18,475
+Ele dá um link desatualizado, mas eu achei esse caso que
+
+306
+00:14:18,475 --> 00:14:21,575
+aparentemente declara que Software como um Serviço é um bem.
+
+307
+00:14:21,840 --> 00:14:23,380
+Como é explicado nesse artigo
+
+308
+00:14:23,940 --> 00:14:26,560
+Eles até fazem referência a Software como Serviços.
+
+309
+00:14:26,560 --> 00:14:28,680
+Eu amo quando é preto e branco assim.
+
+310
+00:14:29,080 --> 00:14:31,240
+E depois ele revisa coisas dizendo que
+
+311
+00:14:31,240 --> 00:14:34,440
+Canadá segue as Diretrizes de Classificação Internacional de Bens e Serviços da
+
+312
+00:14:34,440 --> 00:14:37,800
+Organização de Propriedade Intelectual Mundial.
+
+313
+00:14:38,200 --> 00:14:40,720
+É, você sabe que estamos nos divertindo agora com um nome desses.
+
+314
+00:14:40,920 --> 00:14:43,120
+De qualquer jeito, eles dizem que são bens também.
+
+315
+00:14:43,420 --> 00:14:45,120
+Próximo Austrália!
+
+316
+00:14:45,200 --> 00:14:46,820
+Você já deve ter ouvido falar desse.
+
+317
+00:14:46,820 --> 00:14:51,380
+No caso da Comissão de Competição e Consumidores Australiana vs a Valve Corporation.
+
+318
+00:14:51,520 --> 00:14:54,660
+Austrália declara que, com certeza, jogos são bens.
+
+319
+00:14:55,280 --> 00:14:57,500
+Você tem que amar essa citação na conclusão.
+
+320
+00:14:57,500 --> 00:14:59,780
+"Cada questionamento da Valve sobre a aplicabilidade
+
+321
+00:14:59,780 --> 00:15:02,640
+da lei do consumidor australiana, falha."
+
+322
+00:15:02,640 --> 00:15:03,540
+Blá blá.
+
+323
+00:15:03,740 --> 00:15:05,240
+"Valve oferece bens,
+
+324
+00:15:05,240 --> 00:15:08,280
+que são definidos, como incluindo, software de computadores."
+
+325
+00:15:08,840 --> 00:15:11,740
+E daí chegamos aos Estados Unidos.
+
+326
+00:15:12,140 --> 00:15:15,680
+Ouça, os EUA é nível Hard quando chega nesse tópico.
+
+327
+00:15:16,080 --> 00:15:18,400
+Nos tribunais de primeira instância ninguém concorda com nada.
+
+328
+00:15:18,780 --> 00:15:22,535
+Em 2008 no caso de "Verner vs Autodesk".
+
+329
+00:15:22,535 --> 00:15:25,715
+Um juiz federal do estado de Washington disse que sim
+
+330
+00:15:25,720 --> 00:15:26,780
+você é dono do software.
+
+331
+00:15:27,280 --> 00:15:31,055
+Então em 2010 isso foi apelado ao Nono Circuíto que disse que não,
+
+332
+00:15:31,060 --> 00:15:33,120
+você não é dono do software e você tem que seguir
+
+333
+00:15:33,120 --> 00:15:35,655
+as regras do Acordo de Licença de Usuário Final.
+
+334
+00:15:35,660 --> 00:15:38,300
+Mas então teve um documento Amicus junto com isso que disse:
+
+335
+00:15:38,300 --> 00:15:40,480
+É, isso poderia ser facilmente abusado,
+
+336
+00:15:40,485 --> 00:15:42,140
+poderia prejudicar preservação,
+
+337
+00:15:42,140 --> 00:15:44,220
+e isso é potencialmente um precedente perigoso.
+
+338
+00:15:44,220 --> 00:15:47,060
+E, ei, Congresso, por que você não faz algo sobre isso?
+
+339
+00:15:47,060 --> 00:15:50,080
+Mas até na época, essa decisão foi apenas para os Estados do Nono Circuíto.
+
+340
+00:15:50,080 --> 00:15:52,180
+Não para os EUA inteiro.
+
+341
+00:15:52,320 --> 00:15:54,180
+Antes de eu continuar, olha isso.
+
+342
+00:15:54,180 --> 00:15:57,180
+Aquela mancheta gigante dizendo que você não é dono de nada.
+
+343
+00:15:57,180 --> 00:15:58,400
+Isso é enganoso!
+
+344
+00:15:58,580 --> 00:16:00,820
+Isso é o que quero dizer quando falo sobre uma narrativa.
+
+345
+00:16:01,040 --> 00:16:03,720
+Especialmente porque em 2013 a Suprema Corte
+
+346
+00:16:03,720 --> 00:16:06,360
+declarou em um caso diferente dizendo que pessoas no EUA
+
+347
+00:16:06,360 --> 00:16:08,680
+podem revender bens protegidos por direitos autorais.
+
+348
+00:16:08,740 --> 00:16:11,440
+Que incluem licenças de softwares,
+
+349
+00:16:11,440 --> 00:16:13,600
+e a doutrina de Primeira Venda se aplica.
+
+350
+00:16:13,600 --> 00:16:16,900
+Que dita que um vendedor não retém nenhuma autoridade de tomar decisões
+
+351
+00:16:16,900 --> 00:16:19,960
+sobre um bem, uma vez que foi vendido para outra pessoa.
+
+352
+00:16:20,120 --> 00:16:23,560
+E como uma nota aparte o link oficial para esse documento da corte foi derrubado.
+
+353
+00:16:23,880 --> 00:16:26,060
+Eu tive que encontrá-lo usando o Wayback Machine.
+
+354
+00:16:26,060 --> 00:16:29,980
+Então acho que não é um bom sinal para a Suprema Corte, mas, tanto faz.
+
+355
+00:16:30,300 --> 00:16:34,600
+Nos EUA Jogos como Serviços sendo Bens não está tão provado.
+
+356
+00:16:34,605 --> 00:16:37,435
+Mas existem muitos precedentes que implicam que eles são.
+
+357
+00:16:37,780 --> 00:16:39,980
+Deliciuxz diz melhor:
+
+358
+00:16:39,980 --> 00:16:44,375
+Uma questão especifica de propriedade de software nunca foi até a Suprema Corte dos EUA.
+
+359
+00:16:44,380 --> 00:16:47,480
+E é provável que publicadoras de software irão preferir que não vá.
+
+360
+00:16:47,640 --> 00:16:49,140
+Ele está certo que eles preferem que não!
+
+361
+00:16:49,140 --> 00:16:54,660
+Porque provavelmente o veredito será o mesmo que foi na UE e na Austrália.
+
+362
+00:16:54,960 --> 00:16:58,040
+Porque esse tópico nunca foi para a Suprema Corte dos EUA.
+
+363
+00:16:58,160 --> 00:17:02,220
+E porque os vereditos de tribunais regionais se conflitam entre si em suas conclusões.
+
+364
+00:17:02,420 --> 00:17:05,435
+É sem fundamento qualquer um afirmar que pessoas nos EUA
+
+365
+00:17:05,435 --> 00:17:07,535
+não são donos de seus softwares comprados.
+
+366
+00:17:07,925 --> 00:17:10,735
+Então de novo, se não possuí taxa de assinatura,
+
+367
+00:17:10,740 --> 00:17:11,880
+você é dono de seus jogos.
+
+368
+00:17:12,420 --> 00:17:13,400
+Mas e daí?
+
+369
+00:17:13,600 --> 00:17:16,500
+Só porque Jogos como Serviços não são realmente serviços,
+
+370
+00:17:16,500 --> 00:17:18,580
+não significa nada.
+
+371
+00:17:18,580 --> 00:17:20,840
+É só um nome para uma prática de negócios.
+
+372
+00:17:21,180 --> 00:17:22,560
+Aonde que a fraude entra nisso?
+
+373
+00:17:23,060 --> 00:17:26,080
+A fraude vem daquela coisa propriedades.
+
+374
+00:17:26,460 --> 00:17:27,080
+Lembre-se.
+
+375
+00:17:27,280 --> 00:17:31,120
+Um vendedor não retém nenhuma autoridade de tomar decisões sobre um produto
+
+376
+00:17:31,120 --> 00:17:33,435
+uma vez que o tenham vendido para outra pessoa.
+
+377
+00:17:33,700 --> 00:17:37,660
+Alguns de vocês devem saber que eu sou um grande defensor contra Matar Jogos.
+
+378
+00:17:38,440 --> 00:17:41,860
+Como Matar Jogos, eu quero dizer a prática de que as ações de uma empresa
+
+379
+00:17:41,860 --> 00:17:45,980
+deixam um jogo completamente injogável para qualquer um que o tenha comprado.
+
+380
+00:17:46,420 --> 00:17:48,780
+Isso também é conhecido como Brickar um Jogo.
+
+381
+00:17:49,260 --> 00:17:53,880
+Matar jogos e Jogos como Serviços estão algemados juntos.
+
+382
+00:17:54,280 --> 00:17:56,580
+Você quase não tem um sem o outro.
+
+383
+00:17:57,040 --> 00:18:01,520
+Veja, todos Jogos como Serviços dependem de você conectando a um servidor controlado por uma empresa.
+
+384
+00:18:02,020 --> 00:18:03,780
+Isso está bem enquanto o jogo está rodando.
+
+385
+00:18:03,780 --> 00:18:05,635
+Mas eventualmente a maioria das empresas decidem que
+
+386
+00:18:05,640 --> 00:18:09,540
+não estão fazendo dinheiro o suficiente no jogo mais para justificar o servidor rodar.
+
+387
+00:18:09,840 --> 00:18:11,180
+Então eles o desligam.
+
+388
+00:18:11,340 --> 00:18:13,020
+Quando isso acontece
+
+389
+00:18:13,020 --> 00:18:16,360
+Cada pessoa que comprou o jogo não nunca mais pode jogá-lo.
+
+390
+00:18:16,840 --> 00:18:19,200
+Se eu te vendesse a cópia de um jogo em disco
+
+391
+00:18:19,200 --> 00:18:23,340
+e no próximo mês enquanto você estivesse dormindo eu invadisse sua casa e quebrasse o disco.
+
+392
+00:18:23,340 --> 00:18:24,960
+Eu iria pra cadeia.
+
+393
+00:18:25,180 --> 00:18:26,620
+Em termos práticos.
+
+394
+00:18:26,620 --> 00:18:30,300
+Isso é quase exatamente o que Jogos como Serviços é.
+
+395
+00:18:30,480 --> 00:18:32,540
+Empresas que utilizam essa prática
+
+396
+00:18:32,540 --> 00:18:37,100
+quase sempre destroem seu produto depois que venderam pra você.
+
+397
+00:18:37,580 --> 00:18:41,600
+E continuo dizendo esse "quase sempre acontece", tem uma razão para isso.
+
+398
+00:18:42,080 --> 00:18:46,060
+Alguns voluntários e eu fizemos uma lista de todos jogos que encontramos
+
+399
+00:18:46,060 --> 00:18:47,860
+que foram desativados e como isso foi feito.
+
+400
+00:18:48,100 --> 00:18:50,260
+Agora, na verdade, essa é a lista pequena.
+
+401
+00:18:50,260 --> 00:18:54,700
+Já que filtrei jogos, como os que veem aqui, só para trazer o foco nos casos do problema maior.
+
+402
+00:18:55,020 --> 00:18:59,540
+Nós ficamos com 122 títulos que na maioria chegam nesse critério.
+
+403
+00:18:59,660 --> 00:19:02,520
+Essa lista pode não ser 100 por centro precisa.
+
+404
+00:19:02,520 --> 00:19:05,255
+Pode ser difícil verificar algumas informações.
+
+405
+00:19:05,260 --> 00:19:08,285
+Mas estou estimando que seja pelo menos 95 por cento precisa.
+
+406
+00:19:08,660 --> 00:19:12,160
+E é provavelmente a maior quantidade de dados coletados nesse tópico até a data.
+
+407
+00:19:12,660 --> 00:19:15,375
+Então, de 122 títulos,
+
+408
+00:19:15,375 --> 00:19:18,265
+quantas vezes as empresas fizeram alguma coisa para:
+
+409
+00:19:18,265 --> 00:19:22,200
+A) Dar aos clientes uma chance de rodar seu jogo depois de desliga-lo.
+
+410
+00:19:22,200 --> 00:19:23,500
+ou B)
+
+411
+00:19:23,500 --> 00:19:26,320
+Dar um reembolso total sem compromisso.
+
+412
+00:19:26,320 --> 00:19:29,120
+Bom, pelo que pude contar. Aqui está:
+
+413
+00:19:29,520 --> 00:19:32,160
+É. Isso são cinco títulos.
+
+414
+00:19:32,160 --> 00:19:36,180
+Ou em outras palavras, aproximadamente 4 por cento de todos Jogos como Serviços.
+
+415
+00:19:36,420 --> 00:19:39,540
+Então já que fiz um título clickbait, vou confessar.
+
+416
+00:19:39,760 --> 00:19:42,000
+Se estamos sendo completamente honestos.
+
+417
+00:19:42,200 --> 00:19:45,120
+Jogos como Serviços não é fraude.
+
+418
+00:19:45,460 --> 00:19:49,240
+Só é fraude em aproximadamente 96 por cento das vezes.
+
+419
+00:19:49,440 --> 00:19:53,020
+Então se alguém disser que estou exagerando o quão ruim tudo isso é.
+
+420
+00:19:53,020 --> 00:19:55,680
+É verdade, estou exagerando 4 por cento.
+
+421
+00:19:56,700 --> 00:19:58,680
+E quem sabe, podíamos ter esquecido um.
+
+422
+00:19:58,840 --> 00:20:02,140
+Estou tornando tudo isso público, você está bem-vindo a checar os dados.
+
+423
+00:20:02,220 --> 00:20:05,060
+Na verdade eu não estou certo sobre quais desses jogos estavam em sob
+
+424
+00:20:05,060 --> 00:20:07,915
+licença de assinatura quando foram desligados.
+
+425
+00:20:07,915 --> 00:20:10,745
+Então você pode até reduzir esse número para 95,
+
+426
+00:20:10,745 --> 00:20:12,460
+Ei! Talvez 94 por cento.
+
+427
+00:20:13,140 --> 00:20:16,500
+E alguns desses títulos você pode ainda executar
+
+428
+00:20:16,500 --> 00:20:19,260
+geralmente graças a emuladores de servidores ilícitos.
+
+429
+00:20:19,300 --> 00:20:22,620
+Mas esses são casos em que as empresas não fizeram NADA para ajudar.
+
+430
+00:20:22,800 --> 00:20:25,640
+E foi APESAR das ações da empresa.
+
+431
+00:20:25,640 --> 00:20:27,160
+Não POR CAUSA delas.
+
+432
+00:20:27,200 --> 00:20:28,600
+Mais sobre isso daqui a pouco.
+
+433
+00:20:29,060 --> 00:20:32,960
+Então eu estou chamando isso de fraude por causa da realidade e por causa da intenção.
+
+434
+00:20:33,200 --> 00:20:36,060
+Só porque o seu jogo não roda, não vira fraude.
+
+435
+00:20:36,620 --> 00:20:39,600
+Pode existir bugs, o hardware pode estragar.
+
+436
+00:20:39,840 --> 00:20:43,240
+Eu não estou falando sobre engasgos, acidentes ou forças da natureza.
+
+437
+00:20:43,720 --> 00:20:47,300
+Mas com Jogos como Serviços, o produto é feito
+
+438
+00:20:47,300 --> 00:20:49,940
+para falhar assim que eles desligarem os servidores.
+
+439
+00:20:50,280 --> 00:20:52,680
+A fraude começa quando eles intencionalmente
+
+440
+00:20:52,680 --> 00:20:55,360
+RETIRAM acesso ao seu produto.
+
+441
+00:20:55,935 --> 00:20:58,355
+Jogos como Serviços é fraude porque
+
+442
+00:20:58,360 --> 00:21:01,140
+envolve vender licenças perpétuas
+
+443
+00:21:01,140 --> 00:21:04,340
+que são na prática não perpétuas.
+
+444
+00:21:04,340 --> 00:21:07,040
+A autoridade de tomada de decisão sobre o produto
+
+445
+00:21:07,040 --> 00:21:09,340
+está sendo removida do comprador.
+
+446
+00:21:09,640 --> 00:21:13,400
+Clientes compram jogos com a expectativa de irão funcionar.
+
+447
+00:21:13,600 --> 00:21:18,260
+Se 100 por cento de todas as cópias vendidas de um jogo deixam de funcionar.
+
+448
+00:21:18,260 --> 00:21:21,520
+Por causa de interferência deliberada do vendedor
+
+449
+00:21:21,520 --> 00:21:23,540
+depois do ponto de venda.
+
+450
+00:21:23,540 --> 00:21:26,320
+Como isso pode ser considerado uma prática honesta?
+
+451
+00:21:26,520 --> 00:21:29,360
+Agora a oposição iria dizer que isso não é fraude porque
+
+452
+00:21:29,360 --> 00:21:31,920
+foi te vendido a licença perpétua.
+
+453
+00:21:31,920 --> 00:21:34,540
+E só porque a empresa quebra o seu jogo.
+
+454
+00:21:34,540 --> 00:21:36,980
+Não significa que você perdeu sua licença.
+
+455
+00:21:36,980 --> 00:21:41,320
+Você ainda está livre para "consertar" o jogo depois que eles quebrarem.
+
+456
+00:21:41,420 --> 00:21:45,320
+Eu digo que isso é um argumento insincero em vários níveis.
+
+457
+00:21:45,540 --> 00:21:47,320
+Se alguém te vende uma bicicleta
+
+458
+00:21:47,320 --> 00:21:49,495
+e depois um pneu seu fura.
+
+459
+00:21:49,500 --> 00:21:53,240
+Sim, o seu produto não funciona mais e precisa de um esforço para consertá-lo.
+
+460
+00:21:53,680 --> 00:21:57,415
+Mas isso é algo que uma pessoa comum pode ser razoavelmente esperada a conseguir fazer.
+
+461
+00:21:57,420 --> 00:21:59,800
+Ou ei! Leve até uma oficina.
+
+462
+00:21:59,800 --> 00:22:02,755
+Mais importante, a empresa que te vendeu a bicicleta
+
+463
+00:22:02,755 --> 00:22:05,835
+não foi até sua casa e furou o seu pneu.
+
+464
+00:22:05,840 --> 00:22:08,180
+Eu vejo isso como uma distinção importante.
+
+465
+00:22:08,400 --> 00:22:11,140
+Agora quando um Jogo como Serviço para de funcionar,
+
+466
+00:22:11,140 --> 00:22:14,640
+o que de novo eu quero enfatizar, é um ato deliberado.
+
+467
+00:22:14,640 --> 00:22:19,460
+Ninguém na Terra poderia ser razoavelmente esperado a consertá-lo.
+
+468
+00:22:19,860 --> 00:22:21,840
+Existem duas razões para isso.
+
+469
+00:22:22,260 --> 00:22:25,620
+Primeira, é necessário conhecimento especializado de programação para
+
+470
+00:22:25,620 --> 00:22:28,040
+recriar as porções do servidor que foram perdidas.
+
+471
+00:22:28,220 --> 00:22:30,300
+De novo, o jeito que esses jogos funcionam é
+
+472
+00:22:30,300 --> 00:22:32,800
+que a maioria dos dados está no computador do cliente
+
+473
+00:22:32,880 --> 00:22:36,660
+Mas a empresa hospedando o jogo tem informações essenciais para como rodá-lo.
+
+474
+00:22:36,665 --> 00:22:39,775
+Onde coisas spawnam, rotinas lógicas e por aí vai.
+
+475
+00:22:39,780 --> 00:22:43,280
+Se você quiser, pode até pensar nisso como o corpo e isso como o cérebro.
+
+476
+00:22:43,680 --> 00:22:45,640
+Quando eles desligam o cérebro aqui
+
+477
+00:22:45,640 --> 00:22:48,860
+uma grande porção agora está sumindo e injogável.
+
+478
+00:22:49,240 --> 00:22:50,880
+Para conseguir rodar o jogo de novo.
+
+479
+00:22:50,880 --> 00:22:54,220
+A pessoa teria que escrever um novo cérebro, quer dizer, servidor.
+
+480
+00:22:54,460 --> 00:22:57,575
+Agora isso é uma quantidade exorbitante de trabalho e precisa de
+
+481
+00:22:57,575 --> 00:22:59,405
+muito conhecimento especializado.
+
+482
+00:22:59,405 --> 00:23:04,000
+Eu iria estimar que apenas 5 por cento da população é sequer CAPAZ de fazer isso.
+
+483
+00:23:04,240 --> 00:23:06,260
+Entretanto, é possível.
+
+484
+00:23:06,800 --> 00:23:11,340
+Se isso é uma expectativa razoável de compradores para consertar seu produto é discutível.
+
+485
+00:23:11,440 --> 00:23:12,720
+Eu acho que não é.
+
+486
+00:23:12,900 --> 00:23:15,860
+Mas isso não é nada comparado à próxima parte.
+
+487
+00:23:15,860 --> 00:23:18,860
+Programar um novo servidor já é difícil o suficiente.
+
+488
+00:23:18,860 --> 00:23:20,955
+Mas as empresas vão também encriptar seus dados
+
+489
+00:23:20,955 --> 00:23:23,865
+para proteger contra hackers e pirataria.
+
+490
+00:23:23,865 --> 00:23:27,400
+Isso é conhecido como Gestão de Direitos Digitais ou DRM.
+
+491
+00:23:27,600 --> 00:23:31,240
+Isso é razoável enquanto o produto ainda está sendo vendido.
+
+492
+00:23:31,240 --> 00:23:33,020
+Mas uma vez que é desligado.
+
+493
+00:23:33,020 --> 00:23:36,960
+Então isso é o equivalente de trancar as coisas e jogar fora a chave.
+
+494
+00:23:37,340 --> 00:23:41,300
+Eu falei com um desenvolvedor de um emulador de servidor de jogo ressuscitado.
+
+495
+00:23:41,300 --> 00:23:44,720
+E ele disse que eles tinham um especialista em  criptografia os ajudando a
+
+496
+00:23:44,725 --> 00:23:47,875
+decifrar o código e mesmo assim eles levaram anos.
+
+497
+00:23:47,880 --> 00:23:50,040
+Então se fosse é qualificado para decifrar códigos
+
+498
+00:23:50,040 --> 00:23:51,920
+parecidos com os que os Nazistas estavam usando.
+
+499
+00:23:51,920 --> 00:23:53,540
+E a ganhar a Segunda Guerra Mundial na Europa.
+
+500
+00:23:53,840 --> 00:23:54,860
+Então sim!
+
+501
+00:23:54,860 --> 00:23:58,220
+Você pode ser qualificado para "consertar" o seu jogo.
+
+502
+00:23:58,760 --> 00:24:00,840
+Eu estou realmente não exagerando!
+
+503
+00:24:01,220 --> 00:24:03,940
+Não somente isso é uma porcentagem tão pequena
+
+504
+00:24:03,940 --> 00:24:06,000
+da população capaz de fazer algo assim.
+
+505
+00:24:06,000 --> 00:24:07,680
+Mas até para eles.
+
+506
+00:24:07,680 --> 00:24:10,300
+Isso não pode ser de nenhuma maneira considerado razoável.
+
+507
+00:24:10,440 --> 00:24:14,680
+Para a maioria das pessoas, estou falando 99,9 por cento ou mais,
+
+508
+00:24:14,680 --> 00:24:16,900
+é IMPOSSÍVEL para eles consertarem
+
+509
+00:24:16,900 --> 00:24:19,180
+seus jogos depois do desligamento.
+
+510
+00:24:19,240 --> 00:24:21,900
+Então, não literalmente impossível
+
+511
+00:24:21,900 --> 00:24:23,520
+mas de novo, estou arredondando.
+
+512
+00:24:23,965 --> 00:24:26,845
+Mas vamos tentar assegurar isso um pouco legalmente.
+
+513
+00:24:26,845 --> 00:24:29,685
+E de novo os EUA é nível Hard.
+
+514
+00:24:30,080 --> 00:24:33,460
+Alguns de vocês já devem ter ouvido do termo "Obsolescência Planejada"
+
+515
+00:24:33,760 --> 00:24:37,960
+Essa é a prática de projetar bens para intencionalmente quebrarem mais rápido,
+
+516
+00:24:38,000 --> 00:24:41,100
+em esperança que você compre um novo para que eles possam ganhar mais dinheiro.
+
+517
+00:24:41,140 --> 00:24:45,320
+Pelo o que posso dizer, isso é perfeitamente legal nos Estados Unidos infelizmente.
+
+518
+00:24:45,620 --> 00:24:49,435
+Mas tem um subgrupo disso chamado de "Obsolescência Programada".
+
+519
+00:24:49,435 --> 00:24:52,365
+Veja, diferente de obsolescência planejada, que só aumenta
+
+520
+00:24:52,365 --> 00:24:55,200
+as probabilidades do produto quebrar ao longo do tempo.
+
+521
+00:24:55,300 --> 00:24:58,640
+Obsolescência programada GARANTE que vai quebrar.
+
+522
+00:24:58,640 --> 00:25:01,740
+De propósito, geralmente em uma hora específica.
+
+523
+00:25:02,060 --> 00:25:03,715
+E não está claro se
+
+524
+00:25:03,720 --> 00:25:06,100
+ISSO é legal nos EUA ou não.
+
+525
+00:25:06,300 --> 00:25:08,260
+Teve alguns casos nisso.
+
+526
+00:25:08,260 --> 00:25:12,880
+Como a ação judicial coletiva "Jackie Blannis vs HP" em 2008.
+
+527
+00:25:13,160 --> 00:25:15,940
+Acusações foram prestadas contra Hewlett-Packard por projetar
+
+528
+00:25:15,940 --> 00:25:18,500
+cartuchos de tinta para desativar prematuramente.
+
+529
+00:25:18,500 --> 00:25:20,520
+HP negou qualquer infração
+
+530
+00:25:20,520 --> 00:25:22,340
+mas ainda assim concedeu aos autores da queixa
+
+531
+00:25:22,340 --> 00:25:24,760
+5 milhões de dólares de créditos para cala-los.
+
+532
+00:25:25,360 --> 00:25:27,760
+É, eu estou certo de que eles fizeram isso só para serem legais.
+
+533
+00:25:28,020 --> 00:25:31,200
+Do contrário, por que eles não lutariam e manteriam sua inocência?
+
+534
+00:25:31,480 --> 00:25:33,480
+Especialmente, depois que eles levaram outra
+
+535
+00:25:33,480 --> 00:25:37,540
+ação judicial coletiva, "San Miguel vs HP" em 2016.
+
+536
+00:25:37,700 --> 00:25:39,820
+Por atualizar o firmware de impressoras
+
+537
+00:25:39,820 --> 00:25:42,440
+para pararem de aceitar cartuchos de terceiros.
+
+538
+00:25:42,440 --> 00:25:44,960
+Em outras palavras, quebrando a funcionalidade.
+
+539
+00:25:44,960 --> 00:25:47,160
+Dessa vez ele foram culpados por infração e
+
+540
+00:25:47,160 --> 00:25:49,840
+tiveram que pagar 1,5 milhões de dólares.
+
+541
+00:25:49,840 --> 00:25:51,520
+Agora ambos esses implicam que
+
+542
+00:25:51,520 --> 00:25:54,660
+obsolescência programada poderia ser ilegal se confrontada.
+
+543
+00:25:54,660 --> 00:25:57,820
+Entretanto, em ambos casos as razões por trás das acusações
+
+544
+00:25:57,820 --> 00:25:59,800
+não se associam diretamente a isso.
+
+545
+00:25:59,800 --> 00:26:02,980
+Então esses não são os precedentes legais mais fortes em minha opinião.
+
+546
+00:26:03,200 --> 00:26:05,860
+O argumento legal mais forte que eu encontrei.
+
+547
+00:26:05,860 --> 00:26:09,080
+Foi em 2017 em "Impression vs Lexmark"
+
+548
+00:26:09,080 --> 00:26:12,260
+A Suprema Corte declarou que você possui propriedade de seu produto
+
+549
+00:26:12,320 --> 00:26:14,900
+e está livre para fazer o quiser com ele.
+
+550
+00:26:14,900 --> 00:26:18,420
+Até mesmo se patentes ainda se aplicam a ele que controlam seu comportamento.
+
+551
+00:26:18,620 --> 00:26:22,700
+Bem, ainda que é um pouco de exagero dizer que obsolescência programada não é legal.
+
+552
+00:26:22,880 --> 00:26:25,215
+Eu achei que essas frases da declaração são dignas de nota.
+
+553
+00:26:25,360 --> 00:26:27,920
+"Mesmo se as restrições nos contratos da Lexmark
+
+554
+00:26:27,920 --> 00:26:31,540
+com seus clientes fossem claras e aplicáveis sob lei contratual.
+
+555
+00:26:31,740 --> 00:26:34,660
+Elas não dão direito a Lexmark a reter direitos de patente
+
+556
+00:26:34,660 --> 00:26:37,320
+em um item que ela elegeu vender."
+
+557
+00:26:37,560 --> 00:26:39,720
+"Uma vez que o titular da patente vende um item
+
+558
+00:26:39,720 --> 00:26:41,800
+é assegurado essa recompensa.
+
+559
+00:26:41,800 --> 00:26:44,240
+E as leis de patente não provém nenhuma base
+
+560
+00:26:44,240 --> 00:26:46,980
+para restringir o uso e aproveitamento do produto."
+
+561
+00:26:46,980 --> 00:26:49,340
+Essa pode ser uma frase essencial.
+
+562
+00:26:49,420 --> 00:26:51,840
+Eu chamaria desligar um jogo para que
+
+563
+00:26:51,840 --> 00:26:54,580
+a pessoa que o comprou não tenha uma maneira para nunca mais rodá-lo de novo.
+
+564
+00:26:54,580 --> 00:26:58,420
+Restringir o uso e o aproveitamento do produto. Você não?
+
+565
+00:26:58,900 --> 00:27:00,520
+Pode ter alguma coisa aí.
+
+566
+00:27:00,780 --> 00:27:03,100
+Mas isso não foi testado no tribunal
+
+567
+00:27:03,100 --> 00:27:05,340
+então a maioria disso está em uma zona cinzenta legal.
+
+568
+00:27:05,880 --> 00:27:09,860
+Isso quer dizer que a lei ainda não disse especificamente se algo é legal ou não.
+
+569
+00:27:09,860 --> 00:27:12,760
+Então todo mundo tem que advinhar baseado em outras leis.
+
+570
+00:27:12,880 --> 00:27:16,260
+Eu estou obviamente no lado de "Isso é fraude".
+
+571
+00:27:16,260 --> 00:27:18,720
+Porque se a lei diz uma coisa,
+
+572
+00:27:18,720 --> 00:27:21,080
+e o resultado é o exato oposto.
+
+573
+00:27:21,080 --> 00:27:22,860
+Então alguma coisa está quebrando.
+
+574
+00:27:23,220 --> 00:27:26,000
+Mas como isso termina? Vamos ver.
+
+575
+00:27:26,580 --> 00:27:28,380
+Você é dono do seu jogo?
+
+576
+00:27:28,380 --> 00:27:30,780
+Teoricamente. Sim!
+
+577
+00:27:30,780 --> 00:27:34,320
+Você tecnicamente nunca perde a propriedade de sua licença perpétua
+
+578
+00:27:34,320 --> 00:27:35,480
+É sua.
+
+579
+00:27:35,480 --> 00:27:36,960
+Na prática?
+
+580
+00:27:36,960 --> 00:27:38,200
+Não é claro.
+
+581
+00:27:38,200 --> 00:27:40,520
+Não teve nenhuma declaração da Suprema Corte sobre se
+
+582
+00:27:40,520 --> 00:27:43,880
+Jogos como Serviços infringem em sua licença perpétua.
+
+583
+00:27:43,880 --> 00:27:45,840
+Isso é o que estou tentando mudar.
+
+584
+00:27:45,840 --> 00:27:47,480
+Em termos do mundo real?
+
+585
+00:27:47,480 --> 00:27:50,580
+Também conhecido como "a única parte com que realmente me importo".
+
+586
+00:27:50,580 --> 00:27:51,620
+Não!
+
+587
+00:27:51,620 --> 00:27:54,600
+Se nenhuma pessoa normal pode ser esperada a usar seu
+
+588
+00:27:54,600 --> 00:27:57,240
+produto de novo depois que a empresa o desativa.
+
+589
+00:27:57,340 --> 00:28:00,300
+Isso é certamente perda de propriedade efetiva.
+
+590
+00:28:00,460 --> 00:28:01,640
+Intenção do vendedor?
+
+591
+00:28:01,640 --> 00:28:02,800
+Não!
+
+592
+00:28:02,920 --> 00:28:05,040
+Jogos como Serviços são projetados para terem sua
+
+593
+00:28:05,040 --> 00:28:08,440
+funcionalidade removida em uma outra data desconhecida.
+
+594
+00:28:08,500 --> 00:28:12,180
+E os dados são encriptados para impedir você de restaura-los por conta própria
+
+595
+00:28:12,420 --> 00:28:15,940
+Não fica mais deliberado a remover sua propriedade do que isso.
+
+596
+00:28:16,000 --> 00:28:19,140
+Jogos como Serviço é uma situação onde o resultado
+
+597
+00:28:19,140 --> 00:28:23,160
+é o exato oposto da intenção da lei.
+
+598
+00:28:23,660 --> 00:28:27,480
+É por isso que o mito de que "você não é dono dos seus jogos' continua persistindo.
+
+599
+00:28:27,780 --> 00:28:30,820
+As pessoas só estão dizendo o que estão vendo com os próprios olhos.
+
+600
+00:28:30,820 --> 00:28:34,340
+Leis são sem sentido se não são impostas!
+
+601
+00:28:34,400 --> 00:28:37,320
+E isso é tudo que eu tenho para a lei dos EUA.
+
+602
+00:28:37,640 --> 00:28:41,440
+Mas felizmente, as coisas são mais otimistas em outros países.
+
+603
+00:28:41,640 --> 00:28:44,860
+Na Alemanha existe um partido político que iniciou um estudo para
+
+604
+00:28:44,860 --> 00:28:48,680
+tentar reduzir obsolescência planejada, usando leis existentes nos livros.
+
+605
+00:28:48,680 --> 00:28:50,660
+Então, tipo o que eu estou fazendo.
+
+606
+00:28:50,700 --> 00:28:52,540
+Algumas partes eu achei dignas de nota:
+
+607
+00:28:52,540 --> 00:28:55,400
+Introdução de padrões mínimos para reparo.
+
+608
+00:28:55,600 --> 00:28:59,000
+Obrigações para fornecer instruções de reparos.
+
+609
+00:28:59,380 --> 00:29:02,240
+Na França, a Lei de Hammond foi introduzida em 2014
+
+610
+00:29:02,240 --> 00:29:05,220
+para mais ou menos fazer obsolescência planejada ilegal.
+
+611
+00:29:05,580 --> 00:29:08,460
+Exceto que isso parece aplicar apenas a bens físicos.
+
+612
+00:29:08,660 --> 00:29:10,900
+Então pode ou não existir uma brecha ali.
+
+613
+00:29:10,900 --> 00:29:13,500
+E Ei! Está sendo colocada em teste, processando as empresas de impressoras
+
+614
+00:29:13,500 --> 00:29:17,580
+Epson, HP, Canon e Brother por violarem essa lei.
+
+615
+00:29:17,780 --> 00:29:21,060
+Seria ótimo se eles conseguissem estabelecer um precedente para softwares também.
+
+616
+00:29:21,240 --> 00:29:24,580
+Cara, impressoras são a indústria de jogos do mundo real!
+
+617
+00:29:25,215 --> 00:29:28,015
+E na Europa no geral, o Parlamento Europeu
+
+618
+00:29:28,020 --> 00:29:31,860
+aceitou uma resolução para alongar a longevidade  de bens e softwares dos consumidores.
+
+619
+00:29:31,860 --> 00:29:34,200
+Para combater obsolescência planejada.
+
+620
+00:29:34,440 --> 00:29:36,080
+E de volta a Austrália.
+
+621
+00:29:36,080 --> 00:29:38,480
+A Comissão de Competição e Consumidores Australiana
+
+622
+00:29:38,480 --> 00:29:40,240
+tem as Garantias do Consumidor.
+
+623
+00:29:40,240 --> 00:29:42,520
+Incluindo que seu produto seja seguro,
+
+624
+00:29:42,520 --> 00:29:45,060
+duradouro e sem falhas.
+
+625
+00:29:45,600 --> 00:29:48,075
+Bem, Jogos como Serviço são seguros
+
+626
+00:29:48,080 --> 00:29:50,240
+então, você sabe, uma de três.
+
+627
+00:29:50,580 --> 00:29:53,040
+Agora também diz que isso não se aplica se você
+
+628
+00:29:53,040 --> 00:29:56,260
+sabia ou foi alertado das falhas antes de ter comprado o produto.
+
+629
+00:29:56,520 --> 00:29:58,500
+Isso uma outra área cinzenta de novo.
+
+630
+00:29:58,720 --> 00:30:00,820
+A empresa geralmente diz a você que
+
+631
+00:30:00,820 --> 00:30:03,620
+Jogos como Serviços poderia parar de funcionar a qualquer momento
+
+632
+00:30:03,620 --> 00:30:05,520
+no Acordo de Licença de Usuário Final.
+
+633
+00:30:05,840 --> 00:30:08,780
+Mas isso está realmente seguindo a intenção da lei?
+
+634
+00:30:09,020 --> 00:30:12,580
+Se a empresa está criando o defeito no produto de propósito.
+
+635
+00:30:12,640 --> 00:30:15,420
+E faz isso de novo, e de novo.
+
+636
+00:30:15,420 --> 00:30:20,060
+Ao ponto onde vender produtos intencionalmente defeituosos é o seu modelo de negócios inteiro.
+
+637
+00:30:20,320 --> 00:30:23,780
+Isso ainda cheira a fraude para mim e deveria ser no mínimo examinado.
+
+638
+00:30:24,560 --> 00:30:27,280
+Agora eu não sei os detalhes dessas leis e movimentos
+
+639
+00:30:27,280 --> 00:30:29,880
+já que já é difícil o suficiente pra eu pesquisar isso do jeito que é,
+
+640
+00:30:29,880 --> 00:30:31,620
+quanto mais em línguas diferentes.
+
+641
+00:30:31,840 --> 00:30:34,715
+E parece que elas estão mais focadas em bens físicos.
+
+642
+00:30:34,920 --> 00:30:36,620
+Mas pelo amor de Deus!
+
+643
+00:30:36,620 --> 00:30:39,200
+A gente tem de por software junto nessa.
+
+644
+00:30:39,580 --> 00:30:41,960
+Só exigindo empresas a fornecer
+
+645
+00:30:41,960 --> 00:30:43,820
+"Instruções de concerto"
+
+646
+00:30:43,820 --> 00:30:47,080
+seria uma grande diferença comparado com como está agora.
+
+647
+00:30:47,620 --> 00:30:50,660
+A conclusão seria, parece que muitas pessoas estão ficando chateadas
+
+648
+00:30:50,665 --> 00:30:53,645
+com empresas roubando seus clientes.
+
+649
+00:30:53,645 --> 00:30:57,100
+E a lei está tentando alcançar com o que a tecnologia está fazendo.
+
+650
+00:30:57,640 --> 00:31:00,540
+Jogos como Serviços são bens nestes países
+
+651
+00:31:00,540 --> 00:31:03,820
+o que significa, que existe uma chance real de que eles podem ser protegidos sob a lei.
+
+652
+00:31:04,120 --> 00:31:07,040
+A intenção dessas leis é quase idêntica
+
+653
+00:31:07,040 --> 00:31:09,540
+à minha guerra contra Jogos como Serviços.
+
+654
+00:31:09,700 --> 00:31:12,860
+Software tem que pegar uma carona nessas leis
+
+655
+00:31:12,860 --> 00:31:15,500
+e ser examinado pelos corretos órgãos do governo.
+
+656
+00:31:16,060 --> 00:31:19,600
+E isso é tudo sobre argumentos legais!
+
+657
+00:31:19,640 --> 00:31:21,080
+AHHHH!
+
+658
+00:31:22,080 --> 00:31:23,260
+Eu vou fazer uma pausa.
+
+659
+00:31:23,260 --> 00:31:24,520
+Você quer fazer uma pausa?
+
+660
+00:31:24,520 --> 00:31:25,680
+Eu vou fazer uma pausa.
+
+661
+00:31:42,625 --> 00:31:45,885
+Okay, então esses foram os argumentos legais.
+
+662
+00:31:45,885 --> 00:31:47,680
+É, isso foi...
+
+663
+00:31:47,680 --> 00:31:48,660
+Divertido!
+
+664
+00:31:51,460 --> 00:31:53,940
+Mas eu tenho que cobrir TUDO.
+
+665
+00:31:53,940 --> 00:31:56,120
+Então vamos ficar conceituais.
+
+666
+00:31:56,600 --> 00:31:57,780
+Talvez você esteja pensando:
+
+667
+00:31:57,820 --> 00:32:00,900
+Okay, e daí que as leis dizem que jogos são bens?
+
+668
+00:32:00,900 --> 00:32:04,260
+Talvez eles sejam realmente serviços e as leis estão simplesmente desatualizadas.
+
+669
+00:32:04,780 --> 00:32:07,260
+Ok, vamos fingir que a lei não existe,
+
+670
+00:32:07,260 --> 00:32:08,800
+nós vamos escrever ela do zero.
+
+671
+00:32:08,800 --> 00:32:10,000
+Se esse fosse o caso.
+
+672
+00:32:10,000 --> 00:32:11,840
+Então Jogos como Serviços
+
+673
+00:32:11,840 --> 00:32:15,695
+seriam o contrário de qualquer outro serviço que existe!
+
+674
+00:32:15,700 --> 00:32:16,760
+Não estou brincando.
+
+675
+00:32:17,280 --> 00:32:19,500
+Todo outro serviço que consigo pensar
+
+676
+00:32:19,500 --> 00:32:22,300
+possuem pelo menos uma das seguintes condições:
+
+677
+00:32:22,880 --> 00:32:25,800
+1) Uma expectativa de quanto irá durar.
+
+678
+00:32:25,800 --> 00:32:29,160
+Se você paga uma conta de energia, é geralmente para um mês de cada vez.
+
+679
+00:32:29,160 --> 00:32:31,075
+Ou se você vai a um parque de diversões.
+
+680
+00:32:31,075 --> 00:32:33,945
+Seu ingresso dura para o dia ou a temporada.
+
+681
+00:32:33,945 --> 00:32:36,740
+O ponto sendo, todo mundo sabe quando o serviço acabou
+
+682
+00:32:36,740 --> 00:32:39,160
+e termina ou você tem que renová-lo.
+
+683
+00:32:39,520 --> 00:32:42,900
+2) Há uma expectativa geral de quando está pronto.
+
+684
+00:32:42,900 --> 00:32:45,240
+Se você pagar pedreiros para consertar o seu telhado.
+
+685
+00:32:45,280 --> 00:32:47,780
+Você pode não ter nem ideia de o quanto isso vai demorar,
+
+686
+00:32:47,780 --> 00:32:49,360
+mas você saberá quando for arrumado.
+
+687
+00:32:49,520 --> 00:32:52,520
+Existe uma ideia aproximada de quando o serviço está terminado.
+
+688
+00:32:52,820 --> 00:32:57,060
+3) Existem limitações do mundo real com relação a manter o serviço indo.
+
+689
+00:32:57,360 --> 00:32:59,560
+Alguns serviços podem durar para sempre.
+
+690
+00:32:59,780 --> 00:33:02,120
+Se eu alugar um lote de terra.
+
+691
+00:33:02,120 --> 00:33:05,660
+Eu não tenho que fazer nada além de coletar meu dinheiro a cada mês.
+
+692
+00:33:05,800 --> 00:33:07,120
+Por isso a numero 1 aqui.
+
+693
+00:33:07,400 --> 00:33:10,060
+Na verdade eu já tive um síndico antes, onde em um momento
+
+694
+00:33:10,060 --> 00:33:12,040
+eu não tinha certeza se ele estava vivo ou morto.
+
+695
+00:33:12,260 --> 00:33:14,280
+Mas, o serviço continuou.
+
+696
+00:33:14,800 --> 00:33:18,320
+Mas a maioria dos serviços precisam de recursos reais para continuar.
+
+697
+00:33:18,640 --> 00:33:22,380
+Se você vai em um show, e você está se divertindo e você só quer ficar.
+
+698
+00:33:22,660 --> 00:33:25,520
+Isso é ótimo, mas a banda tem que para alguma hora.
+
+699
+00:33:25,840 --> 00:33:27,960
+Eventualmente vai acabar a cocaína deles.
+
+700
+00:33:28,440 --> 00:33:29,900
+Talvez você consiga me surpreender,
+
+701
+00:33:29,960 --> 00:33:31,700
+mas eu não consegui pensar em nenhum serviço
+
+702
+00:33:31,700 --> 00:33:34,940
+que não precisasse de pelo menos uma dessas condições.
+
+703
+00:33:34,940 --> 00:33:36,015
+Exceto:
+
+704
+00:33:36,180 --> 00:33:38,160
+Jogos como Serviços!
+
+705
+00:33:38,480 --> 00:33:40,800
+Por isso, até em um nível conceitual.
+
+706
+00:33:40,800 --> 00:33:43,180
+Eles não são serviços!
+
+707
+00:33:43,180 --> 00:33:44,655
+Aqui, eu vou te mostrar.
+
+708
+00:33:44,900 --> 00:33:47,160
+Expectativa de quanto tempo durará.
+
+709
+00:33:47,600 --> 00:33:50,480
+Bem, jogos por assinatura como World of Warcraft.
+
+710
+00:33:50,715 --> 00:33:53,795
+Sim. Eles ganham esse round também, droga!
+
+711
+00:33:54,120 --> 00:33:57,980
+Jogos por assinatura realmente são serviços e eles não são fraude.
+
+712
+00:33:58,320 --> 00:34:00,260
+Eu vou ter que pegar eles no round final.
+
+713
+00:34:01,340 --> 00:34:05,320
+Então, apesar desses poucos jogos que ainda exigem uma taxa mensal para jogar.
+
+714
+00:34:05,660 --> 00:34:07,440
+Não, isso não se aplica.
+
+715
+00:34:07,780 --> 00:34:11,720
+Se existe uma expectativa de o quanto Jogos como Serviços duram.
+
+716
+00:34:11,720 --> 00:34:13,000
+Então qual é ela?
+
+717
+00:34:13,420 --> 00:34:16,080
+The Culling 2, durou uma semana e meia.
+
+718
+00:34:16,680 --> 00:34:20,800
+Meridian 59 tem durado por mais de 22 anos.
+
+719
+00:34:21,020 --> 00:34:22,040
+Isso não ajuda.
+
+720
+00:34:22,260 --> 00:34:24,220
+O que os jogos em si te dizem?
+
+721
+00:34:24,540 --> 00:34:26,400
+Bem, a maioria não te diz nada,
+
+722
+00:34:26,400 --> 00:34:29,520
+eles só falam que podem ser desligados a qualquer hora por qualquer razão.
+
+723
+00:34:29,720 --> 00:34:33,380
+Alguns dizem que podem ser desligados a qualquer hora mais 30 dias.
+
+724
+00:34:33,900 --> 00:34:36,540
+Mesmo assim eu argumentaria que ninguém comprando o jogo
+
+725
+00:34:36,540 --> 00:34:38,920
+está realmente esperando que pare de funcionar
+
+726
+00:34:38,920 --> 00:34:40,800
+depois de 30 dias.
+
+727
+00:34:40,800 --> 00:34:43,840
+Eu diria que não existe um padrão aqui, mas não é verdade.
+
+728
+00:34:43,980 --> 00:34:46,160
+Existe um padrão para jogos.
+
+729
+00:34:46,220 --> 00:34:47,920
+O padrão tradicional é:
+
+730
+00:34:48,040 --> 00:34:48,840
+Para sempre!
+
+731
+00:34:49,240 --> 00:34:52,240
+Tem pessoas que fazem speedrun de Super Mario Brothers.
+
+732
+00:34:52,240 --> 00:34:54,500
+Esse jogo tem mais de 30 anos de idade.
+
+733
+00:34:54,500 --> 00:34:57,240
+Então sim, para sempre, esse é um bom padrão.
+
+734
+00:34:57,240 --> 00:35:00,580
+Jogos como Serviços estão tentando empurrar um novo padrão.
+
+735
+00:35:00,580 --> 00:35:02,060
+Exceto de que não tem um.
+
+736
+00:35:02,220 --> 00:35:04,060
+Só que é menos para você.
+
+737
+00:35:04,560 --> 00:35:08,140
+Ah, exceto pelo Secret World e Fallout 76
+
+738
+00:35:08,600 --> 00:35:10,940
+Eles estão ambos dizendo que você poderá jogar eles para sempre.
+
+739
+00:35:11,640 --> 00:35:14,100
+Hmm... Tá bom.
+
+740
+00:35:14,520 --> 00:35:18,860
+Bem, para todo outro Jogo como Serviço que não dura para sempre,
+
+741
+00:35:18,980 --> 00:35:23,440
+isso é um exemplo concreto de como seus direitos estão sendo tirados de você.
+
+742
+00:35:23,780 --> 00:35:27,600
+Nós fomos de "Jogue para Sempre" para "Até quando o vendedor quiser".
+
+743
+00:35:27,860 --> 00:35:29,940
+Então não, isso não se aplica.
+
+744
+00:35:30,560 --> 00:35:32,820
+Expectativa de quando está acabado.
+
+745
+00:35:33,360 --> 00:35:34,320
+Deixa eu te perguntar.
+
+746
+00:35:34,360 --> 00:35:36,580
+Quando alguém concluiu com um jogo?
+
+747
+00:35:36,820 --> 00:35:37,780
+Quando eles venceram o jogo?
+
+748
+00:35:38,300 --> 00:35:39,660
+E se eles quiserem jogar de novo?
+
+749
+00:35:40,120 --> 00:35:43,820
+E se for um jogo que não tem um final é só tipo uma coisa contínua?
+
+750
+00:35:44,200 --> 00:35:47,240
+E se eles quiserem voltar e jogar depois de alguns anos?
+
+751
+00:35:47,660 --> 00:35:49,800
+Exatamente, não existe nenhum padrão aqui.
+
+752
+00:35:50,180 --> 00:35:52,560
+Bem, não isso não está certo também.
+
+753
+00:35:52,900 --> 00:35:54,760
+Existe um padrão para jogos.
+
+754
+00:35:54,920 --> 00:35:56,760
+O antigo padrão costumava ser que
+
+755
+00:35:56,760 --> 00:36:00,300
+VOCÊ é dono do jogo então VOCÊ decide quando terminou com ele.
+
+756
+00:36:00,620 --> 00:36:02,560
+E isso vai ser diferente para cada pessoa.
+
+757
+00:36:02,940 --> 00:36:05,300
+Então, nenhum padrão geral
+
+758
+00:36:05,560 --> 00:36:06,360
+Nyah!
+
+759
+00:36:06,580 --> 00:36:08,600
+Limitações do mundo real.
+
+760
+00:36:09,040 --> 00:36:10,660
+Ok, deixa eu explicar essa daqui.
+
+761
+00:36:11,080 --> 00:36:15,260
+Lembra daquela analogia de "corpo e cérebro" que fiz com servidores e clientes antes?
+
+762
+00:36:15,460 --> 00:36:20,980
+A grande maioria dos jogos ao decorrer da historia foram vendidos com ambos o corpo e o cérebro.
+
+763
+00:36:21,320 --> 00:36:22,720
+Você tinha o pacote completo.
+
+764
+00:36:22,960 --> 00:36:25,480
+Então você poderia manter o jogo rodando por quanto tempo quisesse.
+
+765
+00:36:25,820 --> 00:36:27,900
+Agora com o modelo de servidor e cliente.
+
+766
+00:36:28,080 --> 00:36:30,900
+Eles estão configurados para que o cérebro aqui precise de manutenção feitas por pessoas reais,
+
+767
+00:36:30,900 --> 00:36:32,640
+e hardware de computadores,
+
+768
+00:36:32,640 --> 00:36:34,500
+e de contas de eletricidade e assim por diante.
+
+769
+00:36:34,700 --> 00:36:37,260
+Mas isso é uma ESCOLHA, não uma necessidade.
+
+770
+00:36:37,460 --> 00:36:38,800
+Veja, em seu núcleo
+
+771
+00:36:38,800 --> 00:36:40,515
+videogames são códigos
+
+772
+00:36:40,520 --> 00:36:41,720
+são números.
+
+773
+00:36:41,800 --> 00:36:43,900
+Eles não se gastam ao longo do tempo.
+
+774
+00:36:44,400 --> 00:36:45,800
+O número 3
+
+775
+00:36:45,800 --> 00:36:48,800
+funciona tão bem agora quanto a milhares de anos atrás.
+
+776
+00:36:48,860 --> 00:36:50,480
+ele só parece um pouco diferente.
+
+777
+00:36:50,840 --> 00:36:53,915
+Os recipientes que contém os dados podem se gastar.
+
+778
+00:36:54,020 --> 00:36:57,140
+Mas também pode ser copiado de um recipiente para o próximo.
+
+779
+00:36:57,340 --> 00:36:59,020
+Então tem um fornecimento infinito!
+
+780
+00:36:59,320 --> 00:37:00,240
+Não se preocupe.
+
+781
+00:37:00,240 --> 00:37:02,040
+Nós não vamos ficar sem números.
+
+782
+00:37:02,040 --> 00:37:03,520
+Eles estão sempre a mão.
+
+783
+00:37:04,000 --> 00:37:06,160
+Agora, o servidor é geralmente mantido
+
+784
+00:37:06,160 --> 00:37:08,355
+que nem um serviço enquanto está rodando.
+
+785
+00:37:08,520 --> 00:37:10,280
+Mas uma vez que é desligado.
+
+786
+00:37:10,340 --> 00:37:14,620
+Ele poderia ser só copiado para aqui e outra pessoa poderia faze-lo funcionar.
+
+787
+00:37:14,820 --> 00:37:16,800
+Empresas quase nunca fazem isso mas
+
+788
+00:37:16,800 --> 00:37:19,240
+o ponto é que a limitação não é real.
+
+789
+00:37:19,340 --> 00:37:20,520
+Ela é artificial.
+
+790
+00:37:20,720 --> 00:37:22,160
+Alguém a inventou.
+
+791
+00:37:22,460 --> 00:37:24,580
+Eles podem do mesmo jeito facilmente desfaze-la.
+
+792
+00:37:25,000 --> 00:37:27,540
+Na verdade, é mais fácil desfazer isso ao invés de
+
+793
+00:37:27,540 --> 00:37:29,800
+configurar essa separação em primeiro lugar.
+
+794
+00:37:30,080 --> 00:37:33,740
+De novo, a maioria dos jogos nem sequer tem essa limitação.
+
+795
+00:37:33,980 --> 00:37:37,740
+Não é uma analogia perfeita, mas, imagine um parque natural.
+
+796
+00:37:38,180 --> 00:37:40,320
+Você pode pagar pra ir lá como um serviço
+
+797
+00:37:40,320 --> 00:37:43,280
+e teria pessoas cuidando das estradas e trilhas,
+
+798
+00:37:43,280 --> 00:37:45,475
+dirigindo um Centro de Visitantes, etc.
+
+799
+00:37:45,480 --> 00:37:47,240
+E isso necessita de recursos reais.
+
+800
+00:37:47,420 --> 00:37:50,100
+Mas se o parque fica sem dinheiro e fecha,
+
+801
+00:37:50,320 --> 00:37:52,820
+O parque não deixa de existir.
+
+802
+00:37:53,100 --> 00:37:54,920
+As árvores ainda estão lá.
+
+803
+00:37:55,060 --> 00:37:57,880
+As montanhas e pedras ainda estão todas lá.
+
+804
+00:37:58,140 --> 00:38:01,040
+Nós não construimos uma cúpula indestrutível ao redor do parque.
+
+805
+00:38:01,200 --> 00:38:02,980
+Que não permite nada entrar ou sair,
+
+806
+00:38:03,040 --> 00:38:05,220
+e poderia sobrevir ao ataque direto de um míssil
+
+807
+00:38:05,220 --> 00:38:09,080
+e então dizer a todo mundo com um LifeTime Pass que eles jamais poderão entrar no parque de novo.
+
+808
+00:38:10,080 --> 00:38:13,940
+Mas isso é quase exatamente como Jogos como Serviços funciona.
+
+809
+00:38:14,180 --> 00:38:16,100
+Esse não é um bom padrão.
+
+810
+00:38:16,500 --> 00:38:18,860
+Espero que alguma dessas analogias esteja funcionando.
+
+811
+00:38:19,500 --> 00:38:21,060
+De qualquer jeito, o ponto de tudo isso
+
+812
+00:38:21,200 --> 00:38:24,200
+é que mesmo sem a lei nos dizendo o que é o que.
+
+813
+00:38:24,200 --> 00:38:28,440
+Jogos como Serviços NÃO são realmente serviços. Eles são BENS.
+
+814
+00:38:28,740 --> 00:38:30,500
+Então deviam ser tratados como tais.
+
+815
+00:38:31,080 --> 00:38:33,615
+Mas ei! Talvez você esteja dizendo que existe uma exceção estranha
+
+816
+00:38:33,700 --> 00:38:35,800
+e que ainda deveria ser tratada como serviço.
+
+817
+00:38:36,320 --> 00:38:37,600
+Ok. Por que?
+
+818
+00:38:38,380 --> 00:38:40,740
+Eu geralmente olho para a lei e regras
+
+819
+00:38:40,740 --> 00:38:43,560
+da perspectiva de "qual é realmente o resultado?"
+
+820
+00:38:43,780 --> 00:38:47,600
+Bem, o resultado final da maioria dos Jogos como Serviços é que eles são destruídos
+
+821
+00:38:47,600 --> 00:38:49,140
+e nunca mais podem se jogados de novo.
+
+822
+00:38:49,780 --> 00:38:54,180
+Caramba! Isso parece um preço muito alto a pagar para trata-los como serviços.
+
+823
+00:38:54,560 --> 00:38:55,580
+Você pode estar pensando:
+
+824
+00:38:55,640 --> 00:38:59,500
+Bom, é, isso é uma merda, mas também temos medidas contra cheats,
+
+825
+00:38:59,500 --> 00:39:00,920
+monitoramento de estatísticas, matchmaking
+
+826
+00:39:00,920 --> 00:39:02,080
+atualizações fáceis e--
+
+827
+00:39:02,080 --> 00:39:03,200
+AH tatatatata!
+
+828
+00:39:03,440 --> 00:39:05,360
+Viu, essa é a narrativa falando.
+
+829
+00:39:05,700 --> 00:39:08,280
+Nós ainda podemos TER todas essas coisas
+
+830
+00:39:08,280 --> 00:39:10,480
+E não destruir o jogo.
+
+831
+00:39:11,220 --> 00:39:14,820
+A narrativa gosta de colocar como se não pudéssemos ter o Bom sem ter o Ruim.
+
+832
+00:39:15,100 --> 00:39:19,160
+Isso é conhecido como uma Falsa Dicotomia e é simplesmente errado.
+
+833
+00:39:19,660 --> 00:39:22,580
+É como você pode simultaneamente ser a favor
+
+834
+00:39:22,580 --> 00:39:23,940
+do Circo vir pra cidade.
+
+835
+00:39:24,120 --> 00:39:26,720
+Mas ser contra, palhaços esfaquearem pessoas.
+
+836
+00:39:27,000 --> 00:39:29,320
+Eu sei que isso soa impossível para algumas pessoas
+
+837
+00:39:29,320 --> 00:39:31,040
+mas não é um conceito tão difícil.
+
+838
+00:39:31,640 --> 00:39:33,480
+Empresas não tem que abrir mão de
+
+839
+00:39:33,480 --> 00:39:36,080
+NADA enquanto estão apoiando o jogo.
+
+840
+00:39:36,320 --> 00:39:38,700
+É só quando que eles fecham o jogo
+
+841
+00:39:38,700 --> 00:39:40,900
+que eles precisam para de tratá-lo como serviço
+
+842
+00:39:40,900 --> 00:39:42,900
+e dar aos clientes os seus bens.
+
+843
+00:39:43,260 --> 00:39:46,820
+Agora você pode estar pensando "é mas isso provavelmente dá bastante trabalho né?".
+
+844
+00:39:47,300 --> 00:39:49,620
+Bom, pode ser, mas eu não sou um especialista.
+
+845
+00:39:49,900 --> 00:39:51,700
+Então eu falei com alguém que é.
+
+846
+00:39:52,160 --> 00:39:54,995
+Eu perguntei a aquele desenvolvedor que trabalhou no emulador de servidor
+
+847
+00:39:55,000 --> 00:39:59,260
+quanto trabalho levaria para empresas fornecerem o MÍNIMO.
+
+848
+00:39:59,460 --> 00:40:02,220
+Para dar aos usuários uma chance razoável
+
+849
+00:40:02,220 --> 00:40:05,760
+de criar um emulador de servidor umas fez que o jogo é desligado.
+
+850
+00:40:06,080 --> 00:40:08,780
+Bom, ele disse que existe duas opções básicas.
+
+851
+00:40:09,040 --> 00:40:12,040
+Eu nem vou detalhar elas, mas você pode vê-las aqui.
+
+852
+00:40:12,240 --> 00:40:14,995
+Agora, isso não seria o suficiente para um jogo jogável.
+
+853
+00:40:15,000 --> 00:40:17,220
+Isso seria mais como aquelas notas de conserto
+
+854
+00:40:17,220 --> 00:40:20,760
+que foram mencionadas naquelas leis europeias de obsolescência planejada.
+
+855
+00:40:20,840 --> 00:40:23,460
+Mas ok, isso não parece muito trabalho
+
+856
+00:40:23,460 --> 00:40:26,580
+então eu perguntei pra ele quanto tempo levaria para os desenvolvedores fazerem isso.
+
+857
+00:40:26,700 --> 00:40:29,280
+Ele disse que dependeria em o quão bem o jogo estaria escrito
+
+858
+00:40:29,280 --> 00:40:31,500
+e o quão competente os desenvolvedores são.
+
+859
+00:40:31,500 --> 00:40:34,920
+Mas seria em qualquer ponto desde menos de uma hora a até alguns dias.
+
+860
+00:40:35,340 --> 00:40:37,820
+Então AGORA vamos comparar.
+
+861
+00:40:38,080 --> 00:40:42,180
+Aqui está o total de prós e contras em ter Jogos como Serviços.
+
+862
+00:40:42,280 --> 00:40:43,920
+Do jeito que temos agora.
+
+863
+00:40:44,180 --> 00:40:45,140
+Sob os Prós
+
+864
+00:40:45,140 --> 00:40:48,860
+Os desenvolvedores economizam desde menos de uma hora a até alguns dias de trabalho.
+
+865
+00:40:49,080 --> 00:40:50,460
+Muito bem, isso é um positivo.
+
+866
+00:40:50,700 --> 00:40:51,640
+E sob os Contras
+
+867
+00:40:51,640 --> 00:40:55,360
+Qualquer um que pagou pelo jogo junto com qualquer um no futuro interessado no jogo
+
+868
+00:40:55,360 --> 00:40:57,440
+vão nunca mais conseguir roda-lo de novo.
+
+869
+00:40:57,600 --> 00:40:58,160
+Hmm.
+
+870
+00:40:58,460 --> 00:41:00,820
+Não isso não me parece uma boa ideia.
+
+871
+00:41:01,020 --> 00:41:03,980
+Na verdade isso parece um negócio ruim para todo mundo.
+
+872
+00:41:04,160 --> 00:41:06,020
+Para isso ser um bom negócio.
+
+873
+00:41:06,140 --> 00:41:09,380
+Eu diria que precisaríamos de uma situação do tipo O Dia Depois de Amanhã.
+
+874
+00:41:09,380 --> 00:41:12,920
+Onde essas pessoas estão numa biblioteca escondidas da pior tempestade de neve de todas.
+
+875
+00:41:13,020 --> 00:41:16,060
+E precisam queimar livros para se aquecerem e não morrerem.
+
+876
+00:41:16,580 --> 00:41:19,920
+Veja, isso pra mim parece uma troca melhor para destruir uma mídia.
+
+877
+00:41:20,120 --> 00:41:23,400
+Estou seguro de que Jogos como Serviços não salvam vidas.
+
+878
+00:41:23,560 --> 00:41:26,700
+Agora, eu entendo se você acha que estou enquadrando isso injustamente.
+
+879
+00:41:26,700 --> 00:41:28,920
+Porque soa meio louco que
+
+880
+00:41:28,920 --> 00:41:31,860
+ESSA é a razão completa de a indústria estar
+
+881
+00:41:31,860 --> 00:41:35,380
+fraudando clientes e destruindo produtos de milhões de dólares
+
+882
+00:41:35,380 --> 00:41:37,960
+e de milhares de horas de trabalho para faze-los.
+
+883
+00:41:38,180 --> 00:41:41,400
+Mas essa é a única razão honesta que eu vi.
+
+884
+00:41:41,660 --> 00:41:43,280
+Isso me lembra como nos anos 60
+
+885
+00:41:43,280 --> 00:41:47,280
+fabricantes de carros lutaram contra cintos de segurança sendo obrigatórios.
+
+886
+00:41:47,500 --> 00:41:49,320
+Porque mesmo que eles salvassem vidas,
+
+887
+00:41:49,320 --> 00:41:51,540
+eles custavam ALGUM dinheiro.
+
+888
+00:41:51,660 --> 00:41:53,260
+E fabricantes de carro não queriam isso.
+
+889
+00:41:53,660 --> 00:41:57,920
+Eu não vou mentir, isso custa algum dinheiro para fazer
+
+890
+00:41:57,920 --> 00:41:59,580
+mas não tanto assim.
+
+891
+00:41:59,840 --> 00:42:03,260
+Eu chutaria que bem menos de 1 por cento orçamento total.
+
+892
+00:42:03,620 --> 00:42:07,760
+É certamente mais barato do que transformar um Jogo em um Serviço em primeiro lugar.
+
+893
+00:42:07,900 --> 00:42:09,500
+Então mesmo sem a lei.
+
+894
+00:42:09,680 --> 00:42:13,520
+Se ESSA é a única razão para jogos não serem preservados.
+
+895
+00:42:13,520 --> 00:42:16,275
+E clientes não puderem usar seus produtos de novo.
+
+896
+00:42:16,340 --> 00:42:18,595
+Eu não acho particularmente convincente.
+
+897
+00:42:18,600 --> 00:42:21,260
+É quase como se não tivesse leis sobre isso,
+
+898
+00:42:21,260 --> 00:42:22,660
+então deveria ter!
+
+899
+00:42:23,060 --> 00:42:25,340
+E isso me traz ao meu argumento final,
+
+900
+00:42:25,340 --> 00:42:28,400
+e esse eu posso até usar no Word of Warcraft.
+
+901
+00:42:28,520 --> 00:42:29,280
+Finalmente!
+
+902
+00:42:30,140 --> 00:42:33,760
+Isso pode soar louco considerando a primeira metade desse vídeo.
+
+903
+00:42:33,780 --> 00:42:36,700
+Mas eu realmente não me importo com esse assunto
+
+904
+00:42:36,700 --> 00:42:38,935
+porque a indústria está quebrando a lei.
+
+905
+00:42:38,940 --> 00:42:40,540
+Isso é só uma coincidência.
+
+906
+00:42:40,820 --> 00:42:44,440
+Eu só cobri aquela bagunça legal, porque pode existir alguma força por detrás daquilo.
+
+907
+00:42:44,880 --> 00:42:47,520
+Eu acho que a lei vai ser única saída disso.
+
+908
+00:42:47,640 --> 00:42:49,660
+Mas isso não é a minha principal motivação aqui.
+
+909
+00:42:50,240 --> 00:42:54,340
+Não, eu me importo porque Jogos como Serviços estão destruindo jogos.
+
+910
+00:42:54,560 --> 00:42:56,340
+Com bastante sucesso ainda.
+
+911
+00:42:56,980 --> 00:43:00,500
+De vez em quando você ouve pessoas perguntando se jogos são arte.
+
+912
+00:43:00,980 --> 00:43:02,720
+Eu não tenho nenhuma resposta pra isso,
+
+913
+00:43:02,720 --> 00:43:06,040
+mas acho que está bem claro que jogos são experiências criativas
+
+914
+00:43:06,040 --> 00:43:08,080
+muitas vezes dignos de preservação.
+
+915
+00:43:08,360 --> 00:43:10,420
+Então vou chamar de arte só para manter simples.
+
+916
+00:43:10,640 --> 00:43:13,760
+Quer dizer,  qual é? Se você está olhando para algo assim e está dizendo:
+
+917
+00:43:13,760 --> 00:43:16,575
+Não! Isso não tem nenhum valor artístico!
+
+918
+00:43:16,660 --> 00:43:18,140
+Você só está sendo rabugento.
+
+919
+00:43:18,480 --> 00:43:21,360
+Você sabia que David Bowie está em um jogo né?
+
+920
+00:43:21,920 --> 00:43:24,480
+O ponto aqui é que Jogos como Serviços
+
+921
+00:43:24,480 --> 00:43:26,840
+é mais do que APENAS um problema de direitos dos consumidores.
+
+922
+00:43:27,340 --> 00:43:30,180
+Mesmo que a razão de qualidade seja discutível.
+
+923
+00:43:30,360 --> 00:43:32,100
+Jogos contém ideias,
+
+924
+00:43:32,100 --> 00:43:34,200
+arte, muitas vezes diálogo.
+
+925
+00:43:34,200 --> 00:43:37,660
+E jeitos de interagir que não estão presentes em qualquer outra mídia.
+
+926
+00:43:37,780 --> 00:43:40,500
+Eles são mais do que APENAS produtos.
+
+927
+00:43:40,660 --> 00:43:43,840
+Se eu comprar uma torradeira que foi projetada para falhar.
+
+928
+00:43:44,320 --> 00:43:46,080
+-Bom, eu ainda acho que isso é errado-
+
+929
+00:43:46,240 --> 00:43:50,060
+Mas eu sempre posso comprar outra torradeira e ainda ter torradas.
+
+930
+00:43:50,180 --> 00:43:53,280
+Enquanto que jogos são experiências únicas.
+
+931
+00:43:53,420 --> 00:43:55,820
+Você não pode substituí-los assim como não pode substituir
+
+932
+00:43:55,820 --> 00:43:58,500
+livros em uma biblioteca com diferentes autores.
+
+933
+00:43:58,880 --> 00:44:01,780
+Você não pode substituir Drácula com Crepúsculo
+
+934
+00:44:01,800 --> 00:44:05,120
+e dizer que nada foi perdido porque os dois são sobre vampiros.
+
+935
+00:44:05,240 --> 00:44:06,560
+Não funciona assim.
+
+936
+00:44:07,120 --> 00:44:10,920
+Eu não vou perder muito tempo explicando porque salvar arte tem valor,
+
+937
+00:44:11,060 --> 00:44:12,720
+porque para mim é inato.
+
+938
+00:44:13,040 --> 00:44:16,640
+Se você não entende porque arte ou trabalhos criativos possuem valor.
+
+939
+00:44:16,760 --> 00:44:18,640
+Eu provavelmente não posso faze-lo entender.
+
+940
+00:44:18,840 --> 00:44:20,900
+Talvez um filósofo possa cuidar disso.
+
+941
+00:44:21,300 --> 00:44:24,155
+Pra mim é só uma resposta instintiva.
+
+942
+00:44:24,260 --> 00:44:27,440
+Mas é claro que não podemos salvar TODOS trabalhos artísticos.
+
+943
+00:44:27,440 --> 00:44:28,520
+Simplesmente não é prático.
+
+944
+00:44:28,860 --> 00:44:31,860
+Existem muitos, e ainda alguns deles são umas merdas.
+
+945
+00:44:32,120 --> 00:44:34,380
+Mas podemos decidir por NÓS MESMOS
+
+946
+00:44:34,380 --> 00:44:36,560
+o que vale a pena salvar e o que não vale a pena.
+
+947
+00:44:36,940 --> 00:44:40,840
+Jogos como Serviços negam essa chance a todo mundo.
+
+948
+00:44:41,440 --> 00:44:45,820
+Quando eu vejo um jogo com um valor criativo óbvio sendo destruído,
+
+949
+00:44:45,820 --> 00:44:47,440
+isso é o que me vem em mente.
+
+950
+00:44:54,740 --> 00:44:58,400
+Agora a realidade é ao mesmo tempo melhor e pior que isso.
+
+951
+00:44:58,640 --> 00:45:01,540
+A parte que é melhor é que jogos que são destruídos
+
+952
+00:45:01,600 --> 00:45:05,520
+são bem menos prováveis de conter ideias que são tão poderosas
+
+953
+00:45:05,520 --> 00:45:07,300
+que alguém as vê como uma ameaça.
+
+954
+00:45:07,800 --> 00:45:09,420
+A parte que é pior
+
+955
+00:45:09,420 --> 00:45:13,640
+é que publicadoras são bem mais bem sucedidas em destruir jogos
+
+956
+00:45:13,820 --> 00:45:17,020
+do que opressores já foram em destruir livros.
+
+957
+00:45:17,280 --> 00:45:20,320
+Ou você sabe, pelo menos nos últimos mil anos.
+
+958
+00:45:20,520 --> 00:45:22,120
+Até em comícios de queimar livros,
+
+959
+00:45:22,120 --> 00:45:26,580
+pessoas não queimavam toda cópia existente de um livro que eles odiavam.
+
+960
+00:45:27,160 --> 00:45:29,460
+E mesmo assim,  muitos dos Jogos como Serviço
+
+961
+00:45:29,460 --> 00:45:32,080
+possuem uma taxa de mortalidade de 100 por cento.
+
+962
+00:45:32,520 --> 00:45:35,680
+Não existe uma comparação a isso nas mídias modernas.
+
+963
+00:45:36,160 --> 00:45:38,980
+Acho que nos primeiros dias dos filmes nós perdemos muitas coisas.
+
+964
+00:45:39,120 --> 00:45:41,080
+Porque os estúdios não sabiam de nada.
+
+965
+00:45:41,400 --> 00:45:42,640
+Isso é o que me assusta.
+
+966
+00:45:42,820 --> 00:45:46,260
+Agora nós sabemos melhor e ainda estamos indo para trás.
+
+967
+00:45:46,540 --> 00:45:49,480
+É como ver um motorista dirigir um ônibus pra fora de um penhasco
+
+968
+00:45:49,480 --> 00:45:51,640
+e ele sabe que está indo para fora do penhasco.
+
+969
+00:45:51,860 --> 00:45:53,420
+É um tipo de loucura.
+
+970
+00:45:53,700 --> 00:45:55,600
+E falando de mídia moderna.
+
+971
+00:45:55,680 --> 00:45:59,160
+Você pode alugar filmes ou transmitir músicas como um serviço.
+
+972
+00:45:59,340 --> 00:46:01,080
+Mas você pode também,
+
+973
+00:46:01,080 --> 00:46:04,580
+comprá-los e guarda-los como bens.
+
+974
+00:46:04,960 --> 00:46:08,660
+Eu acho que algumas séries de TV ou shows de rádio você não consegue comprar.
+
+975
+00:46:08,760 --> 00:46:09,935
+Mas adivinha.
+
+976
+00:46:10,200 --> 00:46:11,940
+Você pode fazer o backup deles você mesmo.
+
+977
+00:46:12,360 --> 00:46:13,200
+Legalmente.
+
+978
+00:46:13,480 --> 00:46:16,120
+Não para voltar para a lei de novo.
+
+979
+00:46:17,100 --> 00:46:19,400
+Mas é o que esse caso foi todo sobre.
+
+980
+00:46:19,880 --> 00:46:21,940
+Tecnicamente já é legal fazer o backup
+
+981
+00:46:21,940 --> 00:46:24,255
+de Jogos como Serviços em múltiplos países.
+
+982
+00:46:24,320 --> 00:46:26,120
+Até nos Estados Unidos!
+
+983
+00:46:26,420 --> 00:46:28,880
+Mas se as empresas de jogos tornam isso impossível
+
+984
+00:46:28,880 --> 00:46:30,520
+então de que adianta isso?
+
+985
+00:46:30,980 --> 00:46:33,900
+Eu me importo com a realidade, não direitos de fantasia!
+
+986
+00:46:34,320 --> 00:46:36,540
+Eu quero dizer que Jogos como Serviços
+
+987
+00:46:36,540 --> 00:46:38,860
+são o único tipo de mídia moderna,
+
+988
+00:46:38,900 --> 00:46:40,940
+sem limitações do mundo real,
+
+989
+00:46:40,940 --> 00:46:43,020
+que você não consegue preservar.
+
+990
+00:46:43,400 --> 00:46:46,160
+É meio que incrível de uma maneira terrível.
+
+991
+00:46:46,540 --> 00:46:48,360
+E é a isso que tudo se resume para mim.
+
+992
+00:46:48,780 --> 00:46:51,520
+Mesmo se Jogos como Serviços tivessem passados todos testes legais,
+
+993
+00:46:51,520 --> 00:46:53,020
+o que não passaram,
+
+994
+00:46:53,020 --> 00:46:54,760
+então a lei estaria errada.
+
+995
+00:46:55,340 --> 00:46:57,900
+Jogos como Serviços do jeito que fazemos agora
+
+996
+00:46:58,040 --> 00:46:59,680
+permanentemente destrói jogos,
+
+997
+00:46:59,680 --> 00:47:01,680
+e todo o trabalho que criadores colocaram neles.
+
+998
+00:47:01,880 --> 00:47:03,800
+É completamente prevenível,
+
+999
+00:47:03,800 --> 00:47:06,360
+e não tem quase nenhum propósito para ninguém.
+
+1000
+00:47:06,560 --> 00:47:07,900
+Só é errado.
+
+1001
+00:47:08,580 --> 00:47:12,540
+Todo o propósito de ter leis é para ter uma sociedade mais civilizada.
+
+1002
+00:47:13,200 --> 00:47:16,420
+Querer a destruição de arte que outros estão tentando preservar,
+
+1003
+00:47:16,420 --> 00:47:17,900
+e que pagaram por,
+
+1004
+00:47:17,900 --> 00:47:19,560
+não é civilizado.
+
+1005
+00:47:20,040 --> 00:47:23,140
+É por isso que isso precisa parar, até para jogos por assinatura.
+
+1006
+00:47:23,380 --> 00:47:24,540
+Nós só temos parar isso.
+
+1007
+00:47:25,020 --> 00:47:25,580
+PARA!
+
+1008
+00:47:25,880 --> 00:47:26,380
+Parar.
+
+1009
+00:47:26,660 --> 00:47:29,120
+PARA! PARA! PARA! PARA!
+
+1010
+00:47:31,480 --> 00:47:32,720
+E esse é o meu caso!
+
+1011
+00:47:33,480 --> 00:47:35,440
+Eu estaria quase terminando mas
+
+1012
+00:47:35,560 --> 00:47:36,900
+você sabe com a Internet é.
+
+1013
+00:47:37,580 --> 00:47:39,140
+Alguém pode fazer um bom argumento.
+
+1014
+00:47:39,260 --> 00:47:41,000
+Mas daí vem alguém e
+
+1015
+00:47:41,000 --> 00:47:43,280
+procura defeitos em algo e diz "Desmascarado!".
+
+1016
+00:47:43,900 --> 00:47:44,660
+"Tudo pronto."
+
+1017
+00:47:45,260 --> 00:47:45,760
+Na na.
+
+1018
+00:47:46,360 --> 00:47:47,520
+Quer dizer isso ainda pode acontecer
+
+1019
+00:47:47,520 --> 00:47:50,260
+mas eu quero acabar com isso antes que sequer comece.
+
+1020
+00:47:50,840 --> 00:47:54,380
+Se você já está de acordo com o que estou dizendo, você pode ir direto pro final
+
+1021
+00:47:55,060 --> 00:47:56,180
+Ai viu! Aqui está!
+
+1022
+00:47:56,660 --> 00:48:00,100
+Mas Jogos como Serviços é uma praga de uma de uma ideia.
+
+1023
+00:48:00,260 --> 00:48:03,460
+Então eu preciso queimar cada pedacinho dela que puder.
+
+1024
+00:48:04,000 --> 00:48:08,440
+Então estou indo para a prorrogação para mostrar o quão fraca a oposição é.
+
+1025
+00:48:08,900 --> 00:48:10,800
+Eu acho que é tão ruim que não tem como defender.
+
+1026
+00:48:11,040 --> 00:48:12,800
+Mas ei! Julgue por si próprio.
+
+1027
+00:48:13,140 --> 00:48:15,780
+Então aqui estão minhas refutações para cada grande
+
+1028
+00:48:15,780 --> 00:48:18,480
+contra-argumento ou preocupação de que eu possa pensar.
+
+1029
+00:48:18,480 --> 00:48:19,600
+Antes que eles aconteçam.
+
+1030
+00:48:19,880 --> 00:48:20,620
+Aqui vamos nós!
+
+1031
+00:48:21,500 --> 00:48:23,060
+Vamos começar com a maior.
+
+1032
+00:48:23,380 --> 00:48:26,365
+Jogos como Serviços são legais porque você concorda com
+
+1033
+00:48:26,365 --> 00:48:29,260
+os termos indicados no Acordo de Licença do Usuário Final.
+
+1034
+00:48:29,500 --> 00:48:31,000
+Bom a resposta simples é,
+
+1035
+00:48:31,120 --> 00:48:35,820
+Sim! Esses termos se aplicam enquanto eles não contradizem nada que a lei diz.
+
+1036
+00:48:36,260 --> 00:48:38,440
+Se eles dizem algo que não é legal.
+
+1037
+00:48:38,560 --> 00:48:40,400
+Então esses documentos não significam nada!
+
+1038
+00:48:40,960 --> 00:48:41,700
+Nada!
+
+1039
+00:48:42,320 --> 00:48:45,400
+É por isso que passei metade do vídeo focando na lei
+
+1040
+00:48:45,400 --> 00:48:47,860
+e quase não me importei com o que esses documentos dizem.
+
+1041
+00:48:48,200 --> 00:48:50,060
+Se a lei diz que eles estão errados
+
+1042
+00:48:50,260 --> 00:48:52,740
+isso é tudo, não tem nem debate.
+
+1043
+00:48:53,220 --> 00:48:55,220
+Os Acordos de Licença de Usuário Final
+
+1044
+00:48:55,220 --> 00:48:57,780
+são irrelevantes para essa conversa.
+
+1045
+00:48:58,160 --> 00:49:01,140
+É isso que aquele caso da Lexamrk na Suprema Corte estava mostrando.
+
+1046
+00:49:01,140 --> 00:49:03,680
+Eles simplesmente não determinam a lei.
+
+1047
+00:49:03,860 --> 00:49:06,460
+É bom pensar nesses argumentos como Regras do Clube.
+
+1048
+00:49:06,740 --> 00:49:08,960
+Então se você está na Cabana do Alce e as regras dizem
+
+1049
+00:49:08,960 --> 00:49:11,760
+que você tem que fazer chifres antes de poder falar nas reuniões.
+
+1050
+00:49:12,060 --> 00:49:14,080
+Bom, então essas são as regras do clube.
+
+1051
+00:49:14,380 --> 00:49:17,120
+Você não perde de verdade o seu direito de falar.
+
+1052
+00:49:18,040 --> 00:49:20,640
+Mas vamos esmagar esse argumento um pouco mais.
+
+1053
+00:49:20,900 --> 00:49:22,660
+Talvez você pense que a lei está errada
+
+1054
+00:49:22,660 --> 00:49:25,780
+e o cliente assumiu o risco de desligamento quando comprou o jogo.
+
+1055
+00:49:26,340 --> 00:49:26,940
+OK.
+
+1056
+00:49:27,320 --> 00:49:30,200
+Então, quando era para desligar?
+
+1057
+00:49:30,500 --> 00:49:34,200
+Eu não acho que existiu um caso na história de Jogos como Serviços
+
+1058
+00:49:34,200 --> 00:49:36,080
+onde a empresa disse ao cliente
+
+1059
+00:49:36,080 --> 00:49:38,260
+quando o jogo iria desligar
+
+1060
+00:49:38,260 --> 00:49:39,560
+no lançamento.
+
+1061
+00:49:40,140 --> 00:49:42,520
+Isso significa que os acordos são feitos em má fé.
+
+1062
+00:49:42,660 --> 00:49:47,060
+Porque a empresa está ocultando informação do cliente de propósito.
+
+1063
+00:49:47,680 --> 00:49:50,055
+Pessoalmente, eu acho que isso é um argumento mais fraco que
+
+1064
+00:49:50,060 --> 00:49:51,760
+não chega ao problema central.
+
+1065
+00:49:51,760 --> 00:49:53,540
+Mas ainda é verdade.
+
+1066
+00:49:54,040 --> 00:49:56,640
+Desligamentos de jogos não são uma força da natureza.
+
+1067
+00:49:56,980 --> 00:49:59,840
+Eles estão completamente dentro dos controles da empresa.
+
+1068
+00:50:00,300 --> 00:50:03,075
+Para defender o Acordo de Licença de Usuário Final,
+
+1069
+00:50:03,340 --> 00:50:07,020
+você teria que dizer que empresas tem o direito de te vender um produto,
+
+1070
+00:50:07,260 --> 00:50:10,260
+quebrar aquele produto depois do momento da venda,
+
+1071
+00:50:10,400 --> 00:50:12,980
+não contar aos clientes quando isso iria acontecer,
+
+1072
+00:50:12,980 --> 00:50:14,500
+mesmo que esteja no controle deles.
+
+1073
+00:50:14,840 --> 00:50:18,920
+E então, impedir os clientes de consertar o produto depois que foi quebrado.
+
+1074
+00:50:19,340 --> 00:50:22,380
+Isso não são bons negócios. Isso é predatório.
+
+1075
+00:50:22,840 --> 00:50:24,520
+Boa sorte defendendo isso.
+
+1076
+00:50:25,140 --> 00:50:26,720
+Ok. Aqui vai outro grande.
+
+1077
+00:50:27,100 --> 00:50:30,300
+Comprar um jogo te dá direito ao software do cliente,
+
+1078
+00:50:30,300 --> 00:50:33,000
+você não tem direito ao software do servidor.
+
+1079
+00:50:33,300 --> 00:50:35,480
+Tecnicamente sim. Isso é verdade.
+
+1080
+00:50:36,100 --> 00:50:37,540
+Mas isso não é a história inteira.
+
+1081
+00:50:38,020 --> 00:50:40,580
+Parte do que estava tentando mostrar na parte legal
+
+1082
+00:50:40,580 --> 00:50:43,060
+é que há um precedente, ou pelo menos, havia.
+
+1083
+00:50:43,200 --> 00:50:46,640
+De que clientes tem direito a um produto que funciona.
+
+1084
+00:50:47,100 --> 00:50:49,580
+Ou uma chance razoável de consertá-lo.
+
+1085
+00:50:50,080 --> 00:50:53,440
+Então não, o cliente não tem direito ao software do servidor.
+
+1086
+00:50:53,580 --> 00:50:56,780
+Mas já que eles tem direito a um produto que funciona,
+
+1087
+00:50:56,780 --> 00:50:59,960
+isso geralmente significa que ao software do servidor também.
+
+1088
+00:51:00,080 --> 00:51:01,520
+Não precisa disso.
+
+1089
+00:51:01,520 --> 00:51:04,760
+A empresa poderia liberar um patch pro jogo para que ele rode offline ao invés.
+
+1090
+00:51:05,320 --> 00:51:09,320
+Na verdade eu tenho um teste bem fácil que resume toda minha posição nisso.
+
+1091
+00:51:09,640 --> 00:51:11,740
+Passo um: empresa vende o jogo.
+
+1092
+00:51:12,240 --> 00:51:15,940
+Passo dois: a empresa conduz negócios de qualquer forma que eles quiserem.
+
+1093
+00:51:16,300 --> 00:51:18,680
+Passo três: apoio da empresa termina.
+
+1094
+00:51:18,780 --> 00:51:19,880
+E passo quatro:
+
+1095
+00:51:19,880 --> 00:51:23,420
+o cliente tem uma chance razoável de rodar o jogo após seu desligamento.
+
+1096
+00:51:23,820 --> 00:51:27,600
+O que a empresa faz no Passo Dois aqui é uma caixa preta.
+
+1097
+00:51:27,900 --> 00:51:31,480
+Eu não estou, de forma alguma, tentando dizer como eles devem fazer seus negócios ali.
+
+1098
+00:51:31,820 --> 00:51:34,060
+Só estou preocupado com o Passo Quatro aqui.
+
+1099
+00:51:34,420 --> 00:51:36,540
+Pode o cliente rodar seu jogo?
+
+1100
+00:51:36,840 --> 00:51:40,560
+Em Jogos como Serviços a resposta é atualmente "Não".
+
+1101
+00:51:40,560 --> 00:51:42,620
+É disso que se trata tudo bem aqui.
+
+1102
+00:51:43,020 --> 00:51:46,000
+Perceba que não diz "libere o software do servidor".
+
+1103
+00:51:46,160 --> 00:51:49,900
+Diz "dê aos clientes uma chance de rodar o jogo pelo qual eles pagaram".
+
+1104
+00:51:50,240 --> 00:51:52,620
+Como a empresa faz isso fica a escolha deles.
+
+1105
+00:51:53,180 --> 00:51:56,280
+Na verdade se você ficar confuso sobre qualquer coisa que eu disse nesse vídeo
+
+1106
+00:51:56,280 --> 00:51:59,100
+e se perdeu em algum lugar. Só olhe aquele gráfico.
+
+1107
+00:51:59,260 --> 00:52:01,340
+Esse gráfico é tudo que você realmente precisa saber.
+
+1108
+00:52:01,660 --> 00:52:03,140
+Simples, fácil.
+
+1109
+00:52:03,540 --> 00:52:06,700
+Acho que deveria ter colocado isso no começo... Oops.
+
+1110
+00:52:07,420 --> 00:52:10,960
+O que você está propondo iria necessitar que empresas apoiem seus jogos para sempre.
+
+1111
+00:52:11,240 --> 00:52:12,200
+Isso é irracional.
+
+1112
+00:52:12,760 --> 00:52:13,600
+Não, não precisariam.
+
+1113
+00:52:14,040 --> 00:52:17,100
+Na verdade, eu sou a favor de empresas terminando o apoio a um jogo
+
+1114
+00:52:17,300 --> 00:52:19,100
+A qualquer hora que eles quiserem.
+
+1115
+00:52:19,700 --> 00:52:22,080
+É por isso que um plano de fim de vida é essencial.
+
+1116
+00:52:22,640 --> 00:52:25,320
+Se você é uma empresa e termina o apoio ao seu jogo,
+
+1117
+00:52:25,520 --> 00:52:29,220
+mas dai os clientes tem uma chance razoável de joga-lo após isso.
+
+1118
+00:52:29,500 --> 00:52:32,460
+É só isso. Você terminou. Você não tem que apoiar mais nada.
+
+1119
+00:52:33,060 --> 00:52:38,000
+O que precisa para é o apoio sendo um REQUISITO para jogar o jogo.
+
+1120
+00:52:38,440 --> 00:52:41,120
+Isso é o que Jogos como Serviços é.
+
+1121
+00:52:41,840 --> 00:52:44,360
+Se Jogos como Serviços tem de serem tratados como bens
+
+1122
+00:52:44,360 --> 00:52:47,660
+irá prejudicar a criatividade dos desenvolvedores e restringi-los.
+
+1123
+00:52:47,980 --> 00:52:50,280
+Primeiro eu gostaria de apontar que a indústria
+
+1124
+00:52:50,280 --> 00:52:52,340
+fez jogos como bens por décadas.
+
+1125
+00:52:52,340 --> 00:52:55,600
+E eu mesmo não vi muita falta de criatividade.
+
+1126
+00:52:59,220 --> 00:53:02,580
+E de novo, nós estamos falando de até alguns dias a mais de trabalho.
+
+1127
+00:53:03,020 --> 00:53:05,540
+Eu não vejo como isso iria matar a criativdiade
+
+1128
+00:53:05,540 --> 00:53:08,080
+a não ser que o ponto do jogo fosse para ele morrer.
+
+1129
+00:53:08,500 --> 00:53:11,740
+E bem, olha só nós tivemos um jogo exatamente assim!
+
+1130
+00:53:11,960 --> 00:53:12,860
+The Flock.
+
+1131
+00:53:13,360 --> 00:53:14,800
+Esse foi um jogo multiplayer que
+
+1132
+00:53:14,800 --> 00:53:17,160
+os desenvolvedores na verdade queriam que morresse.
+
+1133
+00:53:17,500 --> 00:53:21,120
+Depois de uma quantidade fixa de mortes de jogadores, ele iria fechar para sempre.
+
+1134
+00:53:21,340 --> 00:53:23,260
+E eles disseram isso as pessoas logo do começo.
+
+1135
+00:53:23,880 --> 00:53:26,680
+Eu iria até permitir uma exceção a esse jogo
+
+1136
+00:53:26,680 --> 00:53:28,880
+porque eu acho que existe um argumento a ser feito
+
+1137
+00:53:28,880 --> 00:53:30,700
+de que isso foi uma arte performática.
+
+1138
+00:53:31,360 --> 00:53:33,480
+Veja, todos os outros Jogos como Serviços.
+
+1139
+00:53:33,720 --> 00:53:36,160
+não morrem porque os criadores queriam que morresse.
+
+1140
+00:53:36,560 --> 00:53:38,780
+Isso acontece porque eles se tornam não lucrativos.
+
+1141
+00:53:38,780 --> 00:53:41,100
+e eles lidam com o desligamento de maneira irresponsável.
+
+1142
+00:53:41,580 --> 00:53:42,620
+Mas esse daqui.
+
+1143
+00:53:42,640 --> 00:53:45,380
+Morte do jogo é era a única razão.
+
+1144
+00:53:45,640 --> 00:53:46,800
+Então adivinha o que aconteceu.
+
+1145
+00:53:47,400 --> 00:53:49,900
+Eles ficaram sem dinheiro para pagar a hospedagem de servidores
+
+1146
+00:53:50,000 --> 00:53:52,460
+então eles desligaram o jogo prematuramente.
+
+1147
+00:53:53,140 --> 00:53:55,900
+Então o único jogo que queria morrer,
+
+1148
+00:53:55,900 --> 00:53:58,180
+não conseguiu faze-lo do jeito que queria.
+
+1149
+00:53:58,520 --> 00:54:01,160
+Sua visão criativa foi comprometida
+
+1150
+00:54:01,160 --> 00:54:03,680
+POR CAUSA de Jogos como Serviços.
+
+1151
+00:54:04,200 --> 00:54:06,360
+Assim, pelo que sei
+
+1152
+00:54:06,360 --> 00:54:09,580
+jogos como bens nunca machucou a criatividade.
+
+1153
+00:54:10,120 --> 00:54:11,460
+Vamos olhar aquele gráfico de novo.
+
+1154
+00:54:11,740 --> 00:54:15,095
+Esse gráfico parece estar estrangulando a criatividade?
+
+1155
+00:54:15,100 --> 00:54:17,060
+Mas vamos dizer que de algum jeito estava.
+
+1156
+00:54:17,160 --> 00:54:19,900
+Esse único jogo não sendo permitido morrer não faz valer a pena
+
+1157
+00:54:19,900 --> 00:54:22,320
+fazer regras para todos os outros?
+
+1158
+00:54:22,600 --> 00:54:23,640
+Eu acho que não.
+
+1159
+00:54:24,160 --> 00:54:26,780
+Se a lei fosse imposta em Jogos como Serviços,
+
+1160
+00:54:26,780 --> 00:54:28,520
+iria afetar negativamente várias empresas
+
+1161
+00:54:28,520 --> 00:54:30,700
+que iriam ter que voltar e mudar seus jogos.
+
+1162
+00:54:31,100 --> 00:54:32,660
+E elas podem não serem capazes de fazerem isso.
+
+1163
+00:54:33,500 --> 00:54:36,060
+Eu considero a situação atual tão ruim
+
+1164
+00:54:36,180 --> 00:54:39,960
+que eu iria aceitar qualquer leis sobre isso não aplicassem retroativamente.
+
+1165
+00:54:40,280 --> 00:54:44,700
+Se eu puder salvar todos os jogos do futuro pelo preço de cento e poucos jogos hoje.
+
+1166
+00:54:44,980 --> 00:54:47,020
+Seria um acordo com o diabo que estaria disposto a fazer.
+
+1167
+00:54:47,420 --> 00:54:50,680
+Não é como se eu tivesse algum poder com o qual pudesse comprometer
+
+1168
+00:54:51,060 --> 00:54:52,980
+Eu só estou falando em puro nível conceitual.
+
+1169
+00:54:53,440 --> 00:54:55,260
+Eu quero todas bases protegidas.
+
+1170
+00:54:55,800 --> 00:54:57,980
+Isso é um problema tão preto e branco para mim.
+
+1171
+00:54:58,240 --> 00:55:00,540
+Eu não quero deixar espaço algum para pessoas falarem:
+
+1172
+00:55:00,620 --> 00:55:03,900
+Ah, é tão difícil arranjar uma regra para isso,
+
+1173
+00:55:04,120 --> 00:55:06,940
+acho que é impossível fazer qualquer fazer qualquer coisa a respeito.
+
+1174
+00:55:07,400 --> 00:55:10,360
+Não! Eu quero regras claras para qualquer cenário.
+
+1175
+00:55:10,680 --> 00:55:13,960
+Aliás, se eu esqueci de alguma. Vem pra cima que vou te esclarecer.
+
+1176
+00:55:14,640 --> 00:55:17,675
+E quanto a jogos grátis ou "free to play"?
+
+1177
+00:55:17,900 --> 00:55:21,320
+Se um jogo é realmente grátis, sem dinheiro envolvido
+
+1178
+00:55:21,320 --> 00:55:24,080
+eu diria que a lei não se aplica ou deveria.
+
+1179
+00:55:24,180 --> 00:55:25,980
+Isso iria machucar a criatividade.
+
+1180
+00:55:26,280 --> 00:55:28,200
+Pessoas vão querer experimentar com conceitos
+
+1181
+00:55:28,200 --> 00:55:30,620
+e lançar experimentos ruins as vezes.
+
+1182
+00:55:31,060 --> 00:55:34,860
+Não precisa haver uma responsabilidade mais alta na pessoa se só estão brincando.
+
+1183
+00:55:35,520 --> 00:55:37,760
+É só quando eles começam a cobrar dinheiro por isso
+
+1184
+00:55:37,760 --> 00:55:39,880
+que estão entrando em território legal
+
+1185
+00:55:39,880 --> 00:55:42,240
+e em uma responsabilidade maior no geral.
+
+1186
+00:55:42,240 --> 00:55:44,660
+Já que então suas ações começam a afetar outros.
+
+1187
+00:55:45,080 --> 00:55:48,120
+Agora jogos free-to-play, jogos que são gratuitos mas
+
+1188
+00:55:48,120 --> 00:55:51,875
+você também pode comprar itens ou recursos extras. Esses são fáceis.
+
+1189
+00:55:51,880 --> 00:55:53,920
+Tratem eles como qualquer outro jogo comercial.
+
+1190
+00:55:54,380 --> 00:55:56,820
+Se você compra uma espada virtual em um jogo
+
+1191
+00:55:56,940 --> 00:56:00,300
+E daí o jogo fecha, e você não pode mais acessá-la.
+
+1192
+00:56:00,300 --> 00:56:01,540
+Ela foi tomada de você.
+
+1193
+00:56:01,720 --> 00:56:03,880
+Seus direitos de propriedades foram infringidos .
+
+1194
+00:56:04,220 --> 00:56:06,880
+Por isso a necessidade de os tratar como o bem que é.
+
+1195
+00:56:06,880 --> 00:56:09,160
+Para que você possa manter o que pagou por.
+
+1196
+00:56:09,620 --> 00:56:13,020
+Fazer um emulador de servidor funcionar em outro sistema é muito trabalho
+
+1197
+00:56:13,500 --> 00:56:15,700
+Desenvolvedores não podem ser esperados a fazerem isso.
+
+1198
+00:56:16,020 --> 00:56:19,360
+É por isso que apresentei a opção de esforço mínimo aqui.
+
+1199
+00:56:19,620 --> 00:56:22,440
+Veja, a situação é tão ruim agora
+
+1200
+00:56:22,440 --> 00:56:25,160
+que eu achei uma maneira de abaixar meu padrões ainda mais.
+
+1201
+00:56:25,480 --> 00:56:28,560
+Eu costumava pensar que ESSAS eram as únicas maneiras para uma empresa
+
+1202
+00:56:28,560 --> 00:56:31,220
+não cometer fraude por um desligamento de Jogos como Serviços.
+
+1203
+00:56:31,500 --> 00:56:34,160
+Mas veja só, aquela solução de esforço mínimo
+
+1204
+00:56:34,160 --> 00:56:36,080
+meio que se qualifica também.
+
+1205
+00:56:36,080 --> 00:56:38,220
+Se um desenvolvedor fornece isso.
+
+1206
+00:56:38,260 --> 00:56:41,140
+Então o jogo entra no território de possível concerto.
+
+1207
+00:56:41,400 --> 00:56:44,580
+O que eu ainda não que seja ótimo, mas consigo viver com isso.
+
+1208
+00:56:44,700 --> 00:56:48,500
+E de novo, isso está entre menos de uma hora a até alguns dias de trabalho
+
+1209
+00:56:49,080 --> 00:56:52,920
+Se isso ainda é muito trabalho para você aguentar.
+
+1210
+00:56:52,920 --> 00:56:56,160
+Então você não devia estar vendendo Jogos com Serviços.
+
+1211
+00:56:56,580 --> 00:56:58,680
+Leis impondo jogos como bens
+
+1212
+00:56:58,680 --> 00:57:01,640
+iriam afetar negativamente jogos que são desativados temporariamente
+
+1213
+00:57:01,640 --> 00:57:02,940
+mas daí voltam.
+
+1214
+00:57:03,580 --> 00:57:05,260
+Bom ponto, eu concordo com você.
+
+1215
+00:57:05,620 --> 00:57:08,420
+Por isso que eu acho que um período de tolerância é bem razoável.
+
+1216
+00:57:08,860 --> 00:57:11,815
+Se um jogo é desativado por alguns meses mas então volta
+
+1217
+00:57:11,820 --> 00:57:13,620
+para que compradores possam jogar de novo.
+
+1218
+00:57:13,700 --> 00:57:14,760
+É aceitável.
+
+1219
+00:57:15,240 --> 00:57:18,255
+Eu acho que o qual o período de tempo apropriado é, é discutível.
+
+1220
+00:57:18,260 --> 00:57:21,560
+Entretanto eu considero "nunca" uma resposta não aceitável.
+
+1221
+00:57:22,240 --> 00:57:24,240
+Exigindo empresas a darem a jogadores
+
+1222
+00:57:24,240 --> 00:57:26,600
+uma chance de jogar seus jogos depois do desligamento
+
+1223
+00:57:26,600 --> 00:57:29,640
+é exagerar e uma violações aos direitos de negócios.
+
+1224
+00:57:29,960 --> 00:57:32,935
+A ideia toda pro trás de uma licença perpétua de software
+
+1225
+00:57:32,940 --> 00:57:34,980
+é de que a empresa está cedendo uma
+
+1226
+00:57:34,980 --> 00:57:37,640
+pequena parte de seus direitos em troca de dinheiro.
+
+1227
+00:57:37,940 --> 00:57:41,620
+É o cliente pagando a empresa, não do outro jeito.
+
+1228
+00:57:42,000 --> 00:57:44,940
+O que está realmente acontecendo é um exagero da empresa.
+
+1229
+00:57:45,300 --> 00:57:48,300
+Eles estão tentando pegar de volta direitos que eles venderam.
+
+1230
+00:57:48,720 --> 00:57:50,760
+Se eu fosse te vender um carro
+
+1231
+00:57:50,760 --> 00:57:53,620
+e depois roubá-lo e dirigi-lo de volta à minha garagem.
+
+1232
+00:57:53,680 --> 00:57:56,080
+Você não iria dizer que estou protegendo meus direitos.
+
+1233
+00:57:56,080 --> 00:57:57,760
+Você iria dizer que te roubei.
+
+1234
+00:57:58,580 --> 00:58:00,180
+Você só está sendo um idealista.
+
+1235
+00:58:00,180 --> 00:58:02,700
+Coisas quebram ou estragam toda hora,
+
+1236
+00:58:02,820 --> 00:58:03,880
+jogos não são diferentes.
+
+1237
+00:58:04,380 --> 00:58:05,180
+Sim, eles são.
+
+1238
+00:58:05,180 --> 00:58:07,840
+Videogames são códigos, números.
+
+1239
+00:58:08,100 --> 00:58:09,975
+Jogos são mais como histórias.
+
+1240
+00:58:09,980 --> 00:58:13,500
+Livros estragam, histórias não, a não ser que permitimos.
+
+1241
+00:58:14,040 --> 00:58:16,080
+Tem essa história chamada de Odisseia.
+
+1242
+00:58:16,300 --> 00:58:17,180
+É bem boa.
+
+1243
+00:58:17,320 --> 00:58:19,180
+E tem mais ou menos 3000 anos de idade.
+
+1244
+00:58:19,260 --> 00:58:21,915
+Mas só tem sido publicada por 240 anos.
+
+1245
+00:58:22,060 --> 00:58:24,340
+Quando essa é suposta a estragar?
+
+1246
+00:58:24,580 --> 00:58:26,700
+Mas quer saber, isso não é um jogo
+
+1247
+00:58:26,700 --> 00:58:28,060
+então que tal Go?
+
+1248
+00:58:28,620 --> 00:58:30,820
+Esse tem 2000 e meio anos de idade.
+
+1249
+00:58:31,140 --> 00:58:32,400
+As pessoas ainda jogam.
+
+1250
+00:58:32,400 --> 00:58:35,120
+Então não, isso não aplica a jogos.
+
+1251
+00:58:35,580 --> 00:58:38,720
+Veja, eu tenho que apontar isso por algumas pessoas simplesmente não entendem.
+
+1252
+00:58:38,940 --> 00:58:40,440
+Queijo, estraga.
+
+1253
+00:58:40,680 --> 00:58:42,480
+Pneus de carro estragam.
+
+1254
+00:58:42,660 --> 00:58:44,680
+Equações matemáticas não!
+
+1255
+00:58:45,320 --> 00:58:48,640
+De novo, existe uma narrativa real indo contra isso.
+
+1256
+00:58:48,800 --> 00:58:51,320
+Só para atormentar alguém. Dê uma olhada nesse artigo.
+
+1257
+00:58:51,640 --> 00:58:55,715
+O Eliot aqui, argumenta que todos esses jogos online vão fechar.
+
+1258
+00:58:55,860 --> 00:58:57,260
+Ele está certo sobre isso.
+
+1259
+00:58:57,300 --> 00:59:00,195
+Então ele tenta argumentar que isso é bem-vindo e inevitável.
+
+1260
+00:59:00,200 --> 00:59:02,180
+Bom... Não, isso está errado.
+
+1261
+00:59:02,320 --> 00:59:06,220
+Ele então compara jogos sendo desligados com séries de TV terminando, que nem Star Trek.
+
+1262
+00:59:06,520 --> 00:59:08,900
+Eu acho que se ele teve uma aula de lógica na escola,
+
+1263
+00:59:08,900 --> 00:59:10,880
+ele não tirou as melhores notas.
+
+1264
+00:59:11,140 --> 00:59:12,940
+Veja, aqui está a diferença Eliot.
+
+1265
+00:59:13,200 --> 00:59:17,380
+As pessoas ainda podem assistir essas séries hoje, porque elas foram preservadas.
+
+1266
+00:59:18,040 --> 00:59:21,320
+Se ninguém hoje pudesse assistir Star Trek de novo.
+
+1267
+00:59:21,440 --> 00:59:24,140
+Então sim, essa seria uma analogia sólida.
+
+1268
+00:59:24,560 --> 00:59:26,440
+O que ele está realmente argumentando aqui é
+
+1269
+00:59:26,440 --> 00:59:30,180
+que desenvolvimento e apoio a um jogo eventualmente terminam.
+
+1270
+00:59:30,480 --> 00:59:34,000
+Sim! Por isso que um plano de fim de vida é necessário.
+
+1271
+00:59:34,380 --> 00:59:36,340
+Seu desligamento é inevitável.
+
+1272
+00:59:36,540 --> 00:59:38,900
+Sua destruição não é!
+
+1273
+00:59:39,440 --> 00:59:42,580
+Há pessoas jogando Star Wars Galaxies agora mesmo.
+
+1274
+00:59:42,900 --> 00:59:46,400
+Mesmo que esse jogo foi oficialmente desativado a mais de sete anos atrás.
+
+1275
+00:59:46,940 --> 00:59:50,940
+Você acha que essas pessoas aceitaram o final lá em 2011?
+
+1276
+00:59:51,480 --> 00:59:55,700
+Isso só é possível porque um desenvolvedor vazou ilegalmente códigos do jogo.
+
+1277
+00:59:55,820 --> 00:59:59,140
+Mas isso só mostra que um jogo acabar não é nem um pouco inevitável.
+
+1278
+00:59:59,560 --> 01:00:02,520
+Eu não acho que Eliot aqui estava agindo de má fé.
+
+1279
+01:00:02,560 --> 01:00:04,500
+Eu só acho que ele não sabe melhor.
+
+1280
+01:00:04,820 --> 01:00:07,680
+E é infelizmente que ele também é um jornalista de jogos.
+
+1281
+01:00:07,920 --> 01:00:11,600
+Porque daí influencia a outros a acreditarem em informações erradas
+
+1282
+01:00:11,840 --> 01:00:15,000
+É exatamente assim que uma narrativa construída funciona.
+
+1283
+01:00:15,420 --> 01:00:19,060
+Vá ler a Odisseia Eliot, talvez algo faça sentido no seu cérebro.
+
+1284
+01:00:19,680 --> 01:00:22,140
+O que você está propondo é absurdo,
+
+1285
+01:00:22,140 --> 01:00:24,700
+porque exigiria empresas a desistirem de suas propriedades intelectuais.
+
+1286
+01:00:24,880 --> 01:00:27,780
+e eles não podem lançar seus jogos sem perder sua marca registrada.
+
+1287
+01:00:28,080 --> 01:00:30,715
+Ok, eu apontei antes que a licença perpétua
+
+1288
+01:00:30,720 --> 01:00:32,820
+em maneira alguma da direito ao comprador aos
+
+1289
+01:00:32,820 --> 01:00:34,240
+direitos de propriedade intelectual.
+
+1290
+01:00:34,680 --> 01:00:37,000
+Tudo que eles ganham é aquela única instância disso.
+
+1291
+01:00:37,540 --> 01:00:40,620
+Eu nunca argumentei que os donos dos direitos deveriam perder sua propriedade intelectual.
+
+1292
+01:00:40,840 --> 01:00:42,220
+Essa é a ideia.
+
+1293
+01:00:42,580 --> 01:00:45,340
+Pessoas com licenças perpétuas possuem direitos TAMBÉM.
+
+1294
+01:00:45,860 --> 01:00:47,060
+Sobre as marcas registradas,
+
+1295
+01:00:47,060 --> 01:00:51,200
+empresas podem proteger sua marca e lançar um jogo sem suporte.
+
+1296
+01:00:51,380 --> 01:00:54,400
+Eles só tem de estar a frente disso e definirem os termos.
+
+1297
+01:00:54,840 --> 01:00:57,400
+Como um exemplo, Grand Theft Auto,
+
+1298
+01:00:57,400 --> 01:00:58,600
+um jogo comercial.
+
+1299
+01:00:58,600 --> 01:01:01,815
+Foi liberado de graça múltiplas vezes pela Rockstar
+
+1300
+01:01:01,820 --> 01:01:03,855
+e eles não dão mais suporte ao jogo.
+
+1301
+01:01:04,020 --> 01:01:05,860
+Você realmente pensa que a Rockstar
+
+1302
+01:01:05,860 --> 01:01:11,760
+perdeu os direitos e marca registrada da franquia Grand Theft Auto por causa disso?
+
+1303
+01:01:12,260 --> 01:01:15,280
+Eu acho que eles tem um pouco de dinheiro investido nessa daí.
+
+1304
+01:01:15,580 --> 01:01:18,480
+Usar marca registrada como uma desculpa para matar um jogo.
+
+1305
+01:01:18,480 --> 01:01:21,060
+Significa que a empresa está operando de maneira irresponsável.
+
+1306
+01:01:21,580 --> 01:01:23,340
+Essa é a ideia aqui, se a empresa
+
+1307
+01:01:23,340 --> 01:01:25,580
+quer resolver o problema eles podem.
+
+1308
+01:01:25,900 --> 01:01:28,900
+Se eles não querem, existe desculpas infinitas.
+
+1309
+01:01:29,220 --> 01:01:32,460
+Não desculpas boas, mas desculpas mesmo assim.
+
+1310
+01:01:33,020 --> 01:01:36,700
+Você diz que jogos são bens, mas os arcades antigos eram serviços
+
+1311
+01:01:36,700 --> 01:01:39,660
+então existe um precedente histórico para isso.
+
+1312
+01:01:40,140 --> 01:01:42,160
+Sabe, eu sabia que ia dizer isso.
+
+1313
+01:01:42,520 --> 01:01:44,380
+Mas vamos voltar para aquela lista de serviço de novo.
+
+1314
+01:01:44,780 --> 01:01:47,500
+Com arcades você tem um desses dois primeiros critérios.
+
+1315
+01:01:47,900 --> 01:01:49,860
+Talvez você jogasse o jogo até morrer.
+
+1316
+01:01:50,040 --> 01:01:51,820
+O jogava até três minutos acabarem.
+
+1317
+01:01:52,100 --> 01:01:53,180
+Dependia do jogo.
+
+1318
+01:01:53,560 --> 01:01:55,880
+E com certeza arcades tinham limites reais.
+
+1319
+01:01:56,260 --> 01:02:00,140
+Essas eram máquinas com tecnologia da Era Espacial que pesavam 130 kg.
+
+1320
+01:02:00,740 --> 01:02:02,580
+E ei! Se você realmente quisesse
+
+1321
+01:02:02,580 --> 01:02:06,780
+Você podia comprar a máquina de arcade como um bem e preservá-la.
+
+1322
+01:02:07,160 --> 01:02:09,160
+Claro que custava milhares de dólares.
+
+1323
+01:02:09,380 --> 01:02:11,620
+Mas isso volta aos limites do mundo real.
+
+1324
+01:02:11,880 --> 01:02:13,720
+Simplesmente não é a mesma coisa.
+
+1325
+01:02:13,960 --> 01:02:16,720
+Na realidade, máquinas de arcade só provam o ponto.
+
+1326
+01:02:17,100 --> 01:02:19,240
+Os arcades em sua maioria morreram.
+
+1327
+01:02:19,540 --> 01:02:21,460
+Mas os jogos sobreviveram.
+
+1328
+01:02:22,380 --> 01:02:26,420
+Você continua mencionando a lei e a necessidade da imposição dela, mas isso não é necessário.
+
+1329
+01:02:26,680 --> 01:02:30,160
+Empresas só precisam ser convencidas de que preservar jogos é do interesse delas
+
+1330
+01:02:30,160 --> 01:02:33,180
+e clientes precisam tomar decisões conscientes na hora de comprar.
+
+1331
+01:02:33,720 --> 01:02:35,880
+Olha, a gente já tentou do seu jeito.
+
+1332
+01:02:35,880 --> 01:02:36,700
+Não funcionou!
+
+1333
+01:02:37,180 --> 01:02:40,500
+Por décadas isso não foi um problema para a grande maioria dos jogos.
+
+1334
+01:02:40,900 --> 01:02:43,680
+Ninguém estava impondo leis em Jogos como Serviços
+
+1335
+01:02:43,680 --> 01:02:45,680
+porque quase ninguém estava fazendo isso.
+
+1336
+01:02:45,680 --> 01:02:46,260
+Ótimo!
+
+1337
+01:02:46,680 --> 01:02:48,120
+Isso não o que está acontecendo agora.
+
+1338
+01:02:48,340 --> 01:02:50,240
+Estamos vendo grandes porcentagens de
+
+1339
+01:02:50,240 --> 01:02:53,240
+títulos blockbuster envolvidos em Jogos como Serviços.
+
+1340
+01:02:53,680 --> 01:02:56,320
+Por que deveríamos tentar convencer empresas a não fazer algo,
+
+1341
+01:02:56,320 --> 01:02:59,040
+quando eles foram que criaram o problema no primeiro lugar?
+
+1342
+01:02:59,480 --> 01:03:01,480
+As empresas que podem ser convencidas
+
+1343
+01:03:01,560 --> 01:03:03,140
+não são as que estão fazendo isso.
+
+1344
+01:03:03,140 --> 01:03:04,040
+Lembre-se.
+
+1345
+01:03:04,160 --> 01:03:06,760
+Essa solução de um absoluto esforço mínimo,
+
+1346
+01:03:06,800 --> 01:03:08,480
+poderia levar menos de uma hora!
+
+1347
+01:03:08,880 --> 01:03:12,740
+Mas até eu tenho que admitir que isso ainda leva algum esforço.
+
+1348
+01:03:13,160 --> 01:03:15,860
+Matar jogos não leva nenhum esforço.
+
+1349
+01:03:16,700 --> 01:03:20,060
+Eu ouvi pessoas dizerem antes que empresas ficariam felizes em preservar jogos
+
+1350
+01:03:20,060 --> 01:03:22,780
+se eles apenas pudessem ser convencidos de que é mais lucrativo.
+
+1351
+01:03:23,180 --> 01:03:26,880
+Bom, você conhece essas pessoas fazendo o jogo das conchas na rua que são um golpe?
+
+1352
+01:03:27,000 --> 01:03:30,400
+Eles estão te pedindo pra escolher um copo enquanto a bola está na verdade no bolso deles.
+
+1353
+01:03:30,700 --> 01:03:33,240
+Eu tenho certeza de que eles estariam felizes de fazer um jogo honesto
+
+1354
+01:03:33,240 --> 01:03:35,980
+se você pudesse convence-los de que é mais lucrativo do que dar um golpe nos outros.
+
+1355
+01:03:36,840 --> 01:03:41,200
+Mas o negócio da fraude é que ela já tem uma excelente relação entre trabalho e lucro.
+
+1356
+01:03:41,400 --> 01:03:42,700
+Uma relação máxima ainda.
+
+1357
+01:03:43,320 --> 01:03:46,540
+Clientes não vão convencer pessoas de que negócios honestos
+
+1358
+01:03:46,540 --> 01:03:49,920
+são mais lucrativos do que fraude porque geralmente não são.
+
+1359
+01:03:50,500 --> 01:03:53,420
+Mas eu acho que a imposição da lei poderia convence-los.
+
+1360
+01:03:54,160 --> 01:03:55,635
+Mas ei! Me prove errado.
+
+1361
+01:03:55,800 --> 01:03:58,520
+Talvez a indústria vai ver o erro de seus métodos
+
+1362
+01:03:58,520 --> 01:04:00,960
+e parem de matar jogos antes de que algo disso vá para o tribunal.
+
+1363
+01:04:01,620 --> 01:04:05,060
+Mas você realmente quer apostar na indústria policiando a si mesma?
+
+1364
+01:04:05,360 --> 01:04:06,100
+Mesmo?
+
+1365
+01:04:06,360 --> 01:04:07,600
+Eu vou apostar contra você.
+
+1366
+01:04:07,920 --> 01:04:10,380
+Me dá um toque, meu e-mail está no final desse vídeo.
+
+1367
+01:04:11,340 --> 01:04:13,815
+E quanto a jogos somente por streaming?
+
+1368
+01:04:14,060 --> 01:04:17,780
+Jogos somente por streaming são aqueles você pode jogar APENAS através de um feed de vídeo.
+
+1369
+01:04:18,020 --> 01:04:19,100
+É a única maneira.
+
+1370
+01:04:19,560 --> 01:04:22,655
+Então esqueça de tudo que foi mostrado naquele gráfico de corpo e cérebro.
+
+1371
+01:04:22,940 --> 01:04:26,100
+Jogos somente por streaming é como se estivesse assistindo tudo isso por uma janela.
+
+1372
+01:04:26,300 --> 01:04:28,060
+Você não tem NADA então.
+
+1373
+01:04:28,580 --> 01:04:32,260
+Nesse momento esses são na maioria protótipos, mas eles estão chegando.
+
+1374
+01:04:32,780 --> 01:04:34,820
+Entretanto, é a mesma coisa que antes.
+
+1375
+01:04:35,200 --> 01:04:37,320
+Se estão sob uma licença de assinatura.
+
+1376
+01:04:37,600 --> 01:04:41,220
+Então tudo que eu tenho é o argumento da preservação para não destruir historia.
+
+1377
+01:04:41,540 --> 01:04:43,380
+Eu não estou certo se há alguma posição legal.
+
+1378
+01:04:43,860 --> 01:04:47,920
+Mas se eles estão sob uma licença perpétua e você compra os jogos de streaming.
+
+1379
+01:04:48,140 --> 01:04:49,600
+Sim, de volta a fraude.
+
+1380
+01:04:50,200 --> 01:04:52,240
+É por isso que precisamos questionar isso agora
+
+1381
+01:04:52,240 --> 01:04:54,480
+antes que isso vire a regra.
+
+1382
+01:04:54,860 --> 01:04:57,980
+E isso também quer dizer que eles vão ter que liberar muito mais que isso
+
+1383
+01:04:57,980 --> 01:05:01,860
+para deixar que os clientes consertarem seus jogos depois de desativados.
+
+1384
+01:05:02,420 --> 01:05:05,460
+Você está insistindo para impor leis em jogos como bens
+
+1385
+01:05:05,460 --> 01:05:07,980
+mas isso não levaria as empresas a declararem tudo
+
+1386
+01:05:07,980 --> 01:05:10,780
+como um serviço com uma taxa de assinatura e contornando desse jeito?
+
+1387
+01:05:11,360 --> 01:05:12,660
+Isso é um risco.
+
+1388
+01:05:13,060 --> 01:05:16,240
+Mas você sabe o que? Nós já estivemos aí antes e vimos o resultado.
+
+1389
+01:05:16,980 --> 01:05:18,980
+No início ao meio dos anos 2000
+
+1390
+01:05:19,000 --> 01:05:22,060
+quase todo jogo MMO era apenas por assinatura.
+
+1391
+01:05:22,340 --> 01:05:23,620
+Bom, adivinha o que aconteceu?
+
+1392
+01:05:24,240 --> 01:05:27,720
+Quase todos eles ou falharam ou foram para um modo de pagamento alternativo.
+
+1393
+01:05:27,720 --> 01:05:30,800
+Apenas uns poucos sobrevivem em uma taxa de assinatura.
+
+1394
+01:05:33,100 --> 01:05:35,800
+Então se toda empresa for para um modelo de assinatura
+
+1395
+01:05:35,800 --> 01:05:38,320
+a maioria vai falhar porque os jogadores
+
+1396
+01:05:38,320 --> 01:05:41,600
+não terão vontade de ter cinco contas de jogos separados por mês.
+
+1397
+01:05:42,160 --> 01:05:45,300
+Eu acho que a economia disso não vai funcionar para empresas
+
+1398
+01:05:45,300 --> 01:05:47,660
+que fazem somente isso, e eles sabem disso.
+
+1399
+01:05:48,220 --> 01:05:50,460
+É por isso que Jogos como Serviços existem.
+
+1400
+01:05:50,920 --> 01:05:52,860
+Eles estão fingindo ser serviços
+
+1401
+01:05:52,860 --> 01:05:54,540
+enquanto são na verdade bens,
+
+1402
+01:05:54,540 --> 01:05:57,220
+e eles estão fugindo das responsabilidades de ambos!
+
+1403
+01:05:57,940 --> 01:06:00,260
+E sobre os jogos retirados das listas?
+
+1404
+01:06:00,560 --> 01:06:02,400
+Jogos retirados das listas, são jogos que
+
+1405
+01:06:02,400 --> 01:06:04,840
+você não pode comprar online mais, ou algumas vezes no geral.
+
+1406
+01:06:05,400 --> 01:06:07,020
+Eu tenho sentimentos divididos sobre esses.
+
+1407
+01:06:07,460 --> 01:06:09,640
+Em uma mão, é claro que quero que as pessoas possam jogar
+
+1408
+01:06:09,640 --> 01:06:11,260
+jogos de que estão interessadas.
+
+1409
+01:06:11,700 --> 01:06:13,540
+Na outra mão, eu não acho que é razoável
+
+1410
+01:06:13,560 --> 01:06:16,160
+forçar a empresas a vender seus jogos se eles não querem.
+
+1411
+01:06:16,600 --> 01:06:18,820
+Não tem nada fraudulento sobre o que estão fazendo
+
+1412
+01:06:18,820 --> 01:06:21,340
+Então. Tudo que tenho é o argumento da preservação.
+
+1413
+01:06:21,840 --> 01:06:25,180
+E de novo, isso volta a eu querer ficar preto ou branco nessa questão.
+
+1414
+01:06:25,460 --> 01:06:29,000
+E eu estou COMPLETAMENTE focado em não matar jogos.
+
+1415
+01:06:29,540 --> 01:06:33,120
+Talvez uma vez que resolvemos isso eu possa me importar mais com outras áreas como essa.
+
+1416
+01:06:33,900 --> 01:06:36,160
+E quanto a jogos que são atualizados o tempo todo
+
+1417
+01:06:36,160 --> 01:06:39,140
+de modo que a versão anterior é bem diferente da versão posterior?
+
+1418
+01:06:39,140 --> 01:06:42,560
+Não é irracional para desenvolvedores preservarem cada versão?
+
+1419
+01:06:42,800 --> 01:06:45,635
+Isso poderia levar muito mais trabalho, sim.
+
+1420
+01:06:45,640 --> 01:06:48,280
+O que é porque eu estou disposto a me comprometer nisso também.
+
+1421
+01:06:48,740 --> 01:06:49,900
+Eu consideraria
+
+1422
+01:06:50,120 --> 01:06:52,400
+qualquer versão funcional de um jogo
+
+1423
+01:06:52,400 --> 01:06:54,400
+como compensação adequada ao comprador.
+
+1424
+01:06:55,040 --> 01:06:58,020
+É claro que seria mais legal de ter cada versão disponível.
+
+1425
+01:06:58,200 --> 01:07:01,040
+Mas de novo, eu não quero deixar nenhuma desculpa
+
+1426
+01:07:01,040 --> 01:07:03,860
+para não fornecer aos clientes uma cópia funcional do jogo.
+
+1427
+01:07:04,500 --> 01:07:08,220
+Então se a empresa pode só fornecer a 1.0 e não a 3.6
+
+1428
+01:07:08,220 --> 01:07:08,880
+Tanto faz.
+
+1429
+01:07:09,240 --> 01:07:11,280
+Qualquer coisa é melhor do que nada.
+
+1430
+01:07:11,640 --> 01:07:14,400
+Nós estamos ganhando muito "nada" agora.
+
+1431
+01:07:15,040 --> 01:07:18,620
+Eu não me importo se jogos velhos não são preservados, porque eu só jogo jogos novos.
+
+1432
+01:07:19,140 --> 01:07:19,800
+Tudo bem.
+
+1433
+01:07:20,000 --> 01:07:22,980
+Então você não deveria se importar se leis são impostas nos jogos velhos.
+
+1434
+01:07:23,180 --> 01:07:25,260
+Entretanto, as vezes, eles não são tão velhos.
+
+1435
+01:07:25,680 --> 01:07:28,480
+De qualquer jeito isso não deveria afetar você. Você pode ir voltar a dormir.
+
+1436
+01:07:29,620 --> 01:07:31,520
+Esse cara desafiou a Eletronic Arts no tribunal
+
+1437
+01:07:31,520 --> 01:07:34,120
+sobre como seus jogos deveriam durar mais e perdeu,
+
+1438
+01:07:34,120 --> 01:07:36,520
+portanto você não tem direitos nos seus jogos.
+
+1439
+01:07:36,800 --> 01:07:39,620
+Esse caso estava argumentando que a parte multiplayer de seus jogos
+
+1440
+01:07:39,620 --> 01:07:42,960
+deveria durar mais, e acabou sendo levado a mediação
+
+1441
+01:07:42,960 --> 01:07:45,680
+o que é notória por ficar do lado de empresas.
+
+1442
+01:07:45,680 --> 01:07:47,680
+E os registros foram mantidos privados.
+
+1443
+01:07:47,880 --> 01:07:50,820
+Ele poderia estar argumentando o caso em fundamentos completamente diferentes
+
+1444
+01:07:50,820 --> 01:07:53,500
+dos que estou fazendo e que não se sustentariam no tribunal.
+
+1445
+01:07:53,800 --> 01:07:55,280
+Nós não sabemos o que aconteceu,
+
+1446
+01:07:55,280 --> 01:07:58,020
+e qualquer coisa que aconteceu não é a lei da terra.
+
+1447
+01:07:58,580 --> 01:08:00,260
+Isso é também um exemplo perfeito
+
+1448
+01:08:00,340 --> 01:08:02,680
+do porquê estratégia legal é importante.
+
+1449
+01:08:02,880 --> 01:08:05,735
+Se você for ao tribunal errado com o argumento errado.
+
+1450
+01:08:05,740 --> 01:08:06,500
+Você vai perder!
+
+1451
+01:08:06,920 --> 01:08:08,380
+Eu encontrei uma declaração do Reino Unido
+
+1452
+01:08:08,380 --> 01:08:10,940
+que diz que licenças perpétuas não são perpétuas,
+
+1453
+01:08:10,940 --> 01:08:11,760
+então você está errado.
+
+1454
+01:08:12,320 --> 01:08:14,240
+Primeiro, isso foi apenas no Reino Unido.
+
+1455
+01:08:14,540 --> 01:08:16,040
+Segundo, a parte perpétua
+
+1456
+01:08:16,040 --> 01:08:18,640
+era mais em referência ao seu uso no contrato.
+
+1457
+01:08:18,640 --> 01:08:21,535
+E o fato de que estava se referindo a dez anos, pra começar.
+
+1458
+01:08:21,700 --> 01:08:24,780
+Significa que não era um contrato perpétuo no primeiro.
+
+1459
+01:08:25,100 --> 01:08:29,460
+Então essa é só uma interpretação bem estranha que pode não se aplicar especificamente a software.
+
+1460
+01:08:29,740 --> 01:08:31,900
+Terceiro, a declaração da Suprema Corte da União Europeia
+
+1461
+01:08:31,900 --> 01:08:34,440
+sobre licenças perpétuas substitui essa dai.
+
+1462
+01:08:34,840 --> 01:08:36,800
+Talvez o Brexit mude um pouco as coisas.
+
+1463
+01:08:36,800 --> 01:08:39,160
+Mas mesmo assim, seria apenas o Reino Unido.
+
+1464
+01:08:39,820 --> 01:08:42,500
+Se empresas divulgassem informações sobre os seus servidores,
+
+1465
+01:08:42,500 --> 01:08:45,900
+significa que outros jogos que estão hospedando com o mesmo software poderiam ser hackeados.
+
+1466
+01:08:46,340 --> 01:08:48,160
+Eu perguntei a aquele desenvolvedor sobre isso,
+
+1467
+01:08:48,160 --> 01:08:50,475
+e ele disse que em nenhum desses dois cenários
+
+1468
+01:08:50,475 --> 01:08:52,745
+daria informações suficientes para um hacker
+
+1469
+01:08:52,745 --> 01:08:55,775
+para hackear outro jogo que ele não conseguisse de outra forma.
+
+1470
+01:08:55,860 --> 01:08:57,360
+Mas mesmo que ele esteja errado.
+
+1471
+01:08:57,380 --> 01:08:59,220
+Eu meio que quero dizer "que pena".
+
+1472
+01:08:59,540 --> 01:09:03,640
+Em alguma hora uma empresa deveria tomar responsabilidade por suas ações.
+
+1473
+01:09:04,120 --> 01:09:06,840
+E é assim que me sinto sobre a maioria desses contra-argumentos.
+
+1474
+01:09:06,840 --> 01:09:08,340
+Eles são desculpas!
+
+1475
+01:09:08,620 --> 01:09:11,400
+Eles são desculpas para não fazer o que todo mundo dos jogos
+
+1476
+01:09:11,400 --> 01:09:12,920
+deveria saber que é necessário.
+
+1477
+01:09:13,060 --> 01:09:15,900
+Isso aqui não é o fim do mundo!
+
+1478
+01:09:16,180 --> 01:09:20,300
+De alguma forma, as empresas encontraram um jeito de fazer milhares de jogos no passado
+
+1479
+01:09:20,300 --> 01:09:21,960
+e NÃO destruí-los.
+
+1480
+01:09:22,220 --> 01:09:24,400
+É necessário voltar a isso.
+
+1481
+01:09:24,880 --> 01:09:26,020
+E é barato!
+
+1482
+01:09:26,440 --> 01:09:30,180
+Olha, empresas vão lutar contra nós até o final nisso, porque você sabe
+
+1483
+01:09:30,180 --> 01:09:31,520
+clientes são o inimigo.
+
+1484
+01:09:31,780 --> 01:09:34,060
+Mas  é com ISSO que eles se importam!
+
+1485
+01:09:34,400 --> 01:09:36,360
+ISSO é a sua mina de ouro.
+
+1486
+01:09:36,680 --> 01:09:37,960
+E preservar jogos
+
+1487
+01:09:37,960 --> 01:09:40,340
+não precisa interferir com isso.
+
+1488
+01:09:40,540 --> 01:09:44,040
+Se eu pudesse fazer empresas entenderem uma coisa seria que
+
+1489
+01:09:44,040 --> 01:09:47,320
+ISSO vai ser bem mais barato de que qualquer litígio.
+
+1490
+01:09:47,440 --> 01:09:50,720
+Eu não espero que eles entendam essa mensagem, mas queria dize-la.
+
+1491
+01:09:51,160 --> 01:09:55,440
+Tudo que eu quero aqui é aquele absoluto MÍNIMO de responsabilidade
+
+1492
+01:09:55,460 --> 01:09:56,640
+para não matar jogos.
+
+1493
+01:09:56,980 --> 01:10:00,020
+Só o pedacinho mais minúsculo, meu deus!
+
+1494
+01:10:00,620 --> 01:10:03,040
+E finalmente terminamos!
+
+1495
+01:10:03,540 --> 01:10:04,640
+E o que agora?
+
+1496
+01:10:05,140 --> 01:10:07,540
+Bom, eu não fiz esse vídeo pela minha saúde.
+
+1497
+01:10:07,840 --> 01:10:10,380
+Isso não é um TED Talk onde eu digo algo positivo
+
+1498
+01:10:10,380 --> 01:10:12,660
+e todo mundo age como se o problema foi resolvido.
+
+1499
+01:10:12,940 --> 01:10:15,620
+Não, eu fiz pra realmente conseguir algo feito.
+
+1500
+01:10:16,020 --> 01:10:19,920
+Nesse momento eu levei as coisas o mais longe que consigo sozinho.
+
+1501
+01:10:20,220 --> 01:10:23,140
+Então esse vídeo é um S.O.S. por AJUDA
+
+1502
+01:10:23,140 --> 01:10:24,680
+Para levar as coisas adiantes.
+
+1503
+01:10:25,040 --> 01:10:27,420
+Se você acha que pode ajudar a acabar com essa prática.
+
+1504
+01:10:27,420 --> 01:10:28,340
+Me avise.
+
+1505
+01:10:28,440 --> 01:10:29,540
+Aqui está meu e-mail: rosswscott@gmail.com
+
+1506
+01:10:29,960 --> 01:10:33,160
+Eu provavelmente preciso de pessoas como advogados ou estudantes de direito,
+
+1507
+01:10:33,160 --> 01:10:34,660
+especialmente sobre direitos dos consumidores.
+
+1508
+01:10:35,080 --> 01:10:36,720
+Organizadores ativistas.
+
+1509
+01:10:36,800 --> 01:10:39,260
+Ou qualquer um com conexões a organizações
+
+1510
+01:10:39,260 --> 01:10:41,560
+que realmente conseguem iniciar esse processo todo.
+
+1511
+01:10:42,000 --> 01:10:45,860
+Aqui, eu fiz uma cola de todas coisas importantes que discuti no vídeo.
+
+1512
+01:10:45,880 --> 01:10:48,280
+Eu vou deixar isso e qualquer informação chave que você possa querer
+
+1513
+01:10:48,280 --> 01:10:50,340
+disponível em um link para download também.
+
+1514
+01:10:50,480 --> 01:10:53,500
+Eu acho que pode ter alguma substância em alguns dos precedentes legais
+
+1515
+01:10:53,500 --> 01:10:55,740
+pra precisamos que eles sejam examinados e declarados.
+
+1516
+01:10:56,120 --> 01:10:59,540
+Aqui estão mais algumas ideias que tive de possíveis lugares para começar.
+
+1517
+01:11:00,120 --> 01:11:03,980
+E a coisa a perceber é que, não precisamos ganhar todas as batalhas para ganhar a guerra.
+
+1518
+01:11:04,500 --> 01:11:07,695
+Digamos que não conseguimos fazer nenhum progresso nos Estados Unidos
+
+1519
+01:11:07,700 --> 01:11:11,080
+mas conseguimos na União Europeia e na Austrália.
+
+1520
+01:11:11,300 --> 01:11:14,800
+Isso poderia ser o suficiente para que empresas adicionem planos de fim de vida globalmente.
+
+1521
+01:11:15,020 --> 01:11:18,400
+Porque daí isso seria mais barato do que enfrentar multas e processos.
+
+1522
+01:11:18,680 --> 01:11:21,360
+De qualquer jeito, eu não sei o que fazer com essa informação,
+
+1523
+01:11:21,360 --> 01:11:23,760
+quem contactar, qual é o procedimento.
+
+1524
+01:11:23,760 --> 01:11:24,980
+Eu sou um leigo.
+
+1525
+01:11:24,980 --> 01:11:27,980
+É um milagre eu ter conseguido juntar tudo isso do jeito que está.
+
+1526
+01:11:28,240 --> 01:11:31,580
+Minha função mais valiosa em tudo isso é como um mascote
+
+1527
+01:11:31,580 --> 01:11:33,740
+para deixar as pessoas empolgadas na direção certa.
+
+1528
+01:11:33,900 --> 01:11:35,280
+É! Tipo assim!
+
+1529
+01:11:35,480 --> 01:11:36,660
+Esse poderia ser eu!
+
+1530
+01:11:38,160 --> 01:11:40,780
+Outra pessoa precisa descobrir como usar isso.
+
+1531
+01:11:40,940 --> 01:11:42,920
+Talvez alguma agência diz que pode ajudar,
+
+1532
+01:11:42,920 --> 01:11:44,940
+mas precisam de interesse público o suficiente primeiro.
+
+1533
+01:11:45,140 --> 01:11:48,080
+Então eu estarei de volta aqui dizendo para todo mundo contacta-los.
+
+1534
+01:11:48,600 --> 01:11:51,240
+Ou, tudo que é necessário é uma pessoa jurídica
+
+1535
+01:11:51,240 --> 01:11:53,980
+entregando os documentos certos nos escritórios certos.
+
+1536
+01:11:54,280 --> 01:11:57,500
+Eu estou tentando puxar pessoas do Ether que tem mais ideias de como
+
+1537
+01:11:57,500 --> 01:11:59,420
+levar isso adiante, do que eu tenho.
+
+1538
+01:12:00,140 --> 01:12:03,780
+Eu disse no começo que estou declarando guerra contra Jogos como Serviços.
+
+1539
+01:12:04,080 --> 01:12:06,240
+É verdade, mas isso é retaliatório!
+
+1540
+01:12:06,820 --> 01:12:10,020
+A própria indústria de jogos declarou uma Guerra Contra Propriedade
+
+1541
+01:12:10,020 --> 01:12:12,040
+contra o consumidor faz anos agora.
+
+1542
+01:12:12,260 --> 01:12:13,600
+E eles estão ganhando!
+
+1543
+01:12:13,900 --> 01:12:17,680
+Estamos vendo a indústria agir com uma completa IMPUNIDADE nisso.
+
+1544
+01:12:17,840 --> 01:12:21,160
+Na época desse vídeo, uma nova era está começando.
+
+1545
+01:12:21,480 --> 01:12:25,160
+Stadia foi anunciado com jogos exclusivos somente por streaming.
+
+1546
+01:12:25,460 --> 01:12:27,780
+Significando que você nunca será capaz de preservar esses.
+
+1547
+01:12:27,780 --> 01:12:28,720
+É impossível!
+
+1548
+01:12:28,940 --> 01:12:31,540
+Nem mesmo aquele 0,1 por cento de chance.
+
+1549
+01:12:31,920 --> 01:12:33,200
+E eles não estão sozinhos.
+
+1550
+01:12:33,200 --> 01:12:35,620
+Tantas empresas estão tropeçando nelas mesmas
+
+1551
+01:12:35,620 --> 01:12:38,560
+para fazer jogos de streaming desse jeito.
+
+1552
+01:12:38,840 --> 01:12:40,760
+A indústria de jogos está TÃO
+
+1553
+01:12:40,760 --> 01:12:43,860
+ANSIOSA para acabar com o conceito de propriedade do consumidor.
+
+1554
+01:12:44,220 --> 01:12:46,680
+E isso significa que esses jogos serão destruídos.
+
+1555
+01:12:46,900 --> 01:12:49,920
+Isso é que nem alguma coisa vinda de uma história de ficção científica para mim.
+
+1556
+01:12:49,920 --> 01:12:51,200
+Mas ainda assim, aqui estamos.
+
+1557
+01:12:51,760 --> 01:12:54,680
+Agora, eu sou uma das pessoas mais cínicas que você achará nesse tópico.
+
+1558
+01:12:54,800 --> 01:12:57,740
+E até EU estou vendo uma chance para mudar isso.
+
+1559
+01:12:58,080 --> 01:13:01,260
+A lei poderia ser nossa aliada nisso, não sabemos.
+
+1560
+01:13:01,460 --> 01:13:05,540
+O problema é que a lei esteve completamente dormindo no volante
+
+1561
+01:13:05,540 --> 01:13:07,480
+com relação à indústria de jogos!
+
+1562
+01:13:07,680 --> 01:13:10,100
+Então nós temos que acordar a lei.
+
+1563
+01:13:10,420 --> 01:13:12,960
+Nós vamos perder com certeza se ela continuar dormindo.
+
+1564
+01:13:13,440 --> 01:13:15,240
+Até se for contra nós,
+
+1565
+01:13:15,240 --> 01:13:18,320
+não existe uma desvantagem de envolver a lei.
+
+1566
+01:13:18,320 --> 01:13:20,500
+A situação ficou ruim assim!
+
+1567
+01:13:21,100 --> 01:13:23,340
+Por causa disso eu só estou interessado em planos
+
+1568
+01:13:23,340 --> 01:13:25,980
+onde o resultado é algum tipo de processo legal.
+
+1569
+01:13:26,060 --> 01:13:27,960
+Eu acho que é nossa única chance.
+
+1570
+01:13:28,360 --> 01:13:31,680
+Eu não acho que, mudar os hábitos dos consumidores irá funcionar.
+
+1571
+01:13:32,180 --> 01:13:35,225
+Na verdade, eu vi uma frase antes que dizia algo tipo:
+
+1572
+01:13:35,280 --> 01:13:38,040
+Toda vez que alguém diz que a solução para um problema
+
+1573
+01:13:38,040 --> 01:13:39,740
+é "votar com sua carteira",
+
+1574
+01:13:39,740 --> 01:13:41,680
+eu sei que esta causa está perdida.
+
+1575
+01:13:42,180 --> 01:13:44,700
+Isso reflete bem minhas opiniões também.
+
+1576
+01:13:45,180 --> 01:13:47,580
+Eu acho que legislação poderia funcionar,
+
+1577
+01:13:47,580 --> 01:13:50,020
+mas também vejo isso como quase impossível.
+
+1578
+01:13:50,500 --> 01:13:51,720
+Eu não tenho nenhum poder.
+
+1579
+01:13:52,140 --> 01:13:56,440
+Se eu fosse um multimilionário que pudesse contratar lobistas para levar isso ao Congresso.
+
+1580
+01:13:56,620 --> 01:13:57,700
+É! Isso poderia funcionar.
+
+1581
+01:13:58,060 --> 01:13:59,580
+Mas esse não sou eu.
+
+1582
+01:14:00,180 --> 01:14:04,380
+Mas conseguir juízes de algum lugar para interpretar leis existentes.
+
+1583
+01:14:04,580 --> 01:14:06,380
+Isso no mínimo parece possível.
+
+1584
+01:14:07,280 --> 01:14:11,120
+Eu me importo com jogos não sendo mortos mas eu não vou lutar isso para sempre.
+
+1585
+01:14:11,120 --> 01:14:12,900
+Existem outras coisas que preferia estar fazendo.
+
+1586
+01:14:13,440 --> 01:14:15,620
+Mas eu preciso que isso pare,
+
+1587
+01:14:15,660 --> 01:14:17,840
+ou então eu preciso ser DERROTADO!
+
+1588
+01:14:18,300 --> 01:14:20,260
+Eu preciso que Supremas Cortes venham
+
+1589
+01:14:20,260 --> 01:14:22,760
+e digam que jogos NUNCA serão protegidos.
+
+1590
+01:14:22,820 --> 01:14:24,700
+Antes que possa desistir disso.
+
+1591
+01:14:24,800 --> 01:14:26,380
+Isso é apenas a Fase Um,
+
+1592
+01:14:26,380 --> 01:14:28,660
+informar pessoas e um S.O.S. para ajuda.
+
+1593
+01:14:29,140 --> 01:14:31,360
+Fase Dois é acordar a lei.
+
+1594
+01:14:31,480 --> 01:14:33,800
+Nós precisamos de pessoas com conhecimento para essa parte.
+
+1595
+01:14:34,220 --> 01:14:37,400
+Agora se você quer ajudar mas não tem nenhum conhecimento sobre isso.
+
+1596
+01:14:37,580 --> 01:14:39,340
+Então você está no mesmo barco que eu.
+
+1597
+01:14:39,560 --> 01:14:41,800
+Nós só vamos ter que esperar e ver quem aparece.
+
+1598
+01:14:42,200 --> 01:14:44,980
+Acredite, eu vou te avisar se precisarmos de sua ajuda.
+
+1599
+01:14:45,420 --> 01:14:47,800
+Enquanto isso, o único conselho que tenho é:
+
+1600
+01:14:47,800 --> 01:14:50,700
+fazer barulho sobre isso certamente não machucará.
+
+1601
+01:14:50,840 --> 01:14:52,680
+Só de conseguir fazer jogadores entenderem que
+
+1602
+01:14:52,680 --> 01:14:54,860
+eles são legalmente donos de seus jogos.
+
+1603
+01:14:54,860 --> 01:14:56,140
+Não é um começo ruim.
+
+1604
+01:14:56,580 --> 01:14:59,260
+Eu ainda estou impressionado com aquele post explicando isso.
+
+1605
+01:14:59,580 --> 01:15:02,580
+E você está bem-vindo a usar meu gráfico, é agradável e simples.
+
+1606
+01:15:02,920 --> 01:15:06,400
+Alias, você pode pegar qualquer coisa que eu disse nesse vídeo e usar como quiser.
+
+1607
+01:15:06,520 --> 01:15:07,300
+Está tudo bem.
+
+1608
+01:15:07,780 --> 01:15:10,620
+Talvez mais barulho irá ajudar, talvez não importe.
+
+1609
+01:15:10,620 --> 01:15:13,380
+Isso é um zeitgeist de grande escala de manipulação de coisas.
+
+1610
+01:15:13,380 --> 01:15:14,420
+Eu não sei como fazer isso.
+
+1611
+01:15:14,760 --> 01:15:16,380
+Eu sou de uma única questão aqui.
+
+1612
+01:15:16,380 --> 01:15:17,600
+Pare de matar jogos!
+
+1613
+01:15:17,920 --> 01:15:18,600
+Pare.
+
+1614
+01:15:19,240 --> 01:15:19,780
+PARA!
+
+1615
+01:15:20,020 --> 01:15:20,620
+Pare.
+
+1616
+01:15:20,960 --> 01:15:23,120
+PARA! PARA! PARA!
+
+1617
+01:15:23,280 --> 01:15:23,820
+Pare.
+
+1618
+01:15:24,040 --> 01:15:25,900
+PARA! OUVIU!? PARA!
+
+1619
+01:15:26,420 --> 01:15:27,820
+PARA! PARA!
+
+1620
+01:15:48,620 --> 01:15:49,880
+Isso precisa parar!
+

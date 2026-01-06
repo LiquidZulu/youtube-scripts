@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "e contrario",
+      "targetTime": 4.087128249637787
+    },
+    {
+      "name": "self-ownership",
+      "targetTime": 6.846569993997569
+    },
+    {
+      "name": "class ethic",
+      "targetTime": 8.851214509896105
+    },
+    {
+      "name": "communist ethic",
+      "targetTime": 10.781832587781063
+    },
+    {
+      "name": "contradiction",
+      "targetTime": 13.190918213039213
+    },
+    {
+      "name": "only self ownership",
+      "targetTime": 15.973686944600555
+    },
+    {
+      "name": "end",
+      "targetTime": 19.56806529625548
+    }
+  ],
+  "seed": 2374537469
+}

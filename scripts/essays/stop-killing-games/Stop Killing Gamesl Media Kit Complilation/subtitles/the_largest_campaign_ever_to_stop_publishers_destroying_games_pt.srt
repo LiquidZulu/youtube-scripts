@@ -1,0 +1,3184 @@
+1
+00:00:00,959 --> 00:00:04,861
+Oi, eu sou o Ross
+e eu gosto de videogames.
+
+2
+00:00:04,862 --> 00:00:06,611
+Ou, de vários deles.
+
+3
+00:00:06,971 --> 00:00:08,939
+Eu também gosto
+de ser dono de coisas.
+
+4
+00:00:09,185 --> 00:00:12,363
+Sabe, coisas na minha mão
+ou na minha proximidade imediata
+
+5
+00:00:12,364 --> 00:00:13,802
+que eu uso com frequência.
+
+6
+00:00:14,164 --> 00:00:15,472
+Quando eu saio na rua
+
+7
+00:00:15,473 --> 00:00:17,478
+eu gosto como as pessoas
+geralmente não vem até mim
+
+8
+00:00:17,479 --> 00:00:19,509
+e tentam tirar as roupas
+das minhas costas
+
+9
+00:00:19,510 --> 00:00:21,835
+porque é geralmente
+entendido pela sociedade
+
+10
+00:00:21,836 --> 00:00:24,232
+que elas são minhas
+e pertecem a mim.
+
+11
+00:00:24,233 --> 00:00:26,869
+Mas veja, só em eu
+dizer essas coisas
+
+12
+00:00:26,870 --> 00:00:28,445
+nós já temos um problema.
+
+13
+00:00:28,645 --> 00:00:31,255
+É, você já deve entender
+onde estou chegando.
+
+14
+00:00:31,590 --> 00:00:34,164
+A indústria de jogos
+tem vários problemas.
+
+15
+00:00:34,165 --> 00:00:36,025
+Tipo, vários problemas.
+
+16
+00:00:36,222 --> 00:00:38,928
+Acho que as agências reguladoras
+não fazem ideia, na verdade.
+
+17
+00:00:38,929 --> 00:00:40,679
+Mas há um problema específico
+
+18
+00:00:40,680 --> 00:00:43,376
+que eu odeio faz... décadas
+
+19
+00:00:43,377 --> 00:00:45,641
+e está ficando cada vez pior.
+
+20
+00:00:45,865 --> 00:00:47,885
+E o problema é destruir jogos
+
+21
+00:00:47,886 --> 00:00:50,368
+para que ninguém jamais
+possa jogá-los de novo.
+
+22
+00:00:50,634 --> 00:00:53,210
+E não como seu irmão
+colocando o disco no micro-ondas
+
+23
+00:00:53,211 --> 00:00:55,090
+pra que a sua cópia seja destruída.
+
+24
+00:00:55,100 --> 00:00:57,117
+Quero dizer, as de todos.
+
+25
+00:00:57,494 --> 00:01:00,083
+Existe um jeito muito
+específico que isso acontece.
+
+26
+00:01:00,538 --> 00:01:03,224
+Apenas um lembrete rápido,
+pela maior parte da história dos jogos
+
+27
+00:01:03,324 --> 00:01:05,199
+isso não foi um grande problema.
+
+28
+00:01:05,399 --> 00:01:08,238
+A maioria dos jogos tem o código
+que faz interface com o hardware
+
+29
+00:01:08,399 --> 00:01:10,881
+roda o jogo,
+e a história termina aí.
+
+30
+00:01:11,081 --> 00:01:13,767
+Para jogos multiplayer online,
+é um pouco diferente.
+
+31
+00:01:13,770 --> 00:01:15,692
+onde vários antigos
+deixam os jogadores
+
+32
+00:01:15,693 --> 00:01:17,618
+hospedarem o servidor
+que roda o jogo
+
+33
+00:01:17,620 --> 00:01:19,384
+aí outras pessoas
+se conectariam a ele.
+
+34
+00:01:19,385 --> 00:01:20,813
+Ou às vezes forneciam o software
+
+35
+00:01:20,814 --> 00:01:24,202
+para tornar o servidor independente
+e se conectar a aquilo.
+
+36
+00:01:24,293 --> 00:01:26,566
+Mas com o passar do tempo
+mais e mais empresas decidiram,
+
+37
+00:01:26,567 --> 00:01:30,167
+"Ei! Em vez de deixar
+o jogador hospedar o jogo,
+
+38
+00:01:30,168 --> 00:01:32,375
+e se nós
+hospedássemos em vez disso?"
+
+39
+00:01:32,575 --> 00:01:34,541
+Bem, tem prós e contras nisso
+
+40
+00:01:34,576 --> 00:01:36,860
+mas essa abordagem pode ser válida.
+
+41
+00:01:37,708 --> 00:01:39,056
+Em teoria.
+
+42
+00:01:39,281 --> 00:01:40,554
+Mas aqui está o problema.
+
+43
+00:01:40,841 --> 00:01:43,217
+A industria de jogos
+tem um histórico horrível,
+
+44
+00:01:43,218 --> 00:01:47,098
+horrível de dar
+manutenção aos seus jogos.
+
+45
+00:01:47,298 --> 00:01:49,597
+Houve um grande estudo
+conduzido ano passado
+
+46
+00:01:49,600 --> 00:01:53,144
+mostrando que apenas
+13% de jogos distribuídos
+
+47
+00:01:53,175 --> 00:01:55,960
+ainda estão comercialmente
+disponíveis pela distribuidora.
+
+48
+00:01:56,160 --> 00:01:57,919
+Então o que acontece
+quando a distribuidora
+
+49
+00:01:57,920 --> 00:02:00,290
+assume a responsabilidade
+de rodar o jogo?
+
+50
+00:02:00,490 --> 00:02:02,476
+Bem, é geralmente muito bom
+
+51
+00:02:02,477 --> 00:02:03,676
+enquanto eles sustentam o jogo.
+
+52
+00:02:03,876 --> 00:02:06,541
+Aí quando eles param,
+é um pesadelo total
+
+53
+00:02:06,542 --> 00:02:09,256
+e é responsável por
+destruir mais jogos
+
+54
+00:02:09,257 --> 00:02:10,957
+do que qualquer outra prática.
+
+55
+00:02:11,157 --> 00:02:12,611
+Essa é uma mudança grande
+
+56
+00:02:12,811 --> 00:02:14,681
+porque a indústria está
+tentando fazer com que os usuários
+
+57
+00:02:14,682 --> 00:02:17,517
+passem de um modelo
+onde eles mantêm seus jogos
+
+58
+00:02:17,518 --> 00:02:19,741
+independentemente
+de quando o suporte termina
+
+59
+00:02:19,742 --> 00:02:22,024
+pra um onde o jogo
+morre pra sempre.
+
+60
+00:02:22,224 --> 00:02:23,224
+Não sou fã disso.
+
+61
+00:02:23,424 --> 00:02:25,499
+Pra empresas que fazem isso,
+
+62
+00:02:25,500 --> 00:02:27,963
+o número de jogos que
+sobrevivem de qualquer forma
+
+63
+00:02:27,964 --> 00:02:29,919
+sem estar disponível comercialmente
+
+64
+00:02:29,920 --> 00:02:32,295
+é bem pior que 13%.
+
+65
+00:02:32,495 --> 00:02:35,718
+Eu fiz uma investigação informal
+sobre isso alguns anos atrás
+
+66
+00:02:35,720 --> 00:02:38,327
+e descobri que está mais perto de 3%.
+
+67
+00:02:38,527 --> 00:02:42,612
+Acho que esse número
+diminuiu ainda mais desde então.
+
+68
+00:02:42,812 --> 00:02:44,010
+Do meu ponto de vista,
+
+69
+00:02:44,012 --> 00:02:46,605
+isso pareceu como um golpe lento.
+
+70
+00:02:46,805 --> 00:02:49,018
+Tirar a propriedade
+de mais e mais pessoas
+
+71
+00:02:49,020 --> 00:02:50,177
+ao longo do tempo.
+
+72
+00:02:50,188 --> 00:02:52,766
+Então as distribuidoras
+de jogos ganham bilhões
+
+73
+00:02:52,767 --> 00:02:55,419
+lhe "vendendo"
+um jogo como um produto
+
+74
+00:02:55,420 --> 00:02:57,816
+não lhe contando
+quanto tempo ele vai durar,
+
+75
+00:02:57,820 --> 00:03:00,111
+propositalmente matando
+o jogo mais tarde
+
+76
+00:03:00,112 --> 00:03:01,627
+então você fica sem nada,
+
+77
+00:03:01,628 --> 00:03:03,261
+mas eles ficam com seu dinheiro.
+
+78
+00:03:03,915 --> 00:03:06,284
+Agora, não confunda isso com locações.
+
+79
+00:03:06,484 --> 00:03:09,092
+Locações são vendidas como serviço,
+
+80
+00:03:09,093 --> 00:03:12,052
+e te dizem exatamente
+quanto tempo duram.
+
+81
+00:03:12,252 --> 00:03:15,514
+Um cliente que aluga algo é informado.
+
+82
+00:03:15,564 --> 00:03:17,831
+Distribuidoras de jogos
+não querem isso.
+
+83
+00:03:18,031 --> 00:03:19,821
+Porque eles sabem que
+se colocarem na capa
+
+84
+00:03:19,822 --> 00:03:22,507
+exatamente quanto tempo o jogo vai durar
+
+85
+00:03:22,707 --> 00:03:24,877
+então isso vai prejudicar
+bastante as vendas.
+
+86
+00:03:24,878 --> 00:03:28,330
+Então é importante reter
+essa informação do cliente.
+
+87
+00:03:28,530 --> 00:03:31,422
+Porque clientes estão
+acostumados que jogos durem...
+
+88
+00:03:32,084 --> 00:03:33,849
+Pra sempre, mais ou menos.
+
+89
+00:03:34,066 --> 00:03:37,699
+Você poderia ter comprado jogos
+dos anos 70 que ainda funcionam hoje.
+
+90
+00:03:38,024 --> 00:03:40,180
+Você poderia ter comprado
+jogos dos anos 90
+
+91
+00:03:40,181 --> 00:03:43,274
+com multiplayer online
+que conectam na internet
+
+92
+00:03:43,275 --> 00:03:44,474
+e ainda funcionam hoje.
+
+93
+00:03:44,674 --> 00:03:48,047
+Mesmo que as empresas
+que os criaram nem existam mais.
+
+94
+00:03:48,405 --> 00:03:52,917
+Mas várias distribuidoras colocam
+jogos modernos projetados para morrer
+
+95
+00:03:52,918 --> 00:03:54,470
+mas não dizem quando,
+
+96
+00:03:54,471 --> 00:03:56,955
+ao lado daqueles que
+duram para sempre
+
+97
+00:03:56,956 --> 00:03:59,836
+para que eles possam tentar
+lucrar na confusão do cliente.
+
+98
+00:04:00,036 --> 00:04:03,944
+Porque a pessoa média
+crê estar "comprando" algo.
+
+99
+00:04:04,387 --> 00:04:06,438
+Eu pessoalmente odeio essa prática
+
+100
+00:04:06,439 --> 00:04:09,161
+porque arte tem
+valor inato para mim.
+
+101
+00:04:09,680 --> 00:04:12,660
+E embora seja discutível
+se videogames são arte,
+
+102
+00:04:12,860 --> 00:04:16,282
+eles inegavelmente contém arte.
+
+103
+00:04:16,596 --> 00:04:18,787
+Então ver jogos
+destruídos, para mim,
+
+104
+00:04:18,788 --> 00:04:21,558
+é como se alguém
+entrasse num museu de arte
+
+105
+00:04:21,559 --> 00:04:23,514
+e começasse a incendiar as pinturas.
+
+106
+00:04:23,714 --> 00:04:26,265
+E para piorar as coisas,
+as empresas que fazem isso
+
+107
+00:04:26,266 --> 00:04:27,808
+não enfrentam nenhuma penalidade.
+
+108
+00:04:28,008 --> 00:04:31,716
+Nem existe uma boa razão
+para eles fazerem isso.
+
+109
+00:04:31,916 --> 00:04:33,977
+Não vou entrar em detalhes aqui
+
+110
+00:04:33,978 --> 00:04:38,829
+e você pode ouvir desculpas do por que
+empresas precisam destruir seus jogos
+
+111
+00:04:39,029 --> 00:04:41,963
+apesar de que em grande parte
+eles não precisavam fazer isso
+
+112
+00:04:41,964 --> 00:04:44,460
+até para jogos multiplayer online.
+
+113
+00:04:44,660 --> 00:04:48,364
+Mas eu descobri que as pessoas que
+falam isso tendem a ser desinformadas
+
+114
+00:04:48,365 --> 00:04:51,243
+ou então
+incrivelmente sem imaginação
+
+115
+00:04:51,244 --> 00:04:53,442
+e só conseguem enxergar
+as coisas de um jeito.
+
+116
+00:04:53,642 --> 00:04:56,424
+Quando pedirmos as
+panquecas vão trazer xarope.
+
+117
+00:04:56,425 --> 00:04:59,079
+O xarope é pra estar
+na mesa antes das panquecas.
+
+118
+00:04:59,357 --> 00:05:02,339
+Quando trouxerem o xarope depois
+das panquecas vai ser tarde demais.
+
+119
+00:05:03,117 --> 00:05:05,166
+Tarde demais como,
+hein Rey?
+
+120
+00:05:05,366 --> 00:05:09,923
+É, conversar com gente que defende
+essa prática faz parecer isso.
+
+121
+00:05:10,727 --> 00:05:14,119
+Isso me lembra de quando a Microsoft
+foi processada pelo Departamento de Justiça
+
+122
+00:05:14,120 --> 00:05:16,869
+por incluir
+o Internet Explorer com o Windows
+
+123
+00:05:16,870 --> 00:05:21,357
+e a Microsoft alegou que era
+impossível separá-lo do Windows 98
+
+124
+00:05:21,358 --> 00:05:25,299
+apesar de não estar incluído
+no Windows 95 no lançamento
+
+125
+00:05:25,300 --> 00:05:27,143
+e com o poder da retrospectiva,
+
+126
+00:05:27,144 --> 00:05:30,235
+eles de fato removeram
+do Windows anos depois.
+
+127
+00:05:30,435 --> 00:05:32,508
+Então era possível antes,
+
+128
+00:05:32,509 --> 00:05:34,590
+é possível no futuro,
+
+129
+00:05:34,591 --> 00:05:37,137
+mas é impossível agora
+
+130
+00:05:37,138 --> 00:05:40,186
+porque uma empresa gastou
+muito tempo tentando dificultar?
+
+131
+00:05:40,701 --> 00:05:43,944
+Essa é uma analogia tão boa
+para o que está acontecendo com jogos.
+
+132
+00:05:44,144 --> 00:05:45,144
+Você não tem ideia.
+
+133
+00:05:45,344 --> 00:05:47,518
+De qualquer forma, não importa
+de que ângulo se olhe
+
+134
+00:05:47,519 --> 00:05:51,260
+este é um ataque tão óbvio
+aos direitos do consumidor.
+
+135
+00:05:51,460 --> 00:05:55,273
+E em qualquer outra indústria,
+uma empresa destruindo o que lhe venderam
+
+136
+00:05:55,274 --> 00:05:56,342
+seria ilegal.
+
+137
+00:05:56,916 --> 00:05:59,838
+Se ao menos houvesse algo
+que pudéssemos fazer a respeito.
+
+138
+00:06:00,016 --> 00:06:05,059
+Bem, acontece que temos
+a melhor oportunidade de todas
+
+139
+00:06:05,084 --> 00:06:06,766
+de tomar uma atitude sobre isso.
+
+140
+00:06:07,012 --> 00:06:09,301
+Alguns meses atrás,
+a empresa Ubisoft
+
+141
+00:06:09,302 --> 00:06:12,496
+anunciou que iria encerrar um jogo
+desse tipo chamado "The Crew".
+
+142
+00:06:12,696 --> 00:06:16,323
+Eu acho que The Crew é
+um jogo com falhas, porém notável,
+
+143
+00:06:16,324 --> 00:06:17,928
+mas nada disso importa.
+
+144
+00:06:18,128 --> 00:06:21,606
+O que importa é que ele teve
+ao menos 12 millhões de jogadores,
+
+145
+00:06:21,689 --> 00:06:23,442
+então isso afeta
+muitas pessoas.
+
+146
+00:06:23,477 --> 00:06:26,228
+E a Ubisoft é sediada na França.
+
+147
+00:06:26,312 --> 00:06:29,983
+E a França tem uma das leis do consumidor
+mais rigorosas do mundo.
+
+148
+00:06:29,984 --> 00:06:33,913
+Entenda, isso não se trata
+do The Crew ao até mesmo da Ubisoft.
+
+149
+00:06:33,914 --> 00:06:36,806
+Trata-se de achar
+um elo fraco na indústria
+
+150
+00:06:36,807 --> 00:06:38,882
+para que governos
+examinem essa prática
+
+151
+00:06:38,883 --> 00:06:41,596
+para impedir distribuidoras
+de destruírem nossos jogos.
+
+152
+00:06:41,796 --> 00:06:44,055
+Fora dos Estados Unidos,
+
+153
+00:06:44,056 --> 00:06:47,042
+essa prática é legalmente muito vaga.
+
+154
+00:06:47,242 --> 00:06:50,107
+Muitos governos nem sequer
+têm leis a respeito disso.
+
+155
+00:06:50,307 --> 00:06:52,280
+Não estou brincando.
+Mais sobre isso adiante.
+
+156
+00:06:52,638 --> 00:06:56,631
+Se encontrarmos apenas um país
+importante que penaliza essa prática,
+
+157
+00:06:56,632 --> 00:06:58,550
+isso pode resolver tudo.
+
+158
+00:06:58,750 --> 00:07:01,361
+Porque o lance sobre
+deixar você ficar com seu jogo
+
+159
+00:07:01,362 --> 00:07:04,934
+é que nem é tão custoso
+para empresas fazerem.
+
+160
+00:07:04,935 --> 00:07:07,968
+especialmente se for
+um requisito conhecido desde o início.
+
+161
+00:07:07,978 --> 00:07:09,647
+Aí é quase insignificante.
+
+162
+00:07:10,086 --> 00:07:14,116
+Então se uma empresa sabe que é preciso
+deixar você ficar com seu jogo em um país,
+
+163
+00:07:14,117 --> 00:07:16,211
+então eles podem muito bem
+tornar isso uma política global
+
+164
+00:07:16,212 --> 00:07:18,037
+porque já teriam feito o trabalho.
+
+165
+00:07:18,237 --> 00:07:21,651
+Realmente só precisaria
+de uma vitória para acabar com isso.
+
+166
+00:07:21,871 --> 00:07:24,358
+Então mesmo que você
+não se interesse pelo The Crew
+
+167
+00:07:24,359 --> 00:07:27,045
+se você quer apenas ficar com seus jogos
+
+168
+00:07:27,245 --> 00:07:29,196
+continue assistindo, tem mais.
+
+169
+00:07:29,403 --> 00:07:33,412
+Saber sobre esse encerramento
+me fez embarcar numa Odisséia de pesquisa,
+
+170
+00:07:33,413 --> 00:07:36,732
+para descobrir se eu poderia
+achar qualquer jeito de fazer os governos
+
+171
+00:07:36,733 --> 00:07:39,922
+examinar a legalidade
+de destruir seus jogos.
+
+172
+00:07:40,122 --> 00:07:43,356
+Eu estive esperando
+uma oportunidade como essa.
+
+173
+00:07:43,556 --> 00:07:45,953
+Esse problema tem acontecido há décadas,
+
+174
+00:07:45,954 --> 00:07:49,133
+mas geralmente só afeta
+uma minoria dos jogadores
+
+175
+00:07:49,134 --> 00:07:51,123
+que são dispersos demais
+para fazer muita coisa.
+
+176
+00:07:51,124 --> 00:07:53,162
+A maioria segue em frente
+quando um jogo morre,
+
+177
+00:07:53,163 --> 00:07:55,518
+e a indústria tem contado
+com essa letargia.
+
+178
+00:07:55,523 --> 00:07:58,644
+Então um evento grande o bastante
+como este para fazer algo
+
+179
+00:07:58,649 --> 00:08:00,557
+é como os planetas se alinhando.
+
+180
+00:08:00,558 --> 00:08:02,221
+Precisamos tomar uma ação nisso.
+
+181
+00:08:02,605 --> 00:08:05,419
+Eu não acho que sou
+a pessoa ideal para fazer isso.
+
+182
+00:08:05,619 --> 00:08:07,473
+Eu não sou um especialista jurídico,
+
+183
+00:08:07,474 --> 00:08:09,161
+tenho alcance limitado,
+
+184
+00:08:09,361 --> 00:08:12,743
+Honestamente, tudo que fiz
+a respeito foi um esforço amador.
+
+185
+00:08:12,943 --> 00:08:14,892
+Eu nem queria estar fazendo isso.
+
+186
+00:08:14,897 --> 00:08:17,001
+Mas se você se importa com esse problema,
+
+187
+00:08:17,145 --> 00:08:18,462
+eu sou tudo que você têm.
+
+188
+00:08:18,463 --> 00:08:20,354
+Porque ninguém mais tomou a iniciativa.
+
+189
+00:08:20,554 --> 00:08:23,178
+E eu acho que tem uma coisa
+
+190
+00:08:23,179 --> 00:08:25,076
+que me torna
+um bom candidato pra isso.
+
+191
+00:08:25,406 --> 00:08:28,310
+Pelo menos comigo, você está
+recebendo determinação máxima.
+
+192
+00:08:28,698 --> 00:08:31,544
+Eu tenho décadas de ressentimento
+sobre esse problema.
+
+193
+00:08:32,059 --> 00:08:35,176
+Sabe quando um cachorro está comendo
+e alguém arranca a tigela de comida?
+
+194
+00:08:35,265 --> 00:08:38,199
+Até cachorros mansos ficam
+com raiva ou até atacam.
+
+195
+00:08:38,399 --> 00:08:40,701
+É como eu me sinto sobre
+a indústria nesse assunto.
+
+196
+00:08:40,901 --> 00:08:42,876
+Desde que eu comecei essa campanha,
+
+197
+00:08:42,886 --> 00:08:44,980
+eu gastei centenas de horas nela.
+
+198
+00:08:45,130 --> 00:08:46,826
+Falei com vários advogados
+
+199
+00:08:46,836 --> 00:08:49,416
+trabalhei com mais de 100 voluntários
+
+200
+00:08:49,616 --> 00:08:52,146
+enviei centenas e centenas
+de e-mails
+
+201
+00:08:52,343 --> 00:08:55,352
+tentando perseguir
+cada pista que pude achar.
+
+202
+00:08:55,473 --> 00:08:57,529
+Eu fui implacável nisso.
+
+203
+00:08:58,052 --> 00:08:59,375
+E eu também senti isso.
+
+204
+00:09:00,076 --> 00:09:02,355
+No trailer do jogo "Yes, Your Grace",
+
+205
+00:09:02,555 --> 00:09:05,154
+o rei ouve tantos pedidos dos súditos
+
+206
+00:09:05,159 --> 00:09:07,569
+que em certo ponto ele desmaia com tudo.
+
+207
+00:09:07,769 --> 00:09:10,179
+Sim, é exatamente essa a sensação.
+
+208
+00:09:10,593 --> 00:09:13,059
+E depois de meses de pesquisa,
+
+209
+00:09:13,492 --> 00:09:16,362
+sim, eu achei maneiras
+de fazermos algo.
+
+210
+00:09:16,646 --> 00:09:19,646
+Não apenas chances remotas,
+mas rotas viáveis.
+
+211
+00:09:20,403 --> 00:09:23,897
+Encontrei o que considero serem
+todas as agências do mundo
+
+212
+00:09:24,057 --> 00:09:26,484
+melhor equipadas para
+tomarem ações nesse problema.
+
+213
+00:09:26,630 --> 00:09:28,710
+Eu também achei becos-sem-saída.
+
+214
+00:09:28,790 --> 00:09:30,670
+Vários becos-sem-saída.
+
+215
+00:09:30,763 --> 00:09:32,457
+Na verdade, encontrei tantos
+
+216
+00:09:32,523 --> 00:09:35,150
+que se soubesse antes
+o que sei agora
+
+217
+00:09:35,203 --> 00:09:37,630
+Eu teria poupado ao menos
+um mês de trabalho.
+
+218
+00:09:38,137 --> 00:09:40,617
+Como eu disse, esse é
+um esforço amador.
+
+219
+00:09:40,870 --> 00:09:43,697
+Então tento compensar com
+ainda mais determinação.
+
+220
+00:09:44,243 --> 00:09:47,097
+E por estar tratando isso
+como minha única chance,
+
+221
+00:09:47,207 --> 00:09:49,040
+porque provavelmente é,
+
+222
+00:09:49,140 --> 00:09:51,440
+eu não vou parar
+no The Crew.
+
+223
+00:09:51,773 --> 00:09:54,223
+Lembre-se, o The Crew
+é apenas um meio para um fim,
+
+224
+00:09:54,271 --> 00:09:57,788
+que é impedir empresas
+de destruir seus jogos.
+
+225
+00:09:57,899 --> 00:10:01,283
+Então ao invés de apenas fazer
+o governo interpretar a lei,
+
+226
+00:10:01,413 --> 00:10:04,177
+eu imaginei, "por quê não ir
+até a fonte já que estamos aqui?".
+
+227
+00:10:04,440 --> 00:10:06,594
+Então além da ação do consumidor,
+
+228
+00:10:06,640 --> 00:10:09,320
+também buscamos petições governamentais.
+
+229
+00:10:09,420 --> 00:10:12,320
+Peraí, eu sei o que alguns
+de vocês estão pensando.
+
+230
+00:10:12,373 --> 00:10:14,666
+Essas não são petições normais,
+
+231
+00:10:14,725 --> 00:10:17,969
+onde você faz várias pessoas assinarem,
+pra mostrar que "as pessoas se importam!"
+
+232
+00:10:18,016 --> 00:10:20,096
+e esperar que as empresas
+façam a coisa certa?
+
+233
+00:10:20,263 --> 00:10:23,110
+Qual é gente, me dêem mais
+crédito do que isso.
+
+234
+00:10:23,642 --> 00:10:26,068
+Não, estas são iniciativas governamentais
+
+235
+00:10:26,135 --> 00:10:30,161
+Onde ao ultrapassarmos certos limites
+o governo tem que responder.
+
+236
+00:10:30,187 --> 00:10:31,373
+É a lei.
+
+237
+00:10:31,470 --> 00:10:35,490
+E algumas delas são
+"quase garantidas" de serem debatidas.
+
+238
+00:10:35,710 --> 00:10:37,223
+Pois é, veremos.
+
+239
+00:10:37,300 --> 00:10:39,520
+Mas é assim que várias leis são criadas.
+
+240
+00:10:39,888 --> 00:10:42,334
+Então, o que tem nessas petições?
+
+241
+00:10:42,628 --> 00:10:46,114
+Varia de país pra país,
+já que todos tem regras diferentes
+
+242
+00:10:46,170 --> 00:10:48,470
+mas todos tem os mesmos princípios.
+
+243
+00:10:48,550 --> 00:10:51,243
+Eu tentei traçar as propostas
+mais justas possível
+
+244
+00:10:51,283 --> 00:10:52,970
+que ainda resolvem o problema.
+
+245
+00:10:53,210 --> 00:10:54,937
+Lembrem-se disso, pessimistas.
+
+246
+00:10:54,962 --> 00:10:58,398
+Estou tentando resolver
+o problema.
+
+247
+00:10:59,122 --> 00:11:02,956
+Mas também estou tentando manter
+o escopo o mais estreito possível.
+
+248
+00:11:03,056 --> 00:11:05,629
+Eu não estou tentando reformar
+a indústria dos jogos.
+
+249
+00:11:05,806 --> 00:11:09,028
+Estou APENAS tentando impedir
+empresas de destruir jogos
+
+250
+00:11:09,053 --> 00:11:10,276
+que foram vendidos a você.
+
+251
+00:11:10,346 --> 00:11:11,506
+Só isso.
+
+252
+00:11:11,606 --> 00:11:13,739
+Então, com isso em mente...
+
+253
+00:11:13,782 --> 00:11:15,749
+Enquanto o jogo recebe suporte,
+
+254
+00:11:15,789 --> 00:11:16,822
+qualquer jogo,
+
+255
+00:11:16,847 --> 00:11:18,409
+absolutamente nada aconteceria.
+
+256
+00:11:18,467 --> 00:11:20,541
+As empresas podem fazer
+o que quisessem.
+
+257
+00:11:20,587 --> 00:11:22,314
+Vamos agir com cautela.
+
+258
+00:11:22,381 --> 00:11:25,787
+É apenas quando o suporte acaba
+que os requisitos entrariam em ação.
+
+259
+00:11:25,818 --> 00:11:28,065
+O primeiro é que qualquer jogo vendido
+
+260
+00:11:28,105 --> 00:11:31,038
+ou licenciado, para aqueles
+de vocês que querem ser pedantes,
+
+261
+00:11:31,130 --> 00:11:33,702
+seria obrigado a ser deixado
+em um estado funcional
+
+262
+00:11:33,727 --> 00:11:35,259
+quando o suporte terminar.
+
+263
+00:11:35,308 --> 00:11:38,329
+Isso não significa em um
+estado 100% funcional,
+
+264
+00:11:38,370 --> 00:11:41,267
+mas significa muito melhor
+que completamente inoperável.
+
+265
+00:11:41,372 --> 00:11:44,782
+Também não exigiria nenhuma
+conexão com a distribuidora
+
+266
+00:11:44,813 --> 00:11:47,905
+ou terceiros afiliados para que
+continuasse funcionando.
+
+267
+00:11:47,932 --> 00:11:50,593
+Então precisaria ser
+atualizado para ficar offline
+
+268
+00:11:50,594 --> 00:11:52,315
+ou ter apenas
+hospedagem privada.
+
+269
+00:11:52,361 --> 00:11:53,707
+É o único jeito.
+
+270
+00:11:53,774 --> 00:11:55,874
+Menos que isso, e o jogo morre.
+
+271
+00:11:55,913 --> 00:12:00,153
+E sim, isso inclui DRM que
+precisa conectar a internet.
+
+272
+00:12:00,254 --> 00:12:02,983
+E porque estou sendo forçado
+a passar por todo esse trabalho,
+
+273
+00:12:03,008 --> 00:12:05,129
+eu realmente quero acabar com isso.
+
+274
+00:12:05,168 --> 00:12:08,830
+Isso também se aplicaria a jogos
+com microtransações.
+
+275
+00:12:08,899 --> 00:12:12,672
+Exceto que não dissemos "microtransações",
+já que a petição estava em inglês simples.
+
+276
+00:12:12,727 --> 00:12:15,220
+Então isso cobriria
+jogos gratuitos para jogar,
+
+277
+00:12:15,253 --> 00:12:18,177
+porque se lhe venderam
+algo tipo um cavalo virtual
+
+278
+00:12:18,202 --> 00:12:20,363
+Mas aí a distribuidora destrói o jogo,
+
+279
+00:12:20,403 --> 00:12:22,701
+bem, agora você não pode
+acessar seu cavalo.
+
+280
+00:12:23,602 --> 00:12:28,179
+Me disseram que "posse mansa e pacífica"
+é o termo para o que estou falando.
+
+281
+00:12:28,369 --> 00:12:29,409
+E finalmente,
+
+282
+00:12:29,434 --> 00:12:31,448
+Estas regras não podem ser sobrepujadas
+
+283
+00:12:31,473 --> 00:12:33,339
+por acordos de licença do usuário final,
+
+284
+00:12:33,364 --> 00:12:37,513
+já que é assim que empresas têm
+se safado com a extorsão desde o início.
+
+285
+00:12:37,542 --> 00:12:39,044
+Especialmente nos Estados Unidos.
+
+286
+00:12:39,092 --> 00:12:43,946
+Não adianta ter direitos se você
+os renuncia só para jogar um jogo.
+
+287
+00:12:44,132 --> 00:12:47,536
+Alguns de vocês devem estar
+zombando da proposta agora mesmo.
+
+288
+00:12:47,564 --> 00:12:50,302
+Mas apenas lembrem do
+Internet Explorer, pessoal.
+
+289
+00:12:50,327 --> 00:12:52,128
+Era "impossível!".
+
+290
+00:12:52,515 --> 00:12:54,613
+E é isso, basicamente.
+
+291
+00:12:54,707 --> 00:12:56,753
+Uma coisa que deixamos de fora
+
+292
+00:12:56,778 --> 00:13:00,158
+mas é um segredo aberto no qual
+estaríamos dispostos a fazer concessões,
+
+293
+00:13:00,237 --> 00:13:01,884
+ou pelo menos eu estaria,
+
+294
+00:13:02,023 --> 00:13:04,489
+seria se uma empresa
+não consertasse o jogo
+
+295
+00:13:04,557 --> 00:13:07,554
+mas fornecessem todas
+informações, ferramentas,
+
+296
+00:13:07,593 --> 00:13:09,664
+software e assim por diante
+para que um programador
+
+297
+00:13:09,689 --> 00:13:12,431
+possa plausivelmente fazer
+funcionar novamente?
+
+298
+00:13:12,569 --> 00:13:14,929
+Sim, essa é uma
+substituição aceitável.
+
+299
+00:13:14,993 --> 00:13:18,680
+Contudo, o ressentimento de outros
+que ajudaram nisso foi forte.
+
+300
+00:13:18,760 --> 00:13:22,300
+E eles não confiam que empresas
+não abusariam dessa provisão.
+
+301
+00:13:22,367 --> 00:13:23,941
+E eles pode estar certos.
+
+302
+00:13:24,014 --> 00:13:25,921
+Então deixamos isso
+de fora da proposta.
+
+303
+00:13:25,970 --> 00:13:29,104
+Também deixamos de fora aplicar
+isso a todos os softwares
+
+304
+00:13:29,137 --> 00:13:32,030
+e restringimos apenas para videogames.
+
+305
+00:13:32,114 --> 00:13:33,448
+Não entenda mal.
+
+306
+00:13:33,551 --> 00:13:37,198
+Pessoalmente eu acredito que todo software
+comercial deve ter essas provisões.
+
+307
+00:13:37,319 --> 00:13:40,532
+Mas essa já é uma batalha tão difícil
+
+308
+00:13:40,625 --> 00:13:44,524
+que expandir o escopo traria
+vários outros inimigos,
+
+309
+00:13:44,549 --> 00:13:46,020
+enfraquecendo nossas chances.
+
+310
+00:13:46,059 --> 00:13:46,788
+Lembre-se,
+
+311
+00:13:46,836 --> 00:13:48,800
+eu sou da política
+de questão única.
+
+312
+00:13:49,262 --> 00:13:51,815
+O ponto é, mesmo que você
+nem tenha o jogo The Crew
+
+313
+00:13:51,933 --> 00:13:53,722
+você ainda pode fazer algo
+
+314
+00:13:53,752 --> 00:13:56,485
+se voce mora num dos países
+onde a petição será lançada.
+
+315
+00:13:56,552 --> 00:13:58,631
+Esse é um ataque multifacetado.
+
+316
+00:13:58,778 --> 00:14:00,817
+Eu tenho "multifaquetas" pra todo mundo!
+
+317
+00:14:01,376 --> 00:14:03,760
+Bem, não. Mas para várias pessoas.
+
+318
+00:14:04,199 --> 00:14:05,510
+É complicado.
+
+319
+00:14:05,672 --> 00:14:09,369
+Lembra um tempo atrás quando tinham
+tantas versões do Watch Dogs à venda
+
+320
+00:14:09,396 --> 00:14:12,404
+que alguém fez uma planilha
+sobre como comprar o jogo?
+
+321
+00:14:12,458 --> 00:14:14,213
+Não é tão ruim assim,
+
+322
+00:14:14,267 --> 00:14:16,371
+mas tem muitas variáveis.
+
+323
+00:14:16,665 --> 00:14:20,156
+Descobri que as possibilidades variam
+dependendo de onde a pessoa mora
+
+324
+00:14:20,181 --> 00:14:22,025
+e se eles tem o jogo
+The Crew ou não.
+
+325
+00:14:22,208 --> 00:14:24,567
+Mas mesmo assim
+ainda pode ser confuso.
+
+326
+00:14:24,731 --> 00:14:29,838
+Então tive como prioridade tornar isso
+o mais fácil possível pra todos.
+
+327
+00:14:30,219 --> 00:14:32,513
+Com isso em mente,
+trabalhei com voluntários
+
+328
+00:14:32,538 --> 00:14:34,669
+para lançar um website
+que faz justamente isso.
+
+329
+00:14:34,934 --> 00:14:37,219
+stopkillinggames.com
+
+330
+00:14:37,709 --> 00:14:39,642
+Espero que você consiga
+lembrar desse nome.
+
+331
+00:14:40,186 --> 00:14:42,216
+Tem os dois G's um após o outro.
+
+332
+00:14:42,241 --> 00:14:43,719
+Isso pode confundir alguém.
+
+333
+00:14:43,971 --> 00:14:45,362
+É um website multilíngue
+
+334
+00:14:45,387 --> 00:14:48,408
+que facilmente o direciona
+exatamente aonde deve ir
+
+335
+00:14:48,433 --> 00:14:49,867
+para ter o máximo de impacto.
+
+336
+00:14:50,099 --> 00:14:52,122
+Algumas pessoas podem
+fazer várias coisas.
+
+337
+00:14:52,192 --> 00:14:54,952
+Então tentei até priorizar
+um pouco suas opções.
+
+338
+00:14:55,193 --> 00:14:58,789
+Na verdade, você pode até parar
+de assistir e ir aqui se quiser.
+
+339
+00:14:58,876 --> 00:15:01,929
+Não tem mais nada que você
+precise saber que não está no site.
+
+340
+00:15:02,024 --> 00:15:05,442
+Nós abrimos o caminho
+para você revidar contra a indústria.
+
+341
+00:15:05,510 --> 00:15:07,154
+Você só precisa
+seguir o caminho.
+
+342
+00:15:07,198 --> 00:15:09,020
+Fizemos as partes
+difíceis por você.
+
+343
+00:15:09,472 --> 00:15:12,178
+As pessoas podem reclamar
+da indústria de jogos,
+
+344
+00:15:12,254 --> 00:15:15,595
+mas a realidade é que
+comentários não significam nada.
+
+345
+00:15:15,698 --> 00:15:17,505
+Nenhum dos seus comentários importa.
+
+346
+00:15:17,541 --> 00:15:20,334
+A não ser que um
+oficial do governo os leia.
+
+347
+00:15:20,446 --> 00:15:22,120
+É isso que isso é.
+
+348
+00:15:22,209 --> 00:15:24,801
+Na verdade, se você se perdeu
+com alguma coisa que eu disse,
+
+349
+00:15:24,846 --> 00:15:26,105
+Isso é tudo que você precisa lembrar.
+
+350
+00:15:26,193 --> 00:15:27,978
+Registre uma reclamação se puder.
+
+351
+00:15:28,062 --> 00:15:29,877
+Assine as petições se puder.
+
+352
+00:15:29,907 --> 00:15:31,499
+Faça outros fazerem o passo 1 e 2.
+
+353
+00:15:31,564 --> 00:15:34,334
+E você pode fazer isso em
+stopkillinggames.com.
+
+354
+00:15:34,376 --> 00:15:36,183
+Só isso. Isso é tudo.
+
+355
+00:15:36,329 --> 00:15:39,428
+Pode ignorar todo o resto
+como um mestre Zen
+
+356
+00:15:39,453 --> 00:15:40,797
+se você sabe essas três coisas.
+
+357
+00:15:40,957 --> 00:15:43,848
+Talvez você pense que estou
+exagerando o que podemos fazer.
+
+358
+00:15:43,992 --> 00:15:46,434
+Bom, que tal julgar por si mesmo?
+
+359
+00:15:46,559 --> 00:15:48,819
+Já que ninguém mais tomou
+a iniciativa nesse problema,
+
+360
+00:15:48,849 --> 00:15:51,869
+eu assumi o comando para
+bancar o general nesse ataque.
+
+361
+00:15:52,016 --> 00:15:54,556
+Então, quer ver meus planos de batalha?
+
+362
+00:15:54,643 --> 00:15:56,543
+Vou te mostrar meus planos de batalha.
+
+363
+00:15:56,622 --> 00:15:58,342
+Isso pode levar um tempinho.
+
+364
+00:15:58,515 --> 00:16:00,407
+Ok, Ross do futuro aqui.
+
+365
+00:16:00,488 --> 00:16:01,861
+Más notícias.
+
+366
+00:16:01,896 --> 00:16:04,136
+Como eu disse, esse é
+um esforço amador
+
+367
+00:16:04,180 --> 00:16:07,173
+então mesmo que algumas
+das petições foram enviadas semanas atrás,
+
+368
+00:16:07,263 --> 00:16:08,823
+na hora dessa gravação
+
+369
+00:16:08,889 --> 00:16:12,349
+ainda estamos esperando que
+todas abram para assinatura.
+
+370
+00:16:12,437 --> 00:16:14,276
+Então cá estou eu fazendo
+um vídeo de hype
+
+371
+00:16:14,301 --> 00:16:16,222
+e direcionar pessoas ao lugar certo
+
+372
+00:16:16,247 --> 00:16:17,746
+e elas ainda não estão prontas.
+
+373
+00:16:17,821 --> 00:16:21,488
+Elas não foram rejeitadas,
+estamos esperando os governos.
+
+374
+00:16:21,604 --> 00:16:23,926
+Isso é um pesadelo para mim.
+
+375
+00:16:23,984 --> 00:16:24,975
+Fazer o quê?
+
+376
+00:16:25,042 --> 00:16:26,614
+Vamos seguir adiante assim mesmo.
+
+377
+00:16:26,726 --> 00:16:29,372
+Temos links para onde
+elas vão aparecer,
+
+378
+00:16:29,400 --> 00:16:30,572
+então já é alguma coisa.
+
+379
+00:16:31,980 --> 00:16:34,241
+OK, planos de batalha.
+
+380
+00:16:34,326 --> 00:16:38,592
+Antes de entrar em regiões,
+a primeira opção é mundial.
+
+381
+00:16:38,655 --> 00:16:42,710
+E é disponível para
+qualquer um que possua o The Crew.
+
+382
+00:16:42,809 --> 00:16:44,381
+Sim, qualquer um.
+
+383
+00:16:44,456 --> 00:16:47,001
+Não está feliz que eu
+esclareci os becos-sem-saída?
+
+384
+00:16:47,058 --> 00:16:50,919
+Mas tem uma falha crítica
+que não pode ser evitada.
+
+385
+00:16:51,006 --> 00:16:56,007
+A opção para os donos
+do jogo é contatar a DGCCRF,
+
+386
+00:16:56,054 --> 00:16:58,566
+a agência nacional de
+proteção do consumidor da França.
+
+387
+00:16:58,643 --> 00:17:00,465
+Você passa por esse site aqui.
+
+388
+00:17:00,552 --> 00:17:03,497
+Eles aceitam reclamações em todo mundo.
+
+389
+00:17:03,564 --> 00:17:05,064
+Mas há um porém.
+
+390
+00:17:05,097 --> 00:17:09,319
+A condição é que eles querem
+que todos contatem a Ubisoft primeiro.
+
+391
+00:17:09,353 --> 00:17:12,808
+Isso significa que todos devem
+entrar em contato com o suporte da Ubisoft
+
+392
+00:17:12,872 --> 00:17:14,794
+mandá-los consertar o jogo
+
+393
+00:17:14,858 --> 00:17:17,147
+aí, quando a Ubisoft se recusar,
+
+394
+00:17:17,172 --> 00:17:19,072
+ou duas semanas terem passado,
+
+395
+00:17:19,157 --> 00:17:21,371
+aí você pode entrar
+em contato com a França.
+
+396
+00:17:21,478 --> 00:17:23,371
+Esse é um grande contratempo
+
+397
+00:17:23,396 --> 00:17:27,480
+porque os gamers não são conhecidos
+por suas grandes capacidades de atenção.
+
+398
+00:17:27,557 --> 00:17:32,016
+Pedir que esperem até 2 semanas
+antes de dar um segundo passo
+
+399
+00:17:32,041 --> 00:17:33,516
+pode nos arruinar.
+
+400
+00:17:33,568 --> 00:17:36,689
+Talvez esteja pedindo
+o impossível aqui, não sei.
+
+401
+00:17:36,812 --> 00:17:39,429
+Isso pode ser exatamente o
+porquê a indústria dos jogos
+
+402
+00:17:39,454 --> 00:17:42,012
+conseguiu se safar dessa
+porcaria por tanto tempo.
+
+403
+00:17:42,040 --> 00:17:44,960
+Porque ninguém tem a capacidade
+de concentração para o segundo passo.
+
+404
+00:17:45,013 --> 00:17:47,577
+Mas alguns de vocês
+conseguirão, eu sei disso.
+
+405
+00:17:47,641 --> 00:17:48,650
+Alguns.
+
+406
+00:17:48,703 --> 00:17:52,232
+Mas vamos olhar o resto
+da campanha, porque eu não vou parar aí.
+
+407
+00:17:52,257 --> 00:17:53,163
+Meu Deus, não.
+
+408
+00:17:53,216 --> 00:17:58,182
+Mas lembre, tudo que vou mostrar
+pode ser feito além do passo mundial.
+
+409
+00:17:58,218 --> 00:18:00,104
+Não precisa escolher um ou outro.
+
+410
+00:18:00,200 --> 00:18:02,813
+E com isso, vamos começar
+pela periferia,
+
+411
+00:18:02,838 --> 00:18:03,800
+a Austrália.
+
+412
+00:18:03,903 --> 00:18:06,523
+A Austrália tem um ataque em duas frentes.
+
+413
+00:18:06,631 --> 00:18:10,945
+Primeiro, se você tem o The Crew,
+pode registrar uma reclamação na ACCC.
+
+414
+00:18:10,973 --> 00:18:12,773
+E eles podem fazer algo.
+
+415
+00:18:12,819 --> 00:18:16,892
+Houve uma notícia pouco atrás sobre
+eles agindo contra a indústria dos jogos.
+
+416
+00:18:16,955 --> 00:18:21,128
+Pelo amor de Deus, precisamos
+dar um jeito de pegar carona nisso.
+
+417
+00:18:21,166 --> 00:18:24,643
+Não vá atrás deles e ignore os jogos
+de compradores sendo destruídos.
+
+418
+00:18:24,668 --> 00:18:26,570
+Não faça isso comigo, Austrália.
+
+419
+00:18:26,632 --> 00:18:27,734
+Mas além disso,
+
+420
+00:18:27,759 --> 00:18:31,247
+a Austrália também é a primeira
+das nossas petições governamentais!
+
+421
+00:18:31,309 --> 00:18:34,058
+E qualquer um na Austrália pode assinar,
+
+422
+00:18:34,089 --> 00:18:35,740
+não só que tem o The Crew.
+
+423
+00:18:35,777 --> 00:18:37,988
+E honestamente, vocês precisam se apressar.
+
+424
+00:18:38,013 --> 00:18:41,128
+Porque quando aprovada,
+só teremos uma janela de 4 semanas.
+
+425
+00:18:41,197 --> 00:18:44,992
+Exceto que ainda não está pronta,
+mesmo que tenha sido registrada.
+
+426
+00:18:45,077 --> 00:18:48,790
+Eles nos dão um período pequeno,
+mas não dizem quando começa.
+
+427
+00:18:48,909 --> 00:18:50,130
+Ah, meu Deus.
+
+428
+00:18:50,223 --> 00:18:53,464
+O lado bom é que precisamos que
+apenas 50 australianos assinem,
+
+429
+00:18:53,492 --> 00:18:54,615
+mas isso não é nada.
+
+430
+00:18:54,666 --> 00:18:57,635
+Se aparecermos com 50,
+eles podem não levar a sério.
+
+431
+00:18:57,855 --> 00:19:00,860
+Eu prefiro chegar com 50 mil.
+
+432
+00:19:00,953 --> 00:19:03,394
+É como dizia uma sábia propaganda de jogos,
+
+433
+00:19:03,492 --> 00:19:05,743
+"Não há morte como a morte exagerada".
+
+434
+00:19:06,020 --> 00:19:09,425
+Esse é o elemento mais sensível
+ao tempo de toda a operação.
+
+435
+00:19:09,509 --> 00:19:11,498
+Assine assim que possível.
+
+436
+00:19:11,768 --> 00:19:13,183
+Ross do futuro novamente.
+
+437
+00:19:13,218 --> 00:19:17,197
+Acabei de saber do governo
+australiano que a petição está boa,
+
+438
+00:19:17,240 --> 00:19:20,168
+mas que não podem abrir
+para assinatura até 22 de Abril
+
+439
+00:19:20,230 --> 00:19:21,593
+ou talvez 15 de Maio.
+
+440
+00:19:21,663 --> 00:19:22,672
+Eles não sabem.
+
+441
+00:19:22,772 --> 00:19:26,824
+Então eles nem conseguem se ater ao prazo
+de 4 semanas que estão nos exigindo.
+
+442
+00:19:26,998 --> 00:19:28,706
+Mas que diabos, Austrália?
+
+443
+00:19:29,380 --> 00:19:32,093
+Seguindo adiante, agora temos o Brasil.
+
+444
+00:19:32,336 --> 00:19:35,336
+O Brasil é a incógnita nisso tudo.
+
+445
+00:19:35,379 --> 00:19:38,871
+Todo feedback que recebi dizia que
+suas agências de proteção do consumidor
+
+446
+00:19:38,897 --> 00:19:40,672
+provavelmente não seriam eficazes.
+
+447
+00:19:40,846 --> 00:19:43,195
+Mas fazer um processo de ação coletiva
+
+448
+00:19:43,246 --> 00:19:44,949
+muito provavelmente funcionaria.
+
+449
+00:19:45,083 --> 00:19:48,057
+Aparentemente o argumento
+de "te vendemos um produto
+
+450
+00:19:48,088 --> 00:19:50,056
+mas podemos tomá-lo de
+volta a qualquer momento"
+
+451
+00:19:50,088 --> 00:19:52,437
+não cola com muitos juízes lá.
+
+452
+00:19:52,552 --> 00:19:54,259
+Até o momento desse vídeo,
+
+453
+00:19:54,284 --> 00:19:56,172
+a situação está sem definição.
+
+454
+00:19:56,212 --> 00:19:58,110
+Então essa pode ou não acontecer.
+
+455
+00:19:58,176 --> 00:20:00,314
+No entanto, se acontecer
+
+456
+00:20:00,339 --> 00:20:02,331
+o preço de um processo de ação coletiva
+
+457
+00:20:02,356 --> 00:20:04,491
+pode ser acessível se
+fizermos uma arrecadação.
+
+458
+00:20:04,541 --> 00:20:07,124
+Me disseram uma
+estimativa de quatro dígitos.
+
+459
+00:20:07,200 --> 00:20:10,102
+No momento, não tenho planos
+de fazer uma arrecadação,
+
+460
+00:20:10,138 --> 00:20:11,651
+mas se isso parecer viável,
+
+461
+00:20:11,678 --> 00:20:13,411
+sim, podemos fazer uma mais tarde.
+
+462
+00:20:13,454 --> 00:20:15,746
+Não se preocupe. 90% dos planos de batalha
+
+463
+00:20:15,771 --> 00:20:18,242
+ainda funcionam mesmo que
+ninguém gaste um tostão.
+
+464
+00:20:18,414 --> 00:20:22,174
+O Brasil é parte da mentalidade
+"ataque em todas as frentes".
+
+465
+00:20:22,445 --> 00:20:25,387
+Seguindo adiante são os Estados Unidos.
+
+466
+00:20:26,737 --> 00:20:28,941
+OK, e adiante é o Canadá.
+
+467
+00:20:29,269 --> 00:20:33,296
+O problema do Canadá é que as agências
+federais não podem fazer muita coisa.
+
+468
+00:20:33,462 --> 00:20:35,524
+Então precisamos analisar as províncias.
+
+469
+00:20:35,664 --> 00:20:37,143
+Tá bom, tá bom.
+
+470
+00:20:37,168 --> 00:20:38,459
+Os Estados Unidos.
+
+471
+00:20:38,612 --> 00:20:39,647
+Escuta, gente.
+
+472
+00:20:39,672 --> 00:20:41,118
+Vou mandar a real pra vocês.
+
+473
+00:20:41,182 --> 00:20:44,298
+Os Estados Unidos é a
+missão-suicída desta operação.
+
+474
+00:20:44,376 --> 00:20:46,042
+Diferente de muitos países,
+
+475
+00:20:46,067 --> 00:20:48,353
+a lei não é vaga nesse problema.
+
+476
+00:20:48,467 --> 00:20:51,174
+E a essa altura, é quase impossível.
+
+477
+00:20:51,224 --> 00:20:52,397
+Quase.
+
+478
+00:20:52,457 --> 00:20:55,404
+Donos  do The Crew
+ainda podem contatar a FTC
+
+479
+00:20:55,432 --> 00:20:57,585
+e estive recebendo orientações
+de um advogado
+
+480
+00:20:57,612 --> 00:21:00,565
+do que dizer à agência para aumentar
+nossas chances deles analisarem isso.
+
+481
+00:21:00,652 --> 00:21:03,372
+Eu ainda não espero uma vitória aqui.
+
+482
+00:21:03,464 --> 00:21:05,911
+Está mais para certificar
+que nossas alternativas
+
+483
+00:21:05,936 --> 00:21:09,152
+estão mortas nos EUA
+antes de descartar a opção.
+
+484
+00:21:09,190 --> 00:21:11,670
+Não quero declarar
+o paciente morto rápido demais.
+
+485
+00:21:11,721 --> 00:21:12,974
+Você sabe como é.
+
+486
+00:21:13,020 --> 00:21:14,554
+E ei, não se esqueça.
+
+487
+00:21:14,613 --> 00:21:16,093
+Se você tem o The Crew,
+
+488
+00:21:16,142 --> 00:21:19,248
+você ainda tem a opção
+de contatar a França diretamente.
+
+489
+00:21:19,292 --> 00:21:23,026
+Na verdade, eu prefiro que você
+faça isso antes de contatar a FTC
+
+490
+00:21:23,051 --> 00:21:25,040
+já que as chances são bem melhores.
+
+491
+00:21:25,095 --> 00:21:27,795
+Agora, se você é americano
+e não tem o The Crew,
+
+492
+00:21:27,876 --> 00:21:30,296
+o que é provavelmente
+a maioria do meu público,
+
+493
+00:21:30,351 --> 00:21:32,257
+então não tenho nada pra você.
+
+494
+00:21:32,359 --> 00:21:34,652
+Foi mal pessoal,
+eu tentei mesmo.
+
+495
+00:21:34,733 --> 00:21:36,407
+Eu simplemente
+não consegui achar nada.
+
+496
+00:21:36,555 --> 00:21:39,195
+A posse de jogos
+é realmente tão ruim
+
+497
+00:21:39,220 --> 00:21:41,716
+quanto dizem os pessimistas
+nos Estados Unidos.
+
+498
+00:21:41,812 --> 00:21:43,856
+O melhor que posso fazer
+é dizer para chamar atenção
+
+499
+00:21:43,881 --> 00:21:46,712
+de quem é qualificado
+para fazer algo.
+
+500
+00:21:46,829 --> 00:21:48,690
+Lembre-se dos três pontos.
+
+501
+00:21:48,728 --> 00:21:51,184
+Se você é americano e não tem o jogo,
+
+502
+00:21:51,234 --> 00:21:52,356
+você é o ponto três.
+
+503
+00:21:52,540 --> 00:21:54,579
+Muito bem, de volta ao Canadá
+
+504
+00:21:54,604 --> 00:21:56,040
+e ding ding ding!
+
+505
+00:21:56,068 --> 00:21:58,751
+O Canadá tem a segunda
+petição governamental.
+
+506
+00:21:58,854 --> 00:22:01,048
+Se você é um cidadão ou residente,
+
+507
+00:22:01,129 --> 00:22:02,656
+vá em frente e assine.
+
+508
+00:22:02,718 --> 00:22:05,484
+Precisamos de apenas 500 assinaturas
+para que o governo responda.
+
+509
+00:22:05,623 --> 00:22:08,223
+Mas de novo, vamos tentar
+conseguir bem mais que isso, sim?
+
+510
+00:22:08,398 --> 00:22:12,209
+Para donos do The Crew,
+não conferimos todas
+
+511
+00:22:12,288 --> 00:22:15,693
+mas as agências provinciais de proteção
+ao consumidor são pouco promissoras.
+
+512
+00:22:15,803 --> 00:22:18,369
+Não posso recomendar passar por elas agora.
+
+513
+00:22:18,482 --> 00:22:21,528
+Com certeza será melhor
+apenas assinar a petição.
+
+514
+00:22:21,641 --> 00:22:24,528
+Atravessando o oceano
+novamente, temos o Reino Unido.
+
+515
+00:22:24,570 --> 00:22:26,880
+E a história é parecida com o Canadá.
+
+516
+00:22:26,927 --> 00:22:29,600
+As opções de proteção
+ao consumidor parecem sem esperança.
+
+517
+00:22:29,660 --> 00:22:32,127
+Mas ei, temos uma
+petição governamental!
+
+518
+00:22:32,193 --> 00:22:35,653
+Se conseguirmos 10 mil assinaturas,
+o governo vai responder.
+
+519
+00:22:35,774 --> 00:22:39,437
+E se conseguirmos 100 mil, é
+considerado a debate no parlamento.
+
+520
+00:22:39,464 --> 00:22:42,158
+Esse parece um número grande, porque é.
+
+521
+00:22:42,191 --> 00:22:45,064
+Mas temos 6 meses pra consegui-las.
+
+522
+00:22:45,116 --> 00:22:47,956
+Acho que se eu continuar fazendo
+campanha, podemos conseguir.
+
+523
+00:22:48,005 --> 00:22:50,605
+E seguimos em direção ao interior
+para o ataque principal.
+
+524
+00:22:50,788 --> 00:22:52,568
+Primeiro, vamos passar pela Alemanha.
+
+525
+00:22:52,668 --> 00:22:55,248
+A Alemanha é um dos poucos
+países da União Europeia
+
+526
+00:22:55,273 --> 00:22:57,232
+onde a proteção ao consumidor nacional
+
+527
+00:22:57,272 --> 00:22:59,479
+é forte o bastante para agir nisso.
+
+528
+00:22:59,551 --> 00:23:02,091
+apesar da Ubisoft ser uma empresa francesa.
+
+529
+00:23:02,330 --> 00:23:04,263
+Então essa é uma das poucas exceções
+
+530
+00:23:04,288 --> 00:23:07,187
+onde você deve contatar
+a agência local primeiro.
+
+531
+00:23:07,212 --> 00:23:09,905
+Depois entre em contato
+com a França, como todo mundo.
+
+532
+00:23:09,945 --> 00:23:11,933
+Descobri tardiamente no processo
+
+533
+00:23:11,958 --> 00:23:15,916
+que a Alemanha e a França também
+têm a opção de fazer uma petição.
+
+534
+00:23:15,979 --> 00:23:18,440
+No entanto, os limites são um pouco altos
+
+535
+00:23:18,470 --> 00:23:20,353
+e não posso descartá-los sem antes fazer
+
+536
+00:23:20,378 --> 00:23:23,117
+avanços significativos com
+YouTubers estrangeiros
+
+537
+00:23:23,180 --> 00:23:25,180
+ou outras fontes de mídia primeiro.
+
+538
+00:23:25,205 --> 00:23:27,173
+Então se conseguirmos apoio
+e publicidade suficiente,
+
+539
+00:23:27,198 --> 00:23:30,297
+claro, podemos adicionar petições
+alemãs e francesas à lista.
+
+540
+00:23:30,383 --> 00:23:31,656
+Mas não hoje.
+
+541
+00:23:31,701 --> 00:23:33,816
+E isso nos traz ao coração disso.
+
+542
+00:23:33,884 --> 00:23:34,981
+A França.
+
+543
+00:23:35,046 --> 00:23:37,797
+Aqui é onde estão
+nossos ataques mais fortes.
+
+544
+00:23:37,838 --> 00:23:41,844
+Os franceses que possuem o The Crew
+são os Space Marines dessa operação.
+
+545
+00:23:41,869 --> 00:23:43,949
+Vocês tem mais opções que qualquer um.
+
+546
+00:23:44,006 --> 00:23:45,831
+Quanto mais puderem fazer, melhor.
+
+547
+00:23:45,890 --> 00:23:49,805
+Na verdade, a melhor opção da maioria
+é provavelmente sua opção mais fraca.
+
+548
+00:23:49,891 --> 00:23:51,957
+Além da DGCCRF,
+
+549
+00:23:52,087 --> 00:23:54,802
+Também enviaremos correspondências
+registradas para a Ubisoft
+
+550
+00:23:54,827 --> 00:23:57,303
+como parte da convocação de
+um mediador governamental
+
+551
+00:23:57,371 --> 00:24:00,353
+para tomar medidas legais
+em nome do cliente.
+
+552
+00:24:00,447 --> 00:24:02,877
+É quase como ter o seu próprio promotor.
+
+553
+00:24:02,936 --> 00:24:04,051
+Incrível.
+
+554
+00:24:04,123 --> 00:24:06,626
+E para abordar cada etapa,
+
+555
+00:24:06,714 --> 00:24:10,417
+cidadãos franceses irão
+contatar a UFC-Que Choisir,
+
+556
+00:24:10,476 --> 00:24:12,531
+um poderoso grupo de defesa do consumidor
+
+557
+00:24:12,556 --> 00:24:15,230
+com um excelente histórico
+de proteção dos direitos dos jogadores.
+
+558
+00:24:15,333 --> 00:24:19,794
+E mais cedo nós turbinamos o processo
+na França antes de Abril,
+
+559
+00:24:19,864 --> 00:24:22,373
+Mas essa foi a fase de operações especiais.
+
+560
+00:24:22,404 --> 00:24:24,574
+Essa parte já terminou, não se preocupe.
+
+561
+00:24:24,680 --> 00:24:26,965
+E para o resto da União Europeia,
+
+562
+00:24:27,030 --> 00:24:29,042
+era aqui que estavam
+a maioria dos becos-sem-saída.
+
+563
+00:24:29,107 --> 00:24:32,920
+Primeiro achei que as pessoas deveriam
+contatar suas agências reguladoras.
+
+564
+00:24:33,320 --> 00:24:35,047
+Em geral, não.
+
+565
+00:24:35,131 --> 00:24:37,294
+Eles tendem a olhar
+somente negócios nacionais,
+
+566
+00:24:37,339 --> 00:24:39,311
+e a Ubisoft fica na França.
+
+567
+00:24:39,445 --> 00:24:43,398
+Então a documentação diz para 
+contatar o Centro Europeu do Consumidor
+
+568
+00:24:43,493 --> 00:24:46,067
+E eu não recomendo fazer isso também.
+
+569
+00:24:46,139 --> 00:24:48,459
+Fizemos isso por um tempo,
+
+570
+00:24:48,561 --> 00:24:50,788
+mas as respostas foram desorganizadas.
+
+571
+00:24:50,871 --> 00:24:53,381
+Alguns disseram que a Ubisoft
+pode fazer o que quiserem
+
+572
+00:24:53,406 --> 00:24:54,988
+por causa da licença de usuário,
+
+573
+00:24:55,034 --> 00:24:58,494
+outros que a Ubisoft é responsável
+por fornecer o serviço para sempre,
+
+574
+00:24:58,519 --> 00:25:00,270
+o que é loucura.
+
+575
+00:25:00,310 --> 00:25:02,770
+Isso é ir mais longe até do que eu quero.
+
+576
+00:25:02,919 --> 00:25:05,919
+Mas a maioria não fazia ideia
+de como lidar com isso.
+
+577
+00:25:05,997 --> 00:25:10,383
+Um funcionário disse que nunca ouviram
+ninguém fazer essa reclamação.
+
+578
+00:25:10,457 --> 00:25:11,790
+Outro disse,
+
+579
+00:25:11,818 --> 00:25:16,412
+"Não está claro se essas ações 
+da empresa são legalmente permitidas.
+
+580
+00:25:16,543 --> 00:25:20,314
+não há regulamentação legal clara para isso".
+
+581
+00:25:20,957 --> 00:25:23,681
+Isso é da própria União Europeia, gente.
+
+582
+00:25:23,745 --> 00:25:25,021
+Não há consistência.
+
+583
+00:25:25,218 --> 00:25:27,075
+Ninguém sabe o que diabos está acontecendo.
+
+584
+00:25:27,292 --> 00:25:29,578
+Aparentemente não existem leis sobre isso.
+
+585
+00:25:29,969 --> 00:25:31,293
+Em que ano estamos?
+
+586
+00:25:31,737 --> 00:25:33,518
+Ainda estamos sendo roubados.
+
+587
+00:25:33,828 --> 00:25:39,313
+É incrível que as empresas de jogos terem
+existido entre as brechas na lei assim.
+
+588
+00:25:39,366 --> 00:25:40,728
+Como baratas.
+
+589
+00:25:40,945 --> 00:25:43,059
+Precisamos iluminar isso.
+
+590
+00:25:43,373 --> 00:25:44,944
+E com isso,
+
+591
+00:25:44,992 --> 00:25:47,487
+a última linha de ataque
+é a meta ambiciosa.
+
+592
+00:25:47,607 --> 00:25:50,540
+Que é a Iniciativa de Cidadania Europeia.
+
+593
+00:25:50,656 --> 00:25:53,341
+É como as outras petições, mas bem maior.
+
+594
+00:25:53,561 --> 00:25:55,428
+Essa é ambiciosa.
+
+595
+00:25:55,525 --> 00:25:59,458
+Pode ser uma ilusão minha
+tentar isso, eu não sei ainda.
+
+596
+00:25:59,602 --> 00:26:02,764
+Mas precisaríamos de
+1 milhão de assinaturas
+
+597
+00:26:02,789 --> 00:26:05,390
+de toda a União Europeia para esta.
+
+598
+00:26:05,563 --> 00:26:09,466
+E tem ressalvas, então na
+verdade mais de 1 milhão.
+
+599
+00:26:09,641 --> 00:26:13,212
+No entando, temos 1 ano para consegui-las.
+
+600
+00:26:13,276 --> 00:26:17,619
+Eu não consigo isso só do meu
+público, mas é muito tempo.
+
+601
+00:26:17,743 --> 00:26:20,972
+Se eu fizer muita campanha,
+talvez consigamos isso.
+
+602
+00:26:21,025 --> 00:26:25,072
+E se já não fosse o bastante, essa também
+é a parte mais fraca da campanha.
+
+603
+00:26:25,194 --> 00:26:26,947
+Porque enquanto nós já estamos prontos,
+
+604
+00:26:27,018 --> 00:26:30,979
+leva meses para que a UE aprove
+a proposta antes da assinatura.
+
+605
+00:26:31,053 --> 00:26:35,053
+Significa que passariam meses
+entre agora e quando for à público.
+
+606
+00:26:35,257 --> 00:26:37,409
+Esse é o beijo da morte.
+
+607
+00:26:37,498 --> 00:26:39,907
+Quer dizer que perderíamos
+o impulso de Abril
+
+608
+00:26:39,932 --> 00:26:43,527
+e eu vou precisar fazer
+campanha de novo daqui a meses.
+
+609
+00:26:43,629 --> 00:26:46,629
+Essa pode ser uma meta inatingível,
+eu não sei.
+
+610
+00:26:46,765 --> 00:26:49,908
+Mas de novo, esse sou eu 
+atacando em todas as frentes.
+
+611
+00:26:50,131 --> 00:26:51,940
+E essa é a campanha.
+
+612
+00:26:52,099 --> 00:26:54,709
+Temos até 11 frentes de ataque,
+
+613
+00:26:54,830 --> 00:26:56,630
+com talvez 13,
+
+614
+00:26:56,680 --> 00:26:59,776
+mas na realidade, três dessas
+são bem mais ou menos.
+
+615
+00:26:59,902 --> 00:27:02,159
+Mas o restante é relativamente sólido.
+
+616
+00:27:02,326 --> 00:27:04,117
+Isso está acontecendo mesmo, pessoal.
+
+617
+00:27:04,161 --> 00:27:08,085
+Essa estratégia é meu absoluto 
+melhor esforço como amador.
+
+618
+00:27:08,458 --> 00:27:10,601
+Sou enviesado ao dizer isso,
+
+619
+00:27:10,736 --> 00:27:13,613
+mas se você se importa com
+não perder seus jogos no futuro,
+
+620
+00:27:13,810 --> 00:27:16,677
+essa é a melhor chance que teremos
+de fazer algo a respeito.
+
+621
+00:27:17,049 --> 00:27:18,296
+Até onde sei,
+
+622
+00:27:18,331 --> 00:27:21,436
+ninguém jamais desafiou
+a legalidade da destruição de jogos.
+
+623
+00:27:21,529 --> 00:27:24,062
+E com certeza ningúem tentou nessa escala.
+
+624
+00:27:24,488 --> 00:27:26,736
+Não sei dizer o quanto,
+
+625
+00:27:26,774 --> 00:27:28,640
+mas isso vai crescer também.
+
+626
+00:27:29,005 --> 00:27:31,063
+Na verdade, a próxima fase após essa
+
+627
+00:27:31,088 --> 00:27:35,052
+é me spammar na internet
+e trazer atenção a isso.
+
+628
+00:27:35,202 --> 00:27:37,544
+Farei entrevistas, aparições,
+
+629
+00:27:37,632 --> 00:27:40,289
+tentar fazer as pessoas
+twittarem, o que seja.
+
+630
+00:27:40,642 --> 00:27:42,575
+Eu não quero fazer isso,
+
+631
+00:27:42,681 --> 00:27:45,386
+mas se é o que é preciso 
+para acabar com isso, eu faço.
+
+632
+00:27:45,774 --> 00:27:48,440
+Tenho uma lista gigante
+de pessoas que pretendo contatar
+
+633
+00:27:48,465 --> 00:27:49,774
+mas você não precisa esperar.
+
+634
+00:27:49,918 --> 00:27:52,537
+Se você tem um público
+e quer que eu fale sobre isso,
+
+635
+00:27:52,603 --> 00:27:54,936
+me poupe o trabalho
+e entre em contato diretamente.
+
+636
+00:27:55,440 --> 00:27:58,964
+Ou me esqueça totalmente,
+eu não preciso me envolver.
+
+637
+00:27:59,085 --> 00:28:01,209
+Apenas envie pessoas
+para stopkillinggames.com
+
+638
+00:28:01,257 --> 00:28:02,590
+o site cuida do resto.
+
+639
+00:28:02,921 --> 00:28:06,225
+É uma piada eu sequer
+precisar fazer tudo isso
+
+640
+00:28:06,250 --> 00:28:08,710
+para tentarmos não ser roubados,
+
+641
+00:28:08,908 --> 00:28:10,936
+mas é assim que é no mundo dos jogos.
+
+642
+00:28:11,347 --> 00:28:15,309
+Uma coisa para ter em mente é que
+a trajetória para jogos é tão ruim
+
+643
+00:28:15,417 --> 00:28:17,341
+que não temos absolutamente nada a perder.
+
+644
+00:28:17,565 --> 00:28:21,394
+Como é que os jogos podem ficar pior
+que distribuidoras destruíndo seus jogos?
+
+645
+00:28:22,949 --> 00:28:25,616
+Já tivemos um vislumbre do futuro, também.
+
+646
+00:28:25,907 --> 00:28:27,469
+Já é passado,
+
+647
+00:28:27,536 --> 00:28:30,793
+mas quando a Microsoft
+revelou o Xbox One original,
+
+648
+00:28:30,958 --> 00:28:34,672
+seus planos mostraram o que
+as empresas tem guardado para nós.
+
+649
+00:28:34,885 --> 00:28:37,666
+Um sistema de vigilância
+necessário para usar o sistema
+
+650
+00:28:37,691 --> 00:28:39,811
+que coleta sua biometria,
+
+651
+00:28:39,881 --> 00:28:42,890
+você precisar conectar
+à empresa a cada 24 horas
+
+652
+00:28:42,915 --> 00:28:44,736
+ou senão você fica
+bloqueado do sistema,
+
+653
+00:28:44,810 --> 00:28:46,772
+e quando eles eventualmente
+encerrarem o suporte,
+
+654
+00:28:46,810 --> 00:28:49,477
+sua coleção de jogos
+inteira fica injogável.
+
+655
+00:28:49,591 --> 00:28:50,915
+Bem-vindo ao futuro.
+
+656
+00:28:51,167 --> 00:28:55,891
+Logo depois eles perceberam que
+exageraram e tiverem que reverter,
+
+657
+00:28:55,969 --> 00:28:59,769
+mas a indústria tem adotado
+a abordagem do sapo fervente desde então.
+
+658
+00:28:59,881 --> 00:29:03,357
+Isso é onde já estamos
+em direção se não fizermos nada.
+
+659
+00:29:03,522 --> 00:29:06,418
+Não sei dizer se essa campanha
+terá sucesso ou não.
+
+660
+00:29:06,590 --> 00:29:09,419
+Mas sei que se as pessoas
+se esforçarem o mínimo,
+
+661
+00:29:09,517 --> 00:29:12,003
+então teremos respostas sobre isso,
+
+662
+00:29:12,043 --> 00:29:14,139
+e encerrar o assunto
+de um jeito ou de outro.
+
+663
+00:29:14,472 --> 00:29:16,719
+Novamente, se passarmos as petições,
+
+664
+00:29:16,806 --> 00:29:18,977
+os governos tem que responder
+
+665
+00:29:19,054 --> 00:29:20,788
+e assumir essa resposta.
+
+666
+00:29:21,050 --> 00:29:23,469
+Se as agências receberem
+reclamações o suficiente,
+
+667
+00:29:23,516 --> 00:29:25,278
+elas provavelmente
+responderão também.
+
+668
+00:29:25,512 --> 00:29:29,350
+Não teremos mais dessa
+de "não há regulamentação clara".
+
+669
+00:29:29,513 --> 00:29:31,979
+Isso eu posso quase prometer.
+
+670
+00:29:32,371 --> 00:29:33,809
+Além disso, se vencermos
+
+671
+00:29:33,850 --> 00:29:37,012
+dá pra imaginar como vai ser bom no futuro
+
+672
+00:29:37,043 --> 00:29:39,348
+sabendo que todos seus jogos estão seguros
+
+673
+00:29:39,406 --> 00:29:43,358
+e você só precisa pensar
+sobre gostar do jogo ou não?
+
+674
+00:29:43,541 --> 00:29:46,255
+Essa é minha visão dos jogos para o futuro.
+
+675
+00:29:46,546 --> 00:29:48,679
+É um pouco diferente da visão da indústria.
+
+676
+00:29:49,069 --> 00:29:52,345
+E se perdermos, pelo menos
+nos dirão na cara.
+
+677
+00:29:52,520 --> 00:29:55,615
+Que numa democracia, você jamais
+pode ser dono de jogos pelos quais pagou,
+
+678
+00:29:55,671 --> 00:29:57,661
+Não importam quantas pessoas querem isso.
+
+679
+00:29:58,142 --> 00:30:00,103
+Acho que será uma lição
+de educação cívica, então.
+
+680
+00:30:00,924 --> 00:30:04,172
+Por fim, quero terminar
+agradecendo a Ubisoft.
+
+681
+00:30:04,638 --> 00:30:07,638
+Vocês são uma empresa
+francesa e fizeram isso.
+
+682
+00:30:07,900 --> 00:30:11,805
+E fizeram isso com um dos seus títulos
+principais com milhões de jogadores.
+
+683
+00:30:12,125 --> 00:30:15,458
+Se fosse a Electronic Arts, ou
+a Blizzard Activision
+
+684
+00:30:15,534 --> 00:30:18,020
+não teria nem perto
+das opções de agora.
+
+685
+00:30:18,312 --> 00:30:20,778
+E um mês depois vocês
+fizeram uma declaração
+
+686
+00:30:20,803 --> 00:30:24,137
+indicando que as pessoas devem se sentir
+confortáveis não sendo donas de seus jogos.
+
+687
+00:30:24,179 --> 00:30:28,369
+E mentirem na mesma entrevista
+sobre jogos online estarem seguros,
+
+688
+00:30:28,446 --> 00:30:30,331
+enquanto matam o The Crew!
+
+689
+00:30:30,515 --> 00:30:33,820
+O que vocês farão a seguir?
+Ameaçar um juíz?
+
+690
+00:30:33,926 --> 00:30:36,316
+Eu aqui pensando não ter
+como lutar contra isso
+
+691
+00:30:36,359 --> 00:30:39,359
+e vocês criam uma das
+melhores fraquezas para mim.
+
+692
+00:30:39,480 --> 00:30:42,537
+Que vergonha se eu não agir de sobre isso.
+
+693
+00:30:42,918 --> 00:30:45,575
+Não é perfeito, mas essa é uma boa
+
+694
+00:30:45,633 --> 00:30:48,385
+oportunidade de 8,5 ou 9 de 10 aqui.
+
+695
+00:30:48,607 --> 00:30:51,331
+Se não vencermos assim, jamais venceremos.
+
+696
+00:30:51,363 --> 00:30:52,725
+Não tenho dúvida.
+
+697
+00:30:53,156 --> 00:30:55,156
+Você se colocou em uma
+posição vulnerável para nós
+
+698
+00:30:55,181 --> 00:30:58,318
+então vamos atacar o mais
+forte possível e ver no que dá.
+
+699
+00:30:58,748 --> 00:31:01,567
+Muito bem, é isso.
+Visite stopkillingames.com!
+
+700
+00:31:15,923 --> 00:31:19,133
+Não se esqueça da Iniciativa
+de Cidadania Europeia daqui alguns meses!
+

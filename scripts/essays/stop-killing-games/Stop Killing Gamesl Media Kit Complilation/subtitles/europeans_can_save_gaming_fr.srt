@@ -1,0 +1,874 @@
+1
+00:00:00,530 --> 00:00:02,560
+Salut, moi c'est Ross.
+
+2
+00:00:02,560 --> 00:00:04,900
+Depuis ces derniers mois
+je travaille sur une campagne
+
+3
+00:00:04,900 --> 00:00:07,770
+pour arrêter la destruction des jeux vidéo.
+
+4
+00:00:07,770 --> 00:00:13,210
+La plupart des jeux vidéo marchent indéfiniment,
+ et... en gros ça s'arrête là.
+
+5
+00:00:13,210 --> 00:00:15,580
+Mais de plus en plus sont conçus
+pour arrêter de fonctionner
+
+6
+00:00:15,580 --> 00:00:20,120
+à la seconde où le support de l'éditeur
+s'arrête-- de l'auto-destruction, au final.
+
+7
+00:00:20,120 --> 00:00:22,620
+C'est une forme d'obsolescence programmée
+
+8
+00:00:22,620 --> 00:00:26,260
+où les éditeurs détruisent
+les jeux qu'ils vous ont déjà vendus,
+
+9
+00:00:26,260 --> 00:00:27,930
+mais ils gardent votre argent.
+
+10
+00:00:27,930 --> 00:00:31,330
+Alors que tout ça peut être évité
+--certains ne comprennent pas ça.
+
+11
+00:00:31,330 --> 00:00:34,400
+Auparavant j'ai déjà comparé ça
+aux studios d'il y a un siècle
+
+12
+00:00:34,400 --> 00:00:37,430
+qui brûlaient leurs propres films
+après les avoir projeté
+
+13
+00:00:37,430 --> 00:00:39,200
+pour récupérer l'argent qu'ils contenaient.
+
+14
+00:00:39,200 --> 00:00:42,500
+À présent la plupart des films
+de cette période ont disparu à jamais.
+
+15
+00:00:42,500 --> 00:00:46,210
+C'est très similaire à ce qu'il se passe
+avec les jeux vidéo de nos jours.
+
+16
+00:00:46,210 --> 00:00:49,750
+C'est une pratique calamiteuse
+pour tous ceux qui sont impliqués.
+
+17
+00:00:49,750 --> 00:00:51,450
+La plupart de mes efforts se sont concentrés
+
+18
+00:00:51,450 --> 00:00:55,050
+sur la remise en cause de la légalité
+de cette pratique dans divers pays.
+
+19
+00:00:55,050 --> 00:01:00,620
+Car c'est tellement hostile envers les consommateurs,
+il n'est même pas certains que ça soit légal.
+
+20
+00:01:00,620 --> 00:01:04,530
+C'est toujours en cours,
+mais on a maintenant une nouvelle option :
+
+21
+00:01:04,530 --> 00:01:08,800
+proposer de nouvelles lois,
+et pour toute l'Union Européenne.
+
+22
+00:01:08,800 --> 00:01:11,870
+Ça a pris des mois
+pour tout mettre en place,
+
+23
+00:01:11,870 --> 00:01:15,170
+mais on a maintenant
+une Initiative Citoyenne Européenne
+
+24
+00:01:15,170 --> 00:01:18,570
+dont le but est d'arrêter
+la destruction des jeux vidéo.
+
+25
+00:01:18,570 --> 00:01:20,180
+Vous pouvez la lire vous-même.
+
+26
+00:01:20,180 --> 00:01:23,450
+Elle exigerait que les éditeurs laissent
+les jeux qu'ils ont vendu aux consommateurs
+
+27
+00:01:23,450 --> 00:01:26,110
+dans un état fonctionnel au moment de leur arrêt
+
+28
+00:01:26,110 --> 00:01:28,780
+sans qu'il soit nécessaire
+de se connecter
+
+29
+00:01:28,780 --> 00:01:31,750
+à eux ou à des tiers
+pour que le jeu fonctionne.
+
+30
+00:01:31,750 --> 00:01:34,220
+C'est à eux de décider comment s'y prendre.
+
+31
+00:01:34,220 --> 00:01:38,690
+Elle s'appliquerait aussi aux jeux
+free-to-play qui contiennent des microtransactions,
+
+32
+00:01:38,690 --> 00:01:42,300
+car si vous achetez une microtransaction
+comme un étant un bien,
+
+33
+00:01:42,300 --> 00:01:46,540
+et que le jeu devient ensuite injouable,
+eh bien vous venez de perdre vos biens.
+
+34
+00:01:46,540 --> 00:01:48,940
+Elle n'exige PAS des éditeurs qu'ils abandonnent
+
+35
+00:01:48,940 --> 00:01:51,240
+leurs droits sur la propriété intellectuelle,
+
+36
+00:01:51,240 --> 00:01:55,080
+qu'ils cèdent leur code source
+--même si ça serait sympa,
+
+37
+00:01:55,080 --> 00:01:57,510
+elle ne demande pas d'assurer le support éternellement.
+
+38
+00:01:57,510 --> 00:02:00,650
+Ils peuvent y mettre fin quand ils
+le souhaitent, en ce qui nous concerne.
+
+39
+00:02:00,650 --> 00:02:04,120
+Ils n'ont pas besoin d'héberger de serveurs,
+mais ils seraient obligés de faire
+
+40
+00:02:04,120 --> 00:02:08,260
+une mise à jour pour ne pas que ça soit nécessaire
+ou bien de permettre aux joueurs d'héberger de manière privée;
+
+41
+00:02:08,260 --> 00:02:13,460
+ils n'ont pas à assumer la responsabilité
+de ce que les clients font avec leur copie du jeu.
+
+42
+00:02:13,460 --> 00:02:17,030
+Enfin, rien dans cette initiative
+n'aurait d'impact
+
+43
+00:02:17,030 --> 00:02:21,140
+sur les pratiques commerciales des éditeurs
+tant que le jeu est exploité.
+
+44
+00:02:21,140 --> 00:02:25,940
+Autrement dit, les éditeurs peuvent
+continuer de faire ce qu'ils veulent,
+
+45
+00:02:25,940 --> 00:02:27,910
+tant que vous pouvez garder votre jeu.
+
+46
+00:02:27,910 --> 00:02:33,150
+Je suis stupéfait quand les gens disent 
+"ça va trop loin" en faveur des consommateurs.
+
+47
+00:02:33,150 --> 00:02:36,390
+Ceci dit, ce n'est probablement pas
+la majorité des européens.
+
+48
+00:02:36,390 --> 00:02:42,090
+L'idée c'est JUSTE d'essayer
+d'empêcher les jeux d'être détruits. C'est tout.
+
+49
+00:02:42,090 --> 00:02:47,130
+Donc on utilise l'approche permettant de résoudre le problème
+qui soit la plus restreinte possible.
+
+50
+00:02:47,130 --> 00:02:48,600
+Si on récolte assez de signatures,
+
+51
+00:02:48,600 --> 00:02:52,700
+alors elle sera soumise à l'UE
+pour être examiner comme nouvelle loi.
+
+52
+00:02:52,700 --> 00:02:55,300
+Si vous êtes d'accord avec elle,
+pas besoin de continuer la vidéo
+
+53
+00:02:55,300 --> 00:02:57,010
+--vous pouvez tout de suite aller la signer.
+
+54
+00:02:57,010 --> 00:03:01,810
+Mais attendez ! Avant ça,
+vous n'avez QU'UNE SEULE CHANCE de le faire correctement.
+
+55
+00:03:01,810 --> 00:03:04,210
+C'est pas difficile, mais si vous faites une erreur,
+
+56
+00:03:04,210 --> 00:03:07,550
+votre signature ne sera pas valide
+et vous n'aurez pas de deuxième chance.
+
+57
+00:03:07,550 --> 00:03:12,290
+On a créé des guides sur stopkillinggames.com
+pour comment faire, au cas où.
+
+58
+00:03:12,290 --> 00:03:16,960
+Mais est-ce aussi simple que ça, les gens signent
+et ça devient une loi dans l'UE ?
+
+59
+00:03:16,960 --> 00:03:19,390
+Euh, ouais, ça se pourrait !
+
+60
+00:03:19,390 --> 00:03:24,230
+Alors c'est pas garantie, mais je pense
+que si on obtient les signatures, ça passe.
+
+61
+00:03:24,230 --> 00:03:27,070
+Pourquoi je dis ça ? Il y a différentes raisons :
+
+62
+00:03:27,070 --> 00:03:31,970
+Les politiciens aiment les victoires faciles
+et ça ne leur demande pas de faire grand-chose.
+
+63
+00:03:31,970 --> 00:03:35,080
+Et si ça n'implique pas les paris
+ou la protection des enfants,
+
+64
+00:03:35,080 --> 00:03:38,350
+les jeux vidéo leur
+importe peu.
+
+65
+00:03:38,350 --> 00:03:42,680
+Donc ça n'a pas énormément d'impact pour eux
+ou pour beaucoup de leurs électeurs.
+
+66
+00:03:42,680 --> 00:03:47,090
+Les lois de l'UE sont de toute manière
+déjà floues sur cette pratique,
+
+67
+00:03:47,090 --> 00:03:50,130
+et on leur rendrait les choses simples
+pour qu'ils règlent ça.
+
+68
+00:03:50,130 --> 00:03:52,960
+C'est en accord avec
+d'autres habitudes de consommateurs--
+
+69
+00:03:52,960 --> 00:03:57,330
+vous savez, comme quand vous ACHETEZ quelque chose,
+vous pouvez généralement le GARDER ?
+
+70
+00:03:57,330 --> 00:04:00,600
+Et enfin, c'est une distraction
+par rapport a des sujets vraiment sérieux
+
+71
+00:04:00,600 --> 00:04:03,070
+dont les politiciens
+préféreraient ne pas traiter.
+
+72
+00:04:03,070 --> 00:04:06,480
+Ils restent ainsi occupés
+ET évitent les sujets compliqués.
+
+73
+00:04:06,480 --> 00:04:10,180
+En fait, je parierais que si on peut
+atteindre le seuil des signatures,
+
+74
+00:04:10,180 --> 00:04:14,620
+ça passe dans la loi et on résout
+90% du problème, voire plus.
+
+75
+00:04:14,620 --> 00:04:18,690
+Je dis 90% parce que
+ça n'aurait d'impact que dans l'UE,
+
+76
+00:04:18,690 --> 00:04:25,030
+donc si un jeu sort seulement en Chine
+ou au Japon, ça ne les sauverait pas,
+
+77
+00:04:25,030 --> 00:04:29,630
+mais la plupart des jeux sont vendus
+dans le monde entier, et l'UE en fait partie.
+
+78
+00:04:29,630 --> 00:04:31,400
+Une fois que les entreprises ont pour condition
+
+79
+00:04:31,400 --> 00:04:35,940
+de vous laisser garder les jeux qu'elles
+vous ont vendus, dans un marché important comme celui-là,
+
+80
+00:04:35,940 --> 00:04:40,410
+je pense que ça s'étendra, peu importe
+que ce soit dans la loi ailleurs ou non.
+
+81
+00:04:40,410 --> 00:04:45,380
+Mais malheureusement ce sur quoi je ne parierais PAS
+--parce que c'est une grosse inconnue--
+
+82
+00:04:45,380 --> 00:04:49,250
+c'est est-ce qu'on peut arriver à franchir
+ce seuil des signatures.
+
+83
+00:04:49,250 --> 00:04:55,090
+Pour que ça marche, on a besoin
+d'un million de signatures à travers l'UE...
+
+84
+00:04:55,090 --> 00:05:02,530
+sauf qu'en fait c'est PLUS que ça, car certaines
+seront invalides parce que... qui sait.
+
+85
+00:05:02,530 --> 00:05:08,340
+Donc on a vraiment plutôt besoin de
+1,2 ou 1,3 millions de signatures.
+
+86
+00:05:08,340 --> 00:05:14,780
+Oh, et pire encore, il faut atteindre
+certains seuils minimum par pays pour que ça passe.
+
+87
+00:05:14,780 --> 00:05:17,350
+Disons que quelqu'un a signé en Grèce.
+
+88
+00:05:17,350 --> 00:05:25,290
+On a ensuite besoin que presque 15 000 grecs signent EN PLUS,
+sinon AUCUNE signature grecque ne compte.
+[Petite erreur, TOUTES les signatures comptent, mais seulement si 7 pays ou plus atteignent le seuil.]
+
+89
+00:05:25,290 --> 00:05:28,890
+Cette règle me paraît bien
+arbitraire et bizarre.
+
+90
+00:05:28,890 --> 00:05:33,060
+Je me demande presque si l'UE n'a pas pris
+exemple sur les États-Unis pour celle-là.
+
+91
+00:05:33,060 --> 00:05:35,830
+Bref, c'est beaucoup de signatures.
+
+92
+00:05:35,830 --> 00:05:40,870
+Je suis peut-être fou
+de tenter ça, je ne sais pas encore.
+
+93
+00:05:40,870 --> 00:05:46,680
+La bonne nouvelle c'est qu'on a un an
+pour les récolter, donc on aura le temps.
+
+94
+00:05:46,680 --> 00:05:48,240
+Bien que, je vais le dire tout de suite,
+
+95
+00:05:48,240 --> 00:05:52,450
+il n'y a aucune chance que je récupère autant
+d'européens juste parmi mon public.
+
+96
+00:05:52,450 --> 00:05:58,250
+La seule manière pour que ça marche c'est de contacter
+des youtubeurs, streamers et autres européens
+
+97
+00:05:58,250 --> 00:06:03,330
+pour qu'ils nous rejoignent,
+et des non-anglophones en plus.
+
+98
+00:06:03,330 --> 00:06:08,130
+Je vais la promouvoir du mieux
+que je peux, mais j'ai une influence limitée.
+
+99
+00:06:08,130 --> 00:06:11,100
+En fait depuis que j'ai commencé Stop Killing Games,
+
+100
+00:06:11,100 --> 00:06:15,740
+je peux dire que tous ceux
+que j'ai contactés n'ont jamais répondu.
+
+101
+00:06:15,740 --> 00:06:19,940
+Donc quand c'est moi qui prends contact,
+ça ne marche pas -- c'est un échec total.
+
+102
+00:06:19,940 --> 00:06:23,010
+Cependant il y a deux choses qui ont marché :
+
+103
+00:06:23,010 --> 00:06:28,020
+La première, c'est les gens qui ME contactent
+puisque je réponds à la plupart.
+
+104
+00:06:28,020 --> 00:06:31,250
+La deuxième, c'est les gens qui parlent
+de la campagne d'eux-même.
+
+105
+00:06:31,250 --> 00:06:34,820
+Ça a VRAIMENT marché ce qui veut dire
+que si vous regardez ça,
+
+106
+00:06:34,820 --> 00:06:38,060
+vous êtes peut-être un maillon essentiel dans cette histoire,
+
+107
+00:06:38,060 --> 00:06:42,860
+car vous pouvez parler de cette initiative
+à d'autres youtubeurs, streamers, etc.
+
+108
+00:06:42,860 --> 00:06:44,600
+et peut-être que ça les intéressera.
+
+109
+00:06:44,600 --> 00:06:49,600
+À nouveau, c'est encore mieux
+si leur public cible est non-anglophone.
+
+110
+00:06:49,600 --> 00:06:53,880
+Le nombre de locuteur anglais natif
+dans l'UE est assez faible,
+
+111
+00:06:53,880 --> 00:06:57,510
+donc on a besoin d'atteindre
+d'autres langues autant que possible.
+
+112
+00:06:57,510 --> 00:07:02,150
+Je suis disponible pour des interviews,
+de la publicité sur le sujet, peu importe,
+[ rosswscott@gmail.com ]
+
+113
+00:07:02,150 --> 00:07:06,250
+pour presque n'importe qui ayant
+un public européen pas trop petit.
+[ rosswscott@gmail.com ]
+
+114
+00:07:06,250 --> 00:07:10,330
+En plus de ça, les porte-parole
+et suppléant officiels
+
+115
+00:07:10,330 --> 00:07:13,660
+de l'initiative se proposent
+également de répondre sur le sujet.
+
+116
+00:07:13,660 --> 00:07:17,930
+Et ils sont polyglottes, et on a
+d'autres organisateurs officiels en plus
+
+117
+00:07:17,930 --> 00:07:20,940
+qui accepteront peut-être d'échanger
+dans d'autres langues encore.
+
+118
+00:07:20,940 --> 00:07:26,040
+Ce sont les gens qui sont officiellement aux commandes.
+Vous savez, de vrais européens.
+
+119
+00:07:26,040 --> 00:07:33,110
+Même si j'ai... aidé, officiellement
+je ne fais pas partie de ça--je n'en ai pas le droit.
+
+120
+00:07:33,110 --> 00:07:36,020
+Pas grave ! Peu importe, du moment
+qu'on arrive à franchir l'arrivée.
+
+121
+00:07:36,020 --> 00:07:38,590
+En parlant d'avoir le droit de participer,
+c'est assez simple :
+
+122
+00:07:38,590 --> 00:07:42,490
+Vous devez être citoyen d'un pays de l'UE,
+mais vous n'avez pas besoin d'y vivre;
+
+123
+00:07:42,490 --> 00:07:45,390
+et vous devez avoir l'âge minimum
+pour voter. C'est tout.
+
+124
+00:07:45,390 --> 00:07:49,860
+Cela veut aussi dire que ce n'est pas juste VOUS
+qui pouvez signer, mais vos amis peuvent signer,
+
+125
+00:07:49,860 --> 00:07:54,100
+votre famille peut signer,
+vos petites amies, petits copains peuvent signer.
+
+126
+00:07:54,100 --> 00:07:59,070
+Ils comptent tous. Allez chercher tout le monde,
+et dites leur de faire signer des gens.
+
+127
+00:07:59,070 --> 00:08:02,480
+Et oui, ça fait bizarre d'être
+un américain sans droit
+
+128
+00:08:02,480 --> 00:08:06,610
+faisant campagne pour que les européens
+signent un document, mais vous savez quoi ?
+
+129
+00:08:06,610 --> 00:08:11,250
+Si ça passe, on gagne tous, donc il faut juste aller
+là où les opportunités se présentent.
+
+130
+00:08:11,250 --> 00:08:14,720
+Oh, et si vos proches ou qui que ce soit
+se fichent des jeux vidéo,
+
+131
+00:08:14,720 --> 00:08:19,930
+vous pouvez leur expliquer que c'est lié
+au fait de ne PAS perdre l'idée de propriété.
+
+132
+00:08:19,930 --> 00:08:21,930
+Par exemple si les jeux vidéo étaient des voitures,
+
+133
+00:08:21,930 --> 00:08:26,130
+ce qu'il se passe maintenant serait comme si
+je vous vendais une voiture plein pot,
+
+134
+00:08:26,130 --> 00:08:30,540
+et plus tard--je ne vous dirais pas COMBIEN
+de temps plus tard, donc ce n'est pas une location--
+
+135
+00:08:30,540 --> 00:08:33,710
+je venais ensuite chez vous
+pour saisir votre voiture,
+
+136
+00:08:33,710 --> 00:08:35,410
+tout en gardant votre argent.
+
+137
+00:08:35,410 --> 00:08:39,780
+Ce n'est pas une bonne affaire...
+enfin pas pour le consommateur.
+
+138
+00:08:39,780 --> 00:08:43,390
+J'imagine que récupérer ce que
+vous avez vendu, c'est bon pour le commerce.
+
+139
+00:08:43,390 --> 00:08:47,520
+Peut-être que c'est la raison pour laquelle ce secteur
+vaut plus que les films et la musique ensembles.
+
+140
+00:08:47,520 --> 00:08:51,060
+Je sais, les jeux vidéo ne sont
+pas si important pour la plupart des gens,
+
+141
+00:08:51,060 --> 00:08:54,230
+mais à cause de ça, il sont
+le canari de la mine.
+
+142
+00:08:54,230 --> 00:09:00,070
+Qu'en est-il des équipements agricoles ?
+Des outils de formation ? Des appareils médicaux ?
+
+143
+00:09:00,070 --> 00:09:04,640
+Il vaut mieux pour vous que cette pratique
+ne se répande pas dans d'autres secteurs, croyez moi.
+
+144
+00:09:04,640 --> 00:09:08,210
+J'ai une chose à dire, certains d'entre vous
+ont déjà fait les calculs et conclus
+
+145
+00:09:08,210 --> 00:09:13,180
+qu'on a besoin d'une moyenne de plus de 2 700 signatures
+par jour pour que ça marche.
+
+146
+00:09:13,180 --> 00:09:16,850
+Je le dis tout de suite, on ne va pas
+en obtenir autant tous les jours.
+
+147
+00:09:16,850 --> 00:09:20,190
+Ces choses se produisent par vagues
+quand des gens influents relayent l'info.
+
+148
+00:09:20,190 --> 00:09:24,360
+Il y aura plein de journées sous cette moyenne,
+mais d'autres pourront être 10 fois plus hautes.
+
+149
+00:09:24,360 --> 00:09:26,430
+Donc ne désespérez pas trop tôt.
+
+150
+00:09:26,430 --> 00:09:28,400
+Ne soyez pas comme ce mec dans les sports d'équipe
+
+151
+00:09:28,400 --> 00:09:31,330
+qui abandonne au premier
+signe de difficulté
+
+152
+00:09:31,330 --> 00:09:34,240
+et qui déclare forfait après
+30 secondes de match.
+
+153
+00:09:34,240 --> 00:09:35,740
+J'ai horreur de ça.
+
+154
+00:09:35,740 --> 00:09:37,810
+Je pense qu'on est à la croisée des chemins.
+
+155
+00:09:37,810 --> 00:09:39,410
+Si on a suffisamment de signatures
+
+156
+00:09:39,410 --> 00:09:43,080
+je pense que c'est terminé et
+on change l'histoire du gaming.
+
+157
+00:09:43,080 --> 00:09:47,420
+Ou bien on est incapable de se ressaisir
+et le problème empire de plus en plus,
+
+158
+00:09:47,420 --> 00:09:50,350
+et à l'avenir on ne
+possédera vraiment plus rien,
+
+159
+00:09:50,350 --> 00:09:53,960
+et on nous fera payer beaucoup
+pour ne rien posséder.
+
+160
+00:09:53,960 --> 00:09:57,160
+Peut-être qu'on aura de la chance et c'est redondant
+
+161
+00:09:57,160 --> 00:10:00,460
+du fait des autres démarches
+juridiques qui sont en cours,
+
+162
+00:10:00,460 --> 00:10:04,900
+mais peu importe, c'est
+votre chance de sauver les jeux.
+
+163
+00:10:04,900 --> 00:10:08,070
+Il n'y aura pas de deuxième round.
+
+164
+00:10:08,070 --> 00:10:11,310
+Si vous ou quelqu'un que vous
+connaissez êtes citoyen de l'UE,
+
+165
+00:10:11,310 --> 00:10:15,410
+vous avez le pouvoir d'arrêter ça
+juste une signant un formulaire.
+
+166
+00:10:15,410 --> 00:10:18,310
+Ceci dit ce plan a peut-être une faille importante,
+
+167
+00:10:18,310 --> 00:10:23,220
+c'est que je compte sur les joueur pour qu'ils
+s'intéressent au problème de la destruction des jeux.
+
+168
+00:10:23,220 --> 00:10:25,790
+J'espère que ce n'est pas trop demander,
+
+169
+00:10:25,790 --> 00:10:27,960
+car dans plusieurs années
+quelqu'un pourrait dire,
+
+170
+00:10:27,960 --> 00:10:31,130
+"Ouais, j'avais la possibilité de sauver le gaming,"
+
+171
+00:10:31,130 --> 00:10:34,660
+"mais il fallait ouvrir un nouvel onglet
+dans mon navigateur,"
+
+172
+00:10:34,660 --> 00:10:39,630
+"et entrer mon nom, et aussi
+un CAPTCHA... punaise... Gnnn..."
+
+173
+00:10:39,630 --> 00:10:44,570
+"Du coup je l'ai pas fait. C'était juste trop
+d'efforts. Ça valait pas le coup..."
+
+174
+00:10:44,570 --> 00:10:50,080
+Si c'est vraiment le sentiment général parmi
+les joueurs, alors oui, je ne peux pas lutter contre ça.
+
+175
+00:10:50,080 --> 00:10:53,380
+Et je suis Don Quichotte qui combat des moulins à vent.
+
+176
+00:10:53,380 --> 00:10:56,120
+J'espère que ce n'est pas le cas.
+
+177
+00:10:56,120 --> 00:11:00,820
+Donc, euh, allez signer,
+ou parlez-en à des européens !
+
+178
+00:11:02,220 --> 00:11:05,130
+[musique]
+
+179
+00:11:05,130 --> 00:11:09,400
+[Sous-titres par lroy]
+[musique]
+
+180
+00:11:09,400 --> 00:11:11,400
+[musique]
+
+181
+00:11:14,700 --> 00:11:17,270
+Oh, et ce n'est pas OBLIGÉ de durer un an.
+
+182
+00:11:17,270 --> 00:11:20,630
+Si on obtient bien plus de signatures
+que nécessaire, on peut arrêter plus tôt.
+
+183
+00:11:20,630 --> 00:11:22,840
+Donc vous pouvez speedruner ça.
+

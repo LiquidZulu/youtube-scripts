@@ -1,0 +1,926 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "You | 񓥻",
+      "targetTime": 0
+    },
+    {
+      "name": "mentioned | 񓥻",
+      "targetTime": 0.12
+    },
+    {
+      "name": "all | 񓥻",
+      "targetTime": 0.7848386390059356
+    },
+    {
+      "name": "these | 񓥻",
+      "targetTime": 0.94
+    },
+    {
+      "name": "people | 🱹",
+      "targetTime": 1.06
+    },
+    {
+      "name": "who | 🱹",
+      "targetTime": 1.26
+    },
+    {
+      "name": "are | 🱹",
+      "targetTime": 1.38
+    },
+    {
+      "name": "living | 🱹",
+      "targetTime": 1.48
+    },
+    {
+      "name": "under | 񈋈",
+      "targetTime": 1.64
+    },
+    {
+      "name": "capitalism. | 񈋈",
+      "targetTime": 1.84
+    },
+    {
+      "name": "Hey, | 񈋈",
+      "targetTime": 2.54
+    },
+    {
+      "name": "if | 󥌝",
+      "targetTime": 2.78
+    },
+    {
+      "name": "you | 󥌝",
+      "targetTime": 2.88
+    },
+    {
+      "name": "can | 󥌝",
+      "targetTime": 3.16
+    },
+    {
+      "name": "point | 󥌝",
+      "targetTime": 3.2600000000000002
+    },
+    {
+      "name": "them | 󥌝",
+      "targetTime": 3.48
+    },
+    {
+      "name": "out | 􌙯",
+      "targetTime": 3.58
+    },
+    {
+      "name": "to | 􌙯",
+      "targetTime": 3.74
+    },
+    {
+      "name": "me, | 􌙯",
+      "targetTime": 3.86
+    },
+    {
+      "name": "then | 􌙯",
+      "targetTime": 4.46222243120426
+    },
+    {
+      "name": "I'll | 􌙯",
+      "targetTime": 4.62
+    },
+    {
+      "name": "go | 􌙯",
+      "targetTime": 4.76
+    },
+    {
+      "name": "ahead | 𠥫",
+      "targetTime": 4.86
+    },
+    {
+      "name": "and | 𠥫",
+      "targetTime": 5.02
+    },
+    {
+      "name": "go | 𠥫",
+      "targetTime": 5.24
+    },
+    {
+      "name": "over | 𠥫",
+      "targetTime": 5.62
+    },
+    {
+      "name": "there, | 𠥫",
+      "targetTime": 6
+    },
+    {
+      "name": "because | 󭄩",
+      "targetTime": 6.860861640336638
+    },
+    {
+      "name": "I | 󭄩",
+      "targetTime": 7.02
+    },
+    {
+      "name": "certainly | 󭄩",
+      "targetTime": 7.14
+    },
+    {
+      "name": "can't | 򭔤",
+      "targetTime": 7.4
+    },
+    {
+      "name": "see | 򭔤",
+      "targetTime": 7.7
+    },
+    {
+      "name": "it | 򭔤",
+      "targetTime": 7.9
+    },
+    {
+      "name": "anywhere | 򭔤",
+      "targetTime": 8.06
+    },
+    {
+      "name": "on | 򭔤",
+      "targetTime": 8.36
+    },
+    {
+      "name": "planet | 򼚩",
+      "targetTime": 8.5
+    },
+    {
+      "name": "Earth. | 򼚩",
+      "targetTime": 8.76
+    },
+    {
+      "name": "You | 򼚩",
+      "targetTime": 9.14
+    },
+    {
+      "name": "know, | 򼚩",
+      "targetTime": 9.24
+    },
+    {
+      "name": "where | 󍀒",
+      "targetTime": 9.34
+    },
+    {
+      "name": "is | 󍀒",
+      "targetTime": 9.5
+    },
+    {
+      "name": "this | 󍀒",
+      "targetTime": 9.94
+    },
+    {
+      "name": "free | 󍀒",
+      "targetTime": 10.14
+    },
+    {
+      "name": "market | 򝫣",
+      "targetTime": 10.42
+    },
+    {
+      "name": "where | 򝫣",
+      "targetTime": 11.30471240847948
+    },
+    {
+      "name": "I | 򝫣",
+      "targetTime": 11.46
+    },
+    {
+      "name": "can | 򝫣",
+      "targetTime": 11.56
+    },
+    {
+      "name": "just | 򝫣",
+      "targetTime": 11.66
+    },
+    {
+      "name": "do | 򞧐",
+      "targetTime": 11.86
+    },
+    {
+      "name": "whatever | 򞧐",
+      "targetTime": 12.02
+    },
+    {
+      "name": "free | 򞧐",
+      "targetTime": 12.36
+    },
+    {
+      "name": "market | 򞧐",
+      "targetTime": 12.92
+    },
+    {
+      "name": "business | 򒿬",
+      "targetTime": 13.26
+    },
+    {
+      "name": "I | 򒿬",
+      "targetTime": 13.56
+    },
+    {
+      "name": "want? | 򒿬",
+      "targetTime": 13.8
+    },
+    {
+      "name": "It | 򒿬",
+      "targetTime": 14.24
+    },
+    {
+      "name": "certainly | 𳳭",
+      "targetTime": 14.6
+    },
+    {
+      "name": "isn't | 𳳭",
+      "targetTime": 14.88
+    },
+    {
+      "name": "America, | 𳳭",
+      "targetTime": 15.1
+    },
+    {
+      "name": "right? | 𝲀",
+      "targetTime": 16.12
+    },
+    {
+      "name": "It's | 𝲀",
+      "targetTime": 16.32
+    },
+    {
+      "name": "certainly | 𝲀",
+      "targetTime": 16.48
+    },
+    {
+      "name": "not | 󿮰",
+      "targetTime": 16.68
+    },
+    {
+      "name": "China. | 󿮰",
+      "targetTime": 16.86
+    },
+    {
+      "name": "It's | 󿮰",
+      "targetTime": 17.547229526893144
+    },
+    {
+      "name": "nowhere. | 󿮰",
+      "targetTime": 17.76
+    },
+    {
+      "name": "We | 񾬾",
+      "targetTime": 18.32
+    },
+    {
+      "name": "are | 񾬾",
+      "targetTime": 18.44
+    },
+    {
+      "name": "way, | 񾬾",
+      "targetTime": 19.18843174702076
+    },
+    {
+      "name": "way, | 񾬾-5113",
+      "targetTime": 19.554248520051093
+    },
+    {
+      "name": "way | 񾬾",
+      "targetTime": 19.71509814279298
+    },
+    {
+      "name": "poorer | 񁯂",
+      "targetTime": 20
+    },
+    {
+      "name": "than | 񁯂",
+      "targetTime": 20.864313406790842
+    },
+    {
+      "name": "we | 񁯂",
+      "targetTime": 20.98
+    },
+    {
+      "name": "could | 񁯂",
+      "targetTime": 21.18
+    },
+    {
+      "name": "have | 񅇣",
+      "targetTime": 21.36
+    },
+    {
+      "name": "been | 񅇣",
+      "targetTime": 21.48
+    },
+    {
+      "name": "if | 񅇣",
+      "targetTime": 22.16117608814901
+    },
+    {
+      "name": "we | 񅇣",
+      "targetTime": 22.28
+    },
+    {
+      "name": "had | 񅇣",
+      "targetTime": 22.380000000000003
+    },
+    {
+      "name": "actual | 򱦅",
+      "targetTime": 22.58
+    },
+    {
+      "name": "free | 򱦅",
+      "targetTime": 22.9
+    },
+    {
+      "name": "market | 򱦅",
+      "targetTime": 23.16
+    },
+    {
+      "name": "capitalism | 󯌾",
+      "targetTime": 23.47975143806198
+    },
+    {
+      "name": "at | 󯌾",
+      "targetTime": 24.89092976755283
+    },
+    {
+      "name": "all. | 󯌾",
+      "targetTime": 25.06820453602092
+    },
+    {
+      "name": "In | 򠊿",
+      "targetTime": 26.476890131045057
+    },
+    {
+      "name": "theory. | 򠊿",
+      "targetTime": 23.660000000000007
+    },
+    {
+      "name": "Yes, | 𣳂",
+      "targetTime": 28.279718393141284
+    },
+    {
+      "name": "and | 𣳂",
+      "targetTime": 23.86000000000001
+    },
+    {
+      "name": "the | 𣳂",
+      "targetTime": 23.96000000000001
+    },
+    {
+      "name": "theory | 𻂈",
+      "targetTime": 28.68
+    },
+    {
+      "name": "implies | 𻂈",
+      "targetTime": 28.92
+    },
+    {
+      "name": "it's | 𻂈",
+      "targetTime": 29.52
+    },
+    {
+      "name": "true. | 󡧷",
+      "targetTime": 29.62
+    },
+    {
+      "name": "It's | 󡧷",
+      "targetTime": 30.40927104433372
+    },
+    {
+      "name": "correct | 󡧷",
+      "targetTime": 30.616490984563413
+    },
+    {
+      "name": "theory. | 󡧷",
+      "targetTime": 30.904672920476745
+    },
+    {
+      "name": "This | 􍗨",
+      "targetTime": 31.73333088162953
+    },
+    {
+      "name": "goes | 􍗨",
+      "targetTime": 31.944927145950228
+    },
+    {
+      "name": "back | 􍗨",
+      "targetTime": 32.106195683224335
+    },
+    {
+      "name": "to | 򤈠",
+      "targetTime": 32.24
+    },
+    {
+      "name": "what | 򤈠",
+      "targetTime": 32.34
+    },
+    {
+      "name": "I'm | 򤈠",
+      "targetTime": 32.440000000000005
+    },
+    {
+      "name": "saying. | 򤈠",
+      "targetTime": 32.540000000000006
+    },
+    {
+      "name": "Like, | 겸",
+      "targetTime": 32.78
+    },
+    {
+      "name": "you | 겸",
+      "targetTime": 32.92
+    },
+    {
+      "name": "guys | 겸",
+      "targetTime": 33.02
+    },
+    {
+      "name": "are | 겸",
+      "targetTime": 33.14
+    },
+    {
+      "name": "like | 겸",
+      "targetTime": 33.28
+    },
+    {
+      "name": "the | 𹞿",
+      "targetTime": 33.5
+    },
+    {
+      "name": "90s | 𹞿",
+      "targetTime": 34.16
+    },
+    {
+      "name": "versions | 𹞿",
+      "targetTime": 34.56
+    },
+    {
+      "name": "of | 𹞿",
+      "targetTime": 34.9
+    },
+    {
+      "name": "like | 𹞿",
+      "targetTime": 35.1
+    },
+    {
+      "name": "the | ᑃ",
+      "targetTime": 35.29619724395516
+    },
+    {
+      "name": "Trotskyist | ᑃ",
+      "targetTime": 35.300000000000004
+    },
+    {
+      "name": "kids | ᑃ",
+      "targetTime": 35.90802368282825
+    },
+    {
+      "name": "who | ᑃ",
+      "targetTime": 36.12147449243516
+    },
+    {
+      "name": "are | 񠤵",
+      "targetTime": 36.3
+    },
+    {
+      "name": "like, | 񠤵",
+      "targetTime": 36.4
+    },
+    {
+      "name": "well, | 񠤵",
+      "targetTime": 36.66
+    },
+    {
+      "name": "that | 񠤵",
+      "targetTime": 36.84
+    },
+    {
+      "name": "wasn't | 򪄳",
+      "targetTime": 36.940000000000005
+    },
+    {
+      "name": "real | 򪄳",
+      "targetTime": 37.14
+    },
+    {
+      "name": "socialism. | 򪄳",
+      "targetTime": 37.28
+    },
+    {
+      "name": "And | 󦹪",
+      "targetTime": 37.74
+    },
+    {
+      "name": "if | 󦹪",
+      "targetTime": 37.94
+    },
+    {
+      "name": "we | 󦹪",
+      "targetTime": 38.2
+    },
+    {
+      "name": "can | 󦹪",
+      "targetTime": 38.32
+    },
+    {
+      "name": "achieve | 󦹪",
+      "targetTime": 38.56
+    },
+    {
+      "name": "real | 񷡓",
+      "targetTime": 38.86
+    },
+    {
+      "name": "socialism, | 񷡓",
+      "targetTime": 39.06
+    },
+    {
+      "name": "it'll | 񷡓",
+      "targetTime": 39.38
+    },
+    {
+      "name": "really | 򑶝",
+      "targetTime": 39.6
+    },
+    {
+      "name": "be | 򑶝",
+      "targetTime": 39.82
+    },
+    {
+      "name": "good. | 򑶝",
+      "targetTime": 39.94
+    },
+    {
+      "name": "I | 򑶝",
+      "targetTime": 40.22
+    },
+    {
+      "name": "promise. | 󔊤",
+      "targetTime": 40.32
+    },
+    {
+      "name": "Just | 󔊤",
+      "targetTime": 40.66
+    },
+    {
+      "name": "trust | 󔊤",
+      "targetTime": 40.76
+    },
+    {
+      "name": "me. | 󔊤",
+      "targetTime": 40.92
+    },
+    {
+      "name": "But | 𖥯",
+      "targetTime": 41.32
+    },
+    {
+      "name": "it's | 𖥯",
+      "targetTime": 41.72
+    },
+    {
+      "name": "never | 𖥯",
+      "targetTime": 42
+    },
+    {
+      "name": "existed | 𖥯",
+      "targetTime": 42.24
+    },
+    {
+      "name": "anywhere | 񅻞",
+      "targetTime": 42.61021911037513
+    },
+    {
+      "name": "but | 񅻞",
+      "targetTime": 42.94183549069666
+    },
+    {
+      "name": "in | 񅻞",
+      "targetTime": 42.540000000000006
+    },
+    {
+      "name": "my | 񊅽",
+      "targetTime": 42.64000000000001
+    },
+    {
+      "name": "own | 񊅽",
+      "targetTime": 42.74000000000001
+    },
+    {
+      "name": "imagination. | 񊅽",
+      "targetTime": 42.84000000000001
+    },
+    {
+      "name": "Except | 󩑦",
+      "targetTime": 44.13668463166127
+    },
+    {
+      "name": "I'm | 󩑦",
+      "targetTime": 44.6332399494845
+    },
+    {
+      "name": "not | 󩑦",
+      "targetTime": 43.140000000000015
+    },
+    {
+      "name": "I'm | 񘖼",
+      "targetTime": 45.02976293884822
+    },
+    {
+      "name": "not | 񘖼",
+      "targetTime": 43.34000000000002
+    },
+    {
+      "name": "like | 񘖼",
+      "targetTime": 43.44000000000002
+    },
+    {
+      "name": "divorcing | 󂯋",
+      "targetTime": 45.74177083377765
+    },
+    {
+      "name": "my | 󂯋",
+      "targetTime": 46.873387214099175
+    },
+    {
+      "name": "theory | 󂯋",
+      "targetTime": 47.08
+    },
+    {
+      "name": "from | 󂯋",
+      "targetTime": 47.42
+    },
+    {
+      "name": "reality. | 󫩱",
+      "targetTime": 47.66
+    },
+    {
+      "name": "They're | 󫩱",
+      "targetTime": 48.20667744281984
+    },
+    {
+      "name": "divorcing | 𫍮",
+      "targetTime": 48.54
+    },
+    {
+      "name": "the | 𫍮",
+      "targetTime": 49.550933909578085
+    },
+    {
+      "name": "theory | 𫍮",
+      "targetTime": 49.66
+    },
+    {
+      "name": "from | 񆩷",
+      "targetTime": 49.84
+    },
+    {
+      "name": "reality. | 񆩷",
+      "targetTime": 50
+    },
+    {
+      "name": "They | 񆩷",
+      "targetTime": 50.69546695478904
+    },
+    {
+      "name": "are | 񆩷",
+      "targetTime": 50.86
+    },
+    {
+      "name": "saying | 𪷋",
+      "targetTime": 50.98
+    },
+    {
+      "name": "that | 𪷋",
+      "targetTime": 51.22
+    },
+    {
+      "name": "man | 𪷋",
+      "targetTime": 51.68320043218356
+    },
+    {
+      "name": "is | 𪷋",
+      "targetTime": 52.02
+    },
+    {
+      "name": "insufficient. | 󿁴",
+      "targetTime": 52.2
+    },
+    {
+      "name": "Reality | 󿁴",
+      "targetTime": 52.76279453989282
+    },
+    {
+      "name": "is | 󿁴",
+      "targetTime": 53.08
+    },
+    {
+      "name": "insufficient | 񼏼",
+      "targetTime": 53.4
+    },
+    {
+      "name": "to | 񼏼",
+      "targetTime": 54.60711566357008
+    },
+    {
+      "name": "live | 񼏼",
+      "targetTime": 54.72
+    },
+    {
+      "name": "up | 񼏼",
+      "targetTime": 54.96
+    },
+    {
+      "name": "to | 󺫽",
+      "targetTime": 55.12
+    },
+    {
+      "name": "my | 󺫽",
+      "targetTime": 55.22
+    },
+    {
+      "name": "theory. | 󺫽",
+      "targetTime": 55.36
+    },
+    {
+      "name": "That | 󺫽",
+      "targetTime": 56.16077945612197
+    },
+    {
+      "name": "isn't | 󺫽",
+      "targetTime": 56.32
+    },
+    {
+      "name": "the | 񶠎",
+      "targetTime": 56.54
+    },
+    {
+      "name": "claim | 񶠎",
+      "targetTime": 56.64
+    },
+    {
+      "name": "I'm | 񶠎",
+      "targetTime": 56.78
+    },
+    {
+      "name": "making. | 񶠎",
+      "targetTime": 57.02
+    },
+    {
+      "name": "Reality | 񔛫",
+      "targetTime": 57.713013650267946
+    },
+    {
+      "name": "is | 񔛫",
+      "targetTime": 57.98
+    },
+    {
+      "name": "perfectly | 񔛫",
+      "targetTime": 58.12
+    },
+    {
+      "name": "sufficient. | 񴔋",
+      "targetTime": 58.44
+    },
+    {
+      "name": "And | 񴔋",
+      "targetTime": 59.25795258776964
+    },
+    {
+      "name": "I'm | 񴔋",
+      "targetTime": 59.36
+    },
+    {
+      "name": "recognizing | 󝚖",
+      "targetTime": 59.51264008643671
+    },
+    {
+      "name": "it. | 󝚖",
+      "targetTime": 59.97410201330214
+    },
+    {
+      "name": "I'm | 󝚖",
+      "targetTime": 60.58295618219035
+    },
+    {
+      "name": "recognizing | 򀳼",
+      "targetTime": 60.84
+    },
+    {
+      "name": "that | 򀳼",
+      "targetTime": 61.28
+    },
+    {
+      "name": "people | 򀳼",
+      "targetTime": 61.58
+    },
+    {
+      "name": "are | 󞠖",
+      "targetTime": 61.84
+    },
+    {
+      "name": "being | 󞠖",
+      "targetTime": 61.98
+    },
+    {
+      "name": "destroyed | 󞠖",
+      "targetTime": 62.12
+    },
+    {
+      "name": "by | 󞠖",
+      "targetTime": 63.18428879521775
+    },
+    {
+      "name": "the | 򔳡",
+      "targetTime": 63.28
+    },
+    {
+      "name": "state. | 򔳡",
+      "targetTime": 63.46
+    },
+    {
+      "name": "That | 򔳡",
+      "targetTime": 64.06844827659748
+    },
+    {
+      "name": "is | 򔳡",
+      "targetTime": 64.22
+    },
+    {
+      "name": "a | 򔳡",
+      "targetTime": 64.34
+    },
+    {
+      "name": "recognition | 񆲷",
+      "targetTime": 64.44
+    },
+    {
+      "name": "of | 񆲷",
+      "targetTime": 64.9
+    },
+    {
+      "name": "reality, | 񆲷",
+      "targetTime": 65.2
+    },
+    {
+      "name": "not | 󷴚",
+      "targetTime": 65.88282686835234
+    },
+    {
+      "name": "a | 󷴚",
+      "targetTime": 66.06
+    },
+    {
+      "name": "rejection | 󷴚",
+      "targetTime": 66.18
+    },
+    {
+      "name": "of | 󷴚",
+      "targetTime": 66.72175835279008
+    },
+    {
+      "name": "it. | 󷴚",
+      "targetTime": 66.83530077326753
+    },
+    {
+      "name": "So | 󈁼",
+      "targetTime": 67.2663362074481
+    },
+    {
+      "name": "these | 󈁼",
+      "targetTime": 67.38
+    },
+    {
+      "name": "are | 󈁼",
+      "targetTime": 67.54
+    },
+    {
+      "name": "two | 󈁼",
+      "targetTime": 67.64
+    },
+    {
+      "name": "different | 򟣌",
+      "targetTime": 67.82
+    },
+    {
+      "name": "sides | 򟣌",
+      "targetTime": 68.77413434176164
+    },
+    {
+      "name": "of | 򟣌",
+      "targetTime": 69.12
+    },
+    {
+      "name": "the | 򟣌",
+      "targetTime": 69.32
+    },
+    {
+      "name": "coin. | 򺞆",
+      "targetTime": 69.42
+    },
+    {
+      "name": "End mkSubtitles for prefix: no prefix specified",
+      "targetTime": 69.84010763621517
+    }
+  ],
+  "seed": 2451396950
+}

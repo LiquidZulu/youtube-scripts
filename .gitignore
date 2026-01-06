@@ -9,10 +9,16 @@
 *.xcf
 *.webm
 *.wav
+*.m4a
+*.mp3
+*.mov
+*.zip
 *.aup*
+**/b-roll/**
 **/ai-art/**/art-as-integrated/*
 **/ai-art/**/*.mp3
 **/ai-art/images/birth of venus.png
 **/ai-art/images/The_Garden_of_earthly_delights.jpg
 **/ai-art/**/*Google_Art_Project*
 **/open-borders/audio/proc.mp3
+**/brave

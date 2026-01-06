@@ -1,0 +1,842 @@
+1
+00:00:00,534 --> 00:00:02,569
+Zdravo, ja sam Ross.
+
+2
+00:00:02,569 --> 00:00:04,905
+Zadnjih nekoliko mjeseci radim na kampanj
+
+3
+00:00:04,905 --> 00:00:07,774
+kako bi zaustavili uništenje videoigara.
+
+4
+00:00:07,774 --> 00:00:13,213
+Vidite, većina videoigara radi
+neograničeno i- to je više-manje to.
+
+5
+00:00:13,213 --> 00:00:15,582
+Ali, sve ih je više i više
+napravljeno da prestanu raditi
+
+6
+00:00:15,582 --> 00:00:20,120
+u trenutku kada potpora prestane
+od strane izdavača- u osnovi, nasumični prekid.
+
+7
+00:00:20,120 --> 00:00:22,623
+Naravno, to je vrsta planirane obselescencije
+
+8
+00:00:22,623 --> 00:00:26,260
+gdje izdavači uništavaju igre
+koje su vam već prodali,
+
+9
+00:00:26,260 --> 00:00:27,934
+dok zadržavaju vaš novac.
+
+10
+00:00:27,934 --> 00:00:31,331
+A sve se ovo može sprijećiti-
+neki to ne razumiju.
+
+11
+00:00:31,331 --> 00:00:34,401
+To sam već usporedui sa filmskim
+studijima prošlog stoljeća:
+
+12
+00:00:34,401 --> 00:00:37,437
+palili su vlastite trake
+nakon ekranizacije
+
+13
+00:00:37,437 --> 00:00:39,206
+kako bi povratili srebro u njima,
+
+14
+00:00:39,206 --> 00:00:42,509
+a danas su filmovi te ere
+zauvijek izgubljeni.
+
+15
+00:00:42,509 --> 00:00:46,213
+Nešto se slično događa
+videoigrama današnjice.
+
+16
+00:00:46,213 --> 00:00:49,750
+To je jednostavno užasna 
+praksa za sve umiješane.
+
+17
+00:00:49,750 --> 00:00:51,451
+Većina mojih napora idu prema
+
+18
+00:00:51,451 --> 00:00:55,055
+izazivanju legalnosti takve prakse
+unutar raznih zemalja,
+
+19
+00:00:55,055 --> 00:01:00,627
+jer ne samo da je to protiv potrošaća, već
+je nepoznato ako je praksa uopće legalna.
+
+20
+00:01:00,627 --> 00:01:04,531
+To se i dalje odvija, ali
+sada imamo novu opciju:
+
+21
+00:01:04,531 --> 00:01:08,802
+predložiti novi zakon i to 
+za cijelu Europsku Uniju.
+
+22
+00:01:08,802 --> 00:01:11,872
+Trebalo je mnogo mjeseci da
+ju sastavimo i da se ona obradi,
+
+23
+00:01:11,872 --> 00:01:15,175
+ali sada imamo inicijativu
+europskih građana (ECI)
+
+24
+00:01:15,175 --> 00:01:18,578
+posvećenu zaustavljanju uništenja.
+
+25
+00:01:18,578 --> 00:01:20,180
+Možete ju pročitati i sami.
+
+26
+00:01:20,180 --> 00:01:23,450
+Ovakav zakon bi tražio od izdavača da
+ostave prethodno prodane igre
+
+27
+00:01:23,450 --> 00:01:26,119
+u korisnom stanju nakon prekida potpore,
+
+28
+00:01:26,119 --> 00:01:28,789
+bez ikakvog njihovog dodantog mješanja
+
+29
+00:01:28,789 --> 00:01:31,758
+ili ikoje privržene stranke
+kako bi igre funkcionirale.
+
+30
+00:01:31,758 --> 00:01:34,227
+Kako bi to napravili ostaje na izdavačima.
+
+31
+00:01:34,227 --> 00:01:38,699
+Ovo bi se također primjenjivalo na "free-to-play"
+igre koje sadržavaju mikrotransakcije.
+
+32
+00:01:38,699 --> 00:01:42,302
+jer ako ste kupili 
+mikrotransakciju kao proizvod
+
+33
+00:01:42,302 --> 00:01:46,540
+i igra prestane biti moguće igrati,
+vi ste izgubili taj proizvod.
+
+34
+00:01:46,540 --> 00:01:48,942
+Ovaj zakon ne bi tražio od izdavaća da predaju
+
+35
+00:01:48,942 --> 00:01:51,244
+svoja intelektualna prava
+
+36
+00:01:51,244 --> 00:01:55,082
+ili izvorni kod, makar bi to
+bilo poželjno,
+
+37
+00:01:55,082 --> 00:01:57,517
+niti bi zahtijevalo beskonačnu potporu.
+
+38
+00:01:57,517 --> 00:02:00,654
+Izdavači mogu prestati kad god žele
+ako se mene pita.
+
+39
+00:02:00,654 --> 00:02:04,124
+Niti bi oni trebali održavati servere,
+no tada bi trebali
+
+40
+00:02:04,124 --> 00:02:08,261
+maknuti potrebu za njima ili
+dati alate kupcima da ih održavaju privatno,
+
+41
+00:02:08,261 --> 00:02:13,467
+niti nositi odgovornost za što korisnici
+rade sa svojim kopijama,
+
+42
+00:02:13,467 --> 00:02:17,037
+te ova inicijativa neće imati
+ikakvog utjecaja
+
+43
+00:02:17,037 --> 00:02:21,141
+na prodajne prakse dok
+se videoigre podržavaju.
+
+44
+00:02:21,141 --> 00:02:25,946
+Drugim riječima, izdavači mogu
+nastaviti raditi što god ih volja,
+
+45
+00:02:25,946 --> 00:02:27,914
+sve dok vi možete zadržati svoje igre.
+
+46
+00:02:27,914 --> 00:02:33,153
+Iznenađuje me da neki kažu kako ovo je 
+"previše privrženo" potrošačima.
+
+47
+00:02:33,153 --> 00:02:36,390
+Makar, da budemo iskreni,
+većina vjerojatno nisu europljani.
+
+48
+00:02:36,390 --> 00:02:42,095
+Naša ideja je da jedino želimo zaustaviti
+uništenje igara, to je sve.
+
+49
+00:02:42,095 --> 00:02:47,134
+Zbog toga koristimo najuži mogući pristup
+kako bi riješili taj probblem.
+
+50
+00:02:47,134 --> 00:02:48,602
+Ako dobijemo dovoljno potpisa,
+
+51
+00:02:48,602 --> 00:02:52,706
+ova će propozicija ići pred europsku komisiju
+kako bi se razmotrila kao novi zakon.
+
+52
+00:02:52,706 --> 00:02:55,308
+A ako dijelite naše mišljenje, 
+nemorate nastaviti gledati!
+
+53
+00:02:55,308 --> 00:02:57,010
+Možete ju potpisati ovog trena!
+
+54
+00:02:57,010 --> 00:03:01,815
+Ali čekajte. Prije no što to napravite
+znajte da imate JEDNU ŠANSU da to napravite točno.
+
+55
+00:03:01,815 --> 00:03:04,217
+Nije teško, no ako napravite grešku
+
+56
+00:03:04,217 --> 00:03:07,554
+vaš se potpis invalidira i
+nemate drugu šansu.
+
+57
+00:03:07,554 --> 00:03:12,292
+Na stopkillinggames.com smo napravili
+uputstca, za svaki slučaj.
+
+58
+00:03:12,292 --> 00:03:16,963
+No je li to tako jednostavno; ljudi
+potpišu i ovo postane zakon Europske Unije?
+
+59
+00:03:16,963 --> 00:03:19,399
+Moglo bi biti!
+
+60
+00:03:19,399 --> 00:03:24,237
+Nemogu garantirati, no - ako dobijemo
+potpise - šansa postoji.
+
+61
+00:03:24,237 --> 00:03:27,074
+Zašto to kažem?
+Postoji par razloga.
+
+62
+00:03:27,074 --> 00:03:31,978
+Političari vole lak plijen,
+a ovo ne traži mnogo.
+
+63
+00:03:31,978 --> 00:03:35,082
+Te ako ne učljučuje kockanje ili djecu
+
+64
+00:03:35,082 --> 00:03:38,351
+političare nije briga za video igre.
+
+65
+00:03:38,351 --> 00:03:42,689
+Tako da ovakvo što ne bi imalo teške posljedice
+za njih ili njihove birače.
+
+66
+00:03:42,689 --> 00:03:47,094
+Zakon Unije je ionako mutan u tom pogledu
+
+67
+00:03:47,094 --> 00:03:50,130
+te bi mi olakšali buduće
+odluke legalnog sistema.
+
+68
+00:03:50,130 --> 00:03:52,966
+Ovime bi takva prodaja bila podjednaka
+sa drugim potrošačkim praksama -
+
+69
+00:03:52,966 --> 00:03:57,337
+znate da obično kada nešto kupite, to ste u pravu zadržati?
+
+70
+00:03:57,337 --> 00:04:00,607
+I kao kraj, ovo bi bila
+diverzija od ozbiljnih tema
+
+71
+00:04:00,607 --> 00:04:03,076
+od kojih bi se političari
+rađe klonili,
+
+72
+00:04:03,076 --> 00:04:06,480
+a ovo bi im omogučilo
+da to i učine.
+
+73
+00:04:06,480 --> 00:04:10,183
+U stvari, dao bih se kladiti da ako
+uspijemo prijeći minimum potpisa,
+
+74
+00:04:10,183 --> 00:04:14,621
+ovo uđe u zakon,mi riješimo
+oko 90% ovog problema.
+
+75
+00:04:14,621 --> 00:04:18,692
+Kažem 90% jer bi ovo 
+vrijedilo samo unutar Unije,
+
+76
+00:04:18,692 --> 00:04:25,031
+te ako bi igra izašla samo u Kini ili
+Japanu, ovo ih nebi spasilo,
+
+77
+00:04:25,031 --> 00:04:29,636
+no večina se prodaju globalno,
+što podrauumijeva Europsku Uniju.
+
+78
+00:04:29,636 --> 00:04:31,404
+Kada postane zahtjev da kompanije
+
+79
+00:04:31,404 --> 00:04:35,942
+moraju vama dopustiti da zadržite igre
+koje su vam prodali u tako velikom tržištu,
+
+80
+00:04:35,942 --> 00:04:40,413
+mislim da će se proširiti dalje,
+nevažno o zakonu vani.
+
+81
+00:04:40,413 --> 00:04:45,385
+Nažalost, na ono što se ne bih kladio 
+- pošto je velika nepoznanica -
+
+82
+00:04:45,385 --> 00:04:49,256
+je možemo li uopće dobiti minimum potpisa.
+
+83
+00:04:49,256 --> 00:04:55,095
+Da ovo radi, treba nam milijun potpisa kroz cijelu Europsku Uniju
+
+84
+00:04:55,095 --> 00:05:02,536
+- makar vijerojatno više zbog kojekakvih invalidacija
+
+85
+00:05:02,536 --> 00:05:08,341
+zbog kojih nam vjerojatnije treba
+1.2 ili 1.3 milijuna glasova -
+
+86
+00:05:08,341 --> 00:05:14,781
+a postaje još gore jer trebaju proći određeni minimumi za pojedine zemlje.
+
+87
+00:05:14,781 --> 00:05:17,350
+Tako da, ako netko potpiše u Grčkoj.
+
+88
+00:05:17,350 --> 00:05:25,292
+Tada nam treba skoro 15000 još grka,
+inaće se niti jedan od grčkih potpisa broje.
+
+89
+00:05:25,292 --> 00:05:28,895
+To mi je pravilo relativno neobično.
+
+90
+00:05:28,895 --> 00:05:33,066
+Skoro me zanima da je Europska Unija
+otrgnula stranicu od SAD-a.
+
+91
+00:05:33,066 --> 00:05:35,836
+U ostalom, to je puno potpisa.
+
+92
+00:05:35,836 --> 00:05:40,874
+Možda imam deluzije što ovo uopće
+pokušavam, nisam posve siguran.
+
+93
+00:05:40,874 --> 00:05:46,680
+Dobra je vjest što imamo godinu dana
+da ih sve pokupimo, imamo vremena.
+
+94
+00:05:46,680 --> 00:05:48,248
+Iako priznajem,
+
+95
+00:05:48,248 --> 00:05:52,452
+ne postoji ta šansa da imam
+toliko europljana u svojoj publici.
+
+96
+00:05:52,452 --> 00:05:58,258
+Ovo će jedino uspijeti ako se ispružimo
+Europskim Youtuberima i streamerima, i tako dalje
+
+97
+00:05:58,258 --> 00:06:03,330
+kako bismo ih pridobili, pogotovo
+one koji ne pričaju engleski.
+
+98
+00:06:03,330 --> 00:06:08,134
+Ja ću promovirati najbolje što
+mogu, no imam mali doseg.
+
+99
+00:06:08,134 --> 00:06:11,104
+Rekao bih, otkad sam pokrenuo Stop Killing Games,
+
+100
+00:06:11,104 --> 00:06:15,742
+nitko nije odgovorio.
+
+101
+00:06:15,742 --> 00:06:19,946
+Tako da moji pokušaji ne uspijevaju.
+
+102
+00:06:19,946 --> 00:06:23,016
+No, tvije stvari rade:
+
+103
+00:06:23,016 --> 00:06:28,021
+Jedno je da se drugi pruže meni,
+pošto odgovaram mnogo.
+
+104
+00:06:28,021 --> 00:06:31,258
+I da ljudi nezavisno ovo pokrivaju.
+
+105
+00:06:31,258 --> 00:06:34,828
+To je stvarno uspijelo, što
+znaći da ako ovo gledate
+
+106
+00:06:34,828 --> 00:06:38,064
+možda ste ključna karika
+
+107
+00:06:38,064 --> 00:06:42,869
+jer vi možete reći drugim youtuberima,
+strimerima, et cetera... o ovome,
+
+108
+00:06:42,869 --> 00:06:44,604
+a oni možda odgovore.
+
+109
+00:06:44,604 --> 00:06:49,609
+Ponovo, još je bolje ako njihova
+publika ne priča engleski.
+
+110
+00:06:49,609 --> 00:06:53,880
+Broj ljudi koji od ranog
+govore engleski je relativno mal,
+
+111
+00:06:53,880 --> 00:06:57,517
+tako da mi moramo spojiti različite
+jezike što bolje možemo.
+
+112
+00:06:57,517 --> 00:07:02,155
+Ja prihvačam intervjue, publicitet, štogod
+[ rosswscott@gmail.com ]
+
+113
+00:07:02,155 --> 00:07:06,259
+bilo kome sa europskom publikom.
+[ rosswscott@gmail.com ]
+
+114
+00:07:06,259 --> 00:07:10,330
+naknadno, glavni i pomočni govornik inicijative 
+
+115
+00:07:10,330 --> 00:07:13,667
+su oboje prihvatili govoriti o ovome.
+
+116
+00:07:13,667 --> 00:07:17,938
+Oni su multilingualni, te imamo
+još nekoliko organizatora
+
+117
+00:07:17,938 --> 00:07:20,940
+koji bi o tome prihvatili pričati u drugim jezicima.
+
+118
+00:07:20,940 --> 00:07:26,046
+To su ljudi koji ovo vode;
+stvarni europljani.
+
+119
+00:07:26,046 --> 00:07:33,119
+Da, iako sam pomogao, 
+nisam eligibilan.
+
+120
+00:07:33,119 --> 00:07:36,022
+Nema veze, što god nas prenese
+preko ciljne linije.
+
+121
+00:07:36,022 --> 00:07:38,591
+Na temu eligibiliteta,
+poprilično je jednostavno.
+
+122
+00:07:38,591 --> 00:07:42,495
+Morate biti građanin Unije, makar
+ne morate tamo živijeti,
+
+123
+00:07:42,495 --> 00:07:45,398
+i morate moći glasati, to je sve.
+
+124
+00:07:45,398 --> 00:07:49,869
+To znaći da niste jedini koji mogu potpisati,
+vaši prijatelji mogu također,
+
+125
+00:07:49,869 --> 00:07:54,107
+kao i obitelj, vaši romantični
+interesi to mogu potpisati.
+
+126
+00:07:54,107 --> 00:07:59,079
+Svi se broje. Pridobijte svakoga i recite
+im da nagovore druge da također potpišu.
+
+127
+00:07:59,079 --> 00:08:02,482
+I da, čudno je što sam ja -
+neeligibilni amerikanac -
+
+128
+00:08:02,482 --> 00:08:06,619
+tako angažiran za Europljane da
+potpišu dokument, ali znate što?
+
+129
+00:08:06,619 --> 00:08:11,257
+Ako prođe, mi svi dobivamo, tako da
+moramo zgrabiti svaku priliku.
+
+130
+00:08:11,257 --> 00:08:14,728
+I amo imate rodbinu ili bilo koga
+koga nije briga o igrama,
+
+131
+00:08:14,728 --> 00:08:19,933
+objasnite im da ovime održavamo
+svoja osnovna prava posjedovanja.
+
+132
+00:08:19,933 --> 00:08:21,935
+Da su umjesto video igara auti,
+
+133
+00:08:21,935 --> 00:08:26,139
+ono što se ovdje događa bi bilo kao
+da sam vam prodao auto po punoj cijeni,
+
+134
+00:08:26,139 --> 00:08:30,543
+da bi puno kasnije - bez da vam ikad priopčim
+koliko kasnije, te auto nije iznajmljen -
+
+135
+00:08:30,543 --> 00:08:33,713
+Đođem u vaš dom i
+uzmem auto natrag,
+
+136
+00:08:33,713 --> 00:08:35,415
+ali mi novac ostaje.
+
+137
+00:08:35,415 --> 00:08:39,786
+To nije dobro poslovanje -
+ne za potrošača.
+
+138
+00:08:39,786 --> 00:08:43,390
+Uzeti natrag što si već prodao
+je super za poslovanje.
+
+139
+00:08:43,390 --> 00:08:47,527
+Možda je to baš zašto je ova industrija
+vrijednija od filmske i muzičke zajedno.
+
+140
+00:08:47,527 --> 00:08:51,064
+Razumijem, videoigre
+nisu važne većini,
+
+141
+00:08:51,064 --> 00:08:54,234
+no, zbog toga suž
+kanarinac u rudniku.
+
+142
+00:08:54,234 --> 00:09:00,073
+Što sa farmerskom opremom?
+Edukacijskom? Medicinskom?
+
+143
+00:09:00,073 --> 00:09:04,644
+Ne želite da se ova praksa
+proširi, vjerujte mi.
+
+144
+00:09:04,644 --> 00:09:08,214
+Neki od vas su vjerojatno odradili
+matematiku i primijetili
+
+145
+00:09:08,214 --> 00:09:13,186
+da nam treba prosiječno 2,700 potpisa
+dnevno da bi nam ovo uspijelo.
+
+146
+00:09:13,186 --> 00:09:16,856
+Odmah ću vam reći da
+nećemo imati toliko dnevno.
+
+147
+00:09:16,856 --> 00:09:20,193
+Ovakve stvari se događaju u valovima
+kad ih utjecajni ljudi primijete.
+
+148
+00:09:20,193 --> 00:09:24,364
+Mnogi dani će biti ispod, no drugi bi
+mogli biti i deset puta veći!
+
+149
+00:09:24,364 --> 00:09:26,433
+Tako da nemojte ovo otpisati prerano.
+
+150
+00:09:26,433 --> 00:09:28,401
+Nemojte biti vrsta osobe
+koju vidim u timskim igrama:
+
+151
+00:09:28,401 --> 00:09:31,337
+onaj koj odustane na prvom snagu
+
+152
+00:09:31,337 --> 00:09:34,240
+i zove za prekid 30 sekundi u meč.
+
+153
+00:09:34,240 --> 00:09:35,742
+To mrzim.
+
+154
+00:09:35,742 --> 00:09:37,811
+Mislim da smo na križanju:
+
+155
+00:09:37,811 --> 00:09:39,412
+Ako uspijemo dobiti dovoljno potpisa
+
+156
+00:09:39,412 --> 00:09:43,082
+ovo možemo završiti i
+napraviti povijest.
+
+157
+00:09:43,082 --> 00:09:47,420
+Ili ne uspijemo i problemi
+postanu sve gori i gori,
+
+158
+00:09:47,420 --> 00:09:50,356
+i u budučnosti mi
+ne posjedujemo ništa,
+
+159
+00:09:50,356 --> 00:09:53,960
+a za tu neimaštinu plačamo.
+
+160
+00:09:53,960 --> 00:09:57,163
+Možda nam se posreći i ovo je nepotrebno
+
+161
+00:09:57,163 --> 00:10:00,467
+zbog svih sudskih pokušaja,
+
+162
+00:10:00,467 --> 00:10:04,904
+ali svakako, ovo je naša šansa da spasimo igre.
+
+163
+00:10:04,904 --> 00:10:08,074
+Neće biti drugog poluvremena.
+
+164
+00:10:08,074 --> 00:10:11,311
+Ako ste ili znate građana Europske Unije,
+
+165
+00:10:11,311 --> 00:10:15,415
+imate tu moć, a samo
+morate potpisati formular.
+
+166
+00:10:15,415 --> 00:10:18,318
+Iako ovaj plan ima kritične slabosti,
+
+167
+00:10:18,318 --> 00:10:23,223
+računam da igrači ne žele
+vidjeti svoje igre uništene.
+
+168
+00:10:23,223 --> 00:10:25,792
+I nadam se da puno ne tražim,
+
+169
+00:10:25,792 --> 00:10:27,961
+da neće u budučnosti biti
+
+170
+00:10:27,961 --> 00:10:31,130
+"Da, imao sam šansu ovo spasiti,
+
+171
+00:10:31,130 --> 00:10:34,667
+"ali me tražilo da otvorim stranicu,
+
+172
+00:10:34,667 --> 00:10:39,639
+"i upišem svoje ime i odgovorim CAPTCHA-u,
+
+173
+00:10:39,639 --> 00:10:44,577
+"Tako da to nisam učinio, bilo je previše muke..."
+
+174
+00:10:44,577 --> 00:10:50,083
+Ako je to sveopče mišljenje,
+ja ga nemogu promijeniti.
+
+175
+00:10:50,083 --> 00:10:53,386
+Onda sam Don Quixote, jureći na vjetrenjače.
+
+176
+00:10:53,386 --> 00:10:56,122
+Nadam se da to nije slučaj.
+
+177
+00:10:56,122 --> 00:11:00,827
+Tako da potpišite, recite europljanjima za nj.
+
+178
+00:11:02,228 --> 00:11:05,131
+[muzika]
+
+179
+00:11:05,131 --> 00:11:09,402
+[titlovi danielsangeo, preveo M. Mrkalj]
+[muzika]
+
+180
+00:11:09,402 --> 00:11:11,404
+[muzika]
+
+181
+00:11:14,707 --> 00:11:17,277
+O, i ovo ne treba trajati cijelu godinu.
+
+182
+00:11:17,277 --> 00:11:20,634
+Ako dobijemo više potpisa no potrebno možemo završiti ranije.
+
+183
+00:11:20,634 --> 00:11:22,849
+Tako da možemo ovo speedrun-at.
+

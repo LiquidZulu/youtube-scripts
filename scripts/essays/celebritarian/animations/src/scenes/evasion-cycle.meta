@@ -1,0 +1,38 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "boom",
+      "targetTime": 4.068638841562552
+    },
+    {
+      "name": "white lie",
+      "targetTime": 4.568638841562552
+    },
+    {
+      "name": "fiat goodies",
+      "targetTime": 27.941479378983097
+    },
+    {
+      "name": "highlight bust",
+      "targetTime": 35.19435270049493
+    },
+    {
+      "name": "two choices",
+      "targetTime": 41.77157353359702
+    },
+    {
+      "name": "reset camera",
+      "targetTime": 63.94367883007031
+    },
+    {
+      "name": "title",
+      "targetTime": 65.86089836273217
+    },
+    {
+      "name": "end",
+      "targetTime": 70.52303669532505
+    }
+  ],
+  "seed": 1142623339
+}

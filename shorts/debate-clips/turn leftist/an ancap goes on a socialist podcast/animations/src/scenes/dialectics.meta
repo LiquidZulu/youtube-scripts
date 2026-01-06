@@ -1,0 +1,1566 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "I | 𶮃",
+      "targetTime": 0
+    },
+    {
+      "name": "want | 𶮃",
+      "targetTime": 0.1
+    },
+    {
+      "name": "to | 𶮃",
+      "targetTime": 0.2
+    },
+    {
+      "name": "dig | 𶮃",
+      "targetTime": 0.32
+    },
+    {
+      "name": "into | 𶮃",
+      "targetTime": 0.48
+    },
+    {
+      "name": "this | 񞅫",
+      "targetTime": 0.7
+    },
+    {
+      "name": "a | 񞅫",
+      "targetTime": 0.92
+    },
+    {
+      "name": "little | 񞅫",
+      "targetTime": 1.08
+    },
+    {
+      "name": "bit, | 񞅫",
+      "targetTime": 1.2
+    },
+    {
+      "name": "where | 񄽽",
+      "targetTime": 1.58
+    },
+    {
+      "name": "you | 񄽽",
+      "targetTime": 1.76
+    },
+    {
+      "name": "say | 񄽽",
+      "targetTime": 1.86
+    },
+    {
+      "name": "that | 񄽽",
+      "targetTime": 2.02
+    },
+    {
+      "name": "socialism | 򵂼",
+      "targetTime": 2.14
+    },
+    {
+      "name": "is | 򵂼",
+      "targetTime": 2.5
+    },
+    {
+      "name": "the | 򵂼",
+      "targetTime": 2.6
+    },
+    {
+      "name": "next | 򌙳",
+      "targetTime": 2.82
+    },
+    {
+      "name": "stage | 򌙳",
+      "targetTime": 3.12
+    },
+    {
+      "name": "of | 򌙳",
+      "targetTime": 3.5
+    },
+    {
+      "name": "humanity. | 󴤧",
+      "targetTime": 3.72
+    },
+    {
+      "name": "What | 󴤧",
+      "targetTime": 4.9091911139074735
+    },
+    {
+      "name": "do | 󴤧",
+      "targetTime": 5.06
+    },
+    {
+      "name": "you | 񪪕",
+      "targetTime": 5.159999999999999
+    },
+    {
+      "name": "mean | 񪪕",
+      "targetTime": 5.259999999999999
+    },
+    {
+      "name": "by | 񪪕",
+      "targetTime": 5.3599999999999985
+    },
+    {
+      "name": "a | 񪪕",
+      "targetTime": 5.459999999999998
+    },
+    {
+      "name": "stage | 񋾚",
+      "targetTime": 5.559999999999998
+    },
+    {
+      "name": "of | 񋾚",
+      "targetTime": 5.6599999999999975
+    },
+    {
+      "name": "humanity? | 񋾚",
+      "targetTime": 5.885322765855606
+    },
+    {
+      "name": "Like | 滷",
+      "targetTime": 6.604766229289761
+    },
+    {
+      "name": "it | 滷",
+      "targetTime": 6.704766229289761
+    },
+    {
+      "name": "goes | 滷",
+      "targetTime": 6.80476622928976
+    },
+    {
+      "name": "in | 滷",
+      "targetTime": 7.15189490050536
+    },
+    {
+      "name": "stages, | 滷",
+      "targetTime": 7.251894900505359
+    },
+    {
+      "name": "but | 󑏿",
+      "targetTime": 7.66
+    },
+    {
+      "name": "it | 󑏿",
+      "targetTime": 7.86
+    },
+    {
+      "name": "doesn't | 󑏿",
+      "targetTime": 7.98
+    },
+    {
+      "name": "have | 󑏿",
+      "targetTime": 8.18
+    },
+    {
+      "name": "to | 󚂤",
+      "targetTime": 8.3
+    },
+    {
+      "name": "go | 󚂤",
+      "targetTime": 8.42
+    },
+    {
+      "name": "sequentially. | 󚂤",
+      "targetTime": 9.232218804764862
+    },
+    {
+      "name": "Like | 񀤗",
+      "targetTime": 9.88
+    },
+    {
+      "name": "you | 񀤗",
+      "targetTime": 9.98
+    },
+    {
+      "name": "can | 񀤗",
+      "targetTime": 10.08
+    },
+    {
+      "name": "go | 񀤗",
+      "targetTime": 10.18
+    },
+    {
+      "name": "back | 𰀨",
+      "targetTime": 10.3
+    },
+    {
+      "name": "and | 𰀨",
+      "targetTime": 10.5
+    },
+    {
+      "name": "forth, | 𰀨",
+      "targetTime": 10.66
+    },
+    {
+      "name": "just | 󢩆",
+      "targetTime": 11.02
+    },
+    {
+      "name": "like | 󢩆",
+      "targetTime": 11.3
+    },
+    {
+      "name": "there's | 󢩆",
+      "targetTime": 11.44
+    },
+    {
+      "name": "elements | 󘮵",
+      "targetTime": 11.62
+    },
+    {
+      "name": "of | 󘮵",
+      "targetTime": 11.94
+    },
+    {
+      "name": "feudalism | 􂁂",
+      "targetTime": 12.545358785438935
+    },
+    {
+      "name": "left | 􂁂",
+      "targetTime": 13.12
+    },
+    {
+      "name": "over | 􂁂",
+      "targetTime": 13.3
+    },
+    {
+      "name": "in | 򌧵",
+      "targetTime": 13.52
+    },
+    {
+      "name": "capitalism. | 򌧵",
+      "targetTime": 13.66
+    },
+    {
+      "name": "There | 􁜤",
+      "targetTime": 14.649506003583216
+    },
+    {
+      "name": "are | 􁜤",
+      "targetTime": 14.76
+    },
+    {
+      "name": "elements | 􁜤",
+      "targetTime": 14.86
+    },
+    {
+      "name": "of | 񬿠",
+      "targetTime": 15.2
+    },
+    {
+      "name": "capitalism | 񬿠",
+      "targetTime": 15.34
+    },
+    {
+      "name": "left | 񬿠",
+      "targetTime": 15.74
+    },
+    {
+      "name": "over | 񉔩",
+      "targetTime": 16.06
+    },
+    {
+      "name": "in | 񉔩",
+      "targetTime": 16.3
+    },
+    {
+      "name": "developing | 񉔩",
+      "targetTime": 16.58
+    },
+    {
+      "name": "socialist | 𩡐",
+      "targetTime": 16.96
+    },
+    {
+      "name": "societies | 𩡐",
+      "targetTime": 17.36
+    },
+    {
+      "name": "and | 󸎣",
+      "targetTime": 17.82
+    },
+    {
+      "name": "lots | 󸎣",
+      "targetTime": 18.12
+    },
+    {
+      "name": "of | 󸎣",
+      "targetTime": 18.4
+    },
+    {
+      "name": "contradictions | 󘲍",
+      "targetTime": 18.5
+    },
+    {
+      "name": "there. | 󘲍",
+      "targetTime": 19.05635437327998
+    },
+    {
+      "name": "Okay, | 񠲔",
+      "targetTime": 19.474729754445576
+    },
+    {
+      "name": "so | 񠲔",
+      "targetTime": 19.77269393376008
+    },
+    {
+      "name": "the | 񠲔",
+      "targetTime": 20.280867499357
+    },
+    {
+      "name": "way | 􇨩",
+      "targetTime": 20.42
+    },
+    {
+      "name": "it's | 􇨩",
+      "targetTime": 20.54
+    },
+    {
+      "name": "going | 􇨩",
+      "targetTime": 20.72
+    },
+    {
+      "name": "through | 􃮵",
+      "targetTime": 20.9
+    },
+    {
+      "name": "these | 􃮵",
+      "targetTime": 21.18
+    },
+    {
+      "name": "stages, | 盆",
+      "targetTime": 21.42
+    },
+    {
+      "name": "is | 盆",
+      "targetTime": 22.16
+    },
+    {
+      "name": "this | 盆",
+      "targetTime": 22.38
+    },
+    {
+      "name": "based | 𖉺",
+      "targetTime": 22.54
+    },
+    {
+      "name": "on | 𖉺",
+      "targetTime": 22.78
+    },
+    {
+      "name": "the | 𖉺",
+      "targetTime": 23.150202530121366
+    },
+    {
+      "name": "dialectic | 񤣼",
+      "targetTime": 23.36
+    },
+    {
+      "name": "process | 񤣼",
+      "targetTime": 23.94
+    },
+    {
+      "name": "then? | 򶂜",
+      "targetTime": 24.32
+    },
+    {
+      "name": "Because | 򶂜",
+      "targetTime": 24.7
+    },
+    {
+      "name": "you | 򶂜",
+      "targetTime": 24.8
+    },
+    {
+      "name": "brought | 𴃇",
+      "targetTime": 24.900000000000002
+    },
+    {
+      "name": "up | 𴃇",
+      "targetTime": 25.02
+    },
+    {
+      "name": "contradictions. | 𶴇",
+      "targetTime": 25.18
+    },
+    {
+      "name": "Okay, | 𵞜",
+      "targetTime": 26.62
+    },
+    {
+      "name": "so | 𵞜",
+      "targetTime": 27.48
+    },
+    {
+      "name": "let's | 𵞜",
+      "targetTime": 27.74
+    },
+    {
+      "name": "dig | 𵞜",
+      "targetTime": 28.4
+    },
+    {
+      "name": "into | 󇇩",
+      "targetTime": 28.52
+    },
+    {
+      "name": "dialectics | 󇇩",
+      "targetTime": 28.74
+    },
+    {
+      "name": "a | 󇇩",
+      "targetTime": 29.48
+    },
+    {
+      "name": "little | 񒣝",
+      "targetTime": 29.6
+    },
+    {
+      "name": "bit | 񒣝",
+      "targetTime": 29.76
+    },
+    {
+      "name": "then. | 񒣝",
+      "targetTime": 29.96
+    },
+    {
+      "name": "So | 񒣝",
+      "targetTime": 30.44
+    },
+    {
+      "name": "is | 󻍷",
+      "targetTime": 31.04200087765785
+    },
+    {
+      "name": "your | 󻍷",
+      "targetTime": 31.24
+    },
+    {
+      "name": "claim | 󻍷",
+      "targetTime": 31.36
+    },
+    {
+      "name": "then | 󻍷",
+      "targetTime": 31.66
+    },
+    {
+      "name": "that | 󔊗",
+      "targetTime": 32.10598172901761
+    },
+    {
+      "name": "the | 󔊗",
+      "targetTime": 32.42370301986361
+    },
+    {
+      "name": "contradiction | 𰀺",
+      "targetTime": 32.52370301986361
+    },
+    {
+      "name": "is | 𰀺",
+      "targetTime": 33.485140747007705
+    },
+    {
+      "name": "the | 򁬕",
+      "targetTime": 33.7
+    },
+    {
+      "name": "really | 򁬕",
+      "targetTime": 33.88
+    },
+    {
+      "name": "true | 򁬕",
+      "targetTime": 34.1
+    },
+    {
+      "name": "thing, | 󊻔",
+      "targetTime": 34.32
+    },
+    {
+      "name": "and | 󊻔",
+      "targetTime": 35.05490898807333
+    },
+    {
+      "name": "that | 󊻔",
+      "targetTime": 35.2
+    },
+    {
+      "name": "if | 󊻔",
+      "targetTime": 35.34
+    },
+    {
+      "name": "you | 񅉕",
+      "targetTime": 35.5
+    },
+    {
+      "name": "have | 񅉕",
+      "targetTime": 35.6
+    },
+    {
+      "name": "the | 񅉕",
+      "targetTime": 36.24716248740838
+    },
+    {
+      "name": "proposition | 𳿐",
+      "targetTime": 36.36
+    },
+    {
+      "name": "and | 𳿐",
+      "targetTime": 36.74
+    },
+    {
+      "name": "its | 𳿐",
+      "targetTime": 36.98
+    },
+    {
+      "name": "negation, | 񋈊",
+      "targetTime": 37.08
+    },
+    {
+      "name": "then | 񋈊",
+      "targetTime": 37.8
+    },
+    {
+      "name": "you | 񋈊",
+      "targetTime": 38.04
+    },
+    {
+      "name": "get | 􇯂",
+      "targetTime": 38.18
+    },
+    {
+      "name": "the | 􇯂",
+      "targetTime": 38.38
+    },
+    {
+      "name": "new | 􇯂",
+      "targetTime": 38.68
+    },
+    {
+      "name": "proposition | ឴",
+      "targetTime": 38.82
+    },
+    {
+      "name": "out | ឴",
+      "targetTime": 39.2
+    },
+    {
+      "name": "of | ឴",
+      "targetTime": 39.42
+    },
+    {
+      "name": "it? | 򡃦",
+      "targetTime": 39.52
+    },
+    {
+      "name": "The | 򡃦",
+      "targetTime": 39.82
+    },
+    {
+      "name": "thesis, | 򡃦",
+      "targetTime": 40.130962415890885
+    },
+    {
+      "name": "antithesis, | 񉲄",
+      "targetTime": 40.62
+    },
+    {
+      "name": "yada | 񉲄",
+      "targetTime": 41.28
+    },
+    {
+      "name": "yada | 򿀉",
+      "targetTime": 41.38
+    },
+    {
+      "name": "yada. | 򿀉",
+      "targetTime": 41.480000000000004
+    },
+    {
+      "name": "Most | 񿩺",
+      "targetTime": 42.52713890063945
+    },
+    {
+      "name": "people | 񿩺",
+      "targetTime": 42.74874685825242
+    },
+    {
+      "name": "think | 񿩺",
+      "targetTime": 43.03115879467187
+    },
+    {
+      "name": "that | 񿩺",
+      "targetTime": 43.256039020796074
+    },
+    {
+      "name": "it's | 󉺗",
+      "targetTime": 43.4
+    },
+    {
+      "name": "like | 󉺗",
+      "targetTime": 43.58
+    },
+    {
+      "name": "thesis | 󉺗",
+      "targetTime": 44.0656576597877
+    },
+    {
+      "name": "and | 򊘭",
+      "targetTime": 44.3
+    },
+    {
+      "name": "then | 򊘭",
+      "targetTime": 44.52
+    },
+    {
+      "name": "antithesis, | 󐫺",
+      "targetTime": 44.66
+    },
+    {
+      "name": "and | 󐫺",
+      "targetTime": 45.56
+    },
+    {
+      "name": "then | 𮎿",
+      "targetTime": 45.660000000000004
+    },
+    {
+      "name": "they | 𮎿",
+      "targetTime": 45.760000000000005
+    },
+    {
+      "name": "arrive | 𮎿",
+      "targetTime": 45.86000000000001
+    },
+    {
+      "name": "together | 򕭓",
+      "targetTime": 46.18
+    },
+    {
+      "name": "at | 򕭓",
+      "targetTime": 46.5
+    },
+    {
+      "name": "a | 򕭓",
+      "targetTime": 46.62
+    },
+    {
+      "name": "synthesis, | 󫴱",
+      "targetTime": 46.72
+    },
+    {
+      "name": "and | 󫴱",
+      "targetTime": 47.1
+    },
+    {
+      "name": "then | 󫴱",
+      "targetTime": 47.26
+    },
+    {
+      "name": "it's | 􌷬",
+      "targetTime": 47.36
+    },
+    {
+      "name": "like | 􌷬",
+      "targetTime": 47.5
+    },
+    {
+      "name": "done. | 􌷬",
+      "targetTime": 47.77377828453325
+    },
+    {
+      "name": "But | 􌷬",
+      "targetTime": 48.61737506184827
+    },
+    {
+      "name": "really | 𒭕",
+      "targetTime": 48.76
+    },
+    {
+      "name": "that | 𒭕",
+      "targetTime": 49
+    },
+    {
+      "name": "new | 𒭕",
+      "targetTime": 49.2
+    },
+    {
+      "name": "synthesis | 󈆳",
+      "targetTime": 49.4
+    },
+    {
+      "name": "is | 󈆳",
+      "targetTime": 50.128405503084615
+    },
+    {
+      "name": "just | 󈆳",
+      "targetTime": 50.28
+    },
+    {
+      "name": "another | 񥟡",
+      "targetTime": 50.42
+    },
+    {
+      "name": "thing | 񥟡",
+      "targetTime": 50.74
+    },
+    {
+      "name": "that | 񥟡",
+      "targetTime": 51.510466385557294
+    },
+    {
+      "name": "is | 󣔋",
+      "targetTime": 51.62
+    },
+    {
+      "name": "like | 󣔋",
+      "targetTime": 51.72
+    },
+    {
+      "name": "a | 󣔋",
+      "targetTime": 51.82
+    },
+    {
+      "name": "thesis, | 󣔋",
+      "targetTime": 51.92
+    },
+    {
+      "name": "and | 񃌠",
+      "targetTime": 52.34
+    },
+    {
+      "name": "then | 񃌠",
+      "targetTime": 52.440000000000005
+    },
+    {
+      "name": "you | 񃌠",
+      "targetTime": 52.540000000000006
+    },
+    {
+      "name": "can | 񃌠",
+      "targetTime": 52.64000000000001
+    },
+    {
+      "name": "have | 򨊘",
+      "targetTime": 52.74000000000001
+    },
+    {
+      "name": "another | 򨊘",
+      "targetTime": 52.86
+    },
+    {
+      "name": "antithesis, | 𷂣",
+      "targetTime": 53.1
+    },
+    {
+      "name": "and | 𷂣",
+      "targetTime": 53.84
+    },
+    {
+      "name": "it | 𷂣",
+      "targetTime": 53.96
+    },
+    {
+      "name": "just | 󢱒",
+      "targetTime": 54.06
+    },
+    {
+      "name": "keeps | 󢱒",
+      "targetTime": 54.160000000000004
+    },
+    {
+      "name": "going | 󢱒",
+      "targetTime": 54.260000000000005
+    },
+    {
+      "name": "on. | 󢱒",
+      "targetTime": 54.36000000000001
+    },
+    {
+      "name": "This | 󀣮",
+      "targetTime": 55.101295785551066
+    },
+    {
+      "name": "strikes | 󀣮",
+      "targetTime": 55.20129578555107
+    },
+    {
+      "name": "surely | 򽔸",
+      "targetTime": 56.01511313813301
+    },
+    {
+      "name": "anybody | 򽔸",
+      "targetTime": 56.36
+    },
+    {
+      "name": "as | 򽔸",
+      "targetTime": 56.788606544327195
+    },
+    {
+      "name": "a | 򽔸",
+      "targetTime": 56.94
+    },
+    {
+      "name": "fantastical | 􆏿",
+      "targetTime": 57.611315319575404
+    },
+    {
+      "name": "position, | ွ",
+      "targetTime": 58.28
+    },
+    {
+      "name": "that | ွ",
+      "targetTime": 59.28
+    },
+    {
+      "name": "from | ွ",
+      "targetTime": 59.765657659787706
+    },
+    {
+      "name": "a | 󫣧",
+      "targetTime": 60.58493163091478
+    },
+    {
+      "name": "proposition | 󫣧",
+      "targetTime": 60.7
+    },
+    {
+      "name": "you | 󫣧",
+      "targetTime": 61.56598160617546
+    },
+    {
+      "name": "necessarily | 񡡕",
+      "targetTime": 61.665981606175464
+    },
+    {
+      "name": "get | 񡡕",
+      "targetTime": 62.08
+    },
+    {
+      "name": "its | 񡡕",
+      "targetTime": 62.38
+    },
+    {
+      "name": "negation. | 𚠿",
+      "targetTime": 62.62
+    },
+    {
+      "name": "I | 𚠿",
+      "targetTime": 63.69563812576335
+    },
+    {
+      "name": "want | 𚠿",
+      "targetTime": 63.795638125763354
+    },
+    {
+      "name": "you | 󇢴",
+      "targetTime": 63.9
+    },
+    {
+      "name": "to | 󇢴",
+      "targetTime": 64
+    },
+    {
+      "name": "explain | 󇢴",
+      "targetTime": 64.1
+    },
+    {
+      "name": "how | 󇢴",
+      "targetTime": 64.4
+    },
+    {
+      "name": "you | 􆞫",
+      "targetTime": 64.6
+    },
+    {
+      "name": "get | 􆞫",
+      "targetTime": 64.74
+    },
+    {
+      "name": "the | 􆞫",
+      "targetTime": 64.86
+    },
+    {
+      "name": "negation | 򱐤",
+      "targetTime": 64.98
+    },
+    {
+      "name": "of | 򱐤",
+      "targetTime": 65.36
+    },
+    {
+      "name": "a | 򱐤",
+      "targetTime": 65.5
+    },
+    {
+      "name": "proposition | 󸲩",
+      "targetTime": 65.6
+    },
+    {
+      "name": "from | 󸲩",
+      "targetTime": 66.4666685669997
+    },
+    {
+      "name": "that | 񾪖",
+      "targetTime": 66.64
+    },
+    {
+      "name": "proposition. | 񾪖",
+      "targetTime": 66.82
+    },
+    {
+      "name": "Like | 򋺙",
+      "targetTime": 67.84
+    },
+    {
+      "name": "let's | 򋺙",
+      "targetTime": 67.94
+    },
+    {
+      "name": "just | 򋺙",
+      "targetTime": 68.06
+    },
+    {
+      "name": "take | 񋽐",
+      "targetTime": 68.16
+    },
+    {
+      "name": "existence | 񋽐",
+      "targetTime": 69.14953931544179
+    },
+    {
+      "name": "exists. | 񋽐",
+      "targetTime": 69.63741983089605
+    },
+    {
+      "name": "I'm | 񑓺",
+      "targetTime": 70.68643415870748
+    },
+    {
+      "name": "not | 񑓺",
+      "targetTime": 70.78643415870748
+    },
+    {
+      "name": "a | 񑓺",
+      "targetTime": 70.88643415870747
+    },
+    {
+      "name": "philosophy | 󌭵",
+      "targetTime": 71.08
+    },
+    {
+      "name": "guy. | 󌭵",
+      "targetTime": 71.46
+    },
+    {
+      "name": "This | 󡍁",
+      "targetTime": 72.33390118967844
+    },
+    {
+      "name": "is | 󡍁",
+      "targetTime": 72.43390118967844
+    },
+    {
+      "name": "such | 󡍁",
+      "targetTime": 72.72
+    },
+    {
+      "name": "a | 󡍁",
+      "targetTime": 72.92
+    },
+    {
+      "name": "circle | 󽾣",
+      "targetTime": 73.1
+    },
+    {
+      "name": "jerk, | 󽾣",
+      "targetTime": 73.42
+    },
+    {
+      "name": "man. | 󽾣",
+      "targetTime": 73.86
+    },
+    {
+      "name": "This | 򒍼",
+      "targetTime": 74.32
+    },
+    {
+      "name": "is | 򒍼",
+      "targetTime": 74.46
+    },
+    {
+      "name": "the | 򒍼",
+      "targetTime": 74.64
+    },
+    {
+      "name": "philosophy | 󦿟",
+      "targetTime": 74.92
+    },
+    {
+      "name": "you're | 󦿟",
+      "targetTime": 75.32
+    },
+    {
+      "name": "based | 򋛟",
+      "targetTime": 75.41999999999999
+    },
+    {
+      "name": "on | 򋛟",
+      "targetTime": 75.51999999999998
+    },
+    {
+      "name": "though, | 򋛟",
+      "targetTime": 75.61999999999998
+    },
+    {
+      "name": "right? | 򋛟",
+      "targetTime": 77.04396549275054
+    },
+    {
+      "name": "Okay, | 񭸟",
+      "targetTime": 77.3404916205807
+    },
+    {
+      "name": "but | 񭸟",
+      "targetTime": 77.4404916205807
+    },
+    {
+      "name": "I | 񭸟",
+      "targetTime": 77.5404916205807
+    },
+    {
+      "name": "don't | ь",
+      "targetTime": 78.12
+    },
+    {
+      "name": "talk | ь",
+      "targetTime": 78.32
+    },
+    {
+      "name": "about | ь",
+      "targetTime": 78.5
+    },
+    {
+      "name": "things | 򖞳",
+      "targetTime": 78.66
+    },
+    {
+      "name": "in | 򖞳",
+      "targetTime": 78.84
+    },
+    {
+      "name": "philosophical | 񅼶",
+      "targetTime": 78.96
+    },
+    {
+      "name": "terms. | 򤪊",
+      "targetTime": 79.6
+    },
+    {
+      "name": "It | 򤪊",
+      "targetTime": 80.57979895875742
+    },
+    {
+      "name": "would | 򤪊",
+      "targetTime": 80.7
+    },
+    {
+      "name": "seem | 񭜽",
+      "targetTime": 80.8
+    },
+    {
+      "name": "to | 񭜽",
+      "targetTime": 80.94
+    },
+    {
+      "name": "me | 񭜽",
+      "targetTime": 81.06
+    },
+    {
+      "name": "like | 񭜽",
+      "targetTime": 81.18
+    },
+    {
+      "name": "that | 񂠻",
+      "targetTime": 81.91580009895723
+    },
+    {
+      "name": "sounds | 񂠻",
+      "targetTime": 82.02
+    },
+    {
+      "name": "like | 񂠻",
+      "targetTime": 82.26
+    },
+    {
+      "name": "inertia, | 鰵",
+      "targetTime": 82.4
+    },
+    {
+      "name": "like | 鰵",
+      "targetTime": 83
+    },
+    {
+      "name": "an | 鰵",
+      "targetTime": 83.1
+    },
+    {
+      "name": "equal | ꁠ",
+      "targetTime": 83.26
+    },
+    {
+      "name": "opposite | ꁠ",
+      "targetTime": 83.54
+    },
+    {
+      "name": "reaction. | 􇆂",
+      "targetTime": 83.86
+    },
+    {
+      "name": "It's | 􇆂",
+      "targetTime": 85.43394025772713
+    },
+    {
+      "name": "like | 􇆂",
+      "targetTime": 85.58
+    },
+    {
+      "name": "if | 󳼓",
+      "targetTime": 85.67999999999999
+    },
+    {
+      "name": "you | 󳼓",
+      "targetTime": 85.8
+    },
+    {
+      "name": "push | 󳼓",
+      "targetTime": 85.89999999999999
+    },
+    {
+      "name": "something— | 𔋭",
+      "targetTime": 85.99999999999999
+    },
+    {
+      "name": "And | 򺘢",
+      "targetTime": 86.69070696630472
+    },
+    {
+      "name": "it | 򺘢",
+      "targetTime": 86.79070696630471
+    },
+    {
+      "name": "doesn't | 򺘢",
+      "targetTime": 86.8907069663047
+    },
+    {
+      "name": "sound | 򺘢",
+      "targetTime": 87.2042546770937
+    },
+    {
+      "name": "like | 񴛐",
+      "targetTime": 87.3541695026891
+    },
+    {
+      "name": "inertia, | 񴛐",
+      "targetTime": 87.58
+    },
+    {
+      "name": "right? | 𺒾",
+      "targetTime": 87.94
+    },
+    {
+      "name": "Because | 𺒾",
+      "targetTime": 88.36
+    },
+    {
+      "name": "from | 𺒾",
+      "targetTime": 88.64502316677377
+    },
+    {
+      "name": "each | 񓊐",
+      "targetTime": 88.82
+    },
+    {
+      "name": "proposition | 񓊐",
+      "targetTime": 89.03316264600737
+    },
+    {
+      "name": "you | ⎑",
+      "targetTime": 89.45395270927045
+    },
+    {
+      "name": "get | ⎑",
+      "targetTime": 89.55395270927045
+    },
+    {
+      "name": "its | ⎑",
+      "targetTime": 89.65395270927044
+    },
+    {
+      "name": "negation. | ⎑",
+      "targetTime": 89.75395270927044
+    },
+    {
+      "name": "I | 𠛽",
+      "targetTime": 90.32481999511275
+    },
+    {
+      "name": "guess | 𠛽",
+      "targetTime": 90.42481999511274
+    },
+    {
+      "name": "just | 𠛽",
+      "targetTime": 90.52481999511274
+    },
+    {
+      "name": "like | 󣏏",
+      "targetTime": 90.81616845390124
+    },
+    {
+      "name": "get | 󣏏",
+      "targetTime": 91.04748602365805
+    },
+    {
+      "name": "to | 󣏏",
+      "targetTime": 91.29943921151951
+    },
+    {
+      "name": "the | 畅",
+      "targetTime": 91.3994392115195
+    },
+    {
+      "name": "end | 畅",
+      "targetTime": 91.4994392115195
+    },
+    {
+      "name": "of | 畅",
+      "targetTime": 91.62
+    },
+    {
+      "name": "your | 畅",
+      "targetTime": 91.72
+    },
+    {
+      "name": "Socratic | 򍐝",
+      "targetTime": 91.84
+    },
+    {
+      "name": "little | 򍐝",
+      "targetTime": 93.26043244644366
+    },
+    {
+      "name": "game | 򻌄",
+      "targetTime": 93.42
+    },
+    {
+      "name": "you're | 򻌄",
+      "targetTime": 93.7
+    },
+    {
+      "name": "playing, | 𞒑",
+      "targetTime": 93.86
+    },
+    {
+      "name": "and | 𞒑",
+      "targetTime": 94.57402614734633
+    },
+    {
+      "name": "then | 𞒑",
+      "targetTime": 94.72
+    },
+    {
+      "name": "tell | 񣴟",
+      "targetTime": 94.84
+    },
+    {
+      "name": "me | 񣴟",
+      "targetTime": 94.94
+    },
+    {
+      "name": "where | 񣴟",
+      "targetTime": 95.06
+    },
+    {
+      "name": "you're | ༫",
+      "targetTime": 95.16
+    },
+    {
+      "name": "going | ༫",
+      "targetTime": 95.25999999999999
+    },
+    {
+      "name": "with | ༫",
+      "targetTime": 95.35999999999999
+    },
+    {
+      "name": "it. | ༫",
+      "targetTime": 95.45999999999998
+    },
+    {
+      "name": "Well, | 򷴫",
+      "targetTime": 96.02459334423958
+    },
+    {
+      "name": "where | 򷴫",
+      "targetTime": 96.12459334423957
+    },
+    {
+      "name": "I'm | 򷴫",
+      "targetTime": 96.22459334423957
+    },
+    {
+      "name": "going | 񁕐",
+      "targetTime": 96.46
+    },
+    {
+      "name": "with | 񁕐",
+      "targetTime": 96.66
+    },
+    {
+      "name": "it | 񁕐",
+      "targetTime": 96.9
+    },
+    {
+      "name": "is | 񁕐",
+      "targetTime": 97.02
+    },
+    {
+      "name": "that | 򾵈",
+      "targetTime": 97.24
+    },
+    {
+      "name": "this | 򾵈",
+      "targetTime": 97.38
+    },
+    {
+      "name": "is | 򾵈",
+      "targetTime": 97.58
+    },
+    {
+      "name": "fantastical. | 󯰸",
+      "targetTime": 98.07228609736791
+    },
+    {
+      "name": "The | 󯰸",
+      "targetTime": 99.15746394829561
+    },
+    {
+      "name": "idea | 񫲶",
+      "targetTime": 99.26
+    },
+    {
+      "name": "that | 񫲶",
+      "targetTime": 99.48
+    },
+    {
+      "name": "you | 񫲶",
+      "targetTime": 99.62
+    },
+    {
+      "name": "can | 񫲶",
+      "targetTime": 99.72
+    },
+    {
+      "name": "get | 󱑌",
+      "targetTime": 99.84
+    },
+    {
+      "name": "the | 󱑌",
+      "targetTime": 101.06482598878125
+    },
+    {
+      "name": "negation | 󱑌",
+      "targetTime": 101.18
+    },
+    {
+      "name": "of | 󱑌",
+      "targetTime": 101.56
+    },
+    {
+      "name": "a | 򧸘",
+      "targetTime": 101.68
+    },
+    {
+      "name": "proposition | 򧸘",
+      "targetTime": 101.78
+    },
+    {
+      "name": "out | 򧸘",
+      "targetTime": 102.64721399395914
+    },
+    {
+      "name": "of | 𽎛",
+      "targetTime": 102.8
+    },
+    {
+      "name": "a | 𽎛",
+      "targetTime": 102.92
+    },
+    {
+      "name": "proposition. | 𽎛",
+      "targetTime": 103.02
+    },
+    {
+      "name": "The | 󳃌",
+      "targetTime": 103.82968659715216
+    },
+    {
+      "name": "proposition | 󳃌",
+      "targetTime": 103.92968659715216
+    },
+    {
+      "name": "is | 󳃌",
+      "targetTime": 104.18
+    },
+    {
+      "name": "what | 򯮳",
+      "targetTime": 104.38
+    },
+    {
+      "name": "it | 򯮳",
+      "targetTime": 104.52
+    },
+    {
+      "name": "is. | 򯮳",
+      "targetTime": 104.62
+    },
+    {
+      "name": "It | 򯮳",
+      "targetTime": 105.24708709693643
+    },
+    {
+      "name": "isn't | 򸎉",
+      "targetTime": 105.36
+    },
+    {
+      "name": "what | 򸎉",
+      "targetTime": 105.58
+    },
+    {
+      "name": "it | 򸎉",
+      "targetTime": 105.7
+    },
+    {
+      "name": "isn't, | 񧯋",
+      "targetTime": 105.82
+    },
+    {
+      "name": "right? | 񧯋",
+      "targetTime": 106.72
+    },
+    {
+      "name": "This | 񧯋",
+      "targetTime": 107.99251874190956
+    },
+    {
+      "name": "is | 𪙙",
+      "targetTime": 108.09251874190956
+    },
+    {
+      "name": "basic | 𪙙",
+      "targetTime": 108.83505479361393
+    },
+    {
+      "name": "logic. | 𪙙",
+      "targetTime": 109.08
+    },
+    {
+      "name": "So | 𪙙",
+      "targetTime": 109.82010574751894
+    },
+    {
+      "name": "if | 󿃦",
+      "targetTime": 109.94
+    },
+    {
+      "name": "you're | 󿃦",
+      "targetTime": 110.03999999999999
+    },
+    {
+      "name": "going | 󿃦",
+      "targetTime": 110.13999999999999
+    },
+    {
+      "name": "to | 󿃦",
+      "targetTime": 110.23999999999998
+    },
+    {
+      "name": "use | 󒎑",
+      "targetTime": 110.33999999999997
+    },
+    {
+      "name": "the | 󒎑",
+      "targetTime": 110.5887425488997
+    },
+    {
+      "name": "laws | 󒎑",
+      "targetTime": 110.6887425488997
+    },
+    {
+      "name": "of | 󒎑",
+      "targetTime": 110.86
+    },
+    {
+      "name": "logic | 𵓻",
+      "targetTime": 110.96
+    },
+    {
+      "name": "on | 𵓻",
+      "targetTime": 111.18
+    },
+    {
+      "name": "me, | 𵓻",
+      "targetTime": 111.4
+    },
+    {
+      "name": "right? | 𵓻",
+      "targetTime": 112.2
+    },
+    {
+      "name": "Then | 𗴂",
+      "targetTime": 112.62264179922332
+    },
+    {
+      "name": "you've | 𗴂",
+      "targetTime": 112.76
+    },
+    {
+      "name": "got | 𗴂",
+      "targetTime": 112.92
+    },
+    {
+      "name": "to | 𗴂",
+      "targetTime": 113.02
+    },
+    {
+      "name": "stick | 샠",
+      "targetTime": 113.11999999999999
+    },
+    {
+      "name": "to | 샠",
+      "targetTime": 113.24
+    },
+    {
+      "name": "the | 샠",
+      "targetTime": 113.36
+    },
+    {
+      "name": "laws | 샠",
+      "targetTime": 113.46
+    },
+    {
+      "name": "of | 󥊀",
+      "targetTime": 113.62
+    },
+    {
+      "name": "logic. | 󥊀",
+      "targetTime": 113.72
+    },
+    {
+      "name": "End mkSubtitles for prefix: no prefix specified",
+      "targetTime": 114.50383964152121
+    }
+  ],
+  "seed": 4029460563
+}

@@ -1,0 +1,3653 @@
+﻿1
+00:00:00,350 --> 00:00:05,033
+Hi, this is a video on the Stop Killing
+Games campaign I've been doing,
+
+2
+00:00:05,034 --> 00:00:07,978
+specifically the European
+Citizens' Initiative.
+
+3
+00:00:08,550 --> 00:00:12,966
+Now since that's kicked off, I've seen
+lots of questions and concerns pop up.
+
+4
+00:00:12,967 --> 00:00:15,090
+That's probably my fault.
+
+5
+00:00:15,090 --> 00:00:18,766
+Honestly, there's hundreds of
+elements involved with this campaign,
+
+6
+00:00:18,766 --> 00:00:22,866
+so it becomes a haze in my mind
+what I need to include in each video.
+
+7
+00:00:22,867 --> 00:00:26,533
+So instead, this video
+is the whole enchilada.
+
+8
+00:00:26,533 --> 00:00:29,933
+I'm gonna try to answer
+every big question I've seen.
+
+9
+00:00:29,933 --> 00:00:32,433
+I don't want anyone to
+be against this campaign
+
+10
+00:00:32,434 --> 00:00:35,533
+because they feel like they
+don't have enough information.
+
+11
+00:00:35,534 --> 00:00:38,633
+Now if you're already on
+board with this initiative,
+
+12
+00:00:38,634 --> 00:00:40,900
+or if you're completely against it,
+
+13
+00:00:40,901 --> 00:00:43,333
+then you probably
+don't need to watch this.
+
+14
+00:00:43,333 --> 00:00:47,366
+In fact, I don't recommend it. It's
+probably gonna be long and boring.
+
+15
+00:00:47,366 --> 00:00:50,966
+This is more for people who
+really want to drill into the details.
+
+16
+00:00:50,967 --> 00:00:54,866
+Now if you're watching this, I'm assuming
+you've watched one of these videos already,
+
+17
+00:00:54,867 --> 00:00:57,466
+but if not, super quick recap,
+
+18
+00:00:57,467 --> 00:01:01,300
+we've launched a European
+Citizens' Initiative that, if passed,
+
+19
+00:01:01,301 --> 00:01:05,276
+would allow customers to retain
+working copies of games they've paid for.
+
+20
+00:01:05,276 --> 00:01:06,800
+Mostly full stop.
+
+21
+00:01:07,306 --> 00:01:12,116
+It's more complicated than that, but
+that's what this and those videos are for.
+
+22
+00:01:12,116 --> 00:01:15,400
+Oh, and one point that maybe
+didn't stick the first time,
+
+23
+00:01:15,401 --> 00:01:17,933
+we're the only game
+in town on this.
+
+24
+00:01:17,934 --> 00:01:22,556
+So if the practice of destroying video
+games bothers you and you're an EU citizen,
+
+25
+00:01:22,556 --> 00:01:25,700
+this is your only chance
+to do something about it.
+
+26
+00:01:25,700 --> 00:01:27,950
+If you're waiting for something
+better to come along,
+
+27
+00:01:27,951 --> 00:01:30,333
+you'll die of old age
+before that happens.
+
+28
+00:01:30,334 --> 00:01:32,014
+It's this or nothing.
+
+29
+00:01:32,200 --> 00:01:34,867
+Maybe you don't
+believe me on that, fine,
+
+30
+00:01:35,201 --> 00:01:40,400
+but if this fails in 10 years, 20
+years, you realize, "Oh, huh."
+
+31
+00:01:40,401 --> 00:01:44,733
+"I guess Stop Killing Games really
+was the last stand on that, huh?"
+
+32
+00:01:44,734 --> 00:01:47,633
+Okay, I'm gonna get to the
+questions, but before I do,
+
+33
+00:01:47,633 --> 00:01:51,400
+there's a few core concepts that
+are gonna come up again and again,
+
+34
+00:01:51,401 --> 00:01:53,366
+and might help
+frame all of this.
+
+35
+00:01:53,391 --> 00:01:58,233
+Concept number one: always
+ask, "What's the alternative?"
+
+36
+00:01:58,233 --> 00:02:00,466
+I don't know if I've
+communicated this well,
+
+37
+00:02:00,467 --> 00:02:03,500
+but I'm actually in
+favor of any solution
+
+38
+00:02:03,501 --> 00:02:06,500
+that solves the problem of
+video games being destroyed.
+
+39
+00:02:06,500 --> 00:02:09,300
+So when I hear
+criticisms of our plan,
+
+40
+00:02:09,301 --> 00:02:14,966
+my first thought is always, "What's the
+alternative solution that saves video games?"
+
+41
+00:02:14,966 --> 00:02:17,100
+If somebody has an
+alternate solution,
+
+42
+00:02:17,101 --> 00:02:20,900
+cool, we're on the same team,
+then we're just discussing tactics.
+
+43
+00:02:20,901 --> 00:02:26,100
+But if somebody does not have an alternate
+solution, but they're against our solution,
+
+44
+00:02:26,100 --> 00:02:29,366
+well, then they're
+against all solutions.
+
+45
+00:02:29,366 --> 00:02:34,300
+So deductively, that means they are in favor
+of perpetuating the destruction of games,
+
+46
+00:02:34,301 --> 00:02:36,533
+which means they're
+the opposition.
+
+47
+00:02:36,533 --> 00:02:39,900
+In which case, we don't
+really value their critique
+
+48
+00:02:39,901 --> 00:02:42,393
+because they don't want
+to solve the problem.
+
+49
+00:02:42,393 --> 00:02:46,466
+Like if a parent says to a kid, "Clean
+your room. I don't care how you do it",
+
+50
+00:02:46,467 --> 00:02:48,173
+and the kid says, "No!"
+
+51
+00:02:48,173 --> 00:02:51,033
+well, then the parent might
+clean the room for the kid,
+
+52
+00:02:51,034 --> 00:02:53,300
+and throw out some stuff
+they didn't want them to,
+
+53
+00:02:53,301 --> 00:02:55,933
+because the kid refused
+to solve the problem.
+
+54
+00:02:55,934 --> 00:02:57,933
+So anything about our
+plans you don't like,
+
+55
+00:02:57,934 --> 00:03:01,633
+I encourage everyone to
+ask, "What's the alternative?"
+
+56
+00:03:01,634 --> 00:03:04,843
+It's a fast way to figure
+out who's on what side.
+
+57
+00:03:04,843 --> 00:03:08,000
+And some people may not
+even realize that's their stance
+
+58
+00:03:08,001 --> 00:03:10,200
+until they go
+through that process.
+
+59
+00:03:10,201 --> 00:03:12,200
+I mean, they might
+have good intentions,
+
+60
+00:03:12,201 --> 00:03:16,300
+but good intentions and no
+action, what does that get you?
+
+61
+00:03:16,300 --> 00:03:18,023
+All right, just a couple more.
+
+62
+00:03:18,023 --> 00:03:22,933
+Concept two: most of what we're
+doing is about future games.
+
+63
+00:03:22,933 --> 00:03:26,093
+For existing games, don't
+worry. We'll get to that.
+
+64
+00:03:26,093 --> 00:03:30,693
+But the point is, this campaign is focused
+on games that don't even exist yet.
+
+65
+00:03:30,693 --> 00:03:34,100
+So when I see comments saying
+what we're asking for is impossible,
+
+66
+00:03:34,101 --> 00:03:36,066
+or we don't know what
+we're talking about,
+
+67
+00:03:36,066 --> 00:03:40,986
+what I hear is somebody saying
+"It is impossible or impractical"
+
+68
+00:03:40,987 --> 00:03:45,686
+"to make an online game in the
+future with an end-of-life plan."
+
+69
+00:03:45,686 --> 00:03:50,746
+Now, I and many developers I've talked
+to think that's a pretty silly statement,
+
+70
+00:03:50,747 --> 00:03:54,346
+but I've seen so many
+comments along those lines.
+
+71
+00:03:54,346 --> 00:03:57,133
+I think a few out there have
+an almost myopic focus
+
+72
+00:03:57,134 --> 00:04:00,266
+on games right now and
+how things can't change,
+
+73
+00:04:00,267 --> 00:04:02,467
+and that's not
+where our focus is.
+
+74
+00:04:03,066 --> 00:04:05,333
+Third concept. Almost done.
+
+75
+00:04:05,334 --> 00:04:10,200
+It is impossible to save games
+without SOME effort from developers
+
+76
+00:04:10,201 --> 00:04:12,601
+and SOME disruption to the industry.
+
+77
+00:04:13,000 --> 00:04:15,700
+The video game industry has
+been going down the wrong road
+
+78
+00:04:15,700 --> 00:04:18,133
+on game preservation
+for a long time.
+
+79
+00:04:18,134 --> 00:04:20,020
+There's so much damage already.
+
+80
+00:04:20,020 --> 00:04:23,966
+Some out there think that the second
+there's any inconvenience to the industry,
+
+81
+00:04:23,967 --> 00:04:27,566
+no matter how small, then
+this entire plan is unfeasible.
+
+82
+00:04:27,566 --> 00:04:30,566
+It kind of reminds me of
+car manufacturers in the 60s
+
+83
+00:04:30,567 --> 00:04:33,386
+when they were required
+to add seatbelts to cars.
+
+84
+00:04:33,386 --> 00:04:38,306
+Car companies protested that up and
+down and fought it every step of the way.
+
+85
+00:04:38,306 --> 00:04:43,476
+And you know what? Adding seatbelts did
+add to the cost and work of making a car.
+
+86
+00:04:43,476 --> 00:04:46,612
+But how much, especially
+now that time has passed?
+
+87
+00:04:47,440 --> 00:04:49,800
+I would guess less than 1%.
+
+88
+00:04:50,366 --> 00:04:55,866
+I think it could be similar for video
+games of the future. Remember Concept 2.
+
+89
+00:04:56,586 --> 00:04:58,866
+And the last core concept,
+
+90
+00:04:59,346 --> 00:05:02,936
+the European Citizens'
+Initiative is not final law.
+
+91
+00:05:02,936 --> 00:05:05,944
+Something about it will
+change. It's inevitable.
+
+92
+00:05:06,000 --> 00:05:10,306
+What we're trying to do is aim the arrow
+the best we can and hope it hits the mark.
+
+93
+00:05:10,306 --> 00:05:12,336
+Okay, questions.
+
+94
+00:05:12,336 --> 00:05:15,786
+Will the law we're proposing be retroactive?
+
+95
+00:05:15,786 --> 00:05:21,076
+No, it couldn't be even if we wanted it to.
+Sorry if that wasn't clear earlier.
+
+96
+00:05:21,076 --> 00:05:23,786
+Isn't your initiative too vague?
+
+97
+00:05:23,786 --> 00:05:28,176
+There's a few layers to this question.
+Like, remember Concept 4.
+
+98
+00:05:28,176 --> 00:05:31,233
+And it's not actually
+supposed to be final law.
+
+99
+00:05:31,234 --> 00:05:34,096
+Like, did you know
+there's a word limit to it?
+
+100
+00:05:34,096 --> 00:05:38,566
+It's supposed to be a basic
+explanation and your reasons for it.
+
+101
+00:05:38,566 --> 00:05:41,766
+And you have to cite
+which EU directives apply
+
+102
+00:05:41,767 --> 00:05:44,026
+to show that the EU
+has authority for it.
+
+103
+00:05:44,026 --> 00:05:47,034
+Oh, yeah, that was a
+lot of fun doing that part.
+
+104
+00:05:47,036 --> 00:05:50,366
+Also, have you looked at
+any of the other initiatives?
+
+105
+00:05:50,367 --> 00:05:52,733
+This one: "Tax the rich."
+
+106
+00:05:52,734 --> 00:05:57,633
+This initiative does not give a
+number as to what qualifies as "rich".
+
+107
+00:05:57,633 --> 00:06:01,366
+Or this one, creation of
+an "environmental authority".
+
+108
+00:06:01,366 --> 00:06:03,876
+That's talking about
+creating a new agency.
+
+109
+00:06:03,876 --> 00:06:08,066
+Do you have any idea how many
+rules and regulations that would take?
+
+110
+00:06:08,066 --> 00:06:09,799
+That would be books worth.
+
+111
+00:06:10,086 --> 00:06:13,376
+So we could be more specific,
+but it wouldn't matter.
+
+112
+00:06:13,376 --> 00:06:16,816
+That's not our job. That's
+the EU Commission's job.
+
+113
+00:06:16,816 --> 00:06:21,926
+In some ways, this slide I posted is
+more important than the initiative itself,
+
+114
+00:06:21,926 --> 00:06:25,611
+because this roughly reflects
+the views of the organizers,
+
+115
+00:06:25,611 --> 00:06:29,296
+the people who would be going to
+Brussels to discuss this with the EU.
+
+116
+00:06:29,296 --> 00:06:33,633
+Another layer to this is the law
+itself can be vague or broad.
+
+117
+00:06:34,151 --> 00:06:39,296
+Like, you know, police officers, they have to
+have "reasonable suspicion" to stop someone.
+
+118
+00:06:39,296 --> 00:06:42,936
+And they need "probable
+cause" to arrest someone.
+
+119
+00:06:42,936 --> 00:06:44,386
+What does that mean?
+
+120
+00:06:44,386 --> 00:06:46,866
+Yeah, see, you have to use
+some common sense because
+
+121
+00:06:46,867 --> 00:06:49,467
+the law can't cover
+every last scenario.
+
+122
+00:06:50,036 --> 00:06:53,636
+Like, say an officer sees somebody
+who he thinks has weed on him.
+
+123
+00:06:53,636 --> 00:06:55,826
+But it turns out it's
+just a bag of oregano.
+
+124
+00:06:55,826 --> 00:06:59,936
+Do we need to write a law saying
+that if you're holding a bag of oregano,
+
+125
+00:06:59,936 --> 00:07:02,603
+then that counts as
+reasonable suspicion?
+
+126
+00:07:02,946 --> 00:07:07,026
+Well, what if we forgot to write
+a law for a bag of dried parsley?
+
+127
+00:07:07,026 --> 00:07:09,236
+See, it just doesn't work.
+
+128
+00:07:09,236 --> 00:07:11,346
+And it's the same for games.
+
+129
+00:07:11,346 --> 00:07:13,433
+Like in the initiative, some
+were asking what is meant
+
+130
+00:07:13,434 --> 00:07:16,626
+by a "reasonably functional"
+or "playable" state.
+
+131
+00:07:16,626 --> 00:07:21,666
+Well, if it's a racing game, I would think
+that means you race cars in the game world.
+
+132
+00:07:21,666 --> 00:07:23,166
+If it's an arena shooter,
+
+133
+00:07:23,167 --> 00:07:26,976
+I would think that means you enter
+game maps and shoot at other players.
+
+134
+00:07:26,976 --> 00:07:32,361
+If it's an RPG, boy, that could
+mean fight monsters, talk to NPCs,
+
+135
+00:07:32,361 --> 00:07:35,906
+use items, manage your
+inventory, lots of stuff.
+
+136
+00:07:35,906 --> 00:07:41,506
+But what if we try to be specific and
+make the law race cars in the game world?
+
+137
+00:07:41,506 --> 00:07:45,826
+Well, does that work for the
+arena shooter or the RPG?
+
+138
+00:07:45,826 --> 00:07:48,466
+I mean, I guess a few
+of them, but not most.
+
+139
+00:07:48,466 --> 00:07:50,000
+It just won't work.
+
+140
+00:07:50,001 --> 00:07:52,231
+Same goes for technology.
+
+141
+00:07:52,231 --> 00:07:57,616
+What works code-wise for an arena
+shooter probably doesn't work for an MMO.
+
+142
+00:07:57,616 --> 00:07:59,886
+That's why we leave
+it to the developer.
+
+143
+00:07:59,886 --> 00:08:02,176
+Some were
+complaining about that.
+
+144
+00:08:02,176 --> 00:08:05,558
+Well, the alternative would
+be to mandate exactly how
+
+145
+00:08:05,558 --> 00:08:08,822
+every company writes the
+code that fixes their game.
+
+146
+00:08:08,877 --> 00:08:12,396
+Not only is that unrealistic,
+nobody wants that.
+
+147
+00:08:12,396 --> 00:08:18,000
+Specific rules do not work for all
+games, so you have to be broad.
+
+148
+00:08:18,606 --> 00:08:21,776
+Doesn't your initiative still go too far?
+
+149
+00:08:21,776 --> 00:08:25,906
+Okay, we just covered why we have
+to be broad and can't be too specific,
+
+150
+00:08:25,906 --> 00:08:31,746
+but there is a 0% chance this initiative
+survives with everything we're asking for.
+
+151
+00:08:31,746 --> 00:08:33,856
+There's going to be industry input.
+
+152
+00:08:33,856 --> 00:08:36,146
+In fact, I'm kind of
+worried about one of them.
+
+153
+00:08:36,146 --> 00:08:40,816
+One of our members found out about a
+lobbying group, videogameseurope.eu.
+
+154
+00:08:40,816 --> 00:08:42,333
+If you look at the
+membership list,
+
+155
+00:08:42,334 --> 00:08:45,726
+there are a lot of companies
+with live service games on here.
+
+156
+00:08:45,726 --> 00:08:49,616
+I would feel so much better
+if CD Projekt was on this list.
+
+157
+00:08:49,616 --> 00:08:54,306
+You know, a major European game developer
+that gives a damn about preservation.
+
+158
+00:08:54,306 --> 00:08:56,866
+Back to the initiative,
+it's going to change,
+
+159
+00:08:56,866 --> 00:09:01,166
+so we need to aim a little higher to hit the
+mark so we have some negotiating leverage.
+
+160
+00:09:01,166 --> 00:09:04,871
+Okay, I am not speaking for the
+initiative members in this next part.
+
+161
+00:09:04,871 --> 00:09:09,056
+It's not a hive mind. Some agree with
+me, some are more radical than me.
+
+162
+00:09:09,056 --> 00:09:12,926
+But here are some compromises
+I personally might agree to.
+
+163
+00:09:12,926 --> 00:09:16,096
+Instead of insisting that the
+game works on shutdown,
+
+164
+00:09:16,096 --> 00:09:21,216
+have a "best effort" from the developers
+so that savvy users could "repair" the game.
+
+165
+00:09:21,216 --> 00:09:26,476
+This could be server binaries, server source
+code, though again, this is optional, guys.
+
+166
+00:09:26,477 --> 00:09:29,796
+That would not be the only option.
+I'm not mandating that.
+
+167
+00:09:29,796 --> 00:09:33,586
+Or if you want to be really
+generous, repair instructions.
+
+168
+00:09:33,586 --> 00:09:36,066
+Here, I'll pull up my old
+slide from a while back.
+
+169
+00:09:36,066 --> 00:09:38,126
+This would kind of
+be the bare minimum.
+
+170
+00:09:38,126 --> 00:09:39,916
+Okay, back to compromises.
+
+171
+00:09:39,917 --> 00:09:44,416
+Not include subscription service
+games. I'll get into that one later.
+
+172
+00:09:44,416 --> 00:09:48,176
+And finally, grandfather
+in existing games.
+
+173
+00:09:48,176 --> 00:09:50,656
+That would be a huge compromise.
+
+174
+00:09:50,656 --> 00:09:53,856
+Because every game that's
+grandfathered in will die.
+
+175
+00:09:53,856 --> 00:09:56,816
+Or 98% of them,
+something around there.
+
+176
+00:09:56,816 --> 00:10:01,136
+A higher percentage of those games would
+survive if they were not grandfathered in.
+
+177
+00:10:01,136 --> 00:10:03,856
+So that's giving up hundreds
+of games right there.
+
+178
+00:10:03,856 --> 00:10:05,456
+It would be a devil's bargain.
+
+179
+00:10:05,456 --> 00:10:09,346
+Hundreds of games sacrificed to
+save almost all games in the future.
+
+180
+00:10:09,346 --> 00:10:12,176
+And this is about as far as
+the compromises could go.
+
+181
+00:10:12,176 --> 00:10:16,386
+If we bargain below this, there's
+basically no point to any of this.
+
+182
+00:10:16,386 --> 00:10:19,696
+Because then there would be so little
+protection, no games would be saved.
+
+183
+00:10:19,696 --> 00:10:21,726
+So we have to have some buffer.
+
+184
+00:10:21,726 --> 00:10:26,556
+Under your initiative, do all features
+need to work when the game is shut down?
+
+185
+00:10:26,556 --> 00:10:29,576
+This is another point a
+few members disagree on.
+
+186
+00:10:29,576 --> 00:10:33,016
+Me, I'd say no, but
+it's kind of a spectrum.
+
+187
+00:10:33,016 --> 00:10:36,362
+We have that phrase
+"reasonably playable state".
+
+188
+00:10:36,362 --> 00:10:40,116
+So let's say you have an online
+arena shooter, it shuts down,
+
+189
+00:10:40,116 --> 00:10:42,366
+the company releases
+an end-of-life patch,
+
+190
+00:10:42,366 --> 00:10:47,436
+and everything works except for
+achievements and matchmaking.
+
+191
+00:10:47,436 --> 00:10:52,233
+Well, I think most people would say, "Yeah,
+good enough. The game's saved. It works."
+
+192
+00:10:52,234 --> 00:10:54,183
+But then let's say you
+had another game,
+
+193
+00:10:54,184 --> 00:10:57,906
+it shuts down, and you
+can technically start it,
+
+194
+00:10:57,906 --> 00:11:01,676
+but all you can do is get to the main
+menu and nothing works past that.
+
+195
+00:11:01,676 --> 00:11:03,700
+Well, in that other game,
+I think most people
+
+196
+00:11:03,701 --> 00:11:07,093
+would not consider that a
+"reasonably playable state".
+
+197
+00:11:07,176 --> 00:11:11,076
+So that game might face a higher
+chance of receiving complaints
+
+198
+00:11:11,076 --> 00:11:13,586
+to the Consumer Protection
+Agency in that country.
+
+199
+00:11:13,586 --> 00:11:16,576
+So I can't tell you exactly
+where the dividing line is,
+
+200
+00:11:16,576 --> 00:11:20,776
+but the more the game works, the more
+it's likely to be an acceptable solution.
+
+201
+00:11:20,776 --> 00:11:24,436
+Do you expect companies to
+keep running servers forever?
+
+202
+00:11:24,436 --> 00:11:28,933
+No. They can end support and
+turn off servers whenever they want.
+
+203
+00:11:29,386 --> 00:11:32,096
+But they have to do it
+in a responsible way,
+
+204
+00:11:32,096 --> 00:11:36,673
+like "Gran Turismo Sport",
+"Knockout City", "Duelyst", and so on.
+
+205
+00:11:37,267 --> 00:11:40,133
+What about games that don't
+require a connection to the publisher
+
+206
+00:11:40,134 --> 00:11:43,933
+or DRM servers, et cetera,
+when support ends to work?
+
+207
+00:11:44,603 --> 00:11:48,386
+Nothing. Those kinds of games
+would be exempt from all of this.
+
+208
+00:11:48,386 --> 00:11:50,853
+And that actually is
+most video games.
+
+209
+00:11:51,663 --> 00:11:55,033
+Are any people involved
+with this initiative developers?
+
+210
+00:11:55,033 --> 00:11:59,500
+Yes, a few are game or server
+software developers in the initiative.
+
+211
+00:11:59,883 --> 00:12:03,233
+I've also had a lot of game developers
+reach out to me in support of this,
+
+212
+00:12:03,234 --> 00:12:05,100
+mostly indie ones.
+
+213
+00:12:05,101 --> 00:12:08,066
+I think our highest-profile game
+developer in support of this
+
+214
+00:12:08,067 --> 00:12:12,093
+might be Running With Scissors,
+the developer of the "Postal" games.
+
+215
+00:12:12,093 --> 00:12:15,333
+["Hi there, would you
+like to sign my petition?"]
+
+216
+00:12:15,334 --> 00:12:19,622
+I imagine they understand the
+madness we're facing better than most.
+
+217
+00:12:19,900 --> 00:12:23,033
+And finally, there's been a couple
+developers at large companies
+
+218
+00:12:23,034 --> 00:12:25,901
+that wish to remain
+anonymous, so they will.
+
+219
+00:12:27,000 --> 00:12:32,376
+I'm a developer with an online-only game.
+What will happen if this initiative passes?
+
+220
+00:12:32,833 --> 00:12:36,100
+Okay, first off, I can't
+answer this question 100%,
+
+221
+00:12:36,101 --> 00:12:39,900
+because, back to point
+four, things will change.
+
+222
+00:12:39,900 --> 00:12:42,830
+So a lot of this depends
+on what the EU decides.
+
+223
+00:12:42,830 --> 00:12:45,180
+We'll start with existing games.
+
+224
+00:12:45,180 --> 00:12:48,835
+You may have several options,
+though most of them are not ideal.
+
+225
+00:12:48,835 --> 00:12:51,700
+But remember point
+one and point three.
+
+226
+00:12:52,533 --> 00:12:53,766
+Option one:
+
+227
+00:12:53,767 --> 00:12:57,500
+you can come up with an end-of-life
+plan to keep it working after shutdown.
+
+228
+00:12:57,500 --> 00:12:59,633
+Though that may not be possible.
+
+229
+00:12:59,940 --> 00:13:04,700
+See, you could have licenses and middleware
+that you don't have permission to distribute.
+
+230
+00:13:04,700 --> 00:13:07,993
+Or you know what? Maybe you just
+don't want to work on the game anymore.
+
+231
+00:13:07,993 --> 00:13:09,193
+I get it.
+
+232
+00:13:09,270 --> 00:13:13,878
+Option two: you could shut down the
+game before the law went into effect.
+
+233
+00:13:13,970 --> 00:13:15,666
+Yes, that sucks.
+
+234
+00:13:15,666 --> 00:13:17,578
+But you think it doesn't
+suck for the consumer
+
+235
+00:13:17,578 --> 00:13:20,210
+every time every other
+game gets shut down?
+
+236
+00:13:20,210 --> 00:13:22,730
+And the quick-to-react
+people out there might say,
+
+237
+00:13:22,730 --> 00:13:25,601
+"Oh look, this proposal
+is going to kill games!"
+
+238
+00:13:25,601 --> 00:13:30,200
+You mean games that were on death
+row and were going to get killed anyway?
+
+239
+00:13:30,200 --> 00:13:33,180
+So yes, this would
+move the timetable up,
+
+240
+00:13:33,180 --> 00:13:36,252
+but the aftermath would
+be everything gets saved.
+
+241
+00:13:36,460 --> 00:13:40,633
+Option three, maybe--
+this one depends on the EU.
+
+242
+00:13:40,633 --> 00:13:43,533
+You can move to a
+subscription model instead.
+
+243
+00:13:43,980 --> 00:13:48,266
+Now this is probably a losing
+proposition in the long term, we know.
+
+244
+00:13:48,266 --> 00:13:53,610
+But then at least customers are informed how
+much time they have left at any given time.
+
+245
+00:13:53,610 --> 00:13:55,933
+Option four, another maybe.
+
+246
+00:13:56,200 --> 00:14:01,064
+Make a best effort to let the customer
+repair or run the game after shutdown.
+
+247
+00:14:01,780 --> 00:14:05,190
+So this could be server binaries,
+maybe server source code.
+
+248
+00:14:05,191 --> 00:14:07,533
+Again, not mandatory.
+
+249
+00:14:07,533 --> 00:14:10,940
+Releasing packet documentation,
+I'll bring up that slide again.
+
+250
+00:14:10,940 --> 00:14:13,130
+Removing DRM and so on.
+
+251
+00:14:13,130 --> 00:14:15,900
+Something to give users a fighting chance.
+
+252
+00:14:15,900 --> 00:14:18,700
+And option five, another maybe.
+
+253
+00:14:18,700 --> 00:14:22,700
+All games get grandfathered in and
+none of this applies to existing games.
+
+254
+00:14:22,700 --> 00:14:24,600
+This would kill the most games,
+
+255
+00:14:24,601 --> 00:14:27,720
+but this is probably the option
+most developers would want.
+
+256
+00:14:27,720 --> 00:14:29,500
+Now that's for existing games.
+
+257
+00:14:29,500 --> 00:14:34,566
+For future games, it's everything I just
+mentioned, which have multiple maybes.
+
+258
+00:14:34,567 --> 00:14:39,623
+Except for grandfathering and shutting
+down before the law is active, obviously.
+
+259
+00:14:39,728 --> 00:14:43,967
+I realize this is less than ideal,
+but remember point three.
+
+260
+00:14:43,968 --> 00:14:48,800
+We have to break the loop of games
+being designed with no end-of-life plan.
+
+261
+00:14:48,800 --> 00:14:53,600
+Otherwise, this excuse gets perpetuated
+forever and progress becomes impossible.
+
+262
+00:14:53,600 --> 00:14:56,400
+Now, one thing I think some
+developers aren't considering
+
+263
+00:14:56,400 --> 00:14:59,440
+is if this passes and it
+becomes a known requirement,
+
+264
+00:14:59,440 --> 00:15:02,530
+I think there's going to be a gold
+rush for middleware developers
+
+265
+00:15:02,530 --> 00:15:06,710
+to come up with easy solutions to
+create an end-of-life build for your game.
+
+266
+00:15:06,710 --> 00:15:09,533
+The market forces
+will be enormous.
+
+267
+00:15:09,533 --> 00:15:13,033
+I'm trying to keep it real.
+This is not an ideal situation,
+
+268
+00:15:13,034 --> 00:15:17,194
+and we actually want this to be
+as easy as possible on developers.
+
+269
+00:15:17,360 --> 00:15:22,400
+But remember point one, what's the
+alternative that still saves games?
+
+270
+00:15:22,667 --> 00:15:27,201
+I don't know how this works without
+some compromise from the developers.
+
+271
+00:15:27,201 --> 00:15:29,166
+If the initiative passes,
+
+272
+00:15:29,167 --> 00:15:31,866
+what would developers have
+to change for future games
+
+273
+00:15:31,867 --> 00:15:33,800
+while the game was being supported?
+
+274
+00:15:33,800 --> 00:15:36,410
+Well, visibly, absolutely nothing.
+
+275
+00:15:36,410 --> 00:15:39,546
+Though you really should
+have an end-of-life plan.
+
+276
+00:15:39,930 --> 00:15:42,410
+Other than that, it's
+business as usual.
+
+277
+00:15:42,410 --> 00:15:46,442
+You can still have microtransactions,
+loot boxes, DLC, whatever.
+
+278
+00:15:47,185 --> 00:15:50,533
+Would this initiative
+affect subscription games?
+
+279
+00:15:51,000 --> 00:15:54,600
+Well, that's another question that
+depends on what the EU says.
+
+280
+00:15:54,600 --> 00:15:57,066
+Personally, I think it's very unlikely
+
+281
+00:15:57,066 --> 00:16:01,100
+because that doesn't fit well with
+other existing consumer laws.
+
+282
+00:16:01,100 --> 00:16:04,371
+I think the only way you could
+even make that argument
+
+283
+00:16:04,371 --> 00:16:06,991
+would be that this is
+necessary for preservation
+
+284
+00:16:06,991 --> 00:16:10,491
+and most governments don't
+seem to care about that at all.
+
+285
+00:16:10,491 --> 00:16:13,171
+However, I don't think
+this is a huge loss,
+
+286
+00:16:13,171 --> 00:16:16,499
+since only a handful of
+games operate that way today.
+
+287
+00:16:16,961 --> 00:16:22,021
+So if we can give up those but
+then save 99% of other games,
+
+288
+00:16:22,021 --> 00:16:23,931
+I'm willing to
+make that bargain.
+
+289
+00:16:23,931 --> 00:16:27,700
+Won't lots of games turn
+subscription-only if this passes?
+
+290
+00:16:27,700 --> 00:16:30,051
+Well, first, I think
+that's very doubtful.
+
+291
+00:16:30,051 --> 00:16:34,533
+But if this were to happen, I'm not
+sure you could even blame this on us.
+
+292
+00:16:34,533 --> 00:16:37,000
+The thing is, we've been here before.
+
+293
+00:16:37,111 --> 00:16:41,900
+In the 2000s, lots of publishers were trying
+to cash in on the success of "EverQuest"
+
+294
+00:16:41,901 --> 00:16:44,101
+and especially "World of Warcraft".
+
+295
+00:16:44,531 --> 00:16:49,651
+There were MMOs popping up left and
+right with subscription fees, dozens of them.
+
+296
+00:16:49,911 --> 00:16:53,495
+Almost all of those either
+died out or went free to play.
+
+297
+00:16:53,821 --> 00:16:56,340
+It turns out a lot of
+people don't like having to
+
+298
+00:16:56,341 --> 00:16:59,349
+pay money every single
+month, for several games.
+
+299
+00:16:59,601 --> 00:17:01,281
+The market's only so big.
+
+300
+00:17:01,631 --> 00:17:05,087
+Nowadays, it's mostly just
+the old guard that survived.
+
+301
+00:17:05,151 --> 00:17:10,061
+Like "World of Warcraft", "Final
+Fantasy" games, "EVE Online".
+
+302
+00:17:10,211 --> 00:17:14,721
+The market for subscription games is
+only so big and publishers know this.
+
+303
+00:17:14,721 --> 00:17:18,311
+Otherwise, they'd be cramming these
+subscription games down our mouth.
+
+304
+00:17:18,311 --> 00:17:23,233
+Speaking of which, this is
+already happening or trying to.
+
+305
+00:17:23,741 --> 00:17:26,541
+EA and Ubisoft have subscription services.
+
+306
+00:17:26,931 --> 00:17:29,500
+PlayStation Now, Game Pass.
+
+307
+00:17:29,501 --> 00:17:33,900
+Stadia died, thankfully,
+and it had exclusives.
+
+308
+00:17:33,901 --> 00:17:36,733
+Well, what happens when these
+other subscription services decide,
+
+309
+00:17:36,733 --> 00:17:40,954
+"Hey, we should have exclusives
+too, that you HAVE to rent to play".
+
+310
+00:17:40,954 --> 00:17:45,433
+We're already on this trajectory,
+so there's not a lot to lose here.
+
+311
+00:17:45,773 --> 00:17:49,463
+But I don't think we're going to
+lose much on these lines anyway.
+
+312
+00:17:49,463 --> 00:17:52,493
+You're talking mostly
+about "live service" games.
+
+313
+00:17:52,493 --> 00:17:55,853
+Isn't it unreasonable to
+expect to own a service?
+
+314
+00:17:55,853 --> 00:17:59,300
+Oh boy, this is going to be a long
+answer. This one gets into the weeds.
+
+315
+00:17:59,300 --> 00:18:02,100
+First, let's talk about
+the legal answer to this.
+
+316
+00:18:02,100 --> 00:18:05,167
+In Europe, the United States, forget it.
+
+317
+00:18:05,783 --> 00:18:07,500
+Subscription-based games,
+
+318
+00:18:07,501 --> 00:18:10,413
+I don't think we have a leg to
+stand on in regard to commerce law.
+
+319
+00:18:10,413 --> 00:18:14,061
+So that's "World of Warcraft",
+"Final Fantasy XIV", and so on.
+
+320
+00:18:14,533 --> 00:18:20,666
+These games tell you exactly when they
+end, and that's what normal services do.
+
+321
+00:18:20,933 --> 00:18:23,384
+So yeah, I don't think there's
+anything in the law that gets us there,
+
+322
+00:18:23,384 --> 00:18:26,900
+and as I mentioned earlier,
+I also think it's a hard ask.
+
+323
+00:18:26,900 --> 00:18:29,033
+But what about other
+live service games?
+
+324
+00:18:29,033 --> 00:18:32,253
+Ones that you buy
+once, then that's it.
+
+325
+00:18:32,253 --> 00:18:36,633
+So games like "The Crew",
+"Destiny", "Overwatch".
+
+326
+00:18:36,634 --> 00:18:41,300
+It is not clear in multiple countries
+if those are goods or services.
+
+327
+00:18:41,643 --> 00:18:44,466
+You pay a one-time
+fee for a product,
+
+328
+00:18:44,466 --> 00:18:46,766
+with no stated expiration date,
+
+329
+00:18:46,767 --> 00:18:48,501
+that sounds like a "good".
+
+330
+00:18:48,766 --> 00:18:54,599
+But it depends on an external service,
+except you're not told how long that lasts.
+
+331
+00:18:54,986 --> 00:18:59,516
+So that doesn't really meet the full
+definition of a "service" commercially either.
+
+332
+00:18:59,666 --> 00:19:02,610
+Now you can buy lifetime
+memberships to things,
+
+333
+00:19:02,786 --> 00:19:06,114
+but those are associated
+with the business operating.
+
+334
+00:19:06,146 --> 00:19:11,599
+So if I bought a lifetime membership to
+a gym, then it's canceled after four years,
+
+335
+00:19:11,771 --> 00:19:16,899
+but the gym is still operating and
+trying to sell me a new lifetime plan?
+
+336
+00:19:17,356 --> 00:19:20,256
+I'd be pissed. I think
+you could sue for that.
+
+337
+00:19:20,326 --> 00:19:25,766
+"The Culling II", a one-time purchase,
+lasted eight days before it shut down.
+
+338
+00:19:26,096 --> 00:19:31,176
+"Guild Wars", also a one-time purchase,
+has been going for over 19 years.
+
+339
+00:19:31,633 --> 00:19:35,966
+So how can customers make an
+informed decision with that kind of spread?
+
+340
+00:19:35,966 --> 00:19:39,196
+Consumer laws can get
+picky about that sort of thing.
+
+341
+00:19:39,196 --> 00:19:42,100
+If I bought a
+warranty for a dryer,
+
+342
+00:19:42,433 --> 00:19:46,396
+and the company refused to tell
+me how long that warranty lasted.
+
+343
+00:19:46,396 --> 00:19:50,336
+"Maybe it's a week, maybe it's five
+years! We're not going to tell you."
+
+344
+00:19:50,336 --> 00:19:53,664
+How the hell would that
+be legal in other industries?
+
+345
+00:19:54,276 --> 00:19:57,604
+So just because they call
+themselves "service games",
+
+346
+00:19:57,876 --> 00:20:01,200
+doesn't mean they fit the
+legal definition of a service.
+
+347
+00:20:01,200 --> 00:20:05,071
+So that's the legal side, but let's
+move into the philosophical side.
+
+348
+00:20:05,071 --> 00:20:08,046
+I am not aware of
+any live service game
+
+349
+00:20:08,047 --> 00:20:11,466
+that couldn't be converted to
+something you couldn't preserve forever
+
+350
+00:20:11,467 --> 00:20:13,726
+if customers had
+access to the code.
+
+351
+00:20:13,726 --> 00:20:17,133
+Okay, now this here is just my
+outlook, but with a service game,
+
+352
+00:20:17,133 --> 00:20:21,366
+there's stuff I consider a "real
+service" and an "artificial service".
+
+353
+00:20:21,366 --> 00:20:24,833
+The real services take real
+people doing something.
+
+354
+00:20:25,066 --> 00:20:28,596
+So that would be player
+moderation, creating new content,
+
+355
+00:20:28,596 --> 00:20:35,233
+bug fixes, technical support, and the cost
+and convenience of running company servers.
+
+356
+00:20:35,286 --> 00:20:40,146
+There's more. The point is, this all
+takes real people actively working.
+
+357
+00:20:40,221 --> 00:20:42,546
+If they stop, so does the service.
+
+358
+00:20:42,696 --> 00:20:46,936
+Now the "artificial service" is
+being able to run the game.
+
+359
+00:20:46,936 --> 00:20:50,381
+The only reason it's a service is
+because the code is being withheld.
+
+360
+00:20:50,381 --> 00:20:55,096
+Unlike the other column, no human even
+needs to be alive for this part to work,
+
+361
+00:20:55,096 --> 00:20:56,806
+because the work was already done.
+
+362
+00:20:56,806 --> 00:21:01,846
+The second the customer has a copy of the
+server software, it ceases being a service.
+
+363
+00:21:01,846 --> 00:21:03,773
+Yeah, I might need
+some custom hardware,
+
+364
+00:21:03,773 --> 00:21:06,321
+but preservationists will
+jump through those hoops.
+
+365
+00:21:06,321 --> 00:21:08,166
+And it's not like
+they're freeloaders;
+
+366
+00:21:08,166 --> 00:21:11,766
+the customers have already paid
+the company money for the game!
+
+367
+00:21:11,766 --> 00:21:13,786
+Sometimes a crapload of money.
+
+368
+00:21:13,786 --> 00:21:16,270
+And it's insult to injury
+that many games will just
+
+369
+00:21:16,270 --> 00:21:18,856
+give you the server side
+as part of your purchase.
+
+370
+00:21:18,856 --> 00:21:21,176
+So even on a conceptual level,
+
+371
+00:21:21,176 --> 00:21:26,586
+we are really stretching definitions to
+call THIS part of the game a "service".
+
+372
+00:21:26,586 --> 00:21:28,066
+And let me tell you a secret:
+
+373
+00:21:28,166 --> 00:21:30,833
+any game can be made
+into a service game.
+
+374
+00:21:31,256 --> 00:21:32,516
+Like take "Super Mario Bros."
+
+375
+00:21:32,516 --> 00:21:35,816
+You can remove the Goombas
+and the power block locations,
+
+376
+00:21:35,816 --> 00:21:40,436
+hold that data server-side, and then lock
+you out in the menu until you authenticate.
+
+377
+00:21:40,436 --> 00:21:43,833
+Now "Super Mario Bros."
+is a "live service game"
+
+378
+00:21:43,833 --> 00:21:46,526
+that will brick if the
+company shuts it down.
+
+379
+00:21:46,526 --> 00:21:47,736
+Hooray!
+
+380
+00:21:47,736 --> 00:21:51,826
+All this crap that prevents you
+from playing the game is artificial.
+
+381
+00:21:51,826 --> 00:21:54,733
+Now of course it makes sense
+to keep running it as a service,
+
+382
+00:21:54,734 --> 00:21:57,016
+because you can make
+a lot of money that way.
+
+383
+00:21:57,016 --> 00:22:01,496
+Plus all those real service aspects I
+mentioned improve the quality of the game.
+
+384
+00:22:01,496 --> 00:22:04,086
+And we're not trying
+to stop any of that.
+
+385
+00:22:04,086 --> 00:22:07,256
+Companies can keep making
+money as long as they want to.
+
+386
+00:22:07,256 --> 00:22:11,416
+We're specifically talking about cases
+where all the services have shut down,
+
+387
+00:22:11,416 --> 00:22:13,816
+and the company is no
+longer making money.
+
+388
+00:22:13,816 --> 00:22:17,186
+Now of course there can be many legal
+reasons the company doesn't just release
+
+389
+00:22:17,187 --> 00:22:20,166
+their server software to customers
+once they're done making money.
+
+390
+00:22:20,166 --> 00:22:24,766
+But guess what? That's why
+we're trying to get the law changed.
+
+391
+00:22:24,986 --> 00:22:27,766
+So these barriers don't need to exist.
+
+392
+00:22:28,346 --> 00:22:31,856
+And this next part I don't know
+if I can even explain to everyone.
+
+393
+00:22:31,856 --> 00:22:35,886
+But art has innate value to
+me, which includes games.
+
+394
+00:22:36,056 --> 00:22:38,733
+I think destroying good art is awful.
+
+395
+00:22:39,046 --> 00:22:42,066
+Games are code.
+They can be preserved.
+
+396
+00:22:42,186 --> 00:22:46,486
+But we're creating systems where
+destruction is the only option possible.
+
+397
+00:22:46,486 --> 00:22:48,076
+And it's preventable.
+
+398
+00:22:48,076 --> 00:22:52,296
+Every time MMO emulators get
+leaked, or reverse engineered,
+
+399
+00:22:52,296 --> 00:22:57,033
+or released by the devs themselves,
+it just shows this is all possible.
+
+400
+00:22:57,366 --> 00:23:00,646
+I would like to see all games
+people care about saved.
+
+401
+00:23:00,646 --> 00:23:02,446
+Even the subscription ones.
+
+402
+00:23:02,486 --> 00:23:05,186
+Even though I know I don't
+have a legal angle on those.
+
+403
+00:23:05,286 --> 00:23:08,276
+But other live service
+games? Give me a break.
+
+404
+00:23:08,276 --> 00:23:13,206
+At this point in time, it's not even clear
+if those are breaking the law or not.
+
+405
+00:23:13,206 --> 00:23:17,558
+But even if they're not, customers
+hate having their games destroyed.
+
+406
+00:23:17,846 --> 00:23:20,536
+This is not a hard
+concept to understand.
+
+407
+00:23:20,536 --> 00:23:22,616
+The mindset here is aspirational.
+
+408
+00:23:22,616 --> 00:23:25,741
+To try and make art and
+gaming better than it is now.
+
+409
+00:23:25,741 --> 00:23:28,376
+Because there's so
+much obvious destruction.
+
+410
+00:23:28,376 --> 00:23:32,099
+Why settle for an awful
+practice that might be illegal,
+
+411
+00:23:32,216 --> 00:23:35,333
+when a better way
+hasn't even been tried?
+
+412
+00:23:35,696 --> 00:23:38,596
+If you don't get it, I
+don't think you will.
+
+413
+00:23:38,936 --> 00:23:43,233
+Isn't there a chance gaming will get
+worse because of government involvement?
+
+414
+00:23:43,233 --> 00:23:47,233
+I think there's a bigger chance it gets
+worse WITHOUT government involvement.
+
+415
+00:23:47,233 --> 00:23:51,766
+Now could they misinterpret things,
+or apply this in a clunky way? Sure.
+
+416
+00:23:51,766 --> 00:23:53,633
+But we don't have much to lose.
+
+417
+00:23:53,634 --> 00:23:56,233
+From our perspective, there's
+nothing worse in gaming
+
+418
+00:23:56,234 --> 00:23:58,666
+than having games you like destroyed.
+
+419
+00:23:58,666 --> 00:24:01,833
+This practice has already
+destroyed hundreds of games.
+
+420
+00:24:01,833 --> 00:24:03,900
+We can see where this is going.
+
+421
+00:24:03,900 --> 00:24:07,633
+What if in the future 90% of games are
+online only, and they just keep killing them?
+
+422
+00:24:07,633 --> 00:24:09,263
+They're coming for all your crap.
+
+423
+00:24:09,263 --> 00:24:12,543
+The industry refuses to solve
+this problem. It wants more of it.
+
+424
+00:24:12,543 --> 00:24:14,563
+Government's the only option left.
+
+425
+00:24:14,563 --> 00:24:17,500
+You think I want to be
+doing this? Any of it?
+
+426
+00:24:17,501 --> 00:24:19,434
+Government's the last resort.
+
+427
+00:24:20,313 --> 00:24:23,366
+Why don't you just not buy games
+that require an online connection,
+
+428
+00:24:23,367 --> 00:24:25,101
+and vote with your wallet?
+
+429
+00:24:25,666 --> 00:24:28,426
+Well for starters, we prefer
+to vote with our votes.
+
+430
+00:24:28,426 --> 00:24:30,336
+We think it's more democratic.
+
+431
+00:24:30,336 --> 00:24:33,706
+But the main reason is, this
+doesn't accomplish our goals.
+
+432
+00:24:33,706 --> 00:24:36,440
+I mean, our goal is to
+save games we like.
+
+433
+00:24:36,456 --> 00:24:38,886
+So if we buy the
+game, it gets destroyed.
+
+434
+00:24:38,886 --> 00:24:41,106
+If we don't buy the
+game, it gets destroyed.
+
+435
+00:24:41,107 --> 00:24:42,307
+So...
+
+436
+00:24:42,706 --> 00:24:45,706
+I mean, why don't you not
+listen to music you like?
+
+437
+00:24:45,706 --> 00:24:48,573
+Or why don't you not
+watch movies you like?
+
+438
+00:24:48,676 --> 00:24:50,743
+What exactly are we doing then?
+
+439
+00:24:51,296 --> 00:24:55,416
+Of course, the real answer is, why
+aren't we boycotting games that do this?
+
+440
+00:24:55,416 --> 00:24:56,700
+Well, that's easy.
+
+441
+00:24:56,701 --> 00:25:01,346
+To the best of my knowledge, I'm not
+sure a boycott of a game has ever worked.
+
+442
+00:25:01,347 --> 00:25:02,547
+Ever.
+
+443
+00:25:02,726 --> 00:25:05,593
+And if it has, then
+what I'm really sure of,
+
+444
+00:25:05,636 --> 00:25:09,866
+is no game that's ENJOYABLE has
+ever had a successful boycott.
+
+445
+00:25:10,336 --> 00:25:14,466
+Like, I think the one for "Modern
+Warfare 2" is a meme at this point.
+
+446
+00:25:14,466 --> 00:25:16,086
+And boycotts have been tried.
+
+447
+00:25:16,086 --> 00:25:19,899
+This is advocating for something
+with a 100% failure rate.
+
+448
+00:25:20,386 --> 00:25:22,920
+I would bet money
+on that not working.
+
+449
+00:25:23,386 --> 00:25:26,866
+What we're doing is trying something
+that has never been done before,
+
+450
+00:25:26,916 --> 00:25:28,739
+so it MIGHT work.
+
+451
+00:25:29,333 --> 00:25:30,733
+Won't this go nowhere,
+
+452
+00:25:30,734 --> 00:25:34,200
+because customers signed a EULA
+that says companies can do this?
+
+453
+00:25:34,200 --> 00:25:35,433
+A few things.
+
+454
+00:25:35,434 --> 00:25:37,700
+Straight from the EU itself:
+
+455
+00:25:38,116 --> 00:25:42,333
+"Directive 93/13/EEC
+prohibits unfair terms
+
+456
+00:25:42,334 --> 00:25:45,071
+"causing a significant
+imbalance in the parties' rights
+
+457
+00:25:45,071 --> 00:25:47,900
+"and obligations to the
+detriment of consumers."
+
+458
+00:25:47,900 --> 00:25:52,000
+Yeah, that's probably 95%
+of all game EULAs ever written.
+
+459
+00:25:52,000 --> 00:25:55,033
+That's being investigated
+as you watch this.
+
+460
+00:25:55,034 --> 00:25:59,600
+Plus, the initiative itself says it would
+supersede the EULA on this issue.
+
+461
+00:25:59,600 --> 00:26:02,500
+What we're doing here is trying
+to take removal of your ownership
+
+462
+00:26:02,501 --> 00:26:04,181
+off the table entirely.
+
+463
+00:26:04,390 --> 00:26:07,056
+Would this initiative affect free games?
+
+464
+00:26:07,700 --> 00:26:12,033
+Well, that depends. Is the game
+truly "free", as in "freeware"?
+
+465
+00:26:12,033 --> 00:26:14,680
+If yes, then no, it would be exempt.
+
+466
+00:26:14,730 --> 00:26:16,833
+Do anything you want.
+
+467
+00:26:17,320 --> 00:26:20,607
+But if it's "free-to-play" and
+has microtransactions
+
+468
+00:26:20,607 --> 00:26:24,100
+sold as one-time purchases
+with no expiration date,
+
+469
+00:26:24,780 --> 00:26:26,833
+then you're not
+entitled to the game,
+
+470
+00:26:26,834 --> 00:26:30,240
+but you are entitled to those
+purchased microtransactions,
+
+471
+00:26:30,240 --> 00:26:33,040
+which need the game
+to function. So... yes.
+
+472
+00:26:33,866 --> 00:26:37,760
+Doesn't this initiative intrude upon
+developer rights and freedom?
+
+473
+00:26:37,760 --> 00:26:43,133
+That is a valid argument to make,
+and we respect it 100% for free games.
+
+474
+00:26:43,633 --> 00:26:46,733
+But once you start taking
+money to sell or lease something,
+
+475
+00:26:46,734 --> 00:26:48,867
+you enter the world of commerce.
+
+476
+00:26:49,133 --> 00:26:50,466
+And taking people's money
+
+477
+00:26:50,467 --> 00:26:54,179
+means you're assuming more
+responsibility for your actions.
+
+478
+00:26:54,250 --> 00:26:56,316
+Every nation has rules on this.
+
+479
+00:26:56,733 --> 00:26:58,533
+So, technically, yes,
+
+480
+00:26:58,750 --> 00:27:02,283
+but that's to balance with
+BUYER rights and freedoms.
+
+481
+00:27:02,666 --> 00:27:07,120
+If a health inspector tells a restaurant
+it needs to follow certain procedures,
+
+482
+00:27:07,120 --> 00:27:10,384
+does that intrude upon a
+chef's rights and freedoms?
+
+483
+00:27:10,510 --> 00:27:14,333
+Yes, but as a society, we
+generally think that's worth it.
+
+484
+00:27:14,770 --> 00:27:16,450
+Now, that's about safety.
+
+485
+00:27:16,460 --> 00:27:19,667
+This is about preservation
+and consumer rights.
+
+486
+00:27:20,170 --> 00:27:22,600
+Under your proposal,
+when a game shuts down,
+
+487
+00:27:22,600 --> 00:27:25,393
+does that mean everyone
+gets the game for free?
+
+488
+00:27:25,393 --> 00:27:29,233
+No, only existing customers
+will be entitled to their copies.
+
+489
+00:27:29,566 --> 00:27:32,466
+Now, that's less than
+ideal for preservation,
+
+490
+00:27:32,543 --> 00:27:37,279
+but to have anything else we'd have
+to upend copyright law, and forget it.
+
+491
+00:27:37,393 --> 00:27:38,733
+Besides, you never know.
+
+492
+00:27:38,733 --> 00:27:43,833
+Some companies just release old games for
+free anyway, but it would be their choice.
+
+493
+00:27:43,833 --> 00:27:47,033
+What about people who are
+banned from online games?
+
+494
+00:27:47,163 --> 00:27:51,693
+Well, as long as the company is still
+supporting the game, they still stay banned.
+
+495
+00:27:51,693 --> 00:27:52,966
+However, as a customer,
+
+496
+00:27:52,967 --> 00:27:57,053
+they would be entitled to an
+end-of-life patch, whenever that was.
+
+497
+00:27:57,053 --> 00:28:01,983
+So, it might be a year. It might be
+15 years. Could be a pretty long ban.
+
+498
+00:28:02,600 --> 00:28:05,300
+To have anything else would
+create a loophole for developers,
+
+499
+00:28:05,301 --> 00:28:07,766
+where they could just ban all
+customers at the end of life,
+
+500
+00:28:07,767 --> 00:28:10,775
+and skirt around the
+requirement that way, so...
+
+501
+00:28:10,980 --> 00:28:13,880
+Wouldn't this make
+cheating rampant in games?
+
+502
+00:28:14,230 --> 00:28:17,466
+You know, I've seen this question
+before, and I'm always confused by it.
+
+503
+00:28:17,466 --> 00:28:19,390
+So maybe I'm not
+getting something here.
+
+504
+00:28:19,440 --> 00:28:22,600
+Nothing would go into effect
+until the game is shut down.
+
+505
+00:28:22,600 --> 00:28:26,166
+So I don't know how that would
+change anything compared to... now.
+
+506
+00:28:26,166 --> 00:28:30,669
+Online games are under assault by cheaters
+all the time, even without this initiative.
+
+507
+00:28:30,870 --> 00:28:34,750
+Now, if you're talking about the potential
+to cheat in games post-shutdown,
+
+508
+00:28:34,900 --> 00:28:37,950
+then yes, cheating
+could be very rampant.
+
+509
+00:28:38,150 --> 00:28:42,370
+But why would that matter? Because the
+alternative would be a completely dead game.
+
+510
+00:28:42,370 --> 00:28:45,710
+Usually what happens in these
+cases is small communities emerge,
+
+511
+00:28:45,711 --> 00:28:48,847
+and they kind of self-police
+to keep cheaters out.
+
+512
+00:28:49,066 --> 00:28:53,260
+But yeah, I might be confused on
+this question. I still don't quite get it.
+
+513
+00:28:53,260 --> 00:28:55,710
+What if players purposefully
+try to tank a game,
+
+514
+00:28:55,711 --> 00:28:59,070
+knowing they can get an
+end-of-life build if they do it?
+
+515
+00:28:59,070 --> 00:29:02,633
+Well again, only paying customers
+would be entitled to an end-of-life build,
+
+516
+00:29:02,633 --> 00:29:05,240
+so they would still have
+to pay for that privilege.
+
+517
+00:29:05,240 --> 00:29:09,144
+But I think most people who buy
+a game want to play that game.
+
+518
+00:29:09,220 --> 00:29:13,275
+And the experience tends to be a
+lot better while it is actively supported,
+
+519
+00:29:13,275 --> 00:29:15,460
+so there's an incentive
+to keep it going.
+
+520
+00:29:15,460 --> 00:29:18,510
+But this is already a
+risk of online games.
+
+521
+00:29:18,635 --> 00:29:21,230
+I just mentioned earlier,
+they're constantly under assault
+
+522
+00:29:21,231 --> 00:29:24,740
+by people trying to force
+cheats or exploits or whatever.
+
+523
+00:29:24,740 --> 00:29:27,633
+I guess if it gets really
+bad, you can sue.
+
+524
+00:29:27,634 --> 00:29:30,833
+Bungie sued that cheat
+maker, and they won.
+
+525
+00:29:30,834 --> 00:29:35,066
+Plus, isn't there an entire
+anti-cheat industry focused on this?
+
+526
+00:29:35,633 --> 00:29:37,866
+I think what might happen
+is you might see an increase
+
+527
+00:29:37,867 --> 00:29:41,168
+of attempts of that at first
+due to the novelty of it,
+
+528
+00:29:41,168 --> 00:29:44,748
+but then incentive will probably
+drop to where it is now already.
+
+529
+00:29:44,748 --> 00:29:47,548
+What about console
+games? Are they covered?
+
+530
+00:29:47,748 --> 00:29:49,428
+This one gets tricky.
+
+531
+00:29:49,608 --> 00:29:54,216
+The answer is yes, but it's another
+one that depends on what the EU says.
+
+532
+00:29:54,233 --> 00:29:58,118
+It might not be possible to release
+the server on the console also,
+
+533
+00:29:58,118 --> 00:30:01,988
+so what they would have to do is release
+the server software for another platform
+
+534
+00:30:01,988 --> 00:30:03,468
+that you could host elsewhere,
+
+535
+00:30:03,618 --> 00:30:07,478
+and then be able to point the
+console towards that separate server.
+
+536
+00:30:07,478 --> 00:30:10,188
+But where it gets muddy is when
+you need to pay the console maker
+
+537
+00:30:10,189 --> 00:30:12,908
+just to have that internet
+access in the first place.
+
+538
+00:30:13,058 --> 00:30:14,586
+So there could still be liability,
+
+539
+00:30:14,586 --> 00:30:17,193
+but it would be off the game
+publishers shoulders at that point,
+
+540
+00:30:17,194 --> 00:30:19,058
+and onto the console makers.
+
+541
+00:30:19,058 --> 00:30:21,900
+And it's not clear to me if the
+console maker would take liability
+
+542
+00:30:21,901 --> 00:30:25,933
+when that game shuts down, or
+when they discontinue the console.
+
+543
+00:30:26,133 --> 00:30:27,933
+I think the latter
+would be more likely,
+
+544
+00:30:27,934 --> 00:30:30,300
+so the console maker would just
+have to make it so the console
+
+545
+00:30:30,301 --> 00:30:33,393
+is not bricked from the internet
+once they discontinue it.
+
+546
+00:30:33,393 --> 00:30:36,903
+So you would get your game
+back, but it might take a while.
+
+547
+00:30:36,903 --> 00:30:40,000
+What about mobile games?
+Would they be affected?
+
+548
+00:30:40,533 --> 00:30:41,900
+I don't see why not,
+
+549
+00:30:41,901 --> 00:30:46,623
+though the sheer quantity of them might lend
+more weight to the grandfathering argument.
+
+550
+00:30:46,623 --> 00:30:49,343
+I think it would be a similar
+situation as consoles.
+
+551
+00:30:49,343 --> 00:30:51,473
+It either gets hosted
+on the mobile device,
+
+552
+00:30:51,473 --> 00:30:54,566
+or it's released for a separate
+platform that it can connect to.
+
+553
+00:30:54,566 --> 00:30:58,790
+How long would companies have
+to host patches or end-of-life plans?
+
+554
+00:30:59,053 --> 00:31:02,813
+I don't know, just long enough
+so users have a chance to grab it?
+
+555
+00:31:02,813 --> 00:31:04,493
+90 days? Could be less.
+
+556
+00:31:05,183 --> 00:31:09,855
+Won't this mean companies stop making
+MMO or live service games in the EU?
+
+557
+00:31:10,000 --> 00:31:13,593
+I think it's a complete bluff from
+any major company saying this.
+
+558
+00:31:13,743 --> 00:31:18,793
+The population of the EU is 450
+million people. It's a huge market.
+
+559
+00:31:18,993 --> 00:31:22,623
+The industry stands to lose
+billions by doing something like that.
+
+560
+00:31:22,623 --> 00:31:28,933
+And remember, this doesn't exclude
+microtransactions, DLC, even loot boxes,
+
+561
+00:31:29,103 --> 00:31:32,003
+so companies could
+keep the money rolling in.
+
+562
+00:31:32,573 --> 00:31:38,733
+Now compare that loss to the cost of an end
+of life plan from the design phase onward.
+
+563
+00:31:39,253 --> 00:31:41,786
+I still think it could
+be less than 1%.
+
+564
+00:31:42,300 --> 00:31:45,244
+Companies tend to do what
+makes the most money.
+
+565
+00:31:45,244 --> 00:31:47,528
+But fine, let's say
+they pulled out.
+
+566
+00:31:47,528 --> 00:31:51,318
+You think other companies wouldn't
+rush in to take their market share?
+
+567
+00:31:51,318 --> 00:31:54,633
+The rules would have changed a little
+bit, but the demand wouldn't have left.
+
+568
+00:31:54,733 --> 00:31:57,033
+Even smaller companies
+I think is also unlikely,
+
+569
+00:31:57,034 --> 00:32:00,303
+especially as middleware
+solutions for this would emerge.
+
+570
+00:32:00,303 --> 00:32:03,951
+However, point three, the
+in-between phase could be rocky.
+
+571
+00:32:04,353 --> 00:32:07,220
+But to think that they're
+going to go away?
+
+572
+00:32:07,366 --> 00:32:10,758
+Yeah, I guess if companies
+suddenly stop liking money.
+
+573
+00:32:11,003 --> 00:32:15,333
+Wouldn't it be a security risk for
+companies to release their server software?
+
+574
+00:32:15,333 --> 00:32:19,993
+Mostly no, but there are some
+cases yes, this is a valid argument.
+
+575
+00:32:20,193 --> 00:32:22,543
+Particularly when a
+company shuts down a game,
+
+576
+00:32:22,543 --> 00:32:25,433
+but they have a new game
+that runs on the same engine.
+
+577
+00:32:25,433 --> 00:32:30,193
+So if users find exploits on the old engine,
+they have them for the new one potentially.
+
+578
+00:32:30,193 --> 00:32:34,966
+I swear I'm not trying to be dismissive, but
+I have to call on points one and three again.
+
+579
+00:32:34,966 --> 00:32:38,906
+So the question is, are these
+outlier cases where this is a problem,
+
+580
+00:32:38,906 --> 00:32:42,298
+a good enough excuse to
+destroy all online-only games?
+
+581
+00:32:43,066 --> 00:32:44,986
+Of course, I'm going to land on "no".
+
+582
+00:32:44,986 --> 00:32:47,520
+The cost is too high
+for everyone else.
+
+583
+00:32:48,033 --> 00:32:51,486
+Is this only about single-player
+games or multiplayer too?
+
+584
+00:32:51,486 --> 00:32:53,916
+I'll answer that question with a question.
+
+585
+00:32:53,916 --> 00:32:56,466
+What does "Destiny 2", "The Crew",
+
+586
+00:32:56,467 --> 00:33:00,099
+"Need for Speed 2015", and "The
+Division" all have in common?
+
+587
+00:33:00,696 --> 00:33:03,596
+Are they single-player
+or multiplayer games?
+
+588
+00:33:03,966 --> 00:33:05,166
+Yes.
+
+589
+00:33:05,253 --> 00:33:09,093
+So even if we didn't care about
+multiplayer at all, which isn't the case,
+
+590
+00:33:09,094 --> 00:33:11,093
+the industry has forced our hand.
+
+591
+00:33:11,106 --> 00:33:14,101
+So in order to save
+single-player in games like these,
+
+592
+00:33:14,101 --> 00:33:17,916
+we have to save the multiplayer also
+because they merged it all together.
+
+593
+00:33:17,916 --> 00:33:21,086
+Otherwise, they would just get
+exempt on almost every game.
+
+594
+00:33:21,086 --> 00:33:24,186
+Plus an arena shooter
+with eight players?
+
+595
+00:33:24,186 --> 00:33:25,486
+Or 12?
+
+596
+00:33:25,486 --> 00:33:28,353
+You can't have an
+end-of-life plan for THAT?
+
+597
+00:33:28,401 --> 00:33:29,681
+Give me a break.
+
+598
+00:33:29,921 --> 00:33:31,866
+Now, MMOs can be a tall order,
+
+599
+00:33:31,867 --> 00:33:35,433
+but we've seen both legitimate
+and illegitimate emulators emerge
+
+600
+00:33:35,434 --> 00:33:37,266
+to know this is possible.
+
+601
+00:33:37,266 --> 00:33:40,733
+So it's both. The industry's
+given us no choice.
+
+602
+00:33:41,033 --> 00:33:46,281
+Would developers be required to convert
+multiplayer games into single-player games?
+
+603
+00:33:46,336 --> 00:33:48,126
+Now, this one kind
+of confused me.
+
+604
+00:33:48,126 --> 00:33:51,196
+I mean, nothing about the
+gameplay would have to change.
+
+605
+00:33:51,196 --> 00:33:53,863
+It's all about running
+the game, period.
+
+606
+00:33:53,863 --> 00:33:56,926
+Like, I'm thinking of a
+case like "Starsiege: Tribes",
+
+607
+00:33:56,926 --> 00:33:59,086
+where that's a
+multiplayer-focused game.
+
+608
+00:33:59,086 --> 00:34:01,446
+There's no bots,
+campaign, or anything.
+
+609
+00:34:01,446 --> 00:34:05,542
+But you can technically enter a
+level and run around by yourself.
+
+610
+00:34:06,366 --> 00:34:08,266
+Fine, mission accomplished.
+
+611
+00:34:08,536 --> 00:34:10,233
+I guess you could
+have a weird case,
+
+612
+00:34:10,234 --> 00:34:13,166
+where you have a game that's
+meant for co-op or something,
+
+613
+00:34:13,166 --> 00:34:17,966
+and the game won't start unless both
+players are connected at the same time.
+
+614
+00:34:19,036 --> 00:34:23,286
+As long as it's possible to run it for
+those two players or however many,
+
+615
+00:34:23,286 --> 00:34:28,371
+then yeah, it still works, so I don't see any
+reason they would really have to change.
+
+616
+00:34:28,371 --> 00:34:31,271
+Wouldn't more clear
+labeling fix the problem?
+
+617
+00:34:31,466 --> 00:34:34,333
+Well, the problem is
+games being destroyed.
+
+618
+00:34:34,886 --> 00:34:38,033
+So I kind of don't care how
+clearly the game is telling me
+
+619
+00:34:38,034 --> 00:34:40,266
+it's going to destroy
+a game I paid for.
+
+620
+00:34:40,266 --> 00:34:42,876
+I don't like that being on
+the table to begin with.
+
+621
+00:34:42,876 --> 00:34:46,780
+Now, the exception is a hard date
+when the game stops working.
+
+622
+00:34:46,906 --> 00:34:52,028
+Like subscription games. You stop paying
+after 30 days, that game ends for you.
+
+623
+00:34:52,032 --> 00:34:54,853
+So I think if people saw on
+the box or the store page
+
+624
+00:34:54,854 --> 00:34:59,200
+that "this game expires
+on January 1st, 2026",
+
+625
+00:34:59,666 --> 00:35:03,500
+I think that would wake people
+up and change their buying habits.
+
+626
+00:35:03,500 --> 00:35:06,700
+But I also think anything
+less than that would not.
+
+627
+00:35:07,233 --> 00:35:09,396
+This becomes a very
+psychological thing then,
+
+628
+00:35:09,397 --> 00:35:13,621
+and it's a way riskier route to
+saving games than what we're doing.
+
+629
+00:35:13,856 --> 00:35:15,590
+How will this be enforced?
+
+630
+00:35:16,233 --> 00:35:18,556
+I don't know. Ask
+the European Union.
+
+631
+00:35:18,556 --> 00:35:22,596
+I mean, how does it work now if a business
+does something like false advertising?
+
+632
+00:35:22,596 --> 00:35:26,036
+Do they get fined? Maybe a percentage
+of their earnings? I don't know.
+
+633
+00:35:26,186 --> 00:35:27,546
+That's not our job.
+
+634
+00:35:27,546 --> 00:35:31,596
+I do hope the penalty will be big
+enough to be a deterrent, however.
+
+635
+00:35:31,596 --> 00:35:36,016
+Why don't you just petition companies
+doing this instead of making a new law?
+
+636
+00:35:36,016 --> 00:35:38,283
+No offense, but how naive are you?
+
+637
+00:35:38,666 --> 00:35:41,733
+I mean, I guess that
+might work 1% of the time.
+
+638
+00:35:42,026 --> 00:35:46,076
+I mean, the companies open to
+that idea tend to do it on their own.
+
+639
+00:35:46,076 --> 00:35:49,516
+I mean, right now we're facing
+hundreds of games at risk.
+
+640
+00:35:49,516 --> 00:35:54,220
+So what makes more sense? To petition
+every single company behind those games?
+
+641
+00:35:54,506 --> 00:35:56,916
+Or to do it once to
+the government?
+
+642
+00:35:58,400 --> 00:36:01,800
+What versions of the game
+will the dev have to release?
+
+643
+00:36:01,800 --> 00:36:05,696
+This is another one that's hazy.
+I personally would argue "any".
+
+644
+00:36:05,696 --> 00:36:07,830
+It just gets so muddy otherwise.
+
+645
+00:36:07,900 --> 00:36:11,496
+For most games, the latest
+version tends to be the best one.
+
+646
+00:36:11,496 --> 00:36:17,128
+But not always, and a few games tend to have
+big differences in content between versions.
+
+647
+00:36:17,146 --> 00:36:19,656
+So I can understand people
+wanting to go back, but...
+
+648
+00:36:19,656 --> 00:36:22,536
+Man, that might be a
+bridge too far to ask on this.
+
+649
+00:36:22,536 --> 00:36:25,406
+I guess I should have added
+this to the compromise list.
+
+650
+00:36:25,406 --> 00:36:28,350
+Won't games get more
+expensive because of this?
+
+651
+00:36:28,376 --> 00:36:33,176
+I'll keep it real. It's not impossible,
+but it's probably not why you think.
+
+652
+00:36:33,406 --> 00:36:38,014
+Okay, for sake of argument, let's
+say it costs 1% of the total game cost.
+
+653
+00:36:38,106 --> 00:36:41,526
+And let's also say a new
+$70 game just breaks even.
+
+654
+00:36:41,526 --> 00:36:43,499
+So 1% of that cost.
+
+655
+00:36:43,676 --> 00:36:45,466
+That will put it at $70.70.
+
+656
+00:36:45,466 --> 00:36:47,156
+But what's to stop a company from saying,
+
+657
+00:36:47,157 --> 00:36:49,900
+"Hey, we have to conform
+to end-of-life plans now,"
+
+658
+00:36:49,901 --> 00:36:53,767
+"so why don't we really push
+the price to $75? Or $80?"
+
+659
+00:36:54,106 --> 00:36:56,033
+"Hell, let's try for $85."
+
+660
+00:36:56,435 --> 00:36:58,902
+And yes, some
+companies could do that.
+
+661
+00:36:59,406 --> 00:37:02,666
+And this sort of thing has already
+happened outside of games.
+
+662
+00:37:02,666 --> 00:37:05,606
+Like after the pandemic,
+we had a lot of inflation.
+
+663
+00:37:05,606 --> 00:37:07,340
+Let's just say it was 10%.
+
+664
+00:37:07,546 --> 00:37:11,000
+So instead of raising their prices 10%,
+companies looked at that and thought,
+
+665
+00:37:11,001 --> 00:37:14,666
+"Why don't we raise them
+50%? Or 100% or 200%?"
+
+666
+00:37:14,666 --> 00:37:18,746
+"We can make a lot more money then,
+and we can blame it all on inflation."
+
+667
+00:37:18,746 --> 00:37:22,476
+So there was real inflation AND
+companies jacked up the price.
+
+668
+00:37:22,476 --> 00:37:24,776
+But the thing is, you either
+have to own the market
+
+669
+00:37:24,776 --> 00:37:27,386
+or do that collectively
+with other companies.
+
+670
+00:37:27,386 --> 00:37:30,186
+Because as soon as one
+big company breaks ranks,
+
+671
+00:37:30,186 --> 00:37:32,233
+then they can kind of get
+away with more marketshare
+
+672
+00:37:32,234 --> 00:37:34,001
+because they're selling
+their game cheaper.
+
+673
+00:37:34,001 --> 00:37:38,166
+I'm honestly not sure if there are
+price-fixing laws on this sort of thing.
+
+674
+00:37:38,166 --> 00:37:41,366
+Isn't Sony being sued over
+jacking up their prices?
+
+675
+00:37:42,033 --> 00:37:43,666
+The thing to remember
+is, they're going to try and
+
+676
+00:37:43,667 --> 00:37:46,467
+find ways to increase
+prices on you anyway.
+
+677
+00:37:46,506 --> 00:37:50,051
+So is fear of a price increase,
+which they may or may not do,
+
+678
+00:37:50,051 --> 00:37:53,366
+which may get them into trouble
+with regulatory boards anyway,
+
+679
+00:37:53,366 --> 00:37:56,266
+worth the cost of
+destroying all online games?
+
+680
+00:37:56,966 --> 00:37:58,166
+I'd say no.
+
+681
+00:37:58,866 --> 00:38:01,499
+What if a game
+company goes bankrupt?
+
+682
+00:38:01,500 --> 00:38:04,200
+I mean, the most likely
+penalties would be financial,
+
+683
+00:38:04,201 --> 00:38:07,033
+so if they're bankrupt,
+then it's kind of moot point.
+
+684
+00:38:07,033 --> 00:38:10,903
+Yeah, the game would still die, but then the
+company would have more skin in the game.
+
+685
+00:38:10,903 --> 00:38:15,831
+There wouldn't be a financial incentive
+to kill the game the way there is now.
+
+686
+00:38:15,903 --> 00:38:20,103
+I would think most companies are
+very motivated not to go bankrupt.
+
+687
+00:38:20,103 --> 00:38:22,566
+Hey, if every time a game
+had been destroyed in the past,
+
+688
+00:38:22,567 --> 00:38:25,033
+the parent company had
+gone bankrupt over it,
+
+689
+00:38:25,033 --> 00:38:27,373
+I wouldn't have even
+started this campaign.
+
+690
+00:38:27,373 --> 00:38:29,800
+Won't big companies just
+make shell companies,
+
+691
+00:38:29,801 --> 00:38:33,168
+so they bankrupt the company every
+time they want to shut down a game?
+
+692
+00:38:33,168 --> 00:38:35,093
+Again, it's not impossible,
+
+693
+00:38:35,093 --> 00:38:37,893
+but remember, companies
+like to make money.
+
+694
+00:38:38,133 --> 00:38:43,093
+So is the cost of shuttering an entire studio
+and cooking the books to make them bankrupt
+
+695
+00:38:43,093 --> 00:38:48,633
+and spinning up a new studio for the next
+game more than having an end-of-life plan?
+
+696
+00:38:48,983 --> 00:38:53,023
+Plus, this would make having a
+good reputation kind of impossible.
+
+697
+00:38:53,023 --> 00:38:57,863
+What about games that are so huge in scope
+they can't be hosted on home computers?
+
+698
+00:38:57,863 --> 00:39:01,793
+Well, I think this leads more
+credence to the best effort solution.
+
+699
+00:39:01,793 --> 00:39:05,683
+I can think of two examples.
+One is "EVE Online".
+
+700
+00:39:05,683 --> 00:39:10,300
+I believe it can host up to half
+a million players simultaneously.
+
+701
+00:39:11,083 --> 00:39:14,288
+Yeah, no customer system's
+going to be able to do that.
+
+702
+00:39:14,288 --> 00:39:15,703
+But if they had to shut down,
+
+703
+00:39:15,703 --> 00:39:17,566
+does that mean they can't
+release an end-of-life build
+
+704
+00:39:17,567 --> 00:39:19,901
+where maybe a
+hundred could connect?
+
+705
+00:39:20,163 --> 00:39:22,183
+Or maybe they just
+release the server code,
+
+706
+00:39:22,183 --> 00:39:25,393
+let the community figure out, and they
+decide how many custom resources
+
+707
+00:39:25,394 --> 00:39:27,653
+they want to throw at
+this for how many players.
+
+708
+00:39:27,653 --> 00:39:31,193
+Another case I'm thinking of
+is "Microsoft Flight Simulator",
+
+709
+00:39:31,193 --> 00:39:35,118
+where in order for that game to look
+its best, it has to connect to Bing Maps,
+
+710
+00:39:35,118 --> 00:39:38,062
+which has two petabytes
+of data it's accessing.
+
+711
+00:39:38,373 --> 00:39:40,573
+So if that game had to shut down,
+
+712
+00:39:40,663 --> 00:39:44,128
+I think it would be reasonable for
+them to say, "Okay, here's all the data."
+
+713
+00:39:44,128 --> 00:39:46,773
+"We'll keep it hosted
+for 90 days or so."
+
+714
+00:39:46,773 --> 00:39:49,934
+"Good luck trying to download
+it. You're on your own now."
+
+715
+00:39:49,934 --> 00:39:54,030
+As long as it's possible in some
+capacity, that's the main point.
+
+716
+00:39:54,263 --> 00:39:56,933
+The players can deal
+with all the rough edges.
+
+717
+00:39:56,933 --> 00:39:59,066
+Don't some games deserve to die?
+
+718
+00:39:59,453 --> 00:40:00,666
+Actually, yes.
+
+719
+00:40:01,033 --> 00:40:03,753
+But one man's trash is
+another man's treasure.
+
+720
+00:40:03,753 --> 00:40:06,020
+So that's a subjective assessment.
+
+721
+00:40:06,203 --> 00:40:08,343
+If you've paid money into the game,
+
+722
+00:40:08,343 --> 00:40:11,873
+then you should have a voice on
+whether you get to keep it or not.
+
+723
+00:40:11,873 --> 00:40:14,503
+If all online games are awful,
+
+724
+00:40:14,503 --> 00:40:16,933
+then yeah, this initiative
+wouldn't be necessary.
+
+725
+00:40:16,933 --> 00:40:18,900
+But that's not reality.
+
+726
+00:40:19,873 --> 00:40:23,333
+How does Ubisoft and "The
+Crew" relate to this initiative?
+
+727
+00:40:23,333 --> 00:40:26,153
+That's completely
+separate from this initiative.
+
+728
+00:40:26,154 --> 00:40:28,820
+That was about reporting to
+consumer protection agencies,
+
+729
+00:40:28,821 --> 00:40:30,553
+and that's largely underway.
+
+730
+00:40:30,553 --> 00:40:31,833
+So those are two different things.
+
+731
+00:40:31,834 --> 00:40:34,933
+You don't have to be connected
+to "The Crew" for any of this.
+
+732
+00:40:34,933 --> 00:40:37,833
+What are the chances
+of this initiative passing?
+
+733
+00:40:37,833 --> 00:40:39,623
+That's a hard question to answer.
+
+734
+00:40:39,623 --> 00:40:43,653
+I mean, for getting the signatures...
+you tell me, I don't know.
+
+735
+00:40:43,653 --> 00:40:47,557
+I would bet if we do get the
+signatures, this solves problems.
+
+736
+00:40:47,738 --> 00:40:50,178
+But that's almost not
+the way to even look at it.
+
+737
+00:40:50,178 --> 00:40:51,433
+It's like I said at
+the beginning,
+
+738
+00:40:51,434 --> 00:40:55,433
+the Initiative and Stop Killing Games 
+is IT for action on this issue.
+
+739
+00:40:55,433 --> 00:40:57,863
+If we fail at this, we fail for life.
+
+740
+00:40:57,863 --> 00:41:01,063
+The industry is only going to get
+worse permanently on this issue.
+
+741
+00:41:01,063 --> 00:41:03,813
+I feel like the Dutch boy with
+my finger in the dam here.
+
+742
+00:41:03,813 --> 00:41:07,397
+If this goes, that's it. There's
+no round two. It's over.
+
+743
+00:41:07,493 --> 00:41:11,381
+Okay, that's it for questions.
+I have a few quick corrections.
+
+744
+00:41:11,700 --> 00:41:14,953
+First, I made a mistake
+on this video with counting,
+
+745
+00:41:14,953 --> 00:41:18,043
+where I said your votes don't count
+unless they pass the threshold.
+
+746
+00:41:18,043 --> 00:41:21,819
+No, they do. So don't worry
+about that. Just get more votes.
+
+747
+00:41:22,383 --> 00:41:26,466
+The second is for some
+countries, you can use EID.
+
+748
+00:41:26,743 --> 00:41:29,533
+The way it was explained to me
+is if you already have one of these,
+
+749
+00:41:29,534 --> 00:41:31,063
+you don't need our guides.
+
+750
+00:41:31,063 --> 00:41:34,393
+So we left it out just to keep
+it simple, but you can use it.
+
+751
+00:41:34,393 --> 00:41:37,466
+Okay, well, there are probably
+literally endless questions,
+
+752
+00:41:37,467 --> 00:41:41,499
+but I hope I answered enough
+to clear up where we stand on this.
+
+753
+00:41:41,833 --> 00:41:44,433
+I have put some
+thought into this topic.
+
+754
+00:41:44,443 --> 00:41:47,493
+This video hopefully got
+rid of some fence sitters.
+
+755
+00:41:47,493 --> 00:41:50,226
+Which side they landed
+on, I have no idea.
+
+756
+00:41:50,293 --> 00:41:52,360
+For those on board, go sign it.
+
+757
+00:41:52,893 --> 00:41:54,760
+All right, that's it.
+See ya!
+
+758
+00:41:57,273 --> 00:42:05,273
+[BLANK_AUDIO]
+

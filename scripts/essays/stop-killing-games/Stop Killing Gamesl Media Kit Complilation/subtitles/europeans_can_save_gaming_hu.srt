@@ -1,0 +1,877 @@
+1
+00:00:00,534 --> 00:00:02,569
+Hali, Rossz vagyok.
+
+2
+00:00:02,569 --> 00:00:04,905
+Az utóbbi hónapokban
+egy kampányon dolgoztam,
+
+3
+00:00:04,905 --> 00:00:07,774
+a videójátékok elpusztításának megállítására.
+
+4
+00:00:07,774 --> 00:00:13,213
+Normális esetben a legtöbb videójáték végtelenségig használható,
+és... ja, kb. ennyi.
+
+5
+00:00:13,213 --> 00:00:15,582
+Viszont mostanság sokat terveznek úgy,
+hogy ne működjön tovább
+
+6
+00:00:15,582 --> 00:00:20,120
+aztután, hogy a kiadó leállítja a támogatást
+--gyakorlatilag van egy önmegsemmisítő gombjuk.
+
+7
+00:00:20,120 --> 00:00:22,623
+Ez egy példa a tervezett elévülésre,
+
+8
+00:00:22,623 --> 00:00:26,260
+ahol a kiadók tönkretesznek
+olyan játékokat, amiket már eladtak neked,
+
+9
+00:00:26,260 --> 00:00:27,934
+miközben ők megtartják a pénzed.
+
+10
+00:00:27,934 --> 00:00:31,331
+Néhányan tán nem értik meg, de
+ezt a gyakorlatot meg lehet állítani.
+
+11
+00:00:31,331 --> 00:00:34,401
+Hoztam már fel hasonlatnak
+a múlt század stúdióit, akik
+
+12
+00:00:34,401 --> 00:00:37,437
+elégették a néma filmek szalagjait
+miután azokat levetítették,
+
+13
+00:00:37,437 --> 00:00:39,206
+hogy így kinyerjék az ezüst tartalmukat.
+
+14
+00:00:39,206 --> 00:00:42,509
+Ennek köszönhetően mára ezek a
+filmek mindörökre elvesztek.
+
+15
+00:00:42,509 --> 00:00:46,213
+A videójátékokkal is igen
+hasonló a helyzet manapság.
+
+16
+00:00:46,213 --> 00:00:49,750
+Ez egy mindenki számára
+rettenetes gyakorlat!
+
+17
+00:00:49,750 --> 00:00:51,451
+Az erőfeszítéseimnek zöme arra ment el,
+
+18
+00:00:51,451 --> 00:00:55,055
+hogy jogi úton támadjam ezt a
+gyakorlatot különböző országokban,
+
+19
+00:00:55,055 --> 00:01:00,627
+mivelhogy ez a fogyasztókkal szemben nagyon ellenséges,
+és így nem világos, hogy amit művelnek az egyátalán legális-e.
+
+20
+00:01:00,627 --> 00:01:04,531
+Bár ez még mindig tart, de van
+most már egy új lehetőségünk:
+
+21
+00:01:04,531 --> 00:01:08,802
+Az egész Európai Unión belül
+új törvény javaslatot tenni.
+
+22
+00:01:08,802 --> 00:01:11,872
+Hónapokba tellett mire
+sikerült összehozni,
+
+23
+00:01:11,872 --> 00:01:15,175
+de most már megnyílt az
+Európai Polgári Kezdeményezésünk
+
+24
+00:01:15,175 --> 00:01:18,578
+a videójátékok elpusztításának
+megállítására szentelve.
+
+25
+00:01:18,578 --> 00:01:20,180
+Aki akarja, elolvashatja.
+
+26
+00:01:20,180 --> 00:01:23,450
+Az indítványunk kötelezné a kiadókat arra,
+hogy a vevőknek eladott videójátékokat
+
+27
+00:01:23,450 --> 00:01:26,119
+a szerverek leállításakor játszható állapotban hagyják,
+
+28
+00:01:26,119 --> 00:01:28,789
+anélkül, hogy azok további
+kapcsolatot igényeljenek tőlük,
+
+29
+00:01:28,789 --> 00:01:31,758
+vagy egyéb felektől a
+játék futtatásához.
+
+30
+00:01:31,758 --> 00:01:34,227
+Hogy ezt hogy oldják meg, az rajtuk múlik.
+
+31
+00:01:34,227 --> 00:01:38,699
+Ez vonatkozna a free-to-play
+játékokra is, ha azokban mikrotranzakciók vannak,
+
+32
+00:01:38,699 --> 00:01:42,302
+ugyanis ha a játékon belül
+bármilyen terméket vettél,
+
+33
+00:01:42,302 --> 00:01:46,540
+az a játék játszhatatlanná
+válásakor szintén elveszik.
+
+34
+00:01:46,540 --> 00:01:48,942
+Ez NEM kötelezné a kiadókat arra,
+
+35
+00:01:48,942 --> 00:01:51,244
+hogy feladják a játékkal kapcsolatos szellemi jogaikat,
+
+36
+00:01:51,244 --> 00:01:55,082
+feladják annak forráskódját (bár
+az felettébb menő lenne tőlük),
+
+37
+00:01:55,082 --> 00:01:57,517
+Nem kell nekik a végtelenségig
+támogatni a játékaikat.
+
+38
+00:01:57,517 --> 00:02:00,654
+Mi felőlünk bármikor
+lekapcsolhatják őket.
+
+39
+00:02:00,654 --> 00:02:04,124
+Nem kellene nekik szervereket
+hosztolni sem, bár így vagy
+
+40
+00:02:04,124 --> 00:02:08,261
+ki kell patch-elni a központi szerverektől való függőségüket,
+vagy engedni a vevőknek a privát szerverek hosztolását.
+
+41
+00:02:08,261 --> 00:02:13,467
+vagy felelősséget vállalni azért, amit a
+vevők csinálnak a megvett játékkaikkal.
+
+42
+00:02:13,467 --> 00:02:17,037
+És végezetül, ez a kezdeményezés
+semmiben nem akadályozná
+
+43
+00:02:17,037 --> 00:02:21,141
+a kiadók gazdasági tevékenységét addig,
+amég a játékaikat aktívan támogatják.
+
+44
+00:02:21,141 --> 00:02:25,946
+Rövidek, a kiadók azt 
+csinálnak amit akarnak,
+
+45
+00:02:25,946 --> 00:02:27,914
+addig amég te hozzáférsz a játékhoz.
+
+46
+00:02:27,914 --> 00:02:33,153
+Csodálkozva hallom mikor az emberek azt mondják
+ "Ez túlságosan a vevő javára van kitalálva!".
+
+47
+00:02:33,153 --> 00:02:36,390
+Bár ilyeneket mondani ehunhaza
+Európában nem nagyon divat.
+
+48
+00:02:36,390 --> 00:02:42,095
+Mi itt CSAK a videójátékokat
+próbáljuk megmenteni. Semmi mást.
+
+49
+00:02:42,095 --> 00:02:47,134
+Ezáltal a hozzáállásunk is annyira szűklátókörű, hogy
+azért a problémát még megoldjuk, de másba ne kössünk bele.
+
+50
+00:02:47,134 --> 00:02:48,602
+Ha összegyűjtünk elég aláírást,
+
+51
+00:02:48,602 --> 00:02:52,706
+akkor az indítványunk az Európai Tanács asztalára
+kerül, ahol meggondolják, hogy törvénybe iktassák-e.
+
+52
+00:02:52,706 --> 00:02:55,308
+Ha tetszik az ötlet, akkor nem 
+kell tovább nézned a videót
+
+53
+00:02:55,308 --> 00:02:57,010
+akár most is aláírhatod.
+
+54
+00:02:57,010 --> 00:03:01,815
+Viszont mielőtt még nekiesnél:
+CSAK EGY lehetőséged van, hogy jól csináld.
+
+55
+00:03:01,815 --> 00:03:04,217
+Nem egy nagy vasziszdasz a dolog, de ha
+
+56
+00:03:04,217 --> 00:03:07,554
+ha már csak EGY szimpla hibát vétettél, az aláírásod 
+semmissé válik, és nem kapsz még egy lehetőséget.
+
+57
+00:03:07,554 --> 00:03:12,292
+Vannak útmutatók a stopkillinggames.com-on
+ha netán valakinek szüksége volna rá.
+
+58
+00:03:12,292 --> 00:03:16,963
+Viszont tényleg olyan egyszerű-e a dolog, hogy összegyűlik
+elég aláírás és a dolgot később törvénybe iktatják?
+
+59
+00:03:16,963 --> 00:03:19,399
+A jelek szerint: Igen!
+
+60
+00:03:19,399 --> 00:03:24,237
+Bár nem garantált, de úgy hiszem ha sikerül az
+aláírás gyűjtés, akkor elfogadják a törvényjavaslatot.
+
+61
+00:03:24,237 --> 00:03:27,074
+Miből gondolom ezt? Két tény végett:
+
+62
+00:03:27,074 --> 00:03:31,978
+A politikusok szeretik a könnyű győzelmeket, és az
+esetünkben ehhez nem sok erőfeszítésre lenne szükség.
+
+63
+00:03:31,978 --> 00:03:35,082
+Továbbá amég egy játék ügye nem 
+kapcsolódik a szerencsejátékhoz,
+
+64
+00:03:35,082 --> 00:03:38,351
+vagy gyermekvédelemhez
+a politikusok magasról tojnak rá.
+
+65
+00:03:38,351 --> 00:03:42,689
+Magyarán a javaslat elfogadása nem járna komoly
+következményekkel se nekik, sem választókörüknek.
+
+66
+00:03:42,689 --> 00:03:47,094
+Az EU-s törvények már önmagukban is elég
+homályosak a gyakorlat legalitásával kapcsolatban,
+
+67
+00:03:47,094 --> 00:03:50,130
+és ez lehetőséget adna nekik,
+hogy végre rendezzék a kérdést.
+
+68
+00:03:50,130 --> 00:03:52,966
+Ez összhangban lenne a
+többi fogyasztói joggal--
+
+69
+00:03:52,966 --> 00:03:57,337
+Tudod, ha MEGVESZEL valamit,
+azt általában MEGTARTHATOD.
+
+70
+00:03:57,337 --> 00:04:00,607
+Végezetül, ez egy jó módja lenne
+elterelni a témát a komoly ügyekről
+
+71
+00:04:00,607 --> 00:04:03,076
+amikkel a politikusok
+nem akarnak foglalkozni.
+
+72
+00:04:03,076 --> 00:04:06,480
+Ezzel JELENTŐS kummantási
+lehetőséget biztosítana számukra.
+
+73
+00:04:06,480 --> 00:04:10,183
+Sőt, úgy hiszem, ha sikerül
+meglépnük az aláírásküszöböt,
+
+74
+00:04:10,183 --> 00:04:14,621
+akkor a javaslatunkat törvénybe iktatják,
+és ezzel a probléma 90+ százalékban megoldódna.
+
+75
+00:04:14,621 --> 00:04:18,692
+Azért mondom a 90%-ot, mert ez
+csak az EU-ban lenne hatályos,
+
+76
+00:04:18,692 --> 00:04:25,031
+szóval például a Kínában vagy Japánban 
+kiadott játékokat nem mentené meg,
+
+77
+00:04:25,031 --> 00:04:29,636
+bár manapság a videójátékokat globális szinten 
+árulják, s az EU annak jelentős részét képviseli.
+
+78
+00:04:29,636 --> 00:04:31,404
+Amint a kiadókat egy ekkora piacon kötelezik arra,
+
+79
+00:04:31,404 --> 00:04:35,942
+hogy hagyjanak téged békében
+játszani az ott eladott játékokkal,
+
+80
+00:04:35,942 --> 00:04:40,413
+akkor úgy hiszem máshol is divat lesz ez, 
+ha kötelezi rá őket a helyi törvény, ha nem.
+
+81
+00:04:40,413 --> 00:04:45,385
+No, sajnos amire nem fogadnék
+(mert ez egy marha nagy kérdőjel),
+
+82
+00:04:45,385 --> 00:04:49,256
+az az, hogy sikerül-e egyátalán összegyűjteni
+a szükséges mennyiségű aláírást.
+
+83
+00:04:49,256 --> 00:04:55,095
+Ahhoz, hogy a tervünk sikerüljön, szükségünk van
+EGY MILLIÓ aláírásra szerte az EU tagállamai közt...
+
+84
+00:04:55,095 --> 00:05:02,536
+Sőt, nagy eséllyel még többre is, tekintve hogy
+egy részüket nem fogják elfogadni... ki tudja miért.
+(Fordító megjegyzése: Azért mert szarul írod alá! Tessék szépen kétszer is átfutni hogy jó-e.)
+
+85
+00:05:02,536 --> 00:05:08,341
+Szóval a tényleges mennyiség amire szükségünk van
+az inkább 1.2 vagy 1.3 millió aláírás.
+
+86
+00:05:08,341 --> 00:05:14,781
+ja, és ez még nem a vége, ugyanis tagállamonként
+is vannak limitek amiket el kell érnünk.
+
+87
+00:05:14,781 --> 00:05:17,350
+Példa: Valaki aláírja a petíciónk Görögországban.
+
+88
+00:05:17,350 --> 00:05:25,292
+Na, ezen felül még kell majdnem 15,000 TOVÁBBI
+Görög aláírás, különben EGYIK SEM lesz érvényes.
+(Fordító megjegyzése: Ez nem így nem igaz, SZÁMÍTANAK azok az aláírások is, viszont
+szükséges elérni legalább 7 országban a limitet, hogy az indítványt elfogadják.)
+
+89
+00:05:25,292 --> 00:05:28,895
+Ezt a szabályt felettébb
+korlátozónak találom.
+
+90
+00:05:28,895 --> 00:05:33,066
+Nekem úgy tűnik mintha az EU az 
+Amerikaiakat kopírozta volna itt.
+
+91
+00:05:33,066 --> 00:05:35,836
+no mindegy, a lényeg hogy marha sok aláírás kell.
+
+92
+00:05:35,836 --> 00:05:40,874
+Lehet tévképzeteket dédelgetek
+ezzel a próbálkozással... majd meglátjuk.
+
+93
+00:05:40,874 --> 00:05:46,680
+A jó hír viszont az, hogy egy egész évig gyűjthetjük
+az aláírásokat, szóval időnk az van bőven.
+
+94
+00:05:46,680 --> 00:05:48,248
+Ezt viszont most leszögezem:
+
+95
+00:05:48,248 --> 00:05:52,452
+Nem tudok ennyi Európait toborozni
+csak a saját nézőim közül.
+
+96
+00:05:52,452 --> 00:05:58,258
+Sikerre egyedül akkor van esély, ha összefogunk
+több Európai YouTuber-rel, streamer-rel, s a többi,
+
+97
+00:05:58,258 --> 00:06:03,330
+lehetőleg olyanokkal, akik 
+nem angolul közvetítenek.
+
+98
+00:06:03,330 --> 00:06:08,134
+Részemről én mindent megteszek a kezdeményezés
+reklámozásáért, viszont egymagamban nem sokra megyek.
+
+99
+00:06:08,134 --> 00:06:11,104
+Ami azt illeti, mióta elkezdtem a
+Stop Killing Games kampányt,
+
+100
+00:06:11,104 --> 00:06:15,742
+szinte semelyik levelemre
+nem kaptam választ.
+
+101
+00:06:15,742 --> 00:06:19,946
+Szóval a jelek szerint az, hogy én 
+keresek fel embereket, egyátalán nem működik.
+
+102
+00:06:19,946 --> 00:06:23,016
+Viszint van két másik dolog ami cserébe működhet:
+
+103
+00:06:23,016 --> 00:06:28,021
+Az első az, hogy mások kersnek fel ENGEM, 
+ugyanis én a legtöbb üzenetre válaszolok.
+
+104
+00:06:28,021 --> 00:06:31,258
+A második pedig az, hogy mások
+spontán híresztelnek minket.
+
+105
+00:06:31,258 --> 00:06:34,828
+Ez utóbbi NAGYON jól működött a múltban,
+ami azt jelenti, hogy ha te ezt most nézed,
+
+106
+00:06:34,828 --> 00:06:38,064
+akár te is lehetsz a sikerünk kritikus eleme azzal,
+
+107
+00:06:38,064 --> 00:06:42,869
+hogy megemlíted a kezdeményezésünk más
+ YouTuber-eknek, streamer-eknek, stb.,
+
+108
+00:06:42,869 --> 00:06:44,604
+aztán lehet, hogy ezzel felkelted az érdeklődésük.
+
+109
+00:06:44,604 --> 00:06:49,609
+Mégeszer: Az a legjobb, ha a nézőik
+többsége nem az angolt beszéli.
+
+110
+00:06:49,609 --> 00:06:53,880
+Az EU-ban kevesen beszélik
+anyanyelvi szinten az angolt,
+
+111
+00:06:53,880 --> 00:06:57,517
+szóval be kell foglalnunk
+annyi más nyelvet amennyit lehet.
+
+112
+00:06:57,517 --> 00:07:02,155
+Felajánlom magam interjúkra, az üggyel kapcsolatos
+nyilvános megbeszélésekre, meg úgy kb. bármire,
+
+113
+00:07:02,155 --> 00:07:06,259
+bárkivel, akinek van
+valamicske Európai közönsége.
+
+114
+00:07:06,259 --> 00:07:10,330
+Ezen felül, a hivatalos Kapcsolattartó
+Személy és a helyettese
+
+115
+00:07:10,330 --> 00:07:13,667
+szintén felajánlották,
+hogy beszéljenek az ügyről.
+
+116
+00:07:13,667 --> 00:07:17,938
+Ők több nyelven is beszélnek, továbbá van még
+néhány jelentkező a hivatalos Szervezők közül is
+
+117
+00:07:17,938 --> 00:07:20,940
+akik hajlandóak diskurzusra
+az alábbi nyelveken.
+
+118
+00:07:20,940 --> 00:07:26,046
+Hivatalosan ezek az emberek vezetik
+a kezdeményezést: Konkrét Európaiak.
+
+119
+00:07:26,046 --> 00:07:33,119
+Bezony, igaz hogy...segítettem, hivatalosan
+én nem vagyok a Kezdeményezés része: Nem vagyok rá jogosult.
+
+120
+00:07:33,119 --> 00:07:36,022
+Tök mindegy! A lényeg
+az, hogy célba érjünk.
+
+121
+00:07:36,022 --> 00:07:38,591
+És ha már jogosúltság:
+Nem összetett a szitu.
+
+122
+00:07:38,591 --> 00:07:42,495
+Ahhoz, hogy aláírd a kezdeményezésünk, csupán EU polgárnak kell lenned.
+Még csak ott se kell élned: Elég ha már csak az EU-ból származol.
+
+123
+00:07:42,495 --> 00:07:45,398
+Ezen felül szavazóképes
+korban kell legyél. Ennyi!
+
+124
+00:07:45,398 --> 00:07:49,869
+Ez azt is jelenti, hogy nem csak te írhatod alá
+a kezdeményezésünk, hanem a báratid is,
+
+125
+00:07:49,869 --> 00:07:54,107
+a családod is,
+barátnőid, barátlegényeid is.
+
+126
+00:07:54,107 --> 00:07:59,079
+Mindenki számít! Beszélj rólunk mindenkinek akit ismersz,
+és vedd rá őket, hogy írják alá a kezdeményezésünk.
+
+127
+00:07:59,079 --> 00:08:02,482
+És igen, valóban furcsa érzés
+jogosulatlan Amerikaiként
+
+128
+00:08:02,482 --> 00:08:06,619
+Európában kampányolni azért, hogy másokkal
+petíciókat irassak alá. De tudod mit?
+
+129
+00:08:06,619 --> 00:08:11,257
+Ha nyer a kezdeményezés, akkor mindenki nyer,
+szóval csak addig kell ütnünk a vasat amég meleg.
+(Fordítói megjegyzés: Milyen nyílásokat akarsz megtölteni, te Rossz fiú?! xD)
+
+130
+00:08:11,257 --> 00:08:14,728
+Ja igen, ha a rokaonaidat vagy barátaidat
+hidegen hagyják a videójátékok,
+
+131
+00:08:14,728 --> 00:08:19,933
+elmagyarázhatod nekik, hogy ez a a kezdeményezés arról is szól,
+hogy az átlagember NE veszítse el az alapvető tulajdonjogát.
+
+132
+00:08:19,933 --> 00:08:21,935
+Például ha a videójátékok autók lennének,
+
+133
+00:08:21,935 --> 00:08:26,139
+ami itt történne az úgy nézne ki
+hogy ha én eladok neked egy trabantot,
+
+134
+00:08:26,139 --> 00:08:30,543
+akkor később (és nem mondanám el, hogy MENNYIVEL később,
+szóval nem bérlésről vagy lízingről van szó)
+
+135
+00:08:30,543 --> 00:08:33,713
+én biza odamehetnék a házad elé,
+és visszalophatnám isten választott autóját, 
+
+136
+00:08:33,713 --> 00:08:35,415
+plusz még a pénzed is megtartanám.
+
+137
+00:08:35,415 --> 00:08:39,786
+Ez nem jó biznisz...legalábbis
+nem a fogyasztó szemszögéből.
+
+138
+00:08:39,786 --> 00:08:43,390
+Cserébe a vállalkozásoknak felettébb
+profitabilis visszalopkodni a termékeiket.
+
+139
+00:08:43,390 --> 00:08:47,527
+Lehet tán ezért nagyobb a videójáték
+ipar mint a film és zene ipar egyszerre.
+
+140
+00:08:47,527 --> 00:08:51,064
+Azt is megértem, hogy a legtöbb
+embernek nem fontosak a videójátékok,
+
+141
+00:08:51,064 --> 00:08:54,234
+viszont pont ezért jó arra használni az ipart,
+mint régen a kanárikat a szénbányákban.
+
+142
+00:08:54,234 --> 00:09:00,073
+Mi van ha ez kiterjed az agráripari munkagépekre?
+Oktatási eszközökre? Gyógyászati felszerelésre?
+
+143
+00:09:00,073 --> 00:09:04,644
+Hidd el nekem, NAGYON nem akarod te azt, hogy
+ez a gyakorlat más iparágakra is kiterjedjen.
+
+144
+00:09:04,644 --> 00:09:08,214
+No, amit még szeretnék mondani az az, hogy igen
+némelyikőtök már kimatekozta miképp
+
+145
+00:09:08,214 --> 00:09:13,186
+átlagosan napi 2 700 aláírásra van szükségünk,
+hogy összegyűljön a kellő mennyiség.
+
+146
+00:09:13,186 --> 00:09:16,856
+Már most közlöm: Biztos nem
+fogunk ennyit összeszedni minden nap.
+
+147
+00:09:16,856 --> 00:09:20,193
+Az ilyen dolgok hullámokban történnek
+mikor híres emberek beszélni kezdenek róla.
+
+148
+00:09:20,193 --> 00:09:24,364
+Lehet lesznek rossz napjaink, de lehet lesznek 
+napok mikor 10-szer annyit is összeszedünk.
+
+149
+00:09:24,364 --> 00:09:26,433
+Szóval még ne szontyolodj el. Van esély!
+
+150
+00:09:26,433 --> 00:09:28,401
+Ne legyél az a csávó aki csoportos játékokban
+
+151
+00:09:28,401 --> 00:09:31,337
+azonnal felad mindent, amint
+a legkissebb ellenállásba ütközik,
+
+152
+00:09:31,337 --> 00:09:34,240
+és 30 másodperc után bemondja az unalmast.
+
+153
+00:09:34,240 --> 00:09:35,742
+Utálom az ilyen gyökérséget.
+
+154
+00:09:35,742 --> 00:09:37,811
+Útelágazáshoz érkeztünk.
+(Fordító megjegyzése: Hehe!)
+
+155
+00:09:37,811 --> 00:09:39,412
+Ha összegyűjtünk elég aláírást,
+
+156
+00:09:39,412 --> 00:09:43,082
+akkor hitem szerint véget vetünk a gyakorlatnak,
+és új fejezetet írunk a videójátékok történelmébe.
+
+157
+00:09:43,082 --> 00:09:47,420
+Ha nem szedjük össze magunkat,
+és a probléma rosszabbodik,
+
+158
+00:09:47,420 --> 00:09:50,356
+akkor a jövőben tényleg nem
+fogunk semmit sem birtokolni,
+
+159
+00:09:50,356 --> 00:09:53,960
+és erre fel még fizethetünk is
+AZÉRT, hogy nem birtoklunk semmit.
+
+160
+00:09:53,960 --> 00:09:57,163
+Tán ha szerencsénk van ez mind fölösleges lesz,
+
+161
+00:09:57,163 --> 00:10:00,467
+köszönhetően az összes többi jogi
+macerának amin megyünk épp keresztül,
+
+162
+00:10:00,467 --> 00:10:04,904
+viszont így vagy úgy, ez itt a te
+lehetőséged a videójátékok megmentésére.
+
+163
+00:10:04,904 --> 00:10:08,074
+Ennek a harcnak nem lesz második menete.
+
+164
+00:10:08,074 --> 00:10:11,311
+Ha te, vagy valaki akit ismersz EU polgár,
+
+165
+00:10:11,311 --> 00:10:15,415
+itt a lehetőség ezen förtelmes gyakorlatnak
+a megállítására, csupán egy merő aláírással.
+
+166
+00:10:15,415 --> 00:10:18,318
+Viszont lehet, hogy a tervemben vétettem egy nagy hibát,
+
+167
+00:10:18,318 --> 00:10:23,223
+és az az, hogy arra számítok az átlag játékos
+nem akarja veszni látni a játékait.
+
+168
+00:10:23,223 --> 00:10:25,792
+Remélem nem egy nagy kérés ez tőlük,
+
+169
+00:10:25,792 --> 00:10:27,961
+ugyanis évekkel később lehet lesznek
+olyanok akik azt mondják majd:
+
+170
+00:10:27,961 --> 00:10:31,130
+"Ja, volt lehetőségem a játékaim megmentésére,
+
+171
+00:10:31,130 --> 00:10:34,667
+"de ehhez meg kellett volna nyitnom
+egy új lapot a böngészőmben,
+
+172
+00:10:34,667 --> 00:10:39,639
+"meg kitölteni egy ürlapot a nevemmel, meg
+kitölteni egy CAPTCHA-t...Jesszusom... [amerikai hangok]...
+
+173
+00:10:39,639 --> 00:10:44,577
+"Szóval ja, nem csináltam semmit. Túl sok
+macera volt. Nem érte meg a drága időmet..."
+
+174
+00:10:44,577 --> 00:10:50,083
+Ha az átlag játékos így gondolkozik,
+akkor ja, nekünk kampec.
+
+175
+00:10:50,083 --> 00:10:53,386
+Ennyi erővel mehetek malmokat Don Quijote-zni.
+
+176
+00:10:53,386 --> 00:10:56,122
+Remélem nem ez a helyzet.
+
+177
+00:10:56,122 --> 00:11:00,827
+Szóval... ja, mennyél aláírni a kezdeményezést,
+vagy vegyél rá valaki Európait, hogy írja alá!
+
+178
+00:11:02,228 --> 00:11:05,131
+[nóta]
+
+179
+00:11:05,131 --> 00:11:09,402
+[Feliratokat készítette: danielsangeo]
+[Feliratokat fordította: Konecsin Zoltán Károly]
+[muzsika]
+
+180
+00:11:09,402 --> 00:11:11,404
+[talpalávaló]
+
+181
+00:11:14,707 --> 00:11:17,277
+Ja igen, ennek az egésznek NEM KELL egy évig tartania.
+
+182
+00:11:17,277 --> 00:11:20,634
+Ha több aláírást gyűjtünk mint kell,
+akkor idő előtt befejezhetjük.
+
+183
+00:11:20,634 --> 00:11:22,849
+Magyarán: Lehet speedrun-olni!
+

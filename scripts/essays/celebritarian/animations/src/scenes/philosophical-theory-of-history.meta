@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "choices come from premises",
+      "targetTime": 6.704287245444802
+    },
+    {
+      "name": "philosophical premises",
+      "targetTime": 10.59360485887817
+    },
+    {
+      "name": "end",
+      "targetTime": 23.680564487316897
+    }
+  ],
+  "seed": 970372694
+}

@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "two sources",
+      "targetTime": 0
+    },
+    {
+      "name": "first",
+      "targetTime": 2.10864594498035
+    },
+    {
+      "name": "second",
+      "targetTime": 8.754588134179318
+    },
+    {
+      "name": "end",
+      "targetTime": 40.30925051360056
+    }
+  ],
+  "seed": 2022391614
+}

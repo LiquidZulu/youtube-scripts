@@ -1,0 +1,857 @@
+1
+00:00:00,534 --> 00:00:02,569
+Hi, ich bin Ross.
+
+2
+00:00:02,569 --> 00:00:04,905
+Seit den letzten paar Monaten
+arbeite ich an einer Kampagne,
+
+3
+00:00:04,905 --> 00:00:07,774
+um die Zerstörung von Videospielen zu stoppen.
+
+4
+00:00:07,774 --> 00:00:13,213
+Die meisten Videospiele funktionieren für immer,
+und... da hört es auch eigentlich auf.
+
+5
+00:00:13,213 --> 00:00:15,582
+Aber immer mehr werden so gebaut,
+dass sie irgendwann nicht mehr funktionieren,
+
+6
+00:00:15,582 --> 00:00:20,120
+sobald der Hersteller den Support beendet.
+
+7
+00:00:20,120 --> 00:00:22,623
+Es ist eine Art geplante Obsoleszenz,
+
+8
+00:00:22,623 --> 00:00:26,260
+wo Hersteller etwas zerstören,
+was sie dir schon verkauft haben,
+
+9
+00:00:26,260 --> 00:00:27,934
+und zugleich ihr Geld behalten.
+
+10
+00:00:27,934 --> 00:00:31,331
+Und das kann man verhindern--
+Einige verstehen das nicht.
+
+11
+00:00:31,331 --> 00:00:34,401
+Ich habe es schon mal verglichen
+mit Filmstudios von vor 100 Jahren
+
+12
+00:00:34,401 --> 00:00:37,437
+die Filme nach den Aufführungen verbrannten
+
+13
+00:00:37,437 --> 00:00:39,206
+um das enthaltene Silber zurückzugewinnen.
+
+14
+00:00:39,206 --> 00:00:42,509
+Und jetzt sind die meisten Filme
+aus der Ära für immer verloren.
+
+15
+00:00:42,509 --> 00:00:46,213
+Das ist dem sehr ähnlich,
+was jetzt mit Videopielen passiert.
+
+16
+00:00:46,213 --> 00:00:49,750
+Es ist eine blöde Praktik
+für alle Involvierten.
+
+17
+00:00:49,750 --> 00:00:51,451
+Bis jetzt haben sich meine Anstrengungen
+
+18
+00:00:51,451 --> 00:00:55,055
+auf rechtliche Schritte dagegen
+in verschiedenen Ländern konzentriert,
+
+19
+00:00:55,055 --> 00:01:00,627
+und weil es so verbraucherfeindlich ist,
+weiß man oft nicht mal, ob es legal ist.
+
+20
+00:01:00,627 --> 00:01:04,531
+Das ist noch nicht abgeschlossen,
+aber jetzt haben wir eine neue Option:
+
+21
+00:01:04,531 --> 00:01:08,802
+Einen Gesetzesvorschlag,
+für die ganze Europäische Union.
+
+22
+00:01:08,802 --> 00:01:11,872
+Es hat Monate gedauert
+bis es fertig war,
+
+23
+00:01:11,872 --> 00:01:15,175
+aber jetzt haben wir eine
+Europäische Bürgerinitiative
+
+24
+00:01:15,175 --> 00:01:18,578
+alleine für den Zweck,
+diese Zerstörung zu verhindern.
+
+25
+00:01:18,578 --> 00:01:20,180
+Du kannst es sogar selber nachlesen.
+
+26
+00:01:20,180 --> 00:01:23,450
+Sie verlangt von den Herstellern,
+das an Verbraucher*innen verkaufte Spiel 
+
+27
+00:01:23,450 --> 00:01:26,119
+bei Abschaltung in einem spielbaren Zustand zu hinterlassen,
+
+28
+00:01:26,119 --> 00:01:28,789
+und ohne eine weitere Verbindung zu brauchen,
+
+29
+00:01:28,789 --> 00:01:31,758
+weder zur Firma oder anderen Parteien.
+
+30
+00:01:31,758 --> 00:01:34,227
+Wie die Hersteller dies machen ist ihnen überlassen.
+
+31
+00:01:34,227 --> 00:01:38,699
+Dasselbe gilt für Free-to-Play
+Spiele die Mikrotransaktionen beinhalten,
+
+32
+00:01:38,699 --> 00:01:42,302
+da wenn man Mikrotransaktionen
+als Gut kauft,
+
+33
+00:01:42,302 --> 00:01:46,540
+und das Spiel nicht mehr spielbar ist,
+man so sein Gut verloren hat.
+
+34
+00:01:46,540 --> 00:01:48,942
+Es würde NICHT Hersteller zwingen
+
+35
+00:01:48,942 --> 00:01:51,244
+ihr geistiges Eigentum aufzugeben,
+
+36
+00:01:51,244 --> 00:01:55,082
+oder den Quellcode offenzulegen--obwohl
+das nett wäre.
+
+37
+00:01:55,082 --> 00:01:57,517
+Endloser Support wäre nicht nötig.
+
+38
+00:01:57,517 --> 00:02:00,654
+Sie können den Support jederzeit
+beenden aus unserer Sicht.
+
+39
+00:02:00,654 --> 00:02:04,124
+Sie müssten nicht Server hosten,
+aber dafür dann den Serverzwang
+
+40
+00:02:04,124 --> 00:02:08,261
+herausnehmen oder Konsument*innen
+es erlauben private Server zu bauen.
+
+
+41
+00:02:08,261 --> 00:02:13,467
+Es würde keine Haftung verlangen
+für was Verbraucher*innen mit ihren Kopien machen.
+
+42
+00:02:13,467 --> 00:02:17,037
+Und zuletzt hätte nichts in dieser
+Initiative einen Effekt darauf,
+
+43
+00:02:17,037 --> 00:02:21,141
+was Publisher machen, während
+das Spiel aktiv betrieben wird.
+
+44
+00:02:21,141 --> 00:02:25,946
+Kurzgefasst: Hersteller können
+weiterhin alles machen, was sie wollen,
+
+45
+00:02:25,946 --> 00:02:27,914
+solange man das Spiel behält.
+
+46
+00:02:27,914 --> 00:02:33,153
+Es wundert mich, wenn Menschen sagen
+"Das geht zu weit" beim Schutz von Verbrauchenden.
+
+47
+00:02:33,153 --> 00:02:36,390
+Obwohl das natürlich nicht die Meinung
+der meisten Europäer*innen ist.
+
+48
+00:02:36,390 --> 00:02:42,095
+Die Idee ist, dass wir NUR versuchen
+die Zerstörung von Spielen zu stoppen. Das war's.
+
+49
+00:02:42,095 --> 00:02:47,134
+Wir versuchen so präzise wie möglich zu sein,
+und zugleich das Problem zu lösen.
+
+50
+00:02:47,134 --> 00:02:48,602
+Mit genug Unterschriften
+
+51
+00:02:48,602 --> 00:02:52,706
+geht das zur Europäischen Kommission
+als mögliches neues Gesetz.
+
+52
+00:02:52,706 --> 00:02:55,308
+Wenn du jetzt schon dabei bist,
+dann musst du nicht weiterschauen--
+
+53
+00:02:55,308 --> 00:02:57,010
+geh einfach direkt unterschreiben.
+
+54
+00:02:57,010 --> 00:03:01,815
+Aber warte! Du hast nur EINE CHANCE
+es richtig zu machen.
+
+55
+00:03:01,815 --> 00:03:04,217
+Es ist nicht schwer, aber wenn du einen Fehler machst,
+
+56
+00:03:04,217 --> 00:03:07,554
+ist deine Unterschrift ungültig.
+Es gibt keine zweite Chance.
+
+57
+00:03:07,554 --> 00:03:12,292
+Wir haben eine Anleitung unter stopkillinggames.com,
+um sicherzugehen.
+
+58
+00:03:12,292 --> 00:03:16,963
+Aber ist es wirklich so einfach?
+
+59
+00:03:16,963 --> 00:03:19,399
+Ähm, ja, vielleicht!
+
+60
+00:03:19,399 --> 00:03:24,237
+Es gibt keine Garantie, dass es umgesetzt wird,
+bei genügend Unterschriften.
+
+61
+00:03:24,237 --> 00:03:27,074
+Warum so einfach? Hier ein paar Gründe:
+
+62
+00:03:27,074 --> 00:03:31,978
+Politiker*innen mögen einfache Siege
+bei denen sie nicht viel machen müssen.
+
+63
+00:03:31,978 --> 00:03:35,082
+Und solange es kein Glücksspiel 
+oder Kindergefährdung beeinhaltet,
+
+64
+00:03:35,082 --> 00:03:38,351
+interessieren Videospiele
+Politiker*innen nicht wirklich.
+
+65
+00:03:38,351 --> 00:03:42,689
+Es sollte also nicht viel Effekt auf sie
+oder ihre Wählerschaft haben.
+
+66
+00:03:42,689 --> 00:03:47,094
+Die EU-Gesetzeslage ist bereits unklar
+bei vielen Aspekten dieses Themas,
+
+67
+00:03:47,094 --> 00:03:50,130
+und wir würden es einfach machen,
+den Sachverhalt klarzustellen.
+
+68
+00:03:50,130 --> 00:03:52,966
+Es hängt zusammen mit anderen
+Verbraucherthemen--
+
+69
+00:03:52,966 --> 00:03:57,337
+wie, dass wenn du etwas KAUFST,
+du es normalerweise auch BEHALTEN darfst?
+
+70
+00:03:57,337 --> 00:04:00,607
+Und letztlich kann es als Ablenkung
+funktionieren von sehr wichtigen Themen
+
+71
+00:04:00,607 --> 00:04:03,076
+mit denen sich Politiker*innen
+lieber nicht befassen wollen.
+
+72
+00:04:03,076 --> 00:04:06,480
+Sie könnten beschäftigt wirken
+UND Schwieriges vermeiden.
+
+73
+00:04:06,480 --> 00:04:10,183
+Ich glaube sogar, dass beim Erreichen
+der geforderten Unterschriftenmenge
+
+74
+00:04:10,183 --> 00:04:14,621
+es zum Gesetz wird, und 90%
+des Problems gelöst wären.
+
+75
+00:04:14,621 --> 00:04:18,692
+Ich sage 90%, weil es
+nur die EU betreffen würde.
+
+76
+00:04:18,692 --> 00:04:25,031
+Wenn also ein Spiel in China oder Japan
+veröffentlicht, können wir da nichts machen,
+
+77
+00:04:25,031 --> 00:04:29,636
+aber die meisten Videospiele werden
+global, und somit auch in der EU verkauft.
+
+78
+00:04:29,636 --> 00:04:31,404
+Sobald es eine Voraussetzung ist, dass Firmen
+
+79
+00:04:31,404 --> 00:04:35,942
+dich dein Spiel behalten lassen müssen,
+
+80
+00:04:35,942 --> 00:04:40,413
+dann wird es sich weiter verbreiten,
+egal ob es sonstwo das Gesetz ist oder nicht.
+
+81
+00:04:40,413 --> 00:04:45,385
+Wo ich mir nicht sicher bin, ist,
+ob wir überhaupt
+
+82
+00:04:45,385 --> 00:04:49,256
+die Schwelle für die Unterschriften erreichen werden.
+
+83
+00:04:49,256 --> 00:04:55,095
+Damit es funktioniert bräuchten wir 1 Mio. Unterschriften
+aus der ganzen EU...
+
+84
+00:04:55,095 --> 00:05:02,536
+obwohl wir mehr brauchen werden, da einige
+ungültig sein werden... wer weiß warum.
+
+85
+00:05:02,536 --> 00:05:08,341
+Also brauchen wir eher um die
+1,2 oder 1,3 Mio. Unterschriften.
+
+86
+00:05:08,341 --> 00:05:14,781
+Oh, und es wird schlimmer,
+da einige Länder ihre eigenen Schwellenwerte haben.
+
+87
+00:05:14,781 --> 00:05:17,350
+Stell dir vor, jemand in Griechenland unterschreibt.
+
+88
+00:05:17,350 --> 00:05:25,292
+Dann bräuchte es 15.000 MEHR Griech*innen,
+damit die Stimmen zählen
+[Siehe gepinnten Kommentar]
+
+89
+00:05:25,292 --> 00:05:28,895
+Die Regel wirkt eher verwirrend
+und umständlich auf mich.
+
+90
+00:05:28,895 --> 00:05:33,066
+Ich frage mich, ob die EU sich 
+da was von den USA abgeschaut hat
+
+91
+00:05:33,066 --> 00:05:35,836
+Es sind auf jeden Fall viele Unterschriften.
+
+92
+00:05:35,836 --> 00:05:40,874
+Vielleicht ist es Wahnsinn das zu versuchen,
+ich weiß es noch nicht.
+
+93
+00:05:40,874 --> 00:05:46,680
+Die gute Nachricht: Wir haben 1 Jahr Zeit
+
+94
+00:05:46,680 --> 00:05:48,248
+Aber ich sag es gerne jetzt schon mal,
+
+95
+00:05:48,248 --> 00:05:52,452
+meine Zuschauer alleine werden nicht ausreichen.
+
+96
+00:05:52,452 --> 00:05:58,258
+Der einzige Weg zum Erfolg ist das Einbinden
+europäischer YouTuber, Streamer und Co
+
+97
+00:05:58,258 --> 00:06:03,330
+am Besten auch welche, die nicht Englisch sprechen.
+
+98
+00:06:03,330 --> 00:06:08,134
+Ich werde mein Bestes geben und auf Leute zugehen,
+aber meine Reichweite ist begrenzt.
+
+99
+00:06:08,134 --> 00:06:11,104
+Leider muss ich sagen, dass seit Beginn der Kampagne
+
+100
+00:06:11,104 --> 00:06:15,742
+niemand auf meine Kontaktversuche geantwortet hat.
+
+101
+00:06:15,742 --> 00:06:19,946
+An dieser Front gibt es also keine Erfolge zu melden.
+
+102
+00:06:19,946 --> 00:06:23,016
+Was aber bisher geklappt hat:
+
+103
+00:06:23,016 --> 00:06:28,021
+1. Wenn Leute auf MICH zu kommen,
+weil ich häufig antworte
+
+104
+00:06:28,021 --> 00:06:31,258
+2. Wenn Leute eigenständig
+über die Kampagne berichten.
+
+105
+00:06:31,258 --> 00:06:34,828
+Das hat WIRKLICH funktioniert.
+Also wenn du das hier schaust,
+
+106
+00:06:34,828 --> 00:06:38,064
+könntest du vielleicht der kritische Faktor sein,
+
+107
+00:06:38,064 --> 00:06:42,869
+weil du anderen YouTubern, Streamern, etc
+über die Kampagne erzählen kannst,
+
+108
+00:06:42,869 --> 00:06:44,604
+und vielleicht erwähnen sie es dann.
+
+109
+00:06:44,604 --> 00:06:49,609
+Ich möchte betonen: Es wäre noch besser,
+wenn deren Fans nicht Englisch sprechen.
+
+110
+00:06:49,609 --> 00:06:53,880
+Die Anzahl der Englisch-Muttersprachler
+in der EU ist eher gering,
+
+111
+00:06:53,880 --> 00:06:57,517
+die Kampagne auf anderen Sprachen
+zu verbreiten ist deshalb enorm wichtig.
+
+112
+00:06:57,517 --> 00:07:02,155
+Ich bin gerne bereit für Interviews oder Publicity-Arbeit
+bei diesem Thema,
+
+113
+00:07:02,155 --> 00:07:06,259
+mit fast jeder Person mit einem
+europäischen Zuschauerkreis von solider Größe.
+
+114
+00:07:06,259 --> 00:07:10,330
+Außerdem sind die offiziellen Wortführer
+
+115
+00:07:10,330 --> 00:07:13,667
+der Initiative bereit
+darüber öffentlich zu sprechen
+
+116
+00:07:13,667 --> 00:07:17,938
+Die beiden sind mehrsprachig,
+und wir haben weitere Organisierende
+
+117
+00:07:17,938 --> 00:07:20,940
+welche eventuell bereit wären
+dies in anderen Sprachen zu besprechen.
+
+118
+00:07:20,940 --> 00:07:26,046
+Das sind die Menschen, die tatsächlich für die Kampagne zuständig.
+Also wirkliche Europäer.
+
+119
+00:07:26,046 --> 00:07:33,119
+Ja, obwohl ich... geholfen habe,
+offiziell bin ich da nicht Teil von.
+
+120
+00:07:33,119 --> 00:07:36,022
+Egal! Hauptsache wir schaffen es
+an die Ziellinie.
+
+121
+00:07:36,022 --> 00:07:38,591
+Und was Teilnahmeberechtigung angeht,
+es ist sehr simpel:
+
+122
+00:07:38,591 --> 00:07:42,495
+Du musst Bürger*in eines EU-Lands sein,
+egal ob du dort aktuell wohnst,
+
+123
+00:07:42,495 --> 00:07:45,398
+und du musst das Wahlalter
+in deinem Land erreicht haben.
+
+124
+00:07:45,398 --> 00:07:49,869
+Das bedeutet auch, dass nicht nur DU unterzeichnen kannst,
+sondern auch deine Freunde,
+
+125
+00:07:49,869 --> 00:07:54,107
+deine Familie, romantische Partner oder sonstwer.
+
+126
+00:07:54,107 --> 00:07:59,079
+Alle zählen. Frag sie alle, und sag ihnen,
+dass sie es weiter erzählen sollen.
+
+127
+00:07:59,079 --> 00:08:02,482
+Und ja, es ist irgendwie komisch, dass ein Amerikaner
+der selbst nicht unterschreiben kann
+
+128
+00:08:02,482 --> 00:08:06,619
+für eine europäische Kampagne wirbt.
+Aber weißt du was?
+
+129
+00:08:06,619 --> 00:08:11,257
+Wenn es durchkommt, haben wir alle was davon,
+also nehmen wir einfach die Chancen, die wir kriegen.
+
+130
+00:08:11,257 --> 00:08:14,728
+Oh, und wenn deine Verwandten oder wer auch immer
+sich nicht für Videospiele interessieren:
+
+131
+00:08:14,728 --> 00:08:19,933
+Du kannst ihnen sagen, dass es hier auch
+darum geht Eigentumsrecht zu schützen.
+
+132
+00:08:19,933 --> 00:08:21,935
+Wenn Videospiele Autos wären,
+
+133
+00:08:21,935 --> 00:08:26,139
+dann wäre das was gerade passiert,
+wie als würde ich dir eine Auto bei Vollpreis verkaufen,
+
+134
+00:08:26,139 --> 00:08:30,543
+und später--wann GENAU würde ich nicht verraten,
+es ist also keine Leihe--
+
+
+135
+00:08:30,543 --> 00:08:33,713
+komme ich vorbei,
+und nehme das Auto mit,
+
+136
+00:08:33,713 --> 00:08:35,415
+und das Geld behalte ich trotzdem.
+
+137
+00:08:35,415 --> 00:08:39,786
+Das ist kein gutes Geschäft...
+oder jedenfalls nicht für die Verbraucher.
+
+138
+00:08:39,786 --> 00:08:43,390
+Hmm ja, Verkauftes zurückzuholen ist
+eigentlich ziemlich gut fürs Geschäft von Firmen.
+
+139
+00:08:43,390 --> 00:08:47,527
+Vielleicht ist die Spieleindustrie deswegen mehr Wert
+als die von Film und Musik zusammen.
+
+140
+00:08:47,527 --> 00:08:51,064
+Ich versteh's, Videospiele sind nicht
+so wichtig für die meisten,
+
+141
+00:08:51,064 --> 00:08:54,234
+aber genau deswegen sind sie
+wie der Kanarienvogel im Minenschacht.
+
+142
+00:08:54,234 --> 00:09:00,073
+Wie lange bis Landwirtschaft oder
+medizinische Instrumente betroffen sind?
+
+143
+00:09:00,073 --> 00:09:04,644
+Niemand möchte, dass sich das ausbreitet,
+glaub mir.
+
+144
+00:09:04,644 --> 00:09:08,214
+Ein paar von euch haben vielleicht schon nachgerechnet,
+dass wir
+
+145
+00:09:08,214 --> 00:09:13,186
+im Durchschnitt 2.700 Unterschriften
+am Tag brauchen, damit das Ganze aufgeht.
+
+146
+00:09:13,186 --> 00:09:16,856
+Ich sag es jetzt schon mal: 
+Wir werden das nicht jeden Tag erreichen.
+
+147
+00:09:16,856 --> 00:09:20,193
+Sowas passiert in Wellen,
+abhängig davon wenn wichtige Leute darüber sprechen.
+
+148
+00:09:20,193 --> 00:09:24,364
+Genug Tage werden unterdurchschnittlich sein,
+andere werden 10x so viel sein oder mehr.
+
+149
+00:09:24,364 --> 00:09:26,433
+Also nicht zu früh die Hoffnung aufgeben.
+
+150
+00:09:26,433 --> 00:09:28,401
+Bitte sei nicht der Typ bei Teamspielen
+
+151
+00:09:28,401 --> 00:09:31,337
+der beim ersten Problem direkt aufgibt
+
+152
+00:09:31,337 --> 00:09:34,240
+und nach 30 Sekunden
+das Spiel als beendet sieht.
+
+153
+00:09:34,240 --> 00:09:35,742
+Sowas ist richtiger Mist.
+
+154
+00:09:35,742 --> 00:09:37,811
+Wir sind hier an einem Scheideweg.
+
+155
+00:09:37,811 --> 00:09:39,412
+Wenn wir genug Unterschriften haben,
+
+156
+00:09:39,412 --> 00:09:43,082
+dann können wir dem ein Ende setzen
+und Videospielgeschichte schreiben.
+
+157
+00:09:43,082 --> 00:09:47,420
+Oder wir können nichts machen,
+unsere Probleme schlimmer werden lassen,
+
+158
+00:09:47,420 --> 00:09:50,356
+damit wir in der Zukunft
+wirklich nichts mehr besitzen können,
+
+159
+00:09:50,356 --> 00:09:53,960
+und eine Menge zahlen müssen
+WEIL wir nichts besitzen.
+
+160
+00:09:53,960 --> 00:09:57,163
+Vielleicht haben wir Glück und es erübrigt sich
+
+161
+00:09:57,163 --> 00:10:00,467
+wegen der anderen rechtlichen Schritte,
+die wir eingeleitet haben,
+
+162
+00:10:00,467 --> 00:10:04,904
+aber so oder so: Das ist eine der
+letzten guten Chancen um Spiele zu retten.
+
+163
+00:10:04,904 --> 00:10:08,074
+Es wird keine Runde 2 geben.
+
+164
+00:10:08,074 --> 00:10:11,311
+Wenn du oder jemand,
+den du kennst EU-Bürger*in ist,
+
+165
+00:10:11,311 --> 00:10:15,415
+dann hast du die Macht das zu beenden,
+einfach nur durch Unterschreiben.
+
+166
+00:10:15,415 --> 00:10:18,318
+Der kritische Schwachpunkt ist,
+
+167
+00:10:18,318 --> 00:10:23,223
+dass ich darauf zähle, dass Gamer es genug interessiert
+die Zerstörung ihrer Spiele zu stoppen.
+
+168
+00:10:23,223 --> 00:10:25,792
+Ich hoffe, dass das nicht zu viel gefragt ist,
+
+169
+00:10:25,792 --> 00:10:27,961
+weil wenn in ein paar Jahren irgendjemand sagt:
+
+170
+00:10:27,961 --> 00:10:31,130
+"Ja, ich hatte die Chance um Videospiele zu retten,
+
+171
+00:10:31,130 --> 00:10:34,667
+"aber dafür musste ich einen ganz neuen Tab öffnen,"
+
+172
+00:10:34,667 --> 00:10:39,639
+"und meinen Namen eingeben,
+und ein CAPTCHA...was ein Mist... Ännh..."
+
+173
+00:10:39,639 --> 00:10:44,577
+"Also hab ich es nicht gemacht. Zu viel Arbeit.
+Es war es einfach nicht wert."
+
+174
+00:10:44,577 --> 00:10:50,083
+Wenn das die generelle Stimmung unter Gamern ist,
+dann kann ich da auch nicht mehr helfen.
+
+175
+00:10:50,083 --> 00:10:53,386
+Dann bin ich wie Don Quixote, der mit Windmühlen kämpft.
+
+176
+00:10:53,386 --> 00:10:56,122
+Ich hoffe das ist nicht der Fall.
+
+177
+00:10:56,122 --> 00:11:00,827
+Ähh, ja, also unterschreib es,
+oder erzähl jemand aus Europa davon!
+
+178
+00:11:02,228 --> 00:11:05,131
+[Musik]
+
+179
+00:11:05,131 --> 00:11:09,402
+[Original-Untertitel von danielsangeo, übersetzt von KidKangaroo]
+[Musik]
+
+180
+00:11:09,402 --> 00:11:11,404
+[Musik]
+
+181
+00:11:14,707 --> 00:11:17,277
+Oh, und es MUSS nicht 1 Jahr dauern.
+
+182
+00:11:17,277 --> 00:11:20,634
+Wenn wir viel mehr Unterschriften kriegen,
+als wir brauchen, dann können wir es vorzeitig beenden.
+
+183
+00:11:20,634 --> 00:11:22,849
+Man kann es also speedrunnen.
+

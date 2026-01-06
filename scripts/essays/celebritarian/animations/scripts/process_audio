@@ -1,0 +1,39 @@
+#!/usr/bin/env node
+
+const { basename } = require("path");
+const { spawn } = require("child_process");
+
+const scriptname = basename(process.argv[1]);
+
+if (!(4 in process.argv))
+  throw new Error(
+    "not enough arguments passed.\n\nExpected: proc sample_rate desired_samples_per_second filename\n\nGot: " +
+      scriptname +
+      " " +
+      process.argv.slice(2).join(" "),
+  );
+
+const [_, __, rate, persec, filename] = process.argv;
+
+const zoom = rate / persec;
+
+const child = spawn("audiowaveform", [
+  "-i",
+  `src/data/${filename}.wav`,
+  "-o",
+  `src/data/${filename}.wav.json`,
+  "-z",
+  `${zoom}`,
+]);
+
+child.stdout.on("data", (data) => {
+  console.log(data.toString("utf8"));
+});
+
+child.stderr.on("data", (data) => {
+  console.error(data.toString("utf8"));
+});
+
+child.on("close", (code) => {
+  console.log(`Child process exited with code ${code}`);
+});

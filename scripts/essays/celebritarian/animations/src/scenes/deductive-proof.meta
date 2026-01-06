@@ -1,0 +1,74 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "nobody owns",
+      "targetTime": 4.537164190320979
+    },
+    {
+      "name": "single owns",
+      "targetTime": 6.219504761728386
+    },
+    {
+      "name": "group owns",
+      "targetTime": 8.168505161230945
+    },
+    {
+      "name": "no owns implication",
+      "targetTime": 10.378306333801646
+    },
+    {
+      "name": "single own implication",
+      "targetTime": 15.276703128341843
+    },
+    {
+      "name": "group owns implication",
+      "targetTime": 19.45561658742541
+    },
+    {
+      "name": "contradiction proof",
+      "targetTime": 24.720066307022485
+    },
+    {
+      "name": "a owns",
+      "targetTime": 38.694051140041864
+    },
+    {
+      "name": "a should win",
+      "targetTime": 39.89405114004187
+    },
+    {
+      "name": "b owns",
+      "targetTime": 43.66904413009716
+    },
+    {
+      "name": "b should win",
+      "targetTime": 44.869044130097166
+    },
+    {
+      "name": "spearfishing contradiction",
+      "targetTime": 48.063401445924306
+    },
+    {
+      "name": "only possibilities",
+      "targetTime": 55.340720011899656
+    },
+    {
+      "name": "eminent domain",
+      "targetTime": 61.61273334350544
+    },
+    {
+      "name": "burden on Dave",
+      "targetTime": 74.89376308170709
+    },
+    {
+      "name": "proof established",
+      "targetTime": 92.68681332473172
+    },
+    {
+      "name": "end",
+      "targetTime": 101.72929586727685
+    }
+  ],
+  "seed": 2322328719
+}

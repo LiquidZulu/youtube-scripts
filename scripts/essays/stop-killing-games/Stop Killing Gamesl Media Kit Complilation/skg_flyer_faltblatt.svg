@@ -1,0 +1,1857 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="skg_flyer_lars.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.3786088"
+     inkscape:cx="1732.7355"
+     inkscape:cy="429.2425"
+     inkscape:window-width="1854"
+     inkscape:window-height="1009"
+     inkscape:window-x="66"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"><inkscape:page
+       x="0"
+       y="0"
+       width="297"
+       height="210"
+       id="page1"
+       margin="0"
+       bleed="0"
+       inkscape:export-filename="skg_flyer_faltblatt.pdf"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" /><inkscape:page
+       x="307"
+       y="0"
+       width="297"
+       height="210"
+       id="page2"
+       margin="0"
+       bleed="0"
+       inkscape:export-filename="skg_flyer_faltblatt.pdf"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" /></sodipodi:namedview><defs
+     id="defs1"><rect
+   x="294.36921"
+   y="732.99132"
+   width="248.01583"
+   height="136.99452"
+   id="rect923" /><rect
+   x="1175.0567"
+   y="331.65559"
+   width="308.84474"
+   height="442.23345"
+   id="rect914" /><marker
+   style="overflow:visible"
+   id="Triangle"
+   refX="0"
+   refY="0"
+   orient="auto-start-reverse"
+   inkscape:stockid="Triangle arrow"
+   markerWidth="1.5"
+   markerHeight="1.5"
+   viewBox="0 0 1 1"
+   inkscape:isstock="true"
+   inkscape:collect="always"
+   preserveAspectRatio="xMidYMid"><path
+     transform="scale(0.5)"
+     style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+     d="M 5.77,0 -2.88,5 V -5 Z"
+     id="path135" /></marker><inkscape:path-effect
+   effect="skeletal"
+   id="path-effect3"
+   is_visible="true"
+   lpeversion="1"
+   pattern="M 0,4.9921385 C 0,2.2364781 2.2364781,0 4.9921385,0 7.747799,0 9.984277,2.2364781 9.984277,4.9921385 9.984277,7.747799 7.747799,9.984277 4.9921385,9.984277 2.2364781,9.984277 0,7.747799 0,4.9921385 Z"
+   copytype="single_stretched"
+   prop_scale="0.055983687"
+   scale_y_rel="false"
+   spacing="0"
+   normal_offset="0"
+   tang_offset="0"
+   prop_units="false"
+   vertical_pattern="false"
+   hide_knot="false"
+   fuse_tolerance="0" /><inkscape:path-effect
+   effect="skeletal"
+   id="path-effect2"
+   is_visible="true"
+   lpeversion="1"
+   pattern="M 0,4.9921385 C 0,2.2364781 2.2364781,0 4.9921385,0 7.747799,0 9.984277,2.2364781 9.984277,4.9921385 9.984277,7.747799 7.747799,9.984277 4.9921385,9.984277 2.2364781,9.984277 0,7.747799 0,4.9921385 Z"
+   copytype="single_stretched"
+   prop_scale="0.055983687"
+   scale_y_rel="false"
+   spacing="0"
+   normal_offset="0"
+   tang_offset="0"
+   prop_units="false"
+   vertical_pattern="false"
+   hide_knot="false"
+   fuse_tolerance="0" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<inkscape:path-effect
+   effect="skeletal"
+   id="path-effect2-2"
+   is_visible="true"
+   lpeversion="1"
+   pattern="M 0,4.9921385 C 0,2.2364781 2.2364781,0 4.9921385,0 7.747799,0 9.984277,2.2364781 9.984277,4.9921385 9.984277,7.747799 7.747799,9.984277 4.9921385,9.984277 2.2364781,9.984277 0,7.747799 0,4.9921385 Z"
+   copytype="single_stretched"
+   prop_scale="0.055983687"
+   scale_y_rel="false"
+   spacing="0"
+   normal_offset="0"
+   tang_offset="0"
+   prop_units="false"
+   vertical_pattern="false"
+   hide_knot="false"
+   fuse_tolerance="0" /><inkscape:path-effect
+   effect="skeletal"
+   id="path-effect3-8"
+   is_visible="true"
+   lpeversion="1"
+   pattern="M 0,4.9921385 C 0,2.2364781 2.2364781,0 4.9921385,0 7.747799,0 9.984277,2.2364781 9.984277,4.9921385 9.984277,7.747799 7.747799,9.984277 4.9921385,9.984277 2.2364781,9.984277 0,7.747799 0,4.9921385 Z"
+   copytype="single_stretched"
+   prop_scale="0.055983687"
+   scale_y_rel="false"
+   spacing="0"
+   normal_offset="0"
+   tang_offset="0"
+   prop_units="false"
+   vertical_pattern="false"
+   hide_knot="false"
+   fuse_tolerance="0" /><rect
+   x="294.36921"
+   y="732.99132"
+   width="251.18743"
+   height="168.32349"
+   id="rect925" /><rect
+   x="294.36921"
+   y="732.99132"
+   width="251.18725"
+   height="276.77615"
+   id="rect926" /></defs><g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"><path
+       style="fill:#86b6e8;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       d="M 195.04461,0.12009931 V 114.08692 C 232.3647,143.5667 297,144.31266 297,144.31266 V 1.5875 Z"
+       id="path933"
+       sodipodi:nodetypes="ccccc" /><path
+       style="fill:#1976d2;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       d="M 195.04461,-1.4674007 V 114.08692 c 44.72304,25.78454 101.95538,26.09547 101.95538,26.09547 L 297,0 Z"
+       id="path932"
+       sodipodi:nodetypes="ccccc" /><g
+       id="g4"
+       transform="matrix(0.14680307,0,0,0.14680307,203.07641,18.265083)"
+       style="fill:#ffffff;fill-opacity:1"><g
+         id="a"
+         style="fill:#ffffff;fill-opacity:1">
+</g><g
+         id="b"
+         style="fill:#ffffff;fill-opacity:1">
+	<g
+   id="c"
+   style="fill:#ffffff;fill-opacity:1">
+		<path
+   id="d"
+   class="st0"
+   d="M 63.2,25 63,6.1 c 0,0 0.2,-2 1.4,-3.1 1.2,-1.1 3.3,-1.6 3.3,-1.6 l 85.1,-0.2 c 0,0 2.9,0.2 4.3,1.6 1.4,1.4 1.9,4.5 1.9,4.5 l 0.2,15.4 -11.9,-1.6 c 0,0 -13.9,-6.8 -37.3,-6.8 C 86.6,14.3 63.3,25 63.2,25 Z m 38.7,123.4 -20.8,20.2 H 36.6 l 0.3,-38.7 45.4,-0.3 z m 7.6,7.6 20.2,20.8 v 44.5 L 91.1,221 90.8,175.6 Z m 7.6,-6.5 20.8,-20.2 h 44.5 l -0.3,38.6 -45.4,0.3 z m -7,-8.2 -20.2,-20.8 V 76 l 38.7,0.3 0.3,45.4 z m 92.5,78.8 h 84.9 l 19.3,-45.4 -6.4,-40.7 17.9,-28.7 H 301 c 0,0 -4.7,0 -4.7,-6.7 0,-6.7 4.4,-7 4.4,-7 h 17.9 l 5.9,-59.7 c 0,0 -139.1,2.9 -179.2,-7.3 -8.8,-2.9 -13.8,-6.7 -35.1,-6.7 -4.9,0 -10.6,0.5 -16.7,1.7 C 55.1,26.9 0,59.8 0,148.9 c 0,103.4 71.7,132.3 110.1,132.3 64.7,0.1 92.5,-61.1 92.5,-61.1 z M 230.4,105 c 0,0 -4.4,1.2 -4.4,-6.4 0,-7.6 4.1,-7 4.1,-7 h 26.7 c 0,0 5.3,0.3 5.3,7 0,6.7 -5,6.7 -5,6.7 z m 74.5,27.9 15.6,-26.5 11.1,-2 23.4,34.9 z m 3.7,3.2 71.6,8.8 -0.2,10.1 -24.6,22.6 -40.8,-1 z m 9,44.3 39.8,3.7 27.9,28.1 -23.2,13.1 -64.2,-3.7 z m 48,-40.8 -21.5,-32.4 2,-5.9 38.8,-11.3 12.1,37.3 c 0,0 -5.7,2.1 -8.2,6.6 -2.5,4.5 -3.3,8.6 -3.3,8.6 z m -37.9,-107.2 28.9,-0.8 2.3,58.6 -23.4,6.8 c 0,0 -0.4,-3.1 -1.8,-4.5 -1.4,-1.4 -3.9,-1.6 -3.9,-1.6 h -8.2 z m 35.4,1.6 38.1,-3.5 17.8,27.9 -36.3,25.2 -18,3.7 c -0.1,0 -1.6,-53.3 -1.6,-53.3 z m 54.1,-1.2 c 0,0 5.3,-0.4 8.4,-1 3.1,-0.6 13.3,-3.1 20.5,-5.9 7.2,-2.7 26.8,-2.3 26.8,-2.3 l -5.9,38.8 14.4,3.5 c 0,0 -5.1,15.4 -5.3,15.4 -0.2,0 -10.3,-1.8 -16.6,-0.2 -6.2,1.6 -9,5.5 -9,5.5 z m 10.7,36.1 12.3,19.9 c 0,0 -5.9,5.3 -5.7,14.2 0.2,9 6.1,15.4 6.1,15.4 l -15.2,11.3 c 0,0 -3.3,-3.9 -8.8,-4.3 -5.5,-0.4 -10.9,1.6 -10.9,1.6 L 393.2,93.8 Z m -57.4,107.6 22.1,-20.3 c 0,0 2,8 7.2,12.3 5.3,4.3 16.8,3.7 16.8,3.7 l 0.6,15.6 -19.9,12.9 z m 14.3,51.1 43.9,-21.3 c 0,0 8.8,5.3 8.8,5.1 0,-0.2 -10.5,34.8 -10.5,34.8 l -37.7,-8.8 z m 46.6,-80.6 18,-13.3 c 0,0 4.1,3.1 7.2,4.5 3.1,1.4 11.7,1.6 11.7,1.6 l -0.4,16.8 c 0,0 -26.4,6.2 -26.4,6.1 0,-0.2 -1.4,-5.9 -3.5,-9 -2.1,-3.2 -6.6,-6.7 -6.6,-6.7 z m 43,-42.4 4.9,-16.4 32,8 -7,26 h -15.6 c 0,0 -2,-6.4 -4.9,-10.4 -3,-3.8 -9.4,-7.2 -9.4,-7.2 z m 22.2,-47.2 16.4,-26 c 0,0 11.5,5.9 17.4,12.3 5.9,6.4 12.9,16.2 12.9,16.2 L 525.7,80 Z m 40.2,49 26.9,-39.2 c 0,0 8.6,9.4 12.9,22.1 4.3,12.7 5.9,26.3 5.9,26.3 l -25,16.2 z m 11.2,51 -15.4,-20.5 -11.1,-3.7 c 0,0 -1.4,5.9 -4.7,9.4 -3.3,3.5 -9.8,4.7 -9.8,4.7 l 9.8,13.7 c 0,0 5.9,-3.3 11.1,-2.9 5.3,0.4 11.7,5.9 11.7,5.9 z m -102.5,38.2 -0.2,-8.2 c 0,0 4.1,-1.4 6,-4.1 2,-2.7 2,-8 2,-8 l 11.9,-2.1 11.7,16.4 -3.7,3.5 c 0,0 -6.2,-6.1 -12.1,-3.3 -5.9,2.7 -7.8,9.4 -7.8,9.4 z m -2,46.7 37.1,2.9 c 0,0 -11.3,19.9 -11.3,19.7 0,-0.2 -9.4,-5.9 -13.9,-9.8 -4.5,-3.9 -11.9,-12.8 -11.9,-12.8 z m 56.2,18.1 15.4,-4.5 9.2,16.6 c 0,0 -6.2,3.5 -11.9,5.1 -5.7,1.6 -15.2,1 -15.2,1 z m 50.6,-13.8 18.2,-0.2 4.7,6.6 c 0,0 -4.5,6.1 -8.4,8.4 -3.9,2.3 -12.3,6.2 -12.3,6.2 z m -36.3,-20.5 27.7,-0.2 -10.3,-23.4 -6.1,-2.3 -10.3,9.8 c 0,0 2.5,3.9 2.5,8.2 0,4.3 -3.5,7.9 -3.5,7.9 z m 72.4,-23.5 7.4,11.1 5.7,-14.1 -5.9,-1.6 z m -32,-29.4 15.8,-20.5 c 0,0 5.1,11.1 6,17.8 1,6.6 0.4,19.5 0.4,19.5 l -16.8,-3.5 c 0,0 1,-4.1 -0.4,-7.6 -1.3,-3.6 -5,-5.7 -5,-5.7 z m -98.8,37.2 -2.3,18.9 24,1.9 -0.2,-9.2 c 0,0 -8.6,2.7 -12.9,-1.2 -4.3,-3.9 -4.7,-9.2 -4.5,-9.2 0.2,0 -4.1,-1.2 -4.1,-1.2 z m 55.5,-41.7 v 7.2 l 10,14.8 3.7,-3.9 c 0,0 -3.7,-3.1 -4.1,-6.4 -0.4,-3.3 1,-6.4 1,-6.4 l -7.8,-5.9 z m -84.4,-150.9 1,-14.4 c 0,0 0.4,-1.8 1.8,-2.5 1.4,-0.8 3.9,-0.8 3.9,-0.8 l 41.2,7.6 -0.4,10.1 c 0,0 -13.7,-2.9 -24.2,-3.1 -10.6,-0.2 -23.3,3.1 -23.3,3.1 z m 97.4,-7.8 22.5,5.9 c 0,0 1.8,0 3.5,2 1.8,2 0.4,5.7 0.6,5.7 0.2,0 -3.3,12.5 -3.3,12.1 0,-0.4 -6.2,-5.9 -11.1,-9.4 -4.9,-3.5 -11.9,-5.9 -11.9,-5.9 z"
+   style="fill:#ffffff;fill-opacity:1" />
+	<path
+   id="path941"
+   class="st0"
+   d="M 63.2,25 63,6.1 c 0,0 0.2,-2 1.4,-3.1 1.2,-1.1 3.3,-1.6 3.3,-1.6 l 85.1,-0.2 c 0,0 2.9,0.2 4.3,1.6 1.4,1.4 1.9,4.5 1.9,4.5 l 0.2,15.4 -11.9,-1.6 c 0,0 -13.9,-6.8 -37.3,-6.8 C 86.6,14.3 63.3,25 63.2,25 Z m 38.7,123.4 -20.8,20.2 H 36.6 l 0.3,-38.7 45.4,-0.3 z m 7.6,7.6 20.2,20.8 v 44.5 L 91.1,221 90.8,175.6 Z m 7.6,-6.5 20.8,-20.2 h 44.5 l -0.3,38.6 -45.4,0.3 z m -7,-8.2 -20.2,-20.8 V 76 l 38.7,0.3 0.3,45.4 z m 92.5,78.8 h 84.9 l 19.3,-45.4 -6.4,-40.7 17.9,-28.7 H 301 c 0,0 -4.7,0 -4.7,-6.7 0,-6.7 4.4,-7 4.4,-7 h 17.9 l 5.9,-59.7 c 0,0 -139.1,2.9 -179.2,-7.3 -8.8,-2.9 -13.8,-6.7 -35.1,-6.7 -4.9,0 -10.6,0.5 -16.7,1.7 C 55.1,26.9 0,59.8 0,148.9 c 0,103.4 71.7,132.3 110.1,132.3 64.7,0.1 92.5,-61.1 92.5,-61.1 z M 230.4,105 c 0,0 -4.4,1.2 -4.4,-6.4 0,-7.6 4.1,-7 4.1,-7 h 26.7 c 0,0 5.3,0.3 5.3,7 0,6.7 -5,6.7 -5,6.7 z m 74.5,27.9 15.6,-26.5 11.1,-2 23.4,34.9 z m 3.7,3.2 71.6,8.8 -0.2,10.1 -24.6,22.6 -40.8,-1 z m 9,44.3 39.8,3.7 27.9,28.1 -23.2,13.1 -64.2,-3.7 z m 48,-40.8 -21.5,-32.4 2,-5.9 38.8,-11.3 12.1,37.3 c 0,0 -5.7,2.1 -8.2,6.6 -2.5,4.5 -3.3,8.6 -3.3,8.6 z m -37.9,-107.2 28.9,-0.8 2.3,58.6 -23.4,6.8 c 0,0 -0.4,-3.1 -1.8,-4.5 -1.4,-1.4 -3.9,-1.6 -3.9,-1.6 h -8.2 z m 35.4,1.6 38.1,-3.5 17.8,27.9 -36.3,25.2 -18,3.7 c -0.1,0 -1.6,-53.3 -1.6,-53.3 z m 54.1,-1.2 c 0,0 5.3,-0.4 8.4,-1 3.1,-0.6 13.3,-3.1 20.5,-5.9 7.2,-2.7 26.8,-2.3 26.8,-2.3 l -5.9,38.8 14.4,3.5 c 0,0 -5.1,15.4 -5.3,15.4 -0.2,0 -10.3,-1.8 -16.6,-0.2 -6.2,1.6 -9,5.5 -9,5.5 z m 10.7,36.1 12.3,19.9 c 0,0 -5.9,5.3 -5.7,14.2 0.2,9 6.1,15.4 6.1,15.4 l -15.2,11.3 c 0,0 -3.3,-3.9 -8.8,-4.3 -5.5,-0.4 -10.9,1.6 -10.9,1.6 L 393.2,93.8 Z m -57.4,107.6 22.1,-20.3 c 0,0 2,8 7.2,12.3 5.3,4.3 16.8,3.7 16.8,3.7 l 0.6,15.6 -19.9,12.9 z m 14.3,51.1 43.9,-21.3 c 0,0 8.8,5.3 8.8,5.1 0,-0.2 -10.5,34.8 -10.5,34.8 l -37.7,-8.8 z m 46.6,-80.6 18,-13.3 c 0,0 4.1,3.1 7.2,4.5 3.1,1.4 11.7,1.6 11.7,1.6 l -0.4,16.8 c 0,0 -26.4,6.2 -26.4,6.1 0,-0.2 -1.4,-5.9 -3.5,-9 -2.1,-3.2 -6.6,-6.7 -6.6,-6.7 z m 43,-42.4 4.9,-16.4 32,8 -7,26 h -15.6 c 0,0 -2,-6.4 -4.9,-10.4 -3,-3.8 -9.4,-7.2 -9.4,-7.2 z m 22.2,-47.2 16.4,-26 c 0,0 11.5,5.9 17.4,12.3 5.9,6.4 12.9,16.2 12.9,16.2 L 525.7,80 Z m 40.2,49 26.9,-39.2 c 0,0 8.6,9.4 12.9,22.1 4.3,12.7 5.9,26.3 5.9,26.3 l -25,16.2 z m 11.2,51 -15.4,-20.5 -11.1,-3.7 c 0,0 -1.4,5.9 -4.7,9.4 -3.3,3.5 -9.8,4.7 -9.8,4.7 l 9.8,13.7 c 0,0 5.9,-3.3 11.1,-2.9 5.3,0.4 11.7,5.9 11.7,5.9 z m -102.5,38.2 -0.2,-8.2 c 0,0 4.1,-1.4 6,-4.1 2,-2.7 2,-8 2,-8 l 11.9,-2.1 11.7,16.4 -3.7,3.5 c 0,0 -6.2,-6.1 -12.1,-3.3 -5.9,2.7 -7.8,9.4 -7.8,9.4 z m -2,46.7 37.1,2.9 c 0,0 -11.3,19.9 -11.3,19.7 0,-0.2 -9.4,-5.9 -13.9,-9.8 -4.5,-3.9 -11.9,-12.8 -11.9,-12.8 z m 56.2,18.1 15.4,-4.5 9.2,16.6 c 0,0 -6.2,3.5 -11.9,5.1 -5.7,1.6 -15.2,1 -15.2,1 z m 50.6,-13.8 18.2,-0.2 4.7,6.6 c 0,0 -4.5,6.1 -8.4,8.4 -3.9,2.3 -12.3,6.2 -12.3,6.2 z m -36.3,-20.5 27.7,-0.2 -10.3,-23.4 -6.1,-2.3 -10.3,9.8 c 0,0 2.5,3.9 2.5,8.2 0,4.3 -3.5,7.9 -3.5,7.9 z m 72.4,-23.5 7.4,11.1 5.7,-14.1 -5.9,-1.6 z m -32,-29.4 15.8,-20.5 c 0,0 5.1,11.1 6,17.8 1,6.6 0.4,19.5 0.4,19.5 l -16.8,-3.5 c 0,0 1,-4.1 -0.4,-7.6 -1.3,-3.6 -5,-5.7 -5,-5.7 z m -98.8,37.2 -2.3,18.9 24,1.9 -0.2,-9.2 c 0,0 -8.6,2.7 -12.9,-1.2 -4.3,-3.9 -4.7,-9.2 -4.5,-9.2 0.2,0 -4.1,-1.2 -4.1,-1.2 z m 55.5,-41.7 v 7.2 l 10,14.8 3.7,-3.9 c 0,0 -3.7,-3.1 -4.1,-6.4 -0.4,-3.3 1,-6.4 1,-6.4 l -7.8,-5.9 z m -84.4,-150.9 1,-14.4 c 0,0 0.4,-1.8 1.8,-2.5 1.4,-0.8 3.9,-0.8 3.9,-0.8 l 41.2,7.6 -0.4,10.1 c 0,0 -13.7,-2.9 -24.2,-3.1 -10.6,-0.2 -23.3,3.1 -23.3,3.1 z m 97.4,-7.8 22.5,5.9 c 0,0 1.8,0 3.5,2 1.8,2 0.4,5.7 0.6,5.7 0.2,0 -3.3,12.5 -3.3,12.1 0,-0.4 -6.2,-5.9 -11.1,-9.4 -4.9,-3.5 -11.9,-5.9 -11.9,-5.9 z"
+   style="fill:#ffffff;fill-opacity:1" /></g>
+</g></g><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:66.2744;display:inline;fill:#1976d2;fill-opacity:1;stroke:none;stroke-width:1.32292"
+       x="274.90601"
+       y="110.90911"
+       id="text5"
+       transform="matrix(1.4285326,0,0,1.4285326,-146.80049,2.2980924)"><tspan
+         x="274.90601"
+         y="110.90911"
+         id="tspan6"><tspan
+   style="fill:#000000"
+   id="tspan5">Für mehr</tspan><tspan
+   y="110.90911"
+   id="tspan56"> </tspan></tspan><tspan
+         x="274.90601"
+         y="117.96467"
+         id="tspan58"><tspan
+   style="fill:#000000"
+   id="tspan57">Verbraucherschutz</tspan><tspan
+   y="117.96467"
+   id="tspan59"> </tspan></tspan><tspan
+         x="274.90601"
+         y="125.02022"
+         id="tspan61"><tspan
+           style="fill:#000000"
+           id="tspan60">bei Videospielen</tspan></tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:106.9;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292"
+       x="111.41089"
+       y="42.880173"
+       id="text6"
+       transform="matrix(0.84282007,-0.48660239,0.48660239,0.84282007,28.083791,128.3896)"><tspan
+         x="111.41089"
+         y="42.880173"
+         id="tspan62"> Bürgerinitiative unterzeichnen</tspan></text><rect
+       style="fill:#1976d2;fill-opacity:1;stroke:none;stroke-width:1.32292"
+       id="rect6"
+       width="101.95538"
+       height="12.776958"
+       x="195.0446"
+       y="210"
+       ry="0.29618785" /><rect
+       style="fill:#1976d2;fill-opacity:1;stroke:none;stroke-width:1.29207"
+       id="rect7"
+       width="97.662033"
+       height="12.776952"
+       x="97.382561"
+       y="210"
+       ry="0.28253427" /><rect
+       style="fill:#1976d2;fill-opacity:1;stroke:none;stroke-width:1.32292"
+       id="rect8"
+       width="97.382553"
+       height="12.776962"
+       x="0"
+       y="210"
+       ry="0.29618785" /><g
+       id="g906"
+       transform="matrix(0.05038035,-0.02908712,0.02908712,0.05038035,100.98991,139.9362)"><rect
+         x="0"
+         y="0"
+         width="1147"
+         height="1147"
+         fill="#ffffff"
+         id="rect1"
+         style="fill:#1976d2;fill-opacity:1" /><g
+         transform="translate(62,62)"
+         id="g905"
+         style="fill:#ffffff"><path
+           id="rect2"
+           style="fill:#ffffff;stroke-width:0.31"
+           d="M 279.00395,-0.00345361 V 31.000281 h 30.99561 31.00374 V -0.00345361 H 309.99956 Z M 341.0033,31.000281 v 31.003735 h 30.99561 31.00373 V 31.000281 H 371.99891 Z M 465.00198,-0.00345361 V 31.000281 62.004016 h -31.00373 v 30.995609 h 31.00373 30.99561 V 62.004016 31.000281 -0.00345361 Z M 433.99825,92.999625 H 403.00264 371.99891 341.0033 309.99956 279.00395 v 31.003735 30.99561 h -31.00373 v 31.00373 30.99561 h 31.00373 V 186.0027 h 30.99561 v -31.00373 -30.99561 h 31.00374 30.99561 v 30.99561 31.00373 30.99561 31.00374 H 341.0033 309.99956 279.00395 248.00022 v 30.9956 h -31.00374 v 31.00374 h 31.00374 31.00373 V 340.997 h -31.00373 v 31.00373 h -31.00374 -30.9956 -31.00374 V 340.997 h -30.99561 v 31.00373 H 92.997798 v 30.99561 H 62.00219 30.998455 V 372.00073 H 0.00284687 v 30.99561 31.00374 H 30.998455 v 31.00373 30.99561 31.00373 H 62.00219 v -31.00373 -30.99561 -31.00373 h 30.995608 31.003732 30.99561 v 31.00373 30.99561 31.00373 h 31.00374 30.9956 31.00374 31.00373 v -31.00373 -30.99561 h -31.00373 -31.00374 v 30.99561 h -30.9956 v -30.99561 h 30.9956 v -31.00373 h -30.9956 v -31.00374 h 30.9956 31.00374 v 31.00374 h 31.00373 v -31.00374 h 30.99561 v 31.00374 31.00373 H 341.0033 V 434.00008 402.99634 372.00073 H 309.99956 V 340.997 h 31.00374 30.99561 31.00373 v -30.99561 h -31.00373 v -31.00374 h 31.00373 30.99561 v 31.00374 h 31.00373 v -31.00374 h 30.99561 31.00374 v -30.9956 H 495.99759 465.00198 433.99825 403.00264 V 216.99831 186.0027 h 30.99561 v 30.99561 h 31.00373 V 186.0027 154.99897 h -31.00373 v -30.99561 z m 93.00308,155.002425 h 30.99561 v -31.00374 h -30.99561 z m 0,-31.00374 V 186.0027 h -31.00374 v 30.99561 z m 0,-30.99561 h 30.99561 v 30.99561 h 31.00373 V 186.0027 154.99897 H 557.99694 V 124.00336 92.999625 62.004016 31.000281 h -30.99561 v 31.003735 30.995609 31.003735 h -31.00374 v 30.99561 h 31.00374 z M 557.99694,31.000281 h 31.00373 30.99561 v 31.003735 h 31.00373 V 31.000281 h 31.00374 30.99561 v 31.003735 30.995609 h -30.99561 v 31.003735 h 30.99561 v 30.99561 h 31.00373 30.99561 V 124.00336 H 744.00309 V 92.999625 62.004016 H 774.9987 V 31.000281 H 744.00309 V -0.00345361 h -31.00373 -30.99561 -31.00374 -31.00373 -30.99561 -31.00373 z m 31.00373,123.998689 h 30.99561 V 124.00336 92.999625 h -30.99561 v 31.003735 z m 30.99561,0 v 31.00373 30.99561 h -30.99561 v 31.00374 30.9956 h 30.99561 v -30.9956 h 31.00373 v 30.9956 h 31.00374 30.99561 v -30.9956 H 682.00375 V 216.99831 H 651.00001 V 186.0027 154.99897 Z m 62.00747,61.99934 h 30.99561 V 186.0027 h -30.99561 z m -31.00374,61.99934 h -31.00373 v 31.00374 h -30.99561 v 30.99561 31.00373 h 30.99561 31.00373 v 30.99561 h 31.00374 V 372.00073 340.997 h -31.00374 v -30.99561 z m 31.00374,123.99869 v 31.00374 h 30.99561 v -31.00374 z m 30.99561,0 h 31.00373 v 31.00374 h 30.99561 v -31.00374 h 31.00374 v 31.00374 H 774.9987 v 31.00373 h 31.00374 v 30.99561 31.00373 h 30.9956 v -31.00373 -30.99561 h 31.00374 v -31.00373 h -31.00374 v -31.00374 h 31.00374 V 372.00073 H 836.99804 806.00244 774.9987 V 340.997 h 31.00374 30.9956 31.00374 v 31.00373 h 30.99561 v 30.99561 h -30.99561 v 31.00374 h 30.99561 31.00373 v 31.00373 h 30.99561 v 30.99561 31.00373 30.99561 h -30.99561 v 31.00374 h 30.99561 31.00374 v 30.99561 h 30.99563 V 589.0025 557.99876 h -30.99563 v -30.99561 -31.00373 -30.99561 -31.00373 h 30.99563 v -31.00374 h -30.99563 v -30.99561 h 30.99563 V 340.997 310.00139 278.99765 h -30.99563 -31.00374 v 31.00374 h 31.00374 V 340.997 h -31.00374 v 31.00373 30.99561 H 930.00112 V 372.00073 340.997 h -31.00373 v -30.99561 h -30.99561 v -31.00374 -30.9956 h -31.00374 v 30.9956 h -30.9956 v -30.9956 H 774.9987 V 216.99831 186.0027 h -30.99561 v 30.99561 31.00374 30.9956 31.00374 30.99561 h -31.00373 v 31.00373 z M 930.00112,340.997 h 30.99561 v -30.99561 h -30.99561 z m 0,217.00176 v -30.99561 h -31.00373 v 30.99561 z m -31.00373,-30.99561 v -31.00373 -30.99561 h -30.99561 v 30.99561 31.00373 z m -30.99561,0 h -31.00374 v 30.99561 h 31.00374 z m -31.00374,30.99561 h -30.9956 V 589.0025 H 774.9987 v 30.99561 h -30.99561 v 31.00373 30.99561 h 30.99561 v -30.99561 h 31.00374 v -31.00373 h 30.9956 31.00374 V 589.0025 h -31.00374 z m -30.9956,93.00308 v 30.99561 31.00373 30.99561 H 774.9987 v -30.99561 h -30.99561 v 30.99561 31.00374 h -31.00373 v 30.99561 h 31.00373 v 31.00373 31.00374 30.9956 h -31.00373 v 31.00374 h 31.00373 v 30.99561 h -31.00373 v 31.00373 h 31.00373 v 30.99561 h 30.99561 v -30.99561 -31.00373 -30.99561 -31.00374 h 31.00374 v 31.00374 h 30.9956 v -31.00374 h 31.00374 v 31.00374 30.99561 h 30.99561 v 31.00373 h -30.99561 v 30.99561 h 30.99561 31.00373 v -30.99561 -31.00373 -30.99561 h 30.99561 v -31.00374 h -30.99561 v -30.9956 h -31.00373 v -31.00374 h 31.00373 30.99561 31.00374 v -31.00373 h -31.00374 -30.99561 v -30.99561 h -31.00373 v -31.00374 h -30.99561 v -30.99561 h 30.99561 31.00373 v -31.00373 -30.99561 h -31.00373 v 30.99561 h -30.99561 v -30.99561 h -31.00374 z m 185.99803,154.9943 h 30.99563 v -30.99561 -31.00374 -30.99561 -31.00373 -30.99561 h -30.99563 -31.00374 v 30.99561 h 31.00374 v 31.00373 30.99561 31.00374 z m -279.00111,93.00307 v -30.9956 -31.00374 h -30.99561 -31.00374 v 31.00374 h -31.00373 -30.99561 v 30.9956 31.00374 h 30.99561 31.00373 31.00374 v -31.00374 z m 31.00373,-279.0011 V 589.0025 h -31.00373 v 30.99561 z m 61.99935,-61.99935 V 527.00315 H 774.9987 v 30.99561 z M 774.9987,527.00315 v -31.00373 -30.99561 h -30.99561 v -31.00373 h -31.00373 v 31.00373 30.99561 h 31.00373 v 31.00373 z m -30.99561,0 h -31.00373 v 30.99561 h 31.00373 z m -31.00373,0 v -31.00373 h -30.99561 v -30.99561 -31.00373 h -31.00374 -31.00373 v 31.00373 h 31.00373 v 30.99561 31.00373 h 31.00374 z M 619.99628,465.00381 H 589.00067 557.99694 V 402.99634 H 543.0355 527.00133 465.00198 v 31.00374 h 61.99935 v 61.99934 h -31.00374 v 31.00373 h 31.00374 30.99561 v -31.00373 h 31.00373 v 31.00373 h 30.99561 z m -30.99561,61.99934 h -31.00373 v 30.99561 31.00374 h -30.99561 v 30.99561 h -31.00374 v 31.00373 h -30.99561 v -31.00373 h -31.00373 -30.99561 v 31.00373 h 30.99561 v 30.99561 H 341.0033 v -61.99934 h 61.99934 V 589.0025 557.99876 h 30.99561 v -30.99561 h 31.00373 v -31.00373 h 30.99561 v -30.99561 h -30.99561 v -31.00373 h -31.00373 v 31.00373 h -30.99561 v 30.99561 h -31.00373 v 31.00373 H 341.0033 v 30.99561 h 30.99561 V 589.0025 H 341.0033 v -31.00374 h -31.00374 -30.99561 v 93.00308 h -31.00373 v 154.9943 h 31.00373 v -30.99561 -31.00374 h 30.99561 v 31.00374 h 31.00374 v -61.99935 h 30.99561 v 30.99561 h 31.00373 v -30.99561 h 30.99561 v 61.99935 h -30.99561 v 30.99561 h -31.00373 v 31.00373 h -61.99935 v 61.99934 h 93.00308 v -30.9956 h 30.99561 v -62.00747 h 31.00373 v -30.99561 h 30.99561 v -31.00374 h -30.99561 v -30.99561 h 30.99561 v -31.00373 h 31.00374 92.99495 v 30.99561 h 31.00373 v -30.99561 h 31.00374 V 557.99876 h -31.00374 v 31.00374 h -31.00373 -30.99561 v -31.00374 z m 93.00308,154.9943 v 31.00373 h -31.00374 v 30.99561 h -31.00373 -30.99561 v -30.99561 h -31.00373 v 30.99561 h -30.99561 v 31.00374 h 30.99561 31.00373 v 30.99561 h 30.99561 31.00373 v -30.99561 h 31.00374 v -31.00374 h 30.99561 v -30.99561 -31.00373 z m -155.00242,93.00308 h -31.00374 v 30.99561 31.00373 h 31.00374 v -31.00373 z m -31.00374,61.99934 h -30.99561 v 31.00374 h 30.99561 z m 0,31.00374 v 30.9956 h 31.00374 v -30.9956 z m 31.00374,30.9956 v 31.00374 30.99561 h -31.00374 -30.99561 v -30.99561 h 30.99561 v -31.00374 h -30.99561 v -30.9956 h -31.00373 v 30.9956 h -30.99561 v 31.00374 H 371.99891 341.0033 v 30.99561 31.00373 h 30.99561 v -31.00373 h 31.00373 v 31.00373 h 30.99561 v 30.99561 h 31.00373 v -30.99561 h 30.99561 31.00374 30.99561 v 30.99561 h 31.00373 v -30.99561 -31.00373 h -31.00373 v -30.99561 -31.00374 z m 0,-155.00242 v -30.99561 h -31.00374 v 30.99561 z M 309.99956,898.99921 h -30.99561 -31.00373 v 31.00374 h 31.00373 30.99561 z m 93.00308,-433.9954 v -31.00373 h -31.00373 v 31.00373 z m 0,-31.00373 h 30.99561 v -31.00374 h -30.99561 z m 0,-31.00374 v -30.99561 h -31.00373 v 30.99561 z m 61.99934,217.00177 h 30.99561 V 589.0025 h -30.99561 z m 30.99561,-30.99561 h 31.00374 V 557.99876 H 495.99759 Z M 154.99714,527.00315 H 124.00153 V 495.99942 465.00381 H 92.997798 v 30.99561 31.00373 30.99561 H 62.00219 v 31.00374 h 30.995608 v 30.99561 H 124.00153 V 589.0025 h 30.99561 v -31.00374 z m 0,61.99935 v 30.99561 h -30.99561 v 31.00373 30.99561 h 30.99561 v 31.00373 h 31.00374 30.9956 v -31.00373 h -30.9956 v -30.99561 h 30.9956 v -31.00373 h -30.9956 V 589.0025 Z m 31.00374,0 h 30.9956 v 30.99561 h 31.00374 V 589.0025 557.99876 h -31.00374 -30.9956 z M 92.997798,619.99811 H 62.00219 v 31.00373 H 30.998455 v 30.99561 H 0.00284687 v 31.00373 H 30.998455 v 30.99561 H 62.00219 V 713.00118 681.99745 H 92.997798 V 651.00184 Z M 30.998455,743.99679 H 0.00284687 v 31.00374 H 30.998455 Z M 62.00219,619.99811 V 589.0025 H 30.998455 0.00284687 v 30.99561 H 30.998455 Z M 30.998455,372.00073 H 62.00219 V 340.997 H 92.997798 124.00153 V 310.00139 H 92.997798 V 278.99765 H 62.00219 v 31.00374 H 30.998455 V 340.997 Z m 61.999343,-93.00308 h 31.003732 v -30.9956 H 92.997798 Z m 123.998682,31.00374 h -30.9956 V 340.997 h 30.9956 z m -30.9956,0 v -31.00374 h 30.9956 v -30.9956 h -30.9956 -31.00374 v 30.9956 31.00374 z M 309.99956,186.0027 v 30.99561 H 341.0033 V 186.0027 Z M 0.00284687,248.00205 v 30.9956 H 30.998455 v -30.9956 z M 309.99956,278.99765 h 31.00374 v 31.00374 h -31.00374 z m 185.99803,31.00374 V 340.997 h -30.99561 -31.00373 v 31.00373 h 31.00373 30.99561 31.00374 30.99561 V 340.997 310.00139 h -30.99561 z m 123.99869,309.99672 h 31.00373 v 31.00373 h -31.00373 z m -340.99233,61.99934 h 30.99561 v 31.00373 H 279.00395 Z M 92.997798,743.99679 v 31.00374 h 31.003732 30.99561 v -31.00374 h -30.99561 z m 93.003082,0 v 31.00374 h 30.9956 v -31.00374 z m 588.99782,31.00374 h 31.00374 30.9956 31.00374 v 30.99561 31.00373 31.00374 h -31.00374 -30.9956 -31.00374 v -31.00374 -31.00373 z m 31.00374,30.99561 v 31.00373 h 30.9956 v -31.00373 z m -558.00222,31.00373 v 31.00374 h 31.00373 v -31.00374 z m 744.00025,31.00374 v 30.9956 h 30.99563 v -30.9956 z m 0,61.99934 v 30.99561 h 30.99563 v -30.99561 z m -712.99652,30.99561 v 31.00373 h -31.00373 v 30.99561 h 31.00373 30.99561 v -30.99561 -31.00373 z m 340.99233,0 v 31.00373 30.99561 h 31.00373 31.00374 v -30.99561 -31.00373 h -31.00374 z m 186.00616,31.00373 v 30.99561 h 30.9956 v -30.99561 z m 154.99429,0 v 30.99561 h 31.00374 v -30.99561 z" /><g
+           transform="scale(2.17)"
+           id="g892"
+           style="fill:#ffffff"><g
+             style="fill:#ffffff"
+             id="g891">
+<g
+   id="g890"
+   style="fill:#ffffff">
+	<rect
+   x="15"
+   y="15"
+   style="fill:none"
+   width="70"
+   height="70"
+   id="rect889" />
+	<path
+   d="M 85,0 H 15 0 v 15 70 15 h 15 70 15 V 85 15 0 Z m 0,85 H 15 V 15 h 70 z"
+   id="path889"
+   style="fill:#ffffff" />
+</g>
+</g></g><g
+           transform="matrix(2.17,0,0,2.17,806,0)"
+           id="g895"
+           style="fill:#ffffff"><g
+             style="fill:#ffffff"
+             id="g894">
+<g
+   id="g893"
+   style="fill:#ffffff">
+	<rect
+   x="15"
+   y="15"
+   style="fill:none"
+   width="70"
+   height="70"
+   id="rect892" />
+	<path
+   d="M 85,0 H 15 0 v 15 70 15 h 15 70 15 V 85 15 0 Z m 0,85 H 15 V 15 h 70 z"
+   id="path892"
+   style="fill:#ffffff" />
+</g>
+</g></g><g
+           transform="matrix(2.17,0,0,2.17,0,806)"
+           id="g898"
+           style="fill:#ffffff"><g
+             style="fill:#ffffff"
+             id="g897">
+<g
+   id="g896"
+   style="fill:#ffffff">
+	<rect
+   x="15"
+   y="15"
+   style="fill:none;fill-opacity:1;stroke:none"
+   width="70"
+   height="70"
+   id="rect895" />
+	<path
+   d="M 85,0 H 15 0 v 15 70 15 h 15 70 15 V 85 15 0 Z m 0,85 H 15 V 15 h 70 z"
+   id="path895"
+   style="fill:#ffffff" />
+</g>
+</g></g><g
+           transform="matrix(0.93,0,0,0.93,62,62)"
+           id="g900"
+           style="fill:#ffffff"><g
+             style="fill:#ffffff"
+             id="g899">
+<rect
+   width="100"
+   height="100"
+   id="rect898"
+   x="0"
+   y="0"
+   style="fill:#ffffff" />
+</g></g><g
+           transform="matrix(0.93,0,0,0.93,868,62)"
+           id="g902"
+           style="fill:#ffffff"><g
+             style="fill:#ffffff"
+             id="g901">
+<rect
+   width="100"
+   height="100"
+   id="rect900"
+   x="0"
+   y="0"
+   style="fill:#ffffff" />
+</g></g><g
+           transform="matrix(0.93,0,0,0.93,62,868)"
+           id="g904"
+           style="fill:#ffffff"><g
+             style="fill:#ffffff"
+             id="g903">
+<rect
+   width="100"
+   height="100"
+   id="rect902"
+   x="0"
+   y="0"
+   style="fill:#ffffff" />
+</g></g></g></g><rect
+       style="fill:#1976d2;fill-opacity:1;stroke:none;stroke-width:1.32292"
+       id="rect6-7"
+       width="101.95538"
+       height="12.776958"
+       x="502.04462"
+       y="210.30873"
+       ry="0.29618785" /><rect
+       style="fill:#1976d2;fill-opacity:1;stroke:none;stroke-width:1.32292"
+       id="rect7-8"
+       width="97.662033"
+       height="13.394403"
+       x="404.38257"
+       y="209.69128"
+       ry="0.29618785" /><rect
+       style="fill:#1976d2;fill-opacity:1;stroke:none;stroke-width:1.32292"
+       id="rect8-9"
+       width="97.382553"
+       height="12.776962"
+       x="307"
+       y="210.30873"
+       ry="0.29618785" /><g
+       id="g914"
+       transform="translate(-1.4606144)"
+       style="fill:#ffffff"><text
+         xml:space="preserve"
+         style="font-size:13.9514px;line-height:0.2;font-family:'Anton SC';-inkscape-font-specification:'Anton SC, Normal';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.6159"
+         x="247.74327"
+         y="81.271614"
+         id="text3"><tspan
+           id="tspan3"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.6159"
+           x="249.3782"
+           y="81.271614"
+           sodipodi:role="line">STOP KILLING </tspan></text><text
+         xml:space="preserve"
+         style="font-size:26.0033px;line-height:0.2;font-family:'Anton SC';-inkscape-font-specification:'Anton SC, Normal';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.87562"
+         x="247.72762"
+         y="105.35739"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:4.87562"
+           x="247.72762"
+           y="105.35739">GAMES</tspan></text><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.08201px;line-height:1;font-family:'Anton SC';-inkscape-font-specification:'Anton SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.228075;stroke-dasharray:none"
+         x="247.42351"
+         y="111.54058"
+         id="text907"><tspan
+           sodipodi:role="line"
+           id="tspan907"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.08201px;font-family:'Anton SC';-inkscape-font-specification:'Anton SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.228075;stroke-dasharray:none"
+           x="247.42351"
+           y="111.54058">European Citizens' Initiative</tspan></text></g><path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 174.71577,94.312956 c 2.42249,11.805594 0.85224,14.638874 -2.99816,18.707284"
+       id="path907"
+       sodipodi:nodetypes="cc" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:'Anton SC';-inkscape-font-specification:'Anton SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;white-space:pre;inline-size:44.1852;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       x="314.67221"
+       y="29.803797"
+       id="text908"
+       transform="matrix(2.8489822,0,0,2.8489822,-585.81989,-55.396443)"><tspan
+         x="314.67221"
+         y="29.803797"
+         id="tspan169">Videospiele </tspan><tspan
+         x="314.67221"
+         y="36.859358"
+         id="tspan170">werden </tspan><tspan
+         x="314.67221"
+         y="43.914919"
+         id="tspan171">zerstört!</tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,3.8435927,-10.583333)"
+       id="text914"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;white-space:pre;shape-inside:url(#rect914);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none"
+       x="0"
+       y="0"><tspan
+         x="1175.0566"
+         y="351.65628"
+         id="tspan173"><tspan
+           dx="0 0 0 0 9.6194572 0 0 0 0 0 0 0 0 9.6194687 0 0 0 0 0 9.6194534"
+           id="tspan172">Der Großteil aller Video-</tspan></tspan><tspan
+         x="1175.0566"
+         y="378.32296"
+         id="tspan175"><tspan
+           dx="0 0 0 0 0 0 0 14.311996 0 0 0 0 0 0 0 0 0 0 0 0 14.311989"
+           id="tspan174">spiele funktioniert ewig, </tspan></tspan><tspan
+         x="1175.0566"
+         y="404.98965"
+         id="tspan177"><tspan
+           dx="0 0 0 0 0 6.2644191 0 0 0 0 6.2644191 0 0 0 0 0 6.2644267"
+           id="tspan176">aber eine immer größere </tspan></tspan><tspan
+         x="1175.0566"
+         y="431.65634"
+         id="tspan179"><tspan
+           dx="0 0 0 0 0 0 0 27.952812 0 0 0 0 27.952812 0 0 27.952827"
+           id="tspan178">Anzahl wird so ent-</tspan></tspan><tspan
+         x="1175.0566"
+         y="458.32302"
+         id="tspan181"><tspan
+           dx="0 0 0 0 0 0 0 0 0 16.945854 0 0 0 0 16.945854 0 0 0 16.945854"
+           id="tspan180">wickelt, dass sie nicht </tspan></tspan><tspan
+         x="1175.0566"
+         y="484.98971"
+         id="tspan184"><tspan
+           dx="0 0 0 0 0 4.9189296 0 0 0 0 0 0 0 0 4.9189219"
+           id="tspan182">mehr spielbar sind, </tspan><tspan
+           dx="4.9189372"
+           id="tspan183">wenn </tspan></tspan><tspan
+         x="1175.0566"
+         y="511.6564"
+         id="tspan187"><tspan
+           dx="0 0 0 0 32.163586"
+           id="tspan185">die Herausgeber </tspan><tspan
+           dx="32.163567"
+           id="tspan186">den </tspan></tspan><tspan
+         x="1175.0566"
+         y="538.32308"
+         id="tspan190"><tspan
+           dx="0 0 0 0 0 0 0 0 14.533356"
+           id="tspan188">Support einstellen. </tspan><tspan
+           dx="14.533363"
+           id="tspan189">Dies </tspan></tspan><tspan
+         x="1175.0566"
+         y="564.98977"
+         id="tspan193"><tspan
+           dx="0 0 0 0 0 0 0 0 37.293793"
+           id="tspan191">beraubt die </tspan><tspan
+           dx="37.293785"
+           id="tspan192">Kunden, </tspan></tspan><tspan
+         x="1175.0566"
+         y="591.65646"
+         id="tspan196"><tspan
+           dx="0 0 0 0 0 0 0 0 0 48.49173"
+           id="tspan194">zerstört Spiele </tspan><tspan
+           dx="48.491707"
+           id="tspan195">als </tspan></tspan><tspan
+         x="1175.0566"
+         y="618.32315"
+         id="tspan198"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 50.119331 0 0 0 50.119316"
+           id="tspan197">Kulturerbe und ist </tspan></tspan><tspan
+         x="1175.0566"
+         y="644.98983"
+         id="tspan199">unnötig.
+</tspan><tspan
+         x="1175.0566"
+         y="671.65652"
+         id="tspan200">
+</tspan><tspan
+         x="1175.0566"
+         y="698.32321"
+         id="tspan202"><tspan
+           dx="0 0 0 14.516033 0 0 0 14.516037 0 0 14.516029 0 0 0 0 0 0 0 14.516014"
+           id="tspan201">Um das in Zukunft zu </tspan></tspan><tspan
+         x="1175.0566"
+         y="724.98989"
+         id="tspan204"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 12.638817 0 0 0 0 0 0 0 0 12.638817"
+           id="tspan203">verhindern brauchen wir </tspan></tspan><tspan
+         x="1175.0566"
+         y="751.65658"
+         id="tspan205">DEINE Hilfe!</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:'Anton SC';-inkscape-font-specification:'Anton SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;white-space:pre;inline-size:63.0324;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       x="314.67221"
+       y="29.803797"
+       id="text915"
+       transform="matrix(0,-2.8489822,2.8489822,0,-62.711308,1045.1596)"><tspan
+         x="314.67221"
+         y="29.803797"
+         id="tspan206">Unser Vorschlag</tspan></text><g
+       id="g926"
+       transform="translate(-1.5875001,1.1641112)"><text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-50.060817,-182.7222)"
+         id="text923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;white-space:pre;shape-inside:url(#rect923);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none"><tspan
+           x="294.36914"
+           y="752.99221"
+           id="tspan208">Videospiele <tspan
+   dx="9.2783432"
+   id="tspan207">müssen </tspan></tspan><tspan
+           x="294.36914"
+           y="779.6589"
+           id="tspan211"><tspan
+             dx="0 0 0 0 0 3.5137897"
+             id="tspan209">auch nach </tspan><tspan
+             dx="3.5137858 0 0 0 0 3.5138011"
+             id="tspan210">Ende des </tspan></tspan><tspan
+           x="294.36914"
+           y="806.32559"
+           id="tspan213">Supports <tspan
+   dx="25.254936"
+   id="tspan212">weiterhin </tspan></tspan><tspan
+           x="294.36914"
+           y="832.99227"
+           id="tspan214">funktionieren
+</tspan></text><text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-50.060817,-143.66479)"
+         id="text925"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;white-space:pre;shape-inside:url(#rect925);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none"><tspan
+           x="294.36914"
+           y="752.99221"
+           id="tspan216"><tspan
+             dx="0 0 0 0 0 0.56104231 0 0 0 0 0 0 0 0 0 0 0.56104231"
+             id="tspan215">Eine Verbindung zum </tspan></tspan><tspan
+           x="294.36914"
+           y="779.6589"
+           id="tspan218"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 44.767967"
+             id="tspan217">Herausgeber darf </tspan></tspan><tspan
+           x="294.36914"
+           y="806.32559"
+           id="tspan220"><tspan
+             dx="0 0 0 0 0 39.083229 0 0 0 0 39.083229"
+             id="tspan219">nach Ende des </tspan></tspan><tspan
+           x="294.36914"
+           y="832.99227"
+           id="tspan222"><tspan
+             dx="0 0 0 0 0 0 0 0 0 74.103951"
+             id="tspan221">Supports keine </tspan></tspan><tspan
+           x="294.36914"
+           y="859.65896"
+           id="tspan224"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 16.083046"
+             id="tspan223">Voraussetzung zum </tspan></tspan><tspan
+           x="294.36914"
+           y="886.32565"
+           id="tspan225">Spielen sein</tspan></text><text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-50.060817,-89.05965)"
+         id="text926"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;white-space:pre;shape-inside:url(#rect926);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none"><tspan
+           x="294.36914"
+           y="752.99221"
+           id="tspan227"><tspan
+             dx="0 0 0 0 17.635334 0 0 0 0 0 0 0 0 17.635338 0 0 17.635338"
+             id="tspan226">Ein Eingriff in die </tspan></tspan><tspan
+           x="294.36914"
+           y="779.6589"
+           id="tspan228">Geschäftspraktiken, </tspan><tspan
+           x="294.36914"
+           y="806.32559"
+           id="tspan230"><tspan
+             dx="0 0 0 0 0 0 0 0 21.550652 0 0 0 21.550652"
+             id="tspan229">solange das Spiel </tspan></tspan><tspan
+           x="294.36914"
+           y="832.99227"
+           id="tspan232"><tspan
+             dx="0 0 0 0 0 0 7.8592219 0 0 0 7.8592372"
+             id="tspan231">aktiv vom Hersteller </tspan></tspan><tspan
+           x="294.36914"
+           y="859.65896"
+           id="tspan234"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 12.208199 0 0 0 0 0 12.208199"
+             id="tspan233">unterstützt wird, ist </tspan></tspan><tspan
+           x="294.36914"
+           y="886.32565"
+           id="tspan235">nicht vorgesehen</tspan></text></g><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       x="105.69516"
+       y="51.948391"
+       id="text927"><tspan
+         sodipodi:role="line"
+         style="stroke-width:1.05833;-inkscape-font-specification:'Roboto, Normal';font-family:Roboto;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7.05555993px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="105.69516"
+         y="51.948391"
+         id="tspan928">Für mehr Informationen:</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:'Anton SC';-inkscape-font-specification:'Anton SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       x="105.62528"
+       y="59.879311"
+       id="text929"><tspan
+         sodipodi:role="line"
+         id="tspan929"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Anton SC';-inkscape-font-specification:'Anton SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.05833"
+         x="105.62528"
+         y="59.879311">StopKillingGames.com</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:'Anton SC';-inkscape-font-specification:'Anton SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;white-space:pre;inline-size:44.1852;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       x="314.67221"
+       y="29.803797"
+       id="text930"
+       transform="matrix(2.8489822,0,0,2.8489822,-487.07196,-55.107441)"><tspan
+         x="314.67221"
+         y="29.803797"
+         id="tspan236">FAQ</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:106.9;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32292"
+       x="111.41089"
+       y="42.880173"
+       id="text931"
+       transform="matrix(0.84282007,-0.48660239,0.48660239,0.84282007,15.383789,128.3896)"><tspan
+         x="111.41089"
+         y="42.880173"
+         id="tspan237">Jetzt die Europäische</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:'Anton SC';-inkscape-font-specification:'Anton SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;white-space:pre;inline-size:56.9476;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       x="408.57138"
+       y="46.301521"
+       id="text932"
+       transform="translate(0,-5.2916667)"><tspan
+         x="408.57138"
+         y="46.301521"
+         id="tspan239"><tspan
+           dx="0 0 0 0 0.1428169 0 0 0 0 0.1428169 0 0 0 0 0 0.1428169"
+           id="tspan238">Wie wird diese Kampagne </tspan></tspan><tspan
+         x="408.57138"
+         y="51.945962"
+         id="tspan240">Videospiele retten?</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;white-space:pre;inline-size:84.1607;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       x="411.45416"
+       y="62.570755"
+       id="text933"
+       transform="translate(0,-10.583333)"><tspan
+         x="411.45416"
+         y="62.570755"
+         id="tspan243"><tspan
+           dx="0 0 0 0 0 1.3373818 0 0 0 0 0 0 0 0 0 0 0 1.3373857 0 0 0 0 0 0 0 1.3373818"
+           id="tspan241">Wenn Unternehmen Strafen dafür </tspan><tspan
+           dx="1.3373818"
+           id="tspan242">erhalten, </tspan></tspan><tspan
+         x="411.45416"
+         y="66.804087"
+         id="tspan246"><tspan
+           dx="0 0 0 0 0 2.4643416 0 0 0 2.4643407 0 0 0 0 0 0 2.4643426 0 0 0 2.4643426"
+           id="tspan244">dass sie Kopien von verkauften </tspan><tspan
+           dx="2.4643426"
+           id="tspan245">Spielen </tspan></tspan><tspan
+         x="411.45416"
+         y="71.037416"
+         id="tspan249"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 2.6401448 0 0 0 0 2.6401429 0 0 0 0 2.6401467"
+           id="tspan247">zerstören, wird dies sehr </tspan><tspan
+           dx="2.6401429"
+           id="tspan248">wahrscheinlich </tspan></tspan><tspan
+         x="411.45416"
+         y="75.270746"
+         id="tspan252"><tspan
+           dx="0 0 0 0 0 0 0 2.8499503"
+           id="tspan250">dieses Verhalten </tspan><tspan
+           dx="2.8499513 0 0 0 0 0 0 0 0 0 0 2.8499475 0 0 0 0 2.8499513"
+           id="tspan251">eindämmen. Wenn ein </tspan></tspan><tspan
+         x="411.45416"
+         y="79.504076"
+         id="tspan254">Unternehmen <tspan
+   dx="1.8303742 0 0 0 0 0 0 0 0 0 1.8303742 0 0 0 0 1.8303723 0 0 0 0 0 0 1.83038"
+   id="tspan253">gezwungen ist, Kunden ihre </tspan></tspan><tspan
+         x="411.45416"
+         y="83.737406"
+         id="tspan257"><tspan
+           dx="0 0 0 0 0 0 0 0.1529603 0 0 0.1529603"
+           id="tspan255">Spiele in nur </tspan><tspan
+           dx="0.1529603 0 0 0 0 0 0.1529603 0 0 0 0 0.15295839 0 0 0.15296221 0 0 0 0 0 0 0 0 0 0.1529603"
+           id="tspan256">einem Land zu erlauben, werden </tspan></tspan><tspan
+         x="411.45416"
+         y="87.970736"
+         id="tspan259">diese <tspan
+   dx="0.64739943 0 0 0 0 0 0 0 0 0 0 0 0.64739943 0 0 0 0 0 0 0 0 0.64740324 0 0 0.64739943 0 0 0 0 0 0.64739561"
+   id="tspan258">Reparaturen weltweit zu einer trivialen </tspan></tspan><tspan
+         x="411.45416"
+         y="92.204065"
+         id="tspan261"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 2.3864141 0 0 0 2.386416 0 0 0 0 2.3864121 0 0 0 0 2.386416 0 0 2.3864083 0 0 0 0 2.386416"
+           id="tspan260">Angelegenheit für sie. Wenn es also in </tspan></tspan><tspan
+         x="411.45416"
+         y="96.437395"
+         id="tspan264"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0.20394754 0 0 0 0 0 0 0 0.20394754 0 0 0 0 0 0.20394754 0 0 0 0.20394754 0 0 0 0 0 0.20394754"
+           id="tspan262">Frankreich illegal wäre, ein Spiel zu </tspan><tspan
+           dx="0.20394373"
+           id="tspan263">zerstören, </tspan></tspan><tspan
+         x="411.45416"
+         y="100.67072"
+         id="tspan266"><tspan
+           dx="0 0 0 0 4.9468756 0 0 0 4.9468751 0 0 0 4.9468751 0 0 0 0 0 0 0 4.9468751 0 0 0 0 4.9468789"
+           id="tspan265">für das man bezahlt hat, würden </tspan></tspan><tspan
+         x="411.45416"
+         y="104.90405"
+         id="tspan269"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0.6403718 0 0 0 0.6403718 0 0 0 0.6403718 0 0 0 0 0 0.6403718"
+           id="tspan267">Unternehmen, die das Spiel gepatcht </tspan><tspan
+           dx="0.64037561"
+           id="tspan268">haben, </tspan></tspan><tspan
+         x="411.45416"
+         y="109.13738"
+         id="tspan272"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.5254846 0 0 0 1.5254846 0 0 0 0 0 0 0 0 1.5254846"
+           id="tspan270">wahrscheinlich den gleichen Patch </tspan><tspan
+           dx="1.5254846 0 0 0 1.5254846"
+           id="tspan271">für die </tspan></tspan><tspan
+         x="411.45416"
+         y="113.37071"
+         id="tspan273">Spiele weltweit anwenden.</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:'Anton SC';-inkscape-font-specification:'Anton SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;white-space:pre;inline-size:81.1662;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       x="408.57138"
+       y="46.301521"
+       id="text934"
+       transform="translate(0,74.083337)"><tspan
+         x="408.57138"
+         y="46.301521"
+         id="tspan275"><tspan
+           dx="0 0 0 0 0 0 0 0 1.9629215 0 0 0 0 1.9629215 0 0 0 1.9629196 0 0 0 0 0 0 0 0 1.9629196"
+           id="tspan274">Möchtet Ihr, das Anbieter Spiele </tspan></tspan><tspan
+         x="408.57138"
+         y="51.945962"
+         id="tspan276">für immer betreiben müssen ?</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;white-space:pre;inline-size:84.1607;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       x="411.45416"
+       y="62.570755"
+       id="text935"
+       transform="translate(0,68.79167)"><tspan
+         x="411.45416"
+         y="62.570755"
+         id="tspan278"><tspan
+           dx="0 0 0 0 0 0 1.2850184 0 0 0 1.2850175 0 0 0 0 0 0 0 1.2850175 0 0 0 1.2850175 0 0 0 0 0 0 0 0 0 1.2850213 0 0 0 0 0 0 1.2850213"
+           id="tspan277">Nein, das fordern wir überhaupt nicht. Wir </tspan></tspan><tspan
+         x="411.45416"
+         y="66.804087"
+         id="tspan281"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0.48678827 0 0 0 0 0.48678827 0 0 0 0 0 0 0 0.48678827"
+           id="tspan279">befürworten, dass Verlage die </tspan><tspan
+           dx="0.48678827"
+           id="tspan280">Unterstützung </tspan></tspan><tspan
+         x="411.45416"
+         y="71.037416"
+         id="tspan284"><tspan
+           dx="0 0 0 0 2.3767672 0 0 0 2.3767676 0 0 0 0 0 2.3767686 0 0 0 0 0 0 0 0 2.3767648"
+           id="tspan282">für ein Spiel beenden, wann </tspan><tspan
+           dx="2.3767686 0 0 0 0 0 2.3767648"
+           id="tspan283">immer sie </tspan></tspan><tspan
+         x="411.45416"
+         y="75.270746"
+         id="tspan287"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0.41045809 0 0 0 0.41045618 0 0 0 0.41045618 0 0 0 0 0 0 0 0 0.41046"
+           id="tspan285">möchten. Was wir fordern, ist </tspan><tspan
+           dx="0.41046 0 0 0 0 0.41045618 0 0 0 0.41045618"
+           id="tspan286">dass sie einen </tspan></tspan><tspan
+         x="411.45416"
+         y="79.504076"
+         id="tspan289">End-of-Life-Plan <tspan
+   dx="3.0743966 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.0744004 0 0 3.0743966"
+   id="tspan288">implementieren, um das </tspan></tspan><tspan
+         x="411.45416"
+         y="83.737406"
+         id="tspan292"><tspan
+           dx="0 0 0 0 0 0 0.4454484"
+           id="tspan290">Spiel zu </tspan><tspan
+           dx="0.44544935 0 0 0 0 0 0 0 0 0 0 0 0 0.4454484 0 0 0 0 0.4454484 0 0 0.4454484 0 0 0 0 0 0 0 0 0.44544458"
+           id="tspan291">modifizieren oder zu patchen, damit </tspan></tspan><tspan
+         x="411.45416"
+         y="87.970736"
+         id="tspan295"><tspan
+           dx="0 0 0 3.7041602"
+           id="tspan293">es auf </tspan><tspan
+           dx="3.7041602 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.7041631 0 0 0 0 3.7041593"
+           id="tspan294">Kundensystemen ohne weitere </tspan></tspan><tspan
+         x="411.45416"
+         y="92.204065"
+         id="tspan297"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 4.0789857 0 0 0 0 0 4.0789857 0 0 0 4.0789857"
+           id="tspan296">Unterstützung durch das Unternehmen </tspan></tspan><tspan
+         x="411.45416"
+         y="96.437395"
+         id="tspan299"><tspan
+           dx="0 0 0 0 0 0 0 2.5845065 0 0 0 0 0 2.5845075 0 0 0 2.5845056 0 0 0 0 0 0 0 2.5845094 0 0 0 2.5845056 0 0 0 0 2.5845056"
+           id="tspan298">laufen kann. Wir stimmen zu, dass es </tspan></tspan><tspan
+         x="411.45416"
+         y="100.67072"
+         id="tspan301"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.7568707 0 0 0 0 3.7568688 0 0 0 3.7568688 0 0 0 0 0 0 0 0 0 0 0 3.7568688"
+           id="tspan300">unrealistisch ist, von Unternehmen zu </tspan></tspan><tspan
+         x="411.45416"
+         y="104.90405"
+         id="tspan303"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 1.1410127 0 0 0 0 1.1410127 0 0 0 1.1410127 0 0 0 0 0 0 1.1410127 0 0 0 1.1410127"
+           id="tspan302">erwarten, dass sie Spiele auf unbestimmte </tspan></tspan><tspan
+         x="411.45416"
+         y="109.13738"
+         id="tspan305"><tspan
+           dx="0 0 0 0 0 1.9957404 0 0 0 0 0 0 0 0 0 0 0 0 0 1.9957414 0 0 0 1.9957414 0 0 0 1.9957414 0 0 0 0 0 0 1.9957376 0 0 0 1.9957376"
+           id="tspan304">Zeit unterstützen, und wir setzen uns in </tspan></tspan><tspan
+         x="411.45416"
+         y="113.37071"
+         id="tspan306">keiner Weise dafür ein.</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:'Anton SC';-inkscape-font-specification:'Anton SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;white-space:pre;inline-size:87.0439;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       x="408.57138"
+       y="46.301521"
+       id="text936"
+       transform="translate(100.54167,-32.279168)"><tspan
+         x="408.57138"
+         y="46.301521"
+         id="tspan308"><tspan
+           dx="0 0 0 0 0 1.8653301 0 0 0 1.8653301 0 0 0 0 0 0 0 0 1.8653282 0 0 0 0 0 0 0 0 0 1.865332"
+           id="tspan307">Kann man wirklich erwarten, dass </tspan></tspan><tspan
+         x="408.57138"
+         y="51.945962"
+         id="tspan310"><tspan
+           dx="0 0 0 0 0 0.67539632 0 0 0 0 0 0 0 0 0 0 0.67539442 0 0 0.67539442 0 0 0 0 0 0.67539442"
+           id="tspan309">alle Funktionen in einem Online-only-</tspan></tspan><tspan
+         x="408.57138"
+         y="57.590402"
+         id="tspan312"><tspan
+           dx="0 0 0 0 0 0 7.5472608 0 0 0 0 0 0 0 0 0 0 0 0 0 7.5472589 0 0 0 0 7.547255"
+           id="tspan311">Spiel funktionieren wenn die </tspan></tspan><tspan
+         x="408.57138"
+         y="63.234842"
+         id="tspan313">Unterstützung endet?</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;white-space:pre;inline-size:84.1607;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       x="411.45416"
+       y="62.570755"
+       id="text937"
+       transform="translate(100.54167,-25.929166)"><tspan
+         x="411.45416"
+         y="62.570755"
+         id="tspan316"><tspan
+           dx="0 0 0 0 0 0 0.93761492 0 0 0 0 0 0 0 0 0 0 0.93761301 0 0 0 0.93761301 0 0 0 0 0 0 0 0 0 0 0.93761683"
+           id="tspan314">Nicht unbedingt. Wir verstehen, dass </tspan><tspan
+           dx="0.9376092"
+           id="tspan315">einige </tspan></tspan><tspan
+         x="411.45416"
+         y="66.804087"
+         id="tspan318"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 7.3676724 0 0 0 7.3676705 0 0 0 0 0 7.3676705"
+           id="tspan317">Funktionen für einen Endbenutzer </tspan></tspan><tspan
+         x="411.45416"
+         y="71.037416"
+         id="tspan321"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0.75860834 0 0 0.75860834 0 0 0 0 0 0 0 0 0 0.75860834 0 0 0 0 0.75860834"
+           id="tspan319">unpraktisch zu erreichen sein können, </tspan><tspan
+           dx="0.75860834"
+           id="tspan320">wenn </tspan></tspan><tspan
+         x="411.45416"
+         y="75.270746"
+         id="tspan323"><tspan
+           dx="0 0 0 6.0366273 0 0 0 0 0 6.0366273 0 0 0 0 0 0 6.0366273 0 0 0 6.0366273 0 0 0 6.0366311"
+           id="tspan322">er einen Server nur auf einem </tspan></tspan><tspan
+         x="411.45416"
+         y="79.504076"
+         id="tspan325"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4.402823 0 0 0 0 0 0 0 0 0 4.402823"
+           id="tspan324">Endbenutzersystem betreibt. Gleichzeitig </tspan></tspan><tspan
+         x="411.45416"
+         y="83.737406"
+         id="tspan327"><tspan
+           dx="0 0 0 0 0 0 2.4446359 0 0 0 2.4446359 0 0 0 2.4446359 0 0 0 0 0 0 0 0 0 0 0 0 2.4446359 0 0 0 2.4446359 0 0 0 0 0 2.4446359"
+           id="tspan326">sehen wir die Möglichkeit, das Spiel in </tspan></tspan><tspan
+         x="411.45416"
+         y="87.970736"
+         id="tspan329"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 1.5945249 0 0 0 0 1.5945268 0 0 0 0 0 0 0 0 0 1.594523 0 0 1.594523 0 0 0 0 0 0 0 0 1.594523"
+           id="tspan328">irgendeiner Form weiterhin zu spielen, als </tspan></tspan><tspan
+         x="411.45416"
+         y="92.204065"
+         id="tspan332"><tspan
+           dx="0 0 0 0 0 0.47852087 0 0 0 0 0 0 0 0 0 0 0 0.47852182 0 0 0 0 0 0 0 0 0 0.47852182"
+           id="tspan330">eine vernünftige Forderung an </tspan><tspan
+           dx="0.47852182"
+           id="tspan331">Unternehmen, </tspan></tspan><tspan
+         x="411.45416"
+         y="96.437395"
+         id="tspan335"><tspan
+           dx="0 0 0 0 0 0 0.94292021 0 0 0 0.94292116 0 0 0 0 0 0 0.94291925"
+           id="tspan333">denen die Kunden Geld </tspan><tspan
+           dx="0.94292307 0 0 0 0 0 0 0 0.94292307 0 0 0 0 0 0 0.94292688"
+           id="tspan334">gegeben haben. Es </tspan></tspan><tspan
+         x="411.45416"
+         y="100.67072"
+         id="tspan338"><tspan
+           dx="0 0 0 0 0 2.5993199 0 0 0 0 0 2.5993199"
+           id="tspan336">gibt einen großen </tspan><tspan
+           dx="2.5993218 0 0 0 0 0 0 0 0 0 0 0 2.5993218"
+           id="tspan337">Unterschied zwischen </tspan></tspan><tspan
+         x="411.45416"
+         y="104.90405"
+         id="tspan341"><tspan
+           dx="0 0 0 0 0 0 0.5601697 0 0 0 0 0 0 0.5601716"
+           id="tspan339">einem Spiel, das </tspan><tspan
+           dx="0.5601697 0 0 0 0 0 0 0.5601716 0 0 0 0 0 0 0 0 0 0 0.5601716"
+           id="tspan340">einige Funktionen vermisst, </tspan></tspan><tspan
+         x="411.45416"
+         y="109.13738"
+         id="tspan343">gegenüber <tspan
+   dx="1.0218129 0 0 0 0 0 1.0218129 0 0 0 0 0 0 1.0218148 0 0 0 1.0218167 0 0 1.0218091 0 0 0 0 0 0 1.0218129"
+   id="tspan342">einem Spiel, das in keiner Form </tspan></tspan><tspan
+         x="411.45416"
+         y="113.37071"
+         id="tspan344">komplett unspielbar ist.</tspan></text><path
+       id="path940"
+       style="fill:#86b6e8;fill-opacity:1;stroke-width:2.31031"
+       d="m 306.53406,197.22304 c 48.32351,0 122.37001,11.38584 183.36277,3.79307 52.74273,-6.56574 74.14365,-22.96663 98.05247,-19.35129 8.95851,1.35465 15.92629,9.25831 16.05068,14.49988 l 0.29619,12.48078 c 0.004,0.16403 -0.1321,0.29618 -0.29619,0.29618 H 306.53406 c -0.16409,0 -0.29619,-0.1321 -0.29619,-0.29618 0.79717,-2.00791 -1.61072,-10.63503 0.29619,-11.42244 z"
+       sodipodi:nodetypes="sssssssss" /><path
+       id="rect937"
+       style="fill:#1976d2;stroke-width:2.31031"
+       d="m 306.53406,197.22304 c 48.32351,0 122.37001,11.38584 183.36277,3.79307 52.74273,-6.56574 78.109,-18.9612 97.13142,-16.08475 8.95851,1.35465 16.84734,7.05011 16.97173,12.29168 l 0.29619,12.48078 c 0.004,0.16403 -0.1321,0.29618 -0.29619,0.29618 H 306.53406 c -0.16409,0 -0.29619,-0.1321 -0.29619,-0.29618 v -12.18459 c 0,-0.16409 0.1321,-0.29619 0.29619,-0.29619 z"
+       sodipodi:nodetypes="ssssssssss" /><path
+       d="m 97.522407,210 v -10.68048 c -3.89985,0.59271 -7.9048,1.1683 -12.1481,1.69653 -27.06543,3.36928 -56.69613,2.99584 -85.51416045,1.5441 V 210 Z"
+       style="fill:#1976d2;stroke-width:2.31031"
+       id="path939" /><g
+       id="g945"
+       transform="matrix(0.05546149,0,0,0.05546149,561.36957,189.45205)"
+       style="fill:#ffffff;fill-opacity:1"><g
+         id="g941"
+         style="fill:#ffffff;fill-opacity:1">
+</g><g
+         id="g944"
+         style="fill:#ffffff;fill-opacity:1">
+	<g
+   id="g943"
+   style="fill:#ffffff;fill-opacity:1">
+		<path
+   id="path942"
+   class="st0"
+   d="M 63.2,25 63,6.1 c 0,0 0.2,-2 1.4,-3.1 1.2,-1.1 3.3,-1.6 3.3,-1.6 l 85.1,-0.2 c 0,0 2.9,0.2 4.3,1.6 1.4,1.4 1.9,4.5 1.9,4.5 l 0.2,15.4 -11.9,-1.6 c 0,0 -13.9,-6.8 -37.3,-6.8 C 86.6,14.3 63.3,25 63.2,25 Z m 38.7,123.4 -20.8,20.2 H 36.6 l 0.3,-38.7 45.4,-0.3 z m 7.6,7.6 20.2,20.8 v 44.5 L 91.1,221 90.8,175.6 Z m 7.6,-6.5 20.8,-20.2 h 44.5 l -0.3,38.6 -45.4,0.3 z m -7,-8.2 -20.2,-20.8 V 76 l 38.7,0.3 0.3,45.4 z m 92.5,78.8 h 84.9 l 19.3,-45.4 -6.4,-40.7 17.9,-28.7 H 301 c 0,0 -4.7,0 -4.7,-6.7 0,-6.7 4.4,-7 4.4,-7 h 17.9 l 5.9,-59.7 c 0,0 -139.1,2.9 -179.2,-7.3 -8.8,-2.9 -13.8,-6.7 -35.1,-6.7 -4.9,0 -10.6,0.5 -16.7,1.7 C 55.1,26.9 0,59.8 0,148.9 c 0,103.4 71.7,132.3 110.1,132.3 64.7,0.1 92.5,-61.1 92.5,-61.1 z M 230.4,105 c 0,0 -4.4,1.2 -4.4,-6.4 0,-7.6 4.1,-7 4.1,-7 h 26.7 c 0,0 5.3,0.3 5.3,7 0,6.7 -5,6.7 -5,6.7 z m 74.5,27.9 15.6,-26.5 11.1,-2 23.4,34.9 z m 3.7,3.2 71.6,8.8 -0.2,10.1 -24.6,22.6 -40.8,-1 z m 9,44.3 39.8,3.7 27.9,28.1 -23.2,13.1 -64.2,-3.7 z m 48,-40.8 -21.5,-32.4 2,-5.9 38.8,-11.3 12.1,37.3 c 0,0 -5.7,2.1 -8.2,6.6 -2.5,4.5 -3.3,8.6 -3.3,8.6 z m -37.9,-107.2 28.9,-0.8 2.3,58.6 -23.4,6.8 c 0,0 -0.4,-3.1 -1.8,-4.5 -1.4,-1.4 -3.9,-1.6 -3.9,-1.6 h -8.2 z m 35.4,1.6 38.1,-3.5 17.8,27.9 -36.3,25.2 -18,3.7 c -0.1,0 -1.6,-53.3 -1.6,-53.3 z m 54.1,-1.2 c 0,0 5.3,-0.4 8.4,-1 3.1,-0.6 13.3,-3.1 20.5,-5.9 7.2,-2.7 26.8,-2.3 26.8,-2.3 l -5.9,38.8 14.4,3.5 c 0,0 -5.1,15.4 -5.3,15.4 -0.2,0 -10.3,-1.8 -16.6,-0.2 -6.2,1.6 -9,5.5 -9,5.5 z m 10.7,36.1 12.3,19.9 c 0,0 -5.9,5.3 -5.7,14.2 0.2,9 6.1,15.4 6.1,15.4 l -15.2,11.3 c 0,0 -3.3,-3.9 -8.8,-4.3 -5.5,-0.4 -10.9,1.6 -10.9,1.6 L 393.2,93.8 Z m -57.4,107.6 22.1,-20.3 c 0,0 2,8 7.2,12.3 5.3,4.3 16.8,3.7 16.8,3.7 l 0.6,15.6 -19.9,12.9 z m 14.3,51.1 43.9,-21.3 c 0,0 8.8,5.3 8.8,5.1 0,-0.2 -10.5,34.8 -10.5,34.8 l -37.7,-8.8 z m 46.6,-80.6 18,-13.3 c 0,0 4.1,3.1 7.2,4.5 3.1,1.4 11.7,1.6 11.7,1.6 l -0.4,16.8 c 0,0 -26.4,6.2 -26.4,6.1 0,-0.2 -1.4,-5.9 -3.5,-9 -2.1,-3.2 -6.6,-6.7 -6.6,-6.7 z m 43,-42.4 4.9,-16.4 32,8 -7,26 h -15.6 c 0,0 -2,-6.4 -4.9,-10.4 -3,-3.8 -9.4,-7.2 -9.4,-7.2 z m 22.2,-47.2 16.4,-26 c 0,0 11.5,5.9 17.4,12.3 5.9,6.4 12.9,16.2 12.9,16.2 L 525.7,80 Z m 40.2,49 26.9,-39.2 c 0,0 8.6,9.4 12.9,22.1 4.3,12.7 5.9,26.3 5.9,26.3 l -25,16.2 z m 11.2,51 -15.4,-20.5 -11.1,-3.7 c 0,0 -1.4,5.9 -4.7,9.4 -3.3,3.5 -9.8,4.7 -9.8,4.7 l 9.8,13.7 c 0,0 5.9,-3.3 11.1,-2.9 5.3,0.4 11.7,5.9 11.7,5.9 z m -102.5,38.2 -0.2,-8.2 c 0,0 4.1,-1.4 6,-4.1 2,-2.7 2,-8 2,-8 l 11.9,-2.1 11.7,16.4 -3.7,3.5 c 0,0 -6.2,-6.1 -12.1,-3.3 -5.9,2.7 -7.8,9.4 -7.8,9.4 z m -2,46.7 37.1,2.9 c 0,0 -11.3,19.9 -11.3,19.7 0,-0.2 -9.4,-5.9 -13.9,-9.8 -4.5,-3.9 -11.9,-12.8 -11.9,-12.8 z m 56.2,18.1 15.4,-4.5 9.2,16.6 c 0,0 -6.2,3.5 -11.9,5.1 -5.7,1.6 -15.2,1 -15.2,1 z m 50.6,-13.8 18.2,-0.2 4.7,6.6 c 0,0 -4.5,6.1 -8.4,8.4 -3.9,2.3 -12.3,6.2 -12.3,6.2 z m -36.3,-20.5 27.7,-0.2 -10.3,-23.4 -6.1,-2.3 -10.3,9.8 c 0,0 2.5,3.9 2.5,8.2 0,4.3 -3.5,7.9 -3.5,7.9 z m 72.4,-23.5 7.4,11.1 5.7,-14.1 -5.9,-1.6 z m -32,-29.4 15.8,-20.5 c 0,0 5.1,11.1 6,17.8 1,6.6 0.4,19.5 0.4,19.5 l -16.8,-3.5 c 0,0 1,-4.1 -0.4,-7.6 -1.3,-3.6 -5,-5.7 -5,-5.7 z m -98.8,37.2 -2.3,18.9 24,1.9 -0.2,-9.2 c 0,0 -8.6,2.7 -12.9,-1.2 -4.3,-3.9 -4.7,-9.2 -4.5,-9.2 0.2,0 -4.1,-1.2 -4.1,-1.2 z m 55.5,-41.7 v 7.2 l 10,14.8 3.7,-3.9 c 0,0 -3.7,-3.1 -4.1,-6.4 -0.4,-3.3 1,-6.4 1,-6.4 l -7.8,-5.9 z m -84.4,-150.9 1,-14.4 c 0,0 0.4,-1.8 1.8,-2.5 1.4,-0.8 3.9,-0.8 3.9,-0.8 l 41.2,7.6 -0.4,10.1 c 0,0 -13.7,-2.9 -24.2,-3.1 -10.6,-0.2 -23.3,3.1 -23.3,3.1 z m 97.4,-7.8 22.5,5.9 c 0,0 1.8,0 3.5,2 1.8,2 0.4,5.7 0.6,5.7 0.2,0 -3.3,12.5 -3.3,12.1 0,-0.4 -6.2,-5.9 -11.1,-9.4 -4.9,-3.5 -11.9,-5.9 -11.9,-5.9 z"
+   style="fill:#ffffff;fill-opacity:1" />
+	<path
+   id="path943"
+   class="st0"
+   d="M 63.2,25 63,6.1 c 0,0 0.2,-2 1.4,-3.1 1.2,-1.1 3.3,-1.6 3.3,-1.6 l 85.1,-0.2 c 0,0 2.9,0.2 4.3,1.6 1.4,1.4 1.9,4.5 1.9,4.5 l 0.2,15.4 -11.9,-1.6 c 0,0 -13.9,-6.8 -37.3,-6.8 C 86.6,14.3 63.3,25 63.2,25 Z m 38.7,123.4 -20.8,20.2 H 36.6 l 0.3,-38.7 45.4,-0.3 z m 7.6,7.6 20.2,20.8 v 44.5 L 91.1,221 90.8,175.6 Z m 7.6,-6.5 20.8,-20.2 h 44.5 l -0.3,38.6 -45.4,0.3 z m -7,-8.2 -20.2,-20.8 V 76 l 38.7,0.3 0.3,45.4 z m 92.5,78.8 h 84.9 l 19.3,-45.4 -6.4,-40.7 17.9,-28.7 H 301 c 0,0 -4.7,0 -4.7,-6.7 0,-6.7 4.4,-7 4.4,-7 h 17.9 l 5.9,-59.7 c 0,0 -139.1,2.9 -179.2,-7.3 -8.8,-2.9 -13.8,-6.7 -35.1,-6.7 -4.9,0 -10.6,0.5 -16.7,1.7 C 55.1,26.9 0,59.8 0,148.9 c 0,103.4 71.7,132.3 110.1,132.3 64.7,0.1 92.5,-61.1 92.5,-61.1 z M 230.4,105 c 0,0 -4.4,1.2 -4.4,-6.4 0,-7.6 4.1,-7 4.1,-7 h 26.7 c 0,0 5.3,0.3 5.3,7 0,6.7 -5,6.7 -5,6.7 z m 74.5,27.9 15.6,-26.5 11.1,-2 23.4,34.9 z m 3.7,3.2 71.6,8.8 -0.2,10.1 -24.6,22.6 -40.8,-1 z m 9,44.3 39.8,3.7 27.9,28.1 -23.2,13.1 -64.2,-3.7 z m 48,-40.8 -21.5,-32.4 2,-5.9 38.8,-11.3 12.1,37.3 c 0,0 -5.7,2.1 -8.2,6.6 -2.5,4.5 -3.3,8.6 -3.3,8.6 z m -37.9,-107.2 28.9,-0.8 2.3,58.6 -23.4,6.8 c 0,0 -0.4,-3.1 -1.8,-4.5 -1.4,-1.4 -3.9,-1.6 -3.9,-1.6 h -8.2 z m 35.4,1.6 38.1,-3.5 17.8,27.9 -36.3,25.2 -18,3.7 c -0.1,0 -1.6,-53.3 -1.6,-53.3 z m 54.1,-1.2 c 0,0 5.3,-0.4 8.4,-1 3.1,-0.6 13.3,-3.1 20.5,-5.9 7.2,-2.7 26.8,-2.3 26.8,-2.3 l -5.9,38.8 14.4,3.5 c 0,0 -5.1,15.4 -5.3,15.4 -0.2,0 -10.3,-1.8 -16.6,-0.2 -6.2,1.6 -9,5.5 -9,5.5 z m 10.7,36.1 12.3,19.9 c 0,0 -5.9,5.3 -5.7,14.2 0.2,9 6.1,15.4 6.1,15.4 l -15.2,11.3 c 0,0 -3.3,-3.9 -8.8,-4.3 -5.5,-0.4 -10.9,1.6 -10.9,1.6 L 393.2,93.8 Z m -57.4,107.6 22.1,-20.3 c 0,0 2,8 7.2,12.3 5.3,4.3 16.8,3.7 16.8,3.7 l 0.6,15.6 -19.9,12.9 z m 14.3,51.1 43.9,-21.3 c 0,0 8.8,5.3 8.8,5.1 0,-0.2 -10.5,34.8 -10.5,34.8 l -37.7,-8.8 z m 46.6,-80.6 18,-13.3 c 0,0 4.1,3.1 7.2,4.5 3.1,1.4 11.7,1.6 11.7,1.6 l -0.4,16.8 c 0,0 -26.4,6.2 -26.4,6.1 0,-0.2 -1.4,-5.9 -3.5,-9 -2.1,-3.2 -6.6,-6.7 -6.6,-6.7 z m 43,-42.4 4.9,-16.4 32,8 -7,26 h -15.6 c 0,0 -2,-6.4 -4.9,-10.4 -3,-3.8 -9.4,-7.2 -9.4,-7.2 z m 22.2,-47.2 16.4,-26 c 0,0 11.5,5.9 17.4,12.3 5.9,6.4 12.9,16.2 12.9,16.2 L 525.7,80 Z m 40.2,49 26.9,-39.2 c 0,0 8.6,9.4 12.9,22.1 4.3,12.7 5.9,26.3 5.9,26.3 l -25,16.2 z m 11.2,51 -15.4,-20.5 -11.1,-3.7 c 0,0 -1.4,5.9 -4.7,9.4 -3.3,3.5 -9.8,4.7 -9.8,4.7 l 9.8,13.7 c 0,0 5.9,-3.3 11.1,-2.9 5.3,0.4 11.7,5.9 11.7,5.9 z m -102.5,38.2 -0.2,-8.2 c 0,0 4.1,-1.4 6,-4.1 2,-2.7 2,-8 2,-8 l 11.9,-2.1 11.7,16.4 -3.7,3.5 c 0,0 -6.2,-6.1 -12.1,-3.3 -5.9,2.7 -7.8,9.4 -7.8,9.4 z m -2,46.7 37.1,2.9 c 0,0 -11.3,19.9 -11.3,19.7 0,-0.2 -9.4,-5.9 -13.9,-9.8 -4.5,-3.9 -11.9,-12.8 -11.9,-12.8 z m 56.2,18.1 15.4,-4.5 9.2,16.6 c 0,0 -6.2,3.5 -11.9,5.1 -5.7,1.6 -15.2,1 -15.2,1 z m 50.6,-13.8 18.2,-0.2 4.7,6.6 c 0,0 -4.5,6.1 -8.4,8.4 -3.9,2.3 -12.3,6.2 -12.3,6.2 z m -36.3,-20.5 27.7,-0.2 -10.3,-23.4 -6.1,-2.3 -10.3,9.8 c 0,0 2.5,3.9 2.5,8.2 0,4.3 -3.5,7.9 -3.5,7.9 z m 72.4,-23.5 7.4,11.1 5.7,-14.1 -5.9,-1.6 z m -32,-29.4 15.8,-20.5 c 0,0 5.1,11.1 6,17.8 1,6.6 0.4,19.5 0.4,19.5 l -16.8,-3.5 c 0,0 1,-4.1 -0.4,-7.6 -1.3,-3.6 -5,-5.7 -5,-5.7 z m -98.8,37.2 -2.3,18.9 24,1.9 -0.2,-9.2 c 0,0 -8.6,2.7 -12.9,-1.2 -4.3,-3.9 -4.7,-9.2 -4.5,-9.2 0.2,0 -4.1,-1.2 -4.1,-1.2 z m 55.5,-41.7 v 7.2 l 10,14.8 3.7,-3.9 c 0,0 -3.7,-3.1 -4.1,-6.4 -0.4,-3.3 1,-6.4 1,-6.4 l -7.8,-5.9 z m -84.4,-150.9 1,-14.4 c 0,0 0.4,-1.8 1.8,-2.5 1.4,-0.8 3.9,-0.8 3.9,-0.8 l 41.2,7.6 -0.4,10.1 c 0,0 -13.7,-2.9 -24.2,-3.1 -10.6,-0.2 -23.3,3.1 -23.3,3.1 z m 97.4,-7.8 22.5,5.9 c 0,0 1.8,0 3.5,2 1.8,2 0.4,5.7 0.6,5.7 0.2,0 -3.3,12.5 -3.3,12.1 0,-0.4 -6.2,-5.9 -11.1,-9.4 -4.9,-3.5 -11.9,-5.9 -11.9,-5.9 z"
+   style="fill:#ffffff;fill-opacity:1" /></g>
+</g></g><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:'Anton SC';-inkscape-font-specification:'Anton SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;white-space:pre;inline-size:54.1366;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       x="314.67221"
+       y="29.803797"
+       id="text56"
+       transform="matrix(1.6358447,0,0,1.6358447,-407.33514,-32.08644)"><tspan
+         x="314.67221"
+         y="29.803797"
+         id="tspan345">Stoppt die </tspan><tspan
+         x="314.67221"
+         y="36.859358"
+         id="tspan346">Zerstörung von </tspan><tspan
+         x="314.67221"
+         y="43.914919"
+         id="tspan347">Videospielen!</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1;font-family:'Anton SC';-inkscape-font-specification:'Anton SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;white-space:pre;inline-size:64.7765;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       x="408.57138"
+       y="46.301521"
+       id="text62"
+       transform="translate(100.54167,57.67917)"><tspan
+         x="408.57138"
+         y="46.301521"
+         id="tspan349"><tspan
+           dx="0 0 0 0 1.4017147 0 0 0 0 1.4017147 0 0 0 0 1.4017166"
+           id="tspan348">Was kann eine Europäische </tspan></tspan><tspan
+         x="408.57138"
+         y="51.945962"
+         id="tspan350">Bürgerinitiative erreichen?</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;white-space:pre;inline-size:84.1607;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.05833;stroke-dasharray:none"
+       x="411.45416"
+       y="62.570755"
+       id="text195"
+       transform="translate(100.54167,52.916671)"><tspan
+         x="411.45416"
+         y="62.570755"
+         id="tspan352"><tspan
+           dx="0 0 0 0 0 1.7022181 0 0 0 0 0 0 0 0 0 0 0 0 1.7022195 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.7022195 0 0 0 0 0 1.7022195"
+           id="tspan351">Eine erfolgreiche Bürgerinitiative setzt das </tspan></tspan><tspan
+         x="411.45416"
+         y="66.804087"
+         id="tspan354"><tspan
+           dx="0 0 0 0 0 0 1.2509112 0 0 0 1.2509122 0 0 0 1.2509128 0 0 0 0 0 0 0 0 0 0 0 0 1.2509141 0 0 0 1.2509103 0 0 0 1.2509103"
+           id="tspan353">Thema auf die Tagesordnung der EU. Das </tspan></tspan><tspan
+         x="411.45416"
+         y="71.037416"
+         id="tspan356"><tspan
+           dx="0 0 0 0 0 0.12987757 0 0 0 0 0 0.12987757 0 0 0 0 0 0 0 0 0.12987757 0 0 0.12988138 0 0 0 0 0 0.12987757 0 0 0 0 0 0.12987757"
+           id="tspan355">muss nicht zwingend zu einem neuen Gesetz </tspan></tspan><tspan
+         x="411.45416"
+         y="75.270746"
+         id="tspan358"><tspan
+           dx="0 0 0 0 0 0 0 0 0.10464334 0 0 0 0 0.10464334 0 0 0.10464334 0 0 0 0 0 0.10464334 0 0 0.10464334 0 0 0 0 0 0.10464334 0 0 0 0 0.10464334 0 0 0 0 0 0 0.10464716"
+           id="tspan357">führen, aber es kann. In jedem Fall bringt eine </tspan></tspan><tspan
+         x="411.45416"
+         y="79.504076"
+         id="tspan360"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 2.2207036 0 0 0 0 0 0 0 0 0 0 2.2207055 0 0 0 2.2207055"
+           id="tspan359">erfolgreiche Initiative den metaphorischen </tspan></tspan><tspan
+         x="411.45416"
+         y="83.737406"
+         id="tspan361">Stein dafür ins Rollen.</tspan></text></g><style
+     type="text/css"
+     id="style1">
+	.st0{fill:#FFFFFF;}
+</style></svg>

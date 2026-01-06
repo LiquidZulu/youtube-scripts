@@ -1,8 +1,22 @@
 import { Circle, makeScene2D, Rect, Txt } from "@motion-canvas/2d";
-import { createRef, createSignal, waitFor } from "@motion-canvas/core";
+import {
+  createRef,
+  createSignal,
+  waitFor,
+  waitUntil,
+} from "@motion-canvas/core";
+import { McasTxt, mkSubtitles, subtitlesProps } from "mcas";
 
 export default makeScene2D(function* (view) {
   // Create your animations here
+
+  yield* mkSubtitles(view, [
+    <McasTxt {...subtitlesProps}>Hello my name is</McasTxt>,
+    <McasTxt {...subtitlesProps}>whatever</McasTxt>,
+    <McasTxt {...subtitlesProps}>and this is a</McasTxt>,
+    <McasTxt {...subtitlesProps}>test and doesn't really matter</McasTxt>,
+    <McasTxt {...subtitlesProps}>and I am just seeing how it looks</McasTxt>,
+  ]);
 
   const scale = createSignal(1);
 

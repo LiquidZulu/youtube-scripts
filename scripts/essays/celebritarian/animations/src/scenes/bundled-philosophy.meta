@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "m branch",
+      "targetTime": 3.1919935219322206
+    },
+    {
+      "name": "m elaboration",
+      "targetTime": 4.355160604613491
+    },
+    {
+      "name": "e branch",
+      "targetTime": 5.38792812078474
+    },
+    {
+      "name": "e elaboration",
+      "targetTime": 6.496706175905587
+    },
+    {
+      "name": "eth branch",
+      "targetTime": 7.496706175905587
+    },
+    {
+      "name": "eth elaboration",
+      "targetTime": 8.482230196637211
+    },
+    {
+      "name": "end",
+      "targetTime": 24.29709264751252
+    }
+  ],
+  "seed": 1965658564
+}

@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "god told prophet",
+      "targetTime": 11.641586280814572
+    },
+    {
+      "name": "h0",
+      "targetTime": 12.170383663604193
+    },
+    {
+      "name": "dont get the point",
+      "targetTime": 27.728976666536674
+    },
+    {
+      "name": "h1",
+      "targetTime": 28.543489367496875
+    },
+    {
+      "name": "end",
+      "targetTime": 58.3893887342644
+    }
+  ],
+  "seed": 623903739
+}

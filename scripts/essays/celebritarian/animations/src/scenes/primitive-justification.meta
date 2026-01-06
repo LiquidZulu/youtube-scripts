@@ -1,0 +1,106 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "indicate self ownership",
+      "targetTime": 1
+    },
+    {
+      "name": "homesteading",
+      "targetTime": 3.5004237369060744
+    },
+    {
+      "name": "trade",
+      "targetTime": 4.226435222505788
+    },
+    {
+      "name": "establish libertarian legal theory",
+      "targetTime": 4.959017487882107
+    },
+    {
+      "name": "error",
+      "targetTime": 8.17204617024062
+    },
+    {
+      "name": "roth in",
+      "targetTime": 9.17204617024062
+    },
+    {
+      "name": "self own again",
+      "targetTime": 13.667244251028217
+    },
+    {
+      "name": "homesteading again",
+      "targetTime": 14.667244251028217
+    },
+    {
+      "name": "trade again",
+      "targetTime": 15.364138239676192
+    },
+    {
+      "name": "mathematical equivalent",
+      "targetTime": 25.26084187026747
+    },
+    {
+      "name": "pythagoras in",
+      "targetTime": 25.641834766362795
+    },
+    {
+      "name": "trig in",
+      "targetTime": 29.150538331461718
+    },
+    {
+      "name": "axioms in",
+      "targetTime": 33.17227475761181
+    },
+    {
+      "name": "back to trig",
+      "targetTime": 38.12905502503217
+    },
+    {
+      "name": "back to beginning",
+      "targetTime": 54.3859209171472
+    },
+    {
+      "name": "indicate self ownership 1",
+      "targetTime": 57.60251492237734
+    },
+    {
+      "name": "homesteading 1",
+      "targetTime": 59.29282583822259
+    },
+    {
+      "name": "trade 1",
+      "targetTime": 60.784050463515584
+    },
+    {
+      "name": "indicate ands",
+      "targetTime": 63.396769450869684
+    },
+    {
+      "name": "foundation",
+      "targetTime": 74.33296558243211
+    },
+    {
+      "name": "subtitle in",
+      "targetTime": 77.26336528806894
+    },
+    {
+      "name": "nums in",
+      "targetTime": 84.36659654856201
+    },
+    {
+      "name": "solution 1",
+      "targetTime": 86.26710131256121
+    },
+    {
+      "name": "solution 2",
+      "targetTime": 87.78849936746724
+    },
+    {
+      "name": "solution 3",
+      "targetTime": 89.04919839492025
+    }
+  ],
+  "seed": 540183621
+}

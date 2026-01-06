@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "rightist",
+      "targetTime": 2.696641657734908
+    },
+    {
+      "name": "leftist",
+      "targetTime": 3.9453018935334074
+    },
+    {
+      "name": "end",
+      "targetTime": 5.955484101464812
+    }
+  ],
+  "seed": 2875139681
+}
